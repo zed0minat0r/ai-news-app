@@ -67,4 +67,13 @@
 ### Fixed
 - Muted text color bumped from #8b949e to #9ca3af to pass WCAG AA contrast ratio on dark background
 - Search input now has proper padding for icon and clear button
+
+## [0.5.0] — 2026-04-01 (Spark)
+
+### Added
+- Alternating hero card layout: every 5th card in the grid uses a horizontal thumbnail-left/content-right layout that spans the full grid width, breaking visual monotony and creating rhythm in the feed
+- Hero cards scale gracefully across breakpoints (stacked on very small screens, side-by-side on 380px+, wider thumbnails on tablet/desktop)
+
+### Fixed
+- Muted text contrast bumped from #9ca3af to #adb5bd for stronger WCAG AA compliance on dark backgrounds (addresses Audit recommendation #3)
 - Muted text color adjusted to #9ca3af for improved WCAG contrast ratio

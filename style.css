@@ -7,7 +7,7 @@
   --surface-hover: #1c2129;
   --border: #30363d;
   --text: #e6edf3;
-  --text-muted: #9ca3af;
+  --text-muted: #adb5bd;
   --accent: #58a6ff;
   --accent-glow: rgba(88, 166, 255, 0.15);
   --breaking: #f85149;
@@ -343,6 +343,65 @@ main {
   font-size: 0.75rem;
 }
 
+/* ===== ALTERNATING HERO CARDS ===== */
+/* Every 5th card gets a wider, horizontal "hero" treatment for visual variety */
+.card-grid .card:nth-child(5n + 1) {
+  grid-column: 1 / -1;
+  display: grid;
+  grid-template-columns: 120px 1fr;
+  grid-template-rows: auto;
+  gap: 0 1rem;
+  align-items: start;
+  text-align: left;
+  padding: 1.15rem;
+  border-left-width: 4px;
+}
+
+.card-grid .card:nth-child(5n + 1) .card-thumb {
+  grid-row: 1 / 4;
+  height: 100%;
+  min-height: 90px;
+  margin-bottom: 0;
+  border-radius: 8px;
+}
+
+.card-grid .card:nth-child(5n + 1) .card-tag {
+  grid-column: 2;
+  justify-self: start;
+}
+
+.card-grid .card:nth-child(5n + 1) h3 {
+  grid-column: 2;
+  font-size: 1.05rem;
+}
+
+.card-grid .card:nth-child(5n + 1) .summary {
+  grid-column: 2;
+}
+
+.card-grid .card:nth-child(5n + 1) .meta {
+  grid-column: 2;
+}
+
+/* On very small screens (< 380px), stack hero cards vertically */
+@media (max-width: 379px) {
+  .card-grid .card:nth-child(5n + 1) {
+    grid-template-columns: 1fr;
+    text-align: center;
+  }
+  .card-grid .card:nth-child(5n + 1) .card-thumb {
+    grid-row: auto;
+    height: 100px;
+    margin-bottom: 0.75rem;
+  }
+  .card-grid .card:nth-child(5n + 1) .card-tag,
+  .card-grid .card:nth-child(5n + 1) h3,
+  .card-grid .card:nth-child(5n + 1) .summary,
+  .card-grid .card:nth-child(5n + 1) .meta {
+    grid-column: 1;
+  }
+}
+
 /* ===== CATEGORY ACCENT BARS ===== */
 .card[data-category="models"]   { border-left: 3px solid var(--tag-models); }
 .card[data-category="hardware"] { border-left: 3px solid var(--tag-hardware); }
@@ -412,6 +471,10 @@ footer {
     grid-template-columns: repeat(2, 1fr);
   }
 
+  .card-grid .card:nth-child(5n + 1) {
+    grid-template-columns: 160px 1fr;
+  }
+
   .featured-card h2 { font-size: 1.5rem; }
 
   .logo h1 { font-size: 2rem; }
@@ -433,4 +496,12 @@ footer {
 
   .card { text-align: left; }
   .card-tag { margin-bottom: 0.6rem; }
+
+  .card-grid .card:nth-child(5n + 1) {
+    grid-template-columns: 180px 1fr;
+  }
+
+  .card-grid .card:nth-child(5n + 1) h3 {
+    font-size: 1.1rem;
+  }
 }
