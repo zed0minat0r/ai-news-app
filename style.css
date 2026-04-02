@@ -354,6 +354,25 @@ main {
   border-color: var(--accent);
 }
 
+/* ===== CARD LINK (stretched over card) ===== */
+.card-link {
+  color: inherit;
+  text-decoration: none;
+}
+
+.card-link::after {
+  content: "";
+  position: absolute;
+  inset: 0;
+  z-index: 0;
+}
+
+.card-footer,
+.featured-footer {
+  position: relative;
+  z-index: 1;
+}
+
 .share-btn-sm {
   padding: 0.3rem 0.8rem;
   font-size: 0.75rem;
@@ -389,6 +408,10 @@ main {
 .trending-grid {
   display: flex;
   flex-direction: column;
+  list-style: none;
+  padding: 0;
+  margin: 0;
+  counter-reset: trending;
 }
 
 .trending-item {
@@ -400,6 +423,17 @@ main {
   transition: background 0.15s;
   border-radius: 6px;
   text-align: left;
+  counter-increment: trending;
+}
+
+.trending-item::before {
+  content: counter(trending);
+  font-size: 1.25rem;
+  font-weight: 700;
+  color: var(--accent);
+  min-width: 1.5rem;
+  text-align: center;
+  flex-shrink: 0;
 }
 
 .trending-item:last-child {
@@ -408,15 +442,6 @@ main {
 
 .trending-item:active {
   background: var(--surface-hover);
-}
-
-.trending-rank {
-  font-size: 1.25rem;
-  font-weight: 800;
-  color: var(--accent);
-  min-width: 1.75rem;
-  text-align: center;
-  flex-shrink: 0;
 }
 
 .trending-info {
@@ -449,6 +474,8 @@ main {
 
 /* ===== CARD GRID ===== */
 .card-grid {
+  max-width: 100%;
+  overflow: hidden;
   display: grid;
   grid-template-columns: 1fr;
   gap: 1rem;
@@ -456,6 +483,7 @@ main {
 
 .card {
   display: block;
+  position: relative;
   background: var(--surface);
   border: 1px solid var(--border);
   border-radius: var(--radius);
