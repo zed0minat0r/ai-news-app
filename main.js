@@ -713,8 +713,12 @@ function sortArticles(arr) {
 function buildHeroCard(article) {
   const icon = CATEGORY_ICONS[article.category] || "\u{1F4F0}";
   const readMin = estimateReadTime(article.summary);
+  const heroImageHTML = article.image
+    ? `<div class="hero-image"><img src="${article.image}" alt="" width="600" height="338" loading="eager" onerror="this.parentElement.style.display='none'"></div>`
+    : "";
   return `
     <article class="hero-card" aria-labelledby="hero-title">
+      ${heroImageHTML}
       <div class="hero-icon" aria-hidden="true">${icon}</div>
       <span class="hero-label">Breaking</span>
       <h2 id="hero-title"><a href="${article.url}" target="_blank" rel="noopener" class="card-link">${article.title}</a></h2>

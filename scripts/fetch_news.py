@@ -41,6 +41,9 @@ FEEDS = [
     # Tools-focused feeds (improve Tools category balance)
     {"url": "https://huggingface.co/blog/feed.xml",                                "name": "Hugging Face Blog"},
     {"url": "https://www.producthunt.com/feed?category=ai",                        "name": "Product Hunt AI"},
+    {"url": "https://simonwillison.net/atom/everything/",                          "name": "Simon Willison"},
+    {"url": "https://blog.langchain.dev/rss/",                                     "name": "LangChain Blog"},
+    {"url": "https://wandb.ai/fully-connected/rss.xml",                            "name": "Weights & Biases"},
 ]
 
 # ── Category Keywords ────────────────────────────────────────
@@ -360,6 +363,21 @@ def main():
 
     # Keep top 50
     top50 = unique[:50]
+
+    # Ensure the featured (newest) article has an image — try harder
+    if top50 and not top50[0].get("image"):
+        print("\n[HERO] Featured article has no image, trying harder...", file=sys.stderr)
+        img = fetch_og_image(top50[0]["url"])
+        if img:
+            top50[0]["image"] = img
+            print(f"  [HERO] Found image for featured article", file=sys.stderr)
+        else:
+            # Try the next articles until we find one with an image to swap as featured
+            for j in range(1, min(5, len(top50))):
+                if top50[j].get("image"):
+                    print(f"  [HERO] Swapping featured to article with image: {top50[j]['title'][:50]}", file=sys.stderr)
+                    top50[0], top50[j] = top50[j], top50[0]
+                    break
 
     # Add IDs
     for i, article in enumerate(top50):

@@ -1,5 +1,22 @@
 # Changelog
 
+## 2026-04-01 — v3.6.0 — Hero image, tool feeds, full-card tap targets (Refiner)
+
+### Hero Card Image (CRITICAL fix from v8 audit)
+- `buildHeroCard()` now renders the article's OG image as a full-width 16:9 hero image above the title when available
+- Added `.hero-image` CSS with `aspect-ratio: 16/9`, `object-fit: cover`, border-radius matching the card top, and responsive width overrides at desktop breakpoint
+- Image includes `width`/`height` attributes to prevent CLS and `onerror` fallback to hide gracefully
+- `fetch_news.py`: featured article now gets priority OG image fetching — retries harder, and if still no image, swaps with the nearest article that has one
+
+### Tool-Focused RSS Feeds (HIGH — fix Tools category)
+- Added 3 new tool-heavy RSS feeds: Simon Willison's blog, LangChain blog, Weights & Biases
+- Tools category has been stuck at 2 articles for 5 audits — these feeds produce regular AI tool content
+
+### Full-Card Tap Targets (HIGH — mobile UX)
+- `.card-link::after` stretch technique (already in CSS) now paired with `cursor: pointer` on `.card` and `.hero-card` for clear clickability
+- Added `:active` press feedback (`scale(0.99)`) on hero card matching regular card behavior
+- Share button remains clickable above the link overlay via `z-index: 1` on card footers
+
 ## 2026-04-01 — v3.5.0 — WCAG contrast fixes & nav pill scroll centering
 
 ### Accessibility — Tag Contrast (WCAG 3:1 minimum)
