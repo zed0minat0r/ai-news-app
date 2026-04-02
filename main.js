@@ -587,6 +587,58 @@ let activeCategory = "all";
 let sortOrder = "newest";
 const ARTICLES_PER_PAGE = 12;
 let visibleCount = ARTICLES_PER_PAGE;
+let debounceTimer = null;
+
+/* =========================================================
+   DEEP LINKING — read URL params on load
+   ========================================================= */
+function readURLParams() {
+  const params = new URLSearchParams(window.location.search);
+  if (params.has("category")) {
+    const cat = params.get("category").toLowerCase();
+    const valid = ["all", "models", "hardware", "research", "tools", "industry"];
+    if (valid.includes(cat)) activeCategory = cat;
+  }
+  if (params.has("q")) {
+    searchInput.value = params.get("q");
+  }
+  if (params.has("sort")) {
+    const s = params.get("sort").toLowerCase();
+    if (s === "oldest" || s === "newest") sortOrder = s;
+    if (sortToggle) sortToggle.textContent = sortOrder === "newest" ? "Newest first" : "Oldest first";
+  }
+  // Sync pill UI
+  categoryBtns.forEach(b => {
+    b.classList.remove("active");
+    b.setAttribute("aria-pressed", "false");
+    if (b.dataset.category === activeCategory) {
+      b.classList.add("active");
+      b.setAttribute("aria-pressed", "true");
+    }
+  });
+}
+
+function updateURLParams() {
+  const params = new URLSearchParams();
+  if (activeCategory !== "all") params.set("category", activeCategory);
+  const q = searchInput.value.trim();
+  if (q) params.set("q", q);
+  if (sortOrder !== "newest") params.set("sort", sortOrder);
+  const qs = params.toString();
+  const newURL = window.location.pathname + (qs ? "?" + qs : "");
+  history.replaceState(null, "", newURL);
+}
+
+/* =========================================================
+   SEARCH HIGHLIGHT HELPER
+   ========================================================= */
+function highlightText(text, query) {
+  if (!query) return text;
+  // Escape regex special chars in query
+  const escaped = query.replace(/[.*+?^${}()|[\]\\]/g, "\\$&");
+  const regex = new RegExp("(" + escaped + ")", "gi");
+  return text.replace(regex, "<mark>$1</mark>");
+}
 
 const CATEGORY_ICONS = {
   models: "\u{1F9E0}",
@@ -683,15 +735,17 @@ function buildTrendingChip(article) {
     </a>`;
 }
 
-function buildCard(article) {
+function buildCard(article, query) {
   const icon = CATEGORY_ICONS[article.category] || "\u{1F4F0}";
   const readMin = estimateReadTime(article.summary);
+  const titleHTML = query ? highlightText(article.title, query) : article.title;
+  const summaryHTML = query ? highlightText(article.summary, query) : article.summary;
   return `
     <article class="card" data-category="${article.category}">
       <div class="card-thumb ${article.category}" aria-hidden="true">${icon}</div>
       <span class="card-tag ${article.category}">${article.category}</span>
-      <h3><a href="${article.url}" target="_blank" rel="noopener" class="card-link">${article.title}</a></h3>
-      <p class="summary">${article.summary}</p>
+      <h3><a href="${article.url}" target="_blank" rel="noopener" class="card-link">${titleHTML}</a></h3>
+      <p class="summary">${summaryHTML}</p>
       <div class="card-footer">
         <p class="meta">${article.source} &middot; ${timeAgo(article.date)} &middot; <span class="read-time">${readMin} min read</span></p>
         <button class="share-btn" onclick="shareArticle(event, '${escapeTitle(article.title)}', '${article.url}')" aria-label="Share article">Share</button>
@@ -738,6 +792,7 @@ function updatePillCounts() {
    ========================================================= */
 function render() {
   updatePillCounts();
+  updateURLParams();
   const query = searchInput.value.toLowerCase().trim();
   const isHomepage = activeCategory === "all" && !query;
 
@@ -820,7 +875,7 @@ function render() {
     const visible = filtered.slice(0, visibleCount);
     const remaining = filtered.length - visibleCount;
 
-    newsGrid.innerHTML = visible.map(buildCard).join("");
+    newsGrid.innerHTML = visible.map(a => buildCard(a, query)).join("");
 
     if (remaining > 0) {
       loadMoreBtn.textContent = "Load more (" + remaining + ")";
@@ -845,6 +900,14 @@ function activateCategory(cat) {
   });
   activeCategory = cat;
   visibleCount = ARTICLES_PER_PAGE;
+  // Push state so browser back/forward works between categories
+  const params = new URLSearchParams();
+  if (cat !== "all") params.set("category", cat);
+  const q = searchInput.value.trim();
+  if (q) params.set("q", q);
+  if (sortOrder !== "newest") params.set("sort", sortOrder);
+  const qs = params.toString();
+  history.pushState(null, "", window.location.pathname + (qs ? "?" + qs : ""));
   render();
   window.scrollTo({ top: 0, behavior: "smooth" });
 }
@@ -859,8 +922,11 @@ categoryBtns.forEach(btn => {
 });
 
 searchInput.addEventListener("input", () => {
-  visibleCount = ARTICLES_PER_PAGE;
-  render();
+  clearTimeout(debounceTimer);
+  debounceTimer = setTimeout(() => {
+    visibleCount = ARTICLES_PER_PAGE;
+    render();
+  }, 250);
 });
 
 sortToggle.addEventListener("click", () => {
@@ -886,6 +952,7 @@ searchClear.addEventListener("click", () => {
   searchInput.value = "";
   searchInput.focus();
   visibleCount = ARTICLES_PER_PAGE;
+  clearTimeout(debounceTimer);
   render();
 });
 
@@ -903,8 +970,18 @@ function updateTimestamp() {
 
 footerYear.textContent = new Date().getFullYear();
 updateTimestamp();
+readURLParams();
 hideSkeleton();
 render();
+
+/* =========================================================
+   POPSTATE — handle browser back/forward
+   ========================================================= */
+window.addEventListener("popstate", () => {
+  readURLParams();
+  visibleCount = ARTICLES_PER_PAGE;
+  render();
+});
 
 /* =========================================================
    TRENDING SCROLL INDICATORS

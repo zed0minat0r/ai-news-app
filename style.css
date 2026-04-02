@@ -543,6 +543,14 @@ main {
   overflow: hidden;
 }
 
+/* Search highlight */
+mark {
+  background: rgba(255, 200, 50, 0.3);
+  color: inherit;
+  border-radius: 2px;
+  padding: 0 1px;
+}
+
 .card .meta {
   color: var(--text-muted);
   font-size: 0.75rem;

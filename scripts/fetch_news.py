@@ -32,6 +32,14 @@ FEEDS = [
     {"url": "https://hnrss.org/newest?q=AI+OR+LLM+OR+GPT",                        "name": "Hacker News"},
     {"url": "https://www.technologyreview.com/feed/",                              "name": "MIT Tech Review"},
     {"url": "https://www.wired.com/feed/tag/ai/latest/rss",                        "name": "Wired"},
+    # Research-focused feeds (improve Research category balance)
+    {"url": "https://rss.arxiv.org/rss/cs.AI",                                    "name": "arXiv cs.AI"},
+    {"url": "https://rss.arxiv.org/rss/cs.CL",                                    "name": "arXiv cs.CL"},
+    {"url": "https://rss.arxiv.org/rss/cs.CV",                                    "name": "arXiv cs.CV"},
+    {"url": "https://paperswithcode.com/latest.rss",                               "name": "Papers With Code"},
+    # Tools-focused feeds (improve Tools category balance)
+    {"url": "https://huggingface.co/blog/feed.xml",                                "name": "Hugging Face Blog"},
+    {"url": "https://www.producthunt.com/feed?category=ai",                        "name": "Product Hunt AI"},
 ]
 
 # ── Category Keywords ────────────────────────────────────────

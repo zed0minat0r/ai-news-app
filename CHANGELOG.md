@@ -1,5 +1,18 @@
 # Changelog
 
+## 2026-04-01 — v3.2.0 — Deep Linking, Search Polish & RSS Expansion (Refiner)
+
+### Added
+- **Deep linking via URL params:** Category, search, and sort state are now reflected in the URL using `URLSearchParams` and `history.pushState`. Users can share filtered views (e.g., `?category=hardware&q=nvidia&sort=oldest`). Browser back/forward navigation works between category changes via `popstate` listener.
+- **Search debounce (250ms):** Search input no longer fires on every keystroke — uses a 250ms debounce timer for smoother performance.
+- **Search result highlighting:** Matching text in article titles and summaries is wrapped in `<mark>` tags with a warm amber highlight, making it easy to spot matches in results.
+- **6 new RSS feeds in fetch_news.py:** arXiv cs.AI, arXiv cs.CL, arXiv cs.CV (Research), Papers With Code (Research), Hugging Face Blog (Tools), Product Hunt AI (Tools). This directly addresses the category imbalance (Research had only 1 article, Tools had only 3).
+
+### Notes
+- Mobile-first, center-aligned layout preserved
+- No structural HTML changes — JS logic + CSS additions only
+- RSS feed additions target the two weakest categories identified in AUDIT v5
+
 ## 2026-04-01 — v3.1.0 — Loading States, Scroll Indicators & Accessibility (Refiner)
 
 ### Added
