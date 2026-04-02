@@ -323,14 +323,6 @@ main {
   margin-bottom: 0.75rem;
 }
 
-.featured-footer {
-  display: flex;
-  align-items: center;
-  justify-content: center;
-  gap: 1rem;
-  flex-wrap: wrap;
-}
-
 .featured-card .meta {
   color: var(--text-muted);
   font-size: 0.75rem;
@@ -362,8 +354,6 @@ main {
 }
 
 .share-btn-sm {
-  min-width: 44px;
-  min-height: 44px;
   padding: 0.3rem 0.8rem;
   font-size: 0.75rem;
 }
@@ -398,7 +388,6 @@ main {
 .trending-grid {
   display: flex;
   flex-direction: column;
-  gap: 0;
 }
 
 .trending-item {
@@ -696,8 +685,6 @@ footer {
     padding: 2rem;
   }
 
-  .featured-card h2 { font-size: 1.75rem; }
-
   .card { text-align: left; }
   .card-tag { margin-bottom: 0.6rem; }
   .card-footer { justify-content: flex-start; }
@@ -709,7 +696,6 @@ footer {
   .trending-grid {
     flex-direction: row;
     flex-wrap: wrap;
-    gap: 0;
   }
   .trending-item {
     flex: 1 1 calc(50% - 1rem);

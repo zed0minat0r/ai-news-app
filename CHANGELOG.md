@@ -153,3 +153,15 @@
 ### Research
 - Identified GeoBarta as key new competitor (60-second AI briefings, free + Pro tiers)
 - Found that search/aggregators (33%) now surpass social media as top news gateway — validates AI Pulse market positioning
+
+## [2026-04-02] Razor — Code Cleanup Pass
+
+### Removed (77 lines net)
+- **style.css (14 lines):** Removed duplicate `.featured-footer` block (overridden by `.card-footer, .featured-footer` combo rule), duplicate `.featured-card h2` in desktop media query, redundant `gap: 0` on `.trending-grid` (default for flexbox) in base and desktop, redundant `min-width`/`min-height` on `.share-btn-sm` (inherited from `.share-btn`)
+- **main.js (63 lines):** Removed 7 duplicate fallback articles (IDs 38-44) from Builder batch that conflicted with Scout Cycle 3 entries carrying the same IDs
+
+### Notes
+- No dead CSS selectors found — all selectors match live HTML elements
+- No dead JS functions — all defined functions are called, all event listeners target existing elements
+- `pulse-glow` keyframe animation is used by `.featured-label` — retained
+- Did NOT touch `scripts/fetch_news.py` or `.github/workflows/` per rules
