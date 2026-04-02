@@ -965,6 +965,35 @@ searchClear.addEventListener("click", () => {
 });
 
 /* =========================================================
+   BOTTOM NAVIGATION BAR — wire up category switching
+   ========================================================= */
+const bottomNavBtns = document.querySelectorAll(".bottom-nav-btn");
+
+function syncBottomNav(cat) {
+  bottomNavBtns.forEach(b => {
+    b.classList.remove("active");
+    b.setAttribute("aria-pressed", "false");
+    if (b.dataset.category === cat) {
+      b.classList.add("active");
+      b.setAttribute("aria-pressed", "true");
+    }
+  });
+}
+
+bottomNavBtns.forEach(btn => {
+  btn.addEventListener("click", () => {
+    activateCategory(btn.dataset.category);
+  });
+});
+
+// Keep bottom nav in sync whenever top pills change
+const _origActivate = activateCategory;
+activateCategory = function(cat) {
+  _origActivate(cat);
+  syncBottomNav(cat);
+};
+
+/* =========================================================
    TIMESTAMP & INIT
    ========================================================= */
 function updateTimestamp() {
@@ -979,6 +1008,7 @@ function updateTimestamp() {
 footerYear.textContent = new Date().getFullYear();
 updateTimestamp();
 readURLParams();
+syncBottomNav(activeCategory);
 hideSkeleton();
 render();
 
@@ -987,6 +1017,7 @@ render();
    ========================================================= */
 window.addEventListener("popstate", () => {
   readURLParams();
+  syncBottomNav(activeCategory);
   visibleCount = ARTICLES_PER_PAGE;
   render();
 });

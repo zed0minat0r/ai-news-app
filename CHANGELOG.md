@@ -514,3 +514,12 @@
 - Increased `.chip-tag` background alpha from 0.18 to 0.28 for better text-on-background contrast
 - Increased `.card-tag` background alpha from 0.15 to 0.25 for better text-on-background contrast
 - Addresses remaining QA contrast flags (~32 elements below 3:1)
+
+### Bottom Nav — Visual Polish & JavaScript Wiring (Spark)
+- Added glassmorphism effect to bottom nav: semi-transparent background with backdrop-filter blur
+- Added animated active indicator line (slides in from center above the active icon)
+- Added category-specific active colors: Models (purple), Hardware (green), Research (orange), Tools (blue), Industry (pink) — matches existing tag color system
+- Added subtle tap scale feedback (0.92x) for tactile feel
+- Wired up JavaScript: bottom nav buttons now trigger category switching via activateCategory()
+- Bottom nav syncs with top category pills, deep-link URL params, and browser back/forward (popstate)
+- Respects prefers-reduced-motion: disables transitions when user has motion sensitivity
