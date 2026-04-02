@@ -286,3 +286,15 @@
 - Mobile-first: animations are lightweight (translateY 12px + opacity) to avoid jank on low-end devices.
 - Addresses AUDIT.md recommendation for "missing polish moments" now that the layout structure is mature.
 - Center alignment preserved across all animated elements.
+
+## 2026-04-01 — v3.1.2 — QA Fix: Tap Targets, Tag Contrast & Trending Overflow (Builder)
+
+### Fixed
+- **Article link tap targets enlarged:** Added `min-height: 44px`, `min-width: 44px`, and `display: inline-block` with vertical padding to `.card-link` — fixes QA-reported 27px/17px undersized targets (WCAG 2.5.8 requires 44px minimum).
+- **Category tag contrast improved:** Brightened text colors on `.card-tag` and `.chip-tag` variants (models, hardware, research, tools, industry) from translucent CSS vars to opaque lighter tones, and increased background opacity from 0.15 to 0.25 for better contrast ratios against dark surface.
+- **Trending chips overflow contained:** Added `overflow: hidden` and `max-width: 100%` to `#trending-bar`, `max-width: 100%` to `.trending-scroll`, and `min-width: 0` to `.trending-scroll-wrapper` to prevent chip flex items from pushing past 375px viewport edge.
+
+### Notes
+- All three QA-reported issues addressed in this patch
+- Mobile-first, center-aligned layout preserved
+- No structural HTML changes — CSS-only fixes
