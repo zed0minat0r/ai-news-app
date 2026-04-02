@@ -322,14 +322,15 @@ main {
   display: inline-flex;
   align-items: center;
   justify-content: center;
-  min-height: 36px;
-  padding: 0.35rem 0.85rem;
+  min-width: 44px;
+  min-height: 44px;
+  padding: 0.4rem 1rem;
   border: 1px solid var(--border);
-  border-radius: 18px;
+  border-radius: 22px;
   background: transparent;
   color: var(--text-muted);
   font-family: inherit;
-  font-size: 0.75rem;
+  font-size: 0.8rem;
   font-weight: 500;
   cursor: pointer;
   transition: all 0.2s;
@@ -342,9 +343,10 @@ main {
 }
 
 .share-btn-sm {
-  min-height: 32px;
-  padding: 0.25rem 0.7rem;
-  font-size: 0.7rem;
+  min-width: 44px;
+  min-height: 44px;
+  padding: 0.3rem 0.8rem;
+  font-size: 0.75rem;
 }
 
 /* ===== CARD FOOTER ===== */

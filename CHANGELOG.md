@@ -125,3 +125,10 @@
 - Trending items display as a compact ranked list with category tags, mobile-first
 - Desktop: trending items flow into a 2-column layout for better use of space
 - Hero cards (5n+1) card-footer aligns properly in both stacked mobile and grid desktop views
+
+## [2026-04-01] Spark — Share Button Touch Target Fix
+
+### Fixed
+- Share buttons now meet WCAG 2.1 minimum touch target size (44x44px) — previously 36px / 32px for small variant
+- Added `min-width: 44px` alongside `min-height: 44px` on both `.share-btn` and `.share-btn-sm`
+- Slightly increased font size and padding for better readability and tap comfort on mobile
