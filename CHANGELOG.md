@@ -1,5 +1,20 @@
 # Changelog
 
+## 2026-04-01 — v3.4.0 — Firebase Auth + Google Sign-In (Builder)
+
+### Added
+- **Firebase SDK via CDN:** Added Firebase App and Auth modules (v11.6.0) using ES module imports — no npm required.
+- **Google Sign-In:** Auth button in header with person icon. Opens Google sign-in popup. On success, swaps to user avatar.
+- **Auth state persistence:** Uses `onAuthStateChanged` to maintain login across page reloads.
+- **User avatar in header:** Logged-in users see their Google profile photo (36px circle with accent border). Tap to sign out.
+- **Login/profile icon:** 44px circular button in header top-right, positioned absolutely to keep center alignment.
+
+### Notes
+- Step 1 of dashboard system — Firebase config needs real project credentials from console.firebase.google.com (placeholder values in index.html).
+- CSS-only auth styling, no JS in style.css. Mobile-first, 44px tap targets.
+- Auth UI degrades gracefully — if Firebase config is invalid, button appears but sign-in will fail silently.
+- Newsletter signup (v3.3.0) already in place with Formspree, success states, and full mobile styling.
+
 ## 2026-04-01 — v3.3.0 — Newsletter Signup (Builder)
 
 ### Added

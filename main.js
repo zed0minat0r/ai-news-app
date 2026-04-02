@@ -767,7 +767,7 @@ function buildCategorySection(catKey, articles) {
         <button class="see-all-btn" data-see-all="${catKey}">See all &rarr;</button>
       </div>
       <div class="cat-card-grid">
-        ${top3.map(buildCard).join("")}
+        ${top3.map(a => buildCard(a)).join("")}
       </div>
     </section>`;
 }
@@ -1038,4 +1038,38 @@ window.addEventListener("scroll", () => {
 
 backToTopBtn.addEventListener("click", () => {
   window.scrollTo({ top: 0, behavior: "smooth" });
+});
+
+/* =========================================================
+   NEWSLETTER SIGNUP (Formspree)
+   ========================================================= */
+document.querySelectorAll("form[data-newsletter]").forEach((form) => {
+  form.addEventListener("submit", async (e) => {
+    e.preventDefault();
+    const btn = form.querySelector("button[type='submit']");
+    const emailInput = form.querySelector("input[type='email']");
+    const successEl = form.nextElementSibling; // the .hidden success <p>
+
+    btn.disabled = true;
+    btn.textContent = "Sending...";
+
+    try {
+      const res = await fetch(form.action, {
+        method: "POST",
+        headers: { "Content-Type": "application/json", Accept: "application/json" },
+        body: JSON.stringify({ email: emailInput.value }),
+      });
+
+      if (res.ok) {
+        form.classList.add("hidden");
+        successEl.classList.remove("hidden");
+      } else {
+        btn.textContent = "Try again";
+        btn.disabled = false;
+      }
+    } catch {
+      btn.textContent = "Try again";
+      btn.disabled = false;
+    }
+  });
 });
