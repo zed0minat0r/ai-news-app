@@ -85,16 +85,44 @@ def strip_html(text):
     return text
 
 
+# Keywords that confirm an article is AI-related (must match at least one)
+AI_RELEVANCE_KEYWORDS = [
+    "artificial intelligence", "machine learning", "deep learning",
+    "neural network", "large language model", "llm", "gpt", "claude",
+    "gemini", "chatbot", "generative ai", "diffusion model", "transformer model",
+    "openai", "anthropic", "deepmind", "hugging face", "mistral",
+    "autonomous vehicle", "self-driving", "computer vision", "ai model",
+    "natural language processing", "reinforcement learning", "training data",
+    "ai inference", "ai chip", "ai accelerator", "copilot", "ai agent",
+    "ai startup", "ai regulation", "ai safety", "ai alignment",
+    "ai-powered", "ai tool", "ai assistant", "ai image", "ai video",
+    "ai coding", "ai search", "ai hardware",
+    " ai ", "ai,", "ai.", "ai:", "ai-",  # "ai" as standalone word
+]
+
+
+def is_ai_related(title, summary):
+    """Check if an article is actually about AI."""
+    combined = (" " + title + " " + summary + " ").lower()
+    return any(kw in combined for kw in AI_RELEVANCE_KEYWORDS)
+
+
 def categorize(title, summary):
-    """Auto-categorize an article using keyword matching."""
+    """Auto-categorize an article using keyword matching. Returns None if not AI-related."""
     combined = (title + " " + summary).lower()
     scores = {}
     for cat, keywords in CATEGORY_KEYWORDS.items():
         score = sum(1 for kw in keywords if kw in combined)
         if score > 0:
             scores[cat] = score
-    if not scores:
-        return "industry"  # default
+    total_score = sum(scores.values()) if scores else 0
+    if not scores or total_score < 2:
+        # Low or no keyword match — must pass strict AI relevance check
+        if is_ai_related(title, summary):
+            if scores:
+                return max(scores, key=scores.get)
+            return "industry"
+        return None  # Not AI-related — filter it out
     return max(scores, key=scores.get)
 
 
@@ -162,13 +190,16 @@ def fetch_feed(feed_info):
             description = strip_html(item.findtext("description") or "")
             if not title or not link:
                 continue
+            cat = categorize(title, description)
+            if cat is None:
+                continue  # Not AI-related — skip
             articles.append({
                 "title": title,
                 "url": link,
                 "source": source,
                 "date": parse_date(pub_date),
                 "summary": description[:200] + ("..." if len(description) > 200 else ""),
-                "category": categorize(title, description),
+                "category": cat,
             })
     else:
         # Atom: //entry
@@ -186,13 +217,16 @@ def fetch_feed(feed_info):
             description = strip_html(summary_el)
             if not title or not link:
                 continue
+            cat = categorize(title, description)
+            if cat is None:
+                continue  # Not AI-related — skip
             articles.append({
                 "title": title,
                 "url": link,
                 "source": source,
                 "date": parse_date(updated),
                 "summary": description[:200] + ("..." if len(description) > 200 else ""),
-                "category": categorize(title, description),
+                "category": cat,
             })
 
     print(f"  [OK] {source}: {len(articles)} articles", file=sys.stderr)
