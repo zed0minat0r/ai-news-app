@@ -112,11 +112,12 @@ a { color: inherit; text-decoration: none; }
 #search-input {
   width: 100%;
   padding: 0.6rem 2.25rem;
+  min-height: 44px;
   border: 1px solid var(--border);
   border-radius: 8px;
   background: var(--surface);
   color: var(--text);
-  font-size: 0.95rem;
+  font-size: 1rem;
   font-family: inherit;
   transition: border-color 0.2s;
 }
@@ -169,19 +170,20 @@ a { color: inherit; text-decoration: none; }
   padding: 0.6rem 1rem;
   overflow-x: auto;
   -webkit-overflow-scrolling: touch;
+  scrollbar-width: none;
+  text-align: center;
 }
+#category-nav::-webkit-scrollbar { display: none; }
 
 .nav-inner {
-  display: flex;
-  justify-content: center;
+  display: inline-flex;
   gap: 0.5rem;
   max-width: var(--max-w);
-  margin: 0 auto;
   white-space: nowrap;
 }
 
 .cat-pill {
-  min-height: 40px;
+  min-height: 44px;
   padding: 0.5rem 1rem;
   border: 1px solid var(--border);
   border-radius: 22px;
@@ -342,12 +344,13 @@ main {
 
 .trending-chip {
   flex: 0 0 auto;
-  width: 240px;
+  width: 220px;
   scroll-snap-align: start;
   background: var(--bg);
   border: 1px solid var(--border);
   border-radius: 8px;
   padding: 0.6rem 0.75rem;
+  min-height: 44px;
   text-align: left;
   position: relative;
   transition: border-color 0.2s;
@@ -559,7 +562,7 @@ main {
   align-items: center;
   justify-content: center;
   min-width: 44px;
-  min-height: 36px;
+  min-height: 44px;
   padding: 0.3rem 0.8rem;
   border: 1px solid var(--border);
   border-radius: 18px;
@@ -630,7 +633,7 @@ main {
 .sort-toggle {
   display: inline-flex;
   align-items: center;
-  min-height: 36px;
+  min-height: 44px;
   padding: 0.3rem 0.8rem;
   border: 1px solid var(--border);
   border-radius: 18px;
@@ -727,7 +730,7 @@ footer {
     grid-template-columns: repeat(2, 1fr);
   }
 
-  .trending-chip { width: 220px; }
+  .trending-chip { width: 240px; }
 
   .hero-card h2 { font-size: 1.55rem; }
   .logo h1 { font-size: 2rem; }
@@ -756,3 +759,143 @@ footer {
 
   .trending-chip { width: 200px; }
 }
+
+/* ===== SCREEN READER ONLY ===== */
+.sr-only {
+  position: absolute;
+  width: 1px;
+  height: 1px;
+  padding: 0;
+  margin: -1px;
+  overflow: hidden;
+  clip: rect(0,0,0,0);
+  white-space: nowrap;
+  border: 0;
+}
+
+/* ===== SKELETON LOADING STATE ===== */
+.skeleton-loading {
+  padding: 0 1rem;
+}
+
+@keyframes skeleton-pulse {
+  0%, 100% { opacity: 0.15; }
+  50% { opacity: 0.3; }
+}
+
+.skeleton-hero {
+  background: var(--surface);
+  border: 1px solid var(--border);
+  border-radius: var(--radius);
+  padding: 1.5rem;
+  margin-bottom: 1.5rem;
+  text-align: center;
+}
+
+.skeleton-pill {
+  width: 60px;
+  height: 20px;
+  background: var(--accent);
+  border-radius: 10px;
+  margin: 0 auto 1rem;
+  animation: skeleton-pulse 1.5s ease-in-out infinite;
+}
+
+.skeleton-line {
+  height: 14px;
+  background: var(--border);
+  border-radius: 4px;
+  margin: 0.6rem auto;
+  animation: skeleton-pulse 1.5s ease-in-out infinite;
+}
+.skeleton-line--title {
+  height: 22px;
+  width: 80%;
+  margin-bottom: 1rem;
+}
+.skeleton-line--text {
+  width: 90%;
+}
+.skeleton-line--short {
+  width: 60%;
+}
+.skeleton-line--meta {
+  width: 40%;
+  height: 12px;
+  margin-top: 1rem;
+}
+
+.skeleton-trending-label {
+  width: 100px;
+  height: 14px;
+  background: var(--border);
+  border-radius: 4px;
+  margin: 0 auto 0.5rem;
+  animation: skeleton-pulse 1.5s ease-in-out infinite;
+}
+
+.skeleton-trending {
+  display: flex;
+  gap: 0.75rem;
+  overflow: hidden;
+  margin-bottom: 1.5rem;
+}
+
+.skeleton-chip {
+  flex: 0 0 auto;
+  width: 220px;
+  height: 80px;
+  background: var(--surface);
+  border: 1px solid var(--border);
+  border-radius: 8px;
+  animation: skeleton-pulse 1.5s ease-in-out infinite;
+}
+
+.skeleton-cards {
+  display: grid;
+  gap: 1rem;
+}
+
+.skeleton-card {
+  background: var(--surface);
+  border: 1px solid var(--border);
+  border-radius: var(--radius);
+  padding: 1.25rem;
+  animation: skeleton-pulse 1.5s ease-in-out infinite;
+}
+
+.skeleton-loading.hidden { display: none; }
+
+/* ===== TRENDING SCROLL INDICATORS (fade edges) ===== */
+.trending-scroll-wrapper {
+  position: relative;
+}
+
+.trending-scroll-wrapper::before,
+.trending-scroll-wrapper::after {
+  content: "";
+  position: absolute;
+  top: 0;
+  bottom: 0;
+  width: 2rem;
+  z-index: 2;
+  pointer-events: none;
+  transition: opacity 0.2s;
+}
+
+.trending-scroll-wrapper::before {
+  left: 0;
+  background: linear-gradient(to right, var(--surface), transparent);
+  opacity: 0;
+}
+
+.trending-scroll-wrapper::after {
+  right: 0;
+  background: linear-gradient(to left, var(--surface), transparent);
+  opacity: 1;
+}
+
+.trending-scroll-wrapper.scroll-start::before { opacity: 0; }
+.trending-scroll-wrapper.scroll-end::after { opacity: 0; }
+.trending-scroll-wrapper.scroll-middle::before { opacity: 1; }
+.trending-scroll-wrapper.scroll-middle::after { opacity: 1; }

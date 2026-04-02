@@ -234,3 +234,23 @@
 - No hover effects added (mobile-first rule)
 - Addresses AUDIT.md priority #3 (semantic HTML) and SCOUT-REPORT section title best practices
 - Addresses AUDIT.md feedback on making emoji thumbnails feel less synthetic
+
+## 2026-04-01 — v3.1.0 — Mobile Audit Pass (Pixel)
+
+### Fixed
+- **Search input font-size bumped to 1rem (16px):** Prevents iOS auto-zoom on focus; was 0.95rem (15.2px), below the 16px minimum for mobile inputs.
+- **Search input min-height set to 44px:** Ensures the search field meets the 44px minimum tap target.
+- **Category pills min-height raised to 44px:** Was 40px, now meets WCAG/Apple HIG 44px tap target guideline.
+- **Share button min-height raised to 44px:** Was 36px, below tap target minimum.
+- **Sort toggle min-height raised to 44px:** Was 36px, below tap target minimum.
+- **Trending chip min-height set to 44px:** Added explicit 44px minimum for reliable tap targets.
+- **Trending chip width reduced to 220px at base:** On 375px viewport, this reveals ~120px of the next chip, giving a clear scroll affordance (was 240px, only showing ~100px peek).
+- **Category nav scrollbar hidden:** Added scrollbar-width: none and ::-webkit-scrollbar hide for clean mobile swipe UX.
+- **Category nav scroll alignment fixed:** Switched .nav-inner from flex to inline-flex with text-align: center on parent. Centers pills when they fit, scrolls from left edge when overflowing — prevents first pill from being clipped off-screen on 375px.
+
+### Notes
+- All tap targets now meet 44px minimum (WCAG 2.5.8 / Apple HIG)
+- No horizontal overflow issues at 375px
+- Center alignment preserved across hero, trending, cards, and section headers
+- Contrast ratios unchanged (already passing)
+- Addresses AUDIT.md feedback on making emoji thumbnails feel less synthetic
