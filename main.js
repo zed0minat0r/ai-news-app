@@ -699,16 +699,19 @@ function render() {
     if (featured) rest.unshift(featured); // show it in the grid instead
   }
 
-  // Hardware spotlight
+  // Hardware spotlight — max 3 cards, rest go to main grid
   const hardwareArticles = rest.filter(a => a.category === "hardware");
   const nonHardware = rest.filter(a => a.category !== "hardware");
 
   if (activeCategory === "all" && hardwareArticles.length > 0 && !query) {
-    hardwareGrid.innerHTML = hardwareArticles.map(buildCard).join("");
+    const spotlightHw = hardwareArticles.slice(0, 3);
+    const overflowHw = hardwareArticles.slice(3);
+    hardwareGrid.innerHTML = spotlightHw.map(buildCard).join("");
     document.getElementById("hardware-spotlight").classList.remove("hidden");
+    nonHardware.push(...overflowHw);
+    nonHardware.sort((a, b) => new Date(b.date) - new Date(a.date));
   } else {
     document.getElementById("hardware-spotlight").classList.add("hidden");
-    // Put hardware back into main grid if viewing hardware or searching
     nonHardware.push(...hardwareArticles);
     nonHardware.sort((a, b) => new Date(b.date) - new Date(a.date));
   }
