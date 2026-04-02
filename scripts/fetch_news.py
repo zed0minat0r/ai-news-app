@@ -84,11 +84,13 @@ CATEGORY_KEYWORDS = {
 # ── Helpers ───────────────────────────────────────────────────
 
 def strip_html(text):
-    """Remove HTML tags and decode entities."""
+    """Remove HTML tags, decode entities, and clean arXiv metadata prefixes."""
     if not text:
         return ""
     text = re.sub(r"<[^>]+>", " ", text)
     text = unescape(text)
+    # Remove arXiv metadata prefixes like "arXiv:2604.00005v1 Announce Type: new Abstract:"
+    text = re.sub(r"arXiv:\S+\s+Announce Type:\s*\S+\s*Abstract:\s*", "", text)
     text = re.sub(r"\s+", " ", text).strip()
     return text
 

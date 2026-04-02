@@ -8,27 +8,7 @@
   <link rel="stylesheet" href="style.css">
   <link rel="preconnect" href="https://fonts.googleapis.com">
   <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800&display=swap" rel="stylesheet">
-  <!-- Firebase SDK (CDN) -->
-  <script type="module">
-    import { initializeApp } from "https://www.gstatic.com/firebasejs/11.6.0/firebase-app.js";
-    import { getAuth, GoogleAuthProvider, signInWithPopup, signOut, onAuthStateChanged } from "https://www.gstatic.com/firebasejs/11.6.0/firebase-auth.js";
-
-    /* TODO: Replace with real Firebase project config from console.firebase.google.com */
-    const firebaseConfig = {
-      apiKey: "YOUR_API_KEY",
-      authDomain: "YOUR_PROJECT.firebaseapp.com",
-      projectId: "YOUR_PROJECT",
-      storageBucket: "YOUR_PROJECT.firebasestorage.app",
-      messagingSenderId: "000000000000",
-      appId: "1:000000000000:web:0000000000000000"
-    };
-
-    const app = initializeApp(firebaseConfig);
-    const auth = getAuth(app);
-    const provider = new GoogleAuthProvider();
-
-    window.aiPulseAuth = { auth, provider, signInWithPopup, signOut, onAuthStateChanged };
-  </script>
+  <!-- Firebase Auth removed — re-add with real credentials per FIREBASE-SETUP.md -->
 </head>
 <body>
   <a href="#main-content" class="skip-link">Skip to main content</a>
@@ -39,10 +19,7 @@
           <span class="logo-icon">⚡</span>
           <h1>AI Pulse</h1>
         </div>
-        <button id="auth-btn" class="auth-btn" aria-label="Sign in with Google" title="Sign in">
-          <svg class="auth-icon" viewBox="0 0 24 24" width="22" height="22" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M20 21v-2a4 4 0 0 0-4-4H8a4 4 0 0 0-4 4v2"/><circle cx="12" cy="7" r="4"/></svg>
-        </button>
-        <img id="auth-avatar" class="auth-avatar hidden" alt="User avatar" width="36" height="36">
+        <!-- Auth button removed — re-add with real Firebase credentials per FIREBASE-SETUP.md -->
       </div>
       <p class="tagline">Real-time AI news, models &amp; hardware</p>
       <div class="search-wrapper">
@@ -156,47 +133,6 @@
   </footer>
 
   <script src="main.js"></script>
-  <script type="module">
-    /* =========================================================
-       FIREBASE AUTH – Google Sign-In (Step 1 of Dashboard)
-       ========================================================= */
-    (function initAuth() {
-      const { auth, provider, signInWithPopup, signOut, onAuthStateChanged } = window.aiPulseAuth || {};
-      if (!auth) return;
-
-      const btn = document.getElementById("auth-btn");
-      const avatar = document.getElementById("auth-avatar");
-      let currentUser = null;
-
-      onAuthStateChanged(auth, (user) => {
-        currentUser = user;
-        if (user) {
-          // Logged in – show avatar, hide icon button
-          btn.classList.add("hidden");
-          avatar.src = user.photoURL || "";
-          avatar.alt = user.displayName || "User";
-          avatar.classList.remove("hidden");
-        } else {
-          // Logged out – show icon button, hide avatar
-          btn.classList.remove("hidden");
-          avatar.classList.add("hidden");
-        }
-      });
-
-      btn.addEventListener("click", () => {
-        signInWithPopup(auth, provider).catch((err) => {
-          if (err.code !== "auth/popup-closed-by-user") {
-            console.error("Auth error:", err);
-          }
-        });
-      });
-
-      avatar.addEventListener("click", () => {
-        if (currentUser && confirm("Sign out of AI Pulse?")) {
-          signOut(auth);
-        }
-      });
-    })();
-  </script>
+  <!-- Firebase Auth init script removed — re-add per FIREBASE-SETUP.md -->
 </body>
 </html>

@@ -1,5 +1,19 @@
 # Changelog
 
+## 2026-04-01 — v3.4.1 — Remove Firebase placeholder + fix arXiv summaries (Builder)
+
+### Removed
+- Firebase SDK script block from `index.html` (placeholder config loaded ~40KB and failed silently)
+- Auth button and avatar elements from header (no real credentials yet)
+- Firebase Auth init script at bottom of `index.html`
+
+### Fixed
+- arXiv summaries in `scripts/fetch_news.py` now strip metadata prefixes like "arXiv:2604.00005v1 Announce Type: new Abstract:" for cleaner mobile display
+
+### Notes
+- Firebase Auth can be re-added with real credentials per `FIREBASE-SETUP.md`
+- No other files changed
+
 ## 2026-04-01 — v3.4.0 — Firebase Auth + Google Sign-In (Builder)
 
 ### Added
