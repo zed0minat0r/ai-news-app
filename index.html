@@ -9,7 +9,7 @@
   <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800&display=swap" rel="stylesheet">
 </head>
 <body>
-  <a href="#news-grid" class="skip-link">Skip to main content</a>
+  <a href="#main-content" class="skip-link">Skip to main content</a>
   <header id="site-header">
     <div class="header-inner">
       <div class="logo">
@@ -40,35 +40,33 @@
     </div>
   </nav>
 
-  <main>
-    <section id="featured-section" role="region" aria-label="Featured article">
-      <!-- Populated by JS -->
-    </section>
+  <main id="main-content">
+    <!-- HOMEPAGE VIEW (shown when category=all and no search) -->
+    <div id="homepage-view">
+      <!-- HERO BANNER -->
+      <section id="hero-section" role="region" aria-label="Featured story"></section>
 
-    <section id="trending-section" class="hidden" role="region" aria-labelledby="trending-title">
-      <h2 id="trending-title" class="section-title">Trending Now</h2>
-      <ol id="trending-grid" class="trending-grid">
-        <!-- Populated by JS -->
-      </ol>
-    </section>
+      <!-- TRENDING BAR -->
+      <section id="trending-bar" role="region" aria-labelledby="trending-title">
+        <h2 id="trending-title" class="section-label">Trending Now</h2>
+        <div id="trending-scroll" class="trending-scroll"></div>
+      </section>
 
-    <section id="hardware-spotlight" role="region" aria-labelledby="hardware-title">
-      <h2 id="hardware-title" class="section-title">Hardware Spotlight</h2>
-      <div id="hardware-grid" class="card-grid">
-        <!-- Populated by JS -->
-      </div>
-    </section>
+      <!-- CATEGORY SECTIONS (populated by JS) -->
+      <div id="category-sections"></div>
+    </div>
 
-    <section id="news-section" role="region" aria-labelledby="news-title">
-      <div class="section-header">
-        <h2 id="news-title" class="section-title">Latest Stories</h2>
-        <button id="sort-toggle" class="sort-toggle" aria-label="Toggle sort order">Newest first</button>
-      </div>
-      <div id="news-grid" class="card-grid">
-        <!-- Populated by JS -->
-      </div>
-      <button id="load-more-btn" class="load-more-btn hidden">Load more</button>
-    </section>
+    <!-- LIST VIEW (shown when filtering or searching) -->
+    <div id="list-view" class="hidden">
+      <section id="news-section" role="region" aria-labelledby="news-title">
+        <div class="section-header">
+          <h2 id="news-title" class="section-title">Results</h2>
+          <button id="sort-toggle" class="sort-toggle" aria-label="Toggle sort order">Newest first</button>
+        </div>
+        <div id="news-grid" class="card-grid"></div>
+        <button id="load-more-btn" class="load-more-btn hidden">Load more</button>
+      </section>
+    </div>
 
     <p id="no-results" class="hidden" role="status">No articles match your search.</p>
   </main>

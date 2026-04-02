@@ -1,5 +1,21 @@
 # Changelog
 
+## 2026-04-01 — v3.0.0 — News Homepage Rebuild (Builder)
+
+### Changed
+- **Complete layout overhaul:** Replaced infinite card feed with an organized news homepage layout (CNN/Verge style). The page now feels short and organized on first load.
+- **Hero banner:** One big featured/breaking story at the top with full-width layout, gradient headline, and visual impact.
+- **Trending bar:** Horizontal scrolling list of 5 trending headlines below the hero. Compact, swipeable on mobile.
+- **Category sections:** Five organized sections (Models, Hardware, Research, Tools, Industry) each showing 3 latest cards with a "See all" button that activates the category filter.
+- **Dual-view system:** Homepage shows the organized sections layout. Filtering by category or searching switches to a paginated list view (capped at 12 with Load More).
+- **Tighter, more compact cards:** Summaries clamped to 3 lines, smaller thumbnails, less padding for a denser news feel.
+- **Mobile-first, center-aligned** layout throughout.
+
+### Removed
+- Old "Hardware Spotlight" standalone section (hardware now gets its own category section like all others).
+- Infinite scrolling wall-of-cards layout.
+- Alternating hero card treatment (every 5th card wide) — replaced by proper category sections.
+
 ## 2026-04-02 — v2.1.0 — Fresh News + Accessibility (Builder)
 
 ### Added
