@@ -1,5 +1,20 @@
 # Changelog
 
+## 2026-04-01 — v2.0.0 — Auto-Updating RSS Pipeline (Builder)
+
+### Added
+- **RSS fetch script** (`scripts/fetch_news.py`): Fetches AI news from 12 RSS sources (OpenAI, Google AI, NVIDIA, Ars Technica, Tom's Hardware, The Verge, TechCrunch, VentureBeat, Hacker News, MIT Tech Review, Wired, Anthropic) using only Python stdlib — no pip installs needed
+- Auto-categorization of articles into models/hardware/research/tools/industry via keyword matching
+- Deduplication by URL, date sorting, and top-50 article selection
+- **GitHub Actions workflow** (`.github/workflows/fetch-news.yml`): Runs every 30 minutes, fetches fresh RSS data, auto-commits news.json if changed
+- `news.json` — live article data file updated by the pipeline
+- `main.js` now loads articles dynamically from `news.json` via `fetch()`, with fallback to hardcoded articles if the file is unavailable
+- Browser auto-refreshes articles from news.json every 5 minutes to pick up pipeline updates
+
+### Changed
+- `ARTICLES` array renamed to `FALLBACK_ARTICLES`; live data loaded at runtime from news.json
+- Removed placeholder auto-update stub; replaced with real `loadArticles()` function
+
 ## 2026-04-01 — v1.0.0 — Initial Launch
 
 ### Added

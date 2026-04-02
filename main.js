@@ -1,10 +1,12 @@
 /* =========================================================
    AI Pulse — main.js
-   All articles live in the ARTICLES array below.
-   Swap this array with fresh data to update the feed.
+   Articles loaded from news.json (auto-updated via GitHub Actions).
+   Falls back to the hardcoded FALLBACK_ARTICLES if fetch fails.
    ========================================================= */
 
-const ARTICLES = [
+let ARTICLES = [];
+
+const FALLBACK_ARTICLES = [
   // ── FEATURED / BREAKING — 2026-04-02 ──
   {
     id: 50,
@@ -468,6 +470,25 @@ const ARTICLES = [
   }
 ];
 
+// Start with fallback data, then try to load fresh data
+ARTICLES = [...FALLBACK_ARTICLES];
+
+async function loadArticles() {
+  try {
+    const resp = await fetch("news.json?t=" + Date.now());
+    if (!resp.ok) throw new Error("HTTP " + resp.status);
+    const data = await resp.json();
+    if (Array.isArray(data) && data.length > 0) {
+      ARTICLES = data;
+      console.log("[AI Pulse] Loaded " + data.length + " articles from news.json");
+      render();
+      updateTimestamp();
+    }
+  } catch (e) {
+    console.log("[AI Pulse] news.json not available, using fallback articles:", e.message);
+  }
+}
+
 /* =========================================================
    DOM REFS
    ========================================================= */
@@ -701,23 +722,12 @@ updateTimestamp();
 render();
 
 /* =========================================================
-   AUTO-UPDATE STUB
-   Future: Replace this with a fetch() call to a news API
-   or serverless function that returns fresh ARTICLES JSON.
+   AUTO-UPDATE — Loads fresh articles from news.json
+   GitHub Actions updates news.json every 30 minutes.
+   The browser re-fetches every 5 minutes to pick up changes.
    ========================================================= */
-async function fetchLatestArticles() {
-  // Placeholder for future API integration
-  // const res = await fetch('/api/articles');
-  // const data = await res.json();
-  // ARTICLES.length = 0;
-  // ARTICLES.push(...data);
-  // render();
-  // updateTimestamp();
-  console.log("[AI Pulse] Auto-update: ready for API integration");
-}
-
-// Refresh every 5 minutes (currently logs; swap in real fetch above)
-setInterval(fetchLatestArticles, 5 * 60 * 1000);
+loadArticles();
+setInterval(loadArticles, 5 * 60 * 1000);
 
 /* =========================================================
    BACK TO TOP BUTTON
