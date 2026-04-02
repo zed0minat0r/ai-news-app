@@ -1,5 +1,17 @@
 # Changelog
 
+## 2026-04-01 — v3.9.0 — Fix chip/card tag contrast for WCAG AA (Builder)
+
+### Accessibility Fix — Tag Contrast (QA blocker)
+- Changed all `.chip-tag` and `.card-tag` category labels to white (#ffffff) text on slightly boosted colored backgrounds
+- Applies to all 5 categories: Models, Hardware, Research, Tools, Industry
+- Background alpha increased from 0.25-0.28 to 0.35-0.38 for better pill visibility
+- White on colored backgrounds passes WCAG AA (4.5:1+) on the dark theme
+- Resolves the recurring QA flag for contrast ratios as low as 1.0:1
+
+### UI Polish
+- Bumped trending chip `.meta` font-size from 0.7rem to 0.75rem for better readability on 375px screens
+
 ## 2026-04-01 — v3.8.0 — Reading progress indicator (Spark)
 
 ### Reading Progress Indicator
