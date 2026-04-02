@@ -249,7 +249,7 @@ a { color: inherit; text-decoration: none; }
   gap: 0.2rem;
 }
 
-.pill-count { font-size: 0.72rem; opacity: 0.7; }
+.pill-count { font-size: 0.72rem; opacity: 1; color: var(--text-muted); }
 
 .cat-pill:focus-visible { outline: 2px solid var(--accent); outline-offset: 2px; }
 
@@ -280,7 +280,7 @@ main {
 .hero-card {
   display: block;
   background: linear-gradient(135deg, #1a1f2e 0%, #1e2640 50%, #1a1f2e 100%);
-  border: 2px solid var(--accent);
+  border: none;
   border-radius: var(--radius);
   padding: 1.75rem 1.25rem 1.5rem;
   text-align: center;
@@ -289,12 +289,43 @@ main {
   box-shadow: 0 0 30px var(--accent-glow), 0 4px 20px rgba(0,0,0,0.4);
 }
 
+/* Animated rotating gradient border using category colors */
 .hero-card::before {
   content: "";
   position: absolute;
-  top: 0; left: 0; right: 0;
-  height: 3px;
-  background: linear-gradient(90deg, var(--breaking), var(--accent), var(--tag-models));
+  inset: -2px;
+  border-radius: var(--radius);
+  background: conic-gradient(
+    from var(--hero-border-angle, 0deg),
+    var(--tag-models),
+    var(--accent),
+    var(--tag-hardware),
+    var(--tag-research),
+    var(--tag-industry),
+    var(--tag-models)
+  );
+  animation: hero-border-spin 6s linear infinite;
+  z-index: -1;
+}
+
+/* Inner background mask creates the border effect */
+.hero-card::after {
+  content: "";
+  position: absolute;
+  inset: 2px;
+  border-radius: calc(var(--radius) - 2px);
+  background: linear-gradient(135deg, #1a1f2e 0%, #1e2640 50%, #1a1f2e 100%);
+  z-index: -1;
+}
+
+@property --hero-border-angle {
+  syntax: "<angle>";
+  initial-value: 0deg;
+  inherits: false;
+}
+
+@keyframes hero-border-spin {
+  to { --hero-border-angle: 360deg; }
 }
 
 .hero-icon {
@@ -427,11 +458,11 @@ main {
   margin-bottom: 0.3rem;
 }
 
-.chip-tag.models   { background: rgba(210,168,255,0.28); color: #e8d4ff; }
-.chip-tag.hardware { background: rgba(126,231,135,0.28); color: #b8f5be; }
-.chip-tag.research { background: rgba(255,166,87,0.28);  color: #ffd6aa; }
-.chip-tag.tools    { background: rgba(88,166,255,0.28);  color: #a8d4ff; }
-.chip-tag.industry { background: rgba(247,120,186,0.28); color: #fbb8d8; }
+.chip-tag.models   { background: rgba(210,168,255,0.18); color: #d2a8ff; }
+.chip-tag.hardware { background: rgba(126,231,135,0.18); color: #7ee787; }
+.chip-tag.research { background: rgba(255,166,87,0.18);  color: #ffa657; }
+.chip-tag.tools    { background: rgba(88,166,255,0.18);  color: #79b8ff; }
+.chip-tag.industry { background: rgba(247,120,186,0.18); color: #f778ba; }
 
 .trending-chip h4 {
   font-size: 0.78rem;
@@ -579,11 +610,11 @@ main {
   margin-bottom: 0.4rem;
 }
 
-.card-tag.models   { background: rgba(210,168,255,0.25); color: #e0c6ff; }
-.card-tag.hardware { background: rgba(126,231,135,0.25); color: #a8f0b0; }
-.card-tag.research { background: rgba(255,166,87,0.25);  color: #ffcb99; }
-.card-tag.tools    { background: rgba(88,166,255,0.25);  color: #90c4ff; }
-.card-tag.industry { background: rgba(247,120,186,0.25); color: #faa0cc; }
+.card-tag.models   { background: rgba(210,168,255,0.15); color: #d2a8ff; }
+.card-tag.hardware { background: rgba(126,231,135,0.15); color: #7ee787; }
+.card-tag.research { background: rgba(255,166,87,0.15);  color: #ffa657; }
+.card-tag.tools    { background: rgba(88,166,255,0.15);  color: #79b8ff; }
+.card-tag.industry { background: rgba(247,120,186,0.15); color: #f778ba; }
 
 .card h3 {
   font-size: 0.9rem;

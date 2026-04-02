@@ -1,5 +1,17 @@
 # Changelog
 
+## 2026-04-01 — v3.5.0 — WCAG contrast fixes & nav pill scroll centering
+
+### Accessibility — Tag Contrast (WCAG 3:1 minimum)
+- Chip tags (trending bar): Lowered background alpha from 0.28 to 0.18, switched text to full-saturation category colors (e.g. `#f778ba` instead of washed-out `#fbb8d8`) for industry, models, hardware, research, tools
+- Card tags: Same treatment — background alpha reduced from 0.25 to 0.15, text now uses vivid category colors for clear contrast against dark surface
+- Inactive pill counts: Removed `opacity: 0.7` that was stacking on already-muted text; now renders at full opacity with `var(--text-muted)` for reliable ~7:1 contrast on dark background
+
+### UI Polish — Nav Pill Scroll Centering
+- Active category pill now calls `scrollIntoView({ behavior: "smooth", inline: "center", block: "nearest" })` so the selected pill is always visible in the horizontal scroll area on mobile
+
+---
+
 ## 2026-04-01 — v3.4.2 — Mobile audit fixes at 375px (Pixel)
 
 ### Changed

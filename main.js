@@ -899,6 +899,7 @@ function activateCategory(cat) {
     if (b.dataset.category === cat) {
       b.classList.add("active");
       b.setAttribute("aria-pressed", "true");
+      b.scrollIntoView({ behavior: "smooth", inline: "center", block: "nearest" });
     }
   });
   activeCategory = cat;
