@@ -2,7 +2,7 @@ name: Fetch AI News
 
 on:
   schedule:
-    - cron: '*/30 * * * *'   # Every 30 minutes
+    - cron: '0 */3 * * *'    # Every 3 hours
   push:
     branches: [main]
   workflow_dispatch:          # Manual trigger
