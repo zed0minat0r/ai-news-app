@@ -1,5 +1,21 @@
 # Changelog
 
+## 2026-04-01 — v3.7.0 — PTR threshold fix, deduplicate nav, PWA setup (Refiner)
+
+### Fix Pull-to-Refresh Threshold Bug (CRITICAL from v9 audit)
+- `touchmove` handler now checks `dy > THRESHOLD` (80px) instead of `dy > 10`
+- Prevents accidental refreshes on small touch movements
+
+### Remove Duplicate Bottom Nav Initialization
+- Removed duplicate bottom nav wiring (lines 970-994) that duplicated the IIFE at lines 1162-1194
+- Eliminates double event listeners and the monkey-patched `activateCategory` wrapper
+
+### PWA Setup
+- Created `manifest.json` with app name, SVG icon, theme color (#6c5ce7), display: standalone
+- Created `sw.js` service worker with network-first strategy and app-shell caching
+- Registered service worker in `index.html`
+- Added `theme-color` meta tag and Apple mobile web app meta tags
+
 ## 2026-04-01 — v3.6.0 — Hero image, tool feeds, full-card tap targets (Refiner)
 
 ### Hero Card Image (CRITICAL fix from v8 audit)

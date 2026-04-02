@@ -965,35 +965,6 @@ searchClear.addEventListener("click", () => {
 });
 
 /* =========================================================
-   BOTTOM NAVIGATION BAR — wire up category switching
-   ========================================================= */
-const bottomNavBtns = document.querySelectorAll(".bottom-nav-btn");
-
-function syncBottomNav(cat) {
-  bottomNavBtns.forEach(b => {
-    b.classList.remove("active");
-    b.setAttribute("aria-pressed", "false");
-    if (b.dataset.category === cat) {
-      b.classList.add("active");
-      b.setAttribute("aria-pressed", "true");
-    }
-  });
-}
-
-bottomNavBtns.forEach(btn => {
-  btn.addEventListener("click", () => {
-    activateCategory(btn.dataset.category);
-  });
-});
-
-// Keep bottom nav in sync whenever top pills change
-const _origActivate = activateCategory;
-activateCategory = function(cat) {
-  _origActivate(cat);
-  syncBottomNav(cat);
-};
-
-/* =========================================================
    TIMESTAMP & INIT
    ========================================================= */
 function updateTimestamp() {
@@ -1134,7 +1105,7 @@ document.querySelectorAll("form[data-newsletter]").forEach((form) => {
   document.addEventListener("touchmove", function(e) {
     if (!pulling) return;
     const dy = e.touches[0].clientY - startY;
-    if (dy > 10 && window.scrollY === 0) {
+    if (dy > THRESHOLD && window.scrollY === 0) {
       ptrEl.classList.add("visible");
     }
     if (dy < 0) {
