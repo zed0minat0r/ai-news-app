@@ -41,3 +41,15 @@
   - Smooth-scrolls to top on tap
   - 48x48px touch target per mobile-first guidelines
   - Fade + slide animation on show/hide
+
+## 2026-04-01 — Mobile Audit (Pixel)
+
+### Fixed
+- Category pills enlarged to 44px min-height tap targets (was ~32px, flagged by Nigel)
+- Category pill font bumped from 0.8rem to 0.875rem for readability
+- Search input font-size raised to 1rem (16px) to prevent iOS auto-zoom on focus
+- Card tag font-size bumped from 0.65rem to 0.7rem with better padding
+- Featured label font-size bumped from 0.65rem to 0.7rem
+- Card meta font-size raised from 0.72rem to 0.75rem
+- Added overflow-x:hidden and overflow-wrap:break-word on body to prevent horizontal scroll at 375px
+- Muted text color adjusted to #9ca3af for improved WCAG contrast ratio
