@@ -1,5 +1,16 @@
 # Changelog
 
+## 2026-04-01 — v3.10.0 — Redesign header for impact (Builder)
+
+### Header Redesign
+- Enlarged "AI Pulse" branding (2.2rem mobile, 2.8rem desktop) with blue-purple-pink gradient text
+- Lightning bolt icon enlarged (2.4rem) with animated glow/pulse effect using drop-shadow keyframes
+- Tagline restyled: uppercase, letter-spaced, with subtle gradient text (muted to purple and back)
+- Dark header background enhanced with radial accent highlight behind logo area
+- Border-bottom swapped to subtle blue-tinted glow line
+- Scales up further on tablet (2.5rem) and desktop (2.8rem + 3rem icon)
+- Professional and bold — mobile-first, center-aligned, no cheap flash
+
 ## 2026-04-01 — v3.9.0 — Fix chip/card tag contrast for WCAG AA (Builder)
 
 ### Accessibility Fix — Tag Contrast (QA blocker)
