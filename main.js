@@ -740,9 +740,12 @@ function buildCard(article, query) {
   const readMin = estimateReadTime(article.summary);
   const titleHTML = query ? highlightText(article.title, query) : article.title;
   const summaryHTML = query ? highlightText(article.summary, query) : article.summary;
+  const thumbHTML = article.image
+    ? `<div class="card-thumb has-image ${article.category}" aria-hidden="true"><img src="${article.image}" alt="" loading="lazy" onerror="this.parentElement.classList.remove('has-image');this.parentElement.textContent='${icon}';"></div>`
+    : `<div class="card-thumb ${article.category}" aria-hidden="true">${icon}</div>`;
   return `
     <article class="card" data-category="${article.category}">
-      <div class="card-thumb ${article.category}" aria-hidden="true">${icon}</div>
+      ${thumbHTML}
       <span class="card-tag ${article.category}">${article.category}</span>
       <h3><a href="${article.url}" target="_blank" rel="noopener" class="card-link">${titleHTML}</a></h3>
       <p class="summary">${summaryHTML}</p>

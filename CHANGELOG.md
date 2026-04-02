@@ -424,3 +424,21 @@
 - No HTML changes needed
 - Did NOT touch `scripts/fetch_news.py`, `.github/workflows/`, `FIREBASE-SETUP.md`, or `news.json`
 - style.css reduced from 1706 to 1191 lines (30% smaller)
+
+---
+
+## v7 — 2026-04-01 (Refiner)
+
+### Real Article Images via OG Tags
+- `scripts/fetch_news.py`: Added `OGImageParser` class and `fetch_og_image()` function to extract `og:image` meta tags from article URLs during RSS processing
+- RSS items now check `<media:content>` and `<enclosure>` tags for images before falling back to OG tag fetching
+- Each article in `news.json` now includes an `"image"` field when an image URL is found
+- `main.js` `buildCard()`: Renders real article images when available, falls back to emoji gradient thumbnails on missing/broken images (uses `onerror` handler)
+
+### Tools Category Fix
+- Widened tool-related keywords in `CATEGORY_KEYWORDS["tools"]`: added `chatgpt plugin`, `ai app`, `ai integration`, `workflow automation`, `no-code ai`, `low-code`, `ai feature`, `model api`, `vector database`, `embedding api`, `prompt engineering`, `ai productivity`, `ai writing`, `claude code`, `windsurf`, `replit`, `github copilot`, `tabnine`, `ai search tool`, `perplexity`, `ai browser`, `ai extension`
+
+### UI Polish
+- Card thumbnail height increased from 100px to 140px for better image display
+- `.card-thumb.has-image` and `.card-thumb.has-image img` CSS added for proper image rendering with `object-fit: cover`
+- Fixed 0.65rem font sizes (10.4px, too small for mobile) bumped to 0.72rem (~11.5px) across chip tags, trending chips, and card tags

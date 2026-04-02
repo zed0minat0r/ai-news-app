@@ -17,6 +17,7 @@ import xml.etree.ElementTree as ET
 from datetime import datetime, timezone
 from email.utils import parsedate_to_datetime
 from html import unescape
+from html.parser import HTMLParser
 
 # ── RSS Sources ──────────────────────────────────────────────
 FEEDS = [
@@ -71,6 +72,11 @@ CATEGORY_KEYWORDS = {
         "plugin", "extension", "copilot", "code assist", "cursor", "vscode",
         "agent framework", "langchain", "llamaindex", "hugging face", "platform",
         "playground", "deployment", "inference endpoint", "fine-tuning service",
+        "chatgpt plugin", "ai app", "ai integration", "workflow automation",
+        "no-code ai", "low-code", "ai feature", "model api", "vector database",
+        "embedding api", "prompt engineering", "ai productivity", "ai writing",
+        "claude code", "windsurf", "replit", "github copilot", "tabnine",
+        "ai search tool", "perplexity", "ai browser", "ai extension",
     ],
     "industry": [
         "funding", "acquisition", "ipo", "revenue", "valuation", "layoff", "hire",
@@ -82,6 +88,50 @@ CATEGORY_KEYWORDS = {
 }
 
 # ── Helpers ───────────────────────────────────────────────────
+
+class OGImageParser(HTMLParser):
+    """Lightweight parser to extract og:image from HTML <head>."""
+    def __init__(self):
+        super().__init__()
+        self.og_image = None
+        self._in_head = False
+        self._done = False
+
+    def handle_starttag(self, tag, attrs):
+        if self._done:
+            return
+        if tag == "head":
+            self._in_head = True
+        if tag == "body":
+            self._done = True
+        if tag == "meta" and self._in_head:
+            d = dict(attrs)
+            prop = d.get("property", "").lower()
+            if prop == "og:image" and d.get("content"):
+                self.og_image = d["content"]
+                self._done = True
+
+
+def fetch_og_image(url):
+    """Fetch the og:image meta tag from an article URL. Returns URL string or None."""
+    ctx = ssl.create_default_context()
+    ctx.check_hostname = False
+    ctx.verify_mode = ssl.CERT_NONE
+    try:
+        req = urllib.request.Request(url, headers={
+            "User-Agent": "AI-Pulse-RSS-Fetcher/1.0 (+https://github.com/zed0minat0r/ai-news-app)"
+        })
+        with urllib.request.urlopen(req, timeout=8, context=ctx) as resp:
+            # Read only the first 50KB to find og:image in <head>
+            data = resp.read(50000).decode("utf-8", errors="ignore")
+        parser = OGImageParser()
+        parser.feed(data)
+        if parser.og_image and parser.og_image.startswith("http"):
+            return parser.og_image
+    except Exception:
+        pass
+    return None
+
 
 def strip_html(text):
     """Remove HTML tags, decode entities, and clean arXiv metadata prefixes."""
@@ -220,6 +270,14 @@ def fetch_feed(feed_info):
             cat = categorize(title, description)
             if cat is None:
                 continue  # Not AI-related — skip
+            # Try to get og:image from <media:content> or <enclosure> first
+            image = None
+            media_content = item.find("{http://search.yahoo.com/mrss/}content")
+            if media_content is not None and media_content.get("url"):
+                image = media_content.get("url")
+            enclosure = item.find("enclosure")
+            if not image and enclosure is not None and enclosure.get("url") and "image" in (enclosure.get("type", "")):
+                image = enclosure.get("url")
             articles.append({
                 "title": title,
                 "url": link,
@@ -227,6 +285,7 @@ def fetch_feed(feed_info):
                 "date": parse_date(pub_date),
                 "summary": description[:200] + ("..." if len(description) > 200 else ""),
                 "category": cat,
+                "image": image,
             })
     else:
         # Atom: //entry
@@ -247,6 +306,11 @@ def fetch_feed(feed_info):
             cat = categorize(title, description)
             if cat is None:
                 continue  # Not AI-related — skip
+            # Try to get image from <media:content> in Atom feeds
+            image = None
+            media_content = entry.find("{http://search.yahoo.com/mrss/}content")
+            if media_content is not None and media_content.get("url"):
+                image = media_content.get("url")
             articles.append({
                 "title": title,
                 "url": link,
@@ -254,6 +318,7 @@ def fetch_feed(feed_info):
                 "date": parse_date(updated),
                 "summary": description[:200] + ("..." if len(description) > 200 else ""),
                 "category": cat,
+                "image": image,
             })
 
     print(f"  [OK] {source}: {len(articles)} articles", file=sys.stderr)
@@ -275,6 +340,20 @@ def main():
         if normalized not in seen_urls:
             seen_urls.add(normalized)
             unique.append(article)
+
+    # Fetch og:image for articles missing images (limit to top 60 by date to save time)
+    unique.sort(key=lambda a: a["date"], reverse=True)
+    candidates = unique[:60]
+    print(f"\nFetching og:image for up to {len(candidates)} articles...", file=sys.stderr)
+    for i, article in enumerate(candidates):
+        if not article.get("image"):
+            img = fetch_og_image(article["url"])
+            if img:
+                article["image"] = img
+                print(f"  [IMG] {article['title'][:50]}... -> found", file=sys.stderr)
+        # Remove None image fields — keep JSON clean
+        if not article.get("image"):
+            article.pop("image", None)
 
     # Sort by date (newest first)
     unique.sort(key=lambda a: a["date"], reverse=True)
