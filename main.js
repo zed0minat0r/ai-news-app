@@ -5,7 +5,127 @@
    ========================================================= */
 
 const ARTICLES = [
-  // ── FEATURED / BREAKING ──
+  // ── FEATURED / BREAKING — 2026-04-02 ──
+  {
+    id: 50,
+    title: "Microsoft Launches 3 In-House AI Models — MAI-Transcribe-1, MAI-Voice-1 & MAI-Image-2",
+    summary: "Microsoft's superintelligence team ships three foundational models built entirely in-house: MAI-Transcribe-1 (speech-to-text in 25 languages at 2.5x Azure speed), MAI-Voice-1 (60s of natural audio in 1 second), and MAI-Image-2 (top-3 on Arena.ai). Available now via Microsoft Foundry.",
+    source: "VentureBeat",
+    url: "https://venturebeat.com/technology/microsoft-launches-3-new-ai-models-in-direct-shot-at-openai-and-google",
+    date: "2026-04-02",
+    category: "models",
+    featured: true
+  },
+  // ── NEW STORIES — 2026-04-02 ──
+  {
+    id: 49,
+    title: "Alibaba Releases Qwen3.6-Plus — Third Proprietary Model in Days",
+    summary: "Alibaba's AI lab ships Qwen3.6-Plus, its third major model drop in under a week, as the Chinese tech giant races to fulfill its $100B AI and cloud revenue pledge.",
+    source: "LLM Stats",
+    url: "https://llm-stats.com/ai-news",
+    date: "2026-04-02",
+    category: "models"
+  },
+  {
+    id: 48,
+    title: "OpenAI Surpasses $25B Annualized Revenue, Eyes Late-2026 IPO",
+    summary: "OpenAI is now generating over $2 billion per month in revenue and is taking early steps toward a public listing that could happen as soon as late 2026, potentially the largest AI IPO ever.",
+    source: "Fortune",
+    url: "https://fortune.com/2026/03/26/anthropic-says-testing-mythos-powerful-new-ai-model-after-data-leak-reveals-its-existence-step-change-in-capabilities/",
+    date: "2026-04-02",
+    category: "industry"
+  },
+  {
+    id: 47,
+    title: "Anthropic Nears $19B Annualized Revenue as Claude Sonnet 4.6 Leads Work Evals",
+    summary: "Anthropic's revenue approaches $19 billion annualized as Claude Sonnet 4.6 takes the top spot on real-world work evaluations, outperforming GPT-5.4 and Gemini 3.1 Pro on practical tasks.",
+    source: "Crescendo AI",
+    url: "https://www.crescendo.ai/news/latest-ai-news-and-updates",
+    date: "2026-04-02",
+    category: "industry"
+  },
+  {
+    id: 46,
+    title: "NVIDIA-Marvell Partnership Fuels Semiconductor Rally Amid Trade Tensions",
+    summary: "NVIDIA's deepening partnership with Marvell Technology drives broad gains across semiconductor stocks as the AI ecosystem expands, even as US-China trade tensions persist.",
+    source: "IndexBox",
+    url: "https://www.indexbox.io/blog/semiconductor-stocks-rise-on-nvidia-marvell-ai-partnership/",
+    date: "2026-04-02",
+    category: "hardware"
+  },
+  {
+    id: 45,
+    title: "xAI Debuts Grok 4.20 With Multi-Agent Architecture — A New Paradigm",
+    summary: "Elon Musk's xAI introduces a completely new multi-agent architecture with Grok 4.20, enabling swarms of specialized sub-agents that coordinate autonomously on complex tasks.",
+    source: "Renovate QR",
+    url: "https://renovateqr.com/blog/ai-models-april-2026",
+    date: "2026-04-02",
+    category: "models"
+  },
+  {
+    id: 44,
+    title: "Federal Judge Rules Trump's Ban on Anthropic AI in Government Violates Free Speech",
+    summary: "A U.S. federal judge struck down the Trump administration's ban on Anthropic AI models in government systems, ruling it violated First Amendment free-speech protections.",
+    source: "AI and News",
+    url: "https://www.aiandnews.com/blog/latest-ai-news-public-concerns/",
+    date: "2026-04-02",
+    category: "industry"
+  },
+  {
+    id: 43,
+    title: "Google's New Compression Algorithm Slashes AI Memory Costs by 6x",
+    summary: "Google DeepMind unveils a novel compression technique that reduces AI model memory requirements by six times, dramatically lowering inference costs for production deployments.",
+    source: "HumAI Blog",
+    url: "https://www.humai.blog/ai-news-trends-april-2026-complete-monthly-digest/",
+    date: "2026-04-02",
+    category: "research"
+  },
+  {
+    id: 42,
+    title: "International Fact-Checking Day: AI-Generated Misinformation Hits Unprecedented Levels",
+    summary: "Researchers report an unprecedented wave of AI-generated false images since the Feb. 28 Iran conflict, prompting renewed calls for mandatory AI content labeling and detection tools.",
+    source: "Click Orlando",
+    url: "https://www.clickorlando.com/news/politics/2026/04/02/its-international-fact-checking-day-refresh-your-ai-identification-skills/",
+    date: "2026-04-02",
+    category: "industry"
+  },
+  {
+    id: 41,
+    title: "Meta Smart Glasses Get Competition as Nothing Bets on Design-Forward AI Wearables",
+    summary: "Consumer AI hardware moves beyond chatbots and phones into always-on wearables. Nothing is betting there is room for a more design-forward alternative to Meta's smart glasses.",
+    source: "Coaio",
+    url: "https://coaio.com/news/2026/04/breaking-tech-news-on-april-1-2026-ai-surge-cyber-threats-and-startup-2l4c/",
+    date: "2026-04-02",
+    category: "hardware"
+  },
+  {
+    id: 40,
+    title: "GPT-5.3 and GPT-5.4 Ship in Same Week as OpenAI Accelerates Release Cadence",
+    summary: "OpenAI shipped GPT-5.4 the same week as GPT-5.3, signaling an aggressive new release pace. GPT-5.4 matches Gemini 3.1 Pro atop the Artificial Analysis Intelligence Index at 57 points.",
+    source: "LLM Stats",
+    url: "https://llm-stats.com/llm-updates",
+    date: "2026-04-02",
+    category: "models"
+  },
+  {
+    id: 39,
+    title: "AI Industry Enters 'Phase of Consolidation and Consequence' in April 2026",
+    summary: "The optimism of early 2026 is being tested against operational reality as labs shift from shipping demos to sustaining production agentic deployments at enterprise scale.",
+    source: "Mean CEO",
+    url: "https://blog.mean.ceo/ai-news-april-2026/",
+    date: "2026-04-02",
+    category: "research"
+  },
+  {
+    id: 38,
+    title: "ASIC Accelerators, Chiplets & Quantum-Assisted Optimizers Mature Beyond GPUs",
+    summary: "The AI hardware race diversifies as ASIC-based accelerators, chiplet designs, analog inference engines, and quantum-assisted optimizers mature alongside traditional GPU compute.",
+    source: "ServeTheHome",
+    url: "https://www.servethehome.com/what-retail-ai-and-compute-infrastructure-actually-looks-like-in-2026/",
+    date: "2026-04-02",
+    category: "hardware"
+  },
+  // ── PREVIOUS FEATURED ──
   {
     id: 1,
     title: "NVIDIA Launches Rubin Platform — Six New Chips and an AI Supercomputer",
@@ -13,8 +133,7 @@ const ARTICLES = [
     source: "NVIDIA Newsroom",
     url: "https://nvidianews.nvidia.com/news/rubin-platform-ai-supercomputer",
     date: "2026-03-29",
-    category: "hardware",
-    featured: true
+    category: "hardware"
   },
   // ── MODELS ──
   {
