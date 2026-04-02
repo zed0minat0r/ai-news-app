@@ -118,10 +118,10 @@ a { color: inherit; text-decoration: none; }
 .nav-inner {
   display: flex;
   gap: 0.5rem;
-  justify-content: center;
   max-width: var(--max-w);
   margin: 0 auto;
   white-space: nowrap;
+  padding-left: 0.25rem;
 }
 
 .cat-pill {
