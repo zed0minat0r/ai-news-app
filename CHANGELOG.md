@@ -539,3 +539,17 @@
 - Wired up JavaScript: bottom nav buttons now trigger category switching via activateCategory()
 - Bottom nav syncs with top category pills, deep-link URL params, and browser back/forward (popstate)
 - Respects prefers-reduced-motion: disables transitions when user has motion sensitivity
+
+## 2026-04-01 — v3.8.0 — 375px Mobile Viewport Audit (Pixel)
+
+### Narrow Mobile Optimizations (<=400px breakpoint)
+- Reduced hero card title from 1.4rem to 1.25rem for better readability on 375px screens
+- Tightened hero card padding and image margins to reclaim vertical space
+- Shrunk trending chips from 220px to 190px so more than one chip is visible, inviting horizontal scroll
+- Reduced bottom nav icon size (1.1rem) and label font-size (0.55rem) to prevent text clipping on 6-button layout at 375px
+- Tightened main content padding (0.75rem) and card padding (0.75rem) for better space utilization
+- Reduced category nav horizontal padding to 0.5rem for more pill visibility
+- Narrowed trending scroll fade-edge indicators from 2rem to 1.25rem to maximize visible chip area
+
+### Bug Fix
+- Fixed active category pill count color: `.pill-count` text now switches to dark (#0d1117) when pill is active, fixing contrast issue where light gray text sat on blue background
