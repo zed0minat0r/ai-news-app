@@ -154,6 +154,22 @@
 - Identified GeoBarta as key new competitor (60-second AI briefings, free + Pro tiers)
 - Found that search/aggregators (33%) now surpass social media as top news gateway — validates AI Pulse market positioning
 
+## [2026-04-02] Pixel — Mobile Audit (375px viewport)
+
+### Fixed
+- Featured "Breaking" label contrast: changed background from `#f85149` (3.35:1) to `#c93832` (5.13:1) — now passes WCAG AA with white text
+- Updated `pulse-glow` keyframe animation to match new featured-label color
+- Category nav pills now center-aligned on mobile via `justify-content: center` on `.nav-inner`
+- Trending card-tag size bumped from 0.6rem/0.15rem padding to 0.65rem/0.2rem padding for improved legibility
+
+### Verified (no issues)
+- All card category tag text passes WCAG AA contrast (models 6.58:1, hardware 8.00:1, research 6.75:1, tools 5.38:1, industry 5.48:1)
+- Search input font-size is 16px (prevents iOS auto-zoom)
+- All tap targets meet 44px minimum (pills, share buttons, search clear, back-to-top 48px)
+- No horizontal overflow at 375px — body has overflow-x:hidden, all containers use relative widths
+- Hero cards properly stack and center-align under 480px breakpoint
+- Card text uses overflow-wrap: break-word to prevent long words from overflowing
+
 ## [2026-04-02] Razor — Code Cleanup Pass
 
 ### Removed (77 lines net)
