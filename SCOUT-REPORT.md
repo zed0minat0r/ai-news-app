@@ -221,3 +221,208 @@ Reuters Institute data (April 2026) shows a significant shift:
 The Agentic AI Foundation's first MCP Dev Summit is happening today with 95+ sessions. Key signal: the agentic AI ecosystem is formalizing rapidly around open standards (MCP, AGENTS.md, goose). This is a major content category for our app — enterprise agentic deployments will be a recurring news theme throughout 2026.
 
 *Updated by Scout on 2026-04-02.*
+
+---
+
+## 8. PWA Best Practices for News Apps
+
+**Date:** 2026-04-01
+
+### Why PWA Matters for AI Pulse
+As a GitHub Pages-hosted web app, going PWA gives us native-app-like capabilities at zero cost — offline reading, home screen install, and push notifications — without app store friction.
+
+### Service Worker Strategy
+
+| Strategy | Use Case | When to Use |
+|----------|----------|-------------|
+| **Cache-First** | Static assets (CSS, JS, icons, fonts) | Assets that rarely change |
+| **Network-First** | API responses, `news.json` feed data | Dynamic content that must be fresh |
+| **Stale-While-Revalidate** | Article images, thumbnails | Instant load + silent background update |
+
+**Implementation priority:**
+1. Precache the app shell (HTML, CSS, JS, icons) during SW install — keep it lean to avoid delaying activation.
+2. Use network-first for `news.json` so users always see the latest feed when online.
+3. Fall back to cached `news.json` when offline so the app still works.
+4. Cache article images on demand (runtime caching) with stale-while-revalidate.
+
+### Install Prompt Best Practices
+- Provide a complete `manifest.json` with: name, short_name, icons (192px + 512px), display: "standalone", theme_color, background_color, start_url.
+- HTTPS is required (GitHub Pages provides this).
+- Do NOT show the install prompt immediately — wait until the user has engaged (e.g., visited 3+ times or scrolled the feed).
+- Use a custom in-app banner ("Add AI Pulse to your home screen for instant access") instead of relying on the browser's default prompt.
+
+### Push Notifications for News
+- Use the Push API + Notifications API via service workers.
+- iOS 16.4+ now supports PWA push, but only after the user installs the PWA to their home screen.
+- **Permission strategy:** Never ask on first visit. Show a custom pre-prompt explaining value: "Get notified when major AI models drop."
+- **Segmentation:** Let users choose notification categories (e.g., "Only Models" or "Only Hardware").
+- Track: permission grant rate, open rate, click-through rate, unsubscribe rate.
+
+### Offline Experience
+- Show a custom offline page with cached articles instead of the browser's "no internet" error.
+- Display a subtle "You're offline — showing cached content" banner.
+- Cache the last 20-30 articles for offline reading.
+
+### Actionable Recommendations for Builder
+1. Add `manifest.json` and register a service worker.
+2. Implement cache-first for app shell, network-first for feed data.
+3. Add a custom install banner after 3rd visit.
+4. Build an offline fallback page with cached articles.
+5. Push notifications can be Phase 2 (requires a push server like web-push npm package).
+
+---
+
+## 9. News App Monetization Strategies (Future Planning)
+
+**Date:** 2026-04-01
+
+### Monetization Models Ranked by Fit for AI Pulse
+
+| Model | Revenue Potential | User Impact | Difficulty | Recommended Phase |
+|-------|------------------|-------------|------------|-------------------|
+| **Freemium (Free + Premium tier)** | High | Low | Medium | Phase 2 |
+| **Sponsored Content / Native Ads** | Medium-High | Medium | Low | Phase 2 |
+| **Newsletter Sponsorships** | Medium | Low | Low | Phase 1 |
+| **Affiliate Links** | Medium | Low | Low | Phase 1 |
+| **Display Ads (Programmatic)** | Low-Medium | High (intrusive) | Low | Avoid early on |
+| **Donations / Tip Jar** | Low | None | Very Low | Phase 1 |
+
+### Recommended Approach: Hybrid Freemium
+
+**Free Tier (default):**
+- Full news feed access
+- All categories
+- Ad-supported (native ads, not banner ads)
+
+**Premium Tier ($5-8/month or $50-70/year):**
+- Ad-free reading experience
+- AI-powered daily briefing email
+- Early access to new features
+- Exclusive "deep dive" content or weekly AI hardware roundups
+- Custom notification preferences
+
+**Key Insight:** The Guardian model works — free ad-supported access with voluntary premium subscriptions. About 60% of The Guardian's revenue comes from this hybrid approach. Annual plans have lower churn than monthly, but monthly plans convert more easily.
+
+### Low-Effort Phase 1 Revenue Streams
+1. **Affiliate links** — Link to AI hardware (GPUs, laptops) on Amazon/Newegg with affiliate tags. Hardware articles naturally drive purchase intent.
+2. **Newsletter sponsorships** — If we add a weekly AI digest email, sponsors pay $50-500+ per issue depending on list size.
+3. **"Buy Me a Coffee" / GitHub Sponsors** — Simple donation link for supporters.
+
+### Sponsored Content Guidelines
+- Clearly label all sponsored content as "Sponsored" or "Partner Content."
+- Native ads should match the card format but be visually distinct (subtle "Ad" badge).
+- Limit to 1 sponsored card per 10 organic cards to maintain trust.
+- Personalization can boost ad revenue and subscription conversion by up to 50% (McKinsey data).
+
+### What to Avoid
+- Interstitial ads (full-screen pop-ups) — kills mobile UX.
+- Paywalling core news content — defeats the purpose of an aggregator.
+- Too many ad placements early on — build audience first, monetize later.
+
+---
+
+## 10. Reading Experience Features
+
+**Date:** 2026-04-01
+
+### Must-Have Reading Features for AI Pulse
+
+#### Dark/Light Mode Toggle
+- Implement a theme toggle (sun/moon icon) in the header.
+- Support three modes: **Light**, **Dark**, and **System** (follow OS preference).
+- Use CSS custom properties (variables) for easy theming.
+- Persist user preference in `localStorage`.
+- Dark mode is not optional in 2026 — Chrome just redesigned its Android reading mode with dark theme support.
+
+#### Text Size Controls
+- Offer 3-5 text size presets (Small, Default, Large, Extra Large).
+- Use relative units (`rem`) so scaling is consistent.
+- Persist preference in `localStorage`.
+- Consider a simple A/A+ button in the article view.
+
+#### Reading Time Estimates
+- Display estimated reading time on each card (e.g., "3 min read").
+- Calculate based on ~200-250 words per minute average.
+- Helps users pick articles that fit their available time — a key engagement driver.
+- Show reading time alongside the source and timestamp.
+
+#### Save for Later / Bookmarks
+- Allow users to bookmark articles with a single tap (bookmark icon on each card).
+- Store bookmarks in `localStorage` (no backend needed for Phase 1).
+- Add a "Saved" tab or filter to access bookmarked articles.
+- Sync across devices would require user accounts (Phase 2).
+- Top read-later apps in 2026 (Omnivore, Readwise Reader, Pocket, Instapaper) all emphasize clean, distraction-free reading — we should match that quality.
+
+#### Reader View
+- For article detail pages, strip clutter and show clean typography.
+- Adjustable line spacing and font family (sans-serif default, serif option).
+- Full-width reading area on mobile with generous padding.
+
+### Implementation Priority for Builder
+1. Dark/Light/System mode toggle (high impact, moderate effort).
+2. Reading time on cards (high impact, low effort — just word count math).
+3. Save for Later with localStorage (high impact, moderate effort).
+4. Text size controls (medium impact, low effort).
+5. Reader view (medium impact, higher effort — Phase 2).
+
+---
+
+## 11. Social & Community Features
+
+**Date:** 2026-04-01
+
+### The 2026 Landscape: Key Trends
+
+- **Comments are declining** on most platforms — TikTok (-24% YoY), Instagram (-20% YoY). Facebook is the exception (+20% YoY).
+- **Private communities** are growing — users migrating to niche groups on Discord, Slack, and Facebook Groups.
+- **Reactions outperform comments** — lower friction, higher participation rate.
+- **Community features boost retention 2.7x** according to engagement research.
+- **AI-curated feeds** (like Pinterest's "Boards made for you") are becoming the standard.
+
+### Recommended Social Features for AI Pulse
+
+#### Phase 1 — No Backend Required
+| Feature | Implementation | Effort |
+|---------|---------------|--------|
+| **Share buttons** | Native Web Share API (mobile) + copy link fallback | Low |
+| **Reaction emoji** | Quick tap reactions (fire, rocket, mind-blown) stored in localStorage for UI state; actual counts optional | Low |
+| **Share count display** | Can use free APIs or estimate from social platforms | Low |
+| **"Trending" badge** | Algorithmically tag articles with high click-through as "Trending" | Low |
+
+#### Phase 2 — Requires Backend / Auth
+| Feature | Implementation | Effort |
+|---------|---------------|--------|
+| **Comments** | Use a lightweight embed like Giscus (GitHub Discussions-backed) or Disqus | Medium |
+| **Upvote / Downvote** | Hacker News-style voting to surface best articles | Medium |
+| **User profiles** | Simple profiles with saved articles and reading history | High |
+| **Community curation** | Let users submit AI news links for community voting | High |
+
+#### Phase 3 — Advanced
+| Feature | Implementation | Effort |
+|---------|---------------|--------|
+| **Gamification** | Reading streaks, badges ("Read 7 days straight"), leaderboards | High |
+| **Discussion threads** | Threaded conversations per article | High |
+| **User-submitted news** | Reddit-style community submissions with moderation | High |
+
+### Share Implementation (Phase 1 Priority)
+- Use the **Web Share API** (`navigator.share()`) which provides the native OS share sheet on mobile.
+- Fallback: Copy-to-clipboard button for desktop browsers.
+- Pre-fill share text: "Check out this AI news on AI Pulse: [title] [url]"
+- Track share events for analytics.
+
+### Why NOT to Over-Invest in Comments Early
+- Comment systems require moderation (spam, toxicity).
+- Low-traffic apps get empty comment sections, which look worse than no comments at all.
+- Better to start with reactions (low friction) and add comments once there's an active user base.
+- If we do add comments, **Giscus** (free, GitHub Discussions-backed) is ideal for a GitHub Pages app.
+
+### Actionable Recommendations for Builder
+1. Add Web Share API share button to each card (Phase 1, easy win).
+2. Add quick-tap emoji reactions on cards (Phase 1, fun and engaging).
+3. Add a "Trending" badge based on click-through data (Phase 1).
+4. Defer full comments to Phase 2 — use Giscus when ready.
+5. Consider a Discord community link for deeper discussion (zero development cost).
+
+---
+
+*Report updated by Scout on 2026-04-01 — Sections 8-11 added covering PWA, Monetization, Reading Experience, and Social Features.*
