@@ -1,10 +1,10 @@
-# AI Pulse — Audit Report v7
+# AI Pulse — Audit Report v8
 
 **Auditor:** Nigel (Strict Auditor)
 **Date:** 2026-04-01
 **Perspective:** Mobile user (375px viewport)
 **Live Site:** https://zed0minat0r.github.io/ai-news-app/
-**Previous Audits:** v1 — 6.0, v2 — 6.5, v3 — 7.0, v4 — 7.2, v5 — 7.3, v6 — 7.5
+**Previous Audits:** v1 — 6.0, v2 — 6.5, v3 — 7.0, v4 — 7.2, v5 — 7.3, v6 — 7.5, v7 — 7.7
 
 ---
 
@@ -19,264 +19,253 @@
 
 ---
 
-## Changes Audited Since v6
+## Changes Since v7
 
-Reported improvements: Real article images via OG tags (claimed 28/50, verified 26/50 = 52% coverage), WCAG contrast fixes on all chip/card/pill tags, Firebase placeholder removed (saves ~40KB), arXiv abstract metadata cleanup (regex strip of "arXiv:XXXX Announce Type: new Abstract:" prefix), newsletter signup (Formspree, already in v6), Tools keyword expansion (30+ keywords), nav pill scroll centering via scrollIntoView, 515 lines dead CSS cleaned (already in v6), animated hero border (conic-gradient rotating border), card summary font bump (0.8rem to 0.85rem), narrow-screen form stacking (max-width: 400px breakpoint).
+Only change since the v7 audit commit is an auto-update to news.json (content refresh). No code changes to HTML, CSS, or JS. This audit is therefore a **recalibration** of v7 scores with stricter real-user perspective, checking whether the v7 scores were justified, and flagging issues that may have been overlooked.
+
+Claimed improvements being verified: WCAG contrast on chip/card/pill tags, nav pill scroll centering, animated rotating gradient border on hero, 515 lines dead CSS cleaned.
+
+- **WCAG contrast fixes**: Verified. Chip tags at 0.18 alpha, card tags at 0.15 alpha, full-saturation text colors (#d2a8ff, #7ee787, #ffa657, #79b8ff, #f778ba). Correct.
+- **Nav pill scroll centering**: Verified. `scrollIntoView({ behavior: "smooth", inline: "center", block: "nearest" })` at main.js:902. Correct.
+- **Animated hero border**: Verified. `@property --hero-border-angle` with `conic-gradient` and `hero-border-spin` keyframes at 6s linear infinite. 2px border via `::before`/`::after` masking. Tasteful.
+- **515 lines dead CSS**: Verified by commit history (39e59ec). style.css is now 1245 lines — lean for the feature set.
+
+**No new issues introduced.** The codebase is stable.
 
 ---
 
 ## Section-by-Section Audit
 
-### 1. Content Quality — 7.5 / 10 (v6: 7.5, +0.0)
+### 1. Content Quality — 7.5 / 10 (v7: 7.5, +0.0)
 
-**What improved:**
-- arXiv abstracts are now cleaned. All 11 arXiv articles have the "arXiv:XXXX Announce Type: new Abstract:" prefix stripped. Summaries now read like proper editorial copy. This was v6 Rec #3 and it is fully addressed. A mobile user reading Research articles no longer sees raw database metadata.
-- Category distribution: Industry 20, Hardware 12, Models 10, Research 6, Tools 2. Models improved from 9 to 10. Research dropped from 10 to 6 (feed cycle fluctuation, not a structural regression).
+**Strengths:**
+- 50 articles, 9 distinct sources, arXiv summaries properly cleaned.
+- Category distribution: Industry 20, Hardware 12, Models 10, Research 6, Tools 2.
 
-**What still falls short:**
-- Tools still has only 2 articles despite 30+ keywords added to the classifier. The keyword expansion was the right idea but the feeds themselves (Hugging Face Blog, Product Hunt AI) are not producing enough qualifying content. This is now the 3rd cycle with Tools starved.
-- Hacker News still dominates at 40% (20/50 articles). Source concentration risk unchanged.
-- 9 distinct sources total — marginal improvement over 8 in v6.
-- No editorial curation, quality scoring, or editor's pick logic.
+**Weaknesses (unchanged):**
+- Tools still starved at 2 articles. This has been the case for 5 audit cycles. The keyword expansion was the right idea but feeds are the bottleneck.
+- Hacker News dominance at ~40%. Source concentration risk.
+- No editorial curation, quality scoring, or deduplication.
+- Research dropped to 6 (from 10 in v6) — likely feed cycle fluctuation.
 
-**Verdict:** arXiv cleanup is a real content quality improvement — those articles now read like they belong in the app. But the distribution numbers are largely unchanged, and Tools remains at 2. The improvement is in presentation quality, not breadth. Holds at 7.5.
-
----
-
-### 2. Visual Design — 8.0 / 10 (v6: 7.5, +0.5)
-
-**What improved:**
-- Real article images on 26 of 50 cards (52%). This is THE change the audit has been requesting since v4. Cards with images show `<img>` with `loading="lazy"`, `object-fit: cover`, `border-radius: inherit`. The `onerror` fallback gracefully reverts to emoji gradient. On a phone, scrolling through the feed now shows roughly every other card with a real photograph. This fundamentally changes the visual impression.
-- Animated hero border: A `conic-gradient` rotating border using `@property --hero-border-angle` and `hero-border-spin` keyframes at 6s linear infinite. The inner `::after` masks the center to reveal a 2px animated border. Tasteful and eye-catching without being garish — aligns with the AGENT-RULES directive for minimal animations.
-- WCAG contrast fixes: Chip tag backgrounds lowered from 0.28 to 0.18 alpha, text switched to full-saturation category colors (#f778ba, #d2a8ff, #7ee787, #ffa657, #79b8ff). Card tags same treatment (0.25 to 0.15 alpha). These are now reliably above WCAG 3:1 for non-text elements on dark backgrounds.
-- Card summary font bumped from 0.8rem to 0.85rem (13.6px at 16px base). Small but meaningful for mobile readability.
-
-**What still falls short:**
-- Hero card still has no image. The featured article uses emoji + text only. With 52% image coverage, the hero is the most prominent card that lacks a photo. This is the obvious next step.
-- 48% of cards still show emoji gradients. Coverage needs to reach 70%+ to feel consistently image-rich.
-- 0.65rem (10.4px) still appears once in CSS (button padding, not font-size — this is acceptable). The 0.7rem meta font in trending chips (11.2px) is borderline but tolerable.
-- No dark/light theme toggle. The dark theme is well-executed but some users prefer light mode.
-
-**Verdict:** Real images on 52% of cards is the single biggest visual upgrade across all 7 audits. The app now looks like a news app, not a template. The animated hero border adds polish. The contrast fixes are correct. This clears the bar for 8.0 — a user scrolling through would see real photos, clean typography, and proper visual hierarchy. Bumped to 8.0.
+**Verdict:** Content fundamentals unchanged. Holds at 7.5.
 
 ---
 
-### 3. Mobile UX (375px) — 8.0 / 10 (v6: 7.5, +0.5)
+### 2. Visual Design — 7.5 / 10 (v7: 8.0, -0.5)
 
-**What improved:**
-- Firebase auth button removed. No more broken interactive element in the header. No more console errors on load. No more wasted 40KB. This was v6 Rec #2 (Option B — remove it) and it was executed cleanly. The HTML contains only comments indicating where to re-add with real credentials.
-- Nav pill scroll centering: `scrollIntoView({ behavior: "smooth", inline: "center", block: "nearest" })` called in `activateCategory()`. When a user taps a category, the pill scrolls to center in the horizontal nav bar. This was missing since v5. Verified in main.js line 902.
-- Narrow-screen form stacking: `@media (max-width: 400px)` breakpoint stacks newsletter forms vertically with full-width buttons. This prevents cramped input+button combos on small screens (iPhone SE, Galaxy S series).
-- Card summary font bump to 0.85rem improves readability on mobile.
+**Recalibration rationale:**
 
-**What still falls short:**
-- Still no pull-to-refresh gesture. Standard expectation for mobile news apps.
-- No loading state when switching categories — skeleton is initial-load only.
-- No haptic/visual feedback on card tap beyond the default link behavior.
-- No "back to top" button when deep in the feed.
+The v7 score of 8.0 ("a user would choose this over competitors") was generous. Reassessing strictly:
 
-**Verdict:** The Firebase removal is a meaningful UX improvement by subtraction — removing a broken element is better than adding a working one in some cases. Nav pill centering fixes a longstanding usability gap. The narrow-screen stacking shows attention to the smallest viewports. Combined with real images (which improve the visual density of the mobile feed), the mobile experience now feels purposeful and polished. Bumped to 8.0.
+- Real images on 26/50 cards (52%) is good, but the distribution is deeply uneven: Hardware 92%, Industry 55%, Models 20%, Research 17%. A user browsing the Models category sees emoji placeholders on 8 of 10 cards. A user browsing Research sees placeholders on 5 of 6. The "every other card has a photo" impression only holds on the All feed, not on individual categories.
+- The **hero card has no image**. The most prominent element in the app is still emoji + text. This is the 2nd cycle this has been flagged.
+- 0.7rem (11.2px) font sizes still appear in trending chip meta text. 0.72rem on chip tags and card tags. These are small on a real phone screen at 375px — 11.5px is borderline readable.
+- The animated hero border is tasteful and well-implemented, but it's polish on a card that still lacks the most impactful visual element (a photo).
+- Compared to Techpresso's clean editorial layout or SmartNews's image-rich grid, the emoji-gradient fallback cards still read as "template" rather than "product."
+
+**Verdict:** 52% image coverage with uneven distribution and no hero image does not clear the 8.0 bar when compared to real competitors. Dropping to 7.5 — still a good-looking app, genuinely better than most, but not yet at "choose this over competitors" level.
 
 ---
 
-### 4. Search / Filter — 7.5 / 10 (v6: 7.5, +0.0)
+### 3. Mobile UX (375px) — 7.5 / 10 (v7: 8.0, -0.5)
 
-**What changed:**
-- No structural changes to search/filter since v6. Debounce, highlighting, and deep linking remain in place and working.
+**Recalibration rationale:**
 
-**What still falls short:**
-- No date range filter.
-- No combined filter indicator ("Showing 5 results for 'nvidia' in Hardware").
-- No autocomplete or search suggestions.
-- Search doesn't persist while scrolling — top-of-page only.
+The v7 score of 8.0 was based on Firebase removal (fixing a broken element) and nav pill centering (fixing a missing behavior). These are corrections, not enhancements. At the 8.0 bar, a user should feel "this was built for my phone." Reassessing:
 
-**Verdict:** No changes. Holds at 7.5.
+- **Back-to-top button exists** (the v7 audit listed "no back to top" as a shortcoming — this was incorrect; it's been present in the HTML and JS). Good: 48px, fixed position, proper show/hide behavior.
+- **Still no pull-to-refresh.** This is table stakes for a mobile news app. Particle, SmartNews, and every native news app has this. A web app can implement it with touch event listeners.
+- **No loading state when switching categories.** Skeleton loading is initial-load only. Switching from "All" to "Models" is instant (client-side filter), which is fine, but there's no visual feedback during the filter animation.
+- **No haptic or visual feedback on card tap** beyond the brief `:active` scale transform (0.98x). Cards are `<article>` elements with links inside — the tap target is the title link, not the full card. A user tapping the card body outside the link/button gets nothing.
+- **Narrow-screen stacking** (max-width: 400px) is correct for forms.
+- **No bottom navigation bar.** Standard pattern for mobile news apps that v7 noted but did not penalize enough.
 
----
-
-### 5. Navigation — 7.5 / 10 (v6: 7.5, +0.0)
-
-**What improved:**
-- Nav pill scroll centering is a navigation improvement, but it's a fix for an existing feature rather than a new capability.
-- Firebase auth button removal cleans up the header — one fewer element competing for attention.
-
-**What still falls short:**
-- Still no breadcrumb or "back to home" button in list view.
-- Footer is still just a credit line — no useful links, categories, or about page.
-- No bookmarking / saved articles.
-- No bottom navigation bar (standard pattern for mobile news apps).
-
-**Verdict:** The nav pill centering is a genuine usability fix but was already expected functionality. The header cleanup from Firebase removal is positive but minor. The navigation structure is fundamentally unchanged. Holds at 7.5.
+**Verdict:** The UX is clean and functional but lacks the native-feeling interactions (pull-to-refresh, full-card tap targets, bottom nav) that separate a 7.5 from an 8.0. Dropping to 7.5.
 
 ---
 
-### 6. Performance — 7.5 / 10 (v6: 7.0, +0.5)
+### 4. Search / Filter — 7.5 / 10 (v7: 7.5, +0.0)
 
-**What improved:**
-- Firebase SDK removed: ~40KB gzipped savings on every page load. This was pure waste — a non-functional SDK that loaded, failed, and added latency. Removing it is a direct performance win for every mobile user on cellular.
-- `loading="lazy"` on all card images. With 26 images now in the feed, lazy loading prevents them from blocking initial render. Only images in/near the viewport load immediately.
-- 0.65rem font-size occurrences reduced from 3 (v6 audit) to 1 (button padding only, not font-size). Cleaner CSS.
-
-**What still falls short:**
-- No service worker, no PWA manifest, no offline support. This is a gap for mobile users with spotty connectivity.
-- No minification or bundling (main.js is 1079 lines, style.css is 1245 lines). Not critical but not optimized.
-- Cache-busting `?t=Date.now()` still prevents browser caching of news.json.
-- No image optimization — OG images are loaded at whatever size the source provides. No srcset, no width/height attributes for CLS prevention.
-
-**Verdict:** Firebase removal is measurable performance improvement (~40KB saved). Lazy loading on images is correct implementation for the new image feature. These are real wins. Bumped to 7.5.
+No changes. Debounce, highlighting, deep linking, result count all work. Still lacks date range filter, combined filter indicator, autocomplete. Holds at 7.5.
 
 ---
 
-### 7. Accessibility — 8.0 / 10 (v6: 8.0, +0.0)
+### 5. Navigation — 7.0 / 10 (v7: 7.5, -0.5)
 
-**What improved:**
-- WCAG contrast fixes on chip tags and card tags. Background alpha reduced, text switched to full-saturation colors. These now reliably meet WCAG 3:1 minimum for non-text UI components.
-- Inactive pill count opacity fix: removed stacking `opacity: 0.7` on already-muted text. Now renders at full opacity with `var(--text-muted)` for ~7:1 contrast.
+**Recalibration rationale:**
 
-**What hasn't changed:**
-- All v6 accessibility features remain: aria-live, sr-only labels, 44px tap targets, reduced-motion.
-- Image alt attributes are empty (`alt=""`) with `aria-hidden="true"` on the thumb container — correct for decorative images.
+Reassessing against the 7.0 bar ("genuinely better than most"):
 
-**What still falls short:**
-- Trending chips still lack list semantics and `aria-labelledby`.
-- No skip-to-content link.
-- No focus-visible ring customization (relies on browser default).
+- Nav pill horizontal scroll with centering works well. Good category system.
+- Skip-to-content link exists (verified in index.html:14). Good.
+- Back-to-top button exists and works. Good.
+- **But:** No bottom navigation bar. No bookmarking. No saved articles. Footer is just a credit line. No useful footer links. No breadcrumb in list view. These are standard features in competitor apps.
+- The navigation is functional but minimal. It does the basics correctly but doesn't offer the depth that would clear 7.5.
 
-**Verdict:** The contrast fixes are genuine accessibility improvements that address specific WCAG criteria. But the scope of change is narrow — fixing colors, not adding new accessibility patterns. The existing 8.0 already accounted for good foundations. Holds at 8.0.
+**Verdict:** Solid basics but no depth. 7.0 is the right score — genuinely functional, not yet "better than most."
 
 ---
 
-### 8. Category System — 7.5 / 10 (v6: 7.5, +0.0)
+### 6. Performance — 7.5 / 10 (v7: 7.5, +0.0)
 
-**What changed:**
-- Tools keyword list expanded to 30+ terms (claude code, windsurf, replit, github copilot, tabnine, perplexity, vector database, etc.). The expanded list is comprehensive and well-chosen.
-- Current distribution: Industry 20, Hardware 12, Models 10, Research 6, Tools 2.
+**Strengths:**
+- Firebase removed (~40KB saved). Lazy loading on images. Clean CSS (1245 lines after dead code removal).
 
-**What still falls short:**
-- Tools still has only 2 articles despite the keyword expansion. The problem is upstream — the feeds don't produce enough tool-specific content. Adding tool-focused feeds (GitHub Trending, LangChain blog) would help more than expanding keywords.
-- Research dropped from 10 to 6 (likely feed cycle timing, not a structural issue).
-- No multi-tagging capability.
+**Weaknesses (unchanged):**
+- No service worker / PWA / offline support.
+- No minification/bundling (main.js 1079 lines, style.css 1245 lines served raw).
+- `?t=Date.now()` cache-busting on news.json prevents browser caching.
+- No image optimization — no `width`/`height` attributes on card images (CLS risk), no `srcset`, no size constraints on OG images that could be arbitrarily large.
 
-**Verdict:** Keywords were expanded but the output is unchanged (Tools: 2). The fix targeted the classifier when the bottleneck is feed coverage. Holds at 7.5.
-
----
-
-### 9. Featured Section — 7.5 / 10 (v6: 7.5, +0.0)
-
-**What changed:**
-- Animated hero border adds visual distinction to the featured card. The rotating conic-gradient border makes the hero stand out from regular cards — it signals "this is important" without overwhelming.
-
-**What still falls short:**
-- No hero image. With 52% of regular cards now having images, the hero card (the most prominent element) still shows only emoji + text. The hero should be the FIRST place to show a real image.
-- "Breaking" label on every featured article regardless of recency.
-- No rotation within a session.
-- No quality scoring for featured selection.
-
-**Verdict:** The animated border is a nice touch but doesn't change the fundamental limitation of no hero image. Holds at 7.5.
+**Verdict:** Holds at 7.5. The performance is reasonable for a GitHub Pages app but lacks optimization.
 
 ---
 
-### 10. Hardware Coverage — 7.0 / 10 (v6: 7.0, +0.0)
+### 7. Accessibility — 7.5 / 10 (v7: 8.0, -0.5)
 
-**What changed:**
-- 12 hardware articles (same as v6). Content quality appears similar.
+**Recalibration rationale:**
 
-**What still falls short:**
-- No specs, benchmarks, or hardware-specific filtering.
-- No dedicated hardware feeds (AnandTech AI, ServeTheHome).
-- No hardware comparison features.
+The v7 score of 8.0 was generous. Reassessing:
 
-**Verdict:** No meaningful changes. Holds at 7.0.
+- **Good foundations:** aria-live on result count and newsletter success, sr-only labels, skip-to-content link, aria-pressed on nav pills, aria-label on search/buttons, reduced-motion support, proper aria-hidden on decorative elements.
+- **WCAG contrast fixes** on chips/tags are correct and verified.
+- **But:** Trending chips still lack list semantics (`<ul>`/`<li>`) and `aria-labelledby`. Category sections in the homepage are `<div>` containers built by JS without proper heading hierarchy. The card images use `alt=""` with `aria-hidden="true"` on the container, which is correct for decorative images but means screen reader users get no image context at all.
+- No focus-visible ring customization (relies on browser default, which is often insufficient on dark backgrounds).
+- No landmark for the trending section beyond `role="region"` with `aria-labelledby`.
+
+**Verdict:** The accessibility work is good but not exceptional. 7.5 is the right bar — solid compliance, some gaps in semantics. 8.0 requires comprehensive semantic HTML and custom focus management.
 
 ---
 
-### 11. Overall App Feel — 8.0 / 10 (v6: 7.5, +0.5)
+### 8. Category System — 7.5 / 10 (v7: 7.5, +0.0)
+
+**Distribution:** Industry 20, Hardware 12, Models 10, Research 6, Tools 2.
+
+Tools at 2 articles for 5 consecutive audits. Keyword expansion done, feed problem persists. No multi-tagging. No sub-categories. The system works correctly for what it does. Holds at 7.5.
+
+---
+
+### 9. Featured Section — 7.0 / 10 (v7: 7.5, -0.5)
+
+**Recalibration rationale:**
+
+- The hero card currently features "OpenAI acquires TBPN" with NO image. The animated gradient border draws attention to a card that shows only an emoji and text. This is counterproductive — the border says "look here!" and the content disappoints.
+- "Breaking" label on every featured article regardless of age or significance.
+- No rotation within a session. No quality scoring for featured selection.
+- Featured selection is based on a `featured` flag in news.json — manual/algorithmic curation, not user engagement.
+
+**Verdict:** The animated border is nice polish but the hero still lacks an image, which is the #1 visual gap in the entire app. A featured section without a featured image is below the 7.5 bar. Dropping to 7.0.
+
+---
+
+### 10. Hardware Coverage — 7.0 / 10 (v7: 7.0, +0.0)
+
+12 hardware articles with 92% image coverage (best of any category). Content quality is fine. Still no specs, benchmarks, or hardware-specific filtering. Holds at 7.0.
+
+---
+
+### 11. Overall App Feel — 7.5 / 10 (v7: 8.0, -0.5)
 
 **What a real user would think on their phone today:**
 
-This feels like a real news app now. Scrolling through the feed, roughly every other card has a real photograph — not a placeholder emoji. The hero has a subtle animated border that catches the eye. The category tags are legible. The header is clean (no broken auth button). The newsletter signup feels like a real product feature.
+Open the app. Dark theme, clean header, animated hero card with a spinning gradient border. The hero shows an emoji and a headline — no photo. Scroll down. Trending chips with category tags. Then cards: roughly half have real photos (hardware and industry articles), half show colored emoji gradients (most models and research articles).
 
-The arXiv abstracts read like actual summaries instead of database dumps. The nav pills center when you tap a category. Forms stack properly on a narrow phone.
+Tap "Models" — 8 of 10 cards are emoji placeholders. The promise of "real article images" largely vanishes outside the hardware/industry categories.
+
+The app is clean, loads fast, has working search and category filtering. The newsletter signup is professional. The nav pills center nicely. It feels like a well-built side project.
 
 **Compared to competitors:**
-- vs. Techpresso: Still behind on curation and editorial voice, but the visual gap has narrowed significantly with real images. Techpresso's emails are hand-curated; this is algorithmic but now looks professional.
-- vs. Particle: Behind on source clustering and native feel, but the web app is now visually competitive for a browser-based experience.
-- vs. SmartNews: Behind on personalization and offline reading, but the category system and search are solid.
+- vs. Techpresso: Behind on curation, editorial voice, and consistent visual density. Techpresso's every article has an image.
+- vs. Particle: Behind on source clustering, personalization, and native feel. Particle has full-bleed images on every card.
+- vs. SmartNews: Behind on personalization, offline reading, and image consistency.
 
-A user could now open this on their phone and not immediately think "this is a student project." That is a meaningful threshold to cross. The images, the hero animation, the clean header, and the accessible color system all contribute to a cohesive, professional feel.
+The v7 score of 8.0 ("a user would choose this over competitors") was too high. A user might bookmark this, but they would not choose it over Particle or SmartNews. The app does one thing well (aggregate AI news) with a clean UI, but the inconsistent image coverage and lack of native mobile patterns (pull-to-refresh, bottom nav, offline) keep it in the "nice side project" tier rather than the "competitive product" tier.
 
-**What prevents 8.5:** No hero image, Tools category is empty, no pull-to-refresh, no offline support, 48% of cards still use emoji placeholders. The app does one thing (aggregate AI news) and does it well enough that a user might bookmark it — but not well enough to replace their existing news source.
-
-**Verdict:** The combination of real images, Firebase removal, arXiv cleanup, WCAG fixes, and nav pill centering represents the most impactful improvement cycle since v3. Each change individually is modest, but together they transform the feel from "polished template" to "functional news app." Bumped to 8.0.
+**Verdict:** 7.5 — genuinely good, better than most template-based projects, but not yet at the "choose over competitors" bar.
 
 ---
 
 ## Score Summary
 
-| Area | v1 | v2 | v3 | v4 | v5 | v6 | v7 | v6->v7 |
-|------|-----|-----|-----|-----|-----|-----|-----|--------|
-| Content Quality | 6.0 | 6.5 | 7.5 | 7.0 | 7.0 | 7.5 | 7.5 | +0.0 |
-| Visual Design | 6.5 | 7.0 | 7.0 | 7.5 | 7.5 | 7.5 | 8.0 | **+0.5** |
-| Mobile UX (375px) | 6.0 | 6.5 | 7.0 | 7.5 | 7.5 | 7.5 | 8.0 | **+0.5** |
-| Search / Filter | 5.5 | 6.5 | 6.5 | 7.0 | 7.0 | 7.5 | 7.5 | +0.0 |
-| Navigation | 5.5 | 5.5 | 6.5 | 7.5 | 7.5 | 7.5 | 7.5 | +0.0 |
-| Performance | 7.0 | 7.0 | 7.0 | 7.0 | 7.0 | 7.0 | 7.5 | **+0.5** |
-| Accessibility | 5.0 | 6.5 | 7.0 | 7.5 | 8.0 | 8.0 | 8.0 | +0.0 |
-| Category System | 6.5 | 6.5 | 7.0 | 7.0 | 7.0 | 7.5 | 7.5 | +0.0 |
-| Featured Section | 6.0 | 6.0 | 6.5 | 7.0 | 7.5 | 7.5 | 7.5 | +0.0 |
-| Hardware Coverage | 7.0 | 7.0 | 7.0 | 7.0 | 7.0 | 7.0 | 7.0 | +0.0 |
-| Overall App Feel | 5.5 | 6.0 | 7.0 | 7.5 | 7.5 | 7.5 | 8.0 | **+0.5** |
-| **OVERALL** | **6.0** | **6.5** | **7.0** | **7.2** | **7.3** | **7.5** | **7.7** | **+0.2** |
+| Area | v1 | v2 | v3 | v4 | v5 | v6 | v7 | v8 | v7->v8 |
+|------|-----|-----|-----|-----|-----|-----|-----|-----|--------|
+| Content Quality | 6.0 | 6.5 | 7.5 | 7.0 | 7.0 | 7.5 | 7.5 | 7.5 | +0.0 |
+| Visual Design | 6.5 | 7.0 | 7.0 | 7.5 | 7.5 | 7.5 | 8.0 | 7.5 | **-0.5** |
+| Mobile UX (375px) | 6.0 | 6.5 | 7.0 | 7.5 | 7.5 | 7.5 | 8.0 | 7.5 | **-0.5** |
+| Search / Filter | 5.5 | 6.5 | 6.5 | 7.0 | 7.0 | 7.5 | 7.5 | 7.5 | +0.0 |
+| Navigation | 5.5 | 5.5 | 6.5 | 7.5 | 7.5 | 7.5 | 7.5 | 7.0 | **-0.5** |
+| Performance | 7.0 | 7.0 | 7.0 | 7.0 | 7.0 | 7.0 | 7.5 | 7.5 | +0.0 |
+| Accessibility | 5.0 | 6.5 | 7.0 | 7.5 | 8.0 | 8.0 | 8.0 | 7.5 | **-0.5** |
+| Category System | 6.5 | 6.5 | 7.0 | 7.0 | 7.0 | 7.5 | 7.5 | 7.5 | +0.0 |
+| Featured Section | 6.0 | 6.0 | 6.5 | 7.0 | 7.5 | 7.5 | 7.5 | 7.0 | **-0.5** |
+| Hardware Coverage | 7.0 | 7.0 | 7.0 | 7.0 | 7.0 | 7.0 | 7.0 | 7.0 | +0.0 |
+| Overall App Feel | 5.5 | 6.0 | 7.0 | 7.5 | 7.5 | 7.5 | 8.0 | 7.5 | **-0.5** |
+| **OVERALL** | **6.0** | **6.5** | **7.0** | **7.2** | **7.3** | **7.5** | **7.7** | **7.4** | **-0.3** |
+
+**Note:** The v7->v8 drops are NOT regressions in code quality. They are scoring recalibrations. The v7 audit was the first to score 8.0 in multiple categories and, on reflection, those scores were too generous relative to the calibration scale where 8.0 = "a user would choose this over competitors." The codebase has not degraded — the scores have been corrected.
 
 ---
 
 ## Top 3 Priority Recommendations
 
-### 1. HIGH — Hero Image + Increase OG Image Coverage to 70%+
+### 1. CRITICAL — Hero Image + Fix Image Coverage Imbalance
 
-The hero card is now the most visually underwhelming element on the page. Regular cards have real photos; the hero — the most prominent card — still shows emoji + text. This is backwards.
+The hero card is the most visually prominent element and it has NO image. Meanwhile, image coverage is wildly uneven across categories:
+
+| Category | Images | Total | Coverage |
+|----------|--------|-------|----------|
+| Hardware | 11 | 12 | 92% |
+| Industry | 11 | 20 | 55% |
+| Models | 2 | 10 | 20% |
+| Research | 1 | 6 | 17% |
+| Tools | 1 | 2 | 50% |
+
+A user browsing Models or Research sees mostly emoji placeholders. This undermines the "real news app" feel.
 
 **Fixes:**
-- In `buildHeroCard()`, add image rendering when `article.image` exists. Full-width `<img>` with `aspect-ratio: 16/9`, `object-fit: cover`, above the title. This would make the hero the most visually striking element, as it should be.
-- Increase OG image coverage beyond 52%. Prioritize sources that commonly have OG images (news sites, blogs) over sources that don't (arXiv, Hacker News text posts). Consider a fallback image service (e.g., placeholder based on category) for articles without OG images.
-- Add `width` and `height` attributes to card images to prevent CLS (Cumulative Layout Shift).
-- **Impact:** Would push Visual Design toward 8.5, Featured Section toward 8.0, Overall toward 8.5.
+- `buildHeroCard()` must render `<img>` when `article.image` exists. Full-width, aspect-ratio 16/9, object-fit cover, above the title.
+- Prioritize OG image extraction for Models and Research sources. OpenAI Blog, Google AI Blog, and arXiv all have OG images available — ensure the scraper extracts them.
+- Consider a category-themed fallback image (abstract gradient with category icon) for articles without OG images, replacing the current plain emoji.
+- Add `width` and `height` attributes to all card images to prevent CLS.
+- **Impact:** Would push Visual Design to 8.0, Featured Section to 8.0, Overall App Feel to 8.0.
 
-### 2. HIGH — Fix Tools Category (Feed Problem, Not Keyword Problem)
+### 2. HIGH — Fix Tools Category (Add Tool-Focused RSS Feeds)
 
-Tools has had 2-3 articles for 4 audit cycles. The keyword list is now 30+ terms — the classifier is not the bottleneck. The feeds are. Hugging Face Blog and Product Hunt AI are not producing enough AI-tool-specific content that passes the relevance filter.
+Tools has been at 2-3 articles for FIVE consecutive audits. The classifier keywords are comprehensive (30+ terms). The bottleneck is upstream — the feeds don't produce enough tool-specific content.
 
 **Fixes:**
-- Add tool-specific RSS feeds that actually publish regularly: GitHub Trending (filter to AI repos), LangChain Blog, Weights & Biases Blog, Replicate Blog, Vercel AI Blog, Simon Willison's Weblog (prolific AI tool coverage).
-- Consider scraping AI tool roundup sources: Ben's Bites, The Rundown AI.
-- If Tools consistently has fewer than 3 articles after new feeds, hide the section on the homepage to avoid showing a nearly-empty category.
+- Add RSS feeds that actually publish AI tool content regularly: Simon Willison's Weblog, LangChain Blog, Weights & Biases Blog, Replicate Blog, Vercel AI Blog, GitHub Trending (AI filter).
+- If Tools still has fewer than 3 articles after new feeds, consider hiding the Tools pill or merging Tools into a broader "Ecosystem" category.
 - **Impact:** Would push Category System to 8.0, Content Quality to 8.0.
 
-### 3. MEDIUM — PWA + Offline Support
+### 3. HIGH — Pull-to-Refresh + Full-Card Tap Targets
 
-The app has no service worker, no manifest, no offline capability. For a mobile news app that users might check on subway/commute, this is a meaningful gap. Competitors like SmartNews work offline.
+These are the two most impactful mobile UX improvements that don't require a backend:
 
-**Fixes:**
-- Add a `manifest.json` with app name, icons, theme color, display: standalone.
-- Implement a basic service worker that caches the shell (index.html, style.css, main.js) and serves cached news.json when offline.
-- Add an "Add to Home Screen" prompt or banner.
-- Consider caching article images for offline reading (service worker cache with size limit).
-- **Impact:** Would push Performance to 8.0, Mobile UX to 8.5, Overall toward 8.0+.
+**Pull-to-refresh:**
+- Add `touchstart`/`touchmove`/`touchend` listeners on the main content area.
+- Show a refresh indicator when pulled down past threshold.
+- Re-fetch news.json and rebuild the feed.
+- This is expected behavior for ANY mobile news app.
 
----
-
-## What Went Well This Cycle
-
-The team addressed all 3 v6 recommendations:
-
-**Rec #1 (Real Images via OG Tags):** Delivered. `OGImageParser` class extracts `og:image` from article URLs. `buildCard()` renders `<img>` with `loading="lazy"` and `onerror` fallback. 26/50 articles (52%) now have real images. This was THE blocker identified in v4, v5, and v6. After 3 cycles of carrying this recommendation, it is finally implemented and it makes a visible difference.
-
-**Rec #2 (Firebase Removal):** Delivered (Option B). Firebase SDK, auth button, and init script all removed. HTML comments mark where to re-add. FIREBASE-SETUP.md provides instructions for future implementation. ~40KB savings on every page load. No more broken UI elements.
-
-**Rec #3 (arXiv Cleanup + Tools):** Partially delivered. arXiv abstracts are fully cleaned — regex strips metadata prefixes, all 11 arXiv articles have proper summaries. Tools keyword list expanded to 30+ terms. But Tools still has only 2 articles because the bottleneck is feed coverage, not classification. Half credit.
-
-The overall +0.2 (7.5 to 7.7) reflects a cycle where the biggest visual blocker (no images) was finally addressed, a UX regression (broken Firebase) was corrected, and several polish items landed (WCAG contrast, nav centering, form stacking, hero animation). This is the most impactful improvement cycle since v3 (which went from 6.5 to 7.0). The app has crossed the threshold from "polished template" to "functional news app." The next phase is about depth: hero images, content breadth (Tools), and native-app capabilities (PWA/offline).
+**Full-card tap targets:**
+- Wrap the entire `<article class="card">` content in an `<a>` tag, or use a JavaScript click handler that navigates to the article URL when any part of the card is tapped (not just the title link).
+- Currently tapping the card body, the image area, or the summary does nothing — only the title text is clickable. On a phone, users expect the whole card to be tappable.
+- **Impact:** Would push Mobile UX to 8.0.
 
 ---
 
-*Audit completed by Nigel on 2026-04-01. v7.*
+## What the v7->v8 Recalibration Means
+
+The v7 audit awarded 8.0 to four categories (Visual Design, Mobile UX, Accessibility, Overall App Feel). On strict recalibration against real competitors:
+
+- **8.0 = "a user would choose this over competitors."** AI Pulse is not there yet. It's a well-built aggregator with clean design, but inconsistent image coverage, no native mobile patterns, and basic navigation keep it in the 7.5 tier.
+- The codebase itself is in good shape. The WCAG fixes, hero animation, skip-link, back-to-top, lazy loading, and clean CSS are all correctly implemented.
+- The path from 7.5 to 8.0 is clear: hero image, consistent image coverage across categories, pull-to-refresh, and full-card tap targets. These are achievable in one cycle.
+
+The scores will go back up when the work lands. This recalibration ensures that future 8.0 scores are earned against the real bar.
+
+---
+
+*Audit completed by Nigel on 2026-04-01. v8.*
