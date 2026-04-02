@@ -149,14 +149,42 @@
     "id": 15
   },
   {
+    "title": "AI benchmarks are broken. Here's what we need instead",
+    "url": "https://www.technologyreview.com/2026/03/31/1134833/ai-benchmarks-are-broken-heres-what-we-need-instead/",
+    "source": "Hacker News",
+    "date": "2026-04-02",
+    "summary": "Article URL: https://www.technologyreview.com/2026/03/31/1134833/ai-benchmarks-are-broken-heres-what-we-need-instead/ Comments URL: https://news.ycombinator.com/item?id=47621673 Points: 2 # Comments: ...",
+    "category": "models",
+    "image": "https://wp.technologyreview.com/wp-content/uploads/2026/03/260326_AIlearningOpEd2.jpg?resize=1200,600",
+    "id": 16
+  },
+  {
+    "title": "AI Harness on Google Trends",
+    "url": "https://trends.google.com/trends/explore?date=today%205-y&q=Ai%20harness&hl=en-GB",
+    "source": "Hacker News",
+    "date": "2026-04-02",
+    "summary": "Article URL: https://trends.google.com/trends/explore?date=today%205-y&q=Ai%20harness&hl=en-GB Comments URL: https://news.ycombinator.com/item?id=47621649 Points: 1 # Comments: 0",
+    "category": "industry",
+    "id": 17
+  },
+  {
+    "title": "Lisa Core – semantic compression for AI conversations (80:1 ratio, 100% local)",
+    "url": "https://chromewebstore.google.com/detail/lisa-core-ai-memory-libra/dmgnookddagimdcggdlbjmaobmoofhbj",
+    "source": "Hacker News",
+    "date": "2026-04-02",
+    "summary": "Article URL: https://chromewebstore.google.com/detail/lisa-core-ai-memory-libra/dmgnookddagimdcggdlbjmaobmoofhbj Comments URL: https://news.ycombinator.com/item?id=47621586 Points: 3 # Comments: 0",
+    "category": "hardware",
+    "id": 18
+  },
+  {
     "title": "Show HN: MicroSafe-RL – Sub-microsecond safety layer for Edge AI 1.18µs latency",
     "url": "https://github.com/Kretski/MicroSafe-RL",
     "source": "Hacker News",
     "date": "2026-04-02",
     "summary": "I built MicroSafe-RL to solve the \"Hardware Drift\" problem in Reinforcement Learning. When RL agents move from simulation to real hardware, they often encounter unknown states and destroy expensive pa...",
     "category": "research",
-    "image": "https://opengraph.githubassets.com/1e89680b4401356a5c7a9d87d858d2c572b617e191325a2a54f99d95aac5d119/Kretski/MicroSafe-RL",
-    "id": 16
+    "image": "https://opengraph.githubassets.com/5ff7d9283d925da416972e07adca25559d40e5311887e5ad6ca0f3b6d1526e27/Kretski/MicroSafe-RL",
+    "id": 19
   },
   {
     "title": "AI for Software Engineering",
@@ -165,7 +193,7 @@
     "date": "2026-04-02",
     "summary": "Article URL: https://mattamonroe.substack.com/p/ai-for-software-engineering Comments URL: https://news.ycombinator.com/item?id=47621513 Points: 1 # Comments: 0",
     "category": "industry",
-    "id": 17
+    "id": 20
   },
   {
     "title": "AI-derived heart fat measures improve accuracy of cardio disease risk prediction",
@@ -174,17 +202,17 @@
     "date": "2026-04-02",
     "summary": "Article URL: https://newsnetwork.mayoclinic.org/discussion/including-ai-derived-heart-fat-measurement-improves-accuracy-of-cardiovascular-disease-risk-prediction/ Comments URL: https://news.ycombinato...",
     "category": "industry",
-    "id": 18
+    "id": 21
   },
   {
     "title": "Genesis Agent – A self-modifying AI agent that runs local (Electron, Ollama)",
     "url": "https://github.com/Garrus800-stack/genesis-agent",
     "source": "Hacker News",
     "date": "2026-04-02",
-    "summary": "Article URL: https://github.com/Garrus800-stack/genesis-agent Comments URL: https://news.ycombinator.com/item?id=47621307 Points: 2 # Comments: 0",
+    "summary": "Article URL: https://github.com/Garrus800-stack/genesis-agent Comments URL: https://news.ycombinator.com/item?id=47621307 Points: 3 # Comments: 0",
     "category": "models",
     "image": "https://opengraph.githubassets.com/59070539fe2e420f767ab9ee4c699779337ebd453fcb2dc8fb867ea11ce62180/Garrus800-stack/genesis-agent",
-    "id": 19
+    "id": 22
   },
   {
     "title": "Show HN: Currant – Anonymus social media for NON-AI agents",
@@ -193,7 +221,7 @@
     "date": "2026-04-02",
     "summary": "I was once having a bad day and wanted to ventillate about the peculiarities of corporate life. Then I realised I don't trust these sites. Neither my blog. I didn't want to link these thoughts to an a...",
     "category": "models",
-    "id": 20
+    "id": 23
   },
   {
     "title": "KernelEvolve: Meta's Ranking Engineer Agent Optimizes AI Infrastructure",
@@ -203,7 +231,7 @@
     "summary": "Article URL: https://engineering.fb.com/2026/04/02/developer-tools/kernelevolve-how-metas-ranking-engineer-agent-optimizes-ai-infrastructure/ Comments URL: https://news.ycombinator.com/item?id=4762118...",
     "category": "tools",
     "image": "https://engineering.fb.com/wp-content/uploads/2026/04/Meta-KernalEvolve-REA-Hero.png",
-    "id": 21
+    "id": 24
   },
   {
     "title": "Show HN: OpenVole – VoleNet Distributed AI Agent Networking",
@@ -212,7 +240,7 @@
     "date": "2026-04-02",
     "summary": "Comments URL: https://news.ycombinator.com/item?id=47620865 Points: 1 # Comments: 1",
     "category": "industry",
-    "id": 22
+    "id": 25
   },
   {
     "title": "BlackSwanX,174 AI agents predict the future by fighting each other,run on Ollama",
@@ -222,7 +250,7 @@
     "summary": "Article URL: https://github.com/Kalki-M/BlackSwanX Comments URL: https://news.ycombinator.com/item?id=47620717 Points: 1 # Comments: 0",
     "category": "models",
     "image": "https://opengraph.githubassets.com/662126f73b1befb06f1be628d9d846d86a0d05b8474d5094439e73cc4ced4066/Kalki-M/BlackSwanX",
-    "id": 23
+    "id": 26
   },
   {
     "title": "Show HN: SharpSkill – AI writes your code. We teach you to understand it",
@@ -231,7 +259,7 @@
     "date": "2026-04-02",
     "summary": "Gx HN, AI makes it easy to generate code, but much harder to truly understand it especially under pressure. SharpSkill simulates real technical interviews : solve problems live, explain your thinking,...",
     "category": "industry",
-    "id": 24
+    "id": 27
   },
   {
     "title": "Are you still copy/pasting in GPT to correct your text?",
@@ -240,7 +268,7 @@
     "date": "2026-04-02",
     "summary": "Article URL: https://rewritecmd.com/ Comments URL: https://news.ycombinator.com/item?id=47620337 Points: 1 # Comments: 0",
     "category": "models",
-    "id": 25
+    "id": 28
   },
   {
     "title": "ON1 Restore AI Turns Old Family Photos into Grotesque Nightmare Fuel",
@@ -250,7 +278,7 @@
     "summary": "Article URL: https://petapixel.com/2026/03/25/on1-restore-ai-turns-old-family-photos-into-grotesque-nightmare-fuel/ Comments URL: https://news.ycombinator.com/item?id=47620335 Points: 1 # Comments: 0",
     "category": "tools",
     "image": "https://petapixel.com/assets/uploads/2026/03/ON1-Restore-AI-Turns-Old-Family-Photos-into-Grotesque-Nightmare-Fuel.jpg",
-    "id": 26
+    "id": 29
   },
   {
     "title": "Marc Andreessen Is Right That AI Isn't Killing Jobs. Interest Rate Hikes Are",
@@ -260,7 +288,7 @@
     "summary": "Article URL: https://www.governance.fyi/p/marc-andreessen-is-right-that-ai Comments URL: https://news.ycombinator.com/item?id=47620155 Points: 15 # Comments: 1",
     "category": "industry",
     "image": "https://substackcdn.com/image/fetch/$s_!oVKr!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fbc238c78-2004-4a7a-94d4-73b353f51fc8_1021x720.jpeg",
-    "id": 27
+    "id": 30
   },
   {
     "title": "Show HN: AI tax filing – upload W-2s and 1099s, get completed IRS forms back",
@@ -269,7 +297,7 @@
     "date": "2026-04-02",
     "summary": "Article URL: https://autocook.io Comments URL: https://news.ycombinator.com/item?id=47620101 Points: 2 # Comments: 0",
     "category": "industry",
-    "id": 28
+    "id": 31
   },
   {
     "title": "Reporting potholes with an ESP32, LoRA, and AI",
@@ -278,7 +306,7 @@
     "date": "2026-04-02",
     "summary": "Article URL: https://thingswemake.com/pothole-in-one/ Comments URL: https://news.ycombinator.com/item?id=47620039 Points: 3 # Comments: 0",
     "category": "industry",
-    "id": 29
+    "id": 32
   },
   {
     "title": "Orallexa – AI Trading System",
@@ -288,7 +316,7 @@
     "summary": "Article URL: https://github.com/alex-jb/orallexa-ai-trading-agent Comments URL: https://news.ycombinator.com/item?id=47619952 Points: 3 # Comments: 0",
     "category": "industry",
     "image": "https://opengraph.githubassets.com/09935636bd599c34c3960ce31214e6eac3b2dace5c824de7c754dacd7d2403ff/alex-jb/orallexa-ai-trading-agent",
-    "id": 30
+    "id": 33
   },
   {
     "title": "Anton – The most advanced AI data-coworker",
@@ -298,7 +326,7 @@
     "summary": "Article URL: https://github.com/mindsdb/anton Comments URL: https://news.ycombinator.com/item?id=47619834 Points: 1 # Comments: 1",
     "category": "industry",
     "image": "https://opengraph.githubassets.com/1b615981b96ba893663d3dd270be8aaad27377be4778b9be97714889b75c6487/mindsdb/anton",
-    "id": 31
+    "id": 34
   },
   {
     "title": "How to teach programming in the age of AI",
@@ -308,34 +336,6 @@
     "summary": "Article URL: https://www.thetransmitter.org/how-to-teach-this-paper/how-to-teach-programming-in-the-age-of-ai/ Comments URL: https://news.ycombinator.com/item?id=47619826 Points: 2 # Comments: 0",
     "category": "research",
     "image": "https://www.thetransmitter.org/wp-content/uploads/2026/03/AiTeachingCodingNeuro-525.png",
-    "id": 32
-  },
-  {
-    "title": "Our first AI E-magazine, anny feedback will be appreciated",
-    "url": "https://teamcal.ai/ezine/2026/03_AI_Edge_For_Leaders_Is_AI_Aware.html",
-    "source": "Hacker News",
-    "date": "2026-04-02",
-    "summary": "Article URL: https://teamcal.ai/ezine/2026/03_AI_Edge_For_Leaders_Is_AI_Aware.html Comments URL: https://news.ycombinator.com/item?id=47619814 Points: 1 # Comments: 1",
-    "category": "industry",
-    "id": 33
-  },
-  {
-    "title": "AI Futures Project: Q1 2026 Timelines Update",
-    "url": "https://blog.aifutures.org/p/q1-2026-timelines-update",
-    "source": "Hacker News",
-    "date": "2026-04-02",
-    "summary": "Article URL: https://blog.aifutures.org/p/q1-2026-timelines-update Comments URL: https://news.ycombinator.com/item?id=47619732 Points: 1 # Comments: 0",
-    "category": "industry",
-    "image": "https://substackcdn.com/image/fetch/$s_!55Zn!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F103a915e-24d6-4d2f-b0fc-7b3f0aed21b7_1600x900.png",
-    "id": 34
-  },
-  {
-    "title": "A $20/month user costs OpenAI $65 in compute. AI video is a money furnace",
-    "url": "https://aedelon777.substack.com/p/i-did-the-math-on-sora-ai-video-is",
-    "source": "Hacker News",
-    "date": "2026-04-02",
-    "summary": "Article URL: https://aedelon777.substack.com/p/i-did-the-math-on-sora-ai-video-is Comments URL: https://news.ycombinator.com/item?id=47619322 Points: 40 # Comments: 19",
-    "category": "industry",
     "id": 35
   },
   {
