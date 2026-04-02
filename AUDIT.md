@@ -1,10 +1,10 @@
-# AI Pulse — Audit Report v5
+# AI Pulse — Audit Report v6
 
 **Auditor:** Nigel (Strict Auditor)
 **Date:** 2026-04-01
 **Perspective:** Mobile user (375px viewport)
 **Live Site:** https://zed0minat0r.github.io/ai-news-app/
-**Previous Audits:** v1 — 6.0, v2 — 6.5, v3 — 7.0, v4 — 7.2
+**Previous Audits:** v1 — 6.0, v2 — 6.5, v3 — 7.0, v4 — 7.2, v5 — 7.3
 
 ---
 
@@ -19,253 +19,263 @@
 
 ---
 
-## Changes Audited Since v4
+## Changes Audited Since v5
 
-Reported improvements: skeleton loading placeholders, trending scroll fade indicators, aria-live sort announcements, category tag contrast fix (brighter text + more opaque backgrounds), trending chip overflow fix (hidden + max-width), 44px tap targets on article links, staggered entrance animations (CSS-only, reduced-motion safe), search input zoom fix (16px font), nav scroll centering, trending chip sizing, negative keyword content filter.
+Reported improvements: Newsletter signup via Formspree (header bar + full section), Firebase Auth scaffolding (placeholder config, Google sign-in UI), staggered entrance animations (CSS-only, reduced-motion safe), card depth/shadow polish, 515 lines of dead CSS removed, deep linking via URLSearchParams (category, search, sort params), search debounce (250ms) + search highlight (<mark>), 6 new RSS feeds (arXiv cs.AI/cs.CL/cs.CV, Papers With Code, Hugging Face Blog, Product Hunt AI), card accent bars fixed (border-top on mobile, border-left on desktop), section header centering, font size bumps, chip contrast improvements, favicon (inline SVG data URI), RSS pipeline reduced to every 3h, content filter negative keywords.
 
 ---
 
 ## Section-by-Section Audit
 
-### 1. Content Quality — 7.0 / 10 (v4: 7.0, +0.0)
+### 1. Content Quality — 7.5 / 10 (v5: 7.0, +0.5)
 
 **What improved:**
-- Negative keyword list added to `fetch_news.py` (line 104): 40+ terms including "gaming deal," "ssd review," "motherboard review," "cryptocurrency," "bitcoin," etc. This directly addresses v4 Rec #2.
-- The negative keyword filter is a structural improvement — it catches entire classes of off-topic content rather than relying solely on positive keyword scoring.
+- Category distribution is dramatically better: Industry 17, Hardware 12, Research 10, Models 9, Tools 2. Research jumped from 1 to 10 articles thanks to arXiv cs.AI feed. This was v5 Rec #2 and it has been meaningfully addressed.
+- Non-AI article count dropped further. Only 1 clearly off-topic article remains (Newegg combo deal). Down from 4 in v5 and ~10 in v4. The negative keyword filter + better feed selection are working.
+- Source diversity improved: arXiv cs.AI (12), Hacker News (20), Tom's Hardware (8), Wired (4), plus official blogs (OpenAI, Google AI, NVIDIA). 8 distinct sources vs. fewer before.
+- Featured article ("OpenAI acquires TBPN") remains genuinely AI-related.
 
 **What still falls short:**
-- 4 clearly non-AI articles still in current news.json (down from ~10 in v4): the Newegg combo deal, RTX 4090 modder repair, DRAM price prediction, and "PC makers report surging prices." These are general hardware/market stories, not AI.
-- The negative keywords missed these because they don't match the exact phrases. "DRAM prices predicted to jump" has no negative keyword for generic memory market news. The filter is keyword-exact, not semantic.
-- Category distribution remains heavily skewed: Industry 19, Hardware 16, Models 11, Tools 3, Research 1. Research has ONE article. This is unchanged from v4 and remains a core weakness.
-- Featured article is "OpenAI acquires TBPN" — categorized as "industry." At least this is genuinely AI-related, which is a notable improvement over v4's Google Vids featured story.
+- Tools category has only 2 articles — still starved despite adding Hugging Face Blog and Product Hunt feeds. Those feeds may not be producing enough AI-specific content that passes the relevance filter.
+- Hacker News dominates at 40% of articles (20/50). Over-reliance on a single source.
+- arXiv abstracts as summaries are poor for casual mobile readers. "arXiv:2604.00005v1 Announce Type: new Abstract:" is not user-friendly copy. Needs truncation and cleanup.
 - Still no OG images, no editor's pick logic, no quality scoring for featured selection.
 
-**Verdict:** The negative keyword filter halved the non-AI article count (~20% to ~8%), and the featured article is now genuinely AI-related. Both are real improvements. However, the category skew (Research: 1, Tools: 3) is unchanged, and the filter still misses semantically off-topic articles. Holds at 7.0 — the improvements offset the remaining gaps but don't clear 7.5 because the category balance problem is untouched.
+**Verdict:** Research going from 1 to 10 articles is a structural fix that makes the app feel like it actually covers AI comprehensively. The 1 remaining off-topic article (down from 4) shows the filter is working. Bumped to 7.5. Tools starvation (2 articles) and raw arXiv abstracts prevent 8.0.
 
 ---
 
-### 2. Visual Design — 7.5 / 10 (v4: 7.5, +0.0)
+### 2. Visual Design — 7.5 / 10 (v5: 7.5, +0.0)
 
 **What improved:**
-- Category tag contrast significantly improved. All five tag color combinations now pass WCAG AA with comfortable margins: Models 7.4:1, Hardware 7.8:1, Research 7.7:1, Tools 6.8:1, Industry 6.6:1. Brighter text colors (#e0c6ff, #a8f0b0, #ffcb99, #90c4ff, #faa0cc) on 0.25-alpha backgrounds. This was a v4 concern.
-- Staggered entrance animations via `@keyframes card-fade-up` with per-child delays (0.07s increments for category cards, 0.04s for list cards, 0.05s for trending chips). Hero, trending chips, category cards, and category sections all animate independently. Subtle and tasteful — 0.35s duration with ease-out.
-- `prefers-reduced-motion: reduce` media query disables all animations. Correct implementation.
+- Card depth improved with `box-shadow: 0 1px 2px rgba(0,0,0,0.25), 0 4px 12px rgba(0,0,0,0.15)` — subtle but adds dimensionality.
+- 515 lines of dead CSS removed (30% reduction from 1706 to 1191 lines). Cleaner stylesheet, though this is maintenance rather than visual improvement.
+- Accent bars properly positioned: `border-top` on mobile (centered alignment), `border-left` on desktop. Correct responsive behavior.
+- Chip tag contrast improved with 0.28 alpha backgrounds and lighter text colors (#e8d4ff, #b8f5be, etc.).
 
 **What hasn't changed:**
-- Still emoji-on-gradient thumbnails, not real images. This remains the single biggest visual gap vs. every competitor.
-- No hero image. The hero banner area is begging for a real photograph.
-- Lightning bolt logo unchanged.
+- Still emoji-on-gradient thumbnails, not real images. This remains THE blocker for 8.0.
+- No hero image. The hero card is text-only.
+- Newsletter section gradient is pleasant but the overall visual identity still lacks distinctive character.
+- Some font sizes are very small: 0.65rem appears 3 times (chip tags, meta text). At 16px base, that's 10.4px — borderline for mobile readability.
 
-**Verdict:** The entrance animations add a layer of polish that makes the app feel more alive on load. Tag contrast fix ensures readability. These are additive improvements but not enough to push past 7.5 — real article images remain the gating factor for 8.0. Holds at 7.5.
+**Verdict:** Incremental polish improvements (shadows, accent bars, dead CSS cleanup) but nothing that changes the visual impression for a user. The card shadows are nice. The dead CSS removal is good engineering but invisible to users. Still waiting on real images to break through 7.5. Holds at 7.5.
 
 ---
 
-### 3. Mobile UX (375px) — 7.5 / 10 (v4: 7.5, +0.0)
+### 3. Mobile UX (375px) — 7.5 / 10 (v5: 7.5, +0.0)
 
 **What improved:**
-- Skeleton loading placeholders now exist in the HTML (line 47-63): hero skeleton, trending label, 3 chip placeholders, and 2 card skeletons. CSS uses `skeleton-pulse` keyframes (1.5s ease-in-out infinite) with opacity 0.15-0.3. Skeleton hides via `.hidden` class when data loads. This directly addresses v4 Rec #3.
-- Trending scroll fade indicators implemented: `.trending-scroll-wrapper::before/::after` pseudo-elements with gradient fades (2rem width). JS function `updateScrollIndicators()` dynamically applies `scroll-start`, `scroll-end`, `scroll-middle` classes based on scroll position. Passive scroll listener. This was the other half of v4 Rec #3.
-- Search input font-size set to `1rem` (16px) — prevents iOS auto-zoom on focus. Correct fix.
-- 44px min-height applied to: search input, category pills, trending chips, see-all buttons, sort toggle, load-more button, share buttons, back-to-top button. Comprehensive tap target coverage.
+- Newsletter header signup form is well-implemented for mobile: flex layout, 44px min-height inputs, 1rem font-size (no iOS zoom). The inline header bar is a smart pattern — compact without being intrusive.
+- Firebase auth button positioned in header top-right. Clean icon-only button at mobile width.
+- Deep linking means users can now share filtered views and bookmark categories — this improves the mobile sharing workflow.
 
 **What still falls short:**
-- No pull-to-refresh. Still no native-feeling touch gestures.
-- No nav pill scroll centering in JS (no `scrollIntoView` calls found). The active category pill may be offscreen on narrow viewports with many categories. This was reported as fixed but I cannot find the implementation.
-- Skeleton is static HTML — only one set for initial load. If user switches categories, there's no loading state for the transition.
-- No persistent search while scrolling (search is top-of-page only).
+- Firebase Auth is a placeholder (YOUR_API_KEY, YOUR_PROJECT). It will throw console errors on load. This is scaffolding, not a feature. A user tapping the auth button gets a Firebase initialization error, not a login flow. This is a regression in UX — a button that doesn't work is worse than no button.
+- Still no `scrollIntoView` for nav pills. Not found in code despite being reported previously.
+- Still no pull-to-refresh gesture.
+- No loading state when switching categories (skeleton is initial-load only).
+- The 0.65rem font sizes (10.4px) on chip tags and some meta text are too small for comfortable mobile reading.
 
-**Verdict:** Skeleton loading and scroll indicators are genuine UX improvements that address the two biggest v4 Rec #3 items. The 44px tap targets and 16px input font are correct mobile fixes. However, the missing nav scroll centering (reported as fixed but not found in code) and lack of pull-to-refresh keep this at 7.5. The improvements are real but incremental.
+**Verdict:** Newsletter signup is a genuine feature addition for mobile users. Deep linking helps shareability. But the broken Firebase auth button is a negative — it adds a non-functional interactive element to the header. Net effect is neutral. Holds at 7.5.
 
 ---
 
-### 4. Search / Filter — 7.0 / 10 (v4: 7.0, +0.0)
+### 4. Search / Filter — 7.5 / 10 (v5: 7.0, +0.5)
 
-**What changed:**
-- No functional changes to search/filter since v4.
+**What improved:**
+- Search debounce implemented at 250ms (`clearTimeout`/`setTimeout` pattern). Correct implementation. This was v5 Rec #3.
+- Search highlighting via `<mark>` tags. The `highlightText()` function properly escapes regex special characters and wraps matches. This was v5 Rec #3.
+- Deep linking: `?category=hardware&q=nvidia&sort=oldest` is now fully supported. `readURLParams()` on load, `updateURLParams()` on state change, `popstate` listener for back/forward. URL uses `replaceState` for filter changes and `pushState` for category navigation. This was v5 Rec #3.
 
 **What still falls short:**
-- No search debounce (fires every keystroke).
-- No search highlighting in results.
-- No deep linking (`?category=hardware&q=nvidia`).
 - No date range filter.
-- No combined filter indicator.
+- No combined filter indicator (e.g., "Showing 5 results for 'nvidia' in Hardware").
+- Search doesn't persist while scrolling — still top-of-page only.
+- No autocomplete or search suggestions.
 
-**Verdict:** No changes. Holds at 7.0.
+**Verdict:** All three v5 Rec #3 items (debounce, highlighting, deep linking) have been implemented correctly. These are real functional improvements that a user would notice. Debounce prevents janky re-renders on fast typing. Highlighting helps users find their query in results. Deep linking enables sharing filtered views. Bumped to 7.5.
 
 ---
 
-### 5. Navigation — 7.5 / 10 (v4: 7.5, +0.0)
+### 5. Navigation — 7.5 / 10 (v5: 7.5, +0.0)
 
-**What changed:**
-- No structural navigation changes since v4.
+**What improved:**
+- Deep linking adds URL-based navigation state. Back/forward buttons now work correctly via `popstate` listener. This was noted as missing in v5.
+- `pushState` used for category changes means browser history tracks navigation through categories.
 
 **What still falls short:**
-- No breadcrumb or back button in list view.
-- No deep linking / URL params.
-- No bookmarking / saved articles.
-- Footer still just a credit line.
+- Still no breadcrumb or "back to home" button in list view.
+- No bookmarking / saved articles (Firebase auth is placeholder only).
+- Footer is still just a credit line — no useful links, categories, or about page.
+- Nav pill scroll centering still missing (`scrollIntoView` not found in code).
+
+**Verdict:** Deep linking is a meaningful navigation improvement, but I already scored it in Search/Filter since the implementation lives there. The navigation structure itself (pills, homepage vs. list view, hero) is unchanged. The footer remains bare. Holds at 7.5.
+
+---
+
+### 6. Performance — 7.0 / 10 (v5: 7.0, +0.0)
+
+**What improved:**
+- 515 lines of dead CSS removed — 30% smaller stylesheet means faster parse time. Real but marginal improvement.
+- RSS pipeline reduced from every 30min to every 3h — reduces server-side resource usage (not user-facing performance, but good practice).
+
+**What still falls short:**
+- Firebase SDK loaded from CDN on every page load (~40KB gzipped for auth module alone) even though it's placeholder config and will fail. This is wasted bandwidth for every mobile user.
+- No service worker, no PWA manifest, no offline support.
+- No minification or bundling (main.js is 1075 lines, style.css is 1191 lines — not huge, but not optimized).
+- Cache-busting `?t=Date.now()` still prevents browser caching of news.json.
+- No `loading="lazy"` anywhere.
+
+**Verdict:** The dead CSS removal is real performance improvement. But the Firebase SDK loading for no functional benefit is a new performance cost. Net effect is roughly neutral. Holds at 7.0.
+
+---
+
+### 7. Accessibility — 8.0 / 10 (v5: 8.0, +0.0)
+
+**What improved:**
+- Newsletter forms have proper `<label>` elements with `.sr-only` class and `for` attributes linking to inputs. `aria-live="polite"` on success messages.
+- Auth button has `aria-label="Sign in with Google"`.
+
+**What hasn't changed:**
+- All v5 accessibility features remain: aria-live sort announcements, WCAG AA tag contrast, 44px tap targets, reduced-motion media query.
+- Trending chips still lack `aria-labelledby` and list semantics.
+
+**Verdict:** Newsletter accessibility is correctly implemented. Auth button has proper labeling. No regression. But no significant new accessibility ground broken. Holds at 8.0.
+
+---
+
+### 8. Category System — 7.5 / 10 (v5: 7.0, +0.5)
+
+**What improved:**
+- Research: 10 articles (up from 1 in v5). This is the single biggest improvement this cycle. The arXiv cs.AI feed is producing relevant content. A user browsing the Research section now sees a full, populated category instead of a lonely single card.
+- Distribution is healthier: Industry 17, Hardware 12, Research 10, Models 9, Tools 2. Three categories are now in double digits.
+- 6 new RSS feeds added targeting the two weakest categories.
+
+**What still falls short:**
+- Tools still has only 2 articles. The Hugging Face Blog and Product Hunt AI feeds are not producing enough content that passes the relevance filter. This section still looks empty.
+- No multi-tagging (an article about an AI tool built on a new model could be both Tools and Models).
+- arXiv articles dominate Research but have raw abstract formatting that doesn't match the editorial tone of other categories.
+
+**Verdict:** Research going from 1 to 10 articles is a major fix. The category system now has 4 of 5 categories with meaningful content. Tools remains the weak link at 2. Bumped to 7.5.
+
+---
+
+### 9. Featured Section — 7.5 / 10 (v5: 7.5, +0.0)
+
+**What changed:**
+- No structural changes to the featured section. Still "Breaking" label, still recency-based, still no hero image.
+- Featured article ("OpenAI acquires TBPN") is genuinely AI-related — same quality as v5.
+
+**What still falls short:**
+- "Breaking" on every featured article regardless of age.
+- No rotation within a session.
+- No quality scoring or editor's pick logic.
+- No hero image.
 
 **Verdict:** No changes. Holds at 7.5.
 
 ---
 
-### 6. Performance — 7.0 / 10 (v4: 7.0, +0.0)
+### 10. Hardware Coverage — 7.0 / 10 (v5: 7.0, +0.0)
 
 **What changed:**
-- Skeleton loading creates perceived performance improvement — the user sees structure immediately rather than a blank page. This is a UX-performance win even though actual load time is unchanged.
-- CSS animations are GPU-friendly (opacity + transform only). `will-change` not used, but the keyframes are simple enough.
+- 12 hardware articles (down from 16 in v5, but article count fluctuates with the feed cycle).
+- Non-AI hardware reduced to 1 (Newegg combo deal).
+- Genuine AI hardware present: NVIDIA/Spark, chip export rules, AI laptops.
 
 **What still falls short:**
-- No service worker, no PWA manifest, no lazy loading.
-- No minification or bundling.
-- Cache-busting `?t=Date.now()` still prevents browser caching of news.json.
-- No `loading="lazy"` on any resources (there are no images to lazy-load, but if OG images are added this will matter).
-
-**Verdict:** Skeleton loading helps perceived performance. Actual performance unchanged. Holds at 7.0.
-
----
-
-### 7. Accessibility — 8.0 / 10 (v4: 7.5, +0.5)
-
-**What improved:**
-- `aria-live="assertive"` on `#sort-announcement` div with `role="status"` and `.sr-only` class. When sort order changes, JS clears then sets `textContent` via `requestAnimationFrame` to ensure screen readers announce "Sorted by newest first" / "Sorted by oldest first." This directly addresses v4's note about sort not announcing to screen readers.
-- `aria-live="polite"` on `#result-count` for search result count updates.
-- Tag contrast now all WCAG AA compliant (lowest ratio: Industry at 6.6:1, well above 4.5:1 threshold). This fixes the tag readability concern from v4.
-- All interactive elements at 44px min-height/width — meets WCAG 2.5.5 Target Size (Enhanced) at AAA level.
-- Reduced-motion media query correctly disables all card/chip/section animations.
-
-**What still falls short:**
-- Trending chips are still `<a>` tags wrapping all content with no `aria-labelledby` pointing to just the title.
-- Trending bar has no `<ol>` structure despite being an ordered list.
-- Category card grids lack list semantics.
-
-**Verdict:** The aria-live sort announcement, WCAG-compliant tag contrast, 44px targets, and reduced-motion support collectively represent a meaningful accessibility upgrade. Three of the four v4 accessibility gaps have been addressed. Bumped to 8.0 — this is now genuinely good accessibility for a small web app. The remaining issues (trending chip semantics, list structure) are refinements, not blockers.
-
----
-
-### 8. Category System — 7.0 / 10 (v4: 7.0, +0.0)
-
-**What changed:**
-- Negative keyword filter helps reduce miscategorized articles, but distribution is still: Industry 19, Hardware 16, Models 11, Tools 3, Research 1.
-
-**What still falls short:**
-- Research has 1 article. Tools has 3. Both sections look empty on the homepage.
-- No additional RSS feeds targeting research (arXiv, Papers With Code) or tools.
-- No multi-tagging.
-
-**Verdict:** No meaningful change. Holds at 7.0.
-
----
-
-### 9. Featured Section — 7.5 / 10 (v4: 7.0, +0.5)
-
-**What improved:**
-- The current featured article is "OpenAI acquires TBPN" — genuinely AI-related industry news. This is a significant improvement over v4's Google Vids story. The negative keyword filter (which includes "google vids") likely helped.
-- Entrance animation on the hero card (card-fade-up 0.4s) adds a polished reveal.
-
-**What still falls short:**
-- Still "Breaking" label on every featured article regardless of age or significance.
-- Still purely recency-based — no quality scoring or editor's pick.
-- No hero image.
-- No rotation within a session.
-
-**Verdict:** The featured article now being genuinely AI-related is a real improvement in user experience — the first thing a mobile user sees is relevant. The negative keyword filter deserves credit for preventing off-topic stories from reaching hero position. Bumped to 7.5.
-
----
-
-### 10. Hardware Coverage — 7.0 / 10 (v4: 7.0, +0.0)
-
-**What changed:**
-- 16 hardware articles, same count as v4. Still includes the 4 non-AI articles (Newegg combo, RTX 4090 modder, DRAM prices, PC maker prices).
-- Genuine AI hardware stories remain: NVIDIA/Spark, chip export rules, Chinese silicon suppliers.
-
-**What still falls short:**
-- ~25% of hardware articles are generic tech, not AI-specific.
 - No specs, benchmarks, or hardware-specific filtering.
+- No dedicated hardware feeds (AnandTech AI, ServeTheHome).
+- 1 off-topic article persists.
 
-**Verdict:** No meaningful change. Holds at 7.0.
+**Verdict:** Marginal improvement in quality (fewer off-topic), but the same structural limitations. Holds at 7.0.
 
 ---
 
-### 11. Overall App Feel — 7.5 / 10 (v4: 7.5, +0.0)
+### 11. Overall App Feel — 7.5 / 10 (v5: 7.5, +0.0)
 
 **What a real user would think on their phone today:**
 
-The app now loads with a skeleton that transitions into content — no more blank flash. Cards and sections fade in with staggered timing, creating a polished entrance. The trending bar has subtle fade edges that signal scrollability. Category tags are crisp and readable. Tap targets are consistently 44px. The featured story is actual AI news.
+The app now has a newsletter signup that makes it feel like a real product, not just a demo. The search highlights your query, deep links let you share a filtered view, and the Research section actually has content. These are real user-facing improvements.
 
-These are all quality-of-life improvements that make the app feel more finished. A user picking up their phone would notice the smoother load and better visual polish. However, the core experience — emoji thumbnails, skewed categories, no pull-to-refresh, no real images — is structurally the same as v4.
+However, the Firebase auth button that does nothing is a misstep — it adds visual complexity without function. Tapping it produces an error. The arXiv abstracts look like raw database output on a phone. And the core visual gap — emoji thumbnails instead of real images — remains the elephant in the room.
 
-Compared to Techpresso: still behind on content curation and real images. Compared to Particle: still behind on source clustering and visual richness. Compared to SmartNews: still behind on native app feel and personalization. The gap has narrowed on polish (animations, loading states, accessibility) but the structural gaps remain.
+Compared to Techpresso: still behind on curation, real images, and editorial voice. Techpresso's emails feel hand-curated; this feels algorithmically assembled. Compared to Particle: behind on source clustering, imagery, and native feel. Compared to SmartNews: behind on personalization, offline reading, and visual richness.
 
-**Verdict:** The improvements this cycle are polish-oriented: skeleton loading, animations, scroll indicators, tag contrast, tap targets, aria-live announcements. These are the right improvements to make after a layout rebuild. But they don't change the fundamental experience enough to push past 7.5. Real images and better content curation remain the gates to 8.0.
+The gap is narrowing on functionality (deep linking, search, newsletter) but the content presentation gap (no images, raw abstracts, emoji thumbnails) keeps this from feeling like an app a user would choose over competitors.
+
+**Verdict:** The functional improvements (newsletter, deep linking, search polish, category balance) are real and correct. But they don't change the fundamental mobile experience enough to push past 7.5. The Firebase placeholder is a minor negative. Real images remain the gate to 8.0. Holds at 7.5.
 
 ---
 
 ## Score Summary
 
-| Area | v1 | v2 | v3 | v4 | v5 | v4->v5 |
-|------|-----|-----|-----|-----|-----|--------|
-| Content Quality | 6.0 | 6.5 | 7.5 | 7.0 | 7.0 | +0.0 |
-| Visual Design | 6.5 | 7.0 | 7.0 | 7.5 | 7.5 | +0.0 |
-| Mobile UX (375px) | 6.0 | 6.5 | 7.0 | 7.5 | 7.5 | +0.0 |
-| Search / Filter | 5.5 | 6.5 | 6.5 | 7.0 | 7.0 | +0.0 |
-| Navigation | 5.5 | 5.5 | 6.5 | 7.5 | 7.5 | +0.0 |
-| Performance | 7.0 | 7.0 | 7.0 | 7.0 | 7.0 | +0.0 |
-| Accessibility | 5.0 | 6.5 | 7.0 | 7.5 | 8.0 | **+0.5** |
-| Category System | 6.5 | 6.5 | 7.0 | 7.0 | 7.0 | +0.0 |
-| Featured Section | 6.0 | 6.0 | 6.5 | 7.0 | 7.5 | **+0.5** |
-| Hardware Coverage | 7.0 | 7.0 | 7.0 | 7.0 | 7.0 | +0.0 |
-| Overall App Feel | 5.5 | 6.0 | 7.0 | 7.5 | 7.5 | +0.0 |
-| **OVERALL** | **6.0** | **6.5** | **7.0** | **7.2** | **7.3** | **+0.1** |
+| Area | v1 | v2 | v3 | v4 | v5 | v6 | v5->v6 |
+|------|-----|-----|-----|-----|-----|-----|--------|
+| Content Quality | 6.0 | 6.5 | 7.5 | 7.0 | 7.0 | 7.5 | **+0.5** |
+| Visual Design | 6.5 | 7.0 | 7.0 | 7.5 | 7.5 | 7.5 | +0.0 |
+| Mobile UX (375px) | 6.0 | 6.5 | 7.0 | 7.5 | 7.5 | 7.5 | +0.0 |
+| Search / Filter | 5.5 | 6.5 | 6.5 | 7.0 | 7.0 | 7.5 | **+0.5** |
+| Navigation | 5.5 | 5.5 | 6.5 | 7.5 | 7.5 | 7.5 | +0.0 |
+| Performance | 7.0 | 7.0 | 7.0 | 7.0 | 7.0 | 7.0 | +0.0 |
+| Accessibility | 5.0 | 6.5 | 7.0 | 7.5 | 8.0 | 8.0 | +0.0 |
+| Category System | 6.5 | 6.5 | 7.0 | 7.0 | 7.0 | 7.5 | **+0.5** |
+| Featured Section | 6.0 | 6.0 | 6.5 | 7.0 | 7.5 | 7.5 | +0.0 |
+| Hardware Coverage | 7.0 | 7.0 | 7.0 | 7.0 | 7.0 | 7.0 | +0.0 |
+| Overall App Feel | 5.5 | 6.0 | 7.0 | 7.5 | 7.5 | 7.5 | +0.0 |
+| **OVERALL** | **6.0** | **6.5** | **7.0** | **7.2** | **7.3** | **7.5** | **+0.2** |
 
 ---
 
 ## Top 3 Priority Recommendations
 
-### 1. CRITICAL — Real Article Images via Open Graph (carried from v4)
+### 1. CRITICAL — Real Article Images via Open Graph (carried from v5, v4)
 
-Still the #1 blocker for reaching 8.0. The organized homepage layout, hero banner, and polished animations are all screaming for real images. Every competitor uses them.
+Third audit cycle carrying this recommendation. Still the #1 blocker for reaching 8.0. The newsletter, deep linking, and animations are all polish on top of emoji thumbnails. Every single competitor uses real images.
 
 **Fixes:**
-- In `fetch_news.py`, after fetching RSS, make a GET request to each article URL and extract the `og:image` meta tag. Store as `image` field in news.json.
+- In `fetch_news.py`, after fetching RSS, make a HEAD/GET request to each article URL and extract the `og:image` meta tag. Store as `image` field in news.json.
 - In `buildCard()` and `buildHeroCard()`, render `<img>` with `loading="lazy"`, `aspect-ratio: 16/9`, and `object-fit: cover` when `article.image` exists. Keep emoji gradient as fallback.
 - Add a hero image to the featured card — the full-width hero is the perfect place for a real photograph.
-- **Impact:** Would push Visual Design toward 8.5, Overall App Feel toward 8.0.
+- **Impact:** Would push Visual Design toward 8.0+, Overall App Feel toward 8.0.
 
-### 2. HIGH — Fix Category Balance (Research and Tools Starvation)
+### 2. HIGH — Fix or Remove Firebase Auth Placeholder
 
-Research has 1 article. Tools has 3. On the homepage, the Research section shows a single lonely card. This undermines the curated, comprehensive feel the layout creates.
+The Firebase SDK is loaded with placeholder config (YOUR_API_KEY, YOUR_PROJECT). This causes: (a) console errors on every page load, (b) ~40KB wasted bandwidth for non-functional auth module, (c) a user-facing auth button that does nothing when tapped. A broken feature is worse than no feature.
+
+**Fixes — pick one:**
+- **Option A (ship it):** Configure real Firebase project, connect Google sign-in, implement bookmarks/saved articles behind auth. This makes the auth button functional and unlocks personalization.
+- **Option B (remove it):** Strip the Firebase SDK, auth button, and avatar element until the feature is ready. Remove the ~40KB load penalty. Re-add when config is real.
+- **Do not** leave placeholder config in production. It is a negative UX signal.
+- **Impact:** Option A would push Navigation to 8.0 (bookmarks, personalization). Option B would improve Performance slightly and remove a broken UI element.
+
+### 3. HIGH — Clean Up arXiv Abstracts + Fix Tools Category
+
+arXiv articles show raw abstracts starting with "arXiv:2604.00005v1 Announce Type: new Abstract:" — this is not suitable for a mobile news app. And Tools still only has 2 articles.
 
 **Fixes:**
-- Add research-focused RSS feeds: arXiv AI (cs.AI, cs.CL, cs.CV), Papers With Code trending, Semantic Scholar AI feed, DeepMind blog, Google AI blog.
-- Add tools-focused RSS feeds: Product Hunt AI category, GitHub trending ML repos, Hugging Face blog, LangChain blog.
-- If a category has fewer than 3 articles after a fetch cycle, flag it in logs so the team can investigate feed health.
-- Consider raising the minimum viable article count per category to 5 before displaying the section on the homepage.
-- **Impact:** Would push Category System to 7.5+ and Content Quality to 7.5.
-
-### 3. HIGH — Deep Linking and Search Polish
-
-The app has proper navigation (homepage vs. list view, category drill-down) but none of it is URL-addressable. Users cannot share a filtered view or bookmark a category.
-
-**Fixes:**
-- Use `URLSearchParams` and `history.pushState` to reflect current state: `?category=hardware`, `?q=nvidia`, `?category=models&sort=oldest`.
-- On page load, read URL params and restore the corresponding view.
-- Add search debounce (250ms) to prevent firing on every keystroke.
-- Add search result highlighting (wrap matches in `<mark>`).
-- **Impact:** Would push Search/Filter to 7.5 and Navigation to 8.0.
+- In `fetch_news.py`, add a post-processing step for arXiv entries: strip the "arXiv:XXXX Announce Type: new Abstract:" prefix. Truncate abstracts to 2-3 sentences max. This makes Research articles match the editorial quality of other categories.
+- For Tools category: add more tool-focused RSS feeds (GitHub Trending AI, LangChain blog, Weights & Biases blog). Consider lowering the relevance threshold for articles from tool-specific feeds, since the source context implies tool relevance.
+- If Tools consistently has fewer than 3 articles, hide the section on the homepage to avoid showing a nearly-empty category.
+- **Impact:** Would push Content Quality to 8.0 and make Research content actually readable on mobile.
 
 ---
 
 ## What Went Well This Cycle
 
-The team addressed the three specific v4 Rec #3 items — skeleton loading, trending scroll indicators, and aria-live sort announcements — plus tag contrast, tap targets, entrance animations, and search input zoom. This is disciplined execution on a punch list.
+The team addressed 2 of 3 v5 recommendations directly:
 
-Accessibility (+0.5 to 8.0) is the standout. The combination of aria-live announcements, WCAG AA tag contrast, 44px tap targets across all interactive elements, and reduced-motion support makes this genuinely good accessibility for a web app of this scale.
+**Rec #2 (Category Balance):** Research went from 1 to 10 articles via arXiv feeds. This is the biggest single content improvement across all 6 audits. The category system now has 4 of 5 categories with 9+ articles. Execution was precise — the right feeds were added and they're producing relevant content.
 
-Featured Section (+0.5 to 7.5) benefits from both the negative keyword filter (keeping off-topic stories out of hero position) and the entrance animation polish.
+**Rec #3 (Deep Linking + Search Polish):** All three items delivered — debounce (250ms), highlighting (<mark>), and deep linking (URLSearchParams + pushState + popstate). The implementation is clean: URL params are read on load, updated on state change, and browser back/forward works. This is solid engineering.
 
-The overall +0.1 (7.2 to 7.3) reflects that this was a polish cycle, not a structural one. The v4 layout rebuild was the big structural move; v5 refined its edges. To make the next jump (toward 7.5+ overall), the team needs to tackle the structural blockers: real images (Rec #1) and category balance (Rec #2). Polish alone won't get there.
+**Newsletter signup** is an unplanned but welcome addition. Two placement points (compact header bar + full section below content) with proper Formspree integration, accessible labels, and success states. This makes the app feel like a real product with a growth channel.
+
+**Dead CSS removal** (515 lines, 30% reduction) is good maintenance hygiene. The stylesheet is now tighter and easier to work with.
+
+The overall +0.2 (7.3 to 7.5) reflects that this was a mixed cycle: strong functional improvements (deep linking, search, category balance, newsletter) offset by a misstep (placeholder Firebase auth) and the continued absence of real images. The functional foundation is increasingly solid — the app now has search with debounce/highlight, deep linking, newsletter signup, 8 source feeds, and proper accessibility. What it lacks is visual richness (images) and content polish (arXiv cleanup). Those are the gates to 8.0.
 
 ---
 
-*Audit completed by Nigel on 2026-04-01. v5.*
+*Audit completed by Nigel on 2026-04-01. v6.*
