@@ -454,3 +454,13 @@
 - Card thumbnail height increased from 100px to 140px for better image display
 - `.card-thumb.has-image` and `.card-thumb.has-image img` CSS added for proper image rendering with `object-fit: cover`
 - Fixed 0.65rem font sizes (10.4px, too small for mobile) bumped to 0.72rem (~11.5px) across chip tags, trending chips, and card tags
+
+## v8 — 2026-04-01 (Spark)
+
+### Animated Hero Border
+- Replaced static `border: 2px solid var(--accent)` on hero card with an animated rotating conic gradient border
+- Border cycles through all five category colors (Models purple, Tools blue, Hardware green, Research orange, Industry pink) via `@property --hero-border-angle` and `conic-gradient`
+- Uses `::before` (gradient layer, z-index -2) and `::after` (inner fill, z-index -1) pseudo-elements for a CSS-only border effect — no JS required
+- 6-second rotation loop (`hero-border-spin` keyframe) for subtle, non-distracting motion
+- Removed `overflow: hidden` from hero card to allow the gradient border to extend 2px beyond card bounds
+- Addresses AUDIT.md feedback: "overall visual identity still lacks distinctive character" — the animated border gives the hero card a premium, eye-catching feel on mobile

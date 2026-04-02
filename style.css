@@ -277,19 +277,28 @@ main {
 /* ===== HERO BANNER ===== */
 #hero-section { margin-bottom: 1.25rem; }
 
+@property --hero-border-angle {
+  syntax: "<angle>";
+  initial-value: 0deg;
+  inherits: false;
+}
+
+@keyframes hero-border-spin {
+  to { --hero-border-angle: 360deg; }
+}
+
 .hero-card {
   display: block;
-  background: linear-gradient(135deg, #1a1f2e 0%, #1e2640 50%, #1a1f2e 100%);
+  background: transparent;
   border: none;
   border-radius: var(--radius);
   padding: 1.75rem 1.25rem 1.5rem;
   text-align: center;
   position: relative;
-  overflow: hidden;
   box-shadow: 0 0 30px var(--accent-glow), 0 4px 20px rgba(0,0,0,0.4);
 }
 
-/* Animated rotating gradient border using category colors */
+/* Animated rotating gradient border layer */
 .hero-card::before {
   content: "";
   position: absolute;
@@ -305,27 +314,17 @@ main {
     var(--tag-models)
   );
   animation: hero-border-spin 6s linear infinite;
-  z-index: -1;
+  z-index: -2;
 }
 
-/* Inner background mask creates the border effect */
+/* Inner background fill - masks center, revealing 2px animated border */
 .hero-card::after {
   content: "";
   position: absolute;
-  inset: 2px;
-  border-radius: calc(var(--radius) - 2px);
+  inset: 0;
+  border-radius: var(--radius);
   background: linear-gradient(135deg, #1a1f2e 0%, #1e2640 50%, #1a1f2e 100%);
   z-index: -1;
-}
-
-@property --hero-border-angle {
-  syntax: "<angle>";
-  initial-value: 0deg;
-  inherits: false;
-}
-
-@keyframes hero-border-spin {
-  to { --hero-border-angle: 360deg; }
 }
 
 .hero-icon {
