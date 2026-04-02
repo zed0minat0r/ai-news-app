@@ -100,10 +100,27 @@ AI_RELEVANCE_KEYWORDS = [
     " ai ", "ai,", "ai.", "ai:", "ai-",  # "ai" as standalone word
 ]
 
+# Negative keywords — articles matching these are NOT AI news
+NEGATIVE_KEYWORDS = [
+    "gaming deal", "ssd review", "motherboard review", "monitor review",
+    "keyboard review", "mouse review", "headset review", "speaker review",
+    "printer review", "router review", "wifi review", "best buy deal",
+    "amazon deal", "black friday", "cyber monday", "coupon", "promo code",
+    "denuvo", "drm bypass", "game pass", "steam sale", "playstation",
+    "xbox", "nintendo", "fortnite", "minecraft", "artemis", "moon mission",
+    "space station", "mars rover", "satellite imagery", "forest map",
+    "google vids", "google docs", "google sheets", "outlook bug",
+    "cryptocurrency", "bitcoin", "ethereum", "nft", "blockchain",
+    "recipe", "cooking", "workout", "fitness tracker",
+]
+
 
 def is_ai_related(title, summary):
-    """Check if an article is actually about AI."""
+    """Check if an article is actually about AI and not off-topic."""
     combined = (" " + title + " " + summary + " ").lower()
+    # Reject if negative keywords match
+    if any(neg in combined for neg in NEGATIVE_KEYWORDS):
+        return False
     return any(kw in combined for kw in AI_RELEVANCE_KEYWORDS)
 
 
