@@ -77,3 +77,12 @@
 ### Fixed
 - Muted text contrast bumped from #9ca3af to #adb5bd for stronger WCAG AA compliance on dark backgrounds (addresses Audit recommendation #3)
 - Muted text color adjusted to #9ca3af for improved WCAG contrast ratio
+
+## [0.6.0] — 2026-04-01 (Builder — Cycle 2)
+
+### Added
+- 8 new AI news stories (IDs 30-37): NVIDIA $1T forecast, Apple Siri overhaul, Oracle layoffs for AI, Amazon exascale campus, AI midterm politics, GTC agentic shift, Gemini Flash-Lite, Texas TRAIGA Act
+- All new stories sourced from real URLs published March 31 – April 1, 2026
+
+### Fixed
+- Back-to-top button: footer now has `position: relative; z-index: 1` so the fixed button (z-index: 1000) is no longer blocked by footer pointer events on mobile

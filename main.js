@@ -273,6 +273,79 @@ const ARTICLES = [
     url: "https://www.aiandnews.com/blog/latest-ai-news-march-2026-6/",
     date: "2026-03-31",
     category: "hardware"
+  },
+  // ── NEW STORIES — 2026-04-01 (Cycle 2) ──
+  {
+    id: 30,
+    title: "NVIDIA Expects $1 Trillion in AI Infrastructure Revenue by 2027",
+    summary: "Jensen Huang doubles NVIDIA's cumulative AI infrastructure revenue forecast to $1 trillion across Blackwell and Vera Rubin systems between 2025 and 2027.",
+    source: "Financial Content",
+    url: "https://markets.financialcontent.com/stocks/article/finterra-2026-4-2-nvidia-nvda-2026-deep-dive-the-sovereign-ai-era-and-the-path-to-4-trillion",
+    date: "2026-04-01",
+    category: "hardware"
+  },
+  {
+    id: 31,
+    title: "Apple's AI-Powered Siri Overhaul Rolling Out With iOS 26.4 This Spring",
+    summary: "Apple's reimagined Siri debuts as a context-aware system orchestrator capable of multi-step tasks across apps, powered by a Google Gemini partnership worth $1B/year.",
+    source: "Information Age",
+    url: "https://ia.acs.org.au/article/2026/apple-reveals-the-ai-behind-siri-s-big-2026-upgrade.html",
+    date: "2026-04-01",
+    category: "industry"
+  },
+  {
+    id: 32,
+    title: "Oracle Lays Off 25,000 to Fund Massive AI Data Center Expansion",
+    summary: "Oracle cuts a quarter of its workforce to redirect billions into AI data center infrastructure as the enterprise AI arms race intensifies.",
+    source: "Tech Startups",
+    url: "https://techstartups.com/2026/03/31/top-tech-news-today-march-31-2026/",
+    date: "2026-04-01",
+    category: "industry"
+  },
+  {
+    id: 33,
+    title: "Amazon Acquires 1,300 Acres in Oregon for $12B 'Exascale' AI Campus",
+    summary: "Amazon plans up to 20 data center buildings near the Columbia River in Boardman, Oregon, with an estimated $8-12 billion investment in exascale AI compute.",
+    source: "Tech Startups",
+    url: "https://techstartups.com/2026/03/31/top-tech-news-today-march-31-2026/",
+    date: "2026-04-01",
+    category: "hardware"
+  },
+  {
+    id: 34,
+    title: "AI Industry Goes All-In on 2026 Midterms as Regulation Looms",
+    summary: "AI companies are ramping up political spending ahead of the 2026 midterms as lawmakers prepare sweeping new regulations on autonomous systems and data privacy.",
+    source: "ABC News",
+    url: "https://abcnews.com/Politics/ai-industry-2026-midterms-government-regulations-looming/story?id=131610305",
+    date: "2026-04-01",
+    category: "industry"
+  },
+  {
+    id: 35,
+    title: "GTC 2026 Signals Agentic AI Has Moved From Demo to Production",
+    summary: "NVIDIA's GTC 2026 was dominated by enterprise agentic deployments rather than raw benchmarks, signaling autonomous AI agents are now in real-world production at scale.",
+    source: "Deeper Insights",
+    url: "https://deeperinsights.com/ai-blog/nvidia-gtc-2026-highlights/",
+    date: "2026-04-01",
+    category: "research"
+  },
+  {
+    id: 36,
+    title: "Gemini 3.1 Flash-Lite: Google's Fastest Budget Model at $0.25/M Tokens",
+    summary: "Google's new Flash-Lite model delivers 2.5x faster response times and 45% faster output generation than predecessors, targeting high-volume production workloads.",
+    source: "Google Blog",
+    url: "https://blog.google/innovation-and-ai/technology/ai/google-ai-updates-march-2026/",
+    date: "2026-04-01",
+    category: "models"
+  },
+  {
+    id: 37,
+    title: "Texas TRAIGA Act Takes Effect — First Comprehensive US State AI Governance Law",
+    summary: "The Texas Responsible AI Governance Act bans harmful AI uses and requires disclosures when government and healthcare providers deploy AI systems, setting a national precedent.",
+    source: "CPO Magazine",
+    url: "https://www.cpomagazine.com/data-protection/2026-ai-legal-forecast-from-innovation-to-compliance/",
+    date: "2026-04-01",
+    category: "industry"
   }
 ];
 
