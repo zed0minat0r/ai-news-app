@@ -1,5 +1,24 @@
 # Changelog
 
+## 2026-04-01 — v3.3.0 — Newsletter Signup (Builder)
+
+### Added
+- **Newsletter signup section** between category sections and footer with heading "Stay ahead of the AI curve. Get the top stories delivered daily."
+- **Compact header signup bar** below the search area for quick email capture
+- **Formspree integration** (endpoint `xpwzgkjq`) for email collection via AJAX
+- **Success state** — form hides and shows "You're subscribed!" on successful submission
+- **Error handling** — button shows "Try again" on failure, re-enables input
+
+### Design
+- Mobile-first, center-aligned layout
+- 44px minimum tap targets on inputs and buttons
+- 16px (1rem) input font size to prevent iOS zoom
+- Dark theme gradient card for the main newsletter section
+- Accent gradient heading matching the site brand
+- Both forms share the same Formspree endpoint and submission logic
+
+---
+
 ## 2026-04-01 — v3.2.0 — Deep Linking, Search Polish & RSS Expansion (Refiner)
 
 ### Added
@@ -330,3 +349,18 @@
 - Mobile-first, center-aligned layout preserved
 - All tap targets remain at 44px+ minimum
 - No horizontal overflow at 375px
+
+## 2026-04-01 — v3.5.0 — Login & Dashboard UI (Spark)
+
+### Added
+- **Login modal/overlay:** Dark modal with backdrop blur, Google sign-in button (white with colored logo), email/password fields, "or" divider, and submit button. Centered on mobile, smooth entrance animation.
+- **User dashboard layout:** Full-screen overlay with tab-based navigation (My Feed, Bookmarks, Settings). Tabs are horizontal on mobile, convert to a sidebar on desktop (768px+). Includes settings rows with CSS-only toggle switches.
+- **Bookmark button on cards:** 44px tap-target bookmark icon in card footer, toggles between outline and filled states via `aria-pressed`. Accent-colored when active.
+- **Profile pill in header:** Compact pill with avatar circle + username, positioned in a new `.header-actions` row. Avatar supports initials fallback or image.
+
+### Notes
+- CSS-only changes, no HTML or JS modifications required for styling
+- Mobile-first, center-aligned layout preserved
+- All tap targets remain at 44px+ minimum
+- Dashboard converts from tabs (mobile) to sidebar (desktop) at 768px
+- Uses existing design tokens (--accent, --surface, --border, etc.)

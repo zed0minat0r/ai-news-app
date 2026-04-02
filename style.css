@@ -65,6 +65,14 @@ a { color: inherit; text-decoration: none; }
   margin: 0 auto;
 }
 
+/* Header top row: logo + auth button */
+.header-top-row {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  position: relative;
+}
+
 .logo {
   display: flex;
   align-items: center;
@@ -73,6 +81,47 @@ a { color: inherit; text-decoration: none; }
 }
 
 .logo-icon { font-size: 1.75rem; }
+
+/* Auth button & avatar */
+.auth-btn {
+  position: absolute;
+  right: 0;
+  top: 50%;
+  transform: translateY(-50%);
+  width: 44px;
+  height: 44px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background: var(--surface);
+  border: 1px solid var(--border);
+  border-radius: 50%;
+  color: var(--text-muted);
+  cursor: pointer;
+  transition: border-color 0.2s, color 0.2s;
+}
+
+.auth-btn:active {
+  border-color: var(--accent);
+  color: var(--accent);
+}
+
+.auth-icon {
+  pointer-events: none;
+}
+
+.auth-avatar {
+  position: absolute;
+  right: 0;
+  top: 50%;
+  transform: translateY(-50%);
+  width: 36px;
+  height: 36px;
+  border-radius: 50%;
+  border: 2px solid var(--accent);
+  cursor: pointer;
+  object-fit: cover;
+}
 
 .logo h1 {
   font-size: 1.75rem;
@@ -728,6 +777,156 @@ mark {
   display: flex !important;
 }
 
+/* ===== HEADER SIGNUP BAR ===== */
+.header-signup {
+  margin-top: 0.75rem;
+  max-width: 480px;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.header-signup-form {
+  display: flex;
+  gap: 0.5rem;
+}
+
+.header-signup-form input {
+  flex: 1;
+  min-height: 44px;
+  padding: 0.5rem 0.75rem;
+  border: 1px solid var(--border);
+  border-radius: 8px;
+  background: var(--surface);
+  color: var(--text);
+  font-size: 1rem;
+  font-family: inherit;
+  transition: border-color 0.2s;
+}
+
+.header-signup-form input:focus {
+  border-color: var(--accent);
+  box-shadow: 0 0 0 3px var(--accent-glow);
+  outline: none;
+}
+
+.header-signup-form button {
+  min-height: 44px;
+  padding: 0.5rem 1.25rem;
+  border: none;
+  border-radius: 8px;
+  background: var(--accent);
+  color: #0d1117;
+  font-family: inherit;
+  font-size: 0.9rem;
+  font-weight: 600;
+  cursor: pointer;
+  white-space: nowrap;
+  transition: opacity 0.2s;
+}
+
+.header-signup-form button:active {
+  opacity: 0.85;
+}
+
+.header-signup-success {
+  text-align: center;
+  color: #7ee787;
+  font-size: 0.9rem;
+  font-weight: 600;
+  padding: 0.6rem 0;
+}
+
+/* ===== NEWSLETTER SECTION ===== */
+.newsletter-section {
+  max-width: var(--max-w);
+  margin: 0 auto;
+  padding: 0 1rem 2rem;
+}
+
+.newsletter-inner {
+  background: linear-gradient(135deg, #1a1f2e 0%, #1e2640 50%, #1a1f2e 100%);
+  border: 1px solid var(--border);
+  border-radius: var(--radius);
+  padding: 2rem 1.25rem;
+  text-align: center;
+}
+
+.newsletter-heading {
+  font-size: 1.35rem;
+  font-weight: 700;
+  letter-spacing: -0.3px;
+  margin-bottom: 0.35rem;
+  background: linear-gradient(135deg, var(--accent), #a371f7);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  background-clip: text;
+}
+
+.newsletter-subtext {
+  color: var(--text-muted);
+  font-size: 0.95rem;
+  margin-bottom: 1.25rem;
+}
+
+.newsletter-form {
+  display: flex;
+  gap: 0.5rem;
+  max-width: 440px;
+  margin: 0 auto;
+}
+
+.newsletter-form input {
+  flex: 1;
+  min-height: 44px;
+  padding: 0.6rem 1rem;
+  border: 1px solid var(--border);
+  border-radius: 8px;
+  background: var(--surface);
+  color: var(--text);
+  font-size: 1rem;
+  font-family: inherit;
+  transition: border-color 0.2s;
+}
+
+.newsletter-form input:focus {
+  border-color: var(--accent);
+  box-shadow: 0 0 0 3px var(--accent-glow);
+  outline: none;
+}
+
+.newsletter-form button {
+  min-height: 44px;
+  padding: 0.6rem 1.5rem;
+  border: none;
+  border-radius: 8px;
+  background: var(--accent);
+  color: #0d1117;
+  font-family: inherit;
+  font-size: 0.95rem;
+  font-weight: 600;
+  cursor: pointer;
+  white-space: nowrap;
+  transition: opacity 0.2s;
+}
+
+.newsletter-form button:active {
+  opacity: 0.85;
+}
+
+.newsletter-success {
+  color: #7ee787;
+  font-size: 1rem;
+  font-weight: 600;
+  padding: 0.75rem 0 0.25rem;
+}
+
+.newsletter-privacy {
+  color: var(--text-muted);
+  font-size: 0.75rem;
+  margin-top: 0.75rem;
+  opacity: 0.7;
+}
+
 /* ===== FOOTER ===== */
 footer {
   text-align: center;
@@ -990,5 +1189,518 @@ footer {
   .trending-chip,
   .cat-section {
     animation: none;
+  }
+}
+
+/* ===== USER AVATAR / PROFILE PILL ===== */
+.profile-pill {
+  display: inline-flex;
+  align-items: center;
+  gap: 0.4rem;
+  padding: 0.25rem 0.65rem 0.25rem 0.25rem;
+  border: 1px solid var(--border);
+  border-radius: 999px;
+  background: var(--surface);
+  cursor: pointer;
+  min-height: 36px;
+  transition: border-color 0.2s, background 0.2s;
+}
+
+.profile-pill:active {
+  background: var(--surface-hover);
+  border-color: var(--accent);
+}
+
+.profile-avatar {
+  width: 28px;
+  height: 28px;
+  border-radius: 50%;
+  background: var(--accent);
+  color: var(--bg);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 0.75rem;
+  font-weight: 700;
+  overflow: hidden;
+  flex-shrink: 0;
+}
+
+.profile-avatar img {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+  border-radius: 50%;
+}
+
+.profile-name {
+  font-size: 0.78rem;
+  font-weight: 500;
+  color: var(--text);
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  max-width: 90px;
+}
+
+/* Position in header — sits beside logo */
+.header-actions {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 0.5rem;
+  margin-top: 0.5rem;
+}
+
+/* ===== LOGIN MODAL / OVERLAY ===== */
+.login-overlay {
+  position: fixed;
+  inset: 0;
+  z-index: 10000;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background: rgba(0, 0, 0, 0.7);
+  backdrop-filter: blur(6px);
+  -webkit-backdrop-filter: blur(6px);
+  opacity: 0;
+  pointer-events: none;
+  transition: opacity 0.25s ease;
+}
+
+.login-overlay.visible {
+  opacity: 1;
+  pointer-events: auto;
+}
+
+.login-modal {
+  width: 90%;
+  max-width: 380px;
+  background: var(--surface);
+  border: 1px solid var(--border);
+  border-radius: var(--radius);
+  padding: 2rem 1.5rem;
+  text-align: center;
+  transform: translateY(1rem);
+  transition: transform 0.25s ease;
+}
+
+.login-overlay.visible .login-modal {
+  transform: translateY(0);
+}
+
+.login-modal-title {
+  font-size: 1.25rem;
+  font-weight: 700;
+  margin-bottom: 0.35rem;
+}
+
+.login-modal-subtitle {
+  font-size: 0.82rem;
+  color: var(--text-muted);
+  margin-bottom: 1.25rem;
+}
+
+.login-modal-close {
+  position: absolute;
+  top: 0.75rem;
+  right: 0.75rem;
+  background: none;
+  border: none;
+  color: var(--text-muted);
+  font-size: 1.25rem;
+  cursor: pointer;
+  min-width: 44px;
+  min-height: 44px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.login-modal-close:active {
+  color: var(--text);
+}
+
+/* Make modal position:relative for close btn */
+.login-modal {
+  position: relative;
+}
+
+/* Google sign-in button */
+.login-google-btn {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 0.5rem;
+  width: 100%;
+  min-height: 48px;
+  padding: 0.65rem 1rem;
+  border: 1px solid var(--border);
+  border-radius: 8px;
+  background: #fff;
+  color: #3c4043;
+  font-family: inherit;
+  font-size: 0.9rem;
+  font-weight: 600;
+  cursor: pointer;
+  transition: background 0.2s, box-shadow 0.2s;
+}
+
+.login-google-btn:active {
+  background: #f1f3f4;
+  box-shadow: 0 1px 3px rgba(0,0,0,0.2);
+}
+
+.login-google-btn svg {
+  width: 20px;
+  height: 20px;
+  flex-shrink: 0;
+}
+
+.login-divider {
+  display: flex;
+  align-items: center;
+  gap: 0.75rem;
+  margin: 1rem 0;
+  color: var(--text-muted);
+  font-size: 0.75rem;
+}
+
+.login-divider::before,
+.login-divider::after {
+  content: '';
+  flex: 1;
+  height: 1px;
+  background: var(--border);
+}
+
+/* Email / password fields */
+.login-field {
+  display: block;
+  width: 100%;
+  min-height: 48px;
+  padding: 0.65rem 0.85rem;
+  margin-bottom: 0.65rem;
+  border: 1px solid var(--border);
+  border-radius: 8px;
+  background: var(--bg);
+  color: var(--text);
+  font-family: inherit;
+  font-size: 0.9rem;
+  transition: border-color 0.2s, box-shadow 0.2s;
+}
+
+.login-field::placeholder {
+  color: var(--text-muted);
+}
+
+.login-field:focus {
+  outline: none;
+  border-color: var(--accent);
+  box-shadow: 0 0 0 3px var(--accent-glow);
+}
+
+.login-submit {
+  display: block;
+  width: 100%;
+  min-height: 48px;
+  padding: 0.65rem 1rem;
+  margin-top: 0.35rem;
+  border: none;
+  border-radius: 8px;
+  background: var(--accent);
+  color: var(--bg);
+  font-family: inherit;
+  font-size: 0.9rem;
+  font-weight: 600;
+  cursor: pointer;
+  transition: opacity 0.2s;
+}
+
+.login-submit:active {
+  opacity: 0.85;
+}
+
+.login-footer-text {
+  font-size: 0.72rem;
+  color: var(--text-muted);
+  margin-top: 1rem;
+}
+
+.login-footer-text a {
+  color: var(--accent);
+}
+
+/* ===== BOOKMARK BUTTON ON CARDS ===== */
+.bookmark-btn {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  width: 36px;
+  height: 36px;
+  min-width: 44px;
+  min-height: 44px;
+  border: none;
+  border-radius: 6px;
+  background: transparent;
+  color: var(--text-muted);
+  font-size: 1.05rem;
+  cursor: pointer;
+  transition: color 0.2s, background 0.2s;
+  position: relative;
+  z-index: 2;
+  flex-shrink: 0;
+  -webkit-tap-highlight-color: transparent;
+}
+
+.bookmark-btn:active {
+  background: rgba(88, 166, 255, 0.1);
+}
+
+.bookmark-btn[aria-pressed="true"] {
+  color: var(--accent);
+}
+
+/* Bookmark SVG icon defaults */
+.bookmark-btn .bk-outline {
+  display: block;
+}
+.bookmark-btn .bk-filled {
+  display: none;
+}
+.bookmark-btn[aria-pressed="true"] .bk-outline {
+  display: none;
+}
+.bookmark-btn[aria-pressed="true"] .bk-filled {
+  display: block;
+}
+
+/* ===== USER DASHBOARD LAYOUT ===== */
+.dashboard-overlay {
+  position: fixed;
+  inset: 0;
+  z-index: 9500;
+  background: var(--bg);
+  display: flex;
+  flex-direction: column;
+  opacity: 0;
+  pointer-events: none;
+  transition: opacity 0.25s ease;
+}
+
+.dashboard-overlay.visible {
+  opacity: 1;
+  pointer-events: auto;
+}
+
+.dashboard-header {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding: 0.75rem 1rem;
+  border-bottom: 1px solid var(--border);
+  background: var(--surface);
+}
+
+.dashboard-header-title {
+  font-size: 1rem;
+  font-weight: 700;
+}
+
+.dashboard-close {
+  background: none;
+  border: none;
+  color: var(--text-muted);
+  font-size: 1.25rem;
+  cursor: pointer;
+  min-width: 44px;
+  min-height: 44px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.dashboard-close:active {
+  color: var(--text);
+}
+
+/* Tab navigation — mobile-first horizontal tabs */
+.dashboard-tabs {
+  display: flex;
+  align-items: stretch;
+  border-bottom: 1px solid var(--border);
+  background: var(--surface);
+  overflow-x: auto;
+  -webkit-overflow-scrolling: touch;
+  scrollbar-width: none;
+}
+
+.dashboard-tabs::-webkit-scrollbar {
+  display: none;
+}
+
+.dashboard-tab {
+  flex: 1;
+  min-width: max-content;
+  padding: 0.75rem 1rem;
+  border: none;
+  border-bottom: 2px solid transparent;
+  background: none;
+  color: var(--text-muted);
+  font-family: inherit;
+  font-size: 0.82rem;
+  font-weight: 600;
+  text-align: center;
+  cursor: pointer;
+  white-space: nowrap;
+  min-height: 44px;
+  transition: color 0.2s, border-color 0.2s;
+}
+
+.dashboard-tab:active {
+  background: var(--surface-hover);
+}
+
+.dashboard-tab[aria-selected="true"] {
+  color: var(--accent);
+  border-bottom-color: var(--accent);
+}
+
+/* Dashboard panels */
+.dashboard-panel {
+  flex: 1;
+  overflow-y: auto;
+  padding: 1rem;
+  display: none;
+}
+
+.dashboard-panel.active {
+  display: block;
+}
+
+.dashboard-panel-empty {
+  text-align: center;
+  color: var(--text-muted);
+  font-size: 0.85rem;
+  padding: 3rem 1rem;
+}
+
+.dashboard-panel-empty-icon {
+  font-size: 2rem;
+  margin-bottom: 0.75rem;
+  opacity: 0.5;
+}
+
+/* Settings panel items */
+.settings-group {
+  margin-bottom: 1.5rem;
+}
+
+.settings-label {
+  font-size: 0.78rem;
+  font-weight: 600;
+  color: var(--text-muted);
+  text-transform: uppercase;
+  letter-spacing: 0.04em;
+  margin-bottom: 0.5rem;
+}
+
+.settings-row {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding: 0.75rem 0;
+  border-bottom: 1px solid var(--border);
+  min-height: 44px;
+}
+
+.settings-row-text {
+  font-size: 0.88rem;
+}
+
+/* Toggle switch — CSS only */
+.toggle-switch {
+  position: relative;
+  width: 44px;
+  height: 24px;
+  flex-shrink: 0;
+}
+
+.toggle-switch input {
+  opacity: 0;
+  width: 0;
+  height: 0;
+  position: absolute;
+}
+
+.toggle-track {
+  position: absolute;
+  inset: 0;
+  border-radius: 999px;
+  background: var(--border);
+  transition: background 0.2s;
+  cursor: pointer;
+}
+
+.toggle-track::after {
+  content: '';
+  position: absolute;
+  top: 2px;
+  left: 2px;
+  width: 20px;
+  height: 20px;
+  border-radius: 50%;
+  background: var(--text);
+  transition: transform 0.2s;
+}
+
+.toggle-switch input:checked + .toggle-track {
+  background: var(--accent);
+}
+
+.toggle-switch input:checked + .toggle-track::after {
+  transform: translateX(20px);
+}
+
+/* ===== DASHBOARD DESKTOP SIDEBAR LAYOUT ===== */
+@media (min-width: 768px) {
+  .dashboard-overlay {
+    flex-direction: row;
+  }
+
+  .dashboard-header {
+    display: none;
+  }
+
+  .dashboard-tabs {
+    flex-direction: column;
+    border-bottom: none;
+    border-right: 1px solid var(--border);
+    width: 200px;
+    flex-shrink: 0;
+    overflow-x: visible;
+    padding-top: 1rem;
+  }
+
+  .dashboard-tab {
+    text-align: left;
+    padding: 0.65rem 1.25rem;
+    border-bottom: none;
+    border-left: 2px solid transparent;
+    flex: none;
+  }
+
+  .dashboard-tab[aria-selected="true"] {
+    border-left-color: var(--accent);
+    border-bottom-color: transparent;
+    background: var(--surface-hover);
+  }
+
+  .dashboard-panel {
+    padding: 2rem;
+  }
+
+  .profile-name {
+    max-width: 120px;
   }
 }
