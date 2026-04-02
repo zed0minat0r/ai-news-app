@@ -94,3 +94,19 @@
 - Hero card category tag now `justify-self: center` in stacked mobile view
 - Search clear button tap target enlarged to 44x44px minimum (was ~20px), meets mobile accessibility guidelines
 - Search clear button displays as flex to properly center the X icon
+
+## [0.7.0] — 2026-04-01 (Refiner — v2 Audit Fixes)
+
+### Added
+- Article count badges on category pills — e.g. "Models (10)", "Hardware (9)"
+- Share buttons on every card and featured section (uses Web Share API with clipboard fallback)
+- "Trending Now" section showing top 5 newest articles, displayed on the "All" view
+- Featured card hero icon matching article category for visual distinction
+
+### Improved
+- Featured section visually upgraded: gradient top bar, pulsing "Breaking" badge, gradient headline text, larger padding, stronger glow shadow
+- Featured card now has a footer row with share button alongside meta info
+- Category pills now show gap-spaced count badges with appropriate opacity
+- Trending items display as a compact ranked list with category tags, mobile-first
+- Desktop: trending items flow into a 2-column layout for better use of space
+- Hero cards (5n+1) card-footer aligns properly in both stacked mobile and grid desktop views
