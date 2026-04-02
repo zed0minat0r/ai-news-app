@@ -270,3 +270,19 @@
 - Center alignment preserved across hero, trending, cards, and section headers
 - Contrast ratios unchanged (already passing)
 - Addresses AUDIT.md feedback on making emoji thumbnails feel less synthetic
+
+## [2026-04-01] Spark — Staggered Card Entrance Animations
+
+### Added
+- **Staggered fade-up entrance animations (CSS-only):** Hero card, trending chips, category sections, and all news cards now fade up into place with a subtle stagger delay when the page loads or content renders. Creates a polished, fluid feel similar to Apple News and SmartNews.
+- **Hero card animation:** 0.4s ease-out fade-up on load.
+- **Trending chip stagger:** 5 chips stagger at 50ms intervals (0.05s–0.25s).
+- **Category section stagger:** 5 sections stagger at 100ms intervals (0.1s–0.5s).
+- **Card grid stagger:** Up to 12 cards in list view stagger at 40ms intervals; category grid cards stagger at 70ms intervals.
+- **prefers-reduced-motion support:** All entrance animations are disabled when the user has reduced motion enabled (accessibility).
+
+### Notes
+- Pure CSS implementation — no JavaScript changes required.
+- Mobile-first: animations are lightweight (translateY 12px + opacity) to avoid jank on low-end devices.
+- Addresses AUDIT.md recommendation for "missing polish moments" now that the layout structure is mature.
+- Center alignment preserved across all animated elements.
