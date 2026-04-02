@@ -1081,3 +1081,84 @@ document.querySelectorAll("form[data-newsletter]").forEach((form) => {
     }
   });
 });
+
+/* =========================================================
+   PULL TO REFRESH
+   ========================================================= */
+(function initPullToRefresh() {
+  const ptrEl = document.getElementById("pull-to-refresh");
+  if (!ptrEl) return;
+
+  let startY = 0;
+  let pulling = false;
+  const THRESHOLD = 80;
+
+  document.addEventListener("touchstart", function(e) {
+    if (window.scrollY === 0) {
+      startY = e.touches[0].clientY;
+      pulling = true;
+    }
+  }, { passive: true });
+
+  document.addEventListener("touchmove", function(e) {
+    if (!pulling) return;
+    const dy = e.touches[0].clientY - startY;
+    if (dy > 10 && window.scrollY === 0) {
+      ptrEl.classList.add("visible");
+    }
+    if (dy < 0) {
+      pulling = false;
+      ptrEl.classList.remove("visible");
+    }
+  }, { passive: true });
+
+  document.addEventListener("touchend", function() {
+    if (!pulling) return;
+    pulling = false;
+    if (ptrEl.classList.contains("visible")) {
+      ptrEl.classList.add("refreshing");
+      loadArticles().then(function() {
+        ptrEl.classList.remove("refreshing");
+        ptrEl.classList.remove("visible");
+      });
+    }
+  }, { passive: true });
+})();
+
+/* =========================================================
+   BOTTOM NAVIGATION BAR
+   ========================================================= */
+(function initBottomNav() {
+  const bottomNavBtns = document.querySelectorAll(".bottom-nav-btn");
+  if (!bottomNavBtns.length) return;
+
+  function syncBottomNav(cat) {
+    bottomNavBtns.forEach(function(btn) {
+      const isActive = btn.dataset.category === cat;
+      btn.classList.toggle("active", isActive);
+      btn.setAttribute("aria-pressed", isActive ? "true" : "false");
+    });
+  }
+
+  bottomNavBtns.forEach(function(btn) {
+    btn.addEventListener("click", function() {
+      const cat = btn.dataset.category;
+      activateCategory(cat);
+      syncBottomNav(cat);
+      window.scrollTo({ top: 0, behavior: "smooth" });
+    });
+  });
+
+  // Keep bottom nav in sync when top nav pills are clicked
+  categoryBtns.forEach(function(btn) {
+    btn.addEventListener("click", function() {
+      syncBottomNav(btn.dataset.category);
+    });
+  });
+
+  // Sync on popstate (browser back/forward)
+  window.addEventListener("popstate", function() {
+    const params = new URLSearchParams(window.location.search);
+    syncBottomNav(params.get("category") || "all");
+  });
+})();

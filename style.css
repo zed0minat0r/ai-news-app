@@ -479,11 +479,11 @@ main {
   margin-bottom: 0.3rem;
 }
 
-.chip-tag.models   { background: rgba(210,168,255,0.18); color: #d2a8ff; }
-.chip-tag.hardware { background: rgba(126,231,135,0.18); color: #7ee787; }
-.chip-tag.research { background: rgba(255,166,87,0.18);  color: #ffa657; }
-.chip-tag.tools    { background: rgba(88,166,255,0.18);  color: #79b8ff; }
-.chip-tag.industry { background: rgba(247,120,186,0.18); color: #f778ba; }
+.chip-tag.models   { background: rgba(210,168,255,0.28); color: #d2a8ff; }
+.chip-tag.hardware { background: rgba(126,231,135,0.28); color: #7ee787; }
+.chip-tag.research { background: rgba(255,166,87,0.28);  color: #ffa657; }
+.chip-tag.tools    { background: rgba(88,166,255,0.28);  color: #79b8ff; }
+.chip-tag.industry { background: rgba(247,120,186,0.28); color: #f778ba; }
 
 .trending-chip h4 {
   font-size: 0.78rem;
@@ -634,11 +634,11 @@ main {
   margin-bottom: 0.4rem;
 }
 
-.card-tag.models   { background: rgba(210,168,255,0.15); color: #d2a8ff; }
-.card-tag.hardware { background: rgba(126,231,135,0.15); color: #7ee787; }
-.card-tag.research { background: rgba(255,166,87,0.15);  color: #ffa657; }
-.card-tag.tools    { background: rgba(88,166,255,0.15);  color: #79b8ff; }
-.card-tag.industry { background: rgba(247,120,186,0.15); color: #f778ba; }
+.card-tag.models   { background: rgba(210,168,255,0.25); color: #d2a8ff; }
+.card-tag.hardware { background: rgba(126,231,135,0.25); color: #7ee787; }
+.card-tag.research { background: rgba(255,166,87,0.25);  color: #ffa657; }
+.card-tag.tools    { background: rgba(88,166,255,0.25);  color: #79b8ff; }
+.card-tag.industry { background: rgba(247,120,186,0.25); color: #f778ba; }
 
 .card h3 {
   font-size: 0.9rem;
@@ -1268,6 +1268,199 @@ footer {
   .cat-section {
     animation: none;
   }
+  .ptr-spinner { animation: none; }
 }
 
+/* ===== PULL TO REFRESH ===== */
+.ptr-indicator {
+  position: fixed;
+  top: 0;
+  left: 0;
+  right: 0;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 0.5rem;
+  padding: 0.6rem 1rem;
+  background: var(--surface);
+  border-bottom: 1px solid var(--border);
+  transform: translateY(-100%);
+  transition: transform 0.25s ease;
+  z-index: 9999;
+  text-align: center;
+}
+
+.ptr-indicator.visible {
+  transform: translateY(0);
+}
+
+.ptr-indicator.refreshing .ptr-text {
+  display: none;
+}
+
+.ptr-indicator.refreshing::after {
+  content: "Refreshing...";
+  color: var(--accent);
+  font-size: 0.8rem;
+  font-weight: 600;
+}
+
+.ptr-spinner {
+  width: 18px;
+  height: 18px;
+  border: 2px solid var(--border);
+  border-top-color: var(--accent);
+  border-radius: 50%;
+  animation: ptr-spin 0.6s linear infinite;
+  opacity: 0;
+  transition: opacity 0.2s;
+}
+
+.ptr-indicator.visible .ptr-spinner {
+  opacity: 1;
+}
+
+.ptr-text {
+  color: var(--accent);
+  font-size: 0.8rem;
+  font-weight: 600;
+}
+
+@keyframes ptr-spin {
+  to { transform: rotate(360deg); }
+}
+
+/* ===== BOTTOM NAVIGATION BAR ===== */
+.bottom-nav {
+  position: fixed;
+  bottom: 0;
+  left: 0;
+  right: 0;
+  display: flex;
+  align-items: stretch;
+  justify-content: space-around;
+  background: rgba(22, 27, 34, 0.92);
+  backdrop-filter: blur(12px);
+  -webkit-backdrop-filter: blur(12px);
+  border-top: 1px solid var(--border);
+  z-index: 1000;
+  padding: 0.25rem 0 calc(0.25rem + env(safe-area-inset-bottom, 0px));
+  box-shadow: 0 -2px 16px rgba(0,0,0,0.35);
+}
+
+.bottom-nav-btn {
+  flex: 1;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  gap: 0.2rem;
+  background: none;
+  border: none;
+  color: var(--text-muted);
+  font-family: inherit;
+  cursor: pointer;
+  padding: 0.35rem 0 0.25rem;
+  min-height: 48px;
+  position: relative;
+  transition: color 0.2s ease, transform 0.15s ease;
+  -webkit-tap-highlight-color: transparent;
+}
+
+/* Active indicator line above the icon */
+.bottom-nav-btn::before {
+  content: '';
+  position: absolute;
+  top: 0;
+  left: 50%;
+  transform: translateX(-50%) scaleX(0);
+  width: 24px;
+  height: 2.5px;
+  border-radius: 0 0 2px 2px;
+  background: var(--accent);
+  transition: transform 0.25s ease;
+}
+
+.bottom-nav-btn.active::before {
+  transform: translateX(-50%) scaleX(1);
+}
+
+/* Tap feedback */
+.bottom-nav-btn:active {
+  transform: scale(0.92);
+}
+
+/* Default active color */
+.bottom-nav-btn.active {
+  color: var(--accent);
+}
+
+/* Category-specific active colors */
+.bottom-nav-btn.active[data-category="models"] {
+  color: var(--tag-models);
+}
+.bottom-nav-btn.active[data-category="models"]::before {
+  background: var(--tag-models);
+}
+.bottom-nav-btn.active[data-category="hardware"] {
+  color: var(--tag-hardware);
+}
+.bottom-nav-btn.active[data-category="hardware"]::before {
+  background: var(--tag-hardware);
+}
+.bottom-nav-btn.active[data-category="research"] {
+  color: var(--tag-research);
+}
+.bottom-nav-btn.active[data-category="research"]::before {
+  background: var(--tag-research);
+}
+.bottom-nav-btn.active[data-category="tools"] {
+  color: var(--tag-tools);
+}
+.bottom-nav-btn.active[data-category="tools"]::before {
+  background: var(--tag-tools);
+}
+.bottom-nav-btn.active[data-category="industry"] {
+  color: var(--tag-industry);
+}
+.bottom-nav-btn.active[data-category="industry"]::before {
+  background: var(--tag-industry);
+}
+
+.bottom-nav-icon {
+  font-size: 1.2rem;
+  line-height: 1;
+}
+
+.bottom-nav-label {
+  font-size: 0.6rem;
+  font-weight: 600;
+  text-transform: uppercase;
+  letter-spacing: 0.4px;
+}
+
+/* Add bottom padding to body so content isn't hidden behind bottom nav */
+body {
+  padding-bottom: 68px;
+}
+
+/* Back-to-top needs to move up above bottom nav */
+.back-to-top {
+  bottom: calc(68px + 1rem);
+}
+
+/* Hide bottom nav on desktop — top nav is sufficient */
+@media (min-width: 960px) {
+  .bottom-nav { display: none; }
+  body { padding-bottom: 0; }
+  .back-to-top { bottom: 1.5rem; }
+}
+
+/* Respect reduced motion */
+@media (prefers-reduced-motion: reduce) {
+  .bottom-nav-btn,
+  .bottom-nav-btn::before {
+    transition: none;
+  }
+}
 

@@ -126,7 +126,41 @@
     </div>
   </section>
 
+  <!-- Pull-to-refresh indicator -->
+  <div id="pull-to-refresh" class="ptr-indicator" aria-hidden="true">
+    <div class="ptr-spinner"></div>
+    <span class="ptr-text">Release to refresh</span>
+  </div>
+
   <button id="back-to-top" class="back-to-top hidden" aria-label="Back to top">&uarr;</button>
+
+  <!-- Bottom navigation bar (mobile) -->
+  <nav id="bottom-nav" class="bottom-nav" aria-label="Quick category navigation">
+    <button class="bottom-nav-btn active" data-category="all" aria-pressed="true">
+      <span class="bottom-nav-icon" aria-hidden="true">&#9889;</span>
+      <span class="bottom-nav-label">All</span>
+    </button>
+    <button class="bottom-nav-btn" data-category="models" aria-pressed="false">
+      <span class="bottom-nav-icon" aria-hidden="true">&#129302;</span>
+      <span class="bottom-nav-label">Models</span>
+    </button>
+    <button class="bottom-nav-btn" data-category="hardware" aria-pressed="false">
+      <span class="bottom-nav-icon" aria-hidden="true">&#128421;</span>
+      <span class="bottom-nav-label">Hardware</span>
+    </button>
+    <button class="bottom-nav-btn" data-category="research" aria-pressed="false">
+      <span class="bottom-nav-icon" aria-hidden="true">&#128300;</span>
+      <span class="bottom-nav-label">Research</span>
+    </button>
+    <button class="bottom-nav-btn" data-category="tools" aria-pressed="false">
+      <span class="bottom-nav-icon" aria-hidden="true">&#128295;</span>
+      <span class="bottom-nav-label">Tools</span>
+    </button>
+    <button class="bottom-nav-btn" data-category="industry" aria-pressed="false">
+      <span class="bottom-nav-icon" aria-hidden="true">&#127970;</span>
+      <span class="bottom-nav-label">Industry</span>
+    </button>
+  </nav>
 
   <footer>
     <p>AI Pulse &mdash; Built by Builder &mdash; <span id="footer-year"></span></p>

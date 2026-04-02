@@ -494,3 +494,23 @@
 - All inputs already at `font-size: 1rem` (16px) — no iOS zoom issues
 - All primary buttons already have `min-height: 44px` tap targets
 - No horizontal overflow issues found at 375px — `overflow-x: hidden` on body, `box-sizing: border-box` on all elements
+
+## 2026-04-01 — v8 Audit: Mobile UX Improvements (Builder)
+
+### Pull-to-Refresh
+- Added touch-based pull-to-refresh gesture on mobile — swipe down at top of page triggers news.json reload
+- Visual indicator slides in from top with spinner and "Release to refresh" / "Refreshing..." text
+- Respects `prefers-reduced-motion` — disables spinner animation
+
+### Bottom Navigation Bar
+- Added fixed bottom nav with 6 category buttons (All, Models, Hardware, Research, Tools, Industry)
+- Each button shows emoji icon + label, 48px min tap target, center-aligned
+- Syncs with top category nav pills and browser back/forward
+- Hidden on desktop (960px+) where top nav is sufficient
+- Body padding-bottom prevents content from hiding behind bottom nav
+- Back-to-top button repositioned above bottom nav on mobile
+
+### Chip/Card Tag Contrast Boost
+- Increased `.chip-tag` background alpha from 0.18 to 0.28 for better text-on-background contrast
+- Increased `.card-tag` background alpha from 0.15 to 0.25 for better text-on-background contrast
+- Addresses remaining QA contrast flags (~32 elements below 3:1)
