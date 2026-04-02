@@ -1,10 +1,10 @@
-# AI Pulse — Audit Report v3
+# AI Pulse — Audit Report v4
 
 **Auditor:** Nigel (Strict Auditor)
 **Date:** 2026-04-01
 **Perspective:** Mobile user (375px viewport)
 **Live Site:** https://zed0minat0r.github.io/ai-news-app/
-**Previous Audits:** v1 — 6.0, v2 — 6.5
+**Previous Audits:** v1 — 6.0, v2 — 6.5, v3 — 7.0
 
 ---
 
@@ -21,258 +21,279 @@
 
 ## Section-by-Section Audit
 
-### 1. Content Quality — 7.5 / 10 (v2: 6.5, +1.0)
+### 1. Content Quality — 7.0 / 10 (v3: 7.5, -0.5)
 
 **What improved:**
-- This is the single biggest structural change since v1. The app now loads from `news.json` via an RSS pipeline (`scripts/fetch_news.py`) that fetches from 12 real sources: OpenAI Blog, Anthropic Blog, Google AI Blog, NVIDIA Blog, Ars Technica, Tom's Hardware, The Verge, TechCrunch, VentureBeat, Hacker News, MIT Tech Review, and Wired. Article count is now 50 (up from 37 hardcoded).
-- GitHub Actions workflow (`fetch-news.yml`) runs every 30 minutes on a cron schedule, plus on every push. The pipeline deduplicates by URL, auto-categorizes via keyword matching, and takes the top 50 by date. This is a real data pipeline.
-- Dates in news.json are April 1-2, 2026 — genuinely fresh content from real sources.
-- The JS correctly fetches `news.json?t=<cachebust>` on load, falls back to hardcoded `FALLBACK_ARTICLES` if it fails, and re-fetches every 5 minutes via `setInterval`. This is proper dynamic behavior.
-- Featured article is auto-selected (newest article gets `featured: true`) — no more stale "Breaking" labels on 3-day-old articles.
+- AI relevance filter added in `fetch_news.py`: `is_ai_related()` with 30+ AI-specific keywords. Articles must either score 2+ on category keywords OR pass a strict AI relevance check. Articles scoring 0 on all keyword lists with no AI relevance are now rejected (`return None`). This directly addresses v3 Rec #1.
+- The filter catches some obvious misses — pure gaming deals, SSD reviews, and DRM stories that plagued v3.
+- The `categorize()` function now returns `None` instead of defaulting to "industry," which is the correct structural fix.
 
 **What still falls short:**
-- Content quality filtering is weak. ~14 of 50 articles (28%) are not AI-related at all: Outlook bugs on Artemis II, GameStop SSD reviews, GeForce NOW game lists, SpaceX IPO, fuel prices, Denuvo DRM bypasses. The keyword categorizer defaults non-matching articles to "industry," which pollutes the feed with irrelevant tech news.
-- 5 articles are "Show HN:" posts from Hacker News — fine individually but they dilute the curated feel. A real news aggregator would filter or de-emphasize these.
-- Summaries are truncated at 200 chars by the RSS parser, which is sometimes abrupt but generally workable.
-- "Last updated" timestamp is still browser-clock based (`new Date()`), not derived from the data. After the `loadArticles()` call succeeds, it re-calls `updateTimestamp()` which... still uses the browser clock. Should show when news.json was last generated.
-- 8 unique sources out of 12 feeds succeeded — 4 feeds likely returned 0 articles or failed silently. No visibility into feed health.
+- The filter is not aggressive enough. Current news.json still contains clearly non-AI articles that slipped through: "Amazing $490 Newegg combo" (a CPU/RAM deal, not AI), "Modders use jumper wires to save a damaged RTX 4090" (GPU repair, not AI), "DRAM prices predicted to jump 63%" (memory market, not AI), "PC makers report surging prices" (PC market, not AI), "Gigabyte X870E Aorus Xtreme AI Top motherboard review" (motherboard review — the word "AI" in the product name tricks the filter).
+- By my count, ~10 of 50 articles (20%) are not genuinely AI-related. Down from 28% in v3, but still too high.
+- Category distribution is badly skewed: Industry 18, Hardware 16, Models 12, Tools 3, Research 1. Research and Tools are starved. Only 1 research article in the entire feed is alarming.
+- The featured article is "Create, edit and share videos at no cost in Google Vids" — categorized as "industry." This is a Google Workspace product update, not AI news. The "featured = newest" heuristic continues to surface weak stories as the hero.
+- Hacker News "Show HN:" posts still leak through (3 in current feed). These are fine individually but dilute the curated feel.
+- Summary truncation at 200 chars still creates abrupt cutoffs.
 
-**Verdict:** The RSS pipeline is a transformational improvement — the #1 recommendation from both v1 and v2 audits. The app now genuinely updates. The +1.0 bump is earned but capped because the content filtering problem means nearly a third of articles are off-topic noise. A user opening this expecting AI news would see GameStop SSD reviews and Denuvo DRM stories mixed in.
+**Verdict:** The AI relevance filter is the right structural fix and addresses v3 Rec #1 directly. But execution is insufficient — the keyword list is too easily fooled by product names containing "AI" and generic hardware terms. Dropping to 7.0 because the current featured article being off-topic is worse than v3 (where the featured article was at least tech-adjacent). The filter improvement is real but doesn't clear the bar for the 7.5 it held in v3 given the current state of news.json.
 
 ---
 
-### 2. Visual Design — 7.0 / 10 (v2: 7.0, +0.0)
+### 2. Visual Design — 7.5 / 10 (v3: 7.0, +0.5)
 
 **What improved:**
-- Featured card now has a gradient top bar (`::before` with 3px gradient from `--breaking` through `--accent` to `--tag-models`), a hero icon with drop-shadow, and a pulsing "Breaking" badge (`pulse-glow` animation). This makes the featured card feel more premium.
-- Share buttons on cards and featured card add a new interactive element to the visual layout.
+- The layout rebuild from infinite card feed to organized homepage is a significant visual upgrade. Hero banner at top, trending bar, then 5 category sections each with 3 cards — this creates visual hierarchy that the flat infinite scroll never had.
+- Gradient accent underlines on section titles (`section-title::after` with gradient from `--accent` to `#a371f7`) add subtle polish.
+- Category accent bars on card left borders (3px solid in category color) provide instant visual categorization. Color-coding per category (models=purple, hardware=green, research=orange, tools=blue, industry=pink) is consistent throughout trending chips, card tags, and thumbnails.
+- Card depth improved: `box-shadow: 0 1px 2px rgba(0,0,0,0.25), 0 4px 12px rgba(0,0,0,0.15)` with inner shadow on thumbnails plus a subtle highlight overlay (`::after` gradient). Cards now have a sense of material depth.
+- Trending bar as a contained section with dark background, rounded corners, and horizontal scroll chips is visually distinct from the card grid. Good information density.
+- Category sections with headers + "See all" buttons create a structured, magazine-style layout.
 
 **What hasn't changed:**
-- Still emoji-on-gradient thumbnails, not real images. The competitors (Particle, SmartNews, Techpresso) all use actual article images. This remains the biggest visual gap.
-- The lightning bolt logo is still generic.
-- Card layout variety is the same — hero every 5th card, rest identical.
-- No hero image on the featured card despite the new decorative elements.
+- Still emoji-on-gradient thumbnails, not real images. This remains the single biggest visual gap vs. competitors (Particle, SmartNews, Techpresso all use real article images).
+- Lightning bolt logo is still generic.
+- No hero image on the featured card despite visual upgrades.
 
-**Verdict:** The featured card polish is nice but incremental. The fundamental visual limitation — no real images — remains. Holds at 7.0. The featured card improvements alone don't clear the bar for 7.5.
+**Verdict:** The layout rebuild is the single biggest visual improvement since the project began. Moving from a flat infinite feed to an organized homepage with hero + trending + category sections creates a sense of editorial curation. This is the kind of layout a real news app uses. The gradient accents, card depth, and color-coded categories are all additive. Bumped to 7.5 — visually, this now resembles a real news app rather than a card dump. Still capped because no real images.
 
 ---
 
-### 3. Mobile UX (375px) — 7.0 / 10 (v2: 6.5, +0.5)
+### 3. Mobile UX (375px) — 7.5 / 10 (v3: 7.0, +0.5)
 
 **What improved:**
-- Skip-to-content link added (`<a href="#news-grid" class="skip-link">`) with proper CSS (hidden until focused, `z-index: 9999`). Important for keyboard/screen reader users on mobile.
-- Share buttons have proper 44px tap targets (`min-width: 44px; min-height: 44px`) — confirmed in CSS for both `.share-btn` and `.share-btn-sm`.
-- Hero card stacking at 375px is now properly handled: `@media (max-width: 479px)` switches hero cards to single-column with centered text and auto grid-row for the thumbnail. This was a bug in v2.
-- Search clear button also meets 44px minimum (`min-width: 44px; min-height: 44px`).
-- Back-to-top z-index fixed at 1000 with footer `position: relative; z-index: 1` — no more overlap.
+- Homepage layout works well at 375px. Hero card is full-width with centered text, trending bar scrolls horizontally with snap points (`scroll-snap-type: x mandatory`), category sections stack naturally as single-column grids.
+- Trending chips are 240px wide at mobile, creating a natural 1.5-visible pattern that invites horizontal swiping. Scrollbar hidden via `-webkit-scrollbar: display: none` and `scrollbar-width: none`.
+- "See all" buttons on category sections provide clear navigation intent — tap to drill into a category. These have 44px min-height for proper tap targets.
+- List view (triggered by category selection or search) shows 12 cards + "Load more" button with remaining count. This solves the v3 problem of the page getting too long with 50 articles. Load More button has 44px min-height.
+- Sort toggle ("Newest first" / "Oldest first") gives users control in list view. Proper 36px min-height button.
+- Cards have `:active` state (`transform: scale(0.98)` + accent border) providing immediate tap feedback.
+- Category nav is sticky (`position: sticky; top: 0; z-index: 100`) with horizontal overflow scroll — always accessible.
 
 **What still falls short:**
-- Search is still at the top of the page only — no persistent search access while scrolling.
-- No pull-to-refresh, no swipe gestures, no infinite scroll/pagination. With 50 articles now, the page is getting long.
-- Hardware Spotlight still creates a confusing mental model on the "All" view.
-- No loading state — when `loadArticles()` fetches news.json, there's no spinner or skeleton. The fallback articles flash first, then get replaced when the fetch completes. This is a noticeable content shift.
+- No pull-to-refresh, no swipe gestures. Still doesn't feel native on mobile.
+- No loading state / skeleton when `loadArticles()` fetches news.json. Fallback articles render first, then get replaced — content shift is still present.
+- Search is still top-of-page only — no persistent search while scrolling.
+- Trending bar has no visual scroll indicators (dots, arrows, or fade edges) to signal more content is available beyond the visible area.
+- Back-to-top appears after 2 screen heights of scrolling — this threshold may be too high on the new homepage layout where most content is above that point.
 
-**Verdict:** The hero card fix and share button tap targets are meaningful mobile improvements. The skip-to-content link, while not visible to most users, shows attention to standards. Bumped to 7.0 — this is now a properly mobile-first experience with correct tap targets throughout. Still missing the interactive gestures that make mobile apps feel native.
+**Verdict:** The homepage layout with hero + trending + category sections is a much better mobile experience than an infinite card feed. The horizontal trending scroll, "See all" navigation, and load-more pagination all show mobile-aware thinking. Bumped to 7.5. Still not at 8.0 because no pull-to-refresh, no loading states, and no scroll indicators on the trending bar.
 
 ---
 
-### 4. Search / Filter — 6.5 / 10 (v2: 6.5, +0.0)
+### 4. Search / Filter — 7.0 / 10 (v3: 6.5, +0.5)
 
-**No meaningful changes.** Search icon, clear button, result count, and ARIA announcements from v2 are all still present. No new features added.
+**What improved:**
+- Switching to a category (or searching) now transitions from homepage view to list view. This is a meaningful UX improvement: the homepage is for browsing, the list view is for finding. The two modes serve different user intents.
+- Sort toggle added: users can switch between "Newest first" and "Oldest first" in list view. Simple but useful — the first time users have any control over article ordering.
+- Load More pagination (12 articles per page + button showing remaining count) prevents overwhelming long lists. This was a v3 concern.
+- List view title dynamically changes: "Search Results" when searching, "Latest in [Category]" when filtering. Good context.
 
-**Still missing:**
+**What still falls short:**
 - No search highlighting in results.
-- No sort options (by date, source, relevance).
-- No debounce (fires on every `input` event — now searching 50 articles instead of 37, still fine).
-- No deep linking (`?category=hardware&q=nvidia`).
-- No date range filter.
-- No combined filter indicator.
+- No debounce on search input (fires every keystroke).
+- No deep linking (`?category=hardware&q=nvidia`) — can't share filtered views.
+- No date range filter (Today / This Week / This Month).
+- No combined filter indicator showing active filters.
+- Sort only available in list view, not on homepage.
 
-**Verdict:** Unchanged. The search is functional but basic.
+**Verdict:** The sort toggle and view-mode switching are real functional additions. Combined with Load More pagination, search/filter now feels structured rather than just "type and filter." Bumped to 7.0. Still needs deep linking and date filtering to reach 7.5.
 
 ---
 
-### 5. Navigation — 6.5 / 10 (v2: 5.5, +1.0)
+### 5. Navigation — 7.5 / 10 (v3: 6.5, +1.0)
 
 **What improved:**
-- Category pills now show article counts via `.pill-count` spans, populated by `updatePillCounts()` which calculates counts from the live ARTICLES array. Example: "All (50)", "Models (9)", "Hardware (15)". This was specifically called out in v2 Rec #3.
-- Trending section added: when on "All" view with no search query, a "Trending Now" section appears showing the 5 newest articles in a compact ranked list format. Each item shows rank number, category tag, title (clamped to 2 lines), source and time ago. Good information density.
-- Share buttons on every card (Web Share API with clipboard fallback). The `shareArticle()` function uses `navigator.share` when available, falls back to `navigator.clipboard.writeText` with a "Copied!" confirmation. Proper implementation.
+- The homepage-to-list-view transition creates a proper navigation model. "All" = homepage with hero/trending/sections. Any category = filtered list view. Search = search results list. Back to "All" = homepage again. This is how news apps work.
+- "See all" buttons on each category section create clear drill-down navigation from homepage to category list. This is the biggest nav improvement — users can scan headlines across all categories and drill into any one.
+- Sticky category nav bar means users always have category access. Combined with the homepage layout, this creates a two-level navigation: browse (homepage) and drill (list view).
+- Smooth scroll to top on category change (`window.scrollTo({ top: 0, behavior: "smooth" })`) prevents disorientation.
 
 **What still falls short:**
-- Still no "Saved" / "Read Later" / bookmarking.
+- No "Saved" / "Read Later" / bookmarking.
 - No date filter (Today / This Week / This Month).
 - No deep linking / URL query parameters.
-- Footer is still just a credit line — no useful navigation links.
-- Trending is just "newest 5 articles" sorted by date — not actually trending by engagement or clicks. It's a recency section masquerading as a trending section.
+- Footer is still just a credit line — no useful navigation.
+- No breadcrumb or back button when in list view (have to tap "All" pill to return to homepage).
+- Trending section is still just "newest 5" — not actually trending by engagement.
 
-**Verdict:** Three of the five items from v2 Rec #3 were implemented: pill counts, share buttons, and a trending section. The +1.0 is earned. Still no deep linking or date filtering, and "trending" is misleading since it's just "newest."
+**Verdict:** The homepage-to-list-view navigation model is a proper app-level improvement. "See all" drill-downs, sticky category bar, and view-mode switching give users clear paths through the content. This is the biggest jump of any section this cycle. Bumped to 7.5.
 
 ---
 
-### 6. Performance — 7.0 / 10 (v2: 7.0, +0.0)
+### 6. Performance — 7.0 / 10 (v3: 7.0, +0.0)
 
 **What changed:**
-- Now makes a network fetch (`news.json?t=<timestamp>`) on load plus every 5 minutes via `setInterval`. This is a new network dependency but it's a small JSON file (~452 lines / ~25KB).
-- Cache-busting query param means no browser cache benefit for the JSON — every load hits the server.
+- Homepage now renders a smaller initial set: 1 hero + 5 trending chips + 15 cards (3 per category) = ~21 DOM elements vs. the previous 50-card dump. This is a meaningful reduction in initial DOM complexity.
+- List view caps at 12 cards + Load More, so even when drilling into a category, the DOM stays manageable.
 
 **What hasn't changed:**
-- Still zero external JS deps. Single HTML + CSS + JS files. Google Fonts the only external resource.
+- Still zero external JS dependencies. Single HTML + CSS + JS files. Google Fonts the only external resource.
 - No service worker, no PWA manifest, no lazy loading.
 - No minification or bundling.
-- 50 articles rendered to DOM on load — trivial.
+- Cache-busting `?t=Date.now()` on every news.json fetch — no browser cache benefit.
 
-**Verdict:** The RSS fetch adds a network dependency but it's lightweight. The cache-busting is slightly aggressive (could use ETag or a less frequent bust). Holds at 7.0 — still fast because it's fundamentally simple.
+**Verdict:** The smaller initial DOM is a subtle performance win, but fundamentally the app is the same weight. Holds at 7.0.
 
 ---
 
-### 7. Accessibility — 7.0 / 10 (v2: 6.5, +0.5)
+### 7. Accessibility — 7.5 / 10 (v3: 7.0, +0.5)
 
 **What improved:**
-- Skip-to-content link (`<a href="#news-grid" class="skip-link">Skip to main content</a>`) with proper focus-visible styling. This was the #1 missing item from v2. Correctly targets `#news-grid` and uses `z-index: 9999` when focused.
-- All previous v2 accessibility wins maintained: `aria-pressed` on pills, focus-visible indicators globally, muted text contrast at 6.1:1+, `aria-live="polite"` on result count, `role="status"` on no-results, `aria-hidden="true"` on decorative icons.
+- Cards restructured as `<article>` elements with links only on the `<h3>` title (via `.card-link` class). Share buttons are now siblings inside `.card-footer`, NOT nested inside anchors. This fixes the v3 Rec #3 invalid-HTML issue (button-inside-anchor). The `card-link::after` pseudo-element stretches over the card for click area. Correct implementation.
+- Hero card is an `<article>` with `aria-labelledby="hero-title"`. The link is only on the `<h2>` title text. Share button is a sibling in `.hero-footer`. Same correct pattern.
+- Semantic sections in HTML: `<section id="hero-section" role="region" aria-label="Featured story">`, `<section id="trending-bar" role="region" aria-labelledby="trending-title">`, `<section id="news-section" role="region" aria-labelledby="news-title">`. These were specifically called out in v3 Rec #3.
+- Category sections generated by JS use `role="region"` and `aria-label="Latest in [Category]"` on each `<section>`. Good dynamic accessibility.
+- Skip-to-content link now targets `#main-content` (the `<main>` element). Correct target.
 
 **What still falls short:**
-- Cards are still entire `<a>` tags wrapping all content — screen readers read title + summary + source + date as one continuous link text. Should use `aria-labelledby` pointing to just the heading.
-- Share buttons are nested inside `<a>` tags (the card link). This is invalid HTML — interactive elements inside interactive elements. Screen readers will have trouble with this. The `onclick` with `stopPropagation` works visually but the DOM structure is semantically wrong.
-- Trending section has no `role="list"` or `<ol>` structure despite being a ranked list.
-- No landmark roles on major sections beyond the `<nav>`, `<main>`, `<header>`, `<footer>` (which are implicit).
+- Trending chips are still `<a>` tags wrapping all content (tag + title + meta). No `aria-labelledby` pointing to just the title. Screen readers read everything as one long link.
+- Trending bar has no `<ol>` structure despite being a ranked/ordered list of top headlines.
+- Category section card grids (`cat-card-grid`) have no list semantics.
+- `estimateReadTime()` calculates read time from the 200-char summary, multiplied by 5 — this is a rough heuristic that may produce inaccurate estimates. Not an a11y issue per se, but misleading information.
+- Sort toggle does not announce the new sort order to screen readers (no `aria-live` or announcement).
 
-**Verdict:** The skip-to-content link was the highest-impact remaining item and it's done well. The button-inside-anchor issue is a new concern introduced by the share buttons. Bumped to 7.0, but the invalid nesting should be fixed.
+**Verdict:** The button-inside-anchor fix and semantic sections directly address v3 Rec #3. Cards are now proper `<article>` elements with link-on-title pattern. This is a genuine structural improvement. Bumped to 7.5. Trending chips still need work.
 
 ---
 
-### 8. Category System — 7.0 / 10 (v2: 6.5, +0.5)
+### 8. Category System — 7.0 / 10 (v3: 7.0, +0.0)
 
 **What improved:**
-- Pill counts now visible: each category pill displays its article count (e.g., "Models (9)"). The `updatePillCounts()` function recalculates on every render, so counts stay accurate when filtering.
-- Auto-categorization via the RSS pipeline: `categorize()` in `fetch_news.py` scores articles against 5 keyword lists and assigns the highest-scoring category. This means categories are dynamic and scale with new content.
+- Each category now has a dedicated section on the homepage with icon, label, 3 cards, and "See all" button. Categories are visually differentiated by color throughout (pills, tags, card borders, thumbnails). This is the first time categories feel like first-class navigation.
+- "See all" triggers filtered list view for that category. Proper drill-down.
 
 **What still falls short:**
-- The categorizer's accuracy is mediocre. A GeForce NOW gaming article got categorized as "research." An Artemis II Outlook bug story is "industry." The keyword lists need refinement or a secondary AI-based classifier.
-- Category distribution is heavily skewed: Industry 20, Hardware 15, Models 9, Research 3, Tools 3. Research and Tools are starved.
-- No subcategories or multi-tagging (an article about NVIDIA chips AND new model support only gets one label).
-- The "default to industry" fallback inflates that category.
+- Distribution is still heavily skewed: Industry 18, Hardware 16, Models 12, Tools 3, Research 1. The Research section shows just 1 card. Tools shows 3. Both feel anemic compared to Industry's 18.
+- Auto-categorization accuracy is still questionable. "Modders save a damaged RTX 4090" is "hardware" but has nothing to do with AI. "Casanova invents an LLM as a grift in the 18th century" is categorized as "models" — it's a historical curiosity, not an AI model story. "Live and Let AI: Former CIA officer" is "models" — it mentions LLM but is really an industry opinion piece.
+- No multi-tagging — articles belong to exactly one category.
+- The "default to industry" fallback is gone (good) but the AI relevance filter is too loose, so industry and hardware still get inflated.
 
-**Verdict:** Pill counts and dynamic categorization are genuine improvements. The categorizer accuracy is a concern but the system is structurally better. Bumped to 7.0.
+**Verdict:** The homepage category sections are a great visual and navigational improvement. But the underlying categorization accuracy hasn't meaningfully improved — the same types of misclassified articles persist. Holds at 7.0. The presentation is better; the data quality is not.
 
 ---
 
-### 9. Featured Section — 6.5 / 10 (v2: 6.0, +0.5)
+### 9. Featured Section — 7.0 / 10 (v3: 6.5, +0.5)
 
 **What improved:**
-- Featured article is now auto-selected: `fetch_news.py` marks `article[0]` (newest) as `featured: true`. This means the featured article actually rotates with each RSS fetch — no more manually hardcoded stale articles.
-- Featured card has new visual treatment: gradient top bar, hero icon with drop-shadow, pulsing "Breaking" badge animation, gradient text on the title. More visually distinct from regular cards.
-- Share button on featured card.
+- The hero banner is now a proper full-width section at the top of the homepage with distinctive styling: gradient background (`linear-gradient(135deg, #1a1f2e, #1e2640, #1a1f2e)`), accent border, glow shadow (`box-shadow: 0 0 30px var(--accent-glow)`), gradient top bar, large emoji icon, and "Breaking" label. It commands attention.
+- Hero card uses `<article>` with `aria-labelledby="hero-title"`, link on title only. Semantically correct.
+- Reading time estimate added.
+- Visually, the hero is now genuinely distinct from regular cards — different background, different layout, different scale. On a phone, it reads as the lead story.
 
 **What still falls short:**
-- The auto-selection is purely recency-based — the "featured" article is just the newest one, not the most important. The current featured article is "Create, edit and share videos at no cost in Google Vids" — not even AI-specific. A real featured section would prioritize high-signal AI stories.
-- Still says "Breaking" for every featured article regardless of whether it's actually breaking news.
-- No per-category featured articles.
-- No expiration/rotation within a single page session.
+- Current featured article is "Create, edit and share videos at no cost in Google Vids" — a Google Workspace update, not AI news. The "featured = newest" heuristic selects the most recent article from news.json regardless of quality or relevance.
+- Still says "Breaking" for every featured article, even when it's days-old or a routine product update.
+- No editor's pick or quality signal — purely recency-based.
+- No rotation within a session.
 
-**Verdict:** Auto-rotation solves the staleness problem from v2. The visual upgrades make it feel more premium. But "featured = newest" is a weak heuristic, especially when the newest article might be off-topic. Modest bump to 6.5.
+**Verdict:** The hero banner is now visually impressive and structurally sound. On a phone, it looks like the lead story of a real news app. Bumped to 7.0. Still hampered by the fact that the "featured" article might not be worth featuring. The hero is a great container with mediocre content selection.
 
 ---
 
-### 10. Hardware Coverage — 7.0 / 10 (v2: 7.0, +0.0)
+### 10. Hardware Coverage — 7.0 / 10 (v3: 7.0, +0.0)
 
 **What changed:**
-- Hardware now has 15 articles (up from 9), sourced from real RSS feeds. NVIDIA, IBM mainframes, Arm CPUs, Chinese chip suppliers, AMD deals.
-- Content is genuinely more diverse than the previous hardcoded set.
+- Hardware has 16 articles (up from 15 in v3). Sources include NVIDIA Blog, Tom's Hardware, and Hacker News. Genuine AI hardware stories like NVIDIA/Marvell partnership, AI chip export rules, Chinese chip suppliers filling NVIDIA gaps, Cognichip AI chip design.
+- The homepage hardware section shows the 3 newest hardware stories with "See all" to view all 16.
 
-**What hasn't changed:**
-- Some hardware articles are not AI-related (gaming PC deals, SSD reviews, AMD gaming CPU deals). The keyword categorizer catches "gpu," "chip," "nvidia," "amd" but can't distinguish AI hardware from consumer hardware.
-- Hardware Spotlight still only on "All" tab.
-- No specs, benchmarks, or comparison features.
+**What still falls short:**
+- Several hardware articles are not AI-hardware: "Amazing $490 Newegg combo" (gaming PC deal), "Modders save RTX 4090" (GPU repair), "DRAM prices predicted to jump 63%" (memory market), "PC makers report surging prices" (PC market), "Nvidia App adds auto shader compilation" (gaming feature).
+- No specs, benchmarks, comparison features, or hardware-specific filtering (by GPU gen, manufacturer, etc.).
 
-**Verdict:** More content but same structural issues plus new noise from inaccurate categorization. Holds at 7.0.
+**Verdict:** Same structural issues. Hardware Spotlight was removed in favor of the category section approach, which is cleaner. But the content quality within hardware remains mixed. Holds at 7.0.
 
 ---
 
-### 11. Overall App Feel — 7.0 / 10 (v2: 6.0, +1.0)
+### 11. Overall App Feel — 7.5 / 10 (v3: 7.0, +0.5)
 
 **What a real user would think on their phone today:**
 
-Opening AI Pulse on a phone, the experience is genuinely different from v2. The content is fresh — articles from today, from real sources a user would recognize (TechCrunch, The Verge, NVIDIA Blog, MIT Tech Review). The trending section at the top gives a quick "what's hot" scan. Category pills with counts let you see at a glance that there are 15 hardware articles and 9 model articles. Share buttons work — tap "Share" on an article and the native share sheet opens (or the URL copies to clipboard). The featured card with its gradient bar and pulsing badge draws the eye.
+Opening AI Pulse on a phone now feels meaningfully different from v3. Instead of a flat wall of cards, you see a hero story at top, then a trending bar you can swipe through, then organized sections for each category — Models, Hardware, Research, Tools, Industry — each showing 3 cards with a "See all" button. This is a proper news homepage layout. It looks like SmartNews or Apple News in structure, even if the visual fidelity (emoji thumbnails vs. real images) is still a tier below.
 
-The user would also notice: some articles are obviously not AI news (GameStop SSD reviews, Denuvo DRM stories, Artemis II Outlook bugs). The emoji thumbnails are still clearly not real images. The "Last updated" timestamp reflects the browser clock, not when the data was actually fetched. There's no loading indicator — the content just appears. Compared to SmartNews (real images, personalization, offline reading) or Particle (multi-source clustering, real photos, summaries), this is still clearly a tier below. But compared to v2's hardcoded 37 articles that never changed, this feels like an actual app that's alive.
+Tapping a category pill switches to a filtered list with sort options and Load More pagination. This is a proper two-mode app: browse on the homepage, drill into categories for depth. The navigation feels intentional.
 
-The RSS pipeline changes the fundamental nature of the product. It's no longer a static demo — it's a working news aggregator with real data from 12 sources, updating every 30 minutes. That's the single most important change in the project's history.
+The content quality is the weak link. A user expecting AI news will see "Amazing $490 Newegg combo" in the Hardware section and "Create, edit and share videos at no cost in Google Vids" as the hero — neither is AI news. The Research section has just 1 article. These gaps erode the curated feel that the layout works hard to create.
 
-**Verdict:** The transition from static to dynamic is a genuine leap. A user who visited yesterday and visits today would see different content. That's the definition of a news app. Bumped to 7.0 — this is now genuinely better than most hobby-project news aggregators. It's not yet at the level where a user would choose it over Techpresso or Particle, but it's crossed the threshold from "demo" to "functional product."
+Compared to v3's infinite card feed, this is a meaningful step toward feeling like a real news product. Compared to Techpresso (curated newsletter with real images) or Particle (multi-source clustering), this is still behind on content quality and visuals. But the structural gap has narrowed considerably.
+
+**Verdict:** The layout rebuild from infinite feed to organized homepage is the most impactful UX change since the RSS pipeline in v3. A user would recognize this as a news app layout, not a dev project. Bumped to 7.5. To reach 8.0, needs real article images and better content filtering.
 
 ---
 
 ## Score Summary
 
-| Area | v1 Score | v2 Score | v3 Score | v2->v3 Change |
-|------|----------|----------|----------|---------------|
-| Content Quality | 6.0 | 6.5 | 7.5 | **+1.0** |
-| Visual Design | 6.5 | 7.0 | 7.0 | +0.0 |
-| Mobile UX (375px) | 6.0 | 6.5 | 7.0 | +0.5 |
-| Search / Filter | 5.5 | 6.5 | 6.5 | +0.0 |
-| Navigation | 5.5 | 5.5 | 6.5 | **+1.0** |
-| Performance | 7.0 | 7.0 | 7.0 | +0.0 |
-| Accessibility | 5.0 | 6.5 | 7.0 | +0.5 |
-| Category System | 6.5 | 6.5 | 7.0 | +0.5 |
-| Featured Section | 6.0 | 6.0 | 6.5 | +0.5 |
-| Hardware Coverage | 7.0 | 7.0 | 7.0 | +0.0 |
-| Overall App Feel | 5.5 | 6.0 | 7.0 | **+1.0** |
-| **OVERALL** | **6.0** | **6.5** | **7.0** | **+0.5** |
+| Area | v1 Score | v2 Score | v3 Score | v4 Score | v3->v4 Change |
+|------|----------|----------|----------|----------|---------------|
+| Content Quality | 6.0 | 6.5 | 7.5 | 7.0 | **-0.5** |
+| Visual Design | 6.5 | 7.0 | 7.0 | 7.5 | **+0.5** |
+| Mobile UX (375px) | 6.0 | 6.5 | 7.0 | 7.5 | **+0.5** |
+| Search / Filter | 5.5 | 6.5 | 6.5 | 7.0 | **+0.5** |
+| Navigation | 5.5 | 5.5 | 6.5 | 7.5 | **+1.0** |
+| Performance | 7.0 | 7.0 | 7.0 | 7.0 | +0.0 |
+| Accessibility | 5.0 | 6.5 | 7.0 | 7.5 | **+0.5** |
+| Category System | 6.5 | 6.5 | 7.0 | 7.0 | +0.0 |
+| Featured Section | 6.0 | 6.0 | 6.5 | 7.0 | **+0.5** |
+| Hardware Coverage | 7.0 | 7.0 | 7.0 | 7.0 | +0.0 |
+| Overall App Feel | 5.5 | 6.0 | 7.0 | 7.5 | **+0.5** |
+| **OVERALL** | **6.0** | **6.5** | **7.0** | **7.2** | **+0.2** |
 
 ---
 
 ## Top 3 Priority Recommendations
 
-### 1. CRITICAL — Content Quality Filtering
+### 1. CRITICAL — Real Article Images via Open Graph
 
-The RSS pipeline is working, but ~28% of articles are not AI-related. This is the single biggest user-facing problem. A user opening "AI Pulse" and seeing GameStop SSD reviews or Denuvo DRM stories will lose trust immediately.
-
-**Fixes (in priority order):**
-- Add a negative keyword list to `categorize()` that rejects articles scoring 0 on all AI keyword lists. If no AI keywords match, skip the article entirely rather than defaulting to "industry."
-- Add AI-specific keywords to the initial fetch: for Hacker News, the query already filters for `AI OR LLM OR GPT`, but Tom's Hardware and other general feeds dump everything. Add a relevance threshold.
-- Consider an LLM-based classifier as a secondary pass (could run in the GitHub Action using a small model API call).
-- This single fix would push Content Quality from 7.5 toward 8.5 and improve Overall App Feel.
-
-### 2. HIGH — Real Article Images via Open Graph
-
-Still the biggest visual gap. Every competitor uses real article images. The emoji gradient thumbnails are creative but obviously synthetic.
+Still the single biggest visual gap and now the #1 priority since the layout rebuild makes it more obvious. The organized homepage with hero + category sections is screaming for real images. Every competitor uses them.
 
 **Fixes:**
-- In `fetch_news.py`, after fetching RSS, make a HEAD or GET request to each article URL and extract the `og:image` meta tag. Store it as an `image` field in news.json.
-- In `buildCard()`, if `article.image` exists, render an `<img>` tag with `loading="lazy"` and `aspect-ratio: 16/9` inside `.card-thumb` instead of the emoji.
-- Keep the emoji gradient as fallback when no OG image is available.
-- Add a hero image to the featured card.
-- This would push Visual Design from 7.0 toward 8.0.
+- In `fetch_news.py`, after fetching RSS, make a GET request to each article URL and extract the `og:image` meta tag. Store it as an `image` field in news.json.
+- In `buildCard()` and `buildHeroCard()`, if `article.image` exists, render an `<img>` tag with `loading="lazy"` and `aspect-ratio: 16/9` instead of the emoji.
+- Keep emoji gradient as fallback when no OG image is available.
+- Add a hero image to the featured card — the full-width hero banner is the perfect place for a real image.
+- This would push Visual Design from 7.5 toward 8.5 and Overall App Feel toward 8.0.
 
-### 3. HIGH — Fix Semantic HTML Issues (Button Inside Anchor)
+### 2. CRITICAL — Tighten Content Filtering (AI Relevance Still Leaking)
 
-Share buttons are currently nested inside `<a>` card links. This is invalid HTML and causes accessibility problems. It also means the entire card's click area conflicts with the share button's click area.
+The AI relevance filter was the right structural fix but needs refinement. ~20% of articles are still not AI-related.
 
 **Fixes:**
-- Restructure cards so the `<a>` link wraps only the title (not the entire card). Use CSS to make the card appear clickable via `::after` pseudo-element stretching over the card area.
-- Or: make cards `<article>` elements with the link on the title and the share button as a sibling.
-- Add `aria-labelledby` pointing to the card heading for screen reader clarity.
-- Wrap trending items in an `<ol>` for semantic ranked list structure.
-- Add `role="region"` and `aria-label` to major sections (featured, trending, hardware spotlight).
-- This would push Accessibility from 7.0 toward 7.5+ and fix a real HTML validation issue.
+- Add a negative keyword list that rejects articles matching common false positives: "gaming deal," "SSD review," "PC build," "motherboard review," "game list," "price drop," "bundle deal," "modding," "overclock." If an article matches a negative keyword AND has a low AI-relevance score (< 2), reject it.
+- Raise the category keyword threshold from 2 to 3 for general tech sources (Tom's Hardware, Ars Technica) where false positives are most common.
+- The featured article heuristic needs a quality gate: only mark an article as featured if it scores 3+ on AI keyword relevance. Otherwise skip to the next-newest.
+- Fix the Research/Tools drought: consider adding AI-specific research feeds (arXiv AI, Semantic Scholar trending, Papers With Code).
+- This would push Content Quality back to 7.5+ and improve Category System balance.
+
+### 3. HIGH — Loading States and Scroll Indicators
+
+The app now has enough structure that missing polish moments are noticeable.
+
+**Fixes:**
+- Add a skeleton loading state for the homepage: gray placeholder boxes for hero, trending chips, and category cards. Show while `loadArticles()` is in flight. This prevents the content shift from fallback to live data.
+- Add fade edges or dot indicators on the trending bar to signal horizontal scroll availability. Without them, users may not realize there are more chips to swipe.
+- Add an `aria-live` announcement when sort order changes.
+- Consider a subtle progress bar or spinner when fetching news.json.
+- This would push Mobile UX from 7.5 toward 8.0.
 
 ---
 
 ## What Went Well This Cycle
 
-The RSS pipeline is the most impactful single change in the project's history. Credit where due:
+The layout rebuild is the defining change of v4. Credit where due:
 
-- **Builder** delivered the RSS pipeline end-to-end: `fetch_news.py` with 12 feed sources, auto-categorization, deduplication, and the GitHub Actions workflow. Also added fresh fallback articles and the skip-to-content link. This was the right priority.
-- **Refiner** added category count badges on pills, share buttons with Web Share API + clipboard fallback, trending section, and featured card visual upgrades (gradient bar, pulsing badge, hero icon). All of these landed cleanly.
-- **Spark** added the 479px hero card stacking fix and share button 44px tap targets. Small but important mobile fixes.
-- **Razor** cleaned 77 lines of dead/duplicate code. Good hygiene.
+- The transition from infinite card feed to organized homepage (hero + trending + category sections + list view) is a proper product-level improvement. This is the kind of layout SmartNews, Apple News, and Google News use.
+- Cards restructured as `<article>` elements with link-on-title pattern fixes the v3 button-inside-anchor issue. Semantic HTML with `role="region"` and `aria-labelledby` on all sections.
+- Sort toggle, Load More pagination, and "See all" drill-downs add real user control.
+- AI relevance filter in the RSS fetcher, while imperfect, is the right approach.
+- Category accent bars, gradient section dividers, and card depth polish raise visual quality.
+- Reading time estimates on cards add useful metadata.
 
-The overall +0.5 (6.5 to 7.0) represents crossing a meaningful threshold: the app is now genuinely functional as a news aggregator. The v1-to-v2 jump was polish on a static page. The v2-to-v3 jump is a structural upgrade to a dynamic, auto-updating product.
+The overall +0.2 (7.0 to 7.2) is modest because the gains in layout/navigation are offset by a content quality regression (the featured article being off-topic, skewed category distribution, and still-leaky filtering). The app looks and navigates significantly better; the data feeding it needs more work.
 
-To reach 7.5+, the team needs to solve content filtering (Rec #1) and add real images (Rec #2). To reach 8.0, the app would need those plus deep linking, date filtering, and a PWA manifest for add-to-homescreen.
+Navigation (+1.0) is the biggest mover — the homepage-to-list-view model with "See all" drill-downs is a genuine app-level navigation pattern. Visual Design, Mobile UX, Search/Filter, Accessibility, and Featured Section all gained +0.5.
+
+To reach 7.5+ overall, the team needs real article images (Rec #1) and tighter content filtering (Rec #2). To reach 8.0, add those plus loading states, deep linking, and a PWA manifest.
 
 ---
 
-*Audit completed by Nigel on 2026-04-01. v3.*
+*Audit completed by Nigel on 2026-04-01. v4.*
