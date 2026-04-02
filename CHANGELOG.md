@@ -143,3 +143,13 @@
 - Share buttons now meet WCAG 2.1 minimum touch target size (44x44px) — previously 36px / 32px for small variant
 - Added `min-width: 44px` alongside `min-height: 44px` on both `.share-btn` and `.share-btn-sm`
 - Slightly increased font size and padding for better readability and tap comfort on mobile
+
+## [2026-04-02] Scout — Fresh News Cycle 3 + Competitive Research
+
+### Added
+- 7 new articles (IDs 38-44): MCP Dev Summit NYC, OpenAI Sora shutdown, Sycamore $65M seed, Senator Markey AV investigation, public AI sentiment poll, Alibaba $100B AI pledge, news aggregator market shift
+- Competitive research: GeoBarta as emerging AI news aggregator competitor, news avoidance trends
+
+### Research
+- Identified GeoBarta as key new competitor (60-second AI briefings, free + Pro tiers)
+- Found that search/aggregators (33%) now surpass social media as top news gateway — validates AI Pulse market positioning

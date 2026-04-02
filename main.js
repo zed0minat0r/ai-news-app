@@ -531,6 +531,70 @@ const FALLBACK_ARTICLES = [
     url: "https://www.cpomagazine.com/data-protection/2026-ai-legal-forecast-from-innovation-to-compliance/",
     date: "2026-04-01",
     category: "industry"
+  },
+  // ── NEW STORIES — 2026-04-02 (Scout Cycle 3) ──
+  {
+    id: 38,
+    title: "MCP Dev Summit Kicks Off in NYC — 95+ Sessions on Agentic AI Standards",
+    summary: "The Agentic AI Foundation's inaugural MCP Dev Summit opens today in New York City with 95+ sessions from Anthropic, Datadog, and others on open standards powering the next generation of AI agents.",
+    source: "Linux Foundation",
+    url: "https://events.linuxfoundation.org/mcp-dev-summit-north-america/",
+    date: "2026-04-02",
+    category: "research"
+  },
+  {
+    id: 39,
+    title: "OpenAI Shuts Down Sora — AI Video App Was Burning $1M Per Day",
+    summary: "OpenAI will discontinue the Sora video-generation app on April 26 and its API by September, after the tool's user base collapsed below 500K while costing roughly $1 million daily to operate.",
+    source: "TechCrunch",
+    url: "https://techcrunch.com/2026/03/29/why-openai-really-shut-down-sora/",
+    date: "2026-04-02",
+    category: "industry"
+  },
+  {
+    id: 40,
+    title: "Sycamore Raises $65M Seed to Build the Enterprise AI Agent Operating System",
+    summary: "Founded by former Atlassian CTO Sri Viswanath, Sycamore secures $65M led by Coatue and Lightspeed to build governance and orchestration infrastructure for enterprise AI agents.",
+    source: "TechCrunch",
+    url: "https://techcrunch.com/2026/03/30/former-coatue-partner-raises-huge-65m-seed-for-enterprise-ai-agent-startup/",
+    date: "2026-04-02",
+    category: "industry"
+  },
+  {
+    id: 41,
+    title: "Senator Markey Exposes AV Safety Gaps — Tesla Admits Remote Humans Can Take the Wheel",
+    summary: "A Senate investigation reveals every major robotaxi company refused to disclose how often remote operators intervene, while Tesla confirmed humans can assume direct vehicle control at low speeds.",
+    source: "TechCrunch",
+    url: "https://techcrunch.com/2026/03/31/robotaxi-companies-refuse-to-say-how-often-their-avs-need-remote-help/",
+    date: "2026-04-02",
+    category: "industry"
+  },
+  {
+    id: 42,
+    title: "Quinnipiac Poll: Over Half of Americans Now Believe AI Is Likely to Cause Harm",
+    summary: "A new national poll finds more than 50% of U.S. adults think AI is likely to cause harm, reflecting growing public anxiety over job displacement, privacy violations, and autonomous decision-making.",
+    source: "AI and News",
+    url: "https://www.aiandnews.com/blog/latest-ai-news-public-concerns/",
+    date: "2026-04-02",
+    category: "industry"
+  },
+  {
+    id: 43,
+    title: "Alibaba Pledges $100B in AI and Cloud Revenue Over Five Years",
+    summary: "Alibaba announces an ambitious five-year target to hit $100 billion in combined AI and cloud revenue, signaling China's largest tech firm is going all-in on enterprise AI infrastructure.",
+    source: "HumAI Blog",
+    url: "https://www.humai.blog/ai-news-trends-april-2026-complete-monthly-digest/",
+    date: "2026-04-02",
+    category: "industry"
+  },
+  {
+    id: 44,
+    title: "News Avoidance Hits 39% as Search and Aggregators Overtake Social Media for News",
+    summary: "Reuters Institute data shows 39% of people now regularly avoid news, while search engines and aggregators (33%) have surpassed social media as the primary gateway to online news for the first time.",
+    source: "Reuters Institute",
+    url: "https://reutersinstitute.politics.ox.ac.uk/news/how-will-ai-reshape-news-2026-forecasts-17-experts-around-world",
+    date: "2026-04-02",
+    category: "industry"
   }
 ];
 
