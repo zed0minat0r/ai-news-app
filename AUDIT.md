@@ -1,9 +1,10 @@
-# AI Pulse — First Audit Report
+# AI Pulse — Audit Report v2
 
 **Auditor:** Nigel (Strict Auditor)
 **Date:** 2026-04-01
 **Perspective:** Mobile user (375px viewport)
 **Live Site:** https://zed0minat0r.github.io/ai-news-app/
+**Previous Audit:** v1 — Overall 6.0 / 10
 
 ---
 
@@ -20,275 +21,217 @@
 
 ## Section-by-Section Audit
 
-### 1. Content Quality — 6.0 / 10
+### 1. Content Quality — 6.5 / 10 (v1: 6.0, +0.5)
 
-**Positives:**
-- 29 articles with real, sourced content covering Models, Hardware, Research, Tools, and Industry.
-- Articles have summaries (2-3 sentences each) which is exactly what Scout recommended.
-- Sources are named and linked. Dates are present and recent (late March / April 1 2026).
+**What improved:**
+- Article count went from 29 to 37. Eight fresh stories added covering NVIDIA $1T forecast, Apple Siri, Oracle layoffs, Amazon exascale campus, AI midterm politics, GTC agentic shift, Gemini Flash-Lite, and the Texas TRAIGA Act.
+- Better category balance. Industry went from 4 to 8 articles. Research from 3 to 4. More variety.
+- New stories are properly sourced with real URLs and recent dates (March 31 - April 1 2026).
 
-**Issues:**
-- All content is **hardcoded in a JS array** — there is no live data fetching whatsoever. The `fetchLatestArticles()` function is a stub that just logs to console. This means the "news" app is actually a **static page** with manually curated articles. A user coming back tomorrow sees the exact same content.
-- "Last updated" timestamp is generated from the user's browser clock, which is misleading — it implies freshness that doesn't exist.
-- No article images or thumbnails. Every card is text-only. Competitors like Flipboard, SmartNews, and Google News all use images prominently.
-- No multi-source clustering or grouping as Scout recommended.
-- No indication of article freshness beyond a relative date label.
+**What hasn't changed:**
+- Still 100% hardcoded in a JS array. The `fetchLatestArticles()` function remains a console.log stub. A user visiting tomorrow sees the exact same 37 articles. This is the single biggest gap preventing this from being a real news app.
+- "Last updated" timestamp still generated from the browser clock — still misleading.
+- No multi-source clustering or article deduplication.
 
-**Verdict:** The content is well-written and topical, but it's a static snapshot, not a live aggregator. A real user would notice nothing changes on refresh.
+**Verdict:** More content and better balance, but the fundamental static-data problem remains. The bump is modest because adding 8 hardcoded articles doesn't change the core architecture flaw.
 
 ---
 
-### 2. Visual Design — 6.5 / 10
+### 2. Visual Design — 7.0 / 10 (v1: 6.5, +0.5)
 
-**Positives:**
-- Dark theme with GitHub-inspired color palette is clean and appropriate for a tech audience.
-- Color-coded category tags (purple for Models, green for Hardware, orange for Research, blue for Tools, pink for Industry) are distinctive and scannable.
-- The gradient logo text is a nice touch.
-- Cards have colored left borders by category — good visual cue.
-- Featured card with accent border and glow stands out appropriately.
+**What improved:**
+- Card thumbnails are a significant addition. Each card now has a 120px gradient banner with a category-specific emoji icon (brain for Models, desktop for Hardware, microscope for Research, wrench for Tools, chart for Industry). This breaks the wall-of-text monotony that was the #1 visual complaint in v1.
+- Alternating hero card layout every 5th card (`nth-child(5n+1)`) creates visual rhythm. Hero cards get a side-by-side thumbnail+text layout with a thicker left border. Good variety.
+- Category accent bars on the left side of every card add color coding at a glance.
+- Subtle box-shadow on cards adds depth without being heavy.
 
-**Issues:**
-- No images anywhere. The feed is a wall of text cards. On mobile at 375px, scrolling through 29 identical text rectangles feels monotonous and fatiguing.
-- The "Breaking" label on the featured card is always present — there's no logic for when something is truly breaking vs. just featured.
-- No visual variety: every card is the same height/layout. No hero images, no alternating large/small cards as Scout specifically recommended.
-- The lightning bolt emoji as a logo icon is generic.
-- No loading states, skeleton screens, or transitions when filtering.
+**What still falls short:**
+- Thumbnails are emoji on gradient — not real images. Competitors use actual article images, which dramatically increases engagement. An emoji on a purple gradient is better than nothing, but it's still obviously placeholder-grade.
+- No hero image on the featured card. The most important card is text-only.
+- Every non-hero card is still the same height/layout. The 5th-card hero helps, but 4 out of 5 cards are still visually identical.
+- The lightning bolt emoji logo is still generic.
 
-**Verdict:** Clean and competent dark theme, but visually monotonous. It reads like a developer's prototype, not a polished news app.
+**Verdict:** The thumbnails and hero alternation are real improvements that make the feed noticeably less monotonous. Bumped to 7.0 — it now looks like a designed product, not a developer prototype. Still not image-rich enough to compete with SmartNews or Particle.
 
 ---
 
-### 3. Mobile UX (375px) — 6.0 / 10
+### 3. Mobile UX (375px) — 6.5 / 10 (v1: 6.0, +0.5)
 
-**Positives:**
-- Single-column card layout on mobile. Full-width cards with consistent padding.
-- Category nav is horizontally scrollable with `-webkit-overflow-scrolling: touch`.
-- Sticky category nav stays visible on scroll (position: sticky, top: 0, z-index: 100).
-- Back-to-top button is 48x48px — meets the 44x44px minimum tap target.
-- Search input is full-width and properly styled with focus state.
-- No hover-dependent interactions.
+**What improved:**
+- Category pills now have `min-height: 44px` with `padding: 0.6rem 1.15rem` and `display: inline-flex; align-items: center; justify-content: center`. This fixes the v1 tap target issue — pills meet the 44x44px minimum.
+- `overflow-x: hidden` and `overflow-wrap: break-word` on body prevent horizontal scroll on narrow screens.
+- Hero cards stack vertically below 380px (`@media max-width: 379px`) — good responsive fallback.
+- Back-to-top button z-index fix (1000) with footer `position: relative; z-index: 1` means the button is no longer blocked by the footer. Confirmed fixed.
 
-**Issues:**
-- Category pills have `cursor: pointer` — irrelevant on mobile, but more importantly, the pills are `padding: 0.4rem 1rem` (roughly 32px tall). This is **below the 44x44px minimum** Scout specified. On a phone, these are difficult to tap accurately.
-- The "Hardware Spotlight" section on the "All" view creates confusion — hardware articles appear in their own section AND could appear in the main grid when searching. The mental model is unclear.
-- No pull-to-refresh gesture or indication.
-- No infinite scroll / lazy loading — all 29 articles render at once. With more content this would be a problem, but currently it's fine.
-- The search input is buried in the header — on mobile, you have to scroll to the top to search. No search icon in the sticky nav.
-- Cards use `transition: transform 0.15s` with `:active { transform: scale(0.98) }` — this is a nice mobile touch-feedback detail.
-- No swipe gestures for category switching.
+**What still falls short:**
+- Search is still buried in the header — you must scroll to the top to search. No persistent search access.
+- Hardware Spotlight section on "All" view still creates a confusing mental model — hardware articles appear in their own section AND can appear in the main grid when searching.
+- No pull-to-refresh, no swipe gestures, no infinite scroll.
+- `cursor: pointer` still on pills (irrelevant on mobile, not harmful).
+- The hero card layout at 375px with `grid-template-columns: 120px 1fr` leaves only ~210px for text content after padding. Tight but workable.
 
-**Verdict:** Functional mobile layout, but category pills are too small and the search placement is suboptimal. The UX is workable but not delightful.
+**Verdict:** The tap target fix was important and the overflow protection is good. Solid mobile improvements. Not yet delightful, but definitely more usable.
 
 ---
 
-### 4. Search / Filter — 5.5 / 10
+### 4. Search / Filter — 6.5 / 10 (v1: 5.5, +1.0)
 
-**Positives:**
-- Search filters by title, summary, source, and category — good breadth.
-- Search is real-time (fires on every keystroke via `input` event).
-- "No articles match your search" empty state exists.
-- Category pills work and have a clear active state (filled blue).
+**What improved:**
+- Search icon (magnifying glass) is now present, positioned absolutely inside the input with proper `pointer-events: none`. Good visual affordance.
+- Clear button ("x") appears when a query is active (`display: block` when query exists), with proper aria-label. Hides when empty. Clean implementation.
+- Result count now shows "X results found" via `#result-count` with `aria-live="polite"` for screen reader announcements. This was specifically called out as missing in v1.
+- `#no-results` now has `role="status"` — another v1 fix.
 
-**Issues:**
-- No search icon or clear button on the search input.
-- No search result count ("Showing 5 of 29 articles").
+**What still falls short:**
 - No search highlighting in results.
-- No sort options (by date, by source, by relevance).
-- Category filter and search are combined but there's no visual indication of active filters. If you select "Models" and type a query, there's no "2 filters active" badge.
-- No way to filter by date range (today, this week, this month).
-- Search has no debounce — fires on every keystroke. Fine for 29 articles, would be a problem at scale.
+- No sort options (by date, source, relevance).
+- No combined filter indicator ("Models + 'nvidia' = 2 filters active").
+- No date range filter.
+- No debounce on keystroke search (fires on every `input` event). Fine for 37 articles.
+- No deep linking (`?category=hardware&q=nvidia`).
 
-**Verdict:** Basic search and filter that works but offers no power-user features. Competitors offer significantly more filtering capability.
-
----
-
-### 5. Navigation — 5.5 / 10
-
-**Positives:**
-- Category pills provide primary navigation and are sticky.
-- Back-to-top button appears after 2 screens of scrolling.
-
-**Issues:**
-- No navigation beyond categories. No "Trending", "Saved", "Read later" sections.
-- No breadcrumbs or indication of current state beyond the active pill.
-- All articles open in new tabs (`target="_blank"`) — standard but no in-app reading experience.
-- No way to share articles.
-- No deep linking — you can't link to a filtered view (e.g., `?category=hardware`).
-- Footer is minimal — just a credit line, no useful links.
-
-**Verdict:** Navigation is bare-minimum. For a news app, users expect more ways to discover and organize content.
+**Verdict:** This is the biggest single-area improvement. The search icon, clear button, and result count transform it from bare-minimum to a properly functional search. +1.0 is earned.
 
 ---
 
-### 6. Performance — 7.0 / 10
+### 5. Navigation — 5.5 / 10 (v1: 5.5, +0.0)
 
-**Positives:**
-- Zero external JS dependencies — vanilla JavaScript only.
-- Single CSS file, single JS file, single HTML file. Extremely lightweight.
-- No images to load (this is a design flaw that accidentally helps performance).
-- Inter font loaded with `font-display: swap` via Google Fonts (the `display=swap` is in the URL).
-- `preconnect` hint for Google Fonts.
-- All 29 articles render from a local JS array — instant render, no network latency.
+**No meaningful changes.** Category pills and back-to-top button remain the only navigation. Still no "Trending", "Saved", "Read Later", sharing, or deep linking. Footer is still just a credit line.
 
-**Issues:**
-- Google Fonts is the only external dependency, but it's a render-blocking resource on slow connections.
-- No service worker for offline support.
-- No manifest.json for PWA installation.
-- No lazy loading implemented (though not needed yet with 29 articles).
-
-**Verdict:** Accidentally fast because it's static. The app would score differently with real data fetching. But credit where due — the lightweight approach is solid.
+**Verdict:** Unchanged. Navigation remains the weakest area relative to what a news app user expects.
 
 ---
 
-### 7. Accessibility — 5.0 / 10
+### 6. Performance — 7.0 / 10 (v1: 7.0, +0.0)
 
-**Positives:**
-- `lang="en"` on HTML element.
-- `aria-label="Search articles"` on search input.
-- `aria-label="Back to top"` on the back-to-top button.
-- Semantic HTML: `<header>`, `<nav>`, `<main>`, `<footer>`, `<section>` elements used.
+**No meaningful changes.** Still zero external JS deps, single HTML/CSS/JS files, Google Fonts the only external resource. Now rendering 37 articles from a local array instead of 29 — negligible difference. Still no service worker, no PWA manifest, no lazy loading.
 
-**Issues:**
-- Category pills are `<button>` elements but have **no `aria-pressed` or `aria-selected` attribute** to indicate active state. Screen readers can't tell which category is selected.
+**Verdict:** Still accidentally fast because it's static. The score holds.
+
+---
+
+### 7. Accessibility — 6.5 / 10 (v1: 5.0, +1.5)
+
+**What improved:**
+- `aria-pressed` attribute now present on all category pill buttons (confirmed in HTML: `aria-pressed="true"` on active, `aria-pressed="false"` on others). JS correctly toggles these on click. This was a critical v1 gap.
+- Focus-visible indicators added globally: `a:focus-visible, button:focus-visible, input:focus-visible { outline: 2px solid var(--accent); outline-offset: 2px; }`. Category pills also get their own `.cat-pill:focus-visible` rule. Major improvement for keyboard users.
+- Muted text color changed from `#8b949e` to `#adb5bd`. On `#161b22` background, `#adb5bd` yields approximately 6.1:1 contrast ratio — passes WCAG AA (4.5:1 required). On `#0d1117` background it's even better at ~7.3:1. Fix confirmed.
+- `#result-count` has `aria-live="polite"` for dynamic result count announcements.
+- `#no-results` has `role="status"`.
+- Search icon has `aria-hidden="true"`, search clear button has `aria-label="Clear search"`.
+
+**What still falls short:**
 - No skip-to-content link.
-- No ARIA landmarks beyond semantic HTML.
-- Color contrast: the muted text (`#8b949e` on `#161b22`) has a contrast ratio of approximately **3.8:1**, which **fails WCAG AA** (requires 4.5:1 for normal text).
-- No focus-visible styles beyond the search input's box-shadow. Category pills and cards lack visible focus indicators for keyboard users.
-- Articles are wrapped in `<a>` tags — the entire card is a link, which is fine, but there's no focus styling on cards.
-- No `<h2>` or heading hierarchy within the "Latest Stories" section card headings jump from `<h2>` (section title) to `<h3>` (card title) — this is actually correct.
-- No `role="status"` or live region for the "No results" message.
-- The `hidden` class uses `display: none` which is correctly hidden from screen readers.
+- Card thumbnails use emoji but `aria-hidden="true"` is set — this is correct, good.
+- Entire cards are `<a>` tags wrapping all content — this creates very long link text for screen readers (title + summary + meta all read as one link). Should use `aria-labelledby` pointing to just the heading.
+- No heading for the featured section (it's just a div with a card inside).
 
-**Verdict:** Basic semantic HTML is present, but accessibility is undertested. The contrast failure alone is a significant issue for low-vision users.
+**Verdict:** This is the biggest improvement area (+1.5). The three critical fixes — aria-pressed, contrast, and focus indicators — address the most impactful v1 failures. Well done.
 
 ---
 
-### 8. Category System — 6.5 / 10
+### 8. Category System — 6.5 / 10 (v1: 6.5, +0.0)
 
-**Positives:**
-- Five categories (Models, Hardware, Research, Tools, Industry) plus "All" — matches the Scout spec exactly.
-- Each category has a distinct color, applied consistently to tags and card borders.
-- Filtering is instant and works correctly.
-- Article counts per category are reasonable (Models: 8, Hardware: 7, Research: 3, Tools: 5, Industry: 4).
+**Marginal improvement.** Article counts improved: Models 10 (was 8), Hardware 9 (was 7), Research 4 (was 3), Tools 6 (was 5), Industry 8 (was 4). Industry especially is much better balanced now. But no structural changes — still no article counts displayed on pills, no subcategories, no dynamic generation.
 
-**Issues:**
-- No article count displayed per category (e.g., "Models (8)").
-- Categories are not dynamically generated — they're hardcoded buttons.
-- No subcategories (Scout recommended Hardware subcategories: GPUs, Laptops, Networking, Chips & Silicon).
-- Research has only 3 articles — feels thin compared to other categories.
-- The category "Tools" is ambiguous — it includes dev tools, open-source models, and music AI (Google Lyria). Needs tighter definition.
-
-**Verdict:** Solid category foundation that follows the spec, but lacks depth and refinement.
+**Verdict:** Better content balance but same system. Holds at 6.5.
 
 ---
 
-### 9. Featured Section — 6.0 / 10
+### 9. Featured Section — 6.0 / 10 (v1: 6.0, +0.0)
 
-**Positives:**
-- Featured article (NVIDIA Rubin Platform) has a visually distinct card with accent border and glow.
-- "Breaking" label draws attention.
-- Featured card appears at the top of the feed.
+**No changes.** Still a single hardcoded `featured: true` flag on the NVIDIA Rubin article from March 29. Still says "Breaking" for an article that's 3 days old. No rotation, no per-category featured articles, no expiration logic.
 
-**Issues:**
-- Only one article can be featured (`featured: true` flag on a single article). No rotation or multiple featured stories.
-- The featured article is about hardware but appears above all categories — a user in "Models" won't see it, which is correct, but there's no per-category featured article.
-- "Breaking" label is misleading for an article dated March 29 (3 days ago). There's no logic to expire the "breaking" status.
-- No visual hierarchy beyond featured vs. regular. Scout recommended alternating hero and compact cards.
-
-**Verdict:** The featured section exists and works but is primitive — a single static flag with no rotation or intelligence.
+**Verdict:** Unchanged. The featured section is stale.
 
 ---
 
-### 10. Hardware Coverage — 7.0 / 10
+### 10. Hardware Coverage — 7.0 / 10 (v1: 7.0, +0.0)
 
-**Positives:**
-- Dedicated "Hardware Spotlight" section on the All view — this follows the Scout recommendation to make hardware a differentiator.
-- 7 hardware articles covering: NVIDIA Rubin, space data centers, Vera Rubin GPU cooling, CPU comeback for agents, AI server costs, Huawei 950PR chip, Rebellions Korean AI chips.
-- Good diversity: not just NVIDIA — covers the chip landscape broadly.
-- Hardware articles have the green color treatment making them visually distinct.
+**What improved:**
+- Two new hardware articles: NVIDIA $1T revenue forecast, Amazon exascale campus. Total now 9 hardware articles (was 7).
+- Broader coverage: NVIDIA, Huawei, Rebellions (Korean chips), Amazon infrastructure.
 
-**Issues:**
-- No hardware subcategories (GPUs, Chips, Servers, etc.) as Scout recommended.
-- Hardware Spotlight section is only visible on the "All" tab — feels hidden.
-- No hardware-specific metrics (benchmark scores, TDP, pricing) in the cards.
-- No comparison tables or spec sheets.
+**What hasn't changed:**
+- Still no hardware subcategories, no specs/benchmarks in cards, no comparison features.
+- Hardware Spotlight still only visible on "All" tab.
 
-**Verdict:** Hardware coverage is the app's strongest content differentiator, which is exactly what Scout identified. The breadth is good. Needs deeper structure.
+**Verdict:** More content but same structure. Holds at 7.0.
 
 ---
 
-### 11. Overall App Feel — 5.5 / 10
+### 11. Overall App Feel — 6.0 / 10 (v1: 5.5, +0.5)
 
-**What a real user would think:**
+**What a real user would think on their phone today:**
 
-Opening this on a phone, a user sees a clean dark-themed news feed with AI articles. The first impression is "this looks like a GitHub project, not a real news app." There are no images, no loading animations, no sense of liveliness. Tapping a category works instantly. The content is relevant and well-summarized.
+Opening AI Pulse on a phone, the first impression is better than v1. The gradient thumbnail banners with emoji give each card visual identity — you can scan the feed and quickly identify categories by color. The alternating hero layout every 5th card breaks the monotony. The search has a proper icon and clear button, which feels polished. Category pills are properly sized for tapping.
 
-But then the user notices: nothing ever changes. There's no pull-to-refresh, no "new articles" indicator, no sense that this is a living, breathing news feed. It's a brochure disguised as an app. Compared to opening Google News, Feedly, or even Hacker News on mobile, this feels like a v0.1 prototype.
+But the user still notices: nothing ever updates. The "Breaking" label on the NVIDIA Rubin article from March 29 feels stale. There are no real images — the emoji thumbnails are creative but obviously not real article imagery. Compared to Techpresso (curated daily newsletter with images), Particle (multi-source clustering with photos), or SmartNews (full article images, personalization), this still feels like a well-made student project rather than a product someone would use daily.
 
-The content quality is genuinely good — someone clearly curated 29 relevant, timely articles. But "manually curated and hardcoded" is not what a news aggregator should be. The Scout report specifically recommended auto-updating via GitHub Actions and RSS feeds, and none of that exists yet.
+The content is genuinely good and timely. 37 well-curated AI articles with real sources. But "well-curated and hardcoded" still isn't what a news aggregator should be.
 
-**Verdict:** A solid technical foundation with good content curation, but it's not yet a functional news app — it's a static page that looks like one.
+**Verdict:** Noticeable improvement in visual polish and UX details. Moved from "prototype" to "polished MVP". But still missing the core dynamic content that makes a news app actually useful day-to-day.
 
 ---
 
 ## Score Summary
 
-| Area | Score |
-|------|-------|
-| Content Quality | 6.0 |
-| Visual Design | 6.5 |
-| Mobile UX (375px) | 6.0 |
-| Search / Filter | 5.5 |
-| Navigation | 5.5 |
-| Performance | 7.0 |
-| Accessibility | 5.0 |
-| Category System | 6.5 |
-| Featured Section | 6.0 |
-| Hardware Coverage | 7.0 |
-| Overall App Feel | 5.5 |
-| **OVERALL** | **6.0** |
+| Area | v1 Score | v2 Score | Change |
+|------|----------|----------|--------|
+| Content Quality | 6.0 | 6.5 | +0.5 |
+| Visual Design | 6.5 | 7.0 | +0.5 |
+| Mobile UX (375px) | 6.0 | 6.5 | +0.5 |
+| Search / Filter | 5.5 | 6.5 | **+1.0** |
+| Navigation | 5.5 | 5.5 | +0.0 |
+| Performance | 7.0 | 7.0 | +0.0 |
+| Accessibility | 5.0 | 6.5 | **+1.5** |
+| Category System | 6.5 | 6.5 | +0.0 |
+| Featured Section | 6.0 | 6.0 | +0.0 |
+| Hardware Coverage | 7.0 | 7.0 | +0.0 |
+| Overall App Feel | 5.5 | 6.0 | +0.5 |
+| **OVERALL** | **6.0** | **6.5** | **+0.5** |
 
 ---
 
-## Top 5 Priority Recommendations
+## Top 3 Priority Recommendations
 
-### 1. CRITICAL — Implement Live Data Fetching (Content Freshness)
-The single biggest gap. A news app with hardcoded articles is not a news app. Implement the GitHub Action + `news-data.json` pipeline Scout recommended:
-- GitHub Action runs every 30 min
-- Fetch RSS feeds from 10-15 AI news sources
-- Write to `data/news.json`
-- Frontend fetches JSON on load
-This transforms the app from a static page to an actual aggregator.
+### 1. CRITICAL — Implement Live Data Fetching (unchanged from v1)
+Still the #1 gap. A news app with 37 hardcoded articles is a demo, not a product. The `fetchLatestArticles()` stub has been there since day one. Implement:
+- GitHub Action on a cron (every 6-12 hours minimum)
+- Fetch RSS feeds from 10-15 AI news sources (The Verge AI, TechCrunch AI, Ars Technica, ArXiv, Hacker News)
+- Write to `data/news.json`, frontend fetches on load
+- Add real "Last updated" timestamp from the data file, not the browser clock
+- This single change would boost Content Quality, Featured Section, and Overall App Feel by 1-2 points each.
 
-### 2. HIGH — Add Article Images / Thumbnails
-The all-text feed is visually fatiguing on mobile. Every card looks the same. Add:
-- Open Graph image extraction during data fetching
-- Fallback placeholder images per category
-- Hero image on the featured card
-- Alternate between large (with image) and compact (text-only) cards
-This alone would dramatically improve the visual design score.
+### 2. HIGH — Real Article Images
+Emoji gradient thumbnails were a smart intermediate step, but they still look obviously placeholder. Next steps:
+- Extract Open Graph images from article URLs during data fetching (pairs with Rec #1)
+- Fallback to the current emoji gradient banners when no OG image is available
+- Add a hero image to the featured card
+- Use `loading="lazy"` and `aspect-ratio` for performance
+- This would push Visual Design from 7.0 toward 8.0.
 
-### 3. HIGH — Fix Accessibility Failures
-- Increase muted text color contrast to meet WCAG AA (change `#8b949e` to at least `#9da5ad` on `#161b22` backgrounds, or better yet `#adb5bd`)
-- Add `aria-pressed` to category pill buttons
-- Add visible focus indicators for keyboard navigation on all interactive elements
-- Add a skip-to-content link
-- Add `role="status"` to the no-results message
-
-### 4. MEDIUM — Improve Search and Filtering UX
-- Add a search icon and clear button to the input
-- Show result count ("Showing 5 of 29")
-- Add sort options (newest, oldest)
-- Support URL query parameters for deep linking (`?category=hardware&q=nvidia`)
-- Make category pills at least 44px tall for proper mobile tap targets
-
-### 5. MEDIUM — Add PWA Features and Offline Support
-- Add `manifest.json` for home screen installation
-- Implement a basic service worker for offline caching
-- Add pull-to-refresh gesture
-- Show "New articles available" indicator when fresh data arrives
-- Cache the last-fetched articles for offline reading
+### 3. HIGH — Navigation and Discovery Features
+Navigation scored 5.5 in both audits — it's the most stagnant area. A news app needs more than category pills:
+- Add article count badges to category pills ("Models (10)")
+- Add a "Today" / "This Week" date filter
+- Implement URL query parameters for deep linking and sharing (`?category=hardware&q=nvidia`)
+- Add a minimal "share" button on cards (Web Share API on mobile)
+- Consider a "Top Stories" or "Trending" section based on article recency
 
 ---
 
-*Audit completed by Nigel on 2026-04-01.*
+## What Went Well This Cycle
+
+Credit to the team: the v1 audit identified specific, actionable issues and the agents addressed them systematically.
+
+- **Refiner** delivered the most impactful visual change (card thumbnails) and the most impactful accessibility fixes (aria-pressed, contrast, focus indicators).
+- **Spark's** alternating hero layout is a genuinely good design pattern that adds visual variety without complexity.
+- **Pixel's** tap target fix (44px pills) and overflow protection were important mobile fundamentals.
+- **Builder** kept the content fresh with 8 well-sourced new articles.
+
+The +0.5 overall improvement is real and earned. To reach 7.0+, the app needs to solve the live data problem — everything else is polish on a static page.
+
+---
+
+*Audit completed by Nigel on 2026-04-01. v2.*
