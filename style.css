@@ -255,6 +255,45 @@ main {
   text-align: center;
 }
 
+.section-header {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 0.75rem;
+  flex-wrap: wrap;
+  margin-bottom: 1rem;
+  padding-bottom: 0.5rem;
+  border-bottom: 1px solid var(--border);
+}
+
+.section-header .section-title {
+  margin-bottom: 0;
+  border-bottom: none;
+  padding-bottom: 0;
+}
+
+.sort-toggle {
+  display: inline-flex;
+  align-items: center;
+  min-height: 36px;
+  padding: 0.3rem 0.8rem;
+  border: 1px solid var(--border);
+  border-radius: 18px;
+  background: transparent;
+  color: var(--text-muted);
+  font-family: inherit;
+  font-size: 0.75rem;
+  font-weight: 500;
+  cursor: pointer;
+  transition: all 0.2s;
+}
+
+.sort-toggle:active {
+  background: var(--accent);
+  color: #0d1117;
+  border-color: var(--accent);
+}
+
 /* ===== FEATURED CARD ===== */
 #featured-section { margin-bottom: 2rem; }
 
@@ -367,12 +406,6 @@ main {
   z-index: 0;
 }
 
-.card-footer,
-.featured-footer {
-  position: relative;
-  z-index: 1;
-}
-
 .share-btn-sm {
   padding: 0.3rem 0.8rem;
   font-size: 0.75rem;
@@ -386,6 +419,8 @@ main {
   justify-content: center;
   gap: 0.75rem;
   flex-wrap: wrap;
+  position: relative;
+  z-index: 1;
 }
 
 /* ===== TRENDING SECTION ===== */
@@ -424,6 +459,7 @@ main {
   border-radius: 6px;
   text-align: left;
   counter-increment: trending;
+  position: relative;
 }
 
 .trending-item::before {

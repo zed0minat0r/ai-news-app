@@ -47,9 +47,9 @@
 
     <section id="trending-section" class="hidden">
       <h2 class="section-title">Trending Now</h2>
-      <div id="trending-grid" class="trending-grid">
+      <ol id="trending-grid" class="trending-grid">
         <!-- Populated by JS -->
-      </div>
+      </ol>
     </section>
 
     <section id="hardware-spotlight">
@@ -60,10 +60,14 @@
     </section>
 
     <section id="news-section">
-      <h2 class="section-title">Latest Stories</h2>
+      <div class="section-header">
+        <h2 class="section-title">Latest Stories</h2>
+        <button id="sort-toggle" class="sort-toggle" aria-label="Toggle sort order">Newest first</button>
+      </div>
       <div id="news-grid" class="card-grid">
         <!-- Populated by JS -->
       </div>
+      <button id="load-more-btn" class="load-more-btn hidden">Load more</button>
     </section>
 
     <p id="no-results" class="hidden" role="status">No articles match your search.</p>

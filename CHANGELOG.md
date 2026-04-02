@@ -181,3 +181,17 @@
 - No dead JS functions — all defined functions are called, all event listeners target existing elements
 - `pulse-glow` keyframe animation is used by `.featured-label` — retained
 - Did NOT touch `scripts/fetch_news.py` or `.github/workflows/` per rules
+
+## [2026-04-01] Refiner — Semantic HTML + Navigation Upgrade
+
+### Fixed
+- **Button-inside-anchor (invalid HTML):** Restructured all cards (`featured-card`, `card`, `trending-item`) from `<a>` wrappers to `<article>`/`<li>` elements with title-only links stretched via `::after` pseudo-element. Share buttons are now siblings, not nested inside anchors. Fixes screen reader issues and HTML validation.
+- **Trending list semantics:** Changed trending grid from `<div>` to `<ol>` with `<li>` items and CSS counters for rank numbers. Proper ranked list structure for assistive technology.
+
+### Added
+- **Sort toggle:** "Newest first" / "Oldest first" button next to "Latest Stories" heading. Toggles date sort order across all articles. Mobile-friendly pill-style button.
+- **Load more pagination:** Articles paginate in batches of 12 instead of dumping all at once. "Load more (N)" button shows remaining count. Resets on category/search changes.
+
+### Notes
+- All changes mobile-first, center-aligned
+- No content changes — UI/UX only

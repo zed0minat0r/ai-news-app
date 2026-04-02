@@ -571,8 +571,13 @@ const backToTopBtn    = document.getElementById("back-to-top");
 
 const trendingSection = document.getElementById("trending-section");
 const trendingGrid    = document.getElementById("trending-grid");
+const sortToggle      = document.getElementById("sort-toggle");
+const loadMoreBtn     = document.getElementById("load-more-btn");
 
 let activeCategory = "all";
+let sortOrder = "newest"; // "newest" or "oldest"
+const ARTICLES_PER_PAGE = 12;
+let visibleCount = ARTICLES_PER_PAGE;
 
 /* =========================================================
    HELPERS
@@ -612,16 +617,16 @@ function shareArticle(e, title, url) {
 function buildFeaturedCard(article) {
   const icon = CATEGORY_ICONS[article.category] || "\u{1F4F0}";
   return `
-    <a href="${article.url}" target="_blank" rel="noopener" class="featured-card">
+    <article class="featured-card" aria-labelledby="featured-title">
       <div class="featured-hero-icon" aria-hidden="true">${icon}</div>
       <span class="featured-label">Breaking</span>
-      <h2>${article.title}</h2>
+      <h2 id="featured-title"><a href="${article.url}" target="_blank" rel="noopener" class="card-link">${article.title}</a></h2>
       <p class="summary">${article.summary}</p>
       <div class="featured-footer">
         <p class="meta">${article.source} &middot; ${timeAgo(article.date)}</p>
         <button class="share-btn" onclick="shareArticle(event, '${article.title.replace(/'/g, "\\'")}', '${article.url}')" aria-label="Share article">Share</button>
       </div>
-    </a>`;
+    </article>`;
 }
 
 const CATEGORY_ICONS = {
@@ -635,28 +640,27 @@ const CATEGORY_ICONS = {
 function buildCard(article) {
   const icon = CATEGORY_ICONS[article.category] || "\u{1F4F0}";
   return `
-    <a href="${article.url}" target="_blank" rel="noopener" class="card" data-category="${article.category}">
+    <article class="card" data-category="${article.category}">
       <div class="card-thumb ${article.category}" aria-hidden="true">${icon}</div>
       <span class="card-tag ${article.category}">${article.category}</span>
-      <h3>${article.title}</h3>
+      <h3><a href="${article.url}" target="_blank" rel="noopener" class="card-link">${article.title}</a></h3>
       <p class="summary">${article.summary}</p>
       <div class="card-footer">
         <p class="meta">${article.source} &middot; ${timeAgo(article.date)}</p>
         <button class="share-btn share-btn-sm" onclick="shareArticle(event, '${article.title.replace(/'/g, "\\'")}', '${article.url}')" aria-label="Share article">Share</button>
       </div>
-    </a>`;
+    </article>`;
 }
 
-function buildTrendingItem(article, rank) {
+function buildTrendingItem(article) {
   return `
-    <a href="${article.url}" target="_blank" rel="noopener" class="trending-item">
-      <span class="trending-rank">${rank}</span>
+    <li class="trending-item">
       <div class="trending-info">
         <span class="card-tag ${article.category}">${article.category}</span>
-        <h4>${article.title}</h4>
+        <h4><a href="${article.url}" target="_blank" rel="noopener" class="card-link">${article.title}</a></h4>
         <p class="meta">${article.source} &middot; ${timeAgo(article.date)}</p>
       </div>
-    </a>`;
+    </li>`;
 }
 
 function updatePillCounts() {
@@ -668,6 +672,13 @@ function updatePillCounts() {
     const cat = btn.dataset.category;
     const countEl = btn.querySelector(".pill-count");
     if (countEl) countEl.textContent = "(" + (counts[cat] || 0) + ")";
+  });
+}
+
+function sortArticles(arr) {
+  arr.sort((a, b) => {
+    const da = new Date(a.date), db = new Date(b.date);
+    return sortOrder === "newest" ? db - da : da - db;
   });
 }
 
@@ -709,33 +720,26 @@ function render() {
     hardwareGrid.innerHTML = spotlightHw.map(buildCard).join("");
     document.getElementById("hardware-spotlight").classList.remove("hidden");
     nonHardware.push(...overflowHw);
-    nonHardware.sort((a, b) => new Date(b.date) - new Date(a.date));
+    sortArticles(nonHardware);
   } else {
     document.getElementById("hardware-spotlight").classList.add("hidden");
     nonHardware.push(...hardwareArticles);
-    nonHardware.sort((a, b) => new Date(b.date) - new Date(a.date));
+    sortArticles(nonHardware);
   }
 
-  // Main grid — show 9 initially, "Load more" for rest
+  // Main grid with "Load more" pagination
   const mainArticles = activeCategory === "all" && !query ? nonHardware : (activeCategory === "all" ? rest : rest);
-  mainArticles.sort((a, b) => new Date(b.date) - new Date(a.date));
-  const INITIAL_SHOW = 9;
-  const visible = mainArticles.slice(0, INITIAL_SHOW);
-  const hidden = mainArticles.slice(INITIAL_SHOW);
+  sortArticles(mainArticles);
+  const visible = mainArticles.slice(0, visibleCount);
+  const remaining = mainArticles.length - visibleCount;
   newsGrid.innerHTML = visible.map(buildCard).join("");
+
   // Load more button
-  const existingLoadMore = document.getElementById("load-more-btn");
-  if (existingLoadMore) existingLoadMore.remove();
-  if (hidden.length > 0) {
-    const btn = document.createElement("button");
-    btn.id = "load-more-btn";
-    btn.className = "load-more-btn";
-    btn.textContent = `Load more (${hidden.length})`;
-    btn.addEventListener("click", () => {
-      newsGrid.innerHTML += hidden.map(buildCard).join("");
-      btn.remove();
-    });
-    newsGrid.parentNode.insertBefore(btn, newsGrid.nextSibling);
+  if (remaining > 0) {
+    loadMoreBtn.textContent = `Load more (${remaining})`;
+    loadMoreBtn.classList.remove("hidden");
+  } else {
+    loadMoreBtn.classList.add("hidden");
   }
 
   // Trending section — show top 5 newest articles across all categories
@@ -743,7 +747,7 @@ function render() {
     const trending = [...ARTICLES]
       .sort((a, b) => new Date(b.date) - new Date(a.date))
       .slice(0, 5);
-    trendingGrid.innerHTML = trending.map((a, i) => buildTrendingItem(a, i + 1)).join("");
+    trendingGrid.innerHTML = trending.map(a => buildTrendingItem(a)).join("");
     trendingSection.classList.remove("hidden");
   } else {
     trendingSection.classList.add("hidden");
@@ -777,15 +781,30 @@ categoryBtns.forEach(btn => {
     btn.classList.add("active");
     btn.setAttribute("aria-pressed", "true");
     activeCategory = btn.dataset.category;
+    visibleCount = ARTICLES_PER_PAGE;
     render();
   });
 });
 
-searchInput.addEventListener("input", render);
+searchInput.addEventListener("input", () => { visibleCount = ARTICLES_PER_PAGE; render(); });
+
+sortToggle.addEventListener("click", () => {
+  sortOrder = sortOrder === "newest" ? "oldest" : "newest";
+  sortToggle.textContent = sortOrder === "newest" ? "Newest first" : "Oldest first";
+  visibleCount = ARTICLES_PER_PAGE;
+  render();
+});
+
+loadMoreBtn.addEventListener("click", () => {
+  visibleCount += ARTICLES_PER_PAGE;
+  render();
+  // Scroll down slightly so user sees new content
+});
 
 searchClear.addEventListener("click", () => {
   searchInput.value = "";
   searchInput.focus();
+  visibleCount = ARTICLES_PER_PAGE;
   render();
 });
 
