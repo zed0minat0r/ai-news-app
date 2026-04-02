@@ -109,22 +109,67 @@
     "id": 12
   },
   {
+    "title": "Show HN: Most products have no idea what their AI agents did yesterday",
+    "url": "https://velt.dev/activity-logs",
+    "source": "Hacker News",
+    "date": "2026-04-02",
+    "summary": "We build collaboration SDKs at Velt (YC W22). Comments, presence, real-time editing (CRDT), recording, notifications. A pattern we keep seeing: products add AI agents that write, edit, and approve thi...",
+    "category": "tools",
+    "id": 13
+  },
+  {
+    "title": "We replaced RAG with a virtual filesystem for our AI documentation assistant",
+    "url": "https://www.mintlify.com/blog/how-we-built-a-virtual-filesystem-for-our-assistant",
+    "source": "Hacker News",
+    "date": "2026-04-02",
+    "summary": "Article URL: https://www.mintlify.com/blog/how-we-built-a-virtual-filesystem-for-our-assistant Comments URL: https://news.ycombinator.com/item?id=47618223 Points: 1 # Comments: 0",
+    "category": "research",
+    "id": 14
+  },
+  {
+    "title": "AI Infrastructure Roadmap: Five frontiers for 2026",
+    "url": "https://nextbigteng.substack.com/p/ai-infrastructure-roadmap-five-frontiers-for-2026",
+    "source": "Hacker News",
+    "date": "2026-04-02",
+    "summary": "Article URL: https://nextbigteng.substack.com/p/ai-infrastructure-roadmap-five-frontiers-for-2026 Comments URL: https://news.ycombinator.com/item?id=47618154 Points: 2 # Comments: 0",
+    "category": "industry",
+    "id": 15
+  },
+  {
+    "title": "Priced Out by AI: The Memory Chip Crisis Hitting Every Consumer",
+    "url": "https://smarterarticles.co.uk/priced-out-by-ai-the-memory-chip-crisis-hitting-every-consumer",
+    "source": "Hacker News",
+    "date": "2026-04-02",
+    "summary": "Article URL: https://smarterarticles.co.uk/priced-out-by-ai-the-memory-chip-crisis-hitting-every-consumer Comments URL: https://news.ycombinator.com/item?id=47618123 Points: 2 # Comments: 0",
+    "category": "hardware",
+    "id": 16
+  },
+  {
+    "title": "Show HN: AgentDog – Open-source dashboard for monitoring local AI agents",
+    "url": "https://github.com/shenli/AgentDog",
+    "source": "Hacker News",
+    "date": "2026-04-02",
+    "summary": "Article URL: https://github.com/shenli/AgentDog Comments URL: https://news.ycombinator.com/item?id=47618112 Points: 2 # Comments: 0",
+    "category": "industry",
+    "id": 17
+  },
+  {
     "title": "Humanoid Robots and the AI Brain Shift",
     "url": "https://spectrum.ieee.org/humanoid-robots-gill-pratt-darpa",
     "source": "Hacker News",
     "date": "2026-04-02",
-    "summary": "Article URL: https://spectrum.ieee.org/humanoid-robots-gill-pratt-darpa Comments URL: https://news.ycombinator.com/item?id=47617983 Points: 1 # Comments: 0",
+    "summary": "Article URL: https://spectrum.ieee.org/humanoid-robots-gill-pratt-darpa Comments URL: https://news.ycombinator.com/item?id=47617983 Points: 2 # Comments: 0",
     "category": "industry",
-    "id": 13
+    "id": 18
   },
   {
     "title": "LLM SQL Benchmark",
     "url": "https://sql-benchmark.nicklothian.com/",
     "source": "Hacker News",
     "date": "2026-04-02",
-    "summary": "Article URL: https://sql-benchmark.nicklothian.com/ Comments URL: https://news.ycombinator.com/item?id=47617945 Points: 1 # Comments: 0",
+    "summary": "Article URL: https://sql-benchmark.nicklothian.com/ Comments URL: https://news.ycombinator.com/item?id=47617945 Points: 2 # Comments: 0",
     "category": "models",
-    "id": 14
+    "id": 19
   },
   {
     "title": "Show HN: A TUI for checking and comparing cloud and AI pricing",
@@ -133,7 +178,7 @@
     "date": "2026-04-02",
     "summary": "I am tired of checking docs and tweaking official cost estimators just to compare prices. I can feel the disconnect between knowing the specs you want and figuring out what they actually cost, so I bu...",
     "category": "tools",
-    "id": 15
+    "id": 20
   },
   {
     "title": "Show HN: Screenbox – Self-hosted virtual desktops for AI agents",
@@ -142,7 +187,7 @@
     "date": "2026-04-02",
     "summary": "Screenbox gives AI agents their own isolated Linux desktop with a real Chromium browser, controlled via MCP. I run multiple agents in parallel and they kept fighting over the same browser. Each deskto...",
     "category": "hardware",
-    "id": 16
+    "id": 21
   },
   {
     "title": "We're talking Google, Apple and AI: 19 Years of HN data analyzed",
@@ -151,7 +196,7 @@
     "date": "2026-04-02",
     "summary": "Article URL: https://www.riteshkhanna.com/blog/hacker-news-data-analysis Comments URL: https://news.ycombinator.com/item?id=47617823 Points: 1 # Comments: 1",
     "category": "industry",
-    "id": 17
+    "id": 22
   },
   {
     "title": "Prosaic: A text editor where AI scribbles in the margins",
@@ -160,7 +205,7 @@
     "date": "2026-04-02",
     "summary": "Article URL: https://prosaic.sh/ Comments URL: https://news.ycombinator.com/item?id=47617745 Points: 2 # Comments: 1",
     "category": "industry",
-    "id": 18
+    "id": 23
   },
   {
     "title": "Semantic retrieval vs. grep for LLM code queries: 2.4x faster, 5.6x fewer tokens",
@@ -169,7 +214,7 @@
     "date": "2026-04-02",
     "summary": "Article URL: https://castnettechnology.com/blog/mnemosyne-vs-standard-search-benchmark Comments URL: https://news.ycombinator.com/item?id=47617582 Points: 1 # Comments: 0",
     "category": "models",
-    "id": 19
+    "id": 24
   },
   {
     "title": "Show HN: Wick – censorship circumvention tech repurposed for AI web access",
@@ -178,7 +223,7 @@
     "date": "2026-04-02",
     "summary": "I helped build Lantern, a censorship circumvention tool that’s been downloaded over 150 million times globally, with most users in China, Russia, Iran, and the UAE. Before Lantern I was the lead engin...",
     "category": "tools",
-    "id": 20
+    "id": 25
   },
   {
     "title": "Show HN: Voice talk with AI, all in the browser, no backend",
@@ -187,7 +232,7 @@
     "date": "2026-04-02",
     "summary": "Article URL: https://talk-with-ai.surge.sh/ Comments URL: https://news.ycombinator.com/item?id=47617243 Points: 1 # Comments: 0",
     "category": "industry",
-    "id": 21
+    "id": 26
   },
   {
     "title": "Show HN: I tested 15 free AI models at building real software on a $25/year VPS",
@@ -196,7 +241,7 @@
     "date": "2026-04-02",
     "summary": "Article URL: https://georgelarson.me/writing/2026-04-03-25-dollar-ai-lab/ Comments URL: https://news.ycombinator.com/item?id=47617217 Points: 3 # Comments: 0",
     "category": "industry",
-    "id": 22
+    "id": 27
   },
   {
     "title": "MultiGen: AI multiplayer doom playable in real-time on your phone and computer",
@@ -205,7 +250,7 @@
     "date": "2026-04-02",
     "summary": "Article URL: https://play-multigen.com/ Comments URL: https://news.ycombinator.com/item?id=47616928 Points: 2 # Comments: 0",
     "category": "industry",
-    "id": 23
+    "id": 28
   },
   {
     "title": "Group Pushing Age Verification for AI Turns Out to Be Backed by OpenAI",
@@ -214,7 +259,7 @@
     "date": "2026-04-02",
     "summary": "Article URL: https://gizmodo.com/group-pushing-age-verification-requirements-for-ai-turns-out-to-be-sneakily-backed-by-openai-2000741069 Comments URL: https://news.ycombinator.com/item?id=47616665 Poi...",
     "category": "industry",
-    "id": 24
+    "id": 29
   },
   {
     "title": "WorkerMill – open-source AI coding team, multi-expert orchestration",
@@ -223,7 +268,7 @@
     "date": "2026-04-02",
     "summary": "Article URL: https://github.com/jarod-rosenthal/workermill Comments URL: https://news.ycombinator.com/item?id=47616600 Points: 2 # Comments: 1",
     "category": "industry",
-    "id": 25
+    "id": 30
   },
   {
     "title": "Rewrites.bio: 60x speedup in Genomics QC and AI rewrite principles for Science",
@@ -232,51 +277,6 @@
     "date": "2026-04-02",
     "summary": "Article URL: https://rewrites.bio/ Comments URL: https://news.ycombinator.com/item?id=47616595 Points: 11 # Comments: 2",
     "category": "industry",
-    "id": 26
-  },
-  {
-    "title": "Track changes in Markdown, for humans and AI",
-    "url": "https://changedown.com/content/posts/01-for-collaboration-a-file-format-is-all-you-need/",
-    "source": "Hacker News",
-    "date": "2026-04-02",
-    "summary": "Article URL: https://changedown.com/content/posts/01-for-collaboration-a-file-format-is-all-you-need/ Comments URL: https://news.ycombinator.com/item?id=47616592 Points: 5 # Comments: 1",
-    "category": "hardware",
-    "id": 27
-  },
-  {
-    "title": "Claude.ai Prompt Injection Vulnerability",
-    "url": "https://www.oasis.security/blog/claude-ai-prompt-injection-data-exfiltration-vulnerability",
-    "source": "Hacker News",
-    "date": "2026-04-02",
-    "summary": "Article URL: https://www.oasis.security/blog/claude-ai-prompt-injection-data-exfiltration-vulnerability Comments URL: https://news.ycombinator.com/item?id=47616556 Points: 2 # Comments: 0",
-    "category": "models",
-    "id": 28
-  },
-  {
-    "title": "Rio Receipt Protocol – Cryptographic Proof for AI Actions",
-    "url": "https://github.com/bkr1297-RIO/rio-receipt-protocol",
-    "source": "Hacker News",
-    "date": "2026-04-02",
-    "summary": "Article URL: https://github.com/bkr1297-RIO/rio-receipt-protocol Comments URL: https://news.ycombinator.com/item?id=47616549 Points: 3 # Comments: 1",
-    "category": "industry",
-    "id": 29
-  },
-  {
-    "title": "Casanova invents an LLM as a grift in the 18th century [pdf]",
-    "url": "https://pdfhost.io/v/ULkLYVxyWb_History_of_My_Life_--_Giacomo_Casanova",
-    "source": "Hacker News",
-    "date": "2026-04-02",
-    "summary": "Article URL: https://pdfhost.io/v/ULkLYVxyWb_History_of_My_Life_--_Giacomo_Casanova Comments URL: https://news.ycombinator.com/item?id=47616483 Points: 1 # Comments: 0",
-    "category": "models",
-    "id": 30
-  },
-  {
-    "title": "Show HN: New open source AI self driving testing",
-    "url": "https://github.com/autonoma-ai/autonoma",
-    "source": "Hacker News",
-    "date": "2026-04-02",
-    "summary": "Article URL: https://github.com/autonoma-ai/autonoma Comments URL: https://news.ycombinator.com/item?id=47616411 Points: 5 # Comments: 3",
-    "category": "tools",
     "id": 31
   },
   {
