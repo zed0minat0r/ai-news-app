@@ -464,3 +464,16 @@
 - 6-second rotation loop (`hero-border-spin` keyframe) for subtle, non-distracting motion
 - Removed `overflow: hidden` from hero card to allow the gradient border to extend 2px beyond card bounds
 - Addresses AUDIT.md feedback: "overall visual identity still lacks distinctive character" — the animated border gives the hero card a premium, eye-catching feel on mobile
+
+## v9 — 2026-04-01 (Pixel)
+
+### Mobile Audit at 375px — Alignment, Spacing, Contrast, Tap Targets
+- Trending chips: changed `text-align: left` to `text-align: center` on mobile (center alignment rule); restored left-align at 960px+ desktop breakpoint
+- Bumped 0.72rem font sizes to 0.75rem (12px) on `.pill-count`, `.card-tag`, `.chip-tag`, `.hero-label`, `.read-time` for better mobile readability
+- Removed `opacity: 0.8` from `.read-time` — muted color + reduced opacity failed WCAG contrast on dark bg
+- Removed `opacity: 0.7` from `.newsletter-privacy` — same contrast issue with muted text on dark bg
+- Added `min-width: 44px` to `.see-all-btn` and `.sort-toggle` to meet 44px minimum tap target
+- Added `justify-content: center` to `.see-all-btn` for consistent center alignment
+- All inputs already at `font-size: 1rem` (16px) — no iOS zoom issues
+- All primary buttons already have `min-height: 44px` tap targets
+- No horizontal overflow issues found at 375px — `overflow-x: hidden` on body, `box-sizing: border-box` on all elements

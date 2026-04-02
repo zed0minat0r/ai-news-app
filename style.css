@@ -249,7 +249,7 @@ a { color: inherit; text-decoration: none; }
   gap: 0.2rem;
 }
 
-.pill-count { font-size: 0.72rem; opacity: 1; color: var(--text-muted); }
+.pill-count { font-size: 0.75rem; opacity: 1; color: var(--text-muted); }
 
 .cat-pill:focus-visible { outline: 2px solid var(--accent); outline-offset: 2px; }
 
@@ -296,6 +296,11 @@ main {
   text-align: center;
   position: relative;
   box-shadow: 0 0 30px var(--accent-glow), 0 4px 20px rgba(0,0,0,0.4);
+  cursor: pointer;
+}
+
+.hero-card:active {
+  transform: scale(0.99);
 }
 
 /* Animated rotating gradient border layer */
@@ -327,6 +332,23 @@ main {
   z-index: -1;
 }
 
+.hero-image {
+  width: calc(100% + 2.5rem);
+  margin: -1.75rem -1.25rem 1rem;
+  border-radius: var(--radius) var(--radius) 0 0;
+  overflow: hidden;
+  aspect-ratio: 16 / 9;
+  position: relative;
+  z-index: 0;
+}
+
+.hero-image img {
+  display: block;
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+}
+
 .hero-icon {
   font-size: 2.5rem;
   margin-bottom: 0.5rem;
@@ -337,7 +359,7 @@ main {
   display: inline-block;
   background: #c93832;
   color: #fff;
-  font-size: 0.72rem;
+  font-size: 0.75rem;
   font-weight: 700;
   text-transform: uppercase;
   letter-spacing: 1.2px;
@@ -437,7 +459,7 @@ main {
   border-radius: 8px;
   padding: 0.6rem 0.75rem;
   min-height: 44px;
-  text-align: left;
+  text-align: center;
   position: relative;
   transition: border-color 0.2s;
 }
@@ -447,7 +469,7 @@ main {
 }
 
 .trending-chip .chip-tag {
-  font-size: 0.72rem;
+  font-size: 0.75rem;
   font-weight: 600;
   text-transform: uppercase;
   letter-spacing: 0.5px;
@@ -517,8 +539,10 @@ main {
   cursor: pointer;
   padding: 0.3rem 0;
   min-height: 44px;
+  min-width: 44px;
   display: flex;
   align-items: center;
+  justify-content: center;
 }
 
 /* ===== CARD GRID ===== */
@@ -544,6 +568,7 @@ main {
   text-align: center;
   transition: border-color 0.2s;
   box-shadow: 0 1px 2px rgba(0,0,0,0.25), 0 4px 12px rgba(0,0,0,0.15);
+  cursor: pointer;
 }
 
 .card:active {
@@ -600,7 +625,7 @@ main {
 
 .card-tag {
   display: inline-block;
-  font-size: 0.72rem;
+  font-size: 0.75rem;
   font-weight: 600;
   text-transform: uppercase;
   letter-spacing: 0.5px;
@@ -648,9 +673,8 @@ mark {
 
 .read-time {
   display: inline-block;
-  font-size: 0.72rem;
+  font-size: 0.75rem;
   color: var(--text-muted);
-  opacity: 0.8;
 }
 
 .card-footer {
@@ -741,6 +765,7 @@ mark {
   display: inline-flex;
   align-items: center;
   min-height: 44px;
+  min-width: 44px;
   padding: 0.3rem 0.8rem;
   border: 1px solid var(--border);
   border-radius: 18px;
@@ -965,7 +990,6 @@ mark {
   color: var(--text-muted);
   font-size: 0.75rem;
   margin-top: 0.75rem;
-  opacity: 0.7;
 }
 
 /* ===== FOOTER ===== */
@@ -1017,6 +1041,10 @@ footer {
   .hero-card {
     padding: 2.5rem 2rem 2rem;
   }
+  .hero-image {
+    width: calc(100% + 4rem);
+    margin: -2.5rem -2rem 1.25rem;
+  }
   .hero-card h2 { font-size: 1.7rem; }
   .hero-icon { font-size: 3rem; }
 
@@ -1031,7 +1059,7 @@ footer {
   .card[data-category="tools"]    { border-left: 3px solid var(--tag-tools); }
   .card[data-category="industry"] { border-left: 3px solid var(--tag-industry); }
 
-  .trending-chip { width: 200px; }
+  .trending-chip { width: 200px; text-align: left; }
 }
 
 /* ===== SCREEN READER ONLY ===== */
