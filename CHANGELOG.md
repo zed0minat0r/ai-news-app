@@ -195,3 +195,14 @@
 ### Notes
 - All changes mobile-first, center-aligned
 - No content changes — UI/UX only
+
+## [Spark — Card Depth & Thumbnail Polish] — 2026-04-01
+
+### Changed
+- **Layered card shadows:** Upgraded flat single-layer box-shadow to a three-layer shadow system (tight edge shadow + medium diffuse shadow + subtle border highlight). Cards now feel elevated and tangible on mobile.
+- **Thumbnail container refinement:** Added inset shadow and subtle border to `.card-thumb` elements so emoji gradient thumbnails look like proper image containers rather than flat colored boxes. A top-edge highlight via `::after` pseudo-element adds depth and glass-like polish.
+
+### Notes
+- CSS-only, no JS changes
+- Mobile-first, center-aligned
+- Addresses AUDIT.md feedback on making emoji thumbnails feel less synthetic
