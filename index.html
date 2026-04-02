@@ -17,7 +17,12 @@
       </div>
       <p class="tagline">Real-time AI news, models &amp; hardware</p>
       <div class="search-wrapper">
-        <input type="text" id="search-input" placeholder="Search articles..." aria-label="Search articles">
+        <div class="search-inner">
+          <span class="search-icon" aria-hidden="true">&#128269;</span>
+          <input type="text" id="search-input" placeholder="Search articles..." aria-label="Search articles">
+          <button id="search-clear" type="button" aria-label="Clear search">&times;</button>
+        </div>
+        <p id="result-count" aria-live="polite"></p>
       </div>
       <p class="last-updated" id="last-updated"></p>
     </div>
@@ -25,12 +30,12 @@
 
   <nav id="category-nav">
     <div class="nav-inner">
-      <button class="cat-pill active" data-category="all">All</button>
-      <button class="cat-pill" data-category="models">Models</button>
-      <button class="cat-pill" data-category="hardware">Hardware</button>
-      <button class="cat-pill" data-category="research">Research</button>
-      <button class="cat-pill" data-category="tools">Tools</button>
-      <button class="cat-pill" data-category="industry">Industry</button>
+      <button class="cat-pill active" data-category="all" aria-pressed="true">All</button>
+      <button class="cat-pill" data-category="models" aria-pressed="false">Models</button>
+      <button class="cat-pill" data-category="hardware" aria-pressed="false">Hardware</button>
+      <button class="cat-pill" data-category="research" aria-pressed="false">Research</button>
+      <button class="cat-pill" data-category="tools" aria-pressed="false">Tools</button>
+      <button class="cat-pill" data-category="industry" aria-pressed="false">Industry</button>
     </div>
   </nav>
 
@@ -53,7 +58,7 @@
       </div>
     </section>
 
-    <p id="no-results" class="hidden">No articles match your search.</p>
+    <p id="no-results" class="hidden" role="status">No articles match your search.</p>
   </main>
 
   <button id="back-to-top" class="back-to-top hidden" aria-label="Back to top">&uarr;</button>

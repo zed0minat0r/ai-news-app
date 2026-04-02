@@ -52,4 +52,19 @@
 - Featured label font-size bumped from 0.65rem to 0.7rem
 - Card meta font-size raised from 0.72rem to 0.75rem
 - Added overflow-x:hidden and overflow-wrap:break-word on body to prevent horizontal scroll at 375px
+
+## 2026-04-01 — v1.1.0 — Refiner: Visual & Accessibility Polish
+
+### Added
+- Category-themed gradient thumbnail images with emoji icons on every card (models, hardware, research, tools, industry)
+- Search clear button (x) to quickly reset search input
+- Live result count display below search bar (e.g. "5 results found")
+- `aria-pressed` attribute on all category pill buttons, toggled on selection
+- `role="status"` on no-results message for screen reader announcements
+- Visible focus indicators (`focus-visible`) on all interactive elements (buttons, links, inputs)
+- Search input icon (magnifying glass)
+
+### Fixed
+- Muted text color bumped from #8b949e to #9ca3af to pass WCAG AA contrast ratio on dark background
+- Search input now has proper padding for icon and clear button
 - Muted text color adjusted to #9ca3af for improved WCAG contrast ratio

@@ -284,6 +284,8 @@ const hardwareGrid    = document.getElementById("hardware-grid");
 const newsGrid        = document.getElementById("news-grid");
 const noResults       = document.getElementById("no-results");
 const searchInput     = document.getElementById("search-input");
+const searchClear     = document.getElementById("search-clear");
+const resultCount     = document.getElementById("result-count");
 const categoryBtns    = document.querySelectorAll(".cat-pill");
 const lastUpdatedEl   = document.getElementById("last-updated");
 const footerYear      = document.getElementById("footer-year");
@@ -322,9 +324,19 @@ function buildFeaturedCard(article) {
     </a>`;
 }
 
+const CATEGORY_ICONS = {
+  models: "\u{1F9E0}",
+  hardware: "\u{1F5A5}\uFE0F",
+  research: "\u{1F52C}",
+  tools: "\u{1F6E0}\uFE0F",
+  industry: "\u{1F4C8}"
+};
+
 function buildCard(article) {
+  const icon = CATEGORY_ICONS[article.category] || "\u{1F4F0}";
   return `
     <a href="${article.url}" target="_blank" rel="noopener" class="card" data-category="${article.category}">
+      <div class="card-thumb ${article.category}" aria-hidden="true">${icon}</div>
       <span class="card-tag ${article.category}">${article.category}</span>
       <h3>${article.title}</h3>
       <p class="summary">${article.summary}</p>
@@ -385,6 +397,14 @@ function render() {
   } else {
     noResults.classList.add("hidden");
   }
+
+  // Search UX: result count and clear button
+  searchClear.style.display = query ? "block" : "none";
+  if (query) {
+    resultCount.textContent = filtered.length + " result" + (filtered.length !== 1 ? "s" : "") + " found";
+  } else {
+    resultCount.textContent = "";
+  }
 }
 
 /* =========================================================
@@ -392,14 +412,24 @@ function render() {
    ========================================================= */
 categoryBtns.forEach(btn => {
   btn.addEventListener("click", () => {
-    categoryBtns.forEach(b => b.classList.remove("active"));
+    categoryBtns.forEach(b => {
+      b.classList.remove("active");
+      b.setAttribute("aria-pressed", "false");
+    });
     btn.classList.add("active");
+    btn.setAttribute("aria-pressed", "true");
     activeCategory = btn.dataset.category;
     render();
   });
 });
 
 searchInput.addEventListener("input", render);
+
+searchClear.addEventListener("click", () => {
+  searchInput.value = "";
+  searchInput.focus();
+  render();
+});
 
 /* =========================================================
    TIMESTAMP & INIT
