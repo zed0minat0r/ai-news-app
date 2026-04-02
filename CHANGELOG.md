@@ -23,3 +23,21 @@
 - Category-colored left accent bars on all news cards (models=purple, hardware=green, research=orange, tools=blue, industry=pink)
 - Subtle card depth shadow for a more polished, professional feel
 - Cards now carry data-category attribute for CSS-driven styling
+
+## 2026-04-01 — v1.2.0 — Fresh Stories + Back to Top
+
+### Added (Builder)
+- 8 new AI news articles (IDs 22-29) from real sources covering the last 24-48 hours:
+  - GPT-5.4 native computer-use launch (OpenAI)
+  - Claude Mythos 5 with 10T parameters (Anthropic)
+  - Gemini 3.1 Flash Live real-time voice (Google DeepMind)
+  - Huawei 950PR AI inference chip (Hardware)
+  - Together AI Aurora RL framework (Tools)
+  - Liquid AI LFM2.5-350M tiny agentic model (Models)
+  - Q1 2026 AI venture funding record $297B (Industry)
+  - Rebellions $400M raise for Korean AI chips (Hardware)
+- Floating "Back to Top" button (Scout recommendation: Section 4 - Infinite Scroll UX)
+  - Appears after scrolling 2+ screens
+  - Smooth-scrolls to top on tap
+  - 48x48px touch target per mobile-first guidelines
+  - Fade + slide animation on show/hide

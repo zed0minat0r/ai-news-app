@@ -200,6 +200,79 @@ const ARTICLES = [
     url: "https://blog.google/innovation-and-ai/technology/ai/google-ai-updates-march-2026/",
     date: "2026-03-21",
     category: "tools"
+  },
+  // ── NEW STORIES — 2026-04-01 ──
+  {
+    id: 22,
+    title: "GPT-5.4 Ships With Native Computer-Use — OpenAI's First Agentic General Model",
+    summary: "OpenAI's GPT-5.4 is the first general-purpose model with built-in computer-use capabilities, enabling agents to operate desktops and execute complex multi-app workflows autonomously.",
+    source: "OpenAI",
+    url: "https://releasebot.io/updates/openai",
+    date: "2026-04-01",
+    category: "models"
+  },
+  {
+    id: 23,
+    title: "Anthropic Unveils Claude Mythos 5 — 10 Trillion Parameters for Cybersecurity and Code",
+    summary: "Anthropic's largest model ever, Claude Mythos 5 with 10T parameters, targets advanced cybersecurity and coding tasks. Positioned above the Opus tier in a new 'Capybara' class.",
+    source: "Mean CEO",
+    url: "https://blog.mean.ceo/new-ai-model-releases-news-april-2026/",
+    date: "2026-04-01",
+    category: "models"
+  },
+  {
+    id: 24,
+    title: "Gemini 3.1 Flash Live Redefines Real-Time Voice Assistance",
+    summary: "Google DeepMind's Gemini 3.1 adds real-time voice and image analysis with natural conversational rhythm, making hands-free AI engagement seamless on mobile.",
+    source: "Google DeepMind",
+    url: "https://blog.mean.ceo/google-gemini-latest-model-news-april-2026/",
+    date: "2026-04-01",
+    category: "models"
+  },
+  {
+    id: 25,
+    title: "Huawei 950PR AI Chip Targets Inference — ByteDance and Alibaba Place Large Orders",
+    summary: "Huawei's new 950PR chip is designed to excel at inference workloads. Chinese tech giants ByteDance and Alibaba are reportedly among the first major buyers.",
+    source: "HumAI Blog",
+    url: "https://www.humai.blog/ai-news-trends-april-2026-complete-monthly-digest/",
+    date: "2026-03-31",
+    category: "hardware"
+  },
+  {
+    id: 26,
+    title: "Together AI Launches Aurora — Open-Source RL Framework for Self-Improving Speculative Decoding",
+    summary: "Aurora turns speculative decoding from a one-time offline setup into a continuously self-improving system using reinforcement learning. Fully open-source.",
+    source: "The Neuron",
+    url: "https://www.theneuron.ai/explainer-articles/around-the-horn-digest-everything-that-happened-in-ai-today-monday-march-31-2026/",
+    date: "2026-03-31",
+    category: "tools"
+  },
+  {
+    id: 27,
+    title: "Liquid AI's LFM2.5-350M: Tiny Model, Big Agentic Power on CPUs and Mobile",
+    summary: "Liquid AI's 350M-parameter model trained on 28T tokens with scaled RL delivers reliable agentic loops, data extraction, and tool use across CPUs, GPUs, and mobile devices.",
+    source: "Labla.org",
+    url: "https://www.labla.org/latest-ai-model-releases-past-24-hours/ai-releases-roundup-what-actually-launched-on-march-29-30-and-31-2026/",
+    date: "2026-03-30",
+    category: "models"
+  },
+  {
+    id: 28,
+    title: "Q1 2026 AI Venture Funding Hits $297B — An All-Time Record",
+    summary: "AI venture funding shattered records in Q1 2026, reaching $297 billion. OpenAI closed a $122B round at an $852B valuation while investors increasingly bet on Anthropic.",
+    source: "Crescendo AI",
+    url: "https://www.crescendo.ai/news/latest-ai-news-and-updates",
+    date: "2026-03-31",
+    category: "industry"
+  },
+  {
+    id: 29,
+    title: "Rebellions Raises $400M to Challenge NVIDIA With Korean AI Chips",
+    summary: "South Korean AI chip startup Rebellions secured $400 million in new funding as it scales production of custom silicon designed to compete with NVIDIA in inference workloads.",
+    source: "AI and News",
+    url: "https://www.aiandnews.com/blog/latest-ai-news-march-2026-6/",
+    date: "2026-03-31",
+    category: "hardware"
   }
 ];
 
@@ -214,6 +287,7 @@ const searchInput     = document.getElementById("search-input");
 const categoryBtns    = document.querySelectorAll(".cat-pill");
 const lastUpdatedEl   = document.getElementById("last-updated");
 const footerYear      = document.getElementById("footer-year");
+const backToTopBtn    = document.getElementById("back-to-top");
 
 let activeCategory = "all";
 
@@ -361,3 +435,20 @@ async function fetchLatestArticles() {
 
 // Refresh every 5 minutes (currently logs; swap in real fetch above)
 setInterval(fetchLatestArticles, 5 * 60 * 1000);
+
+/* =========================================================
+   BACK TO TOP BUTTON
+   Shows after scrolling 2+ screens; smooth-scrolls to top.
+   ========================================================= */
+window.addEventListener("scroll", () => {
+  const twoScreens = window.innerHeight * 2;
+  if (window.scrollY > twoScreens) {
+    backToTopBtn.classList.remove("hidden");
+  } else {
+    backToTopBtn.classList.add("hidden");
+  }
+});
+
+backToTopBtn.addEventListener("click", () => {
+  window.scrollTo({ top: 0, behavior: "smooth" });
+});
