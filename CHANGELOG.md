@@ -298,3 +298,22 @@
 - All three QA-reported issues addressed in this patch
 - Mobile-first, center-aligned layout preserved
 - No structural HTML changes — CSS-only fixes
+
+## 2026-04-01 — v3.1.3 — Mobile Polish: Center Alignment, Font Sizes & Accent Bars (Pixel)
+
+### Fixed
+- **Category accent bars centered on mobile:** Changed card accent from `border-left` to `border-top` on mobile for proper center-aligned layout (restored `border-left` on desktop 960px+ where text-align is left).
+- **Category section headers centered:** Changed `.cat-section-header` from `justify-content: space-between` to `justify-content: center` with gap and flex-wrap, matching the app's center alignment rule at 375px.
+- **Chip tag font-size bumped:** `.chip-tag` raised from 0.6rem (9.6px) to 0.65rem (10.4px) for readability on mobile.
+- **Trending chip meta font-size bumped:** Raised from 0.65rem to 0.7rem (11.2px) for better legibility.
+- **Card meta font-size bumped:** Raised from 0.72rem to 0.75rem (12px) for consistency.
+- **Read time font-size bumped:** Raised from 0.68rem (10.9px) to 0.72rem (11.5px).
+- **Pill count font-size bumped:** Raised from 0.7rem to 0.72rem.
+- **Result count font-size bumped:** Raised from 0.75rem to 0.78rem.
+- **Chip tag contrast improved:** Brightened text colors on all `.chip-tag` variants (models, hardware, research, tools, industry) and increased background opacity from 0.25 to 0.28 for better contrast ratios.
+
+### Notes
+- CSS-only changes, no HTML or JS modifications
+- Mobile-first, center-aligned layout preserved
+- All tap targets remain at 44px+ minimum
+- No horizontal overflow at 375px

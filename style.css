@@ -149,7 +149,7 @@ a { color: inherit; text-decoration: none; }
 #result-count {
   text-align: center;
   color: var(--text-muted);
-  font-size: 0.75rem;
+  font-size: 0.78rem;
   margin-top: 0.3rem;
   min-height: 1.1em;
 }
@@ -200,7 +200,7 @@ a { color: inherit; text-decoration: none; }
   gap: 0.2rem;
 }
 
-.pill-count { font-size: 0.7rem; opacity: 0.7; }
+.pill-count { font-size: 0.72rem; opacity: 0.7; }
 
 .cat-pill:focus-visible { outline: 2px solid var(--accent); outline-offset: 2px; }
 
@@ -368,7 +368,7 @@ main {
 }
 
 .trending-chip .chip-tag {
-  font-size: 0.6rem;
+  font-size: 0.65rem;
   font-weight: 600;
   text-transform: uppercase;
   letter-spacing: 0.5px;
@@ -378,11 +378,11 @@ main {
   margin-bottom: 0.3rem;
 }
 
-.chip-tag.models   { background: rgba(210,168,255,0.25); color: #e0c6ff; }
-.chip-tag.hardware { background: rgba(126,231,135,0.25); color: #a8f0b0; }
-.chip-tag.research { background: rgba(255,166,87,0.25);  color: #ffcb99; }
-.chip-tag.tools    { background: rgba(88,166,255,0.25);  color: #90c4ff; }
-.chip-tag.industry { background: rgba(247,120,186,0.25); color: #faa0cc; }
+.chip-tag.models   { background: rgba(210,168,255,0.28); color: #e8d4ff; }
+.chip-tag.hardware { background: rgba(126,231,135,0.28); color: #b8f5be; }
+.chip-tag.research { background: rgba(255,166,87,0.28);  color: #ffd6aa; }
+.chip-tag.tools    { background: rgba(88,166,255,0.28);  color: #a8d4ff; }
+.chip-tag.industry { background: rgba(247,120,186,0.28); color: #fbb8d8; }
 
 .trending-chip h4 {
   font-size: 0.78rem;
@@ -395,7 +395,7 @@ main {
 }
 
 .trending-chip .meta {
-  font-size: 0.65rem;
+  font-size: 0.7rem;
   color: var(--text-muted);
   margin-top: 0.2rem;
 }
@@ -408,7 +408,9 @@ main {
 .cat-section-header {
   display: flex;
   align-items: center;
-  justify-content: space-between;
+  justify-content: center;
+  gap: 0.75rem;
+  flex-wrap: wrap;
   margin-bottom: 0.75rem;
   padding-bottom: 0.5rem;
   border-bottom: 1px solid var(--border);
@@ -470,12 +472,12 @@ main {
   border-color: var(--accent);
 }
 
-/* Category accent bars */
-.card[data-category="models"]   { border-left: 3px solid var(--tag-models); }
-.card[data-category="hardware"] { border-left: 3px solid var(--tag-hardware); }
-.card[data-category="research"] { border-left: 3px solid var(--tag-research); }
-.card[data-category="tools"]    { border-left: 3px solid var(--tag-tools); }
-.card[data-category="industry"] { border-left: 3px solid var(--tag-industry); }
+/* Category accent bars — top border for center alignment on mobile */
+.card[data-category="models"]   { border-top: 3px solid var(--tag-models); }
+.card[data-category="hardware"] { border-top: 3px solid var(--tag-hardware); }
+.card[data-category="research"] { border-top: 3px solid var(--tag-research); }
+.card[data-category="tools"]    { border-top: 3px solid var(--tag-tools); }
+.card[data-category="industry"] { border-top: 3px solid var(--tag-industry); }
 
 .card-thumb {
   width: 100%;
@@ -543,12 +545,12 @@ main {
 
 .card .meta {
   color: var(--text-muted);
-  font-size: 0.72rem;
+  font-size: 0.75rem;
 }
 
 .read-time {
   display: inline-block;
-  font-size: 0.68rem;
+  font-size: 0.72rem;
   color: var(--text-muted);
   opacity: 0.8;
 }
@@ -763,6 +765,14 @@ footer {
 
   .card { text-align: left; }
   .card-footer { justify-content: flex-start; }
+
+  /* Restore left accent bar on desktop */
+  .card[data-category] { border-top: none; }
+  .card[data-category="models"]   { border-left: 3px solid var(--tag-models); }
+  .card[data-category="hardware"] { border-left: 3px solid var(--tag-hardware); }
+  .card[data-category="research"] { border-left: 3px solid var(--tag-research); }
+  .card[data-category="tools"]    { border-left: 3px solid var(--tag-tools); }
+  .card[data-category="industry"] { border-left: 3px solid var(--tag-industry); }
 
   .trending-chip { width: 200px; }
 }
