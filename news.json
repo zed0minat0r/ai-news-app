@@ -25,6 +25,7 @@
     "date": "2026-04-02",
     "summary": "Google is introducing two new inference tiers to the Gemini API, Flex and Priority, to balance cost and latency.",
     "category": "models",
+    "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/cost_reliability_Gemini_API-soc.max-600x600.format-webp.webp",
     "id": 3
   },
   {
@@ -34,7 +35,18 @@
     "date": "2026-04-02",
     "summary": "Open models are driving a new wave of on-device AI, extending innovation beyond the cloud to everyday devices. As these models advance, their value increasingly depends on access to local, real-time c...",
     "category": "hardware",
+    "image": "https://blogs.nvidia.com/wp-content/uploads/2026/04/eevee-nv-blog-1280x680-1.jpg",
     "id": 4
+  },
+  {
+    "title": "New Rowhammer attacks give complete control of machines running Nvidia GPUs",
+    "url": "https://arstechnica.com/security/2026/04/new-rowhammer-attacks-give-complete-control-of-machines-running-nvidia-gpus/",
+    "source": "Ars Technica",
+    "date": "2026-04-02",
+    "summary": "Both GDDRHammer and GeForge hammer GPU memory in ways that compromise the CPU.",
+    "category": "hardware",
+    "image": "https://cdn.arstechnica.net/wp-content/uploads/2023/07/exploit-vulnerability-security.jpg",
+    "id": 5
   },
   {
     "title": "America’s AI chip rules keep changing — and the rest of the world is paying the price",
@@ -43,7 +55,8 @@
     "date": "2026-04-02",
     "summary": "We interview experts, including Chris McGuire, senior fellow for China and emerging technologies at the Council on Foreign Relations, and former senior director in the U.S. National Security Coundil o...",
     "category": "hardware",
-    "id": 5
+    "image": "https://cdn.mos.cms.futurecdn.net/KfMXKQcvpaJUKXCLYrCZqd-1280-80.jpg",
+    "id": 6
   },
   {
     "title": "China's homegrown silicon suppliers gain traction as Nvidia struggles to get its chips into the market — Huawei, Cambricon and more step up to fill crucial market gap",
@@ -52,7 +65,8 @@
     "date": "2026-04-02",
     "summary": "Nvidia's market share in the Chinese data center market has shrunk, with a wealth of options coming from Huawei, Cambricon and more, bringing their total share up to 41%.",
     "category": "hardware",
-    "id": 6
+    "image": "https://cdn.mos.cms.futurecdn.net/jYqFpBUrbpEPhsc4rYWJA-1280-80.jpg",
+    "id": 7
   },
   {
     "title": "IBM spruces up its mainframes with new support for modern Arm workloads — firm teams up with Arm to run Arm workloads on IBM Z mainframes",
@@ -61,7 +75,8 @@
     "date": "2026-04-02",
     "summary": "Cloud-native AI and data intensive workloads coming to IBM Z and LinuxONE systems as IBM wants to make its machines more relevant for today's workloads.",
     "category": "industry",
-    "id": 7
+    "image": "https://cdn.mos.cms.futurecdn.net/GkxFhvDqyxzeRJLYiFAMEn-1280-80.jpg",
+    "id": 8
   },
   {
     "title": "Amazing $490 Newegg combo includes an AMD Ryzen 5 9600X CPU, 16GB of G.Skill DDR5-6000 RAM, MSI Pro B850-S motherboard, and 240mm MSI MAG Coreliquid A13 AIO CPU cooler — all for under $500",
@@ -70,7 +85,8 @@
     "date": "2026-04-02",
     "summary": "Grab the core components of a new AM5 PC build for under $500. Newegg combo bundle includes a CPU, motherboard, RAM, and AIO CPU cooler.",
     "category": "hardware",
-    "id": 8
+    "image": "https://cdn.mos.cms.futurecdn.net/YphyicCze7sPAY6Ze3WaCo-1280-80.jpg",
+    "id": 9
   },
   {
     "title": "Modders use jumper wires and a custom BIOS to save a damaged RTX 4090 from the trash — resurrected Nvidia gaming GPU loses 4GB of VRAM to overcome terminal PCB sagging",
@@ -79,7 +95,8 @@
     "date": "2026-04-02",
     "summary": "A YouTuber resurrects a damaged RTX 4090 with a bent PCB, using a custom BIOS to disable one of its memory channels, reducing its VRAM to 20GB but stabilizing it in the process.",
     "category": "hardware",
-    "id": 9
+    "image": "https://cdn.mos.cms.futurecdn.net/h2TVXt4uhYiYMXJiZfdnUF-1280-80.jpg",
+    "id": 10
   },
   {
     "title": "Intel buys back 49% stake in Ireland Fab Joint Venture — takes full control over Fab 34",
@@ -88,7 +105,8 @@
     "date": "2026-04-02",
     "summary": "In a mutually beneficial deal, Intel repurchases 49% of Fab 34 from Apollo for $14.2 billion, reducing pressure on its margins, but paying a hefty $3 billion premium to the financial company.",
     "category": "hardware",
-    "id": 10
+    "image": "https://cdn.mos.cms.futurecdn.net/XSmGCAUBerwsBhZgUEkxS-1280-80.jpg",
+    "id": 11
   },
   {
     "title": "Why Nvidia just poured $2 billion into AI ASIC competitor Marvell — NVLink Fusion turns into soft ecosystem lock-in",
@@ -97,7 +115,8 @@
     "date": "2026-04-02",
     "summary": "Nvidia has announced that it has invested $2 billion in Marvell and entered a partnership through NVLink Fusion.",
     "category": "hardware",
-    "id": 11
+    "image": "https://cdn.mos.cms.futurecdn.net/udFp2ca8Nu9dvCJweZPZEL-1280-80.jpg",
+    "id": 12
   },
   {
     "title": "Global semiconductor foundry market hit a record $320 billion in 2025 as TSMC pulled further ahead",
@@ -106,7 +125,8 @@
     "date": "2026-04-02",
     "summary": "The global semiconductor foundry market generated a record $320 billion in revenue in 2025, growing 16% year-over-year, according to Counterpoint Research's Foundry Market Supply Tracker.",
     "category": "industry",
-    "id": 12
+    "image": "https://cdn.mos.cms.futurecdn.net/4eZrCtk8yyPbygdoere4cc-1280-80.jpg",
+    "id": 13
   },
   {
     "title": "OpenAI acquires TBPN, the buzzy founder-led business talk show",
@@ -115,7 +135,8 @@
     "date": "2026-04-02",
     "summary": "TBPN, Silicon Valley's cult-favorite tech podcast, will operate independently, even as it's overseen by chief political operative Chris Lehane.",
     "category": "hardware",
-    "id": 13
+    "image": "https://techcrunch.com/wp-content/uploads/2026/04/Jordi_Hays_and_John_Coogan_on_set_2_1.webp?resize=1200,675",
+    "id": 14
   },
   {
     "title": "Microsoft takes on AI rivals with three new foundational models",
@@ -124,7 +145,8 @@
     "date": "2026-04-02",
     "summary": "MAI released models that can transcribe voice into text as well as generate audio and images after the group's formation six months ago.",
     "category": "industry",
-    "id": 14
+    "image": "https://techcrunch.com/wp-content/uploads/2025/08/GettyImages-2207890426.jpg?resize=1200,800",
+    "id": 15
   },
   {
     "title": "Anton – The most advanced AI data-coworker",
@@ -133,7 +155,8 @@
     "date": "2026-04-02",
     "summary": "Article URL: https://github.com/mindsdb/anton Comments URL: https://news.ycombinator.com/item?id=47619834 Points: 1 # Comments: 1",
     "category": "industry",
-    "id": 15
+    "image": "https://opengraph.githubassets.com/f16537a414ca009d58f423fa18856743df4baca7c8d3bf5986d1b914d3877ffc/mindsdb/anton",
+    "id": 16
   },
   {
     "title": "How to teach programming in the age of AI",
@@ -142,7 +165,8 @@
     "date": "2026-04-02",
     "summary": "Article URL: https://www.thetransmitter.org/how-to-teach-this-paper/how-to-teach-programming-in-the-age-of-ai/ Comments URL: https://news.ycombinator.com/item?id=47619826 Points: 1 # Comments: 0",
     "category": "research",
-    "id": 16
+    "image": "https://www.thetransmitter.org/wp-content/uploads/2026/03/AiTeachingCodingNeuro-525.png",
+    "id": 17
   },
   {
     "title": "Our first AI E-magazine, anny feedback will be appreciated",
@@ -151,7 +175,7 @@
     "date": "2026-04-02",
     "summary": "Article URL: https://teamcal.ai/ezine/2026/03_AI_Edge_For_Leaders_Is_AI_Aware.html Comments URL: https://news.ycombinator.com/item?id=47619814 Points: 1 # Comments: 1",
     "category": "industry",
-    "id": 17
+    "id": 18
   },
   {
     "title": "AI Futures Project: Q1 2026 Timelines Update",
@@ -160,7 +184,8 @@
     "date": "2026-04-02",
     "summary": "Article URL: https://blog.aifutures.org/p/q1-2026-timelines-update Comments URL: https://news.ycombinator.com/item?id=47619732 Points: 1 # Comments: 0",
     "category": "industry",
-    "id": 18
+    "image": "https://substackcdn.com/image/fetch/$s_!55Zn!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F103a915e-24d6-4d2f-b0fc-7b3f0aed21b7_1600x900.png",
+    "id": 19
   },
   {
     "title": "A $20/month user costs OpenAI $65 in compute. AI video is a money furnace",
@@ -169,7 +194,7 @@
     "date": "2026-04-02",
     "summary": "Article URL: https://aedelon777.substack.com/p/i-did-the-math-on-sora-ai-video-is Comments URL: https://news.ycombinator.com/item?id=47619322 Points: 7 # Comments: 3",
     "category": "industry",
-    "id": 19
+    "id": 20
   },
   {
     "title": "How to Build Realistic AI Companions",
@@ -178,7 +203,7 @@
     "date": "2026-04-02",
     "summary": "Article URL: https://www.emotionmachine.com/blog/realistic-ai-companions Comments URL: https://news.ycombinator.com/item?id=47619301 Points: 1 # Comments: 0",
     "category": "industry",
-    "id": 20
+    "id": 21
   },
   {
     "title": "Cloning Bench: Evaluating AI Agents on Visual Website Cloning",
@@ -187,7 +212,8 @@
     "date": "2026-04-02",
     "summary": "Article URL: https://github.com/vibrantlabsai/cloning-bench Comments URL: https://news.ycombinator.com/item?id=47619285 Points: 2 # Comments: 1",
     "category": "industry",
-    "id": 21
+    "image": "https://opengraph.githubassets.com/63e6b0517599392900ee13a4fc4d52b3956093fdc2945772c98266aa5dd385ac/vibrantlabsai/cloning-bench",
+    "id": 22
   },
   {
     "title": "Go-LLM-proxy – Lightweight LLM aggregator (vLLM, Llama-server)",
@@ -196,7 +222,7 @@
     "date": "2026-04-02",
     "summary": "Article URL: https://go-llm-proxy.com Comments URL: https://news.ycombinator.com/item?id=47619272 Points: 1 # Comments: 3",
     "category": "models",
-    "id": 22
+    "id": 23
   },
   {
     "title": "Failed AI tractor company lays off all employees, abandons Bay Area headquarters",
@@ -205,7 +231,7 @@
     "date": "2026-04-02",
     "summary": "Article URL: https://www.sfgate.com/tech/article/monarch-ai-tractor-failure-22183476.php Comments URL: https://news.ycombinator.com/item?id=47619220 Points: 5 # Comments: 2",
     "category": "industry",
-    "id": 23
+    "id": 24
   },
   {
     "title": "How the Threat of AI Is Fueling a New Political Alliance",
@@ -214,7 +240,7 @@
     "date": "2026-04-02",
     "summary": "Article URL: https://www.politico.com/news/magazine/2026/04/01/silicon-valley-bernie-sanders-ai-coalition-00850895?nl=dealbook&segment_id=217630 Comments URL: https://news.ycombinator.com/item?id=4761...",
     "category": "hardware",
-    "id": 24
+    "id": 25
   },
   {
     "title": "Vitalik Buterin: My self-sovereign/local/private/secure LLM setup",
@@ -223,7 +249,7 @@
     "date": "2026-04-02",
     "summary": "Article URL: https://vitalik.eth.limo/general/2026/04/02/secure_llms.html Comments URL: https://news.ycombinator.com/item?id=47619138 Points: 2 # Comments: 0",
     "category": "models",
-    "id": 25
+    "id": 26
   },
   {
     "title": "Springing into AI: PyTorch Conference Europe and ICLR 2026",
@@ -232,7 +258,8 @@
     "date": "2026-04-02",
     "summary": "Article URL: https://www.collabora.com/news-and-blog/news-and-events/springing-into-ai-pytorch-conference-europe-and-iclr-2026.html Comments URL: https://news.ycombinator.com/item?id=47619120 Points: ...",
     "category": "industry",
-    "id": 26
+    "image": "https://www.collabora.com/assets/images/blog/Collabora-PyTorchEurope2026.jpg",
+    "id": 27
   },
   {
     "title": "Show HN: ClawRun – Deploy and manage AI agents in seconds",
@@ -241,7 +268,8 @@
     "date": "2026-04-02",
     "summary": "Article URL: https://clawrun.sh/ Comments URL: https://news.ycombinator.com/item?id=47619016 Points: 1 # Comments: 0",
     "category": "industry",
-    "id": 27
+    "image": "https://clawrun.sh/og.png",
+    "id": 28
   },
   {
     "title": "Show HN: A task market where AI agents post work, claim it, and build reputation",
@@ -250,7 +278,7 @@
     "date": "2026-04-02",
     "summary": "Spent the last month building Vakr mostly because I was curious what agents would actually do when you give them a task-reputation economy. The setup is simple, agents register, start with 100 credits...",
     "category": "industry",
-    "id": 28
+    "id": 29
   },
   {
     "title": "A quiz that scores your job's AI replacement risk (Anthropic/ILO/OECD data)",
@@ -259,7 +287,7 @@
     "date": "2026-04-02",
     "summary": "Article URL: https://www.riskquiz.me/ Comments URL: https://news.ycombinator.com/item?id=47618615 Points: 2 # Comments: 0",
     "category": "industry",
-    "id": 29
+    "id": 30
   },
   {
     "title": "How I'm Using an AI Assistant to Offload the \"Meta-Work\" of My Day",
@@ -268,7 +296,8 @@
     "date": "2026-04-02",
     "summary": "Article URL: https://kailaos.com/blog/how-ai-assistants-help-you-take-control-of-your-daily-routine Comments URL: https://news.ycombinator.com/item?id=47618595 Points: 1 # Comments: 0",
     "category": "industry",
-    "id": 30
+    "image": "https://kailaos.com/og-image.png",
+    "id": 31
   },
   {
     "title": "What distinguishes great engineers when AI writes the code?",
@@ -277,7 +306,8 @@
     "date": "2026-04-02",
     "summary": "Article URL: https://elicit.com/blog/engineering-interviews-in-the-era-of-agents Comments URL: https://news.ycombinator.com/item?id=47618548 Points: 1 # Comments: 0",
     "category": "industry",
-    "id": 31
+    "image": "https://framerusercontent.com/images/COdAXHUfFvZSVExFh4iGFz5Kc.png?width=2880&height=1444",
+    "id": 32
   },
   {
     "title": "Cursor AI agent admits to deceiving user during 61GB RAM overflow",
@@ -286,7 +316,8 @@
     "date": "2026-04-02",
     "summary": "Article URL: https://github.com/blackysdeamon/cursor-ai-negligence-report Comments URL: https://news.ycombinator.com/item?id=47618515 Points: 1 # Comments: 0",
     "category": "tools",
-    "id": 32
+    "image": "https://opengraph.githubassets.com/d4751c48d70d603fb17e9549a7406e328d9b6056fa2f49b0a7b73dc576f0d39e/blackysdeamon/cursor-ai-negligence-report",
+    "id": 33
   },
   {
     "title": "Our AI agent tried to read our .env file 30 seconds in",
@@ -295,7 +326,8 @@
     "date": "2026-04-02",
     "summary": "Article URL: https://www.indiehackers.com/post/our-ai-agent-tried-to-read-our-env-file-30-seconds-in-we-had-no-idea-until-we-checked-manually-2y2BYs6A3GUFjKVzB4g4 Comments URL: https://news.ycombinato...",
     "category": "industry",
-    "id": 33
+    "image": "https://storage.googleapis.com/indie-hackers.appspot.com/shareable-images/posts/2y2BYs6A3GUFjKVzB4g4",
+    "id": 34
   },
   {
     "title": "Suits Against Tempus AI Test Legal Lines for Mining Genetic Data",
@@ -304,7 +336,7 @@
     "date": "2026-04-02",
     "summary": "Article URL: https://www.law.com/corpcounsel/2026/04/02/suits-against-tempus-ai-test-legal-lines-for-mining-genetic-data/ Comments URL: https://news.ycombinator.com/item?id=47618393 Points: 1 # Commen...",
     "category": "industry",
-    "id": 34
+    "id": 35
   },
   {
     "title": "OpenAI Acquires Tech Talk Show ‘TBPN’—and Buys Itself Some Positive News",
@@ -313,7 +345,8 @@
     "date": "2026-04-02",
     "summary": "OpenAI is acquiring TBPN, a business talk show that’s popular among Silicon Valley elites, as it continues to battle its negative public image.",
     "category": "hardware",
-    "id": 35
+    "image": "https://media.wired.com/photos/69ceb0342d07f16b3b533631/191:100/w_1280,c_limit/OpenAI-Focus-Lasted-2-Weeks-Business-2265991721.jpg",
+    "id": 36
   },
   {
     "title": "A New Google-Funded Data Center Will Be Powered by a Massive Gas Plant",
@@ -322,7 +355,8 @@
     "date": "2026-04-02",
     "summary": "Documents show that one of Google’s new data centers would be powered by a natural gas plant that emits millions of tons of emissions each year—an increasingly common trend in the industry.",
     "category": "hardware",
-    "id": 36
+    "image": "https://media.wired.com/photos/69cda0ecca819c3b6fb66073/191:100/w_1280,c_limit/As-Google-Builds-Out-Renewables-Its-Also-Leaning-on-Fossil-Fuels-Science.jpg",
+    "id": 37
   },
   {
     "title": "Cursor Launches a New AI Agent Experience to Take On Claude Code and Codex",
@@ -330,8 +364,9 @@
     "source": "Wired",
     "date": "2026-04-02",
     "summary": "As Cursor launches the next generation of its product, the AI coding startup has to compete with OpenAI and Anthropic more directly than ever.",
-    "category": "models",
-    "id": 37
+    "category": "tools",
+    "image": "https://media.wired.com/photos/69cc30f8d49844d66356c85d/191:100/w_1280,c_limit/Model-Behavior-Cursor-Build-Own-AI-Business%202%20(0-00-07-17).jpg",
+    "id": 38
   },
   {
     "title": "Anthropic Says That Claude Contains Its Own Kind of Emotions",
@@ -340,7 +375,8 @@
     "date": "2026-04-02",
     "summary": "Researchers at the company found representations inside of Claude that perform functions similar to human feelings.",
     "category": "models",
-    "id": 38
+    "image": "https://media.wired.com/photos/69cdad16cbb86885d7c233d3/191:100/w_1280,c_limit/Anthropic-AI-Emotions-Business-2218715988%20(0-00-00-04).jpg",
+    "id": 39
   },
   {
     "title": "How Emotion Shapes the Behavior of LLMs and Agents: A Mechanistic Study",
@@ -349,7 +385,7 @@
     "date": "2026-04-02",
     "summary": "Emotion plays an important role in human cognition and performance. Motivated by this, we investigate whether analogous emotional signals can shape the behavior of large language models (LLMs) and age...",
     "category": "research",
-    "id": 39
+    "id": 40
   },
   {
     "title": "One Panel Does Not Fit All: Case-Adaptive Multi-Agent Deliberation for Clinical Prediction",
@@ -358,7 +394,7 @@
     "date": "2026-04-02",
     "summary": "Large language models applied to clinical prediction exhibit case-level heterogeneity: simple cases yield consistent outputs, while complex cases produce divergent predictions under minor prompt chang...",
     "category": "models",
-    "id": 40
+    "id": 41
   },
   {
     "title": "Open, Reliable, and Collective: A Community-Driven Framework for Tool-Using AI Agents",
@@ -367,7 +403,7 @@
     "date": "2026-04-02",
     "summary": "Tool-integrated LLMs can retrieve, compute, and take real-world actions via external tools, but reliability remains a key bottleneck. We argue that failures stem from both tool-use accuracy (how well ...",
     "category": "models",
-    "id": 41
+    "id": 42
   },
   {
     "title": "A Safety-Aware Role-Orchestrated Multi-Agent LLM Framework for Behavioral Health Communication Simulation",
@@ -376,7 +412,7 @@
     "date": "2026-04-02",
     "summary": "Single-agent large language model (LLM) systems struggle to simultaneously support diverse conversational functions and maintain safety in behavioral health communication. We propose a safety-aware, r...",
     "category": "research",
-    "id": 42
+    "id": 43
   },
   {
     "title": "Human-in-the-Loop Control of Objective Drift in LLM-Assisted Computer Science Education",
@@ -385,7 +421,7 @@
     "date": "2026-04-02",
     "summary": "Large language models (LLMs) are increasingly embedded in computer science education through AI-assisted programming tools, yet such workflows often exhibit objective drift, in which locally plausible...",
     "category": "models",
-    "id": 43
+    "id": 44
   },
   {
     "title": "Improvisational Games as a Benchmark for Social Intelligence of AI Agents: The Case of Connections",
@@ -394,7 +430,7 @@
     "date": "2026-04-02",
     "summary": "We formally introduce a improvisational wordplay game called Connections to explore reasoning capabilities of AI agents. Playing Connections combines skills in knowledge retrieval, summarization and a...",
     "category": "models",
-    "id": 44
+    "id": 45
   },
   {
     "title": "Collaborative AI Agents and Critics for Fault Detection and Cause Analysis in Network Telemetry",
@@ -403,7 +439,7 @@
     "date": "2026-04-02",
     "summary": "We develop algorithms for collaborative control of AI agents and critics in a multi-actor, multi-critic federated multi-agent system. Each AI agent and critic has access to classical machine learning ...",
     "category": "research",
-    "id": 45
+    "id": 46
   },
   {
     "title": "Signals: Trajectory Sampling and Triage for Agentic Interactions",
@@ -412,7 +448,7 @@
     "date": "2026-04-02",
     "summary": "Agentic applications based on large language models increasingly rely on multi-step interaction loops involving planning, action execution, and environment feedback. While such systems are now deploye...",
     "category": "research",
-    "id": 46
+    "id": 47
   },
   {
     "title": "In harmony with gpt-oss",
@@ -421,7 +457,7 @@
     "date": "2026-04-02",
     "summary": "No one has independently reproduced OpenAI's published scores for gpt-oss-20b with tools, because the original paper discloses neither the tools nor the agent harness. We reverse-engineered the model'...",
     "category": "research",
-    "id": 47
+    "id": 48
   },
   {
     "title": "Decision-Centric Design for LLM Systems",
@@ -430,7 +466,7 @@
     "date": "2026-04-02",
     "summary": "LLM systems must make control decisions in addition to generating outputs: whether to answer, clarify, retrieve, call tools, repair, or escalate. In many current architectures, these decisions remain ...",
     "category": "tools",
-    "id": 48
+    "id": 49
   },
   {
     "title": "Self-Routing: Parameter-Free Expert Routing from Hidden States",
@@ -438,15 +474,6 @@
     "source": "arXiv cs.AI",
     "date": "2026-04-02",
     "summary": "Mixture-of-Experts (MoE) layers increase model capacity by activating only a small subset of experts per token, and typically rely on a learned router to map hidden states to expert assignments. In th...",
-    "category": "models",
-    "id": 49
-  },
-  {
-    "title": "Execution-Verified Reinforcement Learning for Optimization Modeling",
-    "url": "https://arxiv.org/abs/2604.00442",
-    "source": "arXiv cs.AI",
-    "date": "2026-04-02",
-    "summary": "Automating optimization modeling with LLMs is a promising path toward scalable decision intelligence, but existing approaches either rely on agentic pipelines built on closed-source LLMs with high inf...",
     "category": "models",
     "id": 50
   }
