@@ -379,3 +379,20 @@
 - All tap targets remain at 44px+ minimum
 - Dashboard converts from tabs (mobile) to sidebar (desktop) at 768px
 - Uses existing design tokens (--accent, --surface, --border, etc.)
+
+## 2026-04-01 — v3.6.0 — Dead CSS Cleanup (Razor)
+
+### Removed (515 lines net)
+- **style.css (515 lines):** Removed all dead CSS selectors that matched zero HTML elements and zero JS-generated markup:
+  - `.profile-pill`, `.profile-avatar`, `.profile-name`, `.header-actions` (profile pill UI never built in HTML/JS)
+  - `.login-overlay`, `.login-modal`, `.login-google-btn`, `.login-divider`, `.login-field`, `.login-submit`, `.login-footer-text` and all sub-selectors (login modal never built in HTML/JS)
+  - `.bookmark-btn`, `.bk-outline`, `.bk-filled` and all state variants (bookmark buttons never built in HTML/JS)
+  - `.dashboard-overlay`, `.dashboard-header`, `.dashboard-tabs`, `.dashboard-tab`, `.dashboard-panel`, `.dashboard-panel-empty`, `.settings-group`, `.settings-label`, `.settings-row`, `.toggle-switch`, `.toggle-track` and all sub-selectors (dashboard UI never built in HTML/JS)
+  - `@media (min-width: 768px)` dashboard sidebar layout block (dead — targets removed dashboard classes)
+  - Duplicate `.cat-card-grid { grid-template-columns: repeat(3, 1fr) }` in 960px media query (already set identically at 640px)
+
+### Notes
+- No JS changes — all functions are actively called, no dead code found
+- No HTML changes needed
+- Did NOT touch `scripts/fetch_news.py`, `.github/workflows/`, `FIREBASE-SETUP.md`, or `news.json`
+- style.css reduced from 1706 to 1191 lines (30% smaller)
