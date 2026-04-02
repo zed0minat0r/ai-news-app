@@ -1,5 +1,16 @@
 # Changelog
 
+## 2026-04-02 — v2.1.0 — Fresh News + Accessibility (Builder)
+
+### Added
+- 7 new articles (IDs 51-57): FDA AI medical devices, US tech layoffs + AI adoption, Uber/WeRide robotaxis in Dubai, Sakana AI Scientist passes peer review, Qualys Agent Val security agent, AI startups capture 40% of VC, Google contrail reduction
+- Skip-to-content link for keyboard/screen-reader accessibility (audit fix)
+
+### Changed
+- Updated featured article to FDA AI breakthrough story
+- Microsoft MAI models article moved from featured to regular story
+- Total article count now 51+
+
 ## 2026-04-01 — v2.0.0 — Auto-Updating RSS Pipeline (Builder)
 
 ### Added

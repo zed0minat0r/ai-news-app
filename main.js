@@ -9,14 +9,78 @@ let ARTICLES = [];
 const FALLBACK_ARTICLES = [
   // ── FEATURED / BREAKING — 2026-04-02 ──
   {
+    id: 57,
+    title: "FDA Redefines 'Breakthrough' AI Medical Devices — Multi-Problem Clinical AI Gets Priority",
+    summary: "The FDA is shifting its stance on AI medical devices, granting 'breakthrough' status to systems that tackle multiple clinical problems at once rather than single-task detectors, signaling a new era for AI in healthcare.",
+    source: "STAT News",
+    url: "https://www.statnews.com/2026/04/02/how-fda-stance-breakthrough-ai-medical-device-evolving/",
+    date: "2026-04-02",
+    category: "research",
+    featured: true
+  },
+  // ── NEW STORIES — 2026-04-02 (Builder batch) ──
+  {
+    id: 56,
+    title: "US Tech Layoffs Top 52,000 in 2026 as AI Adoption Drives Leaner Staffing",
+    summary: "Technology employers announced 18,720 job cuts in March alone — up 24% year-over-year — bringing the 2026 total past 52,000 as companies reinvest headcount savings into AI infrastructure.",
+    source: "Bloomberg",
+    url: "https://www.bloomberg.com/news/articles/2026-04-02/us-job-cut-announcements-in-tech-keep-rising-with-ai-adoption",
+    date: "2026-04-02",
+    category: "industry"
+  },
+  {
+    id: 55,
+    title: "Uber & WeRide Launch Fully Driverless Robotaxis in Dubai — No Safety Operators",
+    summary: "Uber and Chinese autonomous-driving firm WeRide begin operating robotaxis in Dubai with zero human safety operators on board, marking one of the largest commercial driverless deployments outside the US and China.",
+    source: "Coaio",
+    url: "https://coaio.com/news/2026/04/breaking-tech-news-on-april-1-2026-ai-surge-cyber-threats-and-startup-2l4c/",
+    date: "2026-04-02",
+    category: "tools"
+  },
+  {
+    id: 54,
+    title: "Sakana AI's 'The AI Scientist' Passes Peer Review at Top ML Conference",
+    summary: "Sakana AI's autonomous research system — which generates hypotheses, runs experiments, writes papers, and self-reviews — successfully passed peer review at a prestigious machine learning conference, a first for fully AI-authored research.",
+    source: "AI Agent Store",
+    url: "https://aiagentstore.ai/ai-agent-news/this-week",
+    date: "2026-04-02",
+    category: "research"
+  },
+  {
+    id: 53,
+    title: "Qualys Ships 'Agent Val' — An AI Agent That Finds and Fixes Security Vulnerabilities Autonomously",
+    summary: "Enterprise security firm Qualys launches Agent Val, an AI agent that automatically scans systems for vulnerable code and patches gaps without waiting for human approval, targeting zero-day response times.",
+    source: "Crescendo AI",
+    url: "https://www.crescendo.ai/news/latest-ai-news-and-updates",
+    date: "2026-04-02",
+    category: "tools"
+  },
+  {
+    id: 52,
+    title: "AI Startups Capture 40% of All VC Funding in Q1 2026 as Seed Rounds Reach $10M",
+    summary: "Venture capital pours into AI at record rates: AI startups captured 40% of total VC investments in Q1 2026, with seed rounds now routinely hitting $10M at $40-45M post-money valuations.",
+    source: "Startup Trends",
+    url: "https://blog.mean.ceo/startup-trends-news-april-2026/",
+    date: "2026-04-02",
+    category: "industry"
+  },
+  {
+    id: 51,
+    title: "Google Uses AI to Cut Aviation Contrails by 54% — Biggest Climate Win Yet for ML",
+    summary: "Google DeepMind's contrail-reduction system, now deployed across 20+ airlines, has cut warming contrails by 54% on equipped flights — the single largest demonstrated climate benefit from a machine-learning system.",
+    source: "Google Cloud Blog",
+    url: "https://cloud.google.com/blog/products/compute/google-cloud-ai-infrastructure-at-nvidia-gtc-2026",
+    date: "2026-04-02",
+    category: "research"
+  },
+  {
     id: 50,
     title: "Microsoft Launches 3 In-House AI Models — MAI-Transcribe-1, MAI-Voice-1 & MAI-Image-2",
     summary: "Microsoft's superintelligence team ships three foundational models built entirely in-house: MAI-Transcribe-1 (speech-to-text in 25 languages at 2.5x Azure speed), MAI-Voice-1 (60s of natural audio in 1 second), and MAI-Image-2 (top-3 on Arena.ai). Available now via Microsoft Foundry.",
     source: "VentureBeat",
     url: "https://venturebeat.com/technology/microsoft-launches-3-new-ai-models-in-direct-shot-at-openai-and-google",
     date: "2026-04-02",
-    category: "models",
-    featured: true
+    category: "models"
   },
   // ── NEW STORIES — 2026-04-02 ──
   {
