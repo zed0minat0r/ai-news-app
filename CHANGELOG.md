@@ -1,5 +1,14 @@
 # Changelog
 
+## 2026-04-01 — v3.10.1 — Bottom nav label readability fix (Pixel)
+
+### Mobile Audit (375px)
+- Bumped bottom nav label font-size from 0.55rem (8.8px) to 0.625rem (10px) at 375px breakpoint
+- Bumped base bottom nav label font-size from 0.6rem (9.6px) to 0.65rem (10.4px)
+- Tightened letter-spacing to compensate for larger labels and prevent overflow
+- Added overflow protection (ellipsis, nowrap) to bottom nav labels as safety net
+- Audited all other font sizes, tap targets (min 44-48px), and alignment — no other issues found
+
 ## 2026-04-01 — v3.10.0 — Redesign header for impact (Builder)
 
 ### Header Redesign
