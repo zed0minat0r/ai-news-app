@@ -250,7 +250,7 @@ function buildFeaturedCard(article) {
 
 function buildCard(article) {
   return `
-    <a href="${article.url}" target="_blank" rel="noopener" class="card">
+    <a href="${article.url}" target="_blank" rel="noopener" class="card" data-category="${article.category}">
       <span class="card-tag ${article.category}">${article.category}</span>
       <h3>${article.title}</h3>
       <p class="summary">${article.summary}</p>

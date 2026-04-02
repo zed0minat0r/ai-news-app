@@ -264,13 +264,20 @@ main {
   font-size: 0.72rem;
 }
 
+/* ===== CATEGORY ACCENT BARS ===== */
+.card[data-category="models"]   { border-left: 3px solid var(--tag-models); }
+.card[data-category="hardware"] { border-left: 3px solid var(--tag-hardware); }
+.card[data-category="research"] { border-left: 3px solid var(--tag-research); }
+.card[data-category="tools"]    { border-left: 3px solid var(--tag-tools); }
+.card[data-category="industry"] { border-left: 3px solid var(--tag-industry); }
+
+.card {
+  box-shadow: 0 1px 3px rgba(0,0,0,0.3), 0 0 0 1px rgba(255,255,255,0.03);
+}
+
 /* ===== HARDWARE SPOTLIGHT ===== */
 #hardware-spotlight {
   margin-bottom: 2rem;
-}
-
-#hardware-spotlight .card {
-  border-left: 3px solid var(--tag-hardware);
 }
 
 /* ===== NO RESULTS ===== */

@@ -16,3 +16,10 @@
 - All content center-aligned on mobile per AGENT-RULES
 - Sticky category navigation bar
 - Cards link to original source articles
+
+## 2026-04-01 — v1.1.0 — Category Accent Bars
+
+### Added (Spark)
+- Category-colored left accent bars on all news cards (models=purple, hardware=green, research=orange, tools=blue, industry=pink)
+- Subtle card depth shadow for a more polished, professional feel
+- Cards now carry data-category attribute for CSS-driven styling
