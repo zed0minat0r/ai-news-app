@@ -307,7 +307,7 @@ main {
   display: inline-block;
   background: #c93832;
   color: #fff;
-  font-size: 0.65rem;
+  font-size: 0.72rem;
   font-weight: 700;
   text-transform: uppercase;
   letter-spacing: 1.2px;
@@ -417,7 +417,7 @@ main {
 }
 
 .trending-chip .chip-tag {
-  font-size: 0.65rem;
+  font-size: 0.72rem;
   font-weight: 600;
   text-transform: uppercase;
   letter-spacing: 0.5px;
@@ -557,9 +557,20 @@ main {
 .card-thumb.tools    { background: linear-gradient(135deg, rgba(88,166,255,0.22), rgba(88,166,255,0.05)); }
 .card-thumb.industry { background: linear-gradient(135deg, rgba(247,120,186,0.22), rgba(247,120,186,0.05)); }
 
+.card-thumb.has-image {
+  background: var(--bg-card);
+  font-size: 0;
+}
+.card-thumb.has-image img {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+  border-radius: inherit;
+}
+
 .card-tag {
   display: inline-block;
-  font-size: 0.65rem;
+  font-size: 0.72rem;
   font-weight: 600;
   text-transform: uppercase;
   letter-spacing: 0.5px;
@@ -583,7 +594,7 @@ main {
 
 .card .summary {
   color: var(--text-muted);
-  font-size: 0.8rem;
+  font-size: 0.85rem;
   line-height: 1.45;
   margin-bottom: 0.5rem;
   display: -webkit-box;
@@ -934,6 +945,19 @@ footer {
   border-top: 1px solid var(--border);
   color: var(--text-muted);
   font-size: 0.8rem;
+}
+
+/* ===== NARROW MOBILE (<=400px) ===== */
+@media (max-width: 400px) {
+  .header-signup-form,
+  .newsletter-form {
+    flex-direction: column;
+  }
+
+  .header-signup-form button,
+  .newsletter-form button {
+    width: 100%;
+  }
 }
 
 /* ===== TABLET (640px+) ===== */

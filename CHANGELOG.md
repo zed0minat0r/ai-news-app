@@ -1,5 +1,19 @@
 # Changelog
 
+## 2026-04-01 — v3.4.2 — Mobile audit fixes at 375px (Pixel)
+
+### Changed
+- Bumped `.card .summary` font-size from 0.8rem to 0.85rem for better readability on mobile
+- Added narrow-mobile breakpoint (max-width: 400px) to stack signup/newsletter forms vertically, preventing cramped layouts on small screens
+
+### Audited (no changes needed)
+- All inputs already at 16px (1rem) — no iOS auto-zoom risk
+- All tap targets already meet 44px minimum
+- Center alignment consistently applied across header, hero, cards, footer
+- overflow-x: hidden on body; scrollable containers have proper overflow handling
+- Contrast ratios on card tags, text, and backgrounds pass WCAG AA
+- Viewport meta tag correctly set
+
 ## 2026-04-01 — v3.4.1 — Remove Firebase placeholder + fix arXiv summaries (Builder)
 
 ### Removed
