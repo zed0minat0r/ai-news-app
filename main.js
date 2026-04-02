@@ -1130,17 +1130,18 @@ document.querySelectorAll("form[data-newsletter]").forEach((form) => {
 /* =========================================================
    BOTTOM NAVIGATION BAR
    ========================================================= */
+// Global syncBottomNav — must be accessible before initBottomNav IIFE
+function syncBottomNav(cat) {
+  document.querySelectorAll(".bottom-nav-btn").forEach(function(btn) {
+    const isActive = btn.dataset.category === cat;
+    btn.classList.toggle("active", isActive);
+    btn.setAttribute("aria-pressed", isActive ? "true" : "false");
+  });
+}
+
 (function initBottomNav() {
   const bottomNavBtns = document.querySelectorAll(".bottom-nav-btn");
   if (!bottomNavBtns.length) return;
-
-  function syncBottomNav(cat) {
-    bottomNavBtns.forEach(function(btn) {
-      const isActive = btn.dataset.category === cat;
-      btn.classList.toggle("active", isActive);
-      btn.setAttribute("aria-pressed", isActive ? "true" : "false");
-    });
-  }
 
   bottomNavBtns.forEach(function(btn) {
     btn.addEventListener("click", function() {
