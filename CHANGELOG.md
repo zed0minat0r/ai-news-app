@@ -1,5 +1,16 @@
 # Changelog
 
+## 2026-04-01 — v3.8.0 — Reading progress indicator (Spark)
+
+### Reading Progress Indicator
+- Added a fixed 3px gradient bar at the top of the viewport that fills as the user scrolls
+- Uses the app's accent palette: blue to purple to pink gradient with a subtle glow effect
+- Scroll listener uses `requestAnimationFrame` throttling and passive event for smooth, performant updates
+- `pointer-events: none` so it never interferes with header interactions
+- `prefers-reduced-motion` disables the transition for accessibility
+- `aria-hidden="true"` to keep screen readers focused on content
+- Mobile-first, works across all viewport sizes
+
 ## 2026-04-01 — v3.7.0 — PTR threshold fix, deduplicate nav, PWA setup (Refiner)
 
 ### Fix Pull-to-Refresh Threshold Bug (CRITICAL from v9 audit)

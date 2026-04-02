@@ -1164,3 +1164,22 @@ document.querySelectorAll("form[data-newsletter]").forEach((form) => {
     syncBottomNav(params.get("category") || "all");
   });
 })();
+
+/* ===== READING PROGRESS INDICATOR ===== */
+(function() {
+  var bar = document.getElementById("reading-progress");
+  if (!bar) return;
+  var ticking = false;
+  window.addEventListener("scroll", function() {
+    if (!ticking) {
+      requestAnimationFrame(function() {
+        var scrollTop = window.scrollY || document.documentElement.scrollTop;
+        var docHeight = document.documentElement.scrollHeight - document.documentElement.clientHeight;
+        var progress = docHeight > 0 ? (scrollTop / docHeight) * 100 : 0;
+        bar.style.width = Math.min(progress, 100) + "%";
+        ticking = false;
+      });
+      ticking = true;
+    }
+  }, { passive: true });
+})();

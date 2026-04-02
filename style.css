@@ -480,11 +480,11 @@ main {
   margin-bottom: 0.3rem;
 }
 
-.chip-tag.models   { background: rgba(210,168,255,0.28); color: #d2a8ff; }
-.chip-tag.hardware { background: rgba(126,231,135,0.28); color: #7ee787; }
-.chip-tag.research { background: rgba(255,166,87,0.28);  color: #ffa657; }
-.chip-tag.tools    { background: rgba(88,166,255,0.28);  color: #79b8ff; }
-.chip-tag.industry { background: rgba(247,120,186,0.28); color: #f778ba; }
+.chip-tag.models   { background: rgba(210,168,255,0.38); color: #ffffff; }
+.chip-tag.hardware { background: rgba(126,231,135,0.38); color: #ffffff; }
+.chip-tag.research { background: rgba(255,166,87,0.38);  color: #ffffff; }
+.chip-tag.tools    { background: rgba(88,166,255,0.38);  color: #ffffff; }
+.chip-tag.industry { background: rgba(247,120,186,0.38); color: #ffffff; }
 
 .trending-chip h4 {
   font-size: 0.78rem;
@@ -497,7 +497,7 @@ main {
 }
 
 .trending-chip .meta {
-  font-size: 0.7rem;
+  font-size: 0.75rem;
   color: var(--text-muted);
   margin-top: 0.2rem;
 }
@@ -635,11 +635,11 @@ main {
   margin-bottom: 0.4rem;
 }
 
-.card-tag.models   { background: rgba(210,168,255,0.25); color: #d2a8ff; }
-.card-tag.hardware { background: rgba(126,231,135,0.25); color: #7ee787; }
-.card-tag.research { background: rgba(255,166,87,0.25);  color: #ffa657; }
-.card-tag.tools    { background: rgba(88,166,255,0.25);  color: #79b8ff; }
-.card-tag.industry { background: rgba(247,120,186,0.25); color: #f778ba; }
+.card-tag.models   { background: rgba(210,168,255,0.35); color: #ffffff; }
+.card-tag.hardware { background: rgba(126,231,135,0.35); color: #ffffff; }
+.card-tag.research { background: rgba(255,166,87,0.35);  color: #ffffff; }
+.card-tag.tools    { background: rgba(88,166,255,0.35);  color: #ffffff; }
+.card-tag.industry { background: rgba(247,120,186,0.35); color: #ffffff; }
 
 .card h3 {
   font-size: 0.9rem;
@@ -1511,6 +1511,40 @@ body {
 @media (prefers-reduced-motion: reduce) {
   .bottom-nav-btn,
   .bottom-nav-btn::before {
+    transition: none;
+  }
+}
+
+/* ===== READING PROGRESS INDICATOR ===== */
+.reading-progress {
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 0%;
+  height: 3px;
+  background: linear-gradient(90deg, var(--accent), var(--tag-models), var(--tag-industry));
+  z-index: 10000;
+  transition: width 0.1s linear;
+  pointer-events: none;
+  will-change: width;
+  border-radius: 0 2px 2px 0;
+}
+
+/* Subtle glow effect under the bar */
+.reading-progress::after {
+  content: "";
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  background: inherit;
+  filter: blur(4px);
+  opacity: 0.5;
+}
+
+@media (prefers-reduced-motion: reduce) {
+  .reading-progress {
     transition: none;
   }
 }
