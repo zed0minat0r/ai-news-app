@@ -538,6 +538,11 @@ const FALLBACK_ARTICLES = [
 // Start with fallback data, then try to load fresh data
 ARTICLES = [...FALLBACK_ARTICLES];
 
+function hideSkeleton() {
+  const sk = document.getElementById("skeleton-loading");
+  if (sk) sk.classList.add("hidden");
+}
+
 async function loadArticles() {
   try {
     const resp = await fetch("news.json?t=" + Date.now());
@@ -546,11 +551,13 @@ async function loadArticles() {
     if (Array.isArray(data) && data.length > 0) {
       ARTICLES = data;
       console.log("[AI Pulse] Loaded " + data.length + " articles from news.json");
+      hideSkeleton();
       render();
       updateTimestamp();
     }
   } catch (e) {
     console.log("[AI Pulse] news.json not available, using fallback articles:", e.message);
+    hideSkeleton();
   }
 }
 
@@ -858,9 +865,16 @@ searchInput.addEventListener("input", () => {
 
 sortToggle.addEventListener("click", () => {
   sortOrder = sortOrder === "newest" ? "oldest" : "newest";
-  sortToggle.textContent = sortOrder === "newest" ? "Newest first" : "Oldest first";
+  const label = sortOrder === "newest" ? "Newest first" : "Oldest first";
+  sortToggle.textContent = label;
   visibleCount = ARTICLES_PER_PAGE;
   render();
+  // Announce sort change to screen readers
+  const announcement = document.getElementById("sort-announcement");
+  if (announcement) {
+    announcement.textContent = "";
+    requestAnimationFrame(() => { announcement.textContent = "Sorted by " + label.toLowerCase(); });
+  }
 });
 
 loadMoreBtn.addEventListener("click", () => {
@@ -889,7 +903,43 @@ function updateTimestamp() {
 
 footerYear.textContent = new Date().getFullYear();
 updateTimestamp();
+hideSkeleton();
 render();
+
+/* =========================================================
+   TRENDING SCROLL INDICATORS
+   ========================================================= */
+function updateScrollIndicators() {
+  const wrapper = document.querySelector(".trending-scroll-wrapper");
+  const scroll = document.getElementById("trending-scroll");
+  if (!wrapper || !scroll) return;
+  const atStart = scroll.scrollLeft <= 5;
+  const atEnd = scroll.scrollLeft + scroll.clientWidth >= scroll.scrollWidth - 5;
+  wrapper.classList.remove("scroll-start", "scroll-end", "scroll-middle");
+  if (atStart && atEnd) {
+    wrapper.classList.add("scroll-start", "scroll-end");
+  } else if (atStart) {
+    wrapper.classList.add("scroll-start");
+  } else if (atEnd) {
+    wrapper.classList.add("scroll-end");
+  } else {
+    wrapper.classList.add("scroll-middle");
+  }
+}
+
+// Attach scroll listener (will re-run after each render since trending scroll persists)
+const trendingScrollEl = document.getElementById("trending-scroll");
+if (trendingScrollEl) {
+  trendingScrollEl.addEventListener("scroll", updateScrollIndicators, { passive: true });
+}
+
+// Also update after render — hook into existing render via MutationObserver on trending-scroll
+const trendingObserver = new MutationObserver(() => {
+  requestAnimationFrame(updateScrollIndicators);
+});
+if (trendingScrollEl) {
+  trendingObserver.observe(trendingScrollEl, { childList: true });
+}
 
 /* =========================================================
    AUTO-UPDATE

@@ -43,18 +43,44 @@
   <main id="main-content">
     <!-- HOMEPAGE VIEW (shown when category=all and no search) -->
     <div id="homepage-view">
+      <!-- SKELETON LOADING STATE -->
+      <div id="skeleton-loading" class="skeleton-loading" aria-hidden="true">
+        <div class="skeleton-hero">
+          <div class="skeleton-pill"></div>
+          <div class="skeleton-line skeleton-line--title"></div>
+          <div class="skeleton-line skeleton-line--text"></div>
+          <div class="skeleton-line skeleton-line--text skeleton-line--short"></div>
+          <div class="skeleton-line skeleton-line--meta"></div>
+        </div>
+        <div class="skeleton-trending-label"></div>
+        <div class="skeleton-trending">
+          <div class="skeleton-chip"></div>
+          <div class="skeleton-chip"></div>
+          <div class="skeleton-chip"></div>
+        </div>
+        <div class="skeleton-cards">
+          <div class="skeleton-card"><div class="skeleton-line skeleton-line--title"></div><div class="skeleton-line skeleton-line--text"></div><div class="skeleton-line skeleton-line--meta"></div></div>
+          <div class="skeleton-card"><div class="skeleton-line skeleton-line--title"></div><div class="skeleton-line skeleton-line--text"></div><div class="skeleton-line skeleton-line--meta"></div></div>
+        </div>
+      </div>
+
       <!-- HERO BANNER -->
       <section id="hero-section" role="region" aria-label="Featured story"></section>
 
       <!-- TRENDING BAR -->
       <section id="trending-bar" role="region" aria-labelledby="trending-title">
         <h2 id="trending-title" class="section-label">Trending Now</h2>
-        <div id="trending-scroll" class="trending-scroll"></div>
+        <div class="trending-scroll-wrapper">
+          <div id="trending-scroll" class="trending-scroll"></div>
+        </div>
       </section>
 
       <!-- CATEGORY SECTIONS (populated by JS) -->
       <div id="category-sections"></div>
     </div>
+
+    <!-- Screen reader announcement for sort changes -->
+    <div id="sort-announcement" class="sr-only" aria-live="assertive" role="status"></div>
 
     <!-- LIST VIEW (shown when filtering or searching) -->
     <div id="list-view" class="hidden">

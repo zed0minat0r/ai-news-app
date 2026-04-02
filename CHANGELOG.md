@@ -1,5 +1,21 @@
 # Changelog
 
+## 2026-04-01 — v3.1.0 — Loading States, Scroll Indicators & Accessibility (Refiner)
+
+### Added
+- **Skeleton loading state:** Pulsing placeholder UI (hero, trending chips, cards) shown while news.json fetches, preventing empty page flash on load. Addresses AUDIT.md v4 Rec #3.
+- **Trending bar scroll indicators:** Fade-edge gradients on left/right of the trending horizontal bar to hint that more content is scrollable. Dynamically updates on scroll position. Addresses AUDIT.md v4 Rec #3.
+- **aria-live sort announcements:** Screen readers now hear "Sorted by newest first / oldest first" when the sort toggle is clicked, via an assertive live region. Addresses AUDIT.md v4 Rec #3.
+- **SR-only utility class:** `.sr-only` for visually hidden but screen-reader-accessible content.
+
+### Changed
+- Trending scroll wrapped in `.trending-scroll-wrapper` div for fade-edge pseudo-elements.
+
+### Notes
+- Mobile-first, center-aligned
+- No articles added (RSS pipeline handles content)
+- Addresses all three sub-items from AUDIT.md v4 Priority Recommendation #3
+
 ## 2026-04-01 — v3.0.0 — News Homepage Rebuild (Builder)
 
 ### Changed
