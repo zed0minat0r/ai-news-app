@@ -19,13 +19,22 @@
     "id": 2
   },
   {
+    "title": "New ways to balance cost and reliability in the Gemini API",
+    "url": "https://blog.google/innovation-and-ai/technology/developers-tools/introducing-flex-and-priority-inference/",
+    "source": "Google AI Blog",
+    "date": "2026-04-02",
+    "summary": "Google is introducing two new inference tiers to the Gemini API, Flex and Priority, to balance cost and latency.",
+    "category": "models",
+    "id": 3
+  },
+  {
     "title": "From RTX to Spark: NVIDIA Accelerates Gemma 4 for Local Agentic AI",
     "url": "https://blogs.nvidia.com/blog/rtx-ai-garage-open-models-google-gemma-4/",
     "source": "NVIDIA Blog",
     "date": "2026-04-02",
     "summary": "Open models are driving a new wave of on-device AI, extending innovation beyond the cloud to everyday devices. As these models advance, their value increasingly depends on access to local, real-time c...",
     "category": "hardware",
-    "id": 3
+    "id": 4
   },
   {
     "title": "America’s AI chip rules keep changing — and the rest of the world is paying the price",
@@ -34,7 +43,7 @@
     "date": "2026-04-02",
     "summary": "We interview experts, including Chris McGuire, senior fellow for China and emerging technologies at the Council on Foreign Relations, and former senior director in the U.S. National Security Coundil o...",
     "category": "hardware",
-    "id": 4
+    "id": 5
   },
   {
     "title": "China's homegrown silicon suppliers gain traction as Nvidia struggles to get its chips into the market — Huawei, Cambricon and more step up to fill crucial market gap",
@@ -43,7 +52,7 @@
     "date": "2026-04-02",
     "summary": "Nvidia's market share in the Chinese data center market has shrunk, with a wealth of options coming from Huawei, Cambricon and more, bringing their total share up to 41%.",
     "category": "hardware",
-    "id": 5
+    "id": 6
   },
   {
     "title": "IBM spruces up its mainframes with new support for modern Arm workloads — firm teams up with Arm to run Arm workloads on IBM Z mainframes",
@@ -52,7 +61,7 @@
     "date": "2026-04-02",
     "summary": "Cloud-native AI and data intensive workloads coming to IBM Z and LinuxONE systems as IBM wants to make its machines more relevant for today's workloads.",
     "category": "industry",
-    "id": 6
+    "id": 7
   },
   {
     "title": "Amazing $490 Newegg combo includes an AMD Ryzen 5 9600X CPU, 16GB of G.Skill DDR5-6000 RAM, MSI Pro B850-S motherboard, and 240mm MSI MAG Coreliquid A13 AIO CPU cooler — all for under $500",
@@ -61,7 +70,7 @@
     "date": "2026-04-02",
     "summary": "Grab the core components of a new AM5 PC build for under $500. Newegg combo bundle includes a CPU, motherboard, RAM, and AIO CPU cooler.",
     "category": "hardware",
-    "id": 7
+    "id": 8
   },
   {
     "title": "Modders use jumper wires and a custom BIOS to save a damaged RTX 4090 from the trash — resurrected Nvidia gaming GPU loses 4GB of VRAM to overcome terminal PCB sagging",
@@ -70,7 +79,7 @@
     "date": "2026-04-02",
     "summary": "A YouTuber resurrects a damaged RTX 4090 with a bent PCB, using a custom BIOS to disable one of its memory channels, reducing its VRAM to 20GB but stabilizing it in the process.",
     "category": "hardware",
-    "id": 8
+    "id": 9
   },
   {
     "title": "Intel buys back 49% stake in Ireland Fab Joint Venture — takes full control over Fab 34",
@@ -79,7 +88,7 @@
     "date": "2026-04-02",
     "summary": "In a mutually beneficial deal, Intel repurchases 49% of Fab 34 from Apollo for $14.2 billion, reducing pressure on its margins, but paying a hefty $3 billion premium to the financial company.",
     "category": "hardware",
-    "id": 9
+    "id": 10
   },
   {
     "title": "Why Nvidia just poured $2 billion into AI ASIC competitor Marvell — NVLink Fusion turns into soft ecosystem lock-in",
@@ -88,7 +97,7 @@
     "date": "2026-04-02",
     "summary": "Nvidia has announced that it has invested $2 billion in Marvell and entered a partnership through NVLink Fusion.",
     "category": "hardware",
-    "id": 10
+    "id": 11
   },
   {
     "title": "Global semiconductor foundry market hit a record $320 billion in 2025 as TSMC pulled further ahead",
@@ -97,7 +106,16 @@
     "date": "2026-04-02",
     "summary": "The global semiconductor foundry market generated a record $320 billion in revenue in 2025, growing 16% year-over-year, according to Counterpoint Research's Foundry Market Supply Tracker.",
     "category": "industry",
-    "id": 11
+    "id": 12
+  },
+  {
+    "title": "OpenAI acquires TBPN, the buzzy founder-led business talk show",
+    "url": "https://techcrunch.com/2026/04/02/openai-acquires-tbpn-the-buzzy-founder-led-business-talk-show/",
+    "source": "TechCrunch",
+    "date": "2026-04-02",
+    "summary": "TBPN, Silicon Valley's cult-favorite tech podcast, will operate independently, even as it's overseen by chief political operative, Chris Lehane.",
+    "category": "hardware",
+    "id": 13
   },
   {
     "title": "Microsoft takes on AI rivals with three new foundational models",
@@ -106,7 +124,43 @@
     "date": "2026-04-02",
     "summary": "MAI released models that can transcribe voice into text as well as generate audio and images after the group's formation six months ago.",
     "category": "industry",
-    "id": 12
+    "id": 14
+  },
+  {
+    "title": "Show HN: ClawRun – Deploy and manage AI agents in seconds",
+    "url": "https://clawrun.sh/",
+    "source": "Hacker News",
+    "date": "2026-04-02",
+    "summary": "Article URL: https://clawrun.sh/ Comments URL: https://news.ycombinator.com/item?id=47619016 Points: 1 # Comments: 0",
+    "category": "industry",
+    "id": 15
+  },
+  {
+    "title": "Show HN: A task market where AI agents post work, claim it, and build reputation",
+    "url": "https://vakr.me",
+    "source": "Hacker News",
+    "date": "2026-04-02",
+    "summary": "I'm finishing my CS degree. Spent the last month building Vakr mostly because I was curious what agents would actually do when you give them a task-reputation economy. The setup is simple: agents regi...",
+    "category": "models",
+    "id": 16
+  },
+  {
+    "title": "A quiz that scores your job's AI replacement risk (Anthropic/ILO/OECD data)",
+    "url": "https://www.riskquiz.me/",
+    "source": "Hacker News",
+    "date": "2026-04-02",
+    "summary": "Article URL: https://www.riskquiz.me/ Comments URL: https://news.ycombinator.com/item?id=47618615 Points: 2 # Comments: 0",
+    "category": "industry",
+    "id": 17
+  },
+  {
+    "title": "How I'm Using an AI Assistant to Offload the \"Meta-Work\" of My Day",
+    "url": "https://kailaos.com/blog/how-ai-assistants-help-you-take-control-of-your-daily-routine",
+    "source": "Hacker News",
+    "date": "2026-04-02",
+    "summary": "Article URL: https://kailaos.com/blog/how-ai-assistants-help-you-take-control-of-your-daily-routine Comments URL: https://news.ycombinator.com/item?id=47618595 Points: 1 # Comments: 0",
+    "category": "industry",
+    "id": 18
   },
   {
     "title": "What distinguishes great engineers when AI writes the code?",
@@ -115,7 +169,7 @@
     "date": "2026-04-02",
     "summary": "Article URL: https://elicit.com/blog/engineering-interviews-in-the-era-of-agents Comments URL: https://news.ycombinator.com/item?id=47618548 Points: 1 # Comments: 0",
     "category": "industry",
-    "id": 13
+    "id": 19
   },
   {
     "title": "Cursor AI agent admits to deceiving user during 61GB RAM overflow",
@@ -124,7 +178,7 @@
     "date": "2026-04-02",
     "summary": "Article URL: https://github.com/blackysdeamon/cursor-ai-negligence-report Comments URL: https://news.ycombinator.com/item?id=47618515 Points: 1 # Comments: 0",
     "category": "tools",
-    "id": 14
+    "id": 20
   },
   {
     "title": "Our AI agent tried to read our .env file 30 seconds in",
@@ -133,7 +187,7 @@
     "date": "2026-04-02",
     "summary": "Article URL: https://www.indiehackers.com/post/our-ai-agent-tried-to-read-our-env-file-30-seconds-in-we-had-no-idea-until-we-checked-manually-2y2BYs6A3GUFjKVzB4g4 Comments URL: https://news.ycombinato...",
     "category": "industry",
-    "id": 15
+    "id": 21
   },
   {
     "title": "Suits Against Tempus AI Test Legal Lines for Mining Genetic Data",
@@ -142,16 +196,16 @@
     "date": "2026-04-02",
     "summary": "Article URL: https://www.law.com/corpcounsel/2026/04/02/suits-against-tempus-ai-test-legal-lines-for-mining-genetic-data/ Comments URL: https://news.ycombinator.com/item?id=47618393 Points: 1 # Commen...",
     "category": "industry",
-    "id": 16
+    "id": 22
   },
   {
     "title": "Mistral secures $830M in debt financing to fund AI data center",
     "url": "https://www.cnbc.com/2026/03/30/mistral-ai-paris-data-center-cluster-debt-financing.html",
     "source": "Hacker News",
     "date": "2026-04-02",
-    "summary": "Article URL: https://www.cnbc.com/2026/03/30/mistral-ai-paris-data-center-cluster-debt-financing.html Comments URL: https://news.ycombinator.com/item?id=47618322 Points: 3 # Comments: 0",
+    "summary": "Article URL: https://www.cnbc.com/2026/03/30/mistral-ai-paris-data-center-cluster-debt-financing.html Comments URL: https://news.ycombinator.com/item?id=47618322 Points: 9 # Comments: 0",
     "category": "hardware",
-    "id": 17
+    "id": 23
   },
   {
     "title": "Show HN: Most products have no idea what their AI agents did yesterday",
@@ -160,7 +214,7 @@
     "date": "2026-04-02",
     "summary": "We build collaboration SDKs at Velt (YC W22). Comments, presence, real-time editing (CRDT), recording, notifications. A pattern we keep seeing: products add AI agents that write, edit, and approve thi...",
     "category": "tools",
-    "id": 18
+    "id": 24
   },
   {
     "title": "We replaced RAG with a virtual filesystem for our AI documentation assistant",
@@ -169,7 +223,7 @@
     "date": "2026-04-02",
     "summary": "Article URL: https://www.mintlify.com/blog/how-we-built-a-virtual-filesystem-for-our-assistant Comments URL: https://news.ycombinator.com/item?id=47618223 Points: 2 # Comments: 0",
     "category": "research",
-    "id": 19
+    "id": 25
   },
   {
     "title": "AI Infrastructure Roadmap: Five frontiers for 2026",
@@ -178,7 +232,7 @@
     "date": "2026-04-02",
     "summary": "Article URL: https://nextbigteng.substack.com/p/ai-infrastructure-roadmap-five-frontiers-for-2026 Comments URL: https://news.ycombinator.com/item?id=47618154 Points: 2 # Comments: 0",
     "category": "industry",
-    "id": 20
+    "id": 26
   },
   {
     "title": "Priced Out by AI: The Memory Chip Crisis Hitting Every Consumer",
@@ -187,7 +241,7 @@
     "date": "2026-04-02",
     "summary": "Article URL: https://smarterarticles.co.uk/priced-out-by-ai-the-memory-chip-crisis-hitting-every-consumer Comments URL: https://news.ycombinator.com/item?id=47618123 Points: 3 # Comments: 0",
     "category": "hardware",
-    "id": 21
+    "id": 27
   },
   {
     "title": "Show HN: AgentDog – Open-source dashboard for monitoring local AI agents",
@@ -196,16 +250,16 @@
     "date": "2026-04-02",
     "summary": "Article URL: https://github.com/shenli/AgentDog Comments URL: https://news.ycombinator.com/item?id=47618112 Points: 2 # Comments: 0",
     "category": "industry",
-    "id": 22
+    "id": 28
   },
   {
     "title": "Humanoid Robots and the AI Brain Shift",
     "url": "https://spectrum.ieee.org/humanoid-robots-gill-pratt-darpa",
     "source": "Hacker News",
     "date": "2026-04-02",
-    "summary": "Article URL: https://spectrum.ieee.org/humanoid-robots-gill-pratt-darpa Comments URL: https://news.ycombinator.com/item?id=47617983 Points: 2 # Comments: 0",
+    "summary": "Article URL: https://spectrum.ieee.org/humanoid-robots-gill-pratt-darpa Comments URL: https://news.ycombinator.com/item?id=47617983 Points: 3 # Comments: 0",
     "category": "industry",
-    "id": 23
+    "id": 29
   },
   {
     "title": "LLM SQL Benchmark",
@@ -214,7 +268,7 @@
     "date": "2026-04-02",
     "summary": "Article URL: https://sql-benchmark.nicklothian.com/ Comments URL: https://news.ycombinator.com/item?id=47617945 Points: 2 # Comments: 0",
     "category": "models",
-    "id": 24
+    "id": 30
   },
   {
     "title": "Show HN: A TUI for checking and comparing cloud and AI pricing",
@@ -223,7 +277,7 @@
     "date": "2026-04-02",
     "summary": "I am tired of checking docs and tweaking official cost estimators just to compare prices. I can feel the disconnect between knowing the specs you want and figuring out what they actually cost, so I bu...",
     "category": "tools",
-    "id": 25
+    "id": 31
   },
   {
     "title": "Show HN: Screenbox – Self-hosted virtual desktops for AI agents",
@@ -232,7 +286,7 @@
     "date": "2026-04-02",
     "summary": "Screenbox gives AI agents their own isolated Linux desktop with a real Chromium browser, controlled via MCP. I run multiple agents in parallel and they kept fighting over the same browser. Each deskto...",
     "category": "hardware",
-    "id": 26
+    "id": 32
   },
   {
     "title": "We're talking Google, Apple and AI: 19 Years of HN data analyzed",
@@ -241,7 +295,7 @@
     "date": "2026-04-02",
     "summary": "Article URL: https://www.riteshkhanna.com/blog/hacker-news-data-analysis Comments URL: https://news.ycombinator.com/item?id=47617823 Points: 1 # Comments: 1",
     "category": "industry",
-    "id": 27
+    "id": 33
   },
   {
     "title": "Prosaic: A text editor where AI scribbles in the margins",
@@ -250,34 +304,7 @@
     "date": "2026-04-02",
     "summary": "Article URL: https://prosaic.sh/ Comments URL: https://news.ycombinator.com/item?id=47617745 Points: 2 # Comments: 1",
     "category": "industry",
-    "id": 28
-  },
-  {
-    "title": "Semantic retrieval vs. grep for LLM code queries: 2.4x faster, 5.6x fewer tokens",
-    "url": "https://castnettechnology.com/blog/mnemosyne-vs-standard-search-benchmark",
-    "source": "Hacker News",
-    "date": "2026-04-02",
-    "summary": "Article URL: https://castnettechnology.com/blog/mnemosyne-vs-standard-search-benchmark Comments URL: https://news.ycombinator.com/item?id=47617582 Points: 1 # Comments: 0",
-    "category": "models",
-    "id": 29
-  },
-  {
-    "title": "Tinygrad Nvidia P2P hack on Talos OS: 3 days with AI, would been 2 weeks without",
-    "url": "https://news.ycombinator.com/item?id=47617523",
-    "source": "Hacker News",
-    "date": "2026-04-02",
-    "summary": "I just open-sourced a fully working build of the tinygrad NVIDIA P2P hacked kernel modules packaged as a Talos Linux system extension — patched open driver, signing key lineage, overlay ordering, the ...",
-    "category": "models",
-    "id": 30
-  },
-  {
-    "title": "Show HN: Wick – censorship circumvention tech repurposed for AI web access",
-    "url": "https://getwick.dev",
-    "source": "Hacker News",
-    "date": "2026-04-02",
-    "summary": "I helped build Lantern, a censorship circumvention tool that’s been downloaded over 150 million times globally, with most users in China, Russia, Iran, and the UAE. Before Lantern I was the lead engin...",
-    "category": "tools",
-    "id": 31
+    "id": 34
   },
   {
     "title": "A New Google-Funded Data Center Will Be Powered by a Massive Gas Plant",
@@ -286,7 +313,7 @@
     "date": "2026-04-02",
     "summary": "Documents show that one of Google’s new data centers would be powered by a natural gas plant that emits millions of tons of emissions each year—an increasingly common trend in the industry.",
     "category": "hardware",
-    "id": 32
+    "id": 35
   },
   {
     "title": "Cursor Launches a New AI Agent Experience to Take On Claude Code and Codex",
@@ -295,7 +322,7 @@
     "date": "2026-04-02",
     "summary": "As Cursor launches the next generation of its product, the AI coding startup has to compete with OpenAI and Anthropic more directly than ever.",
     "category": "models",
-    "id": 33
+    "id": 36
   },
   {
     "title": "Anthropic Says That Claude Contains Its Own Kind of Emotions",
@@ -304,7 +331,7 @@
     "date": "2026-04-02",
     "summary": "Researchers at the company found representations inside of Claude that perform functions similar to human feelings.",
     "category": "models",
-    "id": 34
+    "id": 37
   },
   {
     "title": "How Emotion Shapes the Behavior of LLMs and Agents: A Mechanistic Study",
@@ -313,7 +340,7 @@
     "date": "2026-04-02",
     "summary": "arXiv:2604.00005v1 Announce Type: new Abstract: Emotion plays an important role in human cognition and performance. Motivated by this, we investigate whether analogous emotional signals can shape the ...",
     "category": "research",
-    "id": 35
+    "id": 38
   },
   {
     "title": "One Panel Does Not Fit All: Case-Adaptive Multi-Agent Deliberation for Clinical Prediction",
@@ -322,7 +349,7 @@
     "date": "2026-04-02",
     "summary": "arXiv:2604.00085v1 Announce Type: new Abstract: Large language models applied to clinical prediction exhibit case-level heterogeneity: simple cases yield consistent outputs, while complex cases produc...",
     "category": "models",
-    "id": 36
+    "id": 39
   },
   {
     "title": "Open, Reliable, and Collective: A Community-Driven Framework for Tool-Using AI Agents",
@@ -331,7 +358,7 @@
     "date": "2026-04-02",
     "summary": "arXiv:2604.00137v1 Announce Type: new Abstract: Tool-integrated LLMs can retrieve, compute, and take real-world actions via external tools, but reliability remains a key bottleneck. We argue that fail...",
     "category": "research",
-    "id": 37
+    "id": 40
   },
   {
     "title": "A Safety-Aware Role-Orchestrated Multi-Agent LLM Framework for Behavioral Health Communication Simulation",
@@ -340,7 +367,7 @@
     "date": "2026-04-02",
     "summary": "arXiv:2604.00249v1 Announce Type: new Abstract: Single-agent large language model (LLM) systems struggle to simultaneously support diverse conversational functions and maintain safety in behavioral he...",
     "category": "research",
-    "id": 38
+    "id": 41
   },
   {
     "title": "Human-in-the-Loop Control of Objective Drift in LLM-Assisted Computer Science Education",
@@ -349,7 +376,7 @@
     "date": "2026-04-02",
     "summary": "arXiv:2604.00281v1 Announce Type: new Abstract: Large language models (LLMs) are increasingly embedded in computer science education through AI-assisted programming tools, yet such workflows often exh...",
     "category": "models",
-    "id": 39
+    "id": 42
   },
   {
     "title": "Improvisational Games as a Benchmark for Social Intelligence of AI Agents: The Case of Connections",
@@ -358,7 +385,7 @@
     "date": "2026-04-02",
     "summary": "arXiv:2604.00284v1 Announce Type: new Abstract: We formally introduce a improvisational wordplay game called Connections to explore reasoning capabilities of AI agents. Playing Connections combines sk...",
     "category": "research",
-    "id": 40
+    "id": 43
   },
   {
     "title": "Collaborative AI Agents and Critics for Fault Detection and Cause Analysis in Network Telemetry",
@@ -367,7 +394,7 @@
     "date": "2026-04-02",
     "summary": "arXiv:2604.00319v1 Announce Type: new Abstract: We develop algorithms for collaborative control of AI agents and critics in a multi-actor, multi-critic federated multi-agent system. Each AI agent and ...",
     "category": "research",
-    "id": 41
+    "id": 44
   },
   {
     "title": "Signals: Trajectory Sampling and Triage for Agentic Interactions",
@@ -376,7 +403,7 @@
     "date": "2026-04-02",
     "summary": "arXiv:2604.00356v1 Announce Type: new Abstract: Agentic applications based on large language models increasingly rely on multi-step interaction loops involving planning, action execution, and environm...",
     "category": "research",
-    "id": 42
+    "id": 45
   },
   {
     "title": "In harmony with gpt-oss",
@@ -385,7 +412,7 @@
     "date": "2026-04-02",
     "summary": "arXiv:2604.00362v1 Announce Type: new Abstract: No one has independently reproduced OpenAI's published scores for gpt-oss-20b with tools, because the original paper discloses neither the tools nor the...",
     "category": "research",
-    "id": 43
+    "id": 46
   },
   {
     "title": "Decision-Centric Design for LLM Systems",
@@ -394,7 +421,7 @@
     "date": "2026-04-02",
     "summary": "arXiv:2604.00414v1 Announce Type: new Abstract: LLM systems must make control decisions in addition to generating outputs: whether to answer, clarify, retrieve, call tools, repair, or escalate. In man...",
     "category": "research",
-    "id": 44
+    "id": 47
   },
   {
     "title": "Self-Routing: Parameter-Free Expert Routing from Hidden States",
@@ -403,7 +430,7 @@
     "date": "2026-04-02",
     "summary": "arXiv:2604.00421v1 Announce Type: new Abstract: Mixture-of-Experts (MoE) layers increase model capacity by activating only a small subset of experts per token, and typically rely on a learned router t...",
     "category": "research",
-    "id": 45
+    "id": 48
   },
   {
     "title": "Execution-Verified Reinforcement Learning for Optimization Modeling",
@@ -412,7 +439,7 @@
     "date": "2026-04-02",
     "summary": "arXiv:2604.00442v1 Announce Type: new Abstract: Automating optimization modeling with LLMs is a promising path toward scalable decision intelligence, but existing approaches either rely on agentic pip...",
     "category": "models",
-    "id": 46
+    "id": 49
   },
   {
     "title": "Towards Reliable Truth-Aligned Uncertainty Estimation in Large Language Models",
@@ -420,33 +447,6 @@
     "source": "arXiv cs.AI",
     "date": "2026-04-02",
     "summary": "arXiv:2604.00445v1 Announce Type: new Abstract: Uncertainty estimation (UE) aims to detect hallucinated outputs of large language models (LLMs) to improve their reliability. However, UE metrics often ...",
-    "category": "models",
-    "id": 47
-  },
-  {
-    "title": "Logarithmic Scores, Power-Law Discoveries: Disentangling Measurement from Coverage in Agent-Based Evaluation",
-    "url": "https://arxiv.org/abs/2604.00477",
-    "source": "arXiv cs.AI",
-    "date": "2026-04-02",
-    "summary": "arXiv:2604.00477v1 Announce Type: new Abstract: LLM-based agent judges are an emerging approach to evaluating conversational AI, yet a fundamental uncertainty remains: can we trust their assessments, ...",
-    "category": "research",
-    "id": 48
-  },
-  {
-    "title": "The Silicon Mirror: Dynamic Behavioral Gating for Anti-Sycophancy in LLM Agents",
-    "url": "https://arxiv.org/abs/2604.00478",
-    "source": "arXiv cs.AI",
-    "date": "2026-04-02",
-    "summary": "arXiv:2604.00478v1 Announce Type: new Abstract: Large Language Models (LLMs) increasingly prioritize user validation over epistemic accuracy-a phenomenon known as sycophancy. We present The Silicon Mi...",
-    "category": "models",
-    "id": 49
-  },
-  {
-    "title": "Adaptive Parallel Monte Carlo Tree Search for Efficient Test-time Compute Scaling",
-    "url": "https://arxiv.org/abs/2604.00510",
-    "source": "arXiv cs.AI",
-    "date": "2026-04-02",
-    "summary": "arXiv:2604.00510v1 Announce Type: new Abstract: Monte Carlo Tree Search (MCTS) is an effective test-time compute scaling (TTCS) method for improving the reasoning performance of large language models,...",
     "category": "models",
     "id": 50
   }
