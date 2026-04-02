@@ -630,6 +630,28 @@ footer {
   z-index: 1;
 }
 
+/* ===== LOAD MORE BUTTON ===== */
+.load-more-btn {
+  display: block;
+  margin: 1.5rem auto;
+  padding: 0.75rem 2rem;
+  min-height: 44px;
+  border: 1px solid var(--border);
+  border-radius: 22px;
+  background: transparent;
+  color: var(--text-muted);
+  font-family: inherit;
+  font-size: 0.9rem;
+  font-weight: 500;
+  cursor: pointer;
+  transition: all 0.2s;
+}
+.load-more-btn:active {
+  background: var(--accent);
+  color: #0d1117;
+  border-color: var(--accent);
+}
+
 /* ===== BACK TO TOP BUTTON ===== */
 .back-to-top {
   position: fixed;

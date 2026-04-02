@@ -716,11 +716,27 @@ function render() {
     nonHardware.sort((a, b) => new Date(b.date) - new Date(a.date));
   }
 
-  // Main grid
+  // Main grid — show 9 initially, "Load more" for rest
   const mainArticles = activeCategory === "all" && !query ? nonHardware : (activeCategory === "all" ? rest : rest);
-  // Sort by date descending
   mainArticles.sort((a, b) => new Date(b.date) - new Date(a.date));
-  newsGrid.innerHTML = mainArticles.map(buildCard).join("");
+  const INITIAL_SHOW = 9;
+  const visible = mainArticles.slice(0, INITIAL_SHOW);
+  const hidden = mainArticles.slice(INITIAL_SHOW);
+  newsGrid.innerHTML = visible.map(buildCard).join("");
+  // Load more button
+  const existingLoadMore = document.getElementById("load-more-btn");
+  if (existingLoadMore) existingLoadMore.remove();
+  if (hidden.length > 0) {
+    const btn = document.createElement("button");
+    btn.id = "load-more-btn";
+    btn.className = "load-more-btn";
+    btn.textContent = `Load more (${hidden.length})`;
+    btn.addEventListener("click", () => {
+      newsGrid.innerHTML += hidden.map(buildCard).join("");
+      btn.remove();
+    });
+    newsGrid.parentNode.insertBefore(btn, newsGrid.nextSibling);
+  }
 
   // Trending section — show top 5 newest articles across all categories
   if (activeCategory === "all" && !query) {
