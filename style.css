@@ -1371,13 +1371,19 @@ footer {
   background: var(--surface);
   border-bottom: 1px solid var(--border);
   transform: translateY(-100%);
-  transition: transform 0.25s ease;
+  opacity: 0;
   z-index: 9999;
   text-align: center;
+  pointer-events: none;
 }
 
 .ptr-indicator.visible {
-  transform: translateY(0);
+  pointer-events: auto;
+}
+
+/* Smooth snap-back on release (JS clears inline styles) */
+.ptr-indicator:not(.visible) {
+  transition: transform 0.25s ease, opacity 0.25s ease;
 }
 
 .ptr-indicator.refreshing .ptr-text {

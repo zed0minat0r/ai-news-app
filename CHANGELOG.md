@@ -1,5 +1,21 @@
 # Changelog
 
+## 2026-04-01 — v3.11.0 — Offline caching fix, PWA icons, progressive PTR (Refiner)
+
+### Critical Fix
+- Removed `Date.now()` cache-bust query param from `news.json` fetch in `main.js`. This was preventing the service worker from matching cached responses, completely breaking offline article reading.
+- Updated `sw.js` to normalize `news.json` request URLs (strip query params) so the cache key is always consistent. Bumped cache version to `ai-pulse-v3`.
+
+### PWA Icons
+- Created proper 192x192 and 512x512 SVG icons (`icon-192.svg`, `icon-512.svg`) with purple gradient background and gold lightning bolt.
+- Added maskable icon (`icon-maskable.svg`) with safe-zone-centered bolt for Android adaptive icons.
+- Updated `manifest.json` with three properly sized icon entries (192 any, 512 any, 512 maskable), replacing the inline data-URI emoji icon.
+
+### Progressive Pull-to-Refresh
+- Pull-to-refresh indicator now shows progressive feedback: opacity and slide-in position scale proportionally with pull distance (`dy / THRESHOLD`).
+- Refresh only triggers when the user pulls past the full 80px threshold (opacity >= 0.95), preventing accidental refreshes.
+- Smooth snap-back animation on release via CSS transition when the indicator loses the `visible` class.
+
 ## 2026-04-01 — v3.10.1 — Bottom nav label readability fix (Pixel)
 
 ### Mobile Audit (375px)

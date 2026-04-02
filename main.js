@@ -545,7 +545,7 @@ function hideSkeleton() {
 
 async function loadArticles() {
   try {
-    const resp = await fetch("news.json?t=" + Date.now());
+    const resp = await fetch("news.json");
     if (!resp.ok) throw new Error("HTTP " + resp.status);
     const data = await resp.json();
     if (Array.isArray(data) && data.length > 0) {
@@ -1105,24 +1105,41 @@ document.querySelectorAll("form[data-newsletter]").forEach((form) => {
   document.addEventListener("touchmove", function(e) {
     if (!pulling) return;
     const dy = e.touches[0].clientY - startY;
-    if (dy > THRESHOLD && window.scrollY === 0) {
-      ptrEl.classList.add("visible");
-    }
-    if (dy < 0) {
+    if (dy < 0 || window.scrollY !== 0) {
       pulling = false;
       ptrEl.classList.remove("visible");
+      ptrEl.style.transform = "";
+      ptrEl.style.opacity = "";
+      return;
+    }
+    /* Progressive feedback: scale and opacity proportional to pull distance */
+    if (dy > 10) {
+      ptrEl.classList.add("visible");
+      var progress = Math.min(dy / THRESHOLD, 1);
+      ptrEl.style.transform = "translateY(" + ((progress * 100) - 100) + "%)";
+      ptrEl.style.opacity = (0.3 + progress * 0.7).toFixed(2);
     }
   }, { passive: true });
 
   document.addEventListener("touchend", function() {
     if (!pulling) return;
     pulling = false;
-    if (ptrEl.classList.contains("visible")) {
+    /* Only trigger refresh if user pulled past the threshold */
+    var reachedThreshold = ptrEl.style.opacity && parseFloat(ptrEl.style.opacity) >= 0.95;
+    if (reachedThreshold && ptrEl.classList.contains("visible")) {
+      ptrEl.style.transform = "translateY(0)";
+      ptrEl.style.opacity = "1";
       ptrEl.classList.add("refreshing");
       loadArticles().then(function() {
         ptrEl.classList.remove("refreshing");
         ptrEl.classList.remove("visible");
+        ptrEl.style.transform = "";
+        ptrEl.style.opacity = "";
       });
+    } else {
+      ptrEl.classList.remove("visible");
+      ptrEl.style.transform = "";
+      ptrEl.style.opacity = "";
     }
   }, { passive: true });
 })();
