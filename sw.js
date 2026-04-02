@@ -1,5 +1,5 @@
 /* AI Pulse — Service Worker (app-shell cache) */
-const CACHE_NAME = "ai-pulse-v1";
+const CACHE_NAME = "ai-pulse-v2";
 const APP_SHELL = [
   "./",
   "./index.html",
