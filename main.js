@@ -364,6 +364,9 @@ const lastUpdatedEl   = document.getElementById("last-updated");
 const footerYear      = document.getElementById("footer-year");
 const backToTopBtn    = document.getElementById("back-to-top");
 
+const trendingSection = document.getElementById("trending-section");
+const trendingGrid    = document.getElementById("trending-grid");
+
 let activeCategory = "all";
 
 /* =========================================================
@@ -387,13 +390,32 @@ function timeAgo(dateStr) {
 /* =========================================================
    RENDER
    ========================================================= */
+function shareArticle(e, title, url) {
+  e.preventDefault();
+  e.stopPropagation();
+  if (navigator.share) {
+    navigator.share({ title, url }).catch(() => {});
+  } else {
+    navigator.clipboard.writeText(url).then(() => {
+      const btn = e.currentTarget;
+      btn.textContent = "Copied!";
+      setTimeout(() => { btn.textContent = "Share"; }, 1500);
+    }).catch(() => {});
+  }
+}
+
 function buildFeaturedCard(article) {
+  const icon = CATEGORY_ICONS[article.category] || "\u{1F4F0}";
   return `
     <a href="${article.url}" target="_blank" rel="noopener" class="featured-card">
+      <div class="featured-hero-icon" aria-hidden="true">${icon}</div>
       <span class="featured-label">Breaking</span>
       <h2>${article.title}</h2>
       <p class="summary">${article.summary}</p>
-      <p class="meta">${article.source} &middot; ${timeAgo(article.date)}</p>
+      <div class="featured-footer">
+        <p class="meta">${article.source} &middot; ${timeAgo(article.date)}</p>
+        <button class="share-btn" onclick="shareArticle(event, '${article.title.replace(/'/g, "\\'")}', '${article.url}')" aria-label="Share article">Share</button>
+      </div>
     </a>`;
 }
 
@@ -413,11 +435,39 @@ function buildCard(article) {
       <span class="card-tag ${article.category}">${article.category}</span>
       <h3>${article.title}</h3>
       <p class="summary">${article.summary}</p>
-      <p class="meta">${article.source} &middot; ${timeAgo(article.date)}</p>
+      <div class="card-footer">
+        <p class="meta">${article.source} &middot; ${timeAgo(article.date)}</p>
+        <button class="share-btn share-btn-sm" onclick="shareArticle(event, '${article.title.replace(/'/g, "\\'")}', '${article.url}')" aria-label="Share article">Share</button>
+      </div>
     </a>`;
 }
 
+function buildTrendingItem(article, rank) {
+  return `
+    <a href="${article.url}" target="_blank" rel="noopener" class="trending-item">
+      <span class="trending-rank">${rank}</span>
+      <div class="trending-info">
+        <span class="card-tag ${article.category}">${article.category}</span>
+        <h4>${article.title}</h4>
+        <p class="meta">${article.source} &middot; ${timeAgo(article.date)}</p>
+      </div>
+    </a>`;
+}
+
+function updatePillCounts() {
+  const counts = { all: ARTICLES.length };
+  ARTICLES.forEach(a => {
+    counts[a.category] = (counts[a.category] || 0) + 1;
+  });
+  categoryBtns.forEach(btn => {
+    const cat = btn.dataset.category;
+    const countEl = btn.querySelector(".pill-count");
+    if (countEl) countEl.textContent = "(" + (counts[cat] || 0) + ")";
+  });
+}
+
 function render() {
+  updatePillCounts();
   const query = searchInput.value.toLowerCase().trim();
 
   // Filter articles
@@ -464,6 +514,17 @@ function render() {
   mainArticles.sort((a, b) => new Date(b.date) - new Date(a.date));
   newsGrid.innerHTML = mainArticles.map(buildCard).join("");
 
+  // Trending section — show top 5 newest articles across all categories
+  if (activeCategory === "all" && !query) {
+    const trending = [...ARTICLES]
+      .sort((a, b) => new Date(b.date) - new Date(a.date))
+      .slice(0, 5);
+    trendingGrid.innerHTML = trending.map((a, i) => buildTrendingItem(a, i + 1)).join("");
+    trendingSection.classList.remove("hidden");
+  } else {
+    trendingSection.classList.add("hidden");
+  }
+
   // No results
   if (filtered.length === 0) {
     noResults.classList.remove("hidden");
@@ -472,7 +533,7 @@ function render() {
   }
 
   // Search UX: result count and clear button
-  searchClear.style.display = query ? "block" : "none";
+  searchClear.style.display = query ? "flex" : "none";
   if (query) {
     resultCount.textContent = filtered.length + " result" + (filtered.length !== 1 ? "s" : "") + " found";
   } else {

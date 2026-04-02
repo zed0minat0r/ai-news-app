@@ -30,18 +30,25 @@
 
   <nav id="category-nav">
     <div class="nav-inner">
-      <button class="cat-pill active" data-category="all" aria-pressed="true">All</button>
-      <button class="cat-pill" data-category="models" aria-pressed="false">Models</button>
-      <button class="cat-pill" data-category="hardware" aria-pressed="false">Hardware</button>
-      <button class="cat-pill" data-category="research" aria-pressed="false">Research</button>
-      <button class="cat-pill" data-category="tools" aria-pressed="false">Tools</button>
-      <button class="cat-pill" data-category="industry" aria-pressed="false">Industry</button>
+      <button class="cat-pill active" data-category="all" aria-pressed="true">All <span class="pill-count"></span></button>
+      <button class="cat-pill" data-category="models" aria-pressed="false">Models <span class="pill-count"></span></button>
+      <button class="cat-pill" data-category="hardware" aria-pressed="false">Hardware <span class="pill-count"></span></button>
+      <button class="cat-pill" data-category="research" aria-pressed="false">Research <span class="pill-count"></span></button>
+      <button class="cat-pill" data-category="tools" aria-pressed="false">Tools <span class="pill-count"></span></button>
+      <button class="cat-pill" data-category="industry" aria-pressed="false">Industry <span class="pill-count"></span></button>
     </div>
   </nav>
 
   <main>
     <section id="featured-section">
       <!-- Populated by JS -->
+    </section>
+
+    <section id="trending-section" class="hidden">
+      <h2 class="section-title">Trending Now</h2>
+      <div id="trending-grid" class="trending-grid">
+        <!-- Populated by JS -->
+      </div>
     </section>
 
     <section id="hardware-spotlight">

@@ -86,3 +86,11 @@
 
 ### Fixed
 - Back-to-top button: footer now has `position: relative; z-index: 1` so the fixed button (z-index: 1000) is no longer blocked by footer pointer events on mobile
+
+## [0.6.1] — 2026-04-01 (Pixel — Mobile Audit)
+
+### Fixed
+- Hero cards (every 5th) now stack vertically and center-align on viewports under 480px (was 379px), fixing left-aligned layout on standard 375px iPhones
+- Hero card category tag now `justify-self: center` in stacked mobile view
+- Search clear button tap target enlarged to 44x44px minimum (was ~20px), meets mobile accessibility guidelines
+- Search clear button displays as flex to properly center the X icon

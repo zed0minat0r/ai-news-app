@@ -180,7 +180,7 @@ input:focus-visible {
 
 #search-clear {
   position: absolute;
-  right: 0.5rem;
+  right: 0.25rem;
   top: 50%;
   transform: translateY(-50%);
   background: none;
@@ -188,9 +188,12 @@ input:focus-visible {
   color: var(--text-muted);
   font-size: 1.1rem;
   cursor: pointer;
-  padding: 0.25rem;
-  line-height: 1;
+  min-width: 44px;
+  min-height: 44px;
   display: none;
+  align-items: center;
+  justify-content: center;
+  line-height: 1;
 }
 
 #search-clear:hover {
@@ -383,8 +386,8 @@ main {
   grid-column: 2;
 }
 
-/* On very small screens (< 380px), stack hero cards vertically */
-@media (max-width: 379px) {
+/* On mobile (< 480px), stack hero cards vertically and center-align */
+@media (max-width: 479px) {
   .card-grid .card:nth-child(5n + 1) {
     grid-template-columns: 1fr;
     text-align: center;
@@ -394,7 +397,10 @@ main {
     height: 100px;
     margin-bottom: 0.75rem;
   }
-  .card-grid .card:nth-child(5n + 1) .card-tag,
+  .card-grid .card:nth-child(5n + 1) .card-tag {
+    grid-column: 1;
+    justify-self: center;
+  }
   .card-grid .card:nth-child(5n + 1) h3,
   .card-grid .card:nth-child(5n + 1) .summary,
   .card-grid .card:nth-child(5n + 1) .meta {
