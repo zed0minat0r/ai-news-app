@@ -205,4 +205,16 @@
 ### Notes
 - CSS-only, no JS changes
 - Mobile-first, center-aligned
+
+## [Builder — UI Polish & Semantic HTML] — 2026-04-01
+
+### Changed
+- **Gradient accent underlines on section titles:** Replaced plain 1px border-bottom dividers with a centered 60px gradient accent bar (blue-to-purple) on all section titles (Trending Now, Hardware Spotlight, Latest Stories). Gives each section a polished, branded feel.
+- **Reading time estimates on cards:** All article cards (featured + regular) now display an estimated read time (e.g. "2 min read") in the meta line. Calculated from summary length, making the app feel like a professional news aggregator.
+- **Semantic HTML improvements:** Added `role="region"` and `aria-labelledby` attributes to all major content sections (Featured, Trending, Hardware Spotlight, Latest Stories). Trending list already uses `<ol>` for ranked semantics. Improves screen reader navigation and fixes audit priority #3.
+
+### Notes
+- Mobile-first, center-aligned
+- No hover effects added (mobile-first rule)
+- Addresses AUDIT.md priority #3 (semantic HTML) and SCOUT-REPORT section title best practices
 - Addresses AUDIT.md feedback on making emoji thumbnails feel less synthetic

@@ -250,9 +250,21 @@ main {
   font-size: 1.1rem;
   font-weight: 700;
   margin-bottom: 1rem;
-  padding-bottom: 0.5rem;
-  border-bottom: 1px solid var(--border);
+  padding-bottom: 0.75rem;
+  border-bottom: none;
   text-align: center;
+  position: relative;
+}
+.section-title::after {
+  content: '';
+  position: absolute;
+  bottom: 0;
+  left: 50%;
+  transform: translateX(-50%);
+  width: 60px;
+  height: 3px;
+  border-radius: 2px;
+  background: linear-gradient(90deg, var(--accent), #a371f7);
 }
 
 .section-header {
@@ -262,8 +274,20 @@ main {
   gap: 0.75rem;
   flex-wrap: wrap;
   margin-bottom: 1rem;
-  padding-bottom: 0.5rem;
-  border-bottom: 1px solid var(--border);
+  padding-bottom: 0.75rem;
+  border-bottom: none;
+  position: relative;
+}
+.section-header::after {
+  content: '';
+  position: absolute;
+  bottom: 0;
+  left: 50%;
+  transform: translateX(-50%);
+  width: 60px;
+  height: 3px;
+  border-radius: 2px;
+  background: linear-gradient(90deg, var(--accent), #a371f7);
 }
 
 .section-header .section-title {
@@ -585,6 +609,13 @@ main {
 .card .meta {
   color: var(--text-muted);
   font-size: 0.75rem;
+}
+
+.read-time {
+  display: inline-block;
+  font-size: 0.7rem;
+  color: var(--text-muted);
+  opacity: 0.8;
 }
 
 /* ===== ALTERNATING HERO CARDS ===== */

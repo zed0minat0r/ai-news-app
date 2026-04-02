@@ -41,27 +41,27 @@
   </nav>
 
   <main>
-    <section id="featured-section">
+    <section id="featured-section" role="region" aria-label="Featured article">
       <!-- Populated by JS -->
     </section>
 
-    <section id="trending-section" class="hidden">
-      <h2 class="section-title">Trending Now</h2>
+    <section id="trending-section" class="hidden" role="region" aria-labelledby="trending-title">
+      <h2 id="trending-title" class="section-title">Trending Now</h2>
       <ol id="trending-grid" class="trending-grid">
         <!-- Populated by JS -->
       </ol>
     </section>
 
-    <section id="hardware-spotlight">
-      <h2 class="section-title">Hardware Spotlight</h2>
+    <section id="hardware-spotlight" role="region" aria-labelledby="hardware-title">
+      <h2 id="hardware-title" class="section-title">Hardware Spotlight</h2>
       <div id="hardware-grid" class="card-grid">
         <!-- Populated by JS -->
       </div>
     </section>
 
-    <section id="news-section">
+    <section id="news-section" role="region" aria-labelledby="news-title">
       <div class="section-header">
-        <h2 class="section-title">Latest Stories</h2>
+        <h2 id="news-title" class="section-title">Latest Stories</h2>
         <button id="sort-toggle" class="sort-toggle" aria-label="Toggle sort order">Newest first</button>
       </div>
       <div id="news-grid" class="card-grid">

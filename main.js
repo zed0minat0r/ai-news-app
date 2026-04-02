@@ -616,6 +616,7 @@ function shareArticle(e, title, url) {
 
 function buildFeaturedCard(article) {
   const icon = CATEGORY_ICONS[article.category] || "\u{1F4F0}";
+  const readMin = estimateReadTime(article.summary);
   return `
     <article class="featured-card" aria-labelledby="featured-title">
       <div class="featured-hero-icon" aria-hidden="true">${icon}</div>
@@ -623,7 +624,7 @@ function buildFeaturedCard(article) {
       <h2 id="featured-title"><a href="${article.url}" target="_blank" rel="noopener" class="card-link">${article.title}</a></h2>
       <p class="summary">${article.summary}</p>
       <div class="featured-footer">
-        <p class="meta">${article.source} &middot; ${timeAgo(article.date)}</p>
+        <p class="meta">${article.source} &middot; ${timeAgo(article.date)} &middot; <span class="read-time">${readMin} min read</span></p>
         <button class="share-btn" onclick="shareArticle(event, '${article.title.replace(/'/g, "\\'")}', '${article.url}')" aria-label="Share article">Share</button>
       </div>
     </article>`;
@@ -637,8 +638,17 @@ const CATEGORY_ICONS = {
   industry: "\u{1F4C8}"
 };
 
+function estimateReadTime(summary) {
+  const words = (summary || '').split(/\s+/).length;
+  // Assume full article is ~5x the summary length
+  const estimatedWords = words * 5;
+  const minutes = Math.max(1, Math.round(estimatedWords / 200));
+  return minutes;
+}
+
 function buildCard(article) {
   const icon = CATEGORY_ICONS[article.category] || "\u{1F4F0}";
+  const readMin = estimateReadTime(article.summary);
   return `
     <article class="card" data-category="${article.category}">
       <div class="card-thumb ${article.category}" aria-hidden="true">${icon}</div>
@@ -646,7 +656,7 @@ function buildCard(article) {
       <h3><a href="${article.url}" target="_blank" rel="noopener" class="card-link">${article.title}</a></h3>
       <p class="summary">${article.summary}</p>
       <div class="card-footer">
-        <p class="meta">${article.source} &middot; ${timeAgo(article.date)}</p>
+        <p class="meta">${article.source} &middot; ${timeAgo(article.date)} &middot; <span class="read-time">${readMin} min read</span></p>
         <button class="share-btn share-btn-sm" onclick="shareArticle(event, '${article.title.replace(/'/g, "\\'")}', '${article.url}')" aria-label="Share article">Share</button>
       </div>
     </article>`;
