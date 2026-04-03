@@ -1,23 +1,83 @@
 [
   {
-    "title": "New ways to balance cost and reliability in the Gemini API",
-    "url": "https://blog.google/innovation-and-ai/technology/developers-tools/introducing-flex-and-priority-inference/",
-    "source": "Google AI Blog",
-    "date": "2026-04-02",
-    "summary": "Google is introducing two new inference tiers to the Gemini API, Flex and Priority, to balance cost and latency.",
+    "title": "Run a Local LLM, and discover why LLMs are unpredictable",
+    "url": "https://newsletter.bphogan.com/archive/issue-51-run-a-local-llm-and-discover-why-llms/",
+    "source": "Hacker News",
+    "date": "2026-04-03",
+    "summary": "Article URL: https://newsletter.bphogan.com/archive/issue-51-run-a-local-llm-and-discover-why-llms/ Comments URL: https://news.ycombinator.com/item?id=47622496 Points: 1 # Comments: 0",
     "category": "models",
-    "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/cost_reliability_Gemini_API-soc.max-600x600.format-webp.webp",
+    "image": "https://image-generator.buttondown.email/api/emphasize-subject?subject=Issue%2051%20-%20Run%20a%20Local%20LLM%2C%20and%20discover%20why%20LLMs%20are%20unpredictable&author=Code%2C%20Content%2C%20and%20Career%20with%20Brian%20Hogan&date=2026-03-31&img=https%3A//buttondown-attachments.s3.us-west-2.amazonaws.com/images/13893aef-0747-4d6d-a3b4-cfb1be8542d6.png",
     "id": 1,
     "featured": true
   },
   {
-    "title": "Codex now offers more flexible pricing for teams",
-    "url": "https://openai.com/index/codex-flexible-pricing-for-teams",
-    "source": "OpenAI Blog",
-    "date": "2026-04-02",
-    "summary": "Codex now includes pay-as-you-go pricing for ChatGPT Business and Enterprise, providing teams a more flexible option to start and scale adoption.",
-    "category": "models",
+    "title": "Jobs Being Created by AI",
+    "url": "https://www.wsj.com/tech/ai/wanted-head-of-human-ai-solutions-the-new-jobs-being-created-by-ai-870c6ed5",
+    "source": "Hacker News",
+    "date": "2026-04-03",
+    "summary": "https://archive.is/m2jRN Comments URL: https://news.ycombinator.com/item?id=47622591 Points: 2 # Comments: 0",
+    "category": "industry",
     "id": 2
+  },
+  {
+    "title": "Pinterest and Shopmy for AI-powered fashion shopping",
+    "url": "https://faishion.ai",
+    "source": "Hacker News",
+    "date": "2026-04-03",
+    "summary": "Article URL: https://faishion.ai Comments URL: https://news.ycombinator.com/item?id=47622383 Points: 1 # Comments: 1",
+    "category": "industry",
+    "image": "https://faishion.ai/opengraph-image?364afb7cb8905061",
+    "id": 3
+  },
+  {
+    "title": "Nvidia IGX Thor powers industrial, medical and robotics edge AI applications",
+    "url": "https://developer.nvidia.com/blog/nvidia-igx-thor-powers-industrial-medical-and-robotics-edge-ai-applications/",
+    "source": "Hacker News",
+    "date": "2026-04-03",
+    "summary": "Article URL: https://developer.nvidia.com/blog/nvidia-igx-thor-powers-industrial-medical-and-robotics-edge-ai-applications/ Comments URL: https://news.ycombinator.com/item?id=47622290 Points: 1 # Comm...",
+    "category": "tools",
+    "image": "https://developer-blogs.nvidia.com/wp-content/uploads/2026/03/nvidia-igx-thor.webp",
+    "id": 4
+  },
+  {
+    "title": "Show HN: Composer – AI architect / MCP for software architecture diagrams",
+    "url": "https://www.usecomposer.com/",
+    "source": "Hacker News",
+    "date": "2026-04-03",
+    "summary": "Hi everyone! I built Composer, which is a tool turns your ideas into architecture diagrams. You can also use MCP to turn your EXISTING codebase into a visual diagram! It connects to all possible tools...",
+    "category": "tools",
+    "image": "https://usecomposer.com/og-image.png",
+    "id": 5
+  },
+  {
+    "title": "I simulated a 19th-century utopian commune with AI agents",
+    "url": "https://github.com/menggg22/utopia",
+    "source": "Hacker News",
+    "date": "2026-04-03",
+    "summary": "Article URL: https://github.com/menggg22/utopia Comments URL: https://news.ycombinator.com/item?id=47622273 Points: 3 # Comments: 2",
+    "category": "industry",
+    "image": "https://opengraph.githubassets.com/d55ae63d73071b88c349d2615dfbfea8013c2bf262a14826a4df91a9766c043d/menggg22/utopia",
+    "id": 6
+  },
+  {
+    "title": "Show HN: LM Gate – Auth and access-control gateway for self-hosted LLM back ends",
+    "url": "https://github.com/hkdb/lmgate",
+    "source": "Hacker News",
+    "date": "2026-04-03",
+    "summary": "Article URL: https://github.com/hkdb/lmgate Comments URL: https://news.ycombinator.com/item?id=47622246 Points: 1 # Comments: 0",
+    "category": "models",
+    "image": "https://opengraph.githubassets.com/abe381156788ca475255816e71dab2c0afe50d13e8c8ae26b24949ce6344c3c3/hkdb/lmgate",
+    "id": 7
+  },
+  {
+    "title": "Open-source runtime security toolkit for autonomous AI agents covering OWASP Top",
+    "url": "https://opensource.microsoft.com/blog/2026/04/02/introducing-the-agent-governance-toolkit-open-source-runtime-security-for-ai-agents/",
+    "source": "Hacker News",
+    "date": "2026-04-03",
+    "summary": "Article URL: https://opensource.microsoft.com/blog/2026/04/02/introducing-the-agent-governance-toolkit-open-source-runtime-security-for-ai-agents/ Comments URL: https://news.ycombinator.com/item?id=47...",
+    "category": "tools",
+    "image": "https://opensource.microsoft.com/blog/wp-content/uploads/2024/06/CLO19_Ubisoft_Azure_055.png",
+    "id": 8
   },
   {
     "title": "OpenAI acquires TBPN",
@@ -26,7 +86,26 @@
     "date": "2026-04-02",
     "summary": "OpenAI acquires TBPN to accelerate global conversations around AI and support independent media, expanding dialogue with builders, businesses, and the broader tech community.",
     "category": "industry",
-    "id": 3
+    "id": 9
+  },
+  {
+    "title": "Codex now offers more flexible pricing for teams",
+    "url": "https://openai.com/index/codex-flexible-pricing-for-teams",
+    "source": "OpenAI Blog",
+    "date": "2026-04-02",
+    "summary": "Codex now includes pay-as-you-go pricing for ChatGPT Business and Enterprise, providing teams a more flexible option to start and scale adoption.",
+    "category": "models",
+    "id": 10
+  },
+  {
+    "title": "New ways to balance cost and reliability in the Gemini API",
+    "url": "https://blog.google/innovation-and-ai/technology/developers-tools/introducing-flex-and-priority-inference/",
+    "source": "Google AI Blog",
+    "date": "2026-04-02",
+    "summary": "Google is introducing two new inference tiers to the Gemini API, Flex and Priority, to balance cost and latency.",
+    "category": "models",
+    "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/cost_reliability_Gemini_API-soc.max-600x600.format-webp.webp",
+    "id": 11
   },
   {
     "title": "From RTX to Spark: NVIDIA Accelerates Gemma 4 for Local Agentic AI",
@@ -36,7 +115,7 @@
     "summary": "Open models are driving a new wave of on-device AI, extending innovation beyond the cloud to everyday devices. As these models advance, their value increasingly depends on access to local, real-time c...",
     "category": "hardware",
     "image": "https://blogs.nvidia.com/wp-content/uploads/2026/04/eevee-nv-blog-1280x680-1.jpg",
-    "id": 4
+    "id": 12
   },
   {
     "title": "New Rowhammer attacks give complete control of machines running Nvidia GPUs",
@@ -46,7 +125,7 @@
     "summary": "Both GDDRHammer and GeForge hammer GPU memory in ways that compromise the CPU.",
     "category": "hardware",
     "image": "https://cdn.arstechnica.net/wp-content/uploads/2023/07/exploit-vulnerability-security.jpg",
-    "id": 5
+    "id": 13
   },
   {
     "title": "America’s AI chip rules keep changing — and the rest of the world is paying the price",
@@ -56,7 +135,7 @@
     "summary": "We interview experts, including Chris McGuire, senior fellow for China and emerging technologies at the Council on Foreign Relations, and former senior director in the U.S. National Security Coundil o...",
     "category": "hardware",
     "image": "https://cdn.mos.cms.futurecdn.net/KfMXKQcvpaJUKXCLYrCZqd-1280-80.jpg",
-    "id": 6
+    "id": 14
   },
   {
     "title": "China's homegrown silicon suppliers gain traction as Nvidia struggles to get its chips into the market — Huawei, Cambricon and more step up to fill crucial market gap",
@@ -66,7 +145,7 @@
     "summary": "Nvidia's market share in the Chinese data center market has shrunk, with a wealth of options coming from Huawei, Cambricon and more, bringing their total share up to 41%.",
     "category": "hardware",
     "image": "https://cdn.mos.cms.futurecdn.net/jYqFpBUrbpEPhsc4rYWJA-1280-80.jpg",
-    "id": 7
+    "id": 15
   },
   {
     "title": "IBM spruces up its mainframes with new support for modern Arm workloads — firm teams up with Arm to run Arm workloads on IBM Z mainframes",
@@ -76,7 +155,7 @@
     "summary": "Cloud-native AI and data intensive workloads coming to IBM Z and LinuxONE systems as IBM wants to make its machines more relevant for today's workloads.",
     "category": "industry",
     "image": "https://cdn.mos.cms.futurecdn.net/GkxFhvDqyxzeRJLYiFAMEn-1280-80.jpg",
-    "id": 8
+    "id": 16
   },
   {
     "title": "Amazing $490 Newegg combo includes an AMD Ryzen 5 9600X CPU, 16GB of G.Skill DDR5-6000 RAM, MSI Pro B850-S motherboard, and 240mm MSI MAG Coreliquid A13 AIO CPU cooler — all for under $500",
@@ -86,7 +165,7 @@
     "summary": "Grab the core components of a new AM5 PC build for under $500. Newegg combo bundle includes a CPU, motherboard, RAM, and AIO CPU cooler.",
     "category": "hardware",
     "image": "https://cdn.mos.cms.futurecdn.net/YphyicCze7sPAY6Ze3WaCo-1280-80.jpg",
-    "id": 9
+    "id": 17
   },
   {
     "title": "Modders use jumper wires and a custom BIOS to save a damaged RTX 4090 from the trash — resurrected Nvidia gaming GPU loses 4GB of VRAM to overcome terminal PCB sagging",
@@ -96,7 +175,7 @@
     "summary": "A YouTuber resurrects a damaged RTX 4090 with a bent PCB, using a custom BIOS to disable one of its memory channels, reducing its VRAM to 20GB but stabilizing it in the process.",
     "category": "hardware",
     "image": "https://cdn.mos.cms.futurecdn.net/h2TVXt4uhYiYMXJiZfdnUF-1280-80.jpg",
-    "id": 10
+    "id": 18
   },
   {
     "title": "Intel buys back 49% stake in Ireland Fab Joint Venture — takes full control over Fab 34",
@@ -106,7 +185,7 @@
     "summary": "In a mutually beneficial deal, Intel repurchases 49% of Fab 34 from Apollo for $14.2 billion, reducing pressure on its margins, but paying a hefty $3 billion premium to the financial company.",
     "category": "hardware",
     "image": "https://cdn.mos.cms.futurecdn.net/XSmGCAUBerwsBhZgUEkxS-1280-80.jpg",
-    "id": 11
+    "id": 19
   },
   {
     "title": "Why Nvidia just poured $2 billion into AI ASIC competitor Marvell — NVLink Fusion turns into soft ecosystem lock-in",
@@ -116,7 +195,7 @@
     "summary": "Nvidia has announced that it has invested $2 billion in Marvell and entered a partnership through NVLink Fusion.",
     "category": "hardware",
     "image": "https://cdn.mos.cms.futurecdn.net/udFp2ca8Nu9dvCJweZPZEL-1280-80.jpg",
-    "id": 12
+    "id": 20
   },
   {
     "title": "Global semiconductor foundry market hit a record $320 billion in 2025 as TSMC pulled further ahead",
@@ -126,7 +205,7 @@
     "summary": "The global semiconductor foundry market generated a record $320 billion in revenue in 2025, growing 16% year-over-year, according to Counterpoint Research's Foundry Market Supply Tracker.",
     "category": "industry",
     "image": "https://cdn.mos.cms.futurecdn.net/4eZrCtk8yyPbygdoere4cc-1280-80.jpg",
-    "id": 13
+    "id": 21
   },
   {
     "title": "OpenAI acquires TBPN, the buzzy founder-led business talk show",
@@ -136,7 +215,7 @@
     "summary": "TBPN, Silicon Valley's cult-favorite tech podcast, will operate independently, even as it's overseen by chief political operative Chris Lehane.",
     "category": "hardware",
     "image": "https://techcrunch.com/wp-content/uploads/2026/04/Jordi_Hays_and_John_Coogan_on_set_2_1.webp?resize=1200,675",
-    "id": 14
+    "id": 22
   },
   {
     "title": "Microsoft takes on AI rivals with three new foundational models",
@@ -146,17 +225,27 @@
     "summary": "MAI released models that can transcribe voice into text as well as generate audio and images after the group's formation six months ago.",
     "category": "industry",
     "image": "https://techcrunch.com/wp-content/uploads/2025/08/GettyImages-2207890426.jpg?resize=1200,800",
-    "id": 15
+    "id": 23
+  },
+  {
+    "title": "Show HN: Trytet – Deterministic WASM substrate for stateful AI agents",
+    "url": "https://trytet.com",
+    "source": "Hacker News",
+    "date": "2026-04-02",
+    "summary": "Hey HN, I built Trytet to fix the state and geography constraints of autonomous agents. Giving an LLM unverified host execution breaks security, and streaming embeddings back and forth over HTTP is he...",
+    "category": "models",
+    "image": "https://trytet.com/social-preview.svg",
+    "id": 24
   },
   {
     "title": "AI benchmarks are broken. Here's what we need instead",
     "url": "https://www.technologyreview.com/2026/03/31/1134833/ai-benchmarks-are-broken-heres-what-we-need-instead/",
     "source": "Hacker News",
     "date": "2026-04-02",
-    "summary": "Article URL: https://www.technologyreview.com/2026/03/31/1134833/ai-benchmarks-are-broken-heres-what-we-need-instead/ Comments URL: https://news.ycombinator.com/item?id=47621673 Points: 2 # Comments: ...",
+    "summary": "Article URL: https://www.technologyreview.com/2026/03/31/1134833/ai-benchmarks-are-broken-heres-what-we-need-instead/ Comments URL: https://news.ycombinator.com/item?id=47621673 Points: 3 # Comments: ...",
     "category": "models",
     "image": "https://wp.technologyreview.com/wp-content/uploads/2026/03/260326_AIlearningOpEd2.jpg?resize=1200,600",
-    "id": 16
+    "id": 25
   },
   {
     "title": "AI Harness on Google Trends",
@@ -165,16 +254,16 @@
     "date": "2026-04-02",
     "summary": "Article URL: https://trends.google.com/trends/explore?date=today%205-y&q=Ai%20harness&hl=en-GB Comments URL: https://news.ycombinator.com/item?id=47621649 Points: 1 # Comments: 0",
     "category": "industry",
-    "id": 17
+    "id": 26
   },
   {
     "title": "Lisa Core – semantic compression for AI conversations (80:1 ratio, 100% local)",
     "url": "https://chromewebstore.google.com/detail/lisa-core-ai-memory-libra/dmgnookddagimdcggdlbjmaobmoofhbj",
     "source": "Hacker News",
     "date": "2026-04-02",
-    "summary": "Article URL: https://chromewebstore.google.com/detail/lisa-core-ai-memory-libra/dmgnookddagimdcggdlbjmaobmoofhbj Comments URL: https://news.ycombinator.com/item?id=47621586 Points: 3 # Comments: 0",
+    "summary": "Article URL: https://chromewebstore.google.com/detail/lisa-core-ai-memory-libra/dmgnookddagimdcggdlbjmaobmoofhbj Comments URL: https://news.ycombinator.com/item?id=47621586 Points: 3 # Comments: 1",
     "category": "hardware",
-    "id": 18
+    "id": 27
   },
   {
     "title": "Show HN: MicroSafe-RL – Sub-microsecond safety layer for Edge AI 1.18µs latency",
@@ -184,7 +273,7 @@
     "summary": "I built MicroSafe-RL to solve the \"Hardware Drift\" problem in Reinforcement Learning. When RL agents move from simulation to real hardware, they often encounter unknown states and destroy expensive pa...",
     "category": "research",
     "image": "https://opengraph.githubassets.com/5ff7d9283d925da416972e07adca25559d40e5311887e5ad6ca0f3b6d1526e27/Kretski/MicroSafe-RL",
-    "id": 19
+    "id": 28
   },
   {
     "title": "AI for Software Engineering",
@@ -193,7 +282,7 @@
     "date": "2026-04-02",
     "summary": "Article URL: https://mattamonroe.substack.com/p/ai-for-software-engineering Comments URL: https://news.ycombinator.com/item?id=47621513 Points: 1 # Comments: 0",
     "category": "industry",
-    "id": 20
+    "id": 29
   },
   {
     "title": "AI-derived heart fat measures improve accuracy of cardio disease risk prediction",
@@ -202,7 +291,7 @@
     "date": "2026-04-02",
     "summary": "Article URL: https://newsnetwork.mayoclinic.org/discussion/including-ai-derived-heart-fat-measurement-improves-accuracy-of-cardiovascular-disease-risk-prediction/ Comments URL: https://news.ycombinato...",
     "category": "industry",
-    "id": 21
+    "id": 30
   },
   {
     "title": "Genesis Agent – A self-modifying AI agent that runs local (Electron, Ollama)",
@@ -211,8 +300,8 @@
     "date": "2026-04-02",
     "summary": "Article URL: https://github.com/Garrus800-stack/genesis-agent Comments URL: https://news.ycombinator.com/item?id=47621307 Points: 3 # Comments: 0",
     "category": "models",
-    "image": "https://opengraph.githubassets.com/59070539fe2e420f767ab9ee4c699779337ebd453fcb2dc8fb867ea11ce62180/Garrus800-stack/genesis-agent",
-    "id": 22
+    "image": "https://opengraph.githubassets.com/eec733df2d14649adf65b3b126127b8c59995a9ebd3fce2fef1a599588971ed5/Garrus800-stack/genesis-agent",
+    "id": 31
   },
   {
     "title": "Show HN: Currant – Anonymus social media for NON-AI agents",
@@ -221,7 +310,7 @@
     "date": "2026-04-02",
     "summary": "I was once having a bad day and wanted to ventillate about the peculiarities of corporate life. Then I realised I don't trust these sites. Neither my blog. I didn't want to link these thoughts to an a...",
     "category": "models",
-    "id": 23
+    "id": 32
   },
   {
     "title": "KernelEvolve: Meta's Ranking Engineer Agent Optimizes AI Infrastructure",
@@ -231,7 +320,7 @@
     "summary": "Article URL: https://engineering.fb.com/2026/04/02/developer-tools/kernelevolve-how-metas-ranking-engineer-agent-optimizes-ai-infrastructure/ Comments URL: https://news.ycombinator.com/item?id=4762118...",
     "category": "tools",
     "image": "https://engineering.fb.com/wp-content/uploads/2026/04/Meta-KernalEvolve-REA-Hero.png",
-    "id": 24
+    "id": 33
   },
   {
     "title": "Show HN: OpenVole – VoleNet Distributed AI Agent Networking",
@@ -240,7 +329,7 @@
     "date": "2026-04-02",
     "summary": "Comments URL: https://news.ycombinator.com/item?id=47620865 Points: 1 # Comments: 1",
     "category": "industry",
-    "id": 25
+    "id": 34
   },
   {
     "title": "BlackSwanX,174 AI agents predict the future by fighting each other,run on Ollama",
@@ -249,93 +338,7 @@
     "date": "2026-04-02",
     "summary": "Article URL: https://github.com/Kalki-M/BlackSwanX Comments URL: https://news.ycombinator.com/item?id=47620717 Points: 1 # Comments: 0",
     "category": "models",
-    "image": "https://opengraph.githubassets.com/662126f73b1befb06f1be628d9d846d86a0d05b8474d5094439e73cc4ced4066/Kalki-M/BlackSwanX",
-    "id": 26
-  },
-  {
-    "title": "Show HN: SharpSkill – AI writes your code. We teach you to understand it",
-    "url": "https://sharpskill.dev/en",
-    "source": "Hacker News",
-    "date": "2026-04-02",
-    "summary": "Gx HN, AI makes it easy to generate code, but much harder to truly understand it especially under pressure. SharpSkill simulates real technical interviews : solve problems live, explain your thinking,...",
-    "category": "industry",
-    "id": 27
-  },
-  {
-    "title": "Are you still copy/pasting in GPT to correct your text?",
-    "url": "https://rewritecmd.com/",
-    "source": "Hacker News",
-    "date": "2026-04-02",
-    "summary": "Article URL: https://rewritecmd.com/ Comments URL: https://news.ycombinator.com/item?id=47620337 Points: 1 # Comments: 0",
-    "category": "models",
-    "id": 28
-  },
-  {
-    "title": "ON1 Restore AI Turns Old Family Photos into Grotesque Nightmare Fuel",
-    "url": "https://petapixel.com/2026/03/25/on1-restore-ai-turns-old-family-photos-into-grotesque-nightmare-fuel/",
-    "source": "Hacker News",
-    "date": "2026-04-02",
-    "summary": "Article URL: https://petapixel.com/2026/03/25/on1-restore-ai-turns-old-family-photos-into-grotesque-nightmare-fuel/ Comments URL: https://news.ycombinator.com/item?id=47620335 Points: 1 # Comments: 0",
-    "category": "tools",
-    "image": "https://petapixel.com/assets/uploads/2026/03/ON1-Restore-AI-Turns-Old-Family-Photos-into-Grotesque-Nightmare-Fuel.jpg",
-    "id": 29
-  },
-  {
-    "title": "Marc Andreessen Is Right That AI Isn't Killing Jobs. Interest Rate Hikes Are",
-    "url": "https://www.governance.fyi/p/marc-andreessen-is-right-that-ai",
-    "source": "Hacker News",
-    "date": "2026-04-02",
-    "summary": "Article URL: https://www.governance.fyi/p/marc-andreessen-is-right-that-ai Comments URL: https://news.ycombinator.com/item?id=47620155 Points: 15 # Comments: 1",
-    "category": "industry",
-    "image": "https://substackcdn.com/image/fetch/$s_!oVKr!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fbc238c78-2004-4a7a-94d4-73b353f51fc8_1021x720.jpeg",
-    "id": 30
-  },
-  {
-    "title": "Show HN: AI tax filing – upload W-2s and 1099s, get completed IRS forms back",
-    "url": "https://autocook.io",
-    "source": "Hacker News",
-    "date": "2026-04-02",
-    "summary": "Article URL: https://autocook.io Comments URL: https://news.ycombinator.com/item?id=47620101 Points: 2 # Comments: 0",
-    "category": "industry",
-    "id": 31
-  },
-  {
-    "title": "Reporting potholes with an ESP32, LoRA, and AI",
-    "url": "https://thingswemake.com/pothole-in-one/",
-    "source": "Hacker News",
-    "date": "2026-04-02",
-    "summary": "Article URL: https://thingswemake.com/pothole-in-one/ Comments URL: https://news.ycombinator.com/item?id=47620039 Points: 3 # Comments: 0",
-    "category": "industry",
-    "id": 32
-  },
-  {
-    "title": "Orallexa – AI Trading System",
-    "url": "https://github.com/alex-jb/orallexa-ai-trading-agent",
-    "source": "Hacker News",
-    "date": "2026-04-02",
-    "summary": "Article URL: https://github.com/alex-jb/orallexa-ai-trading-agent Comments URL: https://news.ycombinator.com/item?id=47619952 Points: 3 # Comments: 0",
-    "category": "industry",
-    "image": "https://opengraph.githubassets.com/09935636bd599c34c3960ce31214e6eac3b2dace5c824de7c754dacd7d2403ff/alex-jb/orallexa-ai-trading-agent",
-    "id": 33
-  },
-  {
-    "title": "Anton – The most advanced AI data-coworker",
-    "url": "https://github.com/mindsdb/anton",
-    "source": "Hacker News",
-    "date": "2026-04-02",
-    "summary": "Article URL: https://github.com/mindsdb/anton Comments URL: https://news.ycombinator.com/item?id=47619834 Points: 1 # Comments: 1",
-    "category": "industry",
-    "image": "https://opengraph.githubassets.com/1b615981b96ba893663d3dd270be8aaad27377be4778b9be97714889b75c6487/mindsdb/anton",
-    "id": 34
-  },
-  {
-    "title": "How to teach programming in the age of AI",
-    "url": "https://www.thetransmitter.org/how-to-teach-this-paper/how-to-teach-programming-in-the-age-of-ai/",
-    "source": "Hacker News",
-    "date": "2026-04-02",
-    "summary": "Article URL: https://www.thetransmitter.org/how-to-teach-this-paper/how-to-teach-programming-in-the-age-of-ai/ Comments URL: https://news.ycombinator.com/item?id=47619826 Points: 2 # Comments: 0",
-    "category": "research",
-    "image": "https://www.thetransmitter.org/wp-content/uploads/2026/03/AiTeachingCodingNeuro-525.png",
+    "image": "https://opengraph.githubassets.com/eec733df2d14649adf65b3b126127b8c59995a9ebd3fce2fef1a599588971ed5/Kalki-M/BlackSwanX",
     "id": 35
   },
   {
