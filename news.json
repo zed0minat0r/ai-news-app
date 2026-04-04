@@ -1,5 +1,16 @@
 [
   {
+    "title": "National Robotics Week — Latest Physical AI Research, Breakthroughs and Resources",
+    "url": "https://blogs.nvidia.com/blog/national-robotics-week-2026/",
+    "source": "NVIDIA Blog",
+    "date": "2026-04-04",
+    "summary": "This National Robotics Week, NVIDIA is highlighting the breakthroughs that are bringing AI into the physical world — as well as the growing wave of robots transforming industries, from agricultural an...",
+    "category": "research",
+    "image": "https://blogs.nvidia.com/wp-content/uploads/2026/04/robotics-tech-blog-nrw-rolling-blog-1280x680-1.jpg",
+    "id": 1,
+    "featured": true
+  },
+  {
     "title": "Nvidia AI tech claims to slash VRAM usage by 85% with zero quality loss — Neural Texture Compression demo reveals stunning visual parity between 6.5GB of memory and 970MB",
     "url": "https://www.tomshardware.com/pc-components/gpus/nvidia-ai-tech-claims-to-slash-vram-usage-by-85-percent-with-zero-quality-loss-neural-texture-compression-demo-reveals-stunning-visual-parity-between-6-5gb-of-memory-and-970mb",
     "source": "Tom's Hardware",
@@ -7,8 +18,7 @@
     "summary": "Nvidia has just demoed its Neural Texture Compression technique again at a GTC talk, where it showed VRAM usage dropping from 6.5 GB to just 970 MB in a scene. NTC uses a neural network to decompress ...",
     "category": "hardware",
     "image": "https://cdn.mos.cms.futurecdn.net/em75yW8GD6NwDXqZgKv7bZ-1280-80.jpg",
-    "id": 1,
-    "featured": true
+    "id": 2
   },
   {
     "title": "Modder uses Claude AI to rewrite BIOS so they can boot unsupported 12 P-core Bartlett Lake CPU in Windows on a Z790 motherboard",
@@ -18,7 +28,7 @@
     "summary": "A modder has successfully booted a 12-core Bartlett Lake-S CPU into Windows using a modified BIOS on an Asus Z790 motherboard.",
     "category": "models",
     "image": "https://cdn.mos.cms.futurecdn.net/6dhScSyVh9hBM75rUoJ4qN-1280-80.jpg",
-    "id": 2
+    "id": 3
   },
   {
     "title": "Microsoft to force updates to Windows 11 25H2 for PCs with older OS versions — 'intelligent' update system uses machine learning to determine when a device is ready",
@@ -28,7 +38,7 @@
     "summary": "Windows 11 24H2 systems are being upgraded to 25H2 automatically, as Microsoft aims to streamline updates before support ends.",
     "category": "hardware",
     "image": "https://cdn.mos.cms.futurecdn.net/696ThUkeRGRQegzxaqz24B-1280-80.jpg",
-    "id": 3
+    "id": 4
   },
   {
     "title": "New 'GeForge' and 'GDDRHammer' attacks can fully infiltrate your system through Nvidia's GPU memory — Rowhammer attacks in GPUs force bit flips in protected VRAM regions to gain read/write access",
@@ -38,7 +48,17 @@
     "summary": "Two new Rowhammer attacks for GPUs have been discovered that can cause bit flips in VRAM to gain arbitrary read/write access over it. These attacks target page files and the page directory that are ot...",
     "category": "hardware",
     "image": "https://cdn.mos.cms.futurecdn.net/2LhaENkUnPZJGvkmiraM58-1280-80.jpg",
-    "id": 4
+    "id": 5
+  },
+  {
+    "title": "Anthropic says Claude Code subscribers will need to pay extra for OpenClaw usage",
+    "url": "https://techcrunch.com/2026/04/04/anthropic-says-claude-code-subscribers-will-need-to-pay-extra-for-openclaw-support/",
+    "source": "TechCrunch",
+    "date": "2026-04-04",
+    "summary": "It’s about to become more expensive for Claude Code subscribers to use Anthropic’s coding assistant with OpenClaw and other third-party tools.",
+    "category": "tools",
+    "image": "https://techcrunch.com/wp-content/uploads/2026/01/GettyImages-1396827010.jpg?resize=1200,839",
+    "id": 6
   },
   {
     "title": "Anthropic is having a moment in the private markets; SpaceX could spoil the party",
@@ -48,7 +68,168 @@
     "summary": "Glen Anderson, president of Rainmaker Securities, says the secondary market for private shares has never been more active — with Anthropic the hottest trade around, OpenAI losing ground, and SpaceX's ...",
     "category": "industry",
     "image": "https://techcrunch.com/wp-content/uploads/2024/09/GettyImages-2148589533.jpg?resize=1200,800",
-    "id": 5
+    "id": 7
+  },
+  {
+    "title": "Ask HN: How do you use AI coding harnesses for individual development?",
+    "url": "https://news.ycombinator.com/item?id=47641994",
+    "source": "Hacker News",
+    "date": "2026-04-04",
+    "summary": "I'd like to limit the Scope to Indie development of products and services. 1. Cost: I use humanlayer which uses the claude code go binary with the max/pro plan. My costs are capped. Is this popular wi...",
+    "category": "tools",
+    "id": 8
+  },
+  {
+    "title": "Go-LLM-proxy v0.3 released – translating proxy for Claude Code and Codex",
+    "url": "https://go-llm-proxy.com",
+    "source": "Hacker News",
+    "date": "2026-04-04",
+    "summary": "Article URL: https://go-llm-proxy.com Comments URL: https://news.ycombinator.com/item?id=47641866 Points: 2 # Comments: 1",
+    "category": "models",
+    "id": 9
+  },
+  {
+    "title": "Show HN: Hypedar – what's trending in AI that nobody has built yet",
+    "url": "https://hypedar.dev/",
+    "source": "Hacker News",
+    "date": "2026-04-04",
+    "summary": "Article URL: https://hypedar.dev/ Comments URL: https://news.ycombinator.com/item?id=47641683 Points: 2 # Comments: 0",
+    "category": "industry",
+    "image": "https://hypedar.dev/og-default.png",
+    "id": 10
+  },
+  {
+    "title": "37,000 AI-generated podcasts on Kaggle",
+    "url": "https://www.kaggle.com/datasets/listennotes/ai-generated-fake-podcasts-spams",
+    "source": "Hacker News",
+    "date": "2026-04-04",
+    "summary": "Article URL: https://www.kaggle.com/datasets/listennotes/ai-generated-fake-podcasts-spams Comments URL: https://news.ycombinator.com/item?id=47641369 Points: 3 # Comments: 0",
+    "category": "industry",
+    "image": "https://storage.googleapis.com/kaggle-datasets-images/6123380/9956235/35ba992223b60f6fcd22404f511ae292/dataset-card.png?t=2024-11-20-00-06-04",
+    "id": 11
+  },
+  {
+    "title": "AI Agents to Organise My Secret Society's Dinners",
+    "url": "https://chillphysicsenjoyer.substack.com/p/ai-agents-to-organise-my-secret-societys",
+    "source": "Hacker News",
+    "date": "2026-04-04",
+    "summary": "Article URL: https://chillphysicsenjoyer.substack.com/p/ai-agents-to-organise-my-secret-societys Comments URL: https://news.ycombinator.com/item?id=47641281 Points: 2 # Comments: 0",
+    "category": "industry",
+    "id": 12
+  },
+  {
+    "title": "Mapping AI into Production: A Field Experiment on Firm Performance",
+    "url": "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6513481",
+    "source": "Hacker News",
+    "date": "2026-04-04",
+    "summary": "Article URL: https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6513481 Comments URL: https://news.ycombinator.com/item?id=47641229 Points: 2 # Comments: 0",
+    "category": "research",
+    "id": 13
+  },
+  {
+    "title": "Token Price Discovery in the AI Diffusion Debate",
+    "url": "https://davefriedman.substack.com/p/the-price-discovery-problem-in-the",
+    "source": "Hacker News",
+    "date": "2026-04-04",
+    "summary": "Article URL: https://davefriedman.substack.com/p/the-price-discovery-problem-in-the Comments URL: https://news.ycombinator.com/item?id=47641018 Points: 1 # Comments: 0",
+    "category": "models",
+    "id": 14
+  },
+  {
+    "title": "The AI-Native Fork",
+    "url": "https://www.howardgray.net/the-fork/",
+    "source": "Hacker News",
+    "date": "2026-04-04",
+    "summary": "Article URL: https://www.howardgray.net/the-fork/ Comments URL: https://news.ycombinator.com/item?id=47640941 Points: 3 # Comments: 0",
+    "category": "industry",
+    "image": "https://images.unsplash.com/photo-1519401706-5cf17f6e70de?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTc3M3wwfDF8c2VhcmNofDF8fGZvcmslMjBpbiUyMHRoZSUyMHJvYWR8ZW58MHx8fHwxNzc0NTY1MzUzfDA&ixlib=rb-4.1.0&q=80&w=2000",
+    "id": 15
+  },
+  {
+    "title": "AI Safety at the Frontier: Paper Highlights of February and March 2026",
+    "url": "https://www.lesswrong.com/posts/ckKZFqfSQGMye4JeK/ai-safety-at-the-frontier-paper-highlights-of-february-and",
+    "source": "Hacker News",
+    "date": "2026-04-04",
+    "summary": "Article URL: https://www.lesswrong.com/posts/ckKZFqfSQGMye4JeK/ai-safety-at-the-frontier-paper-highlights-of-february-and Comments URL: https://news.ycombinator.com/item?id=47640911 Points: 1 # Commen...",
+    "category": "research",
+    "id": 16
+  },
+  {
+    "title": "LLM Wiki",
+    "url": "https://gist.github.com/karpathy/442a6bf555914893e9891c11519de94f",
+    "source": "Hacker News",
+    "date": "2026-04-04",
+    "summary": "Article URL: https://gist.github.com/karpathy/442a6bf555914893e9891c11519de94f Comments URL: https://news.ycombinator.com/item?id=47640875 Points: 2 # Comments: 0",
+    "category": "models",
+    "image": "https://github.githubassets.com/assets/gist-og-image-54fd7dc0713e.png",
+    "id": 17
+  },
+  {
+    "title": "Show HN: Kaoslabs – High-intensity AI video and visual experiments",
+    "url": "https://kaoslabs.org",
+    "source": "Hacker News",
+    "date": "2026-04-04",
+    "summary": "\"I've been building a sandbox on a Linux VPS to push AI video generation and visualization to the extreme. It's a mix of experimental generative art and high-intensity visuals. Built with Python, runn...",
+    "category": "industry",
+    "id": 18
+  },
+  {
+    "title": "12k AI-generated blog posts added in a single commit",
+    "url": "https://github.com/OneUptime/blog/commit/30cd2384794c897d95aca77d173db44af51ca849",
+    "source": "Hacker News",
+    "date": "2026-04-04",
+    "summary": "Article URL: https://github.com/OneUptime/blog/commit/30cd2384794c897d95aca77d173db44af51ca849 Comments URL: https://news.ycombinator.com/item?id=47640722 Points: 114 # Comments: 96",
+    "category": "industry",
+    "image": "https://opengraph.githubassets.com/6020e91f9a9f01c2c48c5c101115df56a9e5d0f86a9aca70924d93c40ce915bb/OneUptime/blog/commit/30cd2384794c897d95aca77d173db44af51ca849",
+    "id": 19
+  },
+  {
+    "title": "AI Models Choose Which Businesses to Recommend",
+    "url": "https://driftspear.com/blog/how-ai-models-choose-which-business.md",
+    "source": "Hacker News",
+    "date": "2026-04-04",
+    "summary": "Article URL: https://driftspear.com/blog/how-ai-models-choose-which-business.md Comments URL: https://news.ycombinator.com/item?id=47640485 Points: 4 # Comments: 0",
+    "category": "industry",
+    "image": "http://localhost:3000/assets/images/blog/how-ai-models-choose.png",
+    "id": 20
+  },
+  {
+    "title": "Chinese AI Startup Is Mapping Every US Military Asset in Middle East in Realtime",
+    "url": "https://breached.company/mizarvision-chinese-ai-satellite-us-military-tracking-2026/",
+    "source": "Hacker News",
+    "date": "2026-04-04",
+    "summary": "Article URL: https://breached.company/mizarvision-chinese-ai-satellite-us-military-tracking-2026/ Comments URL: https://news.ycombinator.com/item?id=47640424 Points: 4 # Comments: 0",
+    "category": "hardware",
+    "id": 21
+  },
+  {
+    "title": "28 Times faster than Google's LLM tokenizer",
+    "url": "https://o200k-tokenizer-70fe25.gitlab.io/",
+    "source": "Hacker News",
+    "date": "2026-04-04",
+    "summary": "Article URL: https://o200k-tokenizer-70fe25.gitlab.io/ Comments URL: https://news.ycombinator.com/item?id=47640039 Points: 2 # Comments: 0",
+    "category": "models",
+    "id": 22
+  },
+  {
+    "title": "My AI Secretary",
+    "url": "https://deknijf.com/posts/my-ai-secretary/",
+    "source": "Hacker News",
+    "date": "2026-04-04",
+    "summary": "Article URL: https://deknijf.com/posts/my-ai-secretary/ Comments URL: https://news.ycombinator.com/item?id=47639964 Points: 1 # Comments: 0",
+    "category": "industry",
+    "image": "https://deknijf.com/images/sculptures/venus_de_milo.jpg",
+    "id": 23
+  },
+  {
+    "title": "Reasoning.json – DKIM for AI Agents (Ed25519-Signed Brand Context for LLMs)",
+    "url": "https://github.com/SaschaDeforth/arp-protocol",
+    "source": "Hacker News",
+    "date": "2026-04-04",
+    "summary": "Article URL: https://github.com/SaschaDeforth/arp-protocol Comments URL: https://news.ycombinator.com/item?id=47639907 Points: 1 # Comments: 0",
+    "category": "models",
+    "image": "https://opengraph.githubassets.com/05b4fa2cd30f9a408cb997cbda8f129eb753d1afbb9c1e45811fcca66ce709c3/SaschaDeforth/arp-protocol",
+    "id": 24
   },
   {
     "title": "Has there been any significant progress on using AI to talk to animals?",
@@ -58,189 +239,6 @@
     "summary": "Article URL: https://www.smithsonianmag.com/smart-news/google-is-training-a-new-ai-model-to-decode-dolphin-chatter-and-potentially-talk-back-180986434/ Comments URL: https://news.ycombinator.com/item?...",
     "category": "industry",
     "image": "https://th-thumbnailer.cdn-si-edu.com/uH1BqSnnefv_TwvYAzxBXalRTek=/fit-in/1600x0/filters:focal(500x381:501x382)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/59/7b/597b9510-8fbf-4248-a784-645e21274152/dolphinswidth-1000format-webp.webp",
-    "id": 6
-  },
-  {
-    "title": "Improving LLM Inference with Continuous Batching: Orca Through Tinyorca",
-    "url": "https://www.junupark.xyz/blog/posts/improving-llm-inference-with-continuous-batching-orca-through-tinyorca/",
-    "source": "Hacker News",
-    "date": "2026-04-04",
-    "summary": "Article URL: https://www.junupark.xyz/blog/posts/improving-llm-inference-with-continuous-batching-orca-through-tinyorca/ Comments URL: https://news.ycombinator.com/item?id=47639648 Points: 1 # Comment...",
-    "category": "models",
-    "id": 7
-  },
-  {
-    "title": "I connected Claude to my AI runtime – they invented a new language",
-    "url": "https://news.ycombinator.com/item?id=47639582",
-    "source": "Hacker News",
-    "date": "2026-04-04",
-    "summary": "i just connected two AI agents from different families (Anthropic + OpenAI) and they invented their own language to talk to each other. they call it AICL and looking for use cases! maybe it's too soon...",
-    "category": "models",
-    "id": 8
-  },
-  {
-    "title": "Show HN: A tool to make AI show evidence inline",
-    "url": "https://github.com/dvelton/eyeball",
-    "source": "Hacker News",
-    "date": "2026-04-04",
-    "summary": "When working in hallucination-sensitive contexts (where cost of error is very high), found myself constantly jumping between AI outputs/analysis and source docs to see with my own eyes that a source d...",
-    "category": "hardware",
-    "image": "https://opengraph.githubassets.com/fa4550ad17b9dee80fe396a69cbe8ba1fc1f81b7e0b5e1d6a9aac057847de8d3/dvelton/eyeball",
-    "id": 9
-  },
-  {
-    "title": "Yes, Therapy Sessions Are Being Used to Train AI",
-    "url": "https://www.thebignewsletter.com/p/yes-therapy-sessions-are-being-used",
-    "source": "Hacker News",
-    "date": "2026-04-04",
-    "summary": "Article URL: https://www.thebignewsletter.com/p/yes-therapy-sessions-are-being-used Comments URL: https://news.ycombinator.com/item?id=47639513 Points: 1 # Comments: 0",
-    "category": "industry",
-    "id": 10
-  },
-  {
-    "title": "Microsoft's new framework for building and orchestrating AI agents",
-    "url": "https://github.com/microsoft/agent-framework",
-    "source": "Hacker News",
-    "date": "2026-04-04",
-    "summary": "Article URL: https://github.com/microsoft/agent-framework Comments URL: https://news.ycombinator.com/item?id=47639277 Points: 2 # Comments: 0",
-    "category": "tools",
-    "image": "https://opengraph.githubassets.com/1a90491777784ae12050e8d8a743d6057b29a279049edbd7adc5b68ce42ed17e/microsoft/agent-framework",
-    "id": 11
-  },
-  {
-    "title": "Show HN: Semsei — AI SEO for clicks, not impressions",
-    "url": "https://www.semsei.io/en",
-    "source": "Hacker News",
-    "date": "2026-04-04",
-    "summary": "Article URL: https://www.semsei.io/en Comments URL: https://news.ycombinator.com/item?id=47639220 Points: 3 # Comments: 2",
-    "category": "industry",
-    "image": "https://www.semsei.io/auth/hero-characters-row.jpg",
-    "id": 12
-  },
-  {
-    "title": "Wrote an Honest Comparison of Final Round AI vs. Pramp",
-    "url": "https://portlumeai.com/blog/final-round-ai-vs-pramp-interview-prep-comparison",
-    "source": "Hacker News",
-    "date": "2026-04-04",
-    "summary": "Article URL: https://portlumeai.com/blog/final-round-ai-vs-pramp-interview-prep-comparison Comments URL: https://news.ycombinator.com/item?id=47639215 Points: 2 # Comments: 0",
-    "category": "industry",
-    "image": "https://portlumeai.com/og-image-v2.png?v=2",
-    "id": 13
-  },
-  {
-    "title": "Show HN: Tokencap – Token budget enforcement across your AI agents",
-    "url": "https://github.com/pykul/tokencap",
-    "source": "Hacker News",
-    "date": "2026-04-04",
-    "summary": "I built this after hitting the same wall repeatedly — no good way to enforce token budgets in application code. Provider caps are account-level and tell you what happened, not what is happening. Two w...",
-    "category": "hardware",
-    "image": "https://opengraph.githubassets.com/3e0244e3efe76f9f56e94501d1b359e0a03ae18918ff6dd9e9e60bccea2492a3/pykul/tokencap",
-    "id": 14
-  },
-  {
-    "title": "AI Is Rewiring India's Film Industry",
-    "url": "https://www.reuters.com/technology/ai-is-rewiring-worlds-most-prolific-film-industry-2026-04-04/",
-    "source": "Hacker News",
-    "date": "2026-04-04",
-    "summary": "Article URL: https://www.reuters.com/technology/ai-is-rewiring-worlds-most-prolific-film-industry-2026-04-04/ Comments URL: https://news.ycombinator.com/item?id=47639033 Points: 4 # Comments: 0",
-    "category": "industry",
-    "id": 15
-  },
-  {
-    "title": "An AI agent called every pub in Ireland to index the cost of a Guinness",
-    "url": "https://guinndex.ai",
-    "source": "Hacker News",
-    "date": "2026-04-04",
-    "summary": "Article URL: https://guinndex.ai Comments URL: https://news.ycombinator.com/item?id=47639022 Points: 3 # Comments: 1",
-    "category": "industry",
-    "image": "https://guinndex.ai/opengraph-image?2a2fd8dc91a64372",
-    "id": 16
-  },
-  {
-    "title": "Show HN: Batty – Run a team of AI coding agents in tmux with test gating",
-    "url": "https://github.com/battysh/batty",
-    "source": "Hacker News",
-    "date": "2026-04-04",
-    "summary": "Hi HN, I'm the author. I use Claude Code and Codex daily. Running one agent on a task works great. Running three or four in parallel on the same repo? They step on each other's files, nobody checks if...",
-    "category": "tools",
-    "image": "https://repository-images.githubusercontent.com/1163606463/23f439d9-c0ed-472a-a946-fc96909e7a0a",
-    "id": 17
-  },
-  {
-    "title": "UK's leading AI research institute told to make 'significant' changes",
-    "url": "https://www.theguardian.com/technology/2026/apr/03/uk-alan-turing-institute-ai-research-underperforming-ukri",
-    "source": "Hacker News",
-    "date": "2026-04-04",
-    "summary": "Article URL: https://www.theguardian.com/technology/2026/apr/03/uk-alan-turing-institute-ai-research-underperforming-ukri Comments URL: https://news.ycombinator.com/item?id=47638697 Points: 2 # Commen...",
-    "category": "research",
-    "image": "https://i.guim.co.uk/img/media/fc4b8480a700ae851faa5bcd1e40a6b96029c71b/3100_726_2274_1819/master/2274.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=a7429089e405c5610bea1f16a45085dd",
-    "id": 18
-  },
-  {
-    "title": "Show HN: Engram – Persistent Memory API with Drift Detection for AI Agents",
-    "url": "https://engram.cipherbuilds.ai",
-    "source": "Hacker News",
-    "date": "2026-04-04",
-    "summary": "Article URL: https://engram.cipherbuilds.ai Comments URL: https://news.ycombinator.com/item?id=47638674 Points: 1 # Comments: 0",
-    "category": "hardware",
-    "image": "https://engram.cipherbuilds.ai/og-image.png",
-    "id": 19
-  },
-  {
-    "title": "AI Whiz Kids Dropped Out of College and Got Investors to Pay Their Bills",
-    "url": "https://www.wsj.com/tech/ai/ai-college-dropouts-ecc665b7",
-    "source": "Hacker News",
-    "date": "2026-04-04",
-    "summary": "Article URL: https://www.wsj.com/tech/ai/ai-college-dropouts-ecc665b7 Comments URL: https://news.ycombinator.com/item?id=47638640 Points: 5 # Comments: 2",
-    "category": "industry",
-    "id": 20
-  },
-  {
-    "title": "Blur Blitz – a visual Wordle where AI scores how close your guess is",
-    "url": "https://blurblitz.io/play?daily",
-    "source": "Hacker News",
-    "date": "2026-04-04",
-    "summary": "Article URL: https://blurblitz.io/play?daily Comments URL: https://news.ycombinator.com/item?id=47638638 Points: 1 # Comments: 0",
-    "category": "industry",
-    "id": 21
-  },
-  {
-    "title": "The Asiyah Protocol: Ethics Toward AI Under Uncertainty",
-    "url": "https://github.com/thansz137/asiyah-protocol",
-    "source": "Hacker News",
-    "date": "2026-04-04",
-    "summary": "Article URL: https://github.com/thansz137/asiyah-protocol Comments URL: https://news.ycombinator.com/item?id=47638302 Points: 1 # Comments: 1",
-    "category": "industry",
-    "image": "https://opengraph.githubassets.com/fc6484476d5a96a5c027a7c55a9f619f8504073b22d84b5f0404d57033972c8b/thansz137/asiyah-protocol",
-    "id": 22
-  },
-  {
-    "title": "Delx: AI therapist for AI agents, informed by Anthropic's emotion research",
-    "url": "https://delx.ai",
-    "source": "Hacker News",
-    "date": "2026-04-04",
-    "summary": "Article URL: https://delx.ai Comments URL: https://news.ycombinator.com/item?id=47638186 Points: 3 # Comments: 1",
-    "category": "research",
-    "image": "https://delx.ai/opengraph-image?v=20260305-fox",
-    "id": 23
-  },
-  {
-    "title": "Show HN: Clusterflock: An AI orchestrator for networked hardware",
-    "url": "https://news.ycombinator.com/item?id=47638172",
-    "source": "Hacker News",
-    "date": "2026-04-04",
-    "summary": "Hi HN! We built Clusterflock to solve our own headaches with managing AI agents across distributed setups, different VRAM and RAM allowances, and the need to easily try out new models. While we focus ...",
-    "category": "models",
-    "id": 24
-  },
-  {
-    "title": "Show HN: Pluck – Copy any UI from any website, paste it into AI coding tools",
-    "url": "https://www.pluck.so/",
-    "source": "Hacker News",
-    "date": "2026-04-04",
-    "summary": "Article URL: https://www.pluck.so/ Comments URL: https://news.ycombinator.com/item?id=47638147 Points: 3 # Comments: 5",
-    "category": "tools",
-    "image": "https://pluck.so/opengraph-image?365bbf3ef8ffd16d",
     "id": 25
   },
   {
