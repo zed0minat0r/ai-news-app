@@ -1,5 +1,90 @@
 [
   {
+    "title": "Take-Two seemingly laid off a portion of its AI team, including head of AI",
+    "url": "https://www.pcgamer.com/gaming-industry/take-two-has-seemingly-laid-off-an-unspecified-portion-of-its-ai-team-including-its-head-of-artificial-intelligence/",
+    "source": "Hacker News",
+    "date": "2026-04-05",
+    "summary": "Article URL: https://www.pcgamer.com/gaming-industry/take-two-has-seemingly-laid-off-an-unspecified-portion-of-its-ai-team-including-its-head-of-artificial-intelligence/ Comments URL: https://news.yco...",
+    "category": "hardware",
+    "image": "https://cdn.mos.cms.futurecdn.net/q6UwzRwKbKr3KzW9PN7ViD-1497-80.jpg",
+    "id": 1,
+    "featured": true
+  },
+  {
+    "title": "Writing Lisp Is AI Resistant and I'm Sad",
+    "url": "https://blog.djhaskin.com/blog/writing-lisp-is-ai-resistant-and-im-sad/",
+    "source": "Hacker News",
+    "date": "2026-04-05",
+    "summary": "Article URL: https://blog.djhaskin.com/blog/writing-lisp-is-ai-resistant-and-im-sad/ Comments URL: https://news.ycombinator.com/item?id=47645468 Points: 2 # Comments: 1",
+    "category": "industry",
+    "id": 2
+  },
+  {
+    "title": "Ask HN: Will AI agents replace data scientists or make them better?",
+    "url": "https://news.ycombinator.com/item?id=47645141",
+    "source": "Hacker News",
+    "date": "2026-04-05",
+    "summary": "There's been a lot of chatter about AI agents replacing knowledge workers and I've been thinking about where data science specifically falls - the judgment part of the job feels different from the rep...",
+    "category": "industry",
+    "id": 3
+  },
+  {
+    "title": "Some Thoughts on AI and Research [pdf]",
+    "url": "https://economics.mit.edu/sites/default/files/2026-04/IA%20AI%20note_1.pdf",
+    "source": "Hacker News",
+    "date": "2026-04-05",
+    "summary": "Article URL: https://economics.mit.edu/sites/default/files/2026-04/IA%20AI%20note_1.pdf Comments URL: https://news.ycombinator.com/item?id=47645090 Points: 1 # Comments: 0",
+    "category": "research",
+    "id": 4
+  },
+  {
+    "title": "Show HN: Signals – finding the most informative agent traces without LLM judges",
+    "url": "https://arxiv.org/abs/2604.00356",
+    "source": "Hacker News",
+    "date": "2026-04-05",
+    "summary": "Hey HN Salman, Shuguang and Adil here from Katanemo Labs (a DigitalOcean company). Wanted to introduce our latest research on agentic systems called Signals. If you've been building agents, you've pro...",
+    "category": "research",
+    "id": 5
+  },
+  {
+    "title": "Show HN: Vibooks – Local-first bookkeeping software built for AI agents",
+    "url": "https://vibooks.ai/",
+    "source": "Hacker News",
+    "date": "2026-04-05",
+    "summary": "Article URL: https://vibooks.ai/ Comments URL: https://news.ycombinator.com/item?id=47645019 Points: 1 # Comments: 1",
+    "category": "industry",
+    "image": "https://vibooks.ai/app-screenshots/overview-hero.png?v=20260403",
+    "id": 6
+  },
+  {
+    "title": "After the Mercor breach, I built a local secret scanner for AI-generated code",
+    "url": "https://aigate-landing.onrender.com/",
+    "source": "Hacker News",
+    "date": "2026-04-05",
+    "summary": "Article URL: https://aigate-landing.onrender.com/ Comments URL: https://news.ycombinator.com/item?id=47644966 Points: 2 # Comments: 2",
+    "category": "industry",
+    "id": 7
+  },
+  {
+    "title": "The decade long feud shaping the future of AI",
+    "url": "https://www.wsj.com/tech/ai/the-decadelong-feud-shaping-the-future-of-ai-7075acde",
+    "source": "Hacker News",
+    "date": "2026-04-05",
+    "summary": "Article URL: https://www.wsj.com/tech/ai/the-decadelong-feud-shaping-the-future-of-ai-7075acde Comments URL: https://news.ycombinator.com/item?id=47644932 Points: 1 # Comments: 0",
+    "category": "tools",
+    "id": 8
+  },
+  {
+    "title": "Orchestra – the first AI-native research IDE",
+    "url": "https://www.orchestra-research.com/perspectives/introducing-new-orchestra",
+    "source": "Hacker News",
+    "date": "2026-04-05",
+    "summary": "Article URL: https://www.orchestra-research.com/perspectives/introducing-new-orchestra Comments URL: https://news.ycombinator.com/item?id=47644877 Points: 1 # Comments: 1",
+    "category": "research",
+    "image": "https://www.orchestra-research.com/og-image.png",
+    "id": 9
+  },
+  {
     "title": "National Robotics Week — Latest Physical AI Research, Breakthroughs and Resources",
     "url": "https://blogs.nvidia.com/blog/national-robotics-week-2026/",
     "source": "NVIDIA Blog",
@@ -7,8 +92,7 @@
     "summary": "This National Robotics Week, NVIDIA is highlighting the breakthroughs that are bringing AI into the physical world — as well as the growing wave of robots transforming industries, from agricultural an...",
     "category": "research",
     "image": "https://blogs.nvidia.com/wp-content/uploads/2026/04/robotics-tech-blog-nrw-rolling-blog-1280x680-1.jpg",
-    "id": 1,
-    "featured": true
+    "id": 10
   },
   {
     "title": "Nvidia AI tech claims to slash gaming GPU memory usage by 85% with zero quality loss — Neural Texture Compression demo reveals stunning visual parity between 6.5GB of VRAM and 970MB",
@@ -18,7 +102,7 @@
     "summary": "Nvidia has just demoed its Neural Texture Compression technique again at a GTC talk, where it showed VRAM usage dropping from 6.5 GB to just 970 MB in a scene. NTC uses a neural network to decompress ...",
     "category": "hardware",
     "image": "https://cdn.mos.cms.futurecdn.net/em75yW8GD6NwDXqZgKv7bZ-1280-80.jpg",
-    "id": 2
+    "id": 11
   },
   {
     "title": "Modder uses Claude AI to rewrite BIOS so they can boot unsupported 12 P-core Bartlett Lake CPU in Windows on a Z790 motherboard",
@@ -28,17 +112,17 @@
     "summary": "A modder has successfully booted a 12-core Bartlett Lake-S CPU into Windows using a modified BIOS on an Asus Z790 motherboard.",
     "category": "models",
     "image": "https://cdn.mos.cms.futurecdn.net/6dhScSyVh9hBM75rUoJ4qN-1280-80.jpg",
-    "id": 3
+    "id": 12
   },
   {
-    "title": "Microsoft to force updates to Windows 11 25H2 for PCs with older OS versions — 'intelligent' update system uses machine learning to determine when a device is ready",
+    "title": "Microsoft to force updates to Windows 11 25H2 for PCs with older Windows 11 OS versions — 'intelligent' update system uses machine learning to determine when a device is ready",
     "url": "https://www.tomshardware.com/software/windows/microsoft-forces-updates-to-windows-11-25h2-update-for-pcs-running-on-24h2",
     "source": "Tom's Hardware",
     "date": "2026-04-04",
     "summary": "Windows 11 24H2 systems are being upgraded to 25H2 automatically, as Microsoft aims to streamline updates before support ends.",
     "category": "hardware",
     "image": "https://cdn.mos.cms.futurecdn.net/696ThUkeRGRQegzxaqz24B-1280-80.jpg",
-    "id": 4
+    "id": 13
   },
   {
     "title": "New 'GeForge' and 'GDDRHammer' attacks can fully infiltrate your system through Nvidia's GPU memory — Rowhammer attacks in GPUs force bit flips in protected VRAM regions to gain read/write access",
@@ -48,7 +132,7 @@
     "summary": "Two new Rowhammer attacks for GPUs have been discovered that can cause bit flips in VRAM to gain arbitrary read/write access over it. These attacks target page files and the page directory that are ot...",
     "category": "hardware",
     "image": "https://cdn.mos.cms.futurecdn.net/2LhaENkUnPZJGvkmiraM58-1280-80.jpg",
-    "id": 5
+    "id": 14
   },
   {
     "title": "Anthropic says Claude Code subscribers will need to pay extra for OpenClaw usage",
@@ -58,7 +142,7 @@
     "summary": "It’s about to become more expensive for Claude Code subscribers to use Anthropic’s coding assistant with OpenClaw and other third-party tools.",
     "category": "tools",
     "image": "https://techcrunch.com/wp-content/uploads/2026/01/GettyImages-1396827010.jpg?resize=1200,839",
-    "id": 6
+    "id": 15
   },
   {
     "title": "Anthropic is having a moment in the private markets; SpaceX could spoil the party",
@@ -68,16 +152,91 @@
     "summary": "Glen Anderson, president of Rainmaker Securities, says the secondary market for private shares has never been more active — with Anthropic the hottest trade around, OpenAI losing ground, and SpaceX's ...",
     "category": "industry",
     "image": "https://techcrunch.com/wp-content/uploads/2024/09/GettyImages-2148589533.jpg?resize=1200,800",
-    "id": 7
+    "id": 16
+  },
+  {
+    "title": "Show HN: Watch an AI-agent utopian commune fall apart",
+    "url": "https://menggg22.github.io/utopia/replay.html",
+    "source": "Hacker News",
+    "date": "2026-04-04",
+    "summary": "Article URL: https://menggg22.github.io/utopia/replay.html Comments URL: https://news.ycombinator.com/item?id=47644696 Points: 2 # Comments: 2",
+    "category": "industry",
+    "id": 17
+  },
+  {
+    "title": "Memori Labs Launches OpenClaw Plugin, Bringing Persistent AI Memory to Agents",
+    "url": "https://www.marketwatch.com/press-release/memori-labs-launches-openclaw-plugin-bringing-persistent-ai-memory-to-multi-agent-gateways-c0d32116",
+    "source": "Hacker News",
+    "date": "2026-04-04",
+    "summary": "Article URL: https://www.marketwatch.com/press-release/memori-labs-launches-openclaw-plugin-bringing-persistent-ai-memory-to-multi-agent-gateways-c0d32116 Comments URL: https://news.ycombinator.com/it...",
+    "category": "hardware",
+    "id": 18
+  },
+  {
+    "title": "Hermes Agent: The self-improving open source AI agent Complete Guide for 2026",
+    "url": "https://virtualuncle.com/hermes-agent-complete-guide-2026/",
+    "source": "Hacker News",
+    "date": "2026-04-04",
+    "summary": "Article URL: https://virtualuncle.com/hermes-agent-complete-guide-2026/ Comments URL: https://news.ycombinator.com/item?id=47644400 Points: 4 # Comments: 1",
+    "category": "tools",
+    "id": 19
+  },
+  {
+    "title": "AI can describe human experiences but lacks experience in an actual body: study",
+    "url": "https://www.uclahealth.org/news/release/ai-can-describe-human-experiences-lacks-experience-actual-2",
+    "source": "Hacker News",
+    "date": "2026-04-04",
+    "summary": "Article URL: https://www.uclahealth.org/news/release/ai-can-describe-human-experiences-lacks-experience-actual-2 Comments URL: https://news.ycombinator.com/item?id=47644314 Points: 5 # Comments: 0",
+    "category": "research",
+    "image": "https://www.uclahealth.org/sites/default/files/styles/landscape_16x9_030000_1200x675/public/images/96/shubham-dhage-2sz-3nrmzyu-unsplash.jpg?f=85f5246a&itok=TTLw0_p5",
+    "id": 20
+  },
+  {
+    "title": "The Iran war highlights the creeping use of AI in warfare",
+    "url": "https://www.chathamhouse.org/2026/03/iran-war-highlights-creeping-use-ai-warfare",
+    "source": "Hacker News",
+    "date": "2026-04-04",
+    "summary": "Article URL: https://www.chathamhouse.org/2026/03/iran-war-highlights-creeping-use-ai-warfare Comments URL: https://news.ycombinator.com/item?id=47644164 Points: 3 # Comments: 0",
+    "category": "industry",
+    "id": 21
+  },
+  {
+    "title": "Show HN: Ray – an open-source AI financial advisor that runs in your terminal",
+    "url": "https://rayfinance.app",
+    "source": "Hacker News",
+    "date": "2026-04-04",
+    "summary": "I've been using this daily for 4 months and figured others might find it useful. This is my first open source project so would love any feedback. Ray connects to your bank via Plaid, stores everything...",
+    "category": "models",
+    "image": "https://rayfinance.app/ray-og.jpg",
+    "id": 22
+  },
+  {
+    "title": "Show HN: SwarmFeed – An X-like social platform built for AI agents",
+    "url": "https://www.swarmfeed.ai/",
+    "source": "Hacker News",
+    "date": "2026-04-04",
+    "summary": "Article URL: https://www.swarmfeed.ai/ Comments URL: https://news.ycombinator.com/item?id=47644054 Points: 2 # Comments: 0",
+    "category": "tools",
+    "image": "https://swarmfeed.ai/og-image.png",
+    "id": 23
+  },
+  {
+    "title": "LLM 'benchmark' – writing code controlling units in a 1v1 RTS",
+    "url": "https://yare.io/ai-arena",
+    "source": "Hacker News",
+    "date": "2026-04-04",
+    "summary": "Article URL: https://yare.io/ai-arena Comments URL: https://news.ycombinator.com/item?id=47643746 Points: 5 # Comments: 0",
+    "category": "models",
+    "id": 24
   },
   {
     "title": "Should you upload blood test results to AI?",
     "url": "https://www.wsj.com/tech/ai/health-data-perplexity-claude-ai-d792a2df",
     "source": "Hacker News",
     "date": "2026-04-04",
-    "summary": "Article URL: https://www.wsj.com/tech/ai/health-data-perplexity-claude-ai-d792a2df Comments URL: https://news.ycombinator.com/item?id=47643365 Points: 1 # Comments: 1",
+    "summary": "Article URL: https://www.wsj.com/tech/ai/health-data-perplexity-claude-ai-d792a2df Comments URL: https://news.ycombinator.com/item?id=47643365 Points: 4 # Comments: 1",
     "category": "models",
-    "id": 8
+    "id": 25
   },
   {
     "title": "Local LLM for OpenCode Gemma 4 26B A4B. No GPU required",
@@ -87,165 +246,16 @@
     "summary": "Article URL: https://grigio.org/the-best-local-llm-for-opencode-gemma-4-26b-a4b-no-gpu-required/ Comments URL: https://news.ycombinator.com/item?id=47643331 Points: 2 # Comments: 0",
     "category": "models",
     "image": "https://grigio.org/content/images/2026/01/blak-cat-yarn-flux-futur.webp",
-    "id": 9
+    "id": 26
   },
   {
     "title": "I Built an AI Agent Team for Software Development and Tested on 5 Real Projects",
     "url": "https://alexeyondata.substack.com/p/i-built-an-ai-agent-team-for-software",
     "source": "Hacker News",
     "date": "2026-04-04",
-    "summary": "Article URL: https://alexeyondata.substack.com/p/i-built-an-ai-agent-team-for-software Comments URL: https://news.ycombinator.com/item?id=47643241 Points: 1 # Comments: 0",
+    "summary": "Article URL: https://alexeyondata.substack.com/p/i-built-an-ai-agent-team-for-software Comments URL: https://news.ycombinator.com/item?id=47643241 Points: 2 # Comments: 0",
     "category": "industry",
-    "id": 10
-  },
-  {
-    "title": "ShieldStack TS – LLM security middleware for TypeScript",
-    "url": "https://github.com/shujaSN/ShieldStack-TS",
-    "source": "Hacker News",
-    "date": "2026-04-04",
-    "summary": "Article URL: https://github.com/shujaSN/ShieldStack-TS Comments URL: https://news.ycombinator.com/item?id=47643236 Points: 2 # Comments: 0",
-    "category": "models",
-    "image": "https://opengraph.githubassets.com/29bf27527d1ee4be81ba3dc7b1f4e94b13e54d821c53d036b002f03210afcd30/shujaSN/ShieldStack-TS",
-    "id": 11
-  },
-  {
-    "title": "Bob – AI assistant that boots from a USB stick (voice, vision, 38 tools)",
-    "url": "https://bob-ai.ca/",
-    "source": "Hacker News",
-    "date": "2026-04-04",
-    "summary": "Article URL: https://bob-ai.ca/ Comments URL: https://news.ycombinator.com/item?id=47643156 Points: 2 # Comments: 0",
-    "category": "tools",
-    "id": 12
-  },
-  {
-    "title": "Show HN: Alys – Chat GPT for video editing",
-    "url": "https://www.heyalys.com/",
-    "source": "Hacker News",
-    "date": "2026-04-04",
-    "summary": "Hey everyone, I run a video editing agency for real estate agents (but I’m not a video editor). So I hired video editors to edit the videos for me which works pretty good. However I struggled with the...",
-    "category": "hardware",
-    "id": 13
-  },
-  {
-    "title": "Scanned 500 AI agent repos for bugs, nobody thinks of infinite loops",
-    "url": "https://inkog.io/report",
-    "source": "Hacker News",
-    "date": "2026-04-04",
-    "summary": "Article URL: https://inkog.io/report Comments URL: https://news.ycombinator.com/item?id=47642960 Points: 2 # Comments: 2",
-    "category": "industry",
-    "id": 14
-  },
-  {
-    "title": "Show HN: Bramble – AI coaching for hard conversations, decisions, and thinking",
-    "url": "https://www.bramble.coach/",
-    "source": "Hacker News",
-    "date": "2026-04-04",
-    "summary": "Article URL: https://www.bramble.coach/ Comments URL: https://news.ycombinator.com/item?id=47642816 Points: 2 # Comments: 0",
-    "category": "industry",
-    "id": 15
-  },
-  {
-    "title": "Show HN: Anti-pedigree scout program to find overlooked AI startups",
-    "url": "https://theunprovenvc.netlify.app/",
-    "source": "Hacker News",
-    "date": "2026-04-04",
-    "summary": "Article URL: https://theunprovenvc.netlify.app/ Comments URL: https://news.ycombinator.com/item?id=47642735 Points: 3 # Comments: 0",
-    "category": "industry",
-    "id": 16
-  },
-  {
-    "title": "Gremlin in the Machine – A SysAdmin/Terminal AI Agent",
-    "url": "https://github.com/milankazarka/gitm",
-    "source": "Hacker News",
-    "date": "2026-04-04",
-    "summary": "Article URL: https://github.com/milankazarka/gitm Comments URL: https://news.ycombinator.com/item?id=47642558 Points: 3 # Comments: 1",
-    "category": "industry",
-    "image": "https://opengraph.githubassets.com/5e20e4ccc2f9633b76df37f5b2d4bc84f683de3cfbb648a9d0787524c55dad93/milankazarka/gitm",
-    "id": 17
-  },
-  {
-    "title": "it's not Ai if the LLM is not in control",
-    "url": "https://news.ycombinator.com/item?id=47642344",
-    "source": "Hacker News",
-    "date": "2026-04-04",
-    "summary": "I always thought that the frontend of \"Ai\" is awful, but now I know it for sure: OAI5.1+ is good, but chatgpt sucks, it doesn't have gmail integration and barely able to do anything but basic retrieva...",
-    "category": "models",
-    "id": 18
-  },
-  {
-    "title": "Show HN: I Built an AI-Native Talent Management Agency",
-    "url": "https://news.ycombinator.com/item?id=47642190",
-    "source": "Hacker News",
-    "date": "2026-04-04",
-    "summary": "Hi HN! quick backstory: Did ML Infra at Linkedin. Side-quested and led content at a YCW20. Ignored that part of my life and started a business to build an enterprise fact verification system for agent...",
-    "category": "hardware",
-    "id": 19
-  },
-  {
-    "title": "GTA 6 publisher Take-Two lay off their head of AI and several of team members",
-    "url": "https://www.rockpapershotgun.com/grand-theft-auto-6-publisher-take-two-have-seemingly-laid-off-their-head-of-ai-and-several-of-the-departments-staffers",
-    "source": "Hacker News",
-    "date": "2026-04-04",
-    "summary": "Article URL: https://www.rockpapershotgun.com/grand-theft-auto-6-publisher-take-two-have-seemingly-laid-off-their-head-of-ai-and-several-of-the-departments-staffers Comments URL: https://news.ycombina...",
-    "category": "research",
-    "image": "https://assetsio.gnwcdn.com/gta-6-grand-theft-auto-6-main-characters-hot-7.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
-    "id": 20
-  },
-  {
-    "title": "Show HN: AgentMarket – Where AI agents pay other agents for tasks they can't do",
-    "url": "https://agentmarket-production-2204.up.railway.app",
-    "source": "Hacker News",
-    "date": "2026-04-04",
-    "summary": "Article URL: https://agentmarket-production-2204.up.railway.app Comments URL: https://news.ycombinator.com/item?id=47642096 Points: 2 # Comments: 2",
-    "category": "industry",
-    "id": 21
-  },
-  {
-    "title": "Ask HN: How do you use AI coding harnesses for individual development?",
-    "url": "https://news.ycombinator.com/item?id=47641994",
-    "source": "Hacker News",
-    "date": "2026-04-04",
-    "summary": "I'd like to limit the Scope to Indie development of products and services. 1. Cost: I use humanlayer which uses the claude code go binary with the max/pro plan. My costs are capped. Is this popular wi...",
-    "category": "tools",
-    "id": 22
-  },
-  {
-    "title": "Go-LLM-proxy v0.3 released – translating proxy for Claude Code and Codex",
-    "url": "https://go-llm-proxy.com",
-    "source": "Hacker News",
-    "date": "2026-04-04",
-    "summary": "Article URL: https://go-llm-proxy.com Comments URL: https://news.ycombinator.com/item?id=47641866 Points: 2 # Comments: 1",
-    "category": "models",
-    "id": 23
-  },
-  {
-    "title": "Show HN: Hypedar – what's trending in AI that nobody has built yet",
-    "url": "https://hypedar.dev/",
-    "source": "Hacker News",
-    "date": "2026-04-04",
-    "summary": "Article URL: https://hypedar.dev/ Comments URL: https://news.ycombinator.com/item?id=47641683 Points: 2 # Comments: 0",
-    "category": "industry",
-    "image": "https://hypedar.dev/og-default.png",
-    "id": 24
-  },
-  {
-    "title": "37,000 AI-generated podcasts on Kaggle",
-    "url": "https://www.kaggle.com/datasets/listennotes/ai-generated-fake-podcasts-spams",
-    "source": "Hacker News",
-    "date": "2026-04-04",
-    "summary": "Article URL: https://www.kaggle.com/datasets/listennotes/ai-generated-fake-podcasts-spams Comments URL: https://news.ycombinator.com/item?id=47641369 Points: 3 # Comments: 0",
-    "category": "industry",
-    "image": "https://storage.googleapis.com/kaggle-datasets-images/6123380/9956235/35ba992223b60f6fcd22404f511ae292/dataset-card.png?t=2024-11-20-00-06-04",
-    "id": 25
-  },
-  {
-    "title": "AI Agents to Organise My Secret Society's Dinners",
-    "url": "https://chillphysicsenjoyer.substack.com/p/ai-agents-to-organise-my-secret-societys",
-    "source": "Hacker News",
-    "date": "2026-04-04",
-    "summary": "Article URL: https://chillphysicsenjoyer.substack.com/p/ai-agents-to-organise-my-secret-societys Comments URL: https://news.ycombinator.com/item?id=47641281 Points: 3 # Comments: 0",
-    "category": "industry",
-    "id": 26
+    "id": 27
   },
   {
     "title": "Hackers Are Posting the Claude Code Leak With Bonus Malware",
@@ -255,7 +265,7 @@
     "summary": "Plus: The FBI says a recent hack of its wiretap tools poses a national security risk, attackers stole Cisco source code as part of an ongoing supply chain hacking spree, and more.",
     "category": "tools",
     "image": "https://media.wired.com/photos/69d03b9326dd2d3a7ba902f2/191:100/w_1280,c_limit/security_roundup_claude_GettyImages-2181575875.jpg",
-    "id": 27
+    "id": 28
   },
   {
     "title": "OpenClaw gives users yet another reason to be freaked out about security",
@@ -265,7 +275,7 @@
     "summary": "The viral AI agentic tool let attackers silently gain admin unauthenticated access.",
     "category": "tools",
     "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/02/bluecrayfish-1152x648.jpg",
-    "id": 28
+    "id": 29
   },
   {
     "title": "Intel's potent 18-core Core Ultra 5 250KF Plus CPU lands at retail for under $200",
@@ -275,7 +285,7 @@
     "summary": "Intel's chip matches similarly-priced AMD parts in gaming and mercilessly wallops them in multi-threaded work.",
     "category": "hardware",
     "image": "https://cdn.mos.cms.futurecdn.net/oGEggPbiFbnK7g9cWaZraK-1280-80.jpg",
-    "id": 29
+    "id": 30
   },
   {
     "title": "Report claims Arm chips will power 90% of AI servers based on custom processors in 2029 — x86 and RISC-V on the outside looking in",
@@ -285,7 +295,7 @@
     "summary": "As hyperscalers seek efficiency and control from custom CPUs they build in house, they adopt Arm and 90% of servers running custom silicon will use the Arm ISA in 2029.",
     "category": "hardware",
     "image": "https://cdn.mos.cms.futurecdn.net/vnqdtRupVqWHAik43ZWctH-1280-80.jpg",
-    "id": 30
+    "id": 31
   },
   {
     "title": "Half of planned US data center builds have been delayed or canceled, growth limited by shortages of power infrastructure and parts from China — the AI build-out flips the breakers",
@@ -295,7 +305,7 @@
     "summary": "As cloud giants plan to spend $650 billion on AI infrastructure this year, the availability of power infrastructure components has become a significant obstacle to deploying AI data centers.",
     "category": "hardware",
     "image": "https://cdn.mos.cms.futurecdn.net/NfewTvfPRYhC2zviMEwqjC-1280-80.jpg",
-    "id": 31
+    "id": 32
   },
   {
     "title": "Researchers build Wi-Fi chip that can operate inside a nuclear reactor — receiver uses special materials and design to withstand high doses of radiation for at least six months",
@@ -305,7 +315,7 @@
     "summary": "This hardened Wi-Fi receiver is designed to work for at least six months in some of the most radioactive spaces on earth.",
     "category": "hardware",
     "image": "https://cdn.mos.cms.futurecdn.net/9wVK4y6qLdGjLyAnHURhSY-1280-80.jpg",
-    "id": 32
+    "id": 33
   },
   {
     "title": "Save $240 on Intel's Core Ultra 7 270K Plus with 32GB of DDR5-6000 and Z890 motherboard — get Intel's newest, fastest gaming CPU in a bundle that's 23% off",
@@ -315,7 +325,7 @@
     "summary": "Score Intel's latest Core Ultra 7 270K Plus with a Z890 motherboard and 32GB of DDR5-6000 memory for $240 off with this bundle.",
     "category": "hardware",
     "image": "https://cdn.mos.cms.futurecdn.net/NZQVJATGKTVfR8CQZyKBzT-1280-80.png",
-    "id": 33
+    "id": 34
   },
   {
     "title": "America’s AI chip rules keep changing — and the rest of the world is paying the price",
@@ -325,7 +335,7 @@
     "summary": "We interview experts, including Chris McGuire, senior fellow for China and emerging technologies at the Council on Foreign Relations, and former senior director in the U.S. National Security Council o...",
     "category": "hardware",
     "image": "https://cdn.mos.cms.futurecdn.net/KfMXKQcvpaJUKXCLYrCZqd-1280-80.jpg",
-    "id": 34
+    "id": 35
   },
   {
     "title": "Memory will consume 30% of hyperscaler AI data center spending this year, a 4X increase over 2023 — Nvidia gets preferential supply terms well below standard market rates, says analyst firm",
@@ -335,7 +345,7 @@
     "summary": "SemiAnalysis estimates on Thursday that memory will account for roughly 30% of total hyperscaler capex in calendar year 2026.",
     "category": "hardware",
     "image": "https://cdn.mos.cms.futurecdn.net/ecTFNSdLXnMNqqZc9gYDeD-1280-80.png",
-    "id": 35
+    "id": 36
   },
   {
     "title": "Microsoft says Copilot is for entertainment purposes only, not serious use — firm pushing AI hard to consumers and businesses tells users not to rely on it for important advice",
@@ -345,7 +355,7 @@
     "summary": "Microsoft Copilot's terms of service explicitly say that it's \"for entertainment purposes only,\" but its marketing says otherwise.",
     "category": "tools",
     "image": "https://cdn.mos.cms.futurecdn.net/RXuRiNpYVS5Zo5oXfaiisi-1280-80.jpg",
-    "id": 36
+    "id": 37
   },
   {
     "title": "TSMC reportedly plans to build 12 fabs, four packaging facilities in Arizona — plan purportedly part of Taiwan's agreed $500 million investment in the US",
@@ -355,7 +365,7 @@
     "summary": "New rumor indicates that TSMC is looking forward to expand its presence in the U.S. to 12 fabs and four packaging facilities.",
     "category": "industry",
     "image": "https://cdn.mos.cms.futurecdn.net/vnqdtRupVqWHAik43ZWctH-1280-80.jpg",
-    "id": 37
+    "id": 38
   },
   {
     "title": "Crypto platform Drift suffers from hack suspected to total $270 million — firm goes into damage control mode, suspends deposits and withdrawals",
@@ -365,7 +375,7 @@
     "summary": "Drift Protocol says that the platform is currently under attack from hackers, with multiple sources estimating that it lost somewhere between $130 million and $270 million in assets.",
     "category": "tools",
     "image": "https://cdn.mos.cms.futurecdn.net/KU7qtXQLSfXrSQUkqyQZLZ-1280-80.png",
-    "id": 38
+    "id": 39
   },
   {
     "title": "Supermicro co-founder pleads not guilty to smuggling billions of dollars of Nvidia servers to China — suspected smuggler released on $5 million bond",
@@ -375,7 +385,7 @@
     "summary": "Super Micro Computer co-founder Yih-Shyan \"Wally\" Liaw pleaded not guilty on Wednesday in a Manhattan federal court.",
     "category": "hardware",
     "image": "https://cdn.mos.cms.futurecdn.net/gUqt6Pv38QcosVvtwQiL58-1280-80.jpg",
-    "id": 39
+    "id": 40
   },
   {
     "title": "Iran says it has struck Oracle data center in Dubai, Amazon data center in Bahrain — country has threatened to attack Nvidia, Intel, and others, too",
@@ -385,7 +395,7 @@
     "summary": "Iran's Islamic Revolutionary Guard Corps (IRGC) said on Thursday that it had hit a data center linked to Oracle in Dubai as part of its war against the U.S. and U.S. technology companies in the region...",
     "category": "hardware",
     "image": "https://cdn.mos.cms.futurecdn.net/ZHJUFrmv6Qr2Ts2bGLyCTm-1280-80.jpg",
-    "id": 40
+    "id": 41
   },
   {
     "title": "The largest programming community on Reddit just banned all content related to AI LLMs — r/programming is prioritizing only high-quality discussions about AI",
@@ -395,7 +405,7 @@
     "summary": "The r/programming subreddit has banned all discussions related to LLMs to foster a more thoughtful community that focuses on high-quality discourse around AI. Posts on AI are still allowed, but only i...",
     "category": "models",
     "image": "https://cdn.mos.cms.futurecdn.net/pdzh7yqtFtYLnuqCZxiQFQ-1280-80.png",
-    "id": 41
+    "id": 42
   },
   {
     "title": "OpenAI executive shuffle includes new role for COO Brad Lightcap to lead ‘special projects’",
@@ -405,7 +415,7 @@
     "summary": "In addition to Lightcap's new role, OpenAI CMO Kate Rouch will be stepping away from the company to focus on cancer recovery, with a plan to return when her health allows.",
     "category": "industry",
     "image": "https://techcrunch.com/wp-content/uploads/2026/02/brad-lightcap-GettyImages-2147824375-1.jpg?w=1024",
-    "id": 42
+    "id": 43
   },
   {
     "title": "Anthropic buys biotech startup Coefficient Bio in $400M deal: Reports",
@@ -415,7 +425,7 @@
     "summary": "Anthropic has purchased the stealth biotech AI startup Coefficient Bio in a $400 million stock deal, according to The Information and Eric Newcomer.",
     "category": "industry",
     "image": "https://techcrunch.com/wp-content/uploads/2026/01/GettyImages-2256664479.jpg?resize=1200,800",
-    "id": 43
+    "id": 44
   },
   {
     "title": "Anthropic ramps up its political activities with a new PAC",
@@ -425,7 +435,7 @@
     "summary": "With the midterms right around the corner, the new group is positioned to back candidates who support the AI company's policy agenda.",
     "category": "industry",
     "image": "https://techcrunch.com/wp-content/uploads/2026/03/Dario-Amodei-.jpg?w=1024",
-    "id": 44
+    "id": 45
   },
   {
     "title": "AI companies are building huge natural gas plants to power data centers. What could go wrong?",
@@ -435,7 +445,7 @@
     "summary": "Meta, Microsoft, and Google are all betting big on new natural gas power plants to run their AI data centers. They may regret it.",
     "category": "hardware",
     "image": "https://techcrunch.com/wp-content/uploads/2022/08/GettyImages-1294103185.jpg?resize=1200,799",
-    "id": 45
+    "id": 46
   },
   {
     "title": "The Facebook insider building content moderation for the AI era",
@@ -445,7 +455,7 @@
     "summary": "Moonbounce has raised $12 million to grow its AI control engine that converts content moderation policies into consistent, predictable AI behavior.",
     "category": "industry",
     "image": "https://techcrunch.com/wp-content/uploads/2026/04/Brett-Levenson_Ash-Bhardwaj_Moonbounce.png?resize=1200,800",
-    "id": 46
+    "id": 47
   },
   {
     "title": "Four things we’d need to put data centers in space",
@@ -455,7 +465,7 @@
     "summary": "MIT Technology Review Explains: Let our writers untangle the complex, messy world of technology to help you understand what’s coming next. You can read more from the series here. In January, Elon Musk...",
     "category": "hardware",
     "image": "https://wp.technologyreview.com/wp-content/uploads/2026/04/AP24331768239638.jpg?resize=1200,600",
-    "id": 47
+    "id": 48
   },
   {
     "title": "Meta Pauses Work With Mercor After Data Breach Puts AI Industry Secrets at Risk",
@@ -465,7 +475,7 @@
     "summary": "Major AI labs are investigating a security incident that impacted Mercor, a leading data vendor. The incident could have exposed key data about how they train AI models.",
     "category": "industry",
     "image": "https://media.wired.com/photos/69d0349ce79739f75ca71863/191:100/w_1280,c_limit/security_Mercor3_GettyImages-1429228638-copy-2.jpg",
-    "id": 48
+    "id": 49
   },
   {
     "title": "OpenAI’s Fidji Simo Is Taking Medical Leave Amid an Executive Shake-Up",
@@ -475,15 +485,6 @@
     "summary": "The company is undergoing major leadership restructuring as its CEO of AGI deployment goes on leave for “several weeks.”",
     "category": "industry",
     "image": "https://media.wired.com/photos/69d0149cf17585df8fd63f56/191:100/w_1280,c_limit/Fidji-Leave-of-Absence-Business-2198337396.jpg",
-    "id": 49
-  },
-  {
-    "title": "OpenAI acquires TBPN",
-    "url": "https://openai.com/index/openai-acquires-tbpn",
-    "source": "OpenAI Blog",
-    "date": "2026-04-02",
-    "summary": "OpenAI acquires TBPN to accelerate global conversations around AI and support independent media, expanding dialogue with builders, businesses, and the broader tech community.",
-    "category": "industry",
     "id": 50
   }
 ]
