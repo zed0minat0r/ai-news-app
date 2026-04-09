@@ -1,12 +1,12 @@
 [
   {
-    "title": "Intel developing two-lever retention mechanism for LGA 1954 socket, according to new leak — Premium Nova Lake-S motherboards will feature 2L-ILM sockets",
-    "url": "https://www.tomshardware.com/pc-components/cpus/intel-developing-two-lever-retention-mechanism-for-lga-1954-socket-according-to-new-leak-premium-nova-lake-s-motherboards-will-feature-2l-ilm-sockets",
+    "title": "Intel's EMIB-T packaging technology set for fab rollout this year — as TSMC CoWoS capacity remains limited,EMIB-T is preparing for advanced AI accelerator designs",
+    "url": "https://www.tomshardware.com/tech-industry/semiconductors/intels-emib-t-heads-for-fab-rollout-this-year",
     "source": "Tom's Hardware",
     "date": "2026-04-09",
-    "summary": "Some high-end motherboards for Intel's upcoming Nova Lake processors have been tipped to include a dual-lever retention mechanism called \"2L-ILM.\" We've seen something similar before with LGA 2011, bu...",
-    "category": "hardware",
-    "image": "https://cdn.mos.cms.futurecdn.net/6dhScSyVh9hBM75rUoJ4qN-1280-80.jpg",
+    "summary": "If these “billions per year” in deals close, it’d mark quite the turnaround for Intel Foundry, which generated just $307 million in external revenue last year.",
+    "category": "industry",
+    "image": "https://cdn.mos.cms.futurecdn.net/qXjw6K9cVJzeNZurs6CD3H-1280-80.jpg",
     "id": 1,
     "featured": true
   },
@@ -20,6 +20,16 @@
     "id": 2
   },
   {
+    "title": "Intel developing two-lever retention mechanism for LGA 1954 socket, according to new leak — Premium Nova Lake-S motherboards will feature 2L-ILM sockets",
+    "url": "https://www.tomshardware.com/pc-components/cpus/intel-developing-two-lever-retention-mechanism-for-lga-1954-socket-according-to-new-leak-premium-nova-lake-s-motherboards-will-feature-2l-ilm-sockets",
+    "source": "Tom's Hardware",
+    "date": "2026-04-09",
+    "summary": "Some high-end motherboards for Intel's upcoming Nova Lake processors have been tipped to include a dual-lever retention mechanism called \"2L-ILM.\" We've seen something similar before with LGA 2011, bu...",
+    "category": "hardware",
+    "image": "https://cdn.mos.cms.futurecdn.net/6dhScSyVh9hBM75rUoJ4qN-1280-80.jpg",
+    "id": 3
+  },
+  {
     "title": "Korean government to take action over soaring DRAM costs, including monitoring markets and pricing — internet data plans to be restructured and recycled PCs to be distributed to vulnerable groups",
     "url": "https://www.tomshardware.com/tech-industry/korean-government-to-take-action-over-soaring-dram-costs-including-monitoring-markets-and-pricing-internet-data-plans-to-be-restructured-and-recycled-pcs-to-be-distributed-to-vulnerable-groups",
     "source": "Tom's Hardware",
@@ -27,7 +37,7 @@
     "summary": "South Korea is taking government action to reduce the pressure of the DRAM and NAND crisis on its population.",
     "category": "industry",
     "image": "https://cdn.mos.cms.futurecdn.net/a3o5qFjMX3YmRytVPk8TzF-1280-80.jpg",
-    "id": 3
+    "id": 4
   },
   {
     "title": "Steam files suggest Valve is developing internal'SteamGPT' AI bot — aimed at tackling customer support tickets and CS2 anti-cheat",
@@ -37,7 +47,7 @@
     "summary": "Leaked Steam files show that Valve is developing a \"SteamGPT\" AI bot that will help its employees with customer support and anti-cheat in CS2.",
     "category": "models",
     "image": "https://cdn.mos.cms.futurecdn.net/8nf3S4AoeD767eLZgzH9G6-1280-80.jpg",
-    "id": 4
+    "id": 5
   },
   {
     "title": "$21 billion stolen from more than 1 million Americans due to cybercrime in 2025 — $11 billion come from stolen crypto, $8.6 billion taken from investment scams, while AI-related attacks cost $893 million",
@@ -47,199 +57,210 @@
     "summary": "The FBI breaks down the $21 billion lost by over a million Americans through online scams, with more than half involving cryptocurrency.",
     "category": "industry",
     "image": "https://cdn.mos.cms.futurecdn.net/9YYr49MBVeBobTPW7raJWK-1280-80.png",
-    "id": 5
-  },
-  {
-    "title": "AI Label",
-    "url": "https://ai-label.org/",
-    "source": "Hacker News",
-    "date": "2026-04-09",
-    "summary": "Article URL: https://ai-label.org/ Comments URL: https://news.ycombinator.com/item?id=47703554 Points: 1 # Comments: 0",
-    "category": "industry",
-    "image": "https://ai-label.org/img/og.png",
     "id": 6
   },
   {
-    "title": "Exploring Mythos: The AI Model Anthropic Won't Release",
-    "url": "https://medium.com/seeds-for-the-future/mythos-the-ai-model-thats-too-good-for-you-7bed3930587f",
-    "source": "Hacker News",
+    "title": "Amazon CEO takes aim at Nvidia, Intel, Starlink, more in annual shareholder letter",
+    "url": "https://techcrunch.com/2026/04/09/amazon-ceo-takes-aim-at-nvidia-intel-starlink-more-in-annual-shareholder-letter/",
+    "source": "TechCrunch",
     "date": "2026-04-09",
-    "summary": "Article URL: https://medium.com/seeds-for-the-future/mythos-the-ai-model-thats-too-good-for-you-7bed3930587f Comments URL: https://news.ycombinator.com/item?id=47703522 Points: 2 # Comments: 0",
-    "category": "industry",
+    "summary": "Andy Jassy's annual shareholder letter reads something like a diss track to a wide range of competitors as he defends spending $200 billion in capex.",
+    "category": "hardware",
+    "image": "https://techcrunch.com/wp-content/uploads/2025/04/GettyImages-2201505679.jpg?resize=1200,800",
     "id": 7
   },
   {
-    "title": "Show HN: MobileCodeAI – Professional AI code editor for iPhone",
-    "url": "https://mobilecode.ai",
+    "title": "Open-source AI assistant that watches your screen and points at things",
+    "url": "https://github.com/farzaa/clicky",
     "source": "Hacker News",
     "date": "2026-04-09",
-    "summary": "Article URL: https://mobilecode.ai Comments URL: https://news.ycombinator.com/item?id=47703515 Points: 1 # Comments: 1",
+    "summary": "Article URL: https://github.com/farzaa/clicky Comments URL: https://news.ycombinator.com/item?id=47705623 Points: 1 # Comments: 0",
     "category": "industry",
-    "image": "https://mobilecode.ai/images/og-image.png",
+    "image": "https://opengraph.githubassets.com/1dcf26869cc9b40427f2d1ad6956235152cbfe5183b36d590ffa1631b7de5cde/farzaa/clicky",
     "id": 8
   },
   {
-    "title": "White-Collar Workers Are Rebelling Against AI – 80% Refuse Adoption Mandates",
-    "url": "https://fortune.com/2026/04/09/ai-backlash-quiet-quitting-fobo-obsolete-white-collar-rebellion/",
+    "title": "Show HN: We made 25 years of a NYC gallery's exhibitions conversational with AI",
+    "url": "https://contxt.art/bitforms",
     "source": "Hacker News",
     "date": "2026-04-09",
-    "summary": "Article URL: https://fortune.com/2026/04/09/ai-backlash-quiet-quitting-fobo-obsolete-white-collar-rebellion/ Comments URL: https://news.ycombinator.com/item?id=47703498 Points: 3 # Comments: 1",
-    "category": "industry",
-    "image": "https://fortune.com/img-assets/wp-content/uploads/2026/04/GettyImages-1158799707-e1775498134484.jpg?resize=1200,600",
+    "summary": "We built Contxt, a conversational AI layer for art exhibitions. Today we're launching a public research preview with bitforms gallery in New York — 150+ exhibitions spanning 25 years of digital art, a...",
+    "category": "research",
+    "image": "https://contxt.art/og-image.png",
     "id": 9
   },
   {
-    "title": "AI agents aren't abstraction, they're delegation (and why that matters)",
-    "url": "https://madebymohammed.com/youre-absolutely-right",
+    "title": "Nyth AI – Local LLM Inference on iOS Using MLC-LLM and TVM",
+    "url": "https://apps.apple.com/us/app/nyth-ai/id6757325119",
     "source": "Hacker News",
     "date": "2026-04-09",
-    "summary": "Article URL: https://madebymohammed.com/youre-absolutely-right Comments URL: https://news.ycombinator.com/item?id=47703478 Points: 1 # Comments: 0",
-    "category": "industry",
+    "summary": "Article URL: https://apps.apple.com/us/app/nyth-ai/id6757325119 Comments URL: https://news.ycombinator.com/item?id=47705549 Points: 1 # Comments: 0",
+    "category": "models",
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/6c/a8/5a/6ca85a41-dff3-da78-0ddf-1dc44b6f5c34/Placeholder.mill/1200x630wa.jpg",
     "id": 10
   },
   {
-    "title": "Show HN: IssueCapture – AI-powered bug reporting widget for Jira and JSM",
-    "url": "https://issuecapture.com",
+    "title": "Petri, a multi-agent orchestration framework for building AI context",
+    "url": "https://github.com/onthemarkdata/petri",
     "source": "Hacker News",
     "date": "2026-04-09",
-    "summary": "Article URL: https://issuecapture.com Comments URL: https://news.ycombinator.com/item?id=47703471 Points: 1 # Comments: 0",
-    "category": "industry",
+    "summary": "Article URL: https://github.com/onthemarkdata/petri Comments URL: https://news.ycombinator.com/item?id=47705544 Points: 1 # Comments: 1",
+    "category": "tools",
+    "image": "https://opengraph.githubassets.com/92404a55c426d1918ef8054348633c1e18e9990ad89fa7ac25acf395deff74c5/onthemarkdata/petri",
     "id": 11
   },
   {
-    "title": "I locked AI in a container. It couldn't escape. So it set a trap",
-    "url": "https://worksmarter.pl/ai-container-escape-2026",
+    "title": "Meta Upgrades Meta AI with Muse Spark",
+    "url": "https://www.notebookcheck.net/Meta-upgrades-Meta-AI-with-Muse-Spark.1270170.0.html",
     "source": "Hacker News",
     "date": "2026-04-09",
-    "summary": "Article URL: https://worksmarter.pl/ai-container-escape-2026 Comments URL: https://news.ycombinator.com/item?id=47703430 Points: 1 # Comments: 0",
+    "summary": "Article URL: https://www.notebookcheck.net/Meta-upgrades-Meta-AI-with-Muse-Spark.1270170.0.html Comments URL: https://news.ycombinator.com/item?id=47705402 Points: 2 # Comments: 0",
     "category": "industry",
     "id": 12
   },
   {
-    "title": "Show HN: Noxscan.io 65K Port and Vuln scanner with LLM false-positive filtering",
-    "url": "https://noxscan.io/",
+    "title": "AI alignment: the signal is the goal",
+    "url": "https://substack.com/home/post/p-193080562",
     "source": "Hacker News",
     "date": "2026-04-09",
-    "summary": "Hi HN. We built NoxScan as a side product to solve our own problem. Backstory: we're SOC 2 compliant, which means we have to run continuous vulnerability scanning on our own infrastructure. We were pa...",
-    "category": "hardware",
-    "image": "https://noxscan.io/website-template-OG.webp",
+    "summary": "Article URL: https://substack.com/home/post/p-193080562 Comments URL: https://news.ycombinator.com/item?id=47705359 Points: 2 # Comments: 0",
+    "category": "research",
     "id": 13
   },
   {
-    "title": "Best AI Software for Auto-Populating Security Reviews 2026",
-    "url": "https://websites2know.com/best-ai-software-for-auto-populating-security-reviews/",
+    "title": "AI Cybersecurity After Mythos: The Jagged Frontier",
+    "url": "https://aisle.com/blog/ai-cybersecurity-after-mythos-the-jagged-frontier",
     "source": "Hacker News",
     "date": "2026-04-09",
-    "summary": "Article URL: https://websites2know.com/best-ai-software-for-auto-populating-security-reviews/ Comments URL: https://news.ycombinator.com/item?id=47703165 Points: 1 # Comments: 0",
+    "summary": "Article URL: https://aisle.com/blog/ai-cybersecurity-after-mythos-the-jagged-frontier Comments URL: https://news.ycombinator.com/item?id=47705358 Points: 2 # Comments: 1",
     "category": "industry",
-    "image": "https://websites2know.com/wp-content/uploads/2026/04/Best-AI-Software-for-Auto-Populating-Security-Reviews.jpg",
+    "image": "https://aisle.com/api/media/file/freepik_create-this_2743478282-1200x630.webp",
     "id": 14
   },
   {
-    "title": "Show HN: Vibetime – Track what you ship in AI coding sessions",
-    "url": "https://github.com/iamnotstatic/vibetime",
+    "title": "&udm14 – Regular Google, no AI overview",
+    "url": "https://udm14.com/",
     "source": "Hacker News",
     "date": "2026-04-09",
-    "summary": "Article URL: https://github.com/iamnotstatic/vibetime Comments URL: https://news.ycombinator.com/item?id=47703112 Points: 2 # Comments: 0",
-    "category": "hardware",
-    "image": "https://opengraph.githubassets.com/934c6417254977160fcc269928a8e1c8a4dd28682dc60c6df5580720d75749e8/iamnotstatic/vibetime",
+    "summary": "Article URL: https://udm14.com/ Comments URL: https://news.ycombinator.com/item?id=47705356 Points: 1 # Comments: 0",
+    "category": "industry",
     "id": 15
   },
   {
-    "title": "GoAI SDK, one Go library for 22 LLM providers, only 2 core deps",
-    "url": "https://github.com/zendev-sh/goai",
+    "title": "Gen Z's fading AI hype",
+    "url": "https://www.axios.com/2026/04/09/ai-gen-z-polling-gallup",
     "source": "Hacker News",
     "date": "2026-04-09",
-    "summary": "Article URL: https://github.com/zendev-sh/goai Comments URL: https://news.ycombinator.com/item?id=47703094 Points: 2 # Comments: 1",
-    "category": "tools",
-    "image": "https://opengraph.githubassets.com/5d8d1eeb5fc460093aef1e11a2645fc981c58802f7d90da9f188d22f7de8dbdb/zendev-sh/goai",
+    "summary": "Article URL: https://www.axios.com/2026/04/09/ai-gen-z-polling-gallup Comments URL: https://news.ycombinator.com/item?id=47705214 Points: 5 # Comments: 0",
+    "category": "industry",
     "id": 16
   },
   {
-    "title": "Index: The paid API directory for AI agents: indexed, verified, searchable",
-    "url": "https://402index.io/",
+    "title": "Show HN: rtdiff – Real-time git diff GUI and AI-assisted commits desktop app",
+    "url": "https://github.com/stagas/rtdiff",
     "source": "Hacker News",
     "date": "2026-04-09",
-    "summary": "Article URL: https://402index.io/ Comments URL: https://news.ycombinator.com/item?id=47703023 Points: 1 # Comments: 0",
-    "category": "tools",
-    "image": "https://402index.io/og-image.png",
+    "summary": "Article URL: https://github.com/stagas/rtdiff Comments URL: https://news.ycombinator.com/item?id=47705203 Points: 2 # Comments: 0",
+    "category": "industry",
+    "image": "https://opengraph.githubassets.com/0345318f625298771ebeac19673a13534aff1819b901cbce892584c3be0bb5f9/stagas/rtdiff",
     "id": 17
   },
   {
-    "title": "AI is a self-esteem test",
-    "url": "https://mvrckhckr.com/articles/ai-is-a-self-esteem-test",
+    "title": "Show HN: PropOps – AI agent that reads Indian govt property data nobody checks",
+    "url": "https://github.com/himanshudongre/propops",
     "source": "Hacker News",
     "date": "2026-04-09",
-    "summary": "Article URL: https://mvrckhckr.com/articles/ai-is-a-self-esteem-test Comments URL: https://news.ycombinator.com/item?id=47702957 Points: 1 # Comments: 0",
+    "summary": "Article URL: https://github.com/himanshudongre/propops Comments URL: https://news.ycombinator.com/item?id=47705011 Points: 1 # Comments: 0",
     "category": "industry",
-    "image": "https://mvrckhckr.com/rails/active_storage/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6OTQ2LCJwdXIiOiJibG9iX2lkIn19--720c10741ad8d7dc9320b776fecab17609137d65/og-ai-is-a-self-esteem-test.png",
+    "image": "https://opengraph.githubassets.com/4ab5102eabbde771f280213af843f297ae688b822019ebaa950072ae08d20782/himanshudongre/propops",
     "id": 18
   },
   {
-    "title": "The Roadmap to Mastering Agentic AI Design Patterns",
-    "url": "https://machinelearningmastery.com/the-roadmap-to-mastering-agentic-ai-design-patterns/",
+    "title": "An Agent Skill that implements Karpathy's LLM-wiki on personal GitHub Repo",
+    "url": "https://github.com/rarce/git-wiki",
     "source": "Hacker News",
     "date": "2026-04-09",
-    "summary": "Article URL: https://machinelearningmastery.com/the-roadmap-to-mastering-agentic-ai-design-patterns/ Comments URL: https://news.ycombinator.com/item?id=47702885 Points: 1 # Comments: 0",
-    "category": "industry",
-    "image": "https://machinelearningmastery.com/wp-content/uploads/2026/04/bala-agentic-design-patterns-roadmap.png",
+    "summary": "Article URL: https://github.com/rarce/git-wiki Comments URL: https://news.ycombinator.com/item?id=47704809 Points: 2 # Comments: 0",
+    "category": "models",
+    "image": "https://opengraph.githubassets.com/82614f86bca02fcd88d4e9596d8f6f0757d5ee27f6a59036f2b5676b20d52824/rarce/git-wiki",
     "id": 19
   },
   {
-    "title": "Show HN: I built Memory Sync so I don't have to reteach every AI who I am",
-    "url": "https://chromewebstore.google.com/detail/memory-sync-take-your-ai/cbaeapjnadfphlddeimfapaiffnldhbe",
+    "title": "LLM agents shouldn't execute blindly – this one plans first and stays editable",
+    "url": "https://cuddlytoddly.com/",
     "source": "Hacker News",
     "date": "2026-04-09",
-    "summary": "Article URL: https://chromewebstore.google.com/detail/memory-sync-take-your-ai/cbaeapjnadfphlddeimfapaiffnldhbe Comments URL: https://news.ycombinator.com/item?id=47702810 Points: 1 # Comments: 1",
-    "category": "hardware",
+    "summary": "Article URL: https://cuddlytoddly.com/ Comments URL: https://news.ycombinator.com/item?id=47704803 Points: 4 # Comments: 0",
+    "category": "models",
+    "image": "https://cuddlytoddly.com/assets/og-image.png",
     "id": 20
   },
   {
-    "title": "Shipping faster, thinking less? The AI code verification trap",
-    "url": "https://leaddev.com/ai/shipping-faster-thinking-less-the-ai-code-verification-trap",
+    "title": "Show HN: AI agents are bad at API integrations – we fixed it",
+    "url": "https://www.apimatic.io/product/context-plugins/showcase",
     "source": "Hacker News",
     "date": "2026-04-09",
-    "summary": "Article URL: https://leaddev.com/ai/shipping-faster-thinking-less-the-ai-code-verification-trap Comments URL: https://news.ycombinator.com/item?id=47702808 Points: 1 # Comments: 0",
-    "category": "industry",
-    "image": "https://res.cloudinary.com/leaddev/image/upload/f_auto/q_auto/dpr_auto/c_limit,w_1920,h_1080/next/2025/04/mandate-brink-02.jpg",
+    "summary": "Hi, we're Sohaib and Hannan from APIMatic. We've been building tools to help Developers integrate with APIs for 5+ years at APIMatic. We're now trying to help AI agents do the same. This started from ...",
+    "category": "tools",
     "id": 21
   },
   {
-    "title": "Scan any LLM chatbot for vulnerabilities. Built by Mozilla",
-    "url": "https://github.com/0din-ai/ai-scanner",
+    "title": "Study: Google's AI Overviews show wrong answers every hour",
+    "url": "https://www.popsci.com/technology/ai-overview-inaccuracy-google/",
     "source": "Hacker News",
     "date": "2026-04-09",
-    "summary": "Article URL: https://github.com/0din-ai/ai-scanner Comments URL: https://news.ycombinator.com/item?id=47702784 Points: 6 # Comments: 1",
-    "category": "models",
-    "image": "https://opengraph.githubassets.com/6b01621c79f7500215c8891beefaf83c6b7fb046f6f99bbe398ce08e8fdbdb4e/0din-ai/ai-scanner",
+    "summary": "Article URL: https://www.popsci.com/technology/ai-overview-inaccuracy-google/ Comments URL: https://news.ycombinator.com/item?id=47704713 Points: 1 # Comments: 0",
+    "category": "research",
+    "image": "https://www.popsci.com/wp-content/uploads/2026/04/Untitled-design-17.png?w=1200",
     "id": 22
   },
   {
-    "title": "Show HN: QVAC SDK, a universal JavaScript SDK for building local AI applications",
-    "url": "https://news.ycombinator.com/item?id=47702714",
+    "title": "AI Code Security Scanner – static analysis for 14 languages, OWASP Top",
+    "url": "https://github.com/astro717/ai-code-security-scanner",
     "source": "Hacker News",
     "date": "2026-04-09",
-    "summary": "Hi folks, today we're launching QVAC SDK [0], a universal JavaScript/TypeScript SDK for building local AI applications across desktop and mobile. The project is fully open source under the Apache 2.0 ...",
-    "category": "tools",
+    "summary": "Article URL: https://github.com/astro717/ai-code-security-scanner Comments URL: https://news.ycombinator.com/item?id=47704697 Points: 1 # Comments: 0",
+    "category": "industry",
+    "image": "https://repository-images.githubusercontent.com/1183649324/a8fa4b3c-2de7-4e54-90b1-2b56913e4359",
     "id": 23
   },
   {
-    "title": "Show HN: Improv Playground – practice improv solo with AI scene partners",
-    "url": "https://alpha.improv-playground.com/",
+    "title": "Using AI in Blogging",
+    "url": "https://cagrimmett.com/2026/02/16/on-using-ai-in-blogging/",
     "source": "Hacker News",
     "date": "2026-04-09",
-    "summary": "When I joined an improv troupe last year, I was anxious about being a good scene partner. I wanted to improve by practicing between our group’s sessions. But I found few ways to practice improv solo. ...",
-    "category": "tools",
+    "summary": "Article URL: https://cagrimmett.com/2026/02/16/on-using-ai-in-blogging/ Comments URL: https://news.ycombinator.com/item?id=47704691 Points: 1 # Comments: 0",
+    "category": "industry",
     "id": 24
   },
   {
-    "title": "Data analysis via AI coding tools, directly in the codebase",
-    "url": "https://anj.me/data-analysis-in-the-age-of-ai-good-better-best/",
+    "title": "A complete GPT language model in ~600 lines of C#, zero dependencies",
+    "url": "https://github.com/milanm/AutoGrad-Engine",
     "source": "Hacker News",
     "date": "2026-04-09",
-    "summary": "Article URL: https://anj.me/data-analysis-in-the-age-of-ai-good-better-best/ Comments URL: https://news.ycombinator.com/item?id=47702698 Points: 1 # Comments: 1",
-    "category": "tools",
+    "summary": "Article URL: https://github.com/milanm/AutoGrad-Engine Comments URL: https://news.ycombinator.com/item?id=47704687 Points: 3 # Comments: 0",
+    "category": "models",
+    "image": "https://repository-images.githubusercontent.com/1156591463/4257922d-6226-4893-a168-b9a0957f7bbe",
     "id": 25
+  },
+  {
+    "title": "The Model Says Walk: How Surface Heuristics Override LLM Reasoning Constraints",
+    "url": "https://arxiv.org/abs/2603.29025",
+    "source": "Hacker News",
+    "date": "2026-04-09",
+    "summary": "Article URL: https://arxiv.org/abs/2603.29025 Comments URL: https://news.ycombinator.com/item?id=47704650 Points: 1 # Comments: 0",
+    "category": "research",
+    "id": 26
+  },
+  {
+    "title": "How AI Can, and Can't, Cure Cancer",
+    "url": "https://curecancer.ai/",
+    "source": "Hacker News",
+    "date": "2026-04-09",
+    "summary": "Article URL: https://curecancer.ai/ Comments URL: https://news.ycombinator.com/item?id=47704625 Points: 1 # Comments: 1",
+    "category": "industry",
+    "image": "https://curecancer.ai/og-img-v4.jpg",
+    "id": 27
   },
   {
     "title": "The Download: AstroTurf wars and exponential AI growth",
@@ -249,17 +270,17 @@
     "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. Is fake grass a bad idea? The AstroTurf wars are far from over...",
     "category": "industry",
     "image": "https://wp.technologyreview.com/wp-content/uploads/2026/04/AdobeStock_716372037.jpg?resize=1200,600",
-    "id": 26
+    "id": 28
   },
   {
-    "title": "Inside the Pro-Iran Meme Machine Trolling Trump With AI Lego Cartoons",
+    "title": "The Pro-Iran Meme Machine Trolling Trump With AI Lego Cartoons",
     "url": "https://www.wired.com/story/inside-the-pro-iran-meme-machine-trolling-trump-with-ai-lego-cartoons/",
     "source": "Wired",
     "date": "2026-04-09",
     "summary": "Since the beginning of the Iran war, the group Explosive Media has released over a dozen viral videos mocking Trump and the US.",
     "category": "industry",
     "image": "https://media.wired.com/photos/69d681be0aa0c0c6d4da5c6c/191:100/w_1280,c_limit/GettyImages-825967636.jpg",
-    "id": 27
+    "id": 29
   },
   {
     "title": "This AI Wearable From Ex-Apple Engineers Looks Like an iPod Shuffle",
@@ -269,7 +290,7 @@
     "summary": "Two former Apple Vision Pro developers made an AI wearable that only listens when you tap it. They hope to win where other AI gadgets have fumbled: privacy.",
     "category": "industry",
     "image": "https://media.wired.com/photos/69d67ff20c95e3e9dba17bfa/191:100/w_1280,c_limit/gear_wearable_Book-Worm_9218.jpg",
-    "id": 28
+    "id": 30
   },
   {
     "title": "Pramana: Fine-Tuning Large Language Models for Epistemic Reasoning through Navya-Nyaya",
@@ -278,7 +299,7 @@
     "date": "2026-04-09",
     "summary": "Large language models produce fluent text but struggle with systematic reasoning, often hallucinating confident but unfounded claims. When Apple researchers added irrelevant context to mathematical pr...",
     "category": "models",
-    "id": 29
+    "id": 31
   },
   {
     "title": "Operational Noncommutativity in Sequential Metacognitive Judgments",
@@ -287,7 +308,7 @@
     "date": "2026-04-09",
     "summary": "Metacognition, understood as the monitoring and regulation of one's own cognitive processes, is inherently sequential: an agent evaluates an internal state, updates it, and may then re-evaluate under ...",
     "category": "industry",
-    "id": 30
+    "id": 32
   },
   {
     "title": "Proximity Measure of Information Object Features for Solving the Problem of Their Identification in Information Systems",
@@ -296,7 +317,7 @@
     "date": "2026-04-09",
     "summary": "The paper considers a new quantitative-qualitative proximity measure for the features of information objects, where data enters a common information resource from several sources independently. The go...",
     "category": "research",
-    "id": 31
+    "id": 33
   },
   {
     "title": "ReVEL: Multi-Turn Reflective LLM-Guided Heuristic Evolution via Structured Performance Feedback",
@@ -305,7 +326,7 @@
     "date": "2026-04-09",
     "summary": "Designing effective heuristics for NP-hard combinatorial optimization problems remains a challenging and expertise-intensive task. Existing applications of large language models (LLMs) primarily rely ...",
     "category": "models",
-    "id": 32
+    "id": 34
   },
   {
     "title": "Algebraic Structure Discovery for Real World Combinatorial Optimisation Problems: A General Framework from Abstract Algebra to Quotient Space Learning",
@@ -314,7 +335,7 @@
     "date": "2026-04-09",
     "summary": "Many combinatorial optimisation problems hide algebraic structures that, once exposed, shrink the search space and improve the chance of finding the global optimal solution. We present a general frame...",
     "category": "research",
-    "id": 33
+    "id": 35
   },
   {
     "title": "PaperOrchestra: A Multi-Agent Framework for Automated AI Research Paper Writing",
@@ -323,7 +344,7 @@
     "date": "2026-04-09",
     "summary": "Synthesizing unstructured research materials into manuscripts is an essential yet under-explored challenge in AI-driven scientific discovery. Existing autonomous writers are rigidly coupled to specifi...",
     "category": "research",
-    "id": 34
+    "id": 36
   },
   {
     "title": "Part-Level 3D Gaussian Vehicle Generation with Joint and Hinge Axis Estimation",
@@ -332,7 +353,7 @@
     "date": "2026-04-09",
     "summary": "Simulation is essential for autonomous driving, yet current frameworks often model vehicles as rigid assets and fail to capture part-level articulation. With perception algorithms increasingly leverag...",
     "category": "research",
-    "id": 35
+    "id": 37
   },
   {
     "title": "MMORF: A Multi-agent Framework for Designing Multi-objective Retrosynthesis Planning Systems",
@@ -341,7 +362,7 @@
     "date": "2026-04-09",
     "summary": "Multi-objective retrosynthesis planning is a critical chemistry task requiring dynamic balancing of quality, safety, and cost objectives. Language model-based multi-agent systems (MAS) offer a promisi...",
     "category": "research",
-    "id": 36
+    "id": 38
   },
   {
     "title": "MedGemma 1.5 Technical Report",
@@ -350,7 +371,7 @@
     "date": "2026-04-09",
     "summary": "We introduce MedGemma 1.5 4B, the latest model in the MedGemma collection. MedGemma 1.5 expands on MedGemma 1 by integrating additional capabilities: high-dimensional medical imaging (CT/MRI volumes a...",
     "category": "research",
-    "id": 37
+    "id": 39
   },
   {
     "title": "Uncertainty-Guided Latent Diagnostic Trajectory Learning for Sequential Clinical Diagnosis",
@@ -359,7 +380,7 @@
     "date": "2026-04-09",
     "summary": "Clinical diagnosis requires sequential evidence acquisition under uncertainty. However, most Large Language Model (LLM) based diagnostic systems assume fully observed patient information and therefore...",
     "category": "models",
-    "id": 38
+    "id": 40
   },
   {
     "title": "Non-monotonic causal discovery with Kolmogorov-Arnold Fuzzy Cognitive Maps",
@@ -368,7 +389,7 @@
     "date": "2026-04-09",
     "summary": "Fuzzy Cognitive Maps constitute a neuro-symbolic paradigm for modeling complex dynamic systems, widely adopted for their inherent interpretability and recurrent inference capabilities. However, the st...",
     "category": "research",
-    "id": 39
+    "id": 41
   },
   {
     "title": "A mathematical theory of evolution for self-designing AIs",
@@ -377,7 +398,7 @@
     "date": "2026-04-09",
     "summary": "As artificial intelligence systems (AIs) become increasingly produced by recursive self-improvement, a form of evolution may emerge, in which the traits of AI systems are shaped by the success of earl...",
     "category": "hardware",
-    "id": 40
+    "id": 42
   },
   {
     "title": "IntentScore: Intent-Conditioned Action Evaluation for Computer-Use Agents",
@@ -386,7 +407,7 @@
     "date": "2026-04-09",
     "summary": "Computer-Use Agents (CUAs) leverage large language models to execute GUI operations on desktop environments, yet they generate actions without evaluating action quality, leading to irreversible errors...",
     "category": "research",
-    "id": 41
+    "id": 43
   },
   {
     "title": "Bypassing the CSI Bottleneck: MARL-Driven Spatial Control for Reflector Arrays",
@@ -395,7 +416,7 @@
     "date": "2026-04-09",
     "summary": "Reconfigurable Intelligent Surfaces (RIS) are pivotal for next-generation smart radio environments, yet their practical deployment is severely bottlenecked by the intractable computational overhead of...",
     "category": "research",
-    "id": 42
+    "id": 44
   },
   {
     "title": "Learning to Focus: CSI-Free Hierarchical MARL for Reconfigurable Reflectors",
@@ -404,7 +425,7 @@
     "date": "2026-04-09",
     "summary": "Reconfigurable Intelligent Surfaces (RIS) has a potential to engineer smart radio environments for next-generation millimeter-wave (mmWave) networks. However, the prohibitive computational overhead of...",
     "category": "research",
-    "id": 43
+    "id": 45
   },
   {
     "title": "Instruction-Tuned LLMs for Parsing and Mining Unstructured Logs on Leadership HPC Systems",
@@ -413,7 +434,7 @@
     "date": "2026-04-09",
     "summary": "Leadership-class HPC systems generate massive volumes of heterogeneous, largely unstructured system logs. Because these logs originate from diverse software, hardware, and runtime layers, they exhibit...",
     "category": "models",
-    "id": 44
+    "id": 46
   },
   {
     "title": "ClawsBench: Evaluating Capability and Safety of LLM Productivity Agents in Simulated Workspaces",
@@ -422,7 +443,7 @@
     "date": "2026-04-09",
     "summary": "Large language model (LLM) agents are increasingly deployed to automate productivity tasks (e.g., email, scheduling, document management), but evaluating them on live services is risky due to potentia...",
     "category": "models",
-    "id": 45
+    "id": 47
   },
   {
     "title": "Attribution Bias in Large Language Models",
@@ -431,7 +452,7 @@
     "date": "2026-04-09",
     "summary": "As Large Language Models (LLMs) are increasingly used to support search and information retrieval, it is critical that they accurately attribute content to its original authors. In this work, we intro...",
     "category": "models",
-    "id": 46
+    "id": 48
   },
   {
     "title": "From Governance Norms to Enforceable Controls: A Layered Translation Method for Runtime Guardrails in Agentic AI",
@@ -440,7 +461,7 @@
     "date": "2026-04-09",
     "summary": "Agentic AI systems plan, use tools, maintain state, and produce multi-step trajectories with external effects. Those properties create a governance problem that differs materially from single-turn gen...",
     "category": "tools",
-    "id": 47
+    "id": 49
   },
   {
     "title": "EAGLE: Edge-Aware Graph Learning for Proactive Delivery Delay Prediction in Smart Logistics Networks",
@@ -449,24 +470,6 @@
     "date": "2026-04-09",
     "summary": "Modern logistics networks generate rich operational data streams at every warehouse node and transportation lane -- from order timestamps and routing records to shipping manifests -- yet predicting de...",
     "category": "models",
-    "id": 48
-  },
-  {
-    "title": "Simulating the Evolution of Alignment and Values in Machine Intelligence",
-    "url": "https://arxiv.org/abs/2604.05274",
-    "source": "arXiv cs.AI",
-    "date": "2026-04-09",
-    "summary": "Model alignment is currently applied in a vacuum, evaluated primarily through standardised benchmark performance. The purpose of this study is to examine the effects of alignment on populations of mod...",
-    "category": "research",
-    "id": 49
-  },
-  {
-    "title": "Pressure, What Pressure? Sycophancy Disentanglement in Language Models via Reward Decomposition",
-    "url": "https://arxiv.org/abs/2604.05279",
-    "source": "arXiv cs.AI",
-    "date": "2026-04-09",
-    "summary": "Large language models exhibit sycophancy, the tendency to shift their stated positions toward perceived user preferences or authority cues regardless of evidence. Standard alignment methods fail to co...",
-    "category": "tools",
     "id": 50
   }
 ]
