@@ -1,5 +1,242 @@
 [
   {
+    "title": "Using projects in ChatGPT",
+    "url": "https://openai.com/academy/projects",
+    "source": "OpenAI Blog",
+    "date": "2026-04-10",
+    "summary": "Learn how to use orojects in ChatGPT to organize chats, files, and instructions, manage ongoing work, and collaborate more effectively.",
+    "category": "models",
+    "id": 1,
+    "featured": true
+  },
+  {
+    "title": "Prompting fundamentals",
+    "url": "https://openai.com/academy/prompting",
+    "source": "OpenAI Blog",
+    "date": "2026-04-10",
+    "summary": "Learn prompting fundamentals and how to write clear, effective prompts to get better, more useful responses from ChatGPT.",
+    "category": "models",
+    "id": 2
+  },
+  {
+    "title": "Using skills",
+    "url": "https://openai.com/academy/skills",
+    "source": "OpenAI Blog",
+    "date": "2026-04-10",
+    "summary": "Learn how to create and use ChatGPT skills to build reusable workflows, automate recurring tasks, and ensure consistent, high-quality outputs.",
+    "category": "models",
+    "id": 3
+  },
+  {
+    "title": "Analyzing data with ChatGPT",
+    "url": "https://openai.com/academy/data-analysis",
+    "source": "OpenAI Blog",
+    "date": "2026-04-10",
+    "summary": "Learn how to analyze data with ChatGPT by exploring datasets, generating insights, creating visualizations, and turning findings into actionable decisions.",
+    "category": "models",
+    "id": 4
+  },
+  {
+    "title": "Creating images with ChatGPT",
+    "url": "https://openai.com/academy/image-generation",
+    "source": "OpenAI Blog",
+    "date": "2026-04-10",
+    "summary": "Learn how to create and refine images with ChatGPT using clear prompts, iterate on designs, and generate high-quality visuals in minutes.",
+    "category": "models",
+    "id": 5
+  },
+  {
+    "title": "ChatGPT for marketing teams",
+    "url": "https://openai.com/academy/marketing",
+    "source": "OpenAI Blog",
+    "date": "2026-04-10",
+    "summary": "Learn how marketing teams use ChatGPT to plan campaigns, generate content, analyze performance, and move from ideas to execution faster.",
+    "category": "models",
+    "id": 6
+  },
+  {
+    "title": "AI fundamentals",
+    "url": "https://openai.com/academy/what-is-ai",
+    "source": "OpenAI Blog",
+    "date": "2026-04-10",
+    "summary": "Learn what AI is, how it works, and how tools like ChatGPT use large language models. A clear, beginner-friendly guide to understanding artificial intelligence.",
+    "category": "models",
+    "id": 7
+  },
+  {
+    "title": "Writing with ChatGPT",
+    "url": "https://openai.com/academy/writing",
+    "source": "OpenAI Blog",
+    "date": "2026-04-10",
+    "summary": "Learn how to use ChatGPT for writing to draft, revise, and refine content with clear structure, tone, and intent.",
+    "category": "models",
+    "id": 8
+  },
+  {
+    "title": "ChatGPT for customer success teams",
+    "url": "https://openai.com/academy/customer-success",
+    "source": "OpenAI Blog",
+    "date": "2026-04-10",
+    "summary": "Learn how customer success teams use ChatGPT to manage accounts, improve communication, reduce churn, and drive adoption and renewals.",
+    "category": "models",
+    "id": 9
+  },
+  {
+    "title": "Healthcare",
+    "url": "https://openai.com/academy/healthcare",
+    "source": "OpenAI Blog",
+    "date": "2026-04-10",
+    "summary": "Explore how clinicians use ChatGPT to support diagnosis, documentation, and patient care with secure, HIPAA-compliant AI tools.",
+    "category": "models",
+    "id": 10
+  },
+  {
+    "title": "Financial services",
+    "url": "https://openai.com/academy/financial-services",
+    "source": "OpenAI Blog",
+    "date": "2026-04-10",
+    "summary": "Explore AI resources for financial services, including prompt packs, GPTs, guides, and tools to help institutions deploy and scale AI securely.",
+    "category": "models",
+    "id": 11
+  },
+  {
+    "title": "Brainstorming with ChatGPT",
+    "url": "https://openai.com/academy/brainstorming",
+    "source": "OpenAI Blog",
+    "date": "2026-04-10",
+    "summary": "Learn how to use ChatGPT to brainstorm ideas, organize thinking, and turn rough concepts into structured, actionable plans.",
+    "category": "models",
+    "id": 12
+  },
+  {
+    "title": "ChatGPT for operations teams",
+    "url": "https://openai.com/academy/operations",
+    "source": "OpenAI Blog",
+    "date": "2026-04-10",
+    "summary": "Learn how operations teams use ChatGPT to streamline workflows, improve coordination, standardize processes, and drive faster execution.",
+    "category": "models",
+    "id": 13
+  },
+  {
+    "title": "ChatGPT for managers",
+    "url": "https://openai.com/academy/managers",
+    "source": "OpenAI Blog",
+    "date": "2026-04-10",
+    "summary": "Learn how managers use ChatGPT to prepare for conversations, write clear feedback, stay organized, and improve team effectiveness.",
+    "category": "models",
+    "id": 14
+  },
+  {
+    "title": "Personalizing ChatGPT",
+    "url": "https://openai.com/academy/personalization",
+    "source": "OpenAI Blog",
+    "date": "2026-04-10",
+    "summary": "Learn how to personalize ChatGPT using custom instructions and memory to get more relevant, consistent, and tailored responses.",
+    "category": "models",
+    "id": 15
+  },
+  {
+    "title": "Responsible and safe use of AI",
+    "url": "https://openai.com/academy/responsible-and-safe-use",
+    "source": "OpenAI Blog",
+    "date": "2026-04-10",
+    "summary": "Learn how to use AI responsibly with best practices for safety, accuracy, and transparency when using tools like ChatGPT.",
+    "category": "models",
+    "id": 16
+  },
+  {
+    "title": "Working with files in ChatGPT",
+    "url": "https://openai.com/academy/working-with-files",
+    "source": "OpenAI Blog",
+    "date": "2026-04-10",
+    "summary": "Learn how to upload and work with files in ChatGPT to analyze data, summarize documents, and generate content from PDFs, spreadsheets, and more.",
+    "category": "models",
+    "id": 17
+  },
+  {
+    "title": "Getting started with ChatGPT",
+    "url": "https://openai.com/academy/getting-started",
+    "source": "OpenAI Blog",
+    "date": "2026-04-10",
+    "summary": "Learn how to use ChatGPT, start your first conversation, and discover simple ways to write, brainstorm, and solve problems with AI.",
+    "category": "models",
+    "id": 18
+  },
+  {
+    "title": "Research with ChatGPT",
+    "url": "https://openai.com/academy/search-and-deep-research",
+    "source": "OpenAI Blog",
+    "date": "2026-04-10",
+    "summary": "Learn how to research with ChatGPT using search and deep research to find up-to-date information, analyze sources, and generate structured insights.",
+    "category": "models",
+    "id": 19
+  },
+  {
+    "title": "ChatGPT for sales teams",
+    "url": "https://openai.com/academy/sales",
+    "source": "OpenAI Blog",
+    "date": "2026-04-10",
+    "summary": "Learn how sales teams use ChatGPT to research accounts, personalize outreach, manage deals, and improve pipeline and conversion.",
+    "category": "models",
+    "id": 20
+  },
+  {
+    "title": "Using custom GPTs",
+    "url": "https://openai.com/academy/custom-gpts",
+    "source": "OpenAI Blog",
+    "date": "2026-04-10",
+    "summary": "Learn how to build and use custom GPTs to automate workflows, maintain consistent outputs, and create purpose-built AI assistants.",
+    "category": "models",
+    "id": 21
+  },
+  {
+    "title": "ChatGPT for research",
+    "url": "https://openai.com/academy/research",
+    "source": "OpenAI Blog",
+    "date": "2026-04-10",
+    "summary": "Learn how to use ChatGPT for research to gather sources, analyze information, and create structured, citation-backed insights.",
+    "category": "models",
+    "id": 22
+  },
+  {
+    "title": "Applications of AI at OpenAI",
+    "url": "https://openai.com/academy/applications-of-ai",
+    "source": "OpenAI Blog",
+    "date": "2026-04-10",
+    "summary": "Explore how OpenAI products like ChatGPT, Codex, and APIs bring AI into real-world use for work, development, and everyday tasks.",
+    "category": "models",
+    "id": 23
+  },
+  {
+    "title": "ChatGPT for finance teams",
+    "url": "https://openai.com/academy/finance",
+    "source": "OpenAI Blog",
+    "date": "2026-04-10",
+    "summary": "Learn how finance teams use ChatGPT to streamline reporting, analyze data, improve forecasts, and communicate insights more clearly.",
+    "category": "models",
+    "id": 24
+  },
+  {
+    "title": "National Robotics Week — Latest Physical AI Research, Breakthroughs and Resources",
+    "url": "https://blogs.nvidia.com/blog/national-robotics-week-2026/",
+    "source": "NVIDIA Blog",
+    "date": "2026-04-10",
+    "summary": "This National Robotics Week, NVIDIA is highlighting the breakthroughs that are bringing AI into the physical world — as well as the growing wave of robots transforming industries, from agricultural an...",
+    "category": "research",
+    "image": "https://blogs.nvidia.com/wp-content/uploads/2026/04/robotics-tech-blog-nrw-rolling-blog-1280x680-1.jpg",
+    "id": 25
+  },
+  {
+    "title": "HWMonitor and CPU-Z developer CPUID breached by unknown attackers — cyberattack forced users to download malware instead of valid apps for six hours",
+    "url": "https://www.tomshardware.com/tech-industry/cyber-security/hwmonitor-and-cpu-z-developer-cpuid-breached-by-unknown-attackers-cyberattack-forced-users-to-download-malware-instead-of-valid-apps-for-approximately-six-hours",
+    "source": "Tom's Hardware",
+    "date": "2026-04-10",
+    "summary": "Unknown attackers compromised the CPUID website, redirecting users to malware laden versions of popular tools.",
+    "category": "tools",
+    "image": "https://cdn.mos.cms.futurecdn.net/WyRuWM6v9nNACodoiYTvYX-1280-80.png",
+    "id": 26
+  },
+  {
     "title": "Anthropic's Claude Mythos isn't a sentient super-hacker, it's a sales pitch — claims of 'thousands' of severe zero-days rely on just 198 manual reviews",
     "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/anthropics-claude-mythos-isnt-a-sentient-super-hacker-its-a-sales-pitch-claims-of-thousands-of-severe-zero-days-rely-on-just-198-manual-reviews",
     "source": "Tom's Hardware",
@@ -7,8 +244,7 @@
     "summary": "Anthropic has convened America's big tech companies and the U.S. government to deal with the many bugs and vulnerabilities its new AI found, but this may be just the latest attempt by Anthropic to sca...",
     "category": "models",
     "image": "https://cdn.mos.cms.futurecdn.net/LzLSoTfRnpwCpMdewqmutZ-1280-80.jpg",
-    "id": 1,
-    "featured": true
+    "id": 27
   },
   {
     "title": "30 years of Lexar: What a look inside its R&D labs and factory reveals about its plans for an AI-ready future",
@@ -18,7 +254,7 @@
     "summary": "Lexar toured us around its R&D labs and production facilities to see how it's building storage solutions for today and tomorrow.",
     "category": "research",
     "image": "https://cdn.mos.cms.futurecdn.net/EEGxAEwSz8zMuGaDgFzzQo-1280-80.jpg",
-    "id": 2
+    "id": 28
   },
   {
     "title": "Silverstone IceMyst Pro 360 Pro Review: Designed for RAM overclocking",
@@ -28,7 +264,7 @@
     "summary": "Silverstone’s IceMyst Pro 360 is a unique AIO that’s designed for RAM overclocking. This review is tested with AMD’s Ryzen 9 9950X3D CPU.",
     "category": "hardware",
     "image": "https://cdn.mos.cms.futurecdn.net/bCoejmhspMUJ6w3FP6UAwZ-1280-80.jpg",
-    "id": 3
+    "id": 29
   },
   {
     "title": "Engineer installs 3.5-inch floppy drive in a Tesla — modern EV recognizes and runs ancient storage device, even plays an MP3 file from diskette",
@@ -38,191 +274,27 @@
     "summary": "An engineer and software developer was able to make a 3.5-inch floppy drive work seamlessly with the Tesla with just a USB-to-FDD converter.",
     "category": "research",
     "image": "https://cdn.mos.cms.futurecdn.net/U8TWe6Qq8Y9SMuJ7tn7v9H-1280-80.png",
-    "id": 4
+    "id": 30
   },
   {
-    "title": "Mybets.gg – AI-powered sports bet tracker with browser extension and analytics",
-    "url": "https://www.mybets.gg",
-    "source": "Hacker News",
+    "title": "Stalking victim sues OpenAI, claims ChatGPT fueled her abuser’s delusions and ignored her warnings",
+    "url": "https://techcrunch.com/2026/04/10/stalking-victim-sues-openai-claims-chatgpt-fueled-her-abusers-delusions-and-ignored-her-warnings/",
+    "source": "TechCrunch",
     "date": "2026-04-10",
-    "summary": "Article URL: https://www.mybets.gg Comments URL: https://news.ycombinator.com/item?id=47719928 Points: 1 # Comments: 0",
-    "category": "hardware",
-    "image": "https://www.mybets.gg/og-image.jpg",
-    "id": 5
-  },
-  {
-    "title": "Show HN: I built a $3/yr AI workflow to stop doomscrolling Twitter for tech news",
-    "url": "https://news.ycombinator.com/item?id=47719925",
-    "source": "Hacker News",
-    "date": "2026-04-10",
-    "summary": "I’ve always had a simple but annoying problem: I want to stay updated on the latest open-source projects and tech trends, but I really don’t want to rely on scrolling Twitter to get them anymore. The ...",
-    "category": "research",
-    "id": 6
-  },
-  {
-    "title": "The AI Productivity Trap",
-    "url": "https://www.neutron.studio/blog/2026/04-08-ai-productivity-trap.html",
-    "source": "Hacker News",
-    "date": "2026-04-10",
-    "summary": "Article URL: https://www.neutron.studio/blog/2026/04-08-ai-productivity-trap.html Comments URL: https://news.ycombinator.com/item?id=47719795 Points: 1 # Comments: 0",
-    "category": "tools",
-    "id": 7
-  },
-  {
-    "title": "Show HN: Free AI Lyrics Generator",
-    "url": "https://tinymusic.ai/ai-lyrics-generator",
-    "source": "Hacker News",
-    "date": "2026-04-10",
-    "summary": "Enter a topic, pick a style and mood, get complete song lyrics with [Verse][Chorus] structure. Examples included. No signup needed. Comments URL: https://news.ycombinator.com/item?id=47719787 Points: ...",
-    "category": "industry",
-    "id": 8
-  },
-  {
-    "title": "The AI Productivity Lie",
-    "url": "https://www.parand.com/the-ai-productivity-lie.html",
-    "source": "Hacker News",
-    "date": "2026-04-10",
-    "summary": "Article URL: https://www.parand.com/the-ai-productivity-lie.html Comments URL: https://news.ycombinator.com/item?id=47719759 Points: 1 # Comments: 0",
-    "category": "tools",
-    "id": 9
-  },
-  {
-    "title": "Dear AI companies: Your rate limits are my favorite feature",
-    "url": "https://pure-systems.org/posts/2026-04-10-dear-ai-companies-your-limits-are-a-feature.html",
-    "source": "Hacker News",
-    "date": "2026-04-10",
-    "summary": "Article URL: https://pure-systems.org/posts/2026-04-10-dear-ai-companies-your-limits-are-a-feature.html Comments URL: https://news.ycombinator.com/item?id=47719755 Points: 2 # Comments: 0",
-    "category": "industry",
-    "id": 10
-  },
-  {
-    "title": "The only non-LLM-generated file in my repo",
-    "url": "https://github.com/sleepyeldrazi/little_helper_tui/blob/main/letter.md",
-    "source": "Hacker News",
-    "date": "2026-04-10",
-    "summary": "Article URL: https://github.com/sleepyeldrazi/little_helper_tui/blob/main/letter.md Comments URL: https://news.ycombinator.com/item?id=47719744 Points: 2 # Comments: 1",
+    "summary": "OpenAI ignored three warnings that a ChatGPT user was dangerous — including its own mass-casualty flag — while he stalked and harassed his ex-girlfriend, a new lawsuit alleges.",
     "category": "models",
-    "image": "https://opengraph.githubassets.com/a049fa32646011d490ff61c7450849feeb6d9f0ffb62ae6b871227c322524924/sleepyeldrazi/little_helper_tui",
-    "id": 11
+    "image": "https://techcrunch.com/wp-content/uploads/2024/11/GettyImages-1733837014-e.jpg?resize=1200,800",
+    "id": 31
   },
   {
-    "title": "Is a Human Cheaper? Devs or AI Agents Decision Tool",
-    "url": "https://isahumancheaper.damjanski.com/",
-    "source": "Hacker News",
+    "title": "TechCrunch is heading to Tokyo — and bringing the Startup Battlefield with it",
+    "url": "https://techcrunch.com/2026/04/10/techcrunch-is-heading-to-tokyo-and-bringing-the-startup-battlefield-with-it/",
+    "source": "TechCrunch",
     "date": "2026-04-10",
-    "summary": "Article URL: https://isahumancheaper.damjanski.com/ Comments URL: https://news.ycombinator.com/item?id=47719731 Points: 1 # Comments: 0",
+    "summary": "SusHi Tech 2026 is zeroing in on four technology domains reshaping society: AI, Robotics, Resilience, and Entertainment. Expect live demos of humanoid robots, sessions on autonomous driving's software...",
     "category": "tools",
-    "image": "https://isahumancheaper.damjanski.com/share.jpg",
-    "id": 12
-  },
-  {
-    "title": "Show HN: I built a project board where AI agents join as real teammates",
-    "url": "https://is.team",
-    "source": "Hacker News",
-    "date": "2026-04-10",
-    "summary": "Article URL: https://is.team Comments URL: https://news.ycombinator.com/item?id=47719483 Points: 3 # Comments: 0",
-    "category": "industry",
-    "id": 13
-  },
-  {
-    "title": "Writer Survey: 60% of Companies Plan to Lay Off Employees Who Won't Adopt AI",
-    "url": "https://writer.com/blog/enterprise-ai-adoption-survey-results-press-release/",
-    "source": "Hacker News",
-    "date": "2026-04-10",
-    "summary": "Article URL: https://writer.com/blog/enterprise-ai-adoption-survey-results-press-release/ Comments URL: https://news.ycombinator.com/item?id=47719416 Points: 1 # Comments: 0",
-    "category": "industry",
-    "image": "https://writer.com/wp-content/uploads/2026/03/hp-share-2026-03.png",
-    "id": 14
-  },
-  {
-    "title": "Show HN: Skilldeck – Desktop app to manage AI agent skill files across tools",
-    "url": "https://github.com/ali-erfan-dev/skilldeck",
-    "source": "Hacker News",
-    "date": "2026-04-10",
-    "summary": "Skill files (.claude/skills/, .cursor/rules/*.mdc, AGENTS.md, .windsurfrules) are becoming a core part of AI-assisted development workflows. The problem: they scatter across projects, diverge silently...",
-    "category": "tools",
-    "image": "https://opengraph.githubassets.com/e07fd1e5e12c872b9b63a85e12b1e364870b88ff28185db9c58a71f1788e9da5/ali-erfan-dev/skilldeck",
-    "id": 15
-  },
-  {
-    "title": "RemembrallMCP – persistent memory and code graph for AI agents",
-    "url": "https://github.com/cdnsteve/remembrallmcp",
-    "source": "Hacker News",
-    "date": "2026-04-10",
-    "summary": "Article URL: https://github.com/cdnsteve/remembrallmcp Comments URL: https://news.ycombinator.com/item?id=47719361 Points: 2 # Comments: 0",
-    "category": "models",
-    "image": "https://opengraph.githubassets.com/96a35c72962d713cc6945327a857920abcaf7217333265da7113946a36607ad5/cdnsteve/remembrallmcp",
-    "id": 16
-  },
-  {
-    "title": "The AI bubble isn't new – Marx explained the mechanisms behind it 150 years ago",
-    "url": "https://theconversation.com/the-ai-bubble-isnt-new-karl-marx-explained-the-mechanisms-behind-it-nearly-150-years-ago-270663",
-    "source": "Hacker News",
-    "date": "2026-04-10",
-    "summary": "Article URL: https://theconversation.com/the-ai-bubble-isnt-new-karl-marx-explained-the-mechanisms-behind-it-nearly-150-years-ago-270663 Comments URL: https://news.ycombinator.com/item?id=47719107 Poi...",
-    "category": "industry",
-    "image": "https://images.theconversation.com/files/704975/original/file-20251126-62-m9wur0.jpg?ixlib=rb-4.1.0&rect=0%2C841%2C5041%2C2520&q=45&auto=format&w=1356&h=668&fit=crop",
-    "id": 17
-  },
-  {
-    "title": "UMR: Save LLM model disk space",
-    "url": "https://github.com/EvanZhouDev/umr",
-    "source": "Hacker News",
-    "date": "2026-04-10",
-    "summary": "Article URL: https://github.com/EvanZhouDev/umr Comments URL: https://news.ycombinator.com/item?id=47719054 Points: 1 # Comments: 0",
-    "category": "models",
-    "image": "https://repository-images.githubusercontent.com/1204352546/a8504b90-2c86-413d-81c5-8648e452bd77",
-    "id": 18
-  },
-  {
-    "title": "CIA to embed AI «co-workers» in every analytic platform within two years",
-    "url": "https://anonhaven.com/en/news/cia-ai-coworkers-ellis-scsp-april-2026/",
-    "source": "Hacker News",
-    "date": "2026-04-10",
-    "summary": "Article URL: https://anonhaven.com/en/news/cia-ai-coworkers-ellis-scsp-april-2026/ Comments URL: https://news.ycombinator.com/item?id=47718982 Points: 4 # Comments: 1",
-    "category": "tools",
-    "image": "https://anonhaven.com/media/news/2026/04/cia.jpg",
-    "id": 19
-  },
-  {
-    "title": "Why do we tell ourselves scary stories about AI?",
-    "url": "https://www.quantamagazine.org/why-do-we-tell-ourselves-scary-stories-about-ai-20260410/",
-    "source": "Hacker News",
-    "date": "2026-04-10",
-    "summary": "Article URL: https://www.quantamagazine.org/why-do-we-tell-ourselves-scary-stories-about-ai-20260410/ Comments URL: https://news.ycombinator.com/item?id=47718812 Points: 28 # Comments: 68",
-    "category": "industry",
-    "image": "https://www.quantamagazine.org/wp-content/uploads/2026/04/Aihorrorstories_cr-Zara-PickenSocial.jpg",
-    "id": 20
-  },
-  {
-    "title": "Alibaba just revealed it's behind a viral AI video model dominating leaderboards",
-    "url": "https://www.cnbc.com/2026/04/10/alibaba-happyhorse-ai-video-model-benchmark-reveal.html",
-    "source": "Hacker News",
-    "date": "2026-04-10",
-    "summary": "Article URL: https://www.cnbc.com/2026/04/10/alibaba-happyhorse-ai-video-model-benchmark-reveal.html Comments URL: https://news.ycombinator.com/item?id=47718651 Points: 2 # Comments: 0",
-    "category": "models",
-    "image": "https://image.cnbcfm.com/api/v1/image/108289658-1775811037570-gettyimages-2268757781-AFP_A6EW8B8.jpeg?v=1775811062&w=1920&h=1080",
-    "id": 21
-  },
-  {
-    "title": "Show HN: Volnix – A stateful world simulation for AI agents",
-    "url": "https://github.com/janaraj/volnix",
-    "source": "Hacker News",
-    "date": "2026-04-10",
-    "summary": "Article URL: https://github.com/janaraj/volnix Comments URL: https://news.ycombinator.com/item?id=47718555 Points: 1 # Comments: 0",
-    "category": "industry",
-    "image": "https://opengraph.githubassets.com/071dbe0f80a7260ea4499106794ff2eee14125b5f925d5dc816e2c6e3d5299aa/janaraj/volnix",
-    "id": 22
-  },
-  {
-    "title": "Show HN: Savile: Local-first MCP server for AI agent prompts and skills",
-    "url": "https://github.com/mr8lu/savile",
-    "source": "Hacker News",
-    "date": "2026-04-10",
-    "summary": "Article URL: https://github.com/mr8lu/savile Comments URL: https://news.ycombinator.com/item?id=47718506 Points: 1 # Comments: 0",
-    "category": "hardware",
-    "image": "https://opengraph.githubassets.com/bbd7cc812584205567377ed86027d10317b5d873a11ed43b99174c01f8fe7869/mr8lu/savile",
-    "id": 23
+    "image": "https://techcrunch.com/wp-content/uploads/2026/04/STTchallenge.jpeg?w=800",
+    "id": 32
   },
   {
     "title": "The Download: an exclusive Jeff VanderMeer story and AI models too scary to release",
@@ -232,7 +304,7 @@
     "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. Constellations —Constellations is a short story by Jeff Vander...",
     "category": "industry",
     "image": "https://wp.technologyreview.com/wp-content/uploads/2026/04/top-rogan-e1775253210506.jpg?resize=1200,600",
-    "id": 24
+    "id": 33
   },
   {
     "title": "Constellations",
@@ -242,7 +314,37 @@
     "summary": "I. We had crash-landed on the planet. We were far from home. The spaceship could not be repaired, and the rescue beacon had failed. Besides me, only the astrogator, part of the captain, and the ship’s...",
     "category": "industry",
     "image": "https://wp.technologyreview.com/wp-content/uploads/2026/04/edit-thumb.jpg?resize=1200,600",
-    "id": 25
+    "id": 34
+  },
+  {
+    "title": "Anthropic’s Mythos Will Force a Cybersecurity Reckoning—Just Not the One You Think",
+    "url": "https://www.wired.com/story/anthropics-mythos-will-force-a-cybersecurity-reckoning-just-not-the-one-you-think/",
+    "source": "Wired",
+    "date": "2026-04-10",
+    "summary": "The new AI model is being heralded—and feared—as a hacker’s superweapon. Experts say its arrival is a wake-up call for developers who have long made security an afterthought.",
+    "category": "tools",
+    "image": "https://media.wired.com/photos/69d81392ce1f65d162ddb2f0/191:100/w_1280,c_limit/Security_Anthropic_Getty.jpg",
+    "id": 35
+  },
+  {
+    "title": "Suspect Arrested for Allegedly Throwing Molotov Cocktail at Sam Altman’s Home",
+    "url": "https://www.wired.com/story/sam-altman-home-attack-openai-san-franisco-office-threat/",
+    "source": "Wired",
+    "date": "2026-04-10",
+    "summary": "An attacker allegedly threw a molotov cocktail at the OpenAI CEO’s residence before making threats outside of the startup’s headquarters.",
+    "category": "industry",
+    "image": "https://media.wired.com/photos/69d930fa862e81dfa45e021e/191:100/w_1280,c_limit/Sam-Altman-Intruder.jpg",
+    "id": 36
+  },
+  {
+    "title": "This Startup Wants You to Pay Up to Talk With AI Versions of Human Experts",
+    "url": "https://www.wired.com/story/onix-substack-ai-platform-therapy-medicine-nutrition/",
+    "source": "Wired",
+    "date": "2026-04-10",
+    "summary": "Onix is launching a “Substack of bots,” where digital twins of health and wellness influencers dispense advice 24/7. And maybe hawk their products.",
+    "category": "industry",
+    "image": "https://media.wired.com/photos/69d7e1f9ba44cf4c6fc2717f/191:100/w_1280,c_limit/Backchannel-Worst-Application-of-AI-Yet-Business-1443132344.jpg",
+    "id": 37
   },
   {
     "title": "AI Podcasters Really Want to Tell You How to Keep a Man Happy",
@@ -252,7 +354,7 @@
     "summary": "Videos of fake relationship guru podcasters are reinforcing gender tropes and racking up millions of views, all the while driving sales to AI influencer schools.",
     "category": "hardware",
     "image": "https://media.wired.com/photos/69d6e881e2485977e01e633f/191:100/w_1280,c_limit/AI-Podcasters-Telling-You-How-to-Keep-A-Man-Culture.jpg",
-    "id": 26
+    "id": 38
   },
   {
     "title": "Meta’s New AI Asked for My Raw Health Data—and Gave Me Terrible Advice",
@@ -262,7 +364,7 @@
     "summary": "Meta’s Muse Spark model offers to analyze users’ health data, including lab results. Beyond the obvious privacy risks, it’s not a capable stand-in for a real doctor.",
     "category": "industry",
     "image": "https://media.wired.com/photos/69d8273352260a3f1748cbdd/191:100/w_1280,c_limit/gear_meta_doctor_getty.jpg",
-    "id": 27
+    "id": 39
   },
   {
     "title": "OpenAI Backs Bill That Would Limit Liability for AI-Enabled Mass Deaths or Financial Disasters",
@@ -272,7 +374,7 @@
     "summary": "The ChatGPT-maker testified in favor of an Illinois bill that would limit when AI labs can be held liable—even in cases where their products cause “critical harm.”",
     "category": "models",
     "image": "https://media.wired.com/photos/69d81fc99011397f817a1986/191:100/w_1280,c_limit/OpenAI-Backs-Bill-That-Lets-AI-Labs-Dodge-Liability-for-Critical-Harms-Business-2244268254.jpg",
-    "id": 28
+    "id": 40
   },
   {
     "title": "High-Precision Estimation of the State-Space Complexity of Shogi via the Monte Carlo Method",
@@ -281,7 +383,7 @@
     "date": "2026-04-10",
     "summary": "Determining the state-space complexity of the game of Shogi (Japanese Chess) has been a challenging problem, with previous combinatorial estimates leaving a gap of five orders of magnitude ($10^{64}$ ...",
     "category": "research",
-    "id": 29
+    "id": 41
   },
   {
     "title": "Blind Refusal: Language Models Refuse to Help Users Evade Unjust, Absurd, and Illegitimate Rules",
@@ -290,7 +392,7 @@
     "date": "2026-04-10",
     "summary": "Safety-trained language models routinely refuse requests for help circumventing rules. But not all rules deserve compliance. When users ask for help evading rules imposed by an illegitimate authority,...",
     "category": "models",
-    "id": 30
+    "id": 42
   },
   {
     "title": "Toward Reducing Unproductive Container Moves: Predicting Service Requirements and Dwell Times",
@@ -299,7 +401,7 @@
     "date": "2026-04-10",
     "summary": "This article presents the results of a data science study conducted at a container terminal, aimed at reducing unproductive container moves through the prediction of service requirements and container...",
     "category": "research",
-    "id": 31
+    "id": 43
   },
   {
     "title": "Weakly Supervised Distillation of Hallucination Signals into Transformer Representations",
@@ -308,7 +410,7 @@
     "date": "2026-04-10",
     "summary": "Existing hallucination detection methods for large language models (LLMs) rely on external verification at inference time, requiring gold answers, retrieval systems, or auxiliary judge models. We ask ...",
     "category": "research",
-    "id": 32
+    "id": 44
   },
   {
     "title": "SymptomWise: A Deterministic Reasoning Layer for Reliable and Efficient AI Systems",
@@ -317,7 +419,7 @@
     "date": "2026-04-10",
     "summary": "AI-driven symptom analysis systems face persistent challenges in reliability, interpretability, and hallucination. End-to-end generative approaches often lack traceability and may produce unsupported ...",
     "category": "research",
-    "id": 33
+    "id": 45
   },
   {
     "title": "SELFDOUBT: Uncertainty Quantification for Reasoning LLMs via the Hedge-to-Verify Ratio",
@@ -326,7 +428,7 @@
     "date": "2026-04-10",
     "summary": "Uncertainty estimation for reasoning language models remains difficult to deploy in practice: sampling-based methods are computationally expensive, while common single-pass proxies such as verbalized ...",
     "category": "research",
-    "id": 34
+    "id": 46
   },
   {
     "title": "Qualixar OS: A Universal Operating System for AI Agent Orchestration",
@@ -335,7 +437,7 @@
     "date": "2026-04-10",
     "summary": "We present Qualixar OS, the first application-layer operating system for universal AI agent orchestration. Unlike kernel-level approaches (AIOS) or single-framework tools (AutoGen, CrewAI), Qualixar O...",
     "category": "tools",
-    "id": 35
+    "id": 47
   },
   {
     "title": "ProofSketcher: Hybrid LLM + Lightweight Proof Checker for Reliable Math/Logic Reasoning",
@@ -344,7 +446,7 @@
     "date": "2026-04-10",
     "summary": "The large language models (LLMs) might produce a persuasive argument within mathematical and logical fields, although such argument often includes some minor missteps, including the entire omission of...",
     "category": "models",
-    "id": 36
+    "id": 48
   },
   {
     "title": "BDI-Kit Demo: A Toolkit for Programmable and Conversational Data Harmonization",
@@ -353,7 +455,7 @@
     "date": "2026-04-10",
     "summary": "Data harmonization remains a major bottleneck for integrative analysis due to heterogeneity in schemas, value representations, and domain-specific conventions. BDI-Kit provides an extensible toolkit f...",
     "category": "tools",
-    "id": 37
+    "id": 49
   },
   {
     "title": "On Emotion-Sensitive Decision Making of Small Language Model Agents",
@@ -362,114 +464,6 @@
     "date": "2026-04-10",
     "summary": "Small language models (SLM) are increasingly used as interactive decision-making agents, yet most decision-oriented evaluations ignore emotion as a causal factor influencing behavior. We study emotion...",
     "category": "research",
-    "id": 38
-  },
-  {
-    "title": "Rethinking Generalization in Reasoning SFT: A Conditional Analysis on Optimization, Data, and Model Capability",
-    "url": "https://arxiv.org/abs/2604.06628",
-    "source": "arXiv cs.AI",
-    "date": "2026-04-10",
-    "summary": "A prevailing narrative in LLM post-training holds that supervised finetuning (SFT) memorizes while reinforcement learning (RL) generalizes. We revisit this claim for reasoning SFT with long chain-of-t...",
-    "category": "research",
-    "id": 39
-  },
-  {
-    "title": "KD-MARL: Resource-Aware Knowledge Distillation in Multi-Agent Reinforcement Learning",
-    "url": "https://arxiv.org/abs/2604.06691",
-    "source": "arXiv cs.AI",
-    "date": "2026-04-10",
-    "summary": "Real world deployment of multi agent reinforcement learning MARL systems is fundamentally constrained by limited compute memory and inference time. While expert policies achieve high performance they ...",
-    "category": "research",
-    "id": 40
-  },
-  {
-    "title": "Reasoning Fails Where Step Flow Breaks",
-    "url": "https://arxiv.org/abs/2604.06695",
-    "source": "arXiv cs.AI",
-    "date": "2026-04-10",
-    "summary": "Large reasoning models (LRMs) that generate long chains of thought now perform well on multi-step math, science, and coding tasks. However, their behavior is still unstable and hard to interpret, and ...",
-    "category": "research",
-    "id": 41
-  },
-  {
-    "title": "AgentGate: A Lightweight Structured Routing Engine for the Internet of Agents",
-    "url": "https://arxiv.org/abs/2604.06696",
-    "source": "arXiv cs.AI",
-    "date": "2026-04-10",
-    "summary": "The rapid development of AI agent systems is leading to an emerging Internet of Agents, where specialized agents operate across local devices, edge nodes, private services, and cloud platforms. Althou...",
-    "category": "models",
-    "id": 42
-  },
-  {
-    "title": "ATANT: An Evaluation Framework for AI Continuity",
-    "url": "https://arxiv.org/abs/2604.06710",
-    "source": "arXiv cs.AI",
-    "date": "2026-04-10",
-    "summary": "We present ATANT (Automated Test for Acceptance of Narrative Truth), an open evaluation framework for measuring continuity in AI systems: the ability to persist, update, disambiguate, and reconstruct ...",
-    "category": "models",
-    "id": 43
-  },
-  {
-    "title": "Steering the Verifiability of Multimodal AI Hallucinations",
-    "url": "https://arxiv.org/abs/2604.06714",
-    "source": "arXiv cs.AI",
-    "date": "2026-04-10",
-    "summary": "AI applications driven by multimodal large language models (MLLMs) are prone to hallucinations and pose considerable risks to human users. Crucially, such hallucinations are not equally problematic: s...",
-    "category": "models",
-    "id": 44
-  },
-  {
-    "title": "TurboAgent: An LLM-Driven Autonomous Multi-Agent Framework for Turbomachinery Aerodynamic Design",
-    "url": "https://arxiv.org/abs/2604.06747",
-    "source": "arXiv cs.AI",
-    "date": "2026-04-10",
-    "summary": "The aerodynamic design of turbomachinery is a complex and tightly coupled multi-stage process involving geometry generation, performance prediction, optimization, and high-fidelity physical validation...",
-    "category": "tools",
-    "id": 45
-  },
-  {
-    "title": "FVD: Inference-Time Alignment of Diffusion Models via Fleming-Viot Resampling",
-    "url": "https://arxiv.org/abs/2604.06779",
-    "source": "arXiv cs.AI",
-    "date": "2026-04-10",
-    "summary": "We introduce Fleming-Viot Diffusion (FVD), an inference-time alignment method that resolves the diversity collapse commonly observed in Sequential Monte Carlo (SMC) based diffusion samplers. Existing ...",
-    "category": "models",
-    "id": 46
-  },
-  {
-    "title": "Riemann-Bench: A Benchmark for Moonshot Mathematics",
-    "url": "https://arxiv.org/abs/2604.06802",
-    "source": "arXiv cs.AI",
-    "date": "2026-04-10",
-    "summary": "Recent AI systems have achieved gold-medal-level performance on the International Mathematical Olympiad, demonstrating remarkable proficiency at competition-style problem solving. However, competition...",
-    "category": "research",
-    "id": 47
-  },
-  {
-    "title": "Beyond Surface Judgments: Human-Grounded Risk Evaluation of LLM-Generated Disinformation",
-    "url": "https://arxiv.org/abs/2604.06820",
-    "source": "arXiv cs.AI",
-    "date": "2026-04-10",
-    "summary": "Large language models (LLMs) can generate persuasive narratives at scale, raising concerns about their potential use in disinformation campaigns. Assessing this risk ultimately requires understanding ...",
-    "category": "models",
-    "id": 48
-  },
-  {
-    "title": "What's Missing in Screen-to-Action? Towards a UI-in-the-Loop Paradigm for Multimodal GUI Reasoning",
-    "url": "https://arxiv.org/abs/2604.06995",
-    "source": "arXiv cs.AI",
-    "date": "2026-04-10",
-    "summary": "Existing Graphical User Interface (GUI) reasoning tasks remain challenging, particularly in UI understanding. Current methods typically rely on direct screen-based decision-making, which lacks interpr...",
-    "category": "models",
-    "id": 49
-  },
-  {
-    "title": "EmoMAS: Emotion-Aware Multi-Agent System for High-Stakes Edge-Deployable Negotiation with Bayesian Orchestration",
-    "url": "https://arxiv.org/abs/2604.07003",
-    "source": "arXiv cs.AI",
-    "date": "2026-04-10",
-    "summary": "Large language models (LLMs) has been widely used for automated negotiation, but their high computational cost and privacy risks limit deployment in privacy-sensitive, on-device settings such as mobil...",
-    "category": "models",
     "id": 50
   }
 ]
