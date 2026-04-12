@@ -1,5 +1,36 @@
 [
   {
+    "title": "Lenovo hikes Legion Go 2 handheld gaming PC to almost $3,000 for 2 TB model — Handheld now costs more than AMD's Strix Halo devices despite relatively weaker Z2 Extreme chip",
+    "url": "https://www.tomshardware.com/video-games/handheld-gaming/lenovo-hikes-legion-go-2-handheld-gaming-pc-to-almost-usd3-000-for-2-tb-model-handheld-now-costs-more-than-amds-strix-halo-devices-despite-relatively-weaker-z2-extreme-chip",
+    "source": "Tom's Hardware",
+    "date": "2026-04-12",
+    "summary": "Lenovo has raised the prices of its Legion Go 2 handhelds (with Z2 Extreme) across the board, with the worse offended being the 2 TB model, receiving a 93% hike. It went from $1,480 at launch to a sta...",
+    "category": "hardware",
+    "image": "https://cdn.mos.cms.futurecdn.net/gQsjbWmsiC7jH9km56Fwze-1280-80.jpg",
+    "id": 1,
+    "featured": true
+  },
+  {
+    "title": "Tiny 3-inch cube PCs bring a splash of color to the passive PC market with red, orange, green and blue options — Intel Twin Lake-powered Kubb Mini PCs start at $500",
+    "url": "https://www.tomshardware.com/desktops/mini-pcs/tiny-3-inch-cube-pcs-bring-a-splash-of-color-to-the-passive-pc-market-with-red-orange-green-and-blue-options-intel-twin-lake-powered-kubb-mini-pcs-start-at-usd500",
+    "source": "Tom's Hardware",
+    "date": "2026-04-12",
+    "summary": "Kubb's colorful and compact 3-inch cube PCs are priced from $500 (€430) with 16GB RAM and 256GB SSDs.",
+    "category": "hardware",
+    "image": "https://cdn.mos.cms.futurecdn.net/i9ti9VYiY4nyqF7VQv2urb-1280-80.jpg",
+    "id": 2
+  },
+  {
+    "title": "Linux lays down the law on AI-generated code, says yes to Copilot, no to AI slop, and humans take the fall for mistakes — after months of fierce debate, Torvalds and maintainers come to an agreement",
+    "url": "https://www.tomshardware.com/software/linux/linux-lays-down-the-law-on-ai-generated-code-yes-to-copilot-no-to-ai-slop-and-humans-take-the-fall-for-mistakes-after-months-of-fierce-debate-torvalds-and-maintainers-come-to-an-agreement",
+    "source": "Tom's Hardware",
+    "date": "2026-04-12",
+    "summary": "After months of fierce debate, Linus Torvalds and the Linux kernel maintainers have laid down the law on AI-generated code.",
+    "category": "tools",
+    "image": "https://cdn.mos.cms.futurecdn.net/NcvfDmThovA9wBhTA2KyUc-1280-80.jpg",
+    "id": 3
+  },
+  {
     "title": "Startup secures $30 million contract to 3D print jet engines for the USAF — company to test and develop small turbojets for drones and long-range weapons",
     "url": "https://www.tomshardware.com/3d-printing/startup-secures-usd30-million-contract-to-3d-print-jet-engines-for-the-usaf-company-to-test-and-develop-small-turbojets-for-drones-and-long-range-weapons",
     "source": "Tom's Hardware",
@@ -7,8 +38,7 @@
     "summary": "Beehive Industries will test its 3D-printed engines for use by the USAF, which are reportedly cheaper to build, use, and service compared to traditionally manufactured engines.",
     "category": "industry",
     "image": "https://cdn.mos.cms.futurecdn.net/EE2tUdX7pCJ9dVQs5ytBvi-1280-80.png",
-    "id": 1,
-    "featured": true
+    "id": 4
   },
   {
     "title": "Linux 7.0 enables three new AI-specific keys for keyboards, an apparent expansion beyond the Copilot key — Google authors both the HID spec and the kernel patch",
@@ -18,7 +48,7 @@
     "summary": "The Linux 7.0 kernel has merged support for three new keycodes intended for a coming wave of laptops with dedicated AI agent keys.",
     "category": "tools",
     "image": "https://cdn.mos.cms.futurecdn.net/UyYubhwJ8FW3BrD6bxgzkd-1280-80.jpg",
-    "id": 2
+    "id": 5
   },
   {
     "title": "$27 platypus PCIe adapter converts half-height GPUs into full-height while adding two M.2 slots for SSDs — enthusiast demos low-profile RTX 4060 with two SSDs thanks to PCIe bifurcation",
@@ -28,7 +58,7 @@
     "summary": "A Redditor got his hands on this PCIe adapter that does the job of two different ones at the same time. It converts half-height GPUs into full height while adding M.2 slots for storage expansion. All ...",
     "category": "hardware",
     "image": "https://cdn.mos.cms.futurecdn.net/abxzoGqhPMmiNcmsxmBS8c-1280-80.webp",
-    "id": 3
+    "id": 6
   },
   {
     "title": "South Korea’s telecom giants surprise 7 million users with unlimited, universal internet — net access declared a 'basic telecommunications right,' 400 Kbps data after monthly plans run out",
@@ -38,7 +68,7 @@
     "summary": "South Korea's Ministry of Science and ICT said that the country’s three major carriers will provide more than seven million mobile subscribers with unmetered 400 Kbps data.",
     "category": "hardware",
     "image": "https://cdn.mos.cms.futurecdn.net/rc46o5dUjgvgpRmRgjpMx3-1280-80.jpg",
-    "id": 4
+    "id": 7
   },
   {
     "title": "Valve engineer shocks Linux community with game-changing VRAM hack for 8GB GPUs — breakthrough solution turbocharges gaming by prioritizing VRAM for games while background tasks take a back seat",
@@ -48,36 +78,180 @@
     "summary": "Natalie Vock, a dev on Valve's Linux graphics driver team has introduced new fixes that optimize VRAM usage for games in Linux. Previously, any background task could make the OS evict game data from V...",
     "category": "hardware",
     "image": "https://cdn.mos.cms.futurecdn.net/VDSz2WepX2pPc6pd65bcUM-1280-80.png",
-    "id": 5
+    "id": 8
+  },
+  {
+    "title": "From LLMs to hallucinations, here’s a simple guide to common AI terms",
+    "url": "https://techcrunch.com/2026/04/12/artificial-intelligence-definition-glossary-hallucinations-guide-to-common-ai-terms/",
+    "source": "TechCrunch",
+    "date": "2026-04-12",
+    "summary": "The rise of AI has brought an avalanche of new terms and slang. Here is a glossary with definitions of some of the most important words and phrases you might encounter.",
+    "category": "models",
+    "image": "https://techcrunch.com/wp-content/uploads/2025/03/GettyImages-ai-generated-eb728837-4a65-4ce4-b814-abd0c140d20c.jpg?w=1024",
+    "id": 9
+  },
+  {
+    "title": "At the HumanX conference, everyone was talking about Claude",
+    "url": "https://techcrunch.com/2026/04/12/at-the-humanx-conference-everyone-was-talking-about-claude/",
+    "source": "TechCrunch",
+    "date": "2026-04-12",
+    "summary": "Anthropic was the star of the show at San Francisco's AI-centric conference.",
+    "category": "models",
+    "image": "https://techcrunch.com/wp-content/uploads/2024/12/Claude-ad-e1733259907871.jpg?resize=1200,800",
+    "id": 10
+  },
+  {
+    "title": "Ask HN: Can you cut off AI usage immediately?",
+    "url": "https://news.ycombinator.com/item?id=47740914",
+    "source": "Hacker News",
+    "date": "2026-04-12",
+    "summary": "I’m bit concerned about my AI usage. I use AI extensively in my work because it is required and TBH I don’t love my job, so it’s nice to cut off the boilerplates and automate many tasks. For my person...",
+    "category": "models",
+    "id": 11
+  },
+  {
+    "title": "Test your CV against any job description – free, open-source, AI-powered",
+    "url": "https://github.com/simonesan-afk/CV-Praetorian-Guard",
+    "source": "Hacker News",
+    "date": "2026-04-12",
+    "summary": "Article URL: https://github.com/simonesan-afk/CV-Praetorian-Guard Comments URL: https://news.ycombinator.com/item?id=47740461 Points: 1 # Comments: 0",
+    "category": "industry",
+    "image": "https://opengraph.githubassets.com/22f8bed158585de47f23f1b54d4880cf1a2ab53145ddc29fa3b0f1e25043a576/simonesan-afk/CV-Praetorian-Guard",
+    "id": 12
+  },
+  {
+    "title": "Building the first AI Red Team OS – mythosai.cloud – early access open",
+    "url": "https://mythosai.cloud/",
+    "source": "Hacker News",
+    "date": "2026-04-12",
+    "summary": "Article URL: https://mythosai.cloud/ Comments URL: https://news.ycombinator.com/item?id=47740401 Points: 1 # Comments: 0",
+    "category": "industry",
+    "image": "https://mythosai.cloud/og-image.png",
+    "id": 13
+  },
+  {
+    "title": "Suno, AI Music, and the Bad Future [video]",
+    "url": "https://www.youtube.com/watch?v=U8dcFhF0Dlk",
+    "source": "Hacker News",
+    "date": "2026-04-12",
+    "summary": "Article URL: https://www.youtube.com/watch?v=U8dcFhF0Dlk Comments URL: https://news.ycombinator.com/item?id=47740320 Points: 2 # Comments: 0",
+    "category": "industry",
+    "id": 14
+  },
+  {
+    "title": "Is AI the greatest art heist in history?",
+    "url": "https://www.theguardian.com/books/2026/apr/12/is-ai-the-greatest-art-heist-in-history",
+    "source": "Hacker News",
+    "date": "2026-04-12",
+    "summary": "Article URL: https://www.theguardian.com/books/2026/apr/12/is-ai-the-greatest-art-heist-in-history Comments URL: https://news.ycombinator.com/item?id=47740073 Points: 6 # Comments: 1",
+    "category": "industry",
+    "image": "https://i.guim.co.uk/img/media/e5924bf69a60e6e8b0944608ee2e9bd24705dc0e/0_129_1847_1478/master/1847.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=942cd78362d04cf09c8998ca55fe4b4d",
+    "id": 15
+  },
+  {
+    "title": "AI and Psi with Paul Werbos (Inventor of Backpropagation) [video]",
+    "url": "https://www.youtube.com/watch?v=rMh-snQ1YWU",
+    "source": "Hacker News",
+    "date": "2026-04-12",
+    "summary": "Article URL: https://www.youtube.com/watch?v=rMh-snQ1YWU Comments URL: https://news.ycombinator.com/item?id=47739972 Points: 2 # Comments: 0",
+    "category": "industry",
+    "id": 16
+  },
+  {
+    "title": "Show HN: Codex Workers AI Proxy – Use Cloudflare Workers AI models in Codex CLI",
+    "url": "https://github.com/pitzcarraldo/codex-workers-ai-proxy",
+    "source": "Hacker News",
+    "date": "2026-04-12",
+    "summary": "Article URL: https://github.com/pitzcarraldo/codex-workers-ai-proxy Comments URL: https://news.ycombinator.com/item?id=47739924 Points: 2 # Comments: 1",
+    "category": "industry",
+    "image": "https://opengraph.githubassets.com/710628e5efb8afe4907ce44d480e1346a373eef08eed78e78484fa5e71fe6607/pitzcarraldo/codex-workers-ai-proxy",
+    "id": 17
+  },
+  {
+    "title": "Distribution is the only moat AI can't kill",
+    "url": "https://dheer.co/only-moat-ai-cant-kill/",
+    "source": "Hacker News",
+    "date": "2026-04-12",
+    "summary": "Article URL: https://dheer.co/only-moat-ai-cant-kill/ Comments URL: https://news.ycombinator.com/item?id=47739776 Points: 1 # Comments: 0",
+    "category": "industry",
+    "id": 18
+  },
+  {
+    "title": "Ask HN: What are all the bad things that AI companies have done which we forgot",
+    "url": "https://news.ycombinator.com/item?id=47739653",
+    "source": "Hacker News",
+    "date": "2026-04-12",
+    "summary": "I was writing a comment recently when I realized just how bad the graphs in GPT 5 video are. I had almost forgotten about it. I wish to create a very minor website which can talk about all of these, I...",
+    "category": "models",
+    "id": 19
+  },
+  {
+    "title": "Show HN: Formal – Formal verification for AI-generated code using Lean 4",
+    "url": "https://github.com/yamafaktory/formal",
+    "source": "Hacker News",
+    "date": "2026-04-12",
+    "summary": "Article URL: https://github.com/yamafaktory/formal Comments URL: https://news.ycombinator.com/item?id=47739597 Points: 3 # Comments: 0",
+    "category": "industry",
+    "image": "https://opengraph.githubassets.com/80fed89c69a43567ec87f19471616c6fe23a5f7de1df2b53b05888ad9adcc5d6/yamafaktory/formal",
+    "id": 20
+  },
+  {
+    "title": "HappyHorse AI Video Generator",
+    "url": "https://openhappyhorse.io/",
+    "source": "Hacker News",
+    "date": "2026-04-12",
+    "summary": "Article URL: https://openhappyhorse.io/ Comments URL: https://news.ycombinator.com/item?id=47739409 Points: 1 # Comments: 2",
+    "category": "industry",
+    "image": "https://cdn.openhappyhorse.io/logo.png",
+    "id": 21
+  },
+  {
+    "title": "LRTS – Regression testing for LLM prompts (open source, local-first)",
+    "url": "https://github.com/rufus-SD/lrts",
+    "source": "Hacker News",
+    "date": "2026-04-12",
+    "summary": "Article URL: https://github.com/rufus-SD/lrts Comments URL: https://news.ycombinator.com/item?id=47739332 Points: 1 # Comments: 0",
+    "category": "models",
+    "image": "https://opengraph.githubassets.com/e8fb2c5d861c85e1be66cecb2ecbedcfc5c99aba7a2c2667171b1bbb3f37f4db/rufus-SD/lrts",
+    "id": 22
+  },
+  {
+    "title": "Ask HN: How to build an \"AI native\" company?",
+    "url": "https://news.ycombinator.com/item?id=47739294",
+    "source": "Hacker News",
+    "date": "2026-04-12",
+    "summary": "Seen this term, AI native, thrown around. What does it look like and how to actually implement it? Keen to hear as many view points on this as possible. Comments URL: https://news.ycombinator.com/item...",
+    "category": "industry",
+    "id": 23
   },
   {
     "title": "AI builds anything. I Claude-coded tasteID so every AI tool just knows",
     "url": "https://tasteid.xyz",
     "source": "Hacker News",
     "date": "2026-04-12",
-    "summary": "Article URL: https://tasteid.xyz Comments URL: https://news.ycombinator.com/item?id=47739191 Points: 1 # Comments: 0",
+    "summary": "Article URL: https://tasteid.xyz Comments URL: https://news.ycombinator.com/item?id=47739191 Points: 2 # Comments: 0",
     "category": "models",
     "image": "https://tasteid.xyz/opengraph-image?f74f50eb0e715744",
-    "id": 6
+    "id": 24
   },
   {
     "title": "World Socialist Web Site to Launch Socialism AI (2025)",
     "url": "https://www.wsws.org/en/articles/2025/11/23/ohvk-n23.html",
     "source": "Hacker News",
     "date": "2026-04-12",
-    "summary": "Article URL: https://www.wsws.org/en/articles/2025/11/23/ohvk-n23.html Comments URL: https://news.ycombinator.com/item?id=47739131 Points: 1 # Comments: 0",
+    "summary": "Article URL: https://www.wsws.org/en/articles/2025/11/23/ohvk-n23.html Comments URL: https://news.ycombinator.com/item?id=47739131 Points: 2 # Comments: 0",
     "category": "industry",
     "image": "https://www.wsws.org/asset/9dd9b7c6-8973-48dd-aa55-9f538eda1bac?rendition=1600x900",
-    "id": 7
+    "id": 25
   },
   {
     "title": "Over 4,732 Messages, He Fell in Love with an AI Chatbot. Now He's Dead",
     "url": "https://www.wsj.com/tech/ai/google-gemini-jonathan-gavalas-death-07351ab2",
     "source": "Hacker News",
     "date": "2026-04-12",
-    "summary": "Article URL: https://www.wsj.com/tech/ai/google-gemini-jonathan-gavalas-death-07351ab2 Comments URL: https://news.ycombinator.com/item?id=47739110 Points: 1 # Comments: 0",
+    "summary": "Article URL: https://www.wsj.com/tech/ai/google-gemini-jonathan-gavalas-death-07351ab2 Comments URL: https://news.ycombinator.com/item?id=47739110 Points: 2 # Comments: 1",
     "category": "models",
-    "id": 8
+    "id": 26
   },
   {
     "title": "Show HN: SpecSource – AI That Writes Linear Specs from Sentry, GitHub, & Slack",
@@ -86,7 +260,7 @@
     "date": "2026-04-12",
     "summary": "Hi HN, I'm Antoni. I built SpecSource to automate the tedious research you do for every new Linear ticket - matching with Sentry errors, finding the relevant code, searching Slack for context, checkin...",
     "category": "hardware",
-    "id": 9
+    "id": 27
   },
   {
     "title": "Touch some grass or how to survive during AI times",
@@ -95,7 +269,7 @@
     "date": "2026-04-12",
     "summary": "Article URL: https://www.mcbaguetti.xyz/touchgrass.html Comments URL: https://news.ycombinator.com/item?id=47739062 Points: 2 # Comments: 0",
     "category": "industry",
-    "id": 10
+    "id": 28
   },
   {
     "title": "OpenAI's vision for AI economy: public wealth funds, robot taxes, 4-day workweek",
@@ -105,143 +279,7 @@
     "summary": "Article URL: https://techcrunch.com/2026/04/06/openais-vision-for-the-ai-economy-public-wealth-funds-robot-taxes-and-a-four-day-work-week/ Comments URL: https://news.ycombinator.com/item?id=47739053 P...",
     "category": "industry",
     "image": "https://techcrunch.com/wp-content/uploads/2025/07/GettyImages-2226496284.jpg?w=1024",
-    "id": 11
-  },
-  {
-    "title": "Agentsview: A local-first desktop and web app for browsing AI agent sessions",
-    "url": "https://github.com/wesm/agentsview",
-    "source": "Hacker News",
-    "date": "2026-04-12",
-    "summary": "Article URL: https://github.com/wesm/agentsview Comments URL: https://news.ycombinator.com/item?id=47738991 Points: 1 # Comments: 0",
-    "category": "industry",
-    "image": "https://opengraph.githubassets.com/25fbc460a2ba86d9bd16611718edf9d96d2c73c2fed10ab9b5a0ba93b20242d1/wesm/agentsview",
-    "id": 12
-  },
-  {
-    "title": "Show HN: Chunk – macOS menu bar time-blocking app with Claude AI integration",
-    "url": "https://www.chunkapp.net",
-    "source": "Hacker News",
-    "date": "2026-04-12",
-    "summary": "Chunk is a native macOS menu bar app for time-blocking your day. It floats above all windows – including fullscreen apps – so your schedule is always one shortcut (Cmd+/) away without ever leaving you...",
-    "category": "models",
-    "image": "https://ik.imagekit.io/dudleyspence/Chunk_2025-06-23_18_39/Press/ProductHunt%20Graphics%20(1270%20x%20760%20px)/1_a7tkeb.png?updatedAt=1750697219325",
-    "id": 13
-  },
-  {
-    "title": "Why AI Sucks at Front End",
-    "url": "https://nerdy.dev/why-ai-sucks-at-front-end",
-    "source": "Hacker News",
-    "date": "2026-04-12",
-    "summary": "Article URL: https://nerdy.dev/why-ai-sucks-at-front-end Comments URL: https://news.ycombinator.com/item?id=47738864 Points: 2 # Comments: 0",
-    "category": "industry",
-    "image": "https://nerdy.dev/media/why-ai-sucks-at-front-end.jpg",
-    "id": 14
-  },
-  {
-    "title": "LLM Wiki Skill: Build a Second Brain with Claude Code and Obsidian",
-    "url": "https://medium.com/@alirezarezvani/llm-wiki-skill-build-a-second-brain-with-claude-code-and-obsidian-2282752758c1",
-    "source": "Hacker News",
-    "date": "2026-04-12",
-    "summary": "Article URL: https://medium.com/@alirezarezvani/llm-wiki-skill-build-a-second-brain-with-claude-code-and-obsidian-2282752758c1 Comments URL: https://news.ycombinator.com/item?id=47738722 Points: 2 # C...",
-    "category": "models",
-    "id": 15
-  },
-  {
-    "title": "HubVanta AI",
-    "url": "https://hubvanta.com/",
-    "source": "Hacker News",
-    "date": "2026-04-12",
-    "summary": "Article URL: https://hubvanta.com/ Comments URL: https://news.ycombinator.com/item?id=47738709 Points: 1 # Comments: 0",
-    "category": "industry",
-    "image": "https://hubvanta.com/og-image.jpg",
-    "id": 16
-  },
-  {
-    "title": "Show HN: Android AI agent-assistant operating your apps (no adb,PC,root,etc.)",
-    "url": "https://news.ycombinator.com/item?id=47738583",
-    "source": "Hacker News",
-    "date": "2026-04-12",
-    "summary": "Hi HN, We built Sova AI https://ayconic.io/sova , an Android assistant agent that actually controls and operates your apps. It's not a chat and not another LLM wrapper. We were incredibly frustrated w...",
-    "category": "models",
-    "id": 17
-  },
-  {
-    "title": "Nb – Notebook CLI designed for both humans and AI agents",
-    "url": "https://github.com/jupyter-ai-contrib/nb-cli",
-    "source": "Hacker News",
-    "date": "2026-04-12",
-    "summary": "Article URL: https://github.com/jupyter-ai-contrib/nb-cli Comments URL: https://news.ycombinator.com/item?id=47738335 Points: 2 # Comments: 0",
-    "category": "industry",
-    "image": "https://opengraph.githubassets.com/f08b93cc25816c85d55bdc4d69545ffea312a79d6b78112476c868991a4a86cc/jupyter-ai-contrib/nb-cli",
-    "id": 18
-  },
-  {
-    "title": "The Abstraction Fallacy: Why AI Can Simulate but Not Instantiate Consciousness",
-    "url": "https://philpapers.org/rec/LERTAF",
-    "source": "Hacker News",
-    "date": "2026-04-12",
-    "summary": "Article URL: https://philpapers.org/rec/LERTAF Comments URL: https://news.ycombinator.com/item?id=47738329 Points: 1 # Comments: 0",
-    "category": "research",
-    "id": 19
-  },
-  {
-    "title": "Decision Passport verifiable AI decision records",
-    "url": "https://github.com/brigalss-a/decision-passport-core",
-    "source": "Hacker News",
-    "date": "2026-04-12",
-    "summary": "Article URL: https://github.com/brigalss-a/decision-passport-core Comments URL: https://news.ycombinator.com/item?id=47738325 Points: 1 # Comments: 0",
-    "category": "industry",
-    "image": "https://opengraph.githubassets.com/96342441c2c63cca333723a9aae999be48742d7bb9d19c1cc8f5d0150f715b81/brigalss-a/decision-passport-core",
-    "id": 20
-  },
-  {
-    "title": "I built an LLM Wiki and RAG solution: here's a demo for a security KB",
-    "url": "https://99helpers.com/wiki/security-kb",
-    "source": "Hacker News",
-    "date": "2026-04-12",
-    "summary": "Article URL: https://99helpers.com/wiki/security-kb Comments URL: https://news.ycombinator.com/item?id=47738165 Points: 1 # Comments: 1",
-    "category": "models",
-    "image": "https://99helpers.com/images/main.jpg",
-    "id": 21
-  },
-  {
-    "title": "Strong Model First or Weak Model First? A Cost Study for Multi-Step LLM Agents",
-    "url": "https://llm-spec.pages.dev/",
-    "source": "Hacker News",
-    "date": "2026-04-12",
-    "summary": "Article URL: https://llm-spec.pages.dev/ Comments URL: https://news.ycombinator.com/item?id=47738126 Points: 3 # Comments: 0",
-    "category": "models",
-    "id": 22
-  },
-  {
-    "title": "Running AI Agents in a Sandbox",
-    "url": "https://oligot.be/posts/ai-sandbox/",
-    "source": "Hacker News",
-    "date": "2026-04-12",
-    "summary": "Article URL: https://oligot.be/posts/ai-sandbox/ Comments URL: https://news.ycombinator.com/item?id=47738063 Points: 1 # Comments: 0",
-    "category": "industry",
-    "image": "https://oligot.be/og-image.png",
-    "id": 23
-  },
-  {
-    "title": "Happy Horse AI",
-    "url": "https://www.happy-horse-ai.ai",
-    "source": "Hacker News",
-    "date": "2026-04-12",
-    "summary": "Article URL: https://www.happy-horse-ai.ai Comments URL: https://news.ycombinator.com/item?id=47737687 Points: 2 # Comments: 1",
-    "category": "industry",
-    "image": "https://storage.happy-horse-ai.ai/og-image.png",
-    "id": 24
-  },
-  {
-    "title": "Lawyer behind AI psychosis cases warns of mass casualty risks",
-    "url": "https://techcrunch.com/2026/03/15/lawyer-behind-ai-psychosis-cases-warns-of-mass-casualty-risks/",
-    "source": "Hacker News",
-    "date": "2026-04-12",
-    "summary": "Article URL: https://techcrunch.com/2026/03/15/lawyer-behind-ai-psychosis-cases-warns-of-mass-casualty-risks/ Comments URL: https://news.ycombinator.com/item?id=47737642 Points: 9 # Comments: 5",
-    "category": "industry",
-    "image": "https://techcrunch.com/wp-content/uploads/2026/03/GettyImages-509750426.jpg?resize=1200,800",
-    "id": 25
+    "id": 29
   },
   {
     "title": "Clippy, Microsoft’s hapless Office assistant, was retired 25 years ago today — its irritating spirit lives on in 100+ Copilots",
@@ -251,7 +289,7 @@
     "summary": "Microsoft’s Clippy was put out to pasture a quarter century ago. This hapless, and some would add ‘irritating,’ productivity assistant would no longer be enabled by default in Office, starting April 1...",
     "category": "tools",
     "image": "https://cdn.mos.cms.futurecdn.net/eyaTBF7HvhAjm2qbV9XeCk-1280-80.jpg",
-    "id": 26
+    "id": 30
   },
   {
     "title": "Save $680 instantly on this massive Corsair 96GB DDR5-6000 RAM kit — 57% discount slashes price tag to $499",
@@ -261,7 +299,7 @@
     "summary": "If you've been looking to score a high-capacity kit of RAM but the AI boom has destroyed any chance of that happening, Newegg might have just the deal for you. The 96GB Corsair Vengeance DDR5-6000 RAM...",
     "category": "industry",
     "image": "https://cdn.mos.cms.futurecdn.net/VJfpz9zrcU9LhfefcBuCTR-1280-80.png",
-    "id": 27
+    "id": 31
   },
   {
     "title": "Best Laptops 2026: Our benchmarked picks for productivity, portability, and battery life",
@@ -271,7 +309,7 @@
     "summary": "We test dozens of laptops a year for their performance, screen quality, and battery life, to find the best laptops right now across Windows, macOS, Intel, AMD, and Qualcomm notebooks.",
     "category": "hardware",
     "image": "https://cdn.mos.cms.futurecdn.net/EPXv6HUoN7zEWmNon7hA5H-1280-80.jpg",
-    "id": 28
+    "id": 32
   },
   {
     "title": "Intel Core Ultra 7 270K Plus vs Ryzen 7 9700X faceoff — a new midrange CPU champ emerges",
@@ -281,7 +319,7 @@
     "summary": "Intel's new Core Ultra 7 270K Plus is going after the Ryzen 7 9700X with its $300 price point. We put the two head-to-head in a series of rounds based on our own testing to see which comes out on top.",
     "category": "hardware",
     "image": "https://cdn.mos.cms.futurecdn.net/XHsoYwx6ZzwmK8fePVU4bH-1280-80.jpg",
-    "id": 29
+    "id": 33
   },
   {
     "title": "Chinese Nvidia Cloud Partner procured 300 servers with banned AI GPUs worth $92 million — shares of data center supplier Sharetronic plummet following Super Micro smuggling arrest",
@@ -291,7 +329,7 @@
     "summary": "Publicly available documents reveal that a Chinese AI data center company sold servers that were designed for Nvidia H100 chips despite the U.S. export ban.",
     "category": "hardware",
     "image": "https://cdn.mos.cms.futurecdn.net/mcUCEv8AzcMnUJJ3xjB6Cf-1280-80.jpg",
-    "id": 30
+    "id": 34
   },
   {
     "title": "Benchmarking Nvidia's RTX Neural Texture Compression tech that can reduce VRAM usage by over 80%",
@@ -301,7 +339,7 @@
     "summary": "We put RTX Neural Texture Compression to the test with multiple GPUs and on a laptop.",
     "category": "hardware",
     "image": "https://cdn.mos.cms.futurecdn.net/4Zjn6tNFiu23R3TicwG4iP-1280-80.jpg",
-    "id": 31
+    "id": 35
   },
   {
     "title": "FAA courts gamers to become air traffic controllers — boasts $155k average annual salary after three years as the agency prepares for 8,000 applicants",
@@ -311,7 +349,7 @@
     "summary": "The FAA's latest YouTube video is encouraging gamers to apply to become an air traffic controller, telling them that they've been training for this challenge. The agency is tapping on the younger demo...",
     "category": "research",
     "image": "https://cdn.mos.cms.futurecdn.net/du34vuiUyEShL54KeNAruD-1280-80.png",
-    "id": 32
+    "id": 36
   },
   {
     "title": "Tests show $30,000 AI GPUs are terrible password crackers — RTX 5090 gaming GPU outperforms Nvidia H200 and AMD MI300X",
@@ -321,7 +359,7 @@
     "summary": "A research team at Specops benchmarked an RTX 5090, against two AI datacenter GPUs with Hashcat to see which GPU is the better password cracker. Spoiler alert, the RTX 5090 was the winner.",
     "category": "hardware",
     "image": "https://cdn.mos.cms.futurecdn.net/RH2UfQ4PEty8QdC39Tkoom-1280-80.jpg",
-    "id": 33
+    "id": 37
   },
   {
     "title": "Sam Altman responds to ‘incendiary’ New Yorker article after attack on his home",
@@ -331,7 +369,7 @@
     "summary": "The OpenAI CEO's new blog post responds to both an apparent attack on his home and an in-depth New Yorker profile raising questions about his trustworthiness.",
     "category": "industry",
     "image": "https://techcrunch.com/wp-content/uploads/2026/02/GettyImages-2236544077.jpg?resize=1200,800",
-    "id": 34
+    "id": 38
   },
   {
     "title": "How the Internet Broke Everyone’s Bullshit Detectors",
@@ -341,7 +379,7 @@
     "summary": "From AI-generated images to restricted satellite data, the systems used to verify what’s real online are struggling to keep up.",
     "category": "industry",
     "image": "https://media.wired.com/photos/69d8f8b6b2861e1c6bbfc54f/191:100/w_1280,c_limit/Fake_leadInsta.jpg",
-    "id": 35
+    "id": 39
   },
   {
     "title": "Your harness, your memory",
@@ -351,7 +389,7 @@
     "summary": "Agent harnesses are becoming the dominant way to build agents, and they are not going anywhere. These harnesses are intimately tied to agent memory. If you used a closed harness - especially if it’s b...",
     "category": "hardware",
     "image": "https://storage.ghost.io/c/97/88/97889716-a759-46f4-b63f-4f5c46a13333/content/images/2026/04/image--9--1.png",
-    "id": 36
+    "id": 40
   },
   {
     "title": "Using projects in ChatGPT",
@@ -360,7 +398,7 @@
     "date": "2026-04-10",
     "summary": "Learn how to use orojects in ChatGPT to organize chats, files, and instructions, manage ongoing work, and collaborate more effectively.",
     "category": "models",
-    "id": 37
+    "id": 41
   },
   {
     "title": "ChatGPT for marketing teams",
@@ -369,7 +407,7 @@
     "date": "2026-04-10",
     "summary": "Learn how marketing teams use ChatGPT to plan campaigns, generate content, analyze performance, and move from ideas to execution faster.",
     "category": "models",
-    "id": 38
+    "id": 42
   },
   {
     "title": "Our response to the Axios developer tool compromise",
@@ -378,7 +416,7 @@
     "date": "2026-04-10",
     "summary": "OpenAI responds to the Axios supply chain attack by rotating macOS code signing certificates, updating apps, and confirming no user data was compromised.",
     "category": "tools",
-    "id": 39
+    "id": 43
   },
   {
     "title": "Using custom GPTs",
@@ -387,7 +425,7 @@
     "date": "2026-04-10",
     "summary": "Learn how to build and use custom GPTs to automate workflows, maintain consistent outputs, and create purpose-built AI assistants.",
     "category": "models",
-    "id": 40
+    "id": 44
   },
   {
     "title": "Analyzing data with ChatGPT",
@@ -396,7 +434,7 @@
     "date": "2026-04-10",
     "summary": "Learn how to analyze data with ChatGPT by exploring datasets, generating insights, creating visualizations, and turning findings into actionable decisions.",
     "category": "models",
-    "id": 41
+    "id": 45
   },
   {
     "title": "Using skills",
@@ -405,7 +443,7 @@
     "date": "2026-04-10",
     "summary": "Learn how to create and use ChatGPT skills to build reusable workflows, automate recurring tasks, and ensure consistent, high-quality outputs.",
     "category": "models",
-    "id": 42
+    "id": 46
   },
   {
     "title": "Writing with ChatGPT",
@@ -414,7 +452,7 @@
     "date": "2026-04-10",
     "summary": "Learn how to use ChatGPT for writing to draft, revise, and refine content with clear structure, tone, and intent.",
     "category": "models",
-    "id": 43
+    "id": 47
   },
   {
     "title": "ChatGPT for operations teams",
@@ -423,7 +461,7 @@
     "date": "2026-04-10",
     "summary": "Learn how operations teams use ChatGPT to streamline workflows, improve coordination, standardize processes, and drive faster execution.",
     "category": "models",
-    "id": 44
+    "id": 48
   },
   {
     "title": "ChatGPT for research",
@@ -432,7 +470,7 @@
     "date": "2026-04-10",
     "summary": "Learn how to use ChatGPT for research to gather sources, analyze information, and create structured, citation-backed insights.",
     "category": "models",
-    "id": 45
+    "id": 49
   },
   {
     "title": "Responsible and safe use of AI",
@@ -440,42 +478,6 @@
     "source": "OpenAI Blog",
     "date": "2026-04-10",
     "summary": "Learn how to use AI responsibly with best practices for safety, accuracy, and transparency when using tools like ChatGPT.",
-    "category": "models",
-    "id": 46
-  },
-  {
-    "title": "Prompting fundamentals",
-    "url": "https://openai.com/academy/prompting",
-    "source": "OpenAI Blog",
-    "date": "2026-04-10",
-    "summary": "Learn prompting fundamentals and how to write clear, effective prompts to get better, more useful responses from ChatGPT.",
-    "category": "models",
-    "id": 47
-  },
-  {
-    "title": "Research with ChatGPT",
-    "url": "https://openai.com/academy/search-and-deep-research",
-    "source": "OpenAI Blog",
-    "date": "2026-04-10",
-    "summary": "Learn how to research with ChatGPT using search and deep research to find up-to-date information, analyze sources, and generate structured insights.",
-    "category": "models",
-    "id": 48
-  },
-  {
-    "title": "ChatGPT for customer success teams",
-    "url": "https://openai.com/academy/customer-success",
-    "source": "OpenAI Blog",
-    "date": "2026-04-10",
-    "summary": "Learn how customer success teams use ChatGPT to manage accounts, improve communication, reduce churn, and drive adoption and renewals.",
-    "category": "models",
-    "id": 49
-  },
-  {
-    "title": "Healthcare",
-    "url": "https://openai.com/academy/healthcare",
-    "source": "OpenAI Blog",
-    "date": "2026-04-10",
-    "summary": "Explore how clinicians use ChatGPT to support diagnosis, documentation, and patient care with secure, HIPAA-compliant AI tools.",
     "category": "models",
     "id": 50
   }
