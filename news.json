@@ -1,5 +1,91 @@
 [
   {
+    "title": "We spoke to the man making viral Lego-style AI videos for Iran",
+    "url": "https://www.bbc.com/news/articles/cjd8jrd1vnyo",
+    "source": "Hacker News",
+    "date": "2026-04-12",
+    "summary": "Article URL: https://www.bbc.com/news/articles/cjd8jrd1vnyo Comments URL: https://news.ycombinator.com/item?id=47735704 Points: 3 # Comments: 1",
+    "category": "industry",
+    "image": "https://ichef.bbci.co.uk/news/1024/branded_news/0583/live/740dafc0-35db-11f1-879d-1b2f5c3919b8.jpg",
+    "id": 1,
+    "featured": true
+  },
+  {
+    "title": "LLM Time",
+    "url": "https://graydon2.dreamwidth.org/322732.html",
+    "source": "Hacker News",
+    "date": "2026-04-12",
+    "summary": "Article URL: https://graydon2.dreamwidth.org/322732.html Comments URL: https://news.ycombinator.com/item?id=47735708 Points: 1 # Comments: 0",
+    "category": "models",
+    "id": 2
+  },
+  {
+    "title": "A Mac Studio for Local AI – 6 Months Later",
+    "url": "https://spicyneuron.substack.com/p/a-mac-studio-for-local-ai-6-months",
+    "source": "Hacker News",
+    "date": "2026-04-12",
+    "summary": "Article URL: https://spicyneuron.substack.com/p/a-mac-studio-for-local-ai-6-months Comments URL: https://news.ycombinator.com/item?id=47735760 Points: 1 # Comments: 0",
+    "category": "industry",
+    "id": 3
+  },
+  {
+    "title": "AI Can't Read an Investor Deck",
+    "url": "https://www.mercor.com/blog/Finance-tasks-ai-failures-modes/",
+    "source": "Hacker News",
+    "date": "2026-04-12",
+    "summary": "Article URL: https://www.mercor.com/blog/Finance-tasks-ai-failures-modes/ Comments URL: https://news.ycombinator.com/item?id=47735664 Points: 1 # Comments: 1",
+    "category": "industry",
+    "image": "https://www.mercor.com/mercor-logo-white.png",
+    "id": 4
+  },
+  {
+    "title": "AI models are terrible at betting on soccer- especially xAI Grok",
+    "url": "https://arstechnica.com/ai/2026/04/ai-models-are-terrible-at-betting-on-soccer-especially-xai-grok/",
+    "source": "Hacker News",
+    "date": "2026-04-12",
+    "summary": "Article URL: https://arstechnica.com/ai/2026/04/ai-models-are-terrible-at-betting-on-soccer-especially-xai-grok/ Comments URL: https://news.ycombinator.com/item?id=47735397 Points: 1 # Comments: 1",
+    "category": "models",
+    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/04/premierleaguegambling-1024x648.jpg",
+    "id": 5
+  },
+  {
+    "title": "recursive-mode: The Repo-Native Operating System for AI Engineering",
+    "url": "https://repo-explainer.com/try-works/recursive-mode",
+    "source": "Hacker News",
+    "date": "2026-04-12",
+    "summary": "Article URL: https://repo-explainer.com/try-works/recursive-mode Comments URL: https://news.ycombinator.com/item?id=47735396 Points: 1 # Comments: 0",
+    "category": "industry",
+    "id": 6
+  },
+  {
+    "title": "NeoBaby Phoebe Gates wants her $185M AI startup Phia to succeed",
+    "url": "https://fortune.com/2026/02/21/phoebe-gates-startup-phia-succeed-without-help-parents-bill-gates-melinda-french-gates/",
+    "source": "Hacker News",
+    "date": "2026-04-12",
+    "summary": "Article URL: https://fortune.com/2026/02/21/phoebe-gates-startup-phia-succeed-without-help-parents-bill-gates-melinda-french-gates/ Comments URL: https://news.ycombinator.com/item?id=47735378 Points: ...",
+    "category": "industry",
+    "image": "https://fortune.com/img-assets/wp-content/uploads/2026/02/GettyImages-2214925234-e1771613783530.jpg?resize=1200,600",
+    "id": 7
+  },
+  {
+    "title": "After the Attack on Sam Altman's Home, Will AI CEOs Go on the Offensive?",
+    "url": "https://www.motherjones.com/politics/2026/04/after-the-attack-on-sam-altmans-home-will-ai-ceos-go-on-the-offensive/",
+    "source": "Hacker News",
+    "date": "2026-04-12",
+    "summary": "Article URL: https://www.motherjones.com/politics/2026/04/after-the-attack-on-sam-altmans-home-will-ai-ceos-go-on-the-offensive/ Comments URL: https://news.ycombinator.com/item?id=47735134 Points: 2 #...",
+    "category": "industry",
+    "id": 8
+  },
+  {
+    "title": "AI Job Loss Tracker",
+    "url": "https://jobloss.ai/",
+    "source": "Hacker News",
+    "date": "2026-04-12",
+    "summary": "Article URL: https://jobloss.ai/ Comments URL: https://news.ycombinator.com/item?id=47735101 Points: 23 # Comments: 21",
+    "category": "hardware",
+    "id": 9
+  },
+  {
     "title": "Clippy, Microsoft’s hapless Office assistant, was retired 25 years ago today — its irritating spirit lives on in 100+ Copilots",
     "url": "https://www.tomshardware.com/software/windows/clippy-microsofts-hapless-office-assistant-was-retired-25-years-ago-today-its-irritating-spirit-lives-on-in-100-copilots",
     "source": "Tom's Hardware",
@@ -7,8 +93,7 @@
     "summary": "Microsoft’s Clippy was put out to pasture a quarter century ago. This hapless, and some would add ‘irritating,’ productivity assistant would no longer be enabled by default in Office, starting April 1...",
     "category": "tools",
     "image": "https://cdn.mos.cms.futurecdn.net/eyaTBF7HvhAjm2qbV9XeCk-1280-80.jpg",
-    "id": 1,
-    "featured": true
+    "id": 10
   },
   {
     "title": "Save $680 instantly on this massive Corsair 96GB DDR5-6000 RAM kit — 57% discount slashes price tag to $499",
@@ -18,7 +103,7 @@
     "summary": "If you've been looking to score a high-capacity kit of RAM but the AI boom has destroyed any chance of that happening, Newegg might have just the deal for you. The 96GB Corsair Vengeance DDR5-6000 RAM...",
     "category": "industry",
     "image": "https://cdn.mos.cms.futurecdn.net/VJfpz9zrcU9LhfefcBuCTR-1280-80.png",
-    "id": 2
+    "id": 11
   },
   {
     "title": "Best Laptops 2026: Our benchmarked picks for productivity, portability, and battery life",
@@ -28,7 +113,7 @@
     "summary": "We test dozens of laptops a year for their performance, screen quality, and battery life, to find the best laptops right now across Windows, macOS, Intel, AMD, and Qualcomm notebooks.",
     "category": "hardware",
     "image": "https://cdn.mos.cms.futurecdn.net/EPXv6HUoN7zEWmNon7hA5H-1280-80.jpg",
-    "id": 3
+    "id": 12
   },
   {
     "title": "Intel Core Ultra 7 270K Plus vs Ryzen 7 9700X faceoff — a new midrange CPU champ emerges",
@@ -38,7 +123,7 @@
     "summary": "Intel's new Core Ultra 7 270K Plus is going after the Ryzen 7 9700X with its $300 price point. We put the two head-to-head in a series of rounds based on our own testing to see which comes out on top.",
     "category": "hardware",
     "image": "https://cdn.mos.cms.futurecdn.net/XHsoYwx6ZzwmK8fePVU4bH-1280-80.jpg",
-    "id": 4
+    "id": 13
   },
   {
     "title": "Chinese Nvidia Cloud Partner procured 300 servers with banned AI GPUs worth $92 million — shares of data center supplier Sharetronic plummet following Super Micro smuggling arrest",
@@ -48,7 +133,7 @@
     "summary": "Publicly available documents reveal that a Chinese AI data center company sold servers that were designed for Nvidia H100 chips despite the U.S. export ban.",
     "category": "hardware",
     "image": "https://cdn.mos.cms.futurecdn.net/mcUCEv8AzcMnUJJ3xjB6Cf-1280-80.jpg",
-    "id": 5
+    "id": 14
   },
   {
     "title": "Benchmarking Nvidia's RTX Neural Texture Compression tech that can reduce VRAM usage by over 80%",
@@ -58,7 +143,7 @@
     "summary": "We put RTX Neural Texture Compression to the test with multiple GPUs and on a laptop.",
     "category": "hardware",
     "image": "https://cdn.mos.cms.futurecdn.net/4Zjn6tNFiu23R3TicwG4iP-1280-80.jpg",
-    "id": 6
+    "id": 15
   },
   {
     "title": "FAA courts gamers to become air traffic controllers — boasts $155k average annual salary after three years as the agency prepares for 8,000 applicants",
@@ -68,7 +153,7 @@
     "summary": "The FAA's latest YouTube video is encouraging gamers to apply to become an air traffic controller, telling them that they've been training for this challenge. The agency is tapping on the younger demo...",
     "category": "research",
     "image": "https://cdn.mos.cms.futurecdn.net/du34vuiUyEShL54KeNAruD-1280-80.png",
-    "id": 7
+    "id": 16
   },
   {
     "title": "Tests show $30,000 AI GPUs are terrible password crackers — RTX 5090 gaming GPU outperforms Nvidia H200 and AMD MI300X",
@@ -78,7 +163,7 @@
     "summary": "A research team at Specops benchmarked an RTX 5090, against two AI datacenter GPUs with Hashcat to see which GPU is the better password cracker. Spoiler alert, the RTX 5090 was the winner.",
     "category": "hardware",
     "image": "https://cdn.mos.cms.futurecdn.net/RH2UfQ4PEty8QdC39Tkoom-1280-80.jpg",
-    "id": 8
+    "id": 17
   },
   {
     "title": "Sam Altman responds to ‘incendiary’ New Yorker article after attack on his home",
@@ -88,196 +173,110 @@
     "summary": "The OpenAI CEO's new blog post responds to both an apparent attack on his home and an in-depth New Yorker profile raising questions about his trustworthiness.",
     "category": "industry",
     "image": "https://techcrunch.com/wp-content/uploads/2026/02/GettyImages-2236544077.jpg?resize=1200,800",
-    "id": 9
+    "id": 18
+  },
+  {
+    "title": "Hungary 2026 – Chat with 1k AI-simulated voters before the election",
+    "url": "https://hungary2026.populon.ai",
+    "source": "Hacker News",
+    "date": "2026-04-11",
+    "summary": "Article URL: https://hungary2026.populon.ai Comments URL: https://news.ycombinator.com/item?id=47734735 Points: 1 # Comments: 0",
+    "category": "industry",
+    "image": "https://hungary2026.populon.ai/favicon.svg",
+    "id": 19
+  },
+  {
+    "title": "Forecasting the economic effects of AI",
+    "url": "https://forecastingresearch.substack.com/p/forecasting-the-economic-effects-of-ai",
+    "source": "Hacker News",
+    "date": "2026-04-11",
+    "summary": "Article URL: https://forecastingresearch.substack.com/p/forecasting-the-economic-effects-of-ai Comments URL: https://news.ycombinator.com/item?id=47734714 Points: 3 # Comments: 0",
+    "category": "research",
+    "id": 20
+  },
+  {
+    "title": "Predict-Rlm: The LLM Runtime That Lets Models Write Their Own Control Flow",
+    "url": "https://repo-explainer.com/Trampoline-AI/predict-rlm",
+    "source": "Hacker News",
+    "date": "2026-04-11",
+    "summary": "Article URL: https://repo-explainer.com/Trampoline-AI/predict-rlm Comments URL: https://news.ycombinator.com/item?id=47734702 Points: 1 # Comments: 0",
+    "category": "models",
+    "id": 21
+  },
+  {
+    "title": "AI will test governments on jobs, training, and public trust",
+    "url": "https://www.hoover.org/news/ai-will-test-governments-jobs-training-and-public-trust-hoover-panels-warn",
+    "source": "Hacker News",
+    "date": "2026-04-11",
+    "summary": "Article URL: https://www.hoover.org/news/ai-will-test-governments-jobs-training-and-public-trust-hoover-panels-warn Comments URL: https://news.ycombinator.com/item?id=47734675 Points: 1 # Comments: 0",
+    "category": "industry",
+    "id": 22
+  },
+  {
+    "title": "Can AI be a 'child of God'? Inside Anthropic's meeting with Christian leaders",
+    "url": "https://www.washingtonpost.com/technology/2026/04/11/anthropic-christians-claude-morals/",
+    "source": "Hacker News",
+    "date": "2026-04-11",
+    "summary": "Article URL: https://www.washingtonpost.com/technology/2026/04/11/anthropic-christians-claude-morals/ Comments URL: https://news.ycombinator.com/item?id=47734661 Points: 4 # Comments: 1",
+    "category": "models",
+    "id": 23
+  },
+  {
+    "title": "How to Switch AI Chatbots and Why You Might Want To",
+    "url": "https://www.wsj.com/tech/ai/how-to-switch-ai-chatbots-and-why-you-might-want-to-8aaccfd4",
+    "source": "Hacker News",
+    "date": "2026-04-11",
+    "summary": "Article URL: https://www.wsj.com/tech/ai/how-to-switch-ai-chatbots-and-why-you-might-want-to-8aaccfd4 Comments URL: https://news.ycombinator.com/item?id=47734654 Points: 1 # Comments: 1",
+    "category": "industry",
+    "id": 24
+  },
+  {
+    "title": "Tinker: Play with AI, bring your ideas to life",
+    "url": "https://www.shopify.com/news/introducing-tinker",
+    "source": "Hacker News",
+    "date": "2026-04-11",
+    "summary": "Article URL: https://www.shopify.com/news/introducing-tinker Comments URL: https://news.ycombinator.com/item?id=47734618 Points: 2 # Comments: 0",
+    "category": "industry",
+    "image": "https://cdn.shopify.com/b/shopify-brochure2-assets/fa9e79cd3b0b4fb0d5f6e3ba9dc63f50.png",
+    "id": 25
+  },
+  {
+    "title": "Bessent Urgently Summons Bank CEOs over Anthropic's New AI",
+    "url": "https://www.youtube.com/watch?v=B2WsfcwfEgs",
+    "source": "Hacker News",
+    "date": "2026-04-11",
+    "summary": "Article URL: https://www.youtube.com/watch?v=B2WsfcwfEgs Comments URL: https://news.ycombinator.com/item?id=47734571 Points: 3 # Comments: 1",
+    "category": "industry",
+    "id": 26
+  },
+  {
+    "title": "AI for Systems: Using LLMs to Optimize Database Query Execution",
+    "url": "https://www.together.ai/blog/using-llms-to-optimize-database-query-execution",
+    "source": "Hacker News",
+    "date": "2026-04-11",
+    "summary": "Article URL: https://www.together.ai/blog/using-llms-to-optimize-database-query-execution Comments URL: https://news.ycombinator.com/item?id=47734567 Points: 1 # Comments: 0",
+    "category": "models",
+    "image": "https://cdn.prod.website-files.com/69654e88dce9154b5f12070c/69cece32f241afeefe0b6f8b_20260331_Query_Execution_Plan_Plan_1200x630.jpg",
+    "id": 27
   },
   {
     "title": "Democratic AI to serve the public – OneProject.org",
     "url": "https://oneproject.org/how-to-make-ai-serve-the-public/",
     "source": "Hacker News",
     "date": "2026-04-11",
-    "summary": "Article URL: https://oneproject.org/how-to-make-ai-serve-the-public/ Comments URL: https://news.ycombinator.com/item?id=47734224 Points: 1 # Comments: 0",
+    "summary": "Article URL: https://oneproject.org/how-to-make-ai-serve-the-public/ Comments URL: https://news.ycombinator.com/item?id=47734224 Points: 8 # Comments: 2",
     "category": "industry",
     "image": "https://oneproject.org/wp-content/uploads/2026/03/op-public-ai-img-combined-1-1024x330.png",
-    "id": 10
+    "id": 28
   },
   {
     "title": "AI Is Tipping the Scales Toward Hackers After Mythos Release",
     "url": "https://www.nbcnews.com/tech/security/anthropic-claude-mythos-ai-hackers-cybersecurity-vulnerabilities-rcna273673",
     "source": "Hacker News",
     "date": "2026-04-11",
-    "summary": "Article URL: https://www.nbcnews.com/tech/security/anthropic-claude-mythos-ai-hackers-cybersecurity-vulnerabilities-rcna273673 Comments URL: https://news.ycombinator.com/item?id=47734106 Points: 2 # C...",
+    "summary": "Article URL: https://www.nbcnews.com/tech/security/anthropic-claude-mythos-ai-hackers-cybersecurity-vulnerabilities-rcna273673 Comments URL: https://news.ycombinator.com/item?id=47734106 Points: 13 # ...",
     "category": "models",
     "image": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2026-04/260410-anthropic-mn-1615-67ad21.jpg",
-    "id": 11
-  },
-  {
-    "title": "Transaction-level provenance for AI art certificate/signed/license on every sale",
-    "url": "https://arcvelvetos.web.app/verify?id=AwCCW6DLQgA4s5XVZ86X&type=sale",
-    "source": "Hacker News",
-    "date": "2026-04-11",
-    "summary": "Article URL: https://arcvelvetos.web.app/verify?id=AwCCW6DLQgA4s5XVZ86X&type=sale Comments URL: https://news.ycombinator.com/item?id=47734092 Points: 2 # Comments: 0",
-    "category": "industry",
-    "id": 12
-  },
-  {
-    "title": "AI still can't figure out PowerPoint",
-    "url": "https://www.perspectives.plus/p/ai-still-cant-figure-out-powerpoint",
-    "source": "Hacker News",
-    "date": "2026-04-11",
-    "summary": "Article URL: https://www.perspectives.plus/p/ai-still-cant-figure-out-powerpoint Comments URL: https://news.ycombinator.com/item?id=47734091 Points: 2 # Comments: 0",
-    "category": "industry",
-    "image": "https://beehiiv-images-production.s3.amazonaws.com/uploads/asset/file/2a73cf6d-5c3a-40cc-8109-62a98487210d/PowerPoint_5_ways_with_icons.png?t=1775727702",
-    "id": 13
-  },
-  {
-    "title": "Tell HN: See the AI Doc",
-    "url": "https://news.ycombinator.com/item?id=47734011",
-    "source": "Hacker News",
-    "date": "2026-04-11",
-    "summary": "My son and I just went to see it and both really enjoyed it. I think both those for and against it can learn something from it, and benefit from the call to action. https://theaidocgetinvolved.com/ Co...",
-    "category": "industry",
-    "id": 14
-  },
-  {
-    "title": "Ask HN: Will AI Redefine Programming?",
-    "url": "https://news.ycombinator.com/item?id=47733399",
-    "source": "Hacker News",
-    "date": "2026-04-11",
-    "summary": "Since the 1st programming languages made their appearance until today we have \"low\" and \"high\" level programming languages. How will AI affect the further evolvement of what we call \"programming\" toda...",
-    "category": "industry",
-    "id": 15
-  },
-  {
-    "title": "Chilcy – AI-Powered Business Intelligence for Modern Companies",
-    "url": "https://www.chilcy.com/",
-    "source": "Hacker News",
-    "date": "2026-04-11",
-    "summary": "Article URL: https://www.chilcy.com/ Comments URL: https://news.ycombinator.com/item?id=47733362 Points: 2 # Comments: 0",
-    "category": "hardware",
-    "id": 16
-  },
-  {
-    "title": "Japan Injects $16B to Kickstart Rapidus to AI Chipmaking",
-    "url": "https://catenaa.com/industries/technology/japan-injects-16bn-to-kickstart-rapidus-to-ai-chipmaking/",
-    "source": "Hacker News",
-    "date": "2026-04-11",
-    "summary": "Article URL: https://catenaa.com/industries/technology/japan-injects-16bn-to-kickstart-rapidus-to-ai-chipmaking/ Comments URL: https://news.ycombinator.com/item?id=47733260 Points: 2 # Comments: 1",
-    "category": "hardware",
-    "id": 17
-  },
-  {
-    "title": "The Synthetic Mind – Cognitive Architecture for LLM Agents",
-    "url": "https://github.com/joshferrer1/the-synthetic-library/tree/main/the-synthetic-mind",
-    "source": "Hacker News",
-    "date": "2026-04-11",
-    "summary": "Article URL: https://github.com/joshferrer1/the-synthetic-library/tree/main/the-synthetic-mind Comments URL: https://news.ycombinator.com/item?id=47733254 Points: 2 # Comments: 0",
-    "category": "models",
-    "image": "https://opengraph.githubassets.com/b961465b2ed02b9c61bc1f3575ccd50f7c59ccc2e2beb36f3fdf05272c6fad29/joshferrer1/the-synthetic-library",
-    "id": 18
-  },
-  {
-    "title": "How We Broke Top AI Agent Benchmarks: And What Comes Next",
-    "url": "https://rdi.berkeley.edu/blog/trustworthy-benchmarks-cont/",
-    "source": "Hacker News",
-    "date": "2026-04-11",
-    "summary": "Article URL: https://rdi.berkeley.edu/blog/trustworthy-benchmarks-cont/ Comments URL: https://news.ycombinator.com/item?id=47733217 Points: 87 # Comments: 35",
-    "category": "models",
-    "id": 19
-  },
-  {
-    "title": "Show HN: Refund Guard – a policy gate for AI agents that can issue refunds",
-    "url": "https://github.com/MattMessinger1/agentic_refund_guardrail",
-    "source": "Hacker News",
-    "date": "2026-04-11",
-    "summary": "Article URL: https://github.com/MattMessinger1/agentic_refund_guardrail Comments URL: https://news.ycombinator.com/item?id=47733013 Points: 2 # Comments: 0",
-    "category": "industry",
-    "image": "https://opengraph.githubassets.com/652a1ad0a98e521e16252f3fe35933102b4773ff8d14192601da9351e3448166/MattMessinger1/agentic_refund_guardrail",
-    "id": 20
-  },
-  {
-    "title": "What leaked \"SteamGPT\" files could mean for the PC gaming platform's use of AI",
-    "url": "https://arstechnica.com/gaming/2026/04/what-is-steamgpt-leaked-files-point-to-ai-powered-valve-security-review-system/",
-    "source": "Hacker News",
-    "date": "2026-04-11",
-    "summary": "Article URL: https://arstechnica.com/gaming/2026/04/what-is-steamgpt-leaked-files-point-to-ai-powered-valve-security-review-system/ Comments URL: https://news.ycombinator.com/item?id=47732917 Points: ...",
-    "category": "models",
-    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/04/steamface.png",
-    "id": 21
-  },
-  {
-    "title": "We gave an AI persistent identity and free access to a quantum computer",
-    "url": "https://github.com/strangeadvancedmarketing/Adam/blob/master/papers/emergent_values_whitepaper.md",
-    "source": "Hacker News",
-    "date": "2026-04-11",
-    "summary": "Article URL: https://github.com/strangeadvancedmarketing/Adam/blob/master/papers/emergent_values_whitepaper.md Comments URL: https://news.ycombinator.com/item?id=47732816 Points: 5 # Comments: 2",
-    "category": "research",
-    "id": 22
-  },
-  {
-    "title": "Fixhive – collective fix memory for AI coding agents (MCP plugin)",
-    "url": "https://fixhive-landing.vercel.app",
-    "source": "Hacker News",
-    "date": "2026-04-11",
-    "summary": "Article URL: https://fixhive-landing.vercel.app Comments URL: https://news.ycombinator.com/item?id=47732767 Points: 2 # Comments: 0",
-    "category": "hardware",
-    "id": 23
-  },
-  {
-    "title": "AI-Declaration.md",
-    "url": "https://ai-declaration.md/",
-    "source": "Hacker News",
-    "date": "2026-04-11",
-    "summary": "Article URL: https://ai-declaration.md/ Comments URL: https://news.ycombinator.com/item?id=47732708 Points: 3 # Comments: 1",
-    "category": "industry",
-    "image": "https://ai-declaration.md/www/og-image.png",
-    "id": 24
-  },
-  {
-    "title": "Ask HN: How do you stop playing 20 questions with your AI coding tools",
-    "url": "https://news.ycombinator.com/item?id=47732675",
-    "source": "Hacker News",
-    "date": "2026-04-11",
-    "summary": "every session is a constant repeat of re-explaining the same architecture, service boundaries, etc. wondering how others are dealing with this? Comments URL: https://news.ycombinator.com/item?id=47732...",
-    "category": "tools",
-    "id": 25
-  },
-  {
-    "title": "WordPress 7.0: The Good, the AI, and the Still Missing",
-    "url": "https://adamgreenough.net/blog/wordpress-7-the-good-the-ai-the-missing/",
-    "source": "Hacker News",
-    "date": "2026-04-11",
-    "summary": "Article URL: https://adamgreenough.net/blog/wordpress-7-the-good-the-ai-the-missing/ Comments URL: https://news.ycombinator.com/item?id=47732620 Points: 2 # Comments: 1",
-    "category": "industry",
-    "image": "https://adamgreenough.net/media//blog/covers/wordpress-7-0.png",
-    "id": 26
-  },
-  {
-    "title": "How far can automation and AI support psychotherapy?",
-    "url": "https://attheu.utah.edu/health-medicine/how-far-can-automation-and-ai-support-psychotherapy/",
-    "source": "Hacker News",
-    "date": "2026-04-11",
-    "summary": "Article URL: https://attheu.utah.edu/health-medicine/how-far-can-automation-and-ai-support-psychotherapy/ Comments URL: https://news.ycombinator.com/item?id=47732596 Points: 2 # Comments: 0",
-    "category": "industry",
-    "image": "https://attheu.utah.edu/wp-content/uploads/2026/03/Psychotherapy-AdobeStock_feature.jpg",
-    "id": 27
-  },
-  {
-    "title": "The Hardest Problem AI Ever Solved, with Google DeepMind CEO",
-    "url": "https://www.youtube.com/watch?v=C0gErQtnNFE",
-    "source": "Hacker News",
-    "date": "2026-04-11",
-    "summary": "Article URL: https://www.youtube.com/watch?v=C0gErQtnNFE Comments URL: https://news.ycombinator.com/item?id=47732493 Points: 2 # Comments: 1",
-    "category": "industry",
-    "id": 28
-  },
-  {
-    "title": "AI on the couch: Anthropic gives Claude 20 hours of psychiatry",
-    "url": "https://arstechnica.com/ai/2026/04/why-anthropic-sent-its-claude-ai-to-an-actual-psychiatrist/",
-    "source": "Hacker News",
-    "date": "2026-04-11",
-    "summary": "Article URL: https://arstechnica.com/ai/2026/04/why-anthropic-sent-its-claude-ai-to-an-actual-psychiatrist/ Comments URL: https://news.ycombinator.com/item?id=47732468 Points: 5 # Comments: 1",
-    "category": "models",
-    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/04/GettyImages-1397973635-1152x648.jpg",
     "id": 29
   },
   {
@@ -301,49 +300,13 @@
     "id": 31
   },
   {
-    "title": "Healthcare",
-    "url": "https://openai.com/academy/healthcare",
+    "title": "Getting started with ChatGPT",
+    "url": "https://openai.com/academy/getting-started",
     "source": "OpenAI Blog",
     "date": "2026-04-10",
-    "summary": "Explore how clinicians use ChatGPT to support diagnosis, documentation, and patient care with secure, HIPAA-compliant AI tools.",
+    "summary": "Learn how to use ChatGPT, start your first conversation, and discover simple ways to write, brainstorm, and solve problems with AI.",
     "category": "models",
     "id": 32
-  },
-  {
-    "title": "Using skills",
-    "url": "https://openai.com/academy/skills",
-    "source": "OpenAI Blog",
-    "date": "2026-04-10",
-    "summary": "Learn how to create and use ChatGPT skills to build reusable workflows, automate recurring tasks, and ensure consistent, high-quality outputs.",
-    "category": "models",
-    "id": 33
-  },
-  {
-    "title": "Analyzing data with ChatGPT",
-    "url": "https://openai.com/academy/data-analysis",
-    "source": "OpenAI Blog",
-    "date": "2026-04-10",
-    "summary": "Learn how to analyze data with ChatGPT by exploring datasets, generating insights, creating visualizations, and turning findings into actionable decisions.",
-    "category": "models",
-    "id": 34
-  },
-  {
-    "title": "Writing with ChatGPT",
-    "url": "https://openai.com/academy/writing",
-    "source": "OpenAI Blog",
-    "date": "2026-04-10",
-    "summary": "Learn how to use ChatGPT for writing to draft, revise, and refine content with clear structure, tone, and intent.",
-    "category": "models",
-    "id": 35
-  },
-  {
-    "title": "ChatGPT for marketing teams",
-    "url": "https://openai.com/academy/marketing",
-    "source": "OpenAI Blog",
-    "date": "2026-04-10",
-    "summary": "Learn how marketing teams use ChatGPT to plan campaigns, generate content, analyze performance, and move from ideas to execution faster.",
-    "category": "models",
-    "id": 36
   },
   {
     "title": "Brainstorming with ChatGPT",
@@ -352,59 +315,95 @@
     "date": "2026-04-10",
     "summary": "Learn how to use ChatGPT to brainstorm ideas, organize thinking, and turn rough concepts into structured, actionable plans.",
     "category": "models",
+    "id": 33
+  },
+  {
+    "title": "Writing with ChatGPT",
+    "url": "https://openai.com/academy/writing",
+    "source": "OpenAI Blog",
+    "date": "2026-04-10",
+    "summary": "Learn how to use ChatGPT for writing to draft, revise, and refine content with clear structure, tone, and intent.",
+    "category": "models",
+    "id": 34
+  },
+  {
+    "title": "ChatGPT for research",
+    "url": "https://openai.com/academy/research",
+    "source": "OpenAI Blog",
+    "date": "2026-04-10",
+    "summary": "Learn how to use ChatGPT for research to gather sources, analyze information, and create structured, citation-backed insights.",
+    "category": "models",
+    "id": 35
+  },
+  {
+    "title": "Responsible and safe use of AI",
+    "url": "https://openai.com/academy/responsible-and-safe-use",
+    "source": "OpenAI Blog",
+    "date": "2026-04-10",
+    "summary": "Learn how to use AI responsibly with best practices for safety, accuracy, and transparency when using tools like ChatGPT.",
+    "category": "models",
+    "id": 36
+  },
+  {
+    "title": "Prompting fundamentals",
+    "url": "https://openai.com/academy/prompting",
+    "source": "OpenAI Blog",
+    "date": "2026-04-10",
+    "summary": "Learn prompting fundamentals and how to write clear, effective prompts to get better, more useful responses from ChatGPT.",
+    "category": "models",
     "id": 37
   },
   {
-    "title": "Getting started with ChatGPT",
-    "url": "https://openai.com/academy/getting-started",
+    "title": "Research with ChatGPT",
+    "url": "https://openai.com/academy/search-and-deep-research",
     "source": "OpenAI Blog",
     "date": "2026-04-10",
-    "summary": "Learn how to use ChatGPT, start your first conversation, and discover simple ways to write, brainstorm, and solve problems with AI.",
+    "summary": "Learn how to research with ChatGPT using search and deep research to find up-to-date information, analyze sources, and generate structured insights.",
     "category": "models",
     "id": 38
   },
   {
-    "title": "ChatGPT for operations teams",
-    "url": "https://openai.com/academy/operations",
+    "title": "ChatGPT for customer success teams",
+    "url": "https://openai.com/academy/customer-success",
     "source": "OpenAI Blog",
     "date": "2026-04-10",
-    "summary": "Learn how operations teams use ChatGPT to streamline workflows, improve coordination, standardize processes, and drive faster execution.",
+    "summary": "Learn how customer success teams use ChatGPT to manage accounts, improve communication, reduce churn, and drive adoption and renewals.",
     "category": "models",
     "id": 39
   },
   {
-    "title": "Creating images with ChatGPT",
-    "url": "https://openai.com/academy/image-generation",
+    "title": "ChatGPT for managers",
+    "url": "https://openai.com/academy/managers",
     "source": "OpenAI Blog",
     "date": "2026-04-10",
-    "summary": "Learn how to create and refine images with ChatGPT using clear prompts, iterate on designs, and generate high-quality visuals in minutes.",
+    "summary": "Learn how managers use ChatGPT to prepare for conversations, write clear feedback, stay organized, and improve team effectiveness.",
     "category": "models",
     "id": 40
   },
   {
-    "title": "Our response to the Axios developer tool compromise",
-    "url": "https://openai.com/index/axios-developer-tool-compromise",
+    "title": "Using projects in ChatGPT",
+    "url": "https://openai.com/academy/projects",
     "source": "OpenAI Blog",
     "date": "2026-04-10",
-    "summary": "OpenAI responds to the Axios supply chain attack by rotating macOS code signing certificates, updating apps, and confirming no user data was compromised.",
-    "category": "tools",
+    "summary": "Learn how to use orojects in ChatGPT to organize chats, files, and instructions, manage ongoing work, and collaborate more effectively.",
+    "category": "models",
     "id": 41
   },
   {
-    "title": "ChatGPT for sales teams",
-    "url": "https://openai.com/academy/sales",
+    "title": "AI fundamentals",
+    "url": "https://openai.com/academy/what-is-ai",
     "source": "OpenAI Blog",
     "date": "2026-04-10",
-    "summary": "Learn how sales teams use ChatGPT to research accounts, personalize outreach, manage deals, and improve pipeline and conversion.",
+    "summary": "Learn what AI is, how it works, and how tools like ChatGPT use large language models. A clear, beginner-friendly guide to understanding artificial intelligence.",
     "category": "models",
     "id": 42
   },
   {
-    "title": "Applications of AI at OpenAI",
-    "url": "https://openai.com/academy/applications-of-ai",
+    "title": "Financial services",
+    "url": "https://openai.com/academy/financial-services",
     "source": "OpenAI Blog",
     "date": "2026-04-10",
-    "summary": "Explore how OpenAI products like ChatGPT, Codex, and APIs bring AI into real-world use for work, development, and everyday tasks.",
+    "summary": "Explore AI resources for financial services, including prompt packs, GPTs, guides, and tools to help institutions deploy and scale AI securely.",
     "category": "models",
     "id": 43
   },
@@ -418,56 +417,56 @@
     "id": 44
   },
   {
-    "title": "Personalizing ChatGPT",
-    "url": "https://openai.com/academy/personalization",
+    "title": "Applications of AI at OpenAI",
+    "url": "https://openai.com/academy/applications-of-ai",
     "source": "OpenAI Blog",
     "date": "2026-04-10",
-    "summary": "Learn how to personalize ChatGPT using custom instructions and memory to get more relevant, consistent, and tailored responses.",
+    "summary": "Explore how OpenAI products like ChatGPT, Codex, and APIs bring AI into real-world use for work, development, and everyday tasks.",
     "category": "models",
     "id": 45
   },
   {
-    "title": "Financial services",
-    "url": "https://openai.com/academy/financial-services",
+    "title": "ChatGPT for sales teams",
+    "url": "https://openai.com/academy/sales",
     "source": "OpenAI Blog",
     "date": "2026-04-10",
-    "summary": "Explore AI resources for financial services, including prompt packs, GPTs, guides, and tools to help institutions deploy and scale AI securely.",
+    "summary": "Learn how sales teams use ChatGPT to research accounts, personalize outreach, manage deals, and improve pipeline and conversion.",
     "category": "models",
     "id": 46
   },
   {
-    "title": "AI fundamentals",
-    "url": "https://openai.com/academy/what-is-ai",
+    "title": "Creating images with ChatGPT",
+    "url": "https://openai.com/academy/image-generation",
     "source": "OpenAI Blog",
     "date": "2026-04-10",
-    "summary": "Learn what AI is, how it works, and how tools like ChatGPT use large language models. A clear, beginner-friendly guide to understanding artificial intelligence.",
+    "summary": "Learn how to create and refine images with ChatGPT using clear prompts, iterate on designs, and generate high-quality visuals in minutes.",
     "category": "models",
     "id": 47
   },
   {
-    "title": "Using projects in ChatGPT",
-    "url": "https://openai.com/academy/projects",
+    "title": "Our response to the Axios developer tool compromise",
+    "url": "https://openai.com/index/axios-developer-tool-compromise",
     "source": "OpenAI Blog",
     "date": "2026-04-10",
-    "summary": "Learn how to use orojects in ChatGPT to organize chats, files, and instructions, manage ongoing work, and collaborate more effectively.",
-    "category": "models",
+    "summary": "OpenAI responds to the Axios supply chain attack by rotating macOS code signing certificates, updating apps, and confirming no user data was compromised.",
+    "category": "tools",
     "id": 48
   },
   {
-    "title": "ChatGPT for managers",
-    "url": "https://openai.com/academy/managers",
+    "title": "Using skills",
+    "url": "https://openai.com/academy/skills",
     "source": "OpenAI Blog",
     "date": "2026-04-10",
-    "summary": "Learn how managers use ChatGPT to prepare for conversations, write clear feedback, stay organized, and improve team effectiveness.",
+    "summary": "Learn how to create and use ChatGPT skills to build reusable workflows, automate recurring tasks, and ensure consistent, high-quality outputs.",
     "category": "models",
     "id": 49
   },
   {
-    "title": "Working with files in ChatGPT",
-    "url": "https://openai.com/academy/working-with-files",
+    "title": "Analyzing data with ChatGPT",
+    "url": "https://openai.com/academy/data-analysis",
     "source": "OpenAI Blog",
     "date": "2026-04-10",
-    "summary": "Learn how to upload and work with files in ChatGPT to analyze data, summarize documents, and generate content from PDFs, spreadsheets, and more.",
+    "summary": "Learn how to analyze data with ChatGPT by exploring datasets, generating insights, creating visualizations, and turning findings into actionable decisions.",
     "category": "models",
     "id": 50
   }
