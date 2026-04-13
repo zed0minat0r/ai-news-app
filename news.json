@@ -1,5 +1,55 @@
 [
   {
+    "title": "Approvals for Nvidia and AMD AI chip exports to China stall under government bottleneck — 20% staff turnover hobbles Bureau of Industry and Security",
+    "url": "https://www.tomshardware.com/tech-industry/us-export-control-agency-has-lost-nearly-a-fifth-of-its-licensing-staff",
+    "source": "Tom's Hardware",
+    "date": "2026-04-13",
+    "summary": "Staffing at the U.S. Commerce Department office that vets exports of Nvidia and AMD AI accelerators has collapsed over the past year.",
+    "category": "hardware",
+    "image": "https://cdn.mos.cms.futurecdn.net/JnpwGz9EQ7WPv7peZQsunM-1280-80.jpg",
+    "id": 1,
+    "featured": true
+  },
+  {
+    "title": "Enterprises power agentic workflows in Cloudflare Agent Cloud with OpenAI",
+    "url": "https://openai.com/index/cloudflare-openai-agent-cloud",
+    "source": "OpenAI Blog",
+    "date": "2026-04-13",
+    "summary": "Cloudflare brings OpenAI’s GPT-5.4 and Codex to Agent Cloud, enabling enterprises to build, deploy, and scale AI agents for real-world tasks with speed and security.",
+    "category": "models",
+    "id": 2
+  },
+  {
+    "title": "'CopprLink' destroys every eGPU standard in new test, achieves near-native-level performance with an RTX 5090 — setup requires $2,300 worth of additional hardware",
+    "url": "https://www.tomshardware.com/pc-components/gpus/copprlink-destroys-every-egpu-standard-in-new-test-achieves-near-native-level-performance-with-an-rtx-5090-setup-requires-usd2-300-worth-of-additional-hardware",
+    "source": "Tom's Hardware",
+    "date": "2026-04-13",
+    "summary": "An RTX 5090 plugged into this eGPU using the CopprLink standard was able to get essentially the same level of performance as the GPU directly plugged into the motherboard. The setup requires a $1,300 ...",
+    "category": "industry",
+    "image": "https://cdn.mos.cms.futurecdn.net/U25eGm2hX2RM82DZzyAFmT-1280-80.png",
+    "id": 3
+  },
+  {
+    "title": "Why we spent 50+ hours retesting Intel’s Core Ultra 270K Plus and 250K Plus",
+    "url": "https://www.tomshardware.com/pc-components/cpus/why-we-spent-50-hours-retesting-intels-core-ultra-270k-plus-and-250k-plus",
+    "source": "Tom's Hardware",
+    "date": "2026-04-13",
+    "summary": "Although we’ve known for a long time that Intel planned to refresh its Arrow Lake CPUs, the 270K Plus and 250K Plus still posted results that were difficult to believe during our review period.",
+    "category": "hardware",
+    "image": "https://cdn.mos.cms.futurecdn.net/oyZG7mCstmm8dWyPWJmMqU-1280-80.jpg",
+    "id": 4
+  },
+  {
+    "title": "Just $284.99 for 32GB of Team T-Create Classic DDR5-6000 RAM is the cheapest going right now — this double-dipping deal saves $145 off the list price",
+    "url": "https://www.tomshardware.com/pc-components/ddr5/just-usd284-99-for-32gb-of-team-t-create-classic-ddr5-6000-ram-is-the-cheapest-going-right-now-this-double-dipping-deal-saves-usd145-off-the-list-price",
+    "source": "Tom's Hardware",
+    "date": "2026-04-13",
+    "summary": "Score the cheapest 32GB of DDR5-6000 memory on the market with this $284 Newegg deal. Dual discounts knock a massive $145 off the list price.",
+    "category": "hardware",
+    "image": "https://cdn.mos.cms.futurecdn.net/ZQDseb8wrdXPWmiNbDYvf9-1280-80.jpg",
+    "id": 5
+  },
+  {
     "title": "The largest orbital compute cluster is open for business",
     "url": "https://techcrunch.com/2026/04/13/the-largest-orbital-compute-cluster-is-open-for-business/",
     "source": "TechCrunch",
@@ -7,180 +57,17 @@
     "summary": "Kepler Communications is flying 40 GPUs in Earth orbit. And its latest customer is Sophia Space.",
     "category": "hardware",
     "image": "https://techcrunch.com/wp-content/uploads/2026/04/KEPLER-T1-.jpg?w=800",
-    "id": 1,
-    "featured": true
-  },
-  {
-    "title": "Beyond Karpathy's LLM-Wiki: The Necessity of Cognitive Governance",
-    "url": "https://www.jonadas.com/writing/essays/beyond-karpathys-llm-wiki",
-    "source": "Hacker News",
-    "date": "2026-04-13",
-    "summary": "Article URL: https://www.jonadas.com/writing/essays/beyond-karpathys-llm-wiki Comments URL: https://news.ycombinator.com/item?id=47750193 Points: 2 # Comments: 1",
-    "category": "models",
-    "image": "https://www.jonadas.com/writing/essays/beyond-karpathys-llm-wiki/opengraph-image?d88882a79067f6c6",
-    "id": 2
-  },
-  {
-    "title": "State of API Security 2026: An AI-Native Testing Perspective",
-    "url": "https://reports.kusho.ai/state-of-api-security-2026",
-    "source": "Hacker News",
-    "date": "2026-04-13",
-    "summary": "Article URL: https://reports.kusho.ai/state-of-api-security-2026 Comments URL: https://news.ycombinator.com/item?id=47750171 Points: 3 # Comments: 0",
-    "category": "tools",
-    "image": "https://reports.kusho.ai/api-security-2026-preview.png",
-    "id": 3
-  },
-  {
-    "title": "Can AI be a 'child of God'? Inside Anthropic's meeting with Christian leaders",
-    "url": "https://www.msn.com/en-us/news/us/can-ai-be-a-child-of-god-inside-anthropic-s-meeting-with-christian-leaders/ar-AA20Eb2w",
-    "source": "Hacker News",
-    "date": "2026-04-13",
-    "summary": "Article URL: https://www.msn.com/en-us/news/us/can-ai-be-a-child-of-god-inside-anthropic-s-meeting-with-christian-leaders/ar-AA20Eb2w Comments URL: https://news.ycombinator.com/item?id=47750086 Points...",
-    "category": "industry",
-    "id": 4
-  },
-  {
-    "title": "Learn LLM Internals",
-    "url": "https://github.com/amitshekhariitbhu/llm-internals",
-    "source": "Hacker News",
-    "date": "2026-04-13",
-    "summary": "Article URL: https://github.com/amitshekhariitbhu/llm-internals Comments URL: https://news.ycombinator.com/item?id=47749979 Points: 2 # Comments: 0",
-    "category": "models",
-    "image": "https://repository-images.githubusercontent.com/1208339803/216f4c98-ca25-4a6e-84d6-fe1572d1e2af",
-    "id": 5
-  },
-  {
-    "title": "Build a Sovereign Local AI Stack: Ollama and Open WebUI and Pgvector 2026",
-    "url": "https://news.ycombinator.com/item?id=47749907",
-    "source": "Hacker News",
-    "date": "2026-04-13",
-    "summary": "Deploy a complete local AI stack — Ollama 5.x, Open WebUI, and pgvector — on Ubuntu 24.04. Zero cloud. Zero API costs. Full commands, tested output, sovereignty verified. https://vucense.com/dev-corne...",
-    "category": "models",
     "id": 6
   },
   {
-    "title": "Show HN: SkillCompass – open-source quality evaluator for your AI skills",
-    "url": "https://github.com/Evol-ai/SkillCompass",
-    "source": "Hacker News",
+    "title": "Want to understand the current state of AI? Check out these charts.",
+    "url": "https://www.technologyreview.com/2026/04/13/1135675/want-to-understand-the-current-state-of-ai-check-out-these-charts/",
+    "source": "MIT Tech Review",
     "date": "2026-04-13",
-    "summary": "Article URL: https://github.com/Evol-ai/SkillCompass Comments URL: https://news.ycombinator.com/item?id=47749727 Points: 1 # Comments: 0",
-    "category": "industry",
-    "image": "https://opengraph.githubassets.com/57b0f8943a191f270dd1fc821798d06e93b460402b8f98b0d402f03d159c980d/Evol-ai/SkillCompass",
-    "id": 7
-  },
-  {
-    "title": "Defender – Local prompt injection detection for AI agents (no API calls)",
-    "url": "https://www.npmjs.com/package/@stackone/defender",
-    "source": "Hacker News",
-    "date": "2026-04-13",
-    "summary": "Article URL: https://www.npmjs.com/package/@stackone/defender Comments URL: https://news.ycombinator.com/item?id=47749598 Points: 1 # Comments: 0",
-    "category": "tools",
-    "id": 8
-  },
-  {
-    "title": "What if a few AI companies end up with all the money and power?",
-    "url": "https://www.noahpinion.blog/p/what-if-a-few-ai-companies-end-up",
-    "source": "Hacker News",
-    "date": "2026-04-13",
-    "summary": "Article URL: https://www.noahpinion.blog/p/what-if-a-few-ai-companies-end-up Comments URL: https://news.ycombinator.com/item?id=47749524 Points: 2 # Comments: 0",
-    "category": "industry",
-    "image": "https://substackcdn.com/image/fetch/$s_!sQ3E!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F8ba172f7-7c6f-4970-9777-3b1b3a6f962d_956x717.jpeg",
-    "id": 9
-  },
-  {
-    "title": "AI went viral among attorneys. We have the numbers on what happened next",
-    "url": "https://www.theregister.com/2026/04/13/ai_attorneys/",
-    "source": "Hacker News",
-    "date": "2026-04-13",
-    "summary": "Article URL: https://www.theregister.com/2026/04/13/ai_attorneys/ Comments URL: https://news.ycombinator.com/item?id=47749485 Points: 3 # Comments: 1",
-    "category": "industry",
-    "image": "https://regmedia.co.uk/2018/08/20/shutterstock_681265594.jpg",
-    "id": 10
-  },
-  {
-    "title": "Benchmark LLM Inference on WebGPU",
-    "url": "https://arxiv.org/abs/2604.02344",
-    "source": "Hacker News",
-    "date": "2026-04-13",
-    "summary": "Article URL: https://arxiv.org/abs/2604.02344 Comments URL: https://news.ycombinator.com/item?id=47749417 Points: 1 # Comments: 0",
-    "category": "models",
-    "id": 11
-  },
-  {
-    "title": "Can Intel's Long-Term AI Cloud Deal with Google Drive Future Profit?",
-    "url": "https://www.zacks.com/stock/news/2898315/can-intels-long-term-ai-cloud-deal-with-google-drive-future-profit",
-    "source": "Hacker News",
-    "date": "2026-04-13",
-    "summary": "Article URL: https://www.zacks.com/stock/news/2898315/can-intels-long-term-ai-cloud-deal-with-google-drive-future-profit Comments URL: https://news.ycombinator.com/item?id=47749352 Points: 1 # Comment...",
+    "summary": "If you’re following AI news, you’re probably getting whiplash. AI is a gold rush. AI is a bubble. AI is taking your job. AI can’t even read a clock. The 2026 AI Index from Stanford University’s Instit...",
     "category": "hardware",
-    "image": "https://staticx-tuner.zacks.com/images/articles/main/60/445.jpg",
-    "id": 12
-  },
-  {
-    "title": "Invariant Engineering: Why Your AI Agent Is Either Broken or Boring",
-    "url": "https://www.bassimeledath.com/blog/invariant-engineering",
-    "source": "Hacker News",
-    "date": "2026-04-13",
-    "summary": "Article URL: https://www.bassimeledath.com/blog/invariant-engineering Comments URL: https://news.ycombinator.com/item?id=47749317 Points: 1 # Comments: 0",
-    "category": "industry",
-    "image": "https://www.bassimeledath.com/images/blog/invariant-engineering.png",
-    "id": 13
-  },
-  {
-    "title": "AI Is Using So Much Energy That Computing Firepower Is Running Out",
-    "url": "https://www.wsj.com/tech/ai/ai-is-using-so-much-energy-that-computing-firepower-is-running-out-156e5c85",
-    "source": "Hacker News",
-    "date": "2026-04-13",
-    "summary": "Article URL: https://www.wsj.com/tech/ai/ai-is-using-so-much-energy-that-computing-firepower-is-running-out-156e5c85 Comments URL: https://news.ycombinator.com/item?id=47749277 Points: 4 # Comments: 1",
-    "category": "industry",
-    "id": 14
-  },
-  {
-    "title": "Levels of AI Adoption for Project Managers",
-    "url": "https://locastic.com/blog/the-10-levels-of-ai-adoption-for-project-managers",
-    "source": "Hacker News",
-    "date": "2026-04-13",
-    "summary": "Article URL: https://locastic.com/blog/the-10-levels-of-ai-adoption-for-project-managers Comments URL: https://news.ycombinator.com/item?id=47749149 Points: 3 # Comments: 0",
-    "category": "industry",
-    "image": "https://api.locastic.com/wp-content/uploads/2026/04/kanhaiya-sharma-T_l246EK19I-unsplash-scaled.jpg",
-    "id": 15
-  },
-  {
-    "title": "Gen Z fearful AI will take their job they're sabotaging company's AI rollout",
-    "url": "https://fortune.com/2026/04/08/gen-z-workers-sabotage-ai-rollout-backlash/",
-    "source": "Hacker News",
-    "date": "2026-04-13",
-    "summary": "Article URL: https://fortune.com/2026/04/08/gen-z-workers-sabotage-ai-rollout-backlash/ Comments URL: https://news.ycombinator.com/item?id=47749067 Points: 2 # Comments: 4",
-    "category": "industry",
-    "image": "https://fortune.com/img-assets/wp-content/uploads/2026/04/GettyImages-2203399905-e1775661971259.jpg?resize=1200,600",
-    "id": 16
-  },
-  {
-    "title": "Tell HN: AI is bringing back waterfall, here's what I've found",
-    "url": "https://news.ycombinator.com/item?id=47748747",
-    "source": "Hacker News",
-    "date": "2026-04-13",
-    "summary": "Sorry for the clickbait title - I'm a product of my time, I guess. I use these Tell HN as a kind of \"blog\" occasionally because I don't have an actual blog. Never found a flow and style I liked, kinda...",
-    "category": "research",
-    "id": 17
-  },
-  {
-    "title": "Ask HN: How are you handling runtime security for your AI agents?",
-    "url": "https://news.ycombinator.com/item?id=47748689",
-    "source": "Hacker News",
-    "date": "2026-04-13",
-    "summary": "Our team uses Claude Code, OpenClaw, Claude CoWork and Cursor daily. These tools run shell commands, read files, and call APIs autonomously. We have zero visibility into what happens between the model...",
-    "category": "tools",
-    "id": 18
-  },
-  {
-    "title": "Is AI Really gonna take our jobs?",
-    "url": "https://news.ycombinator.com/item?id=47748453",
-    "source": "Hacker News",
-    "date": "2026-04-13",
-    "summary": "TMR I came across an uncle with a broom staring at a ai powered cleaning machine his expression was not very good tbh so whats your opinion on this matter Comments URL: https://news.ycombinator.com/it...",
-    "category": "industry",
-    "id": 19
+    "image": "https://wp.technologyreview.com/wp-content/uploads/2026/04/state-ai-report.jpg?resize=1200,600",
+    "id": 7
   },
   {
     "title": "You have no choice in reading this article—maybe",
@@ -190,7 +77,7 @@
     "summary": "Uri Maoz loved doing his human research, back when he was getting his PhD. He was studying a very specific topic in computational neuroscience: how the brain instructs our arms to move and how our gra...",
     "category": "research",
     "image": "https://wp.technologyreview.com/wp-content/uploads/2026/04/MIT_TR_Uri_Moaz-177-thumb.jpg?resize=1200,600",
-    "id": 20
+    "id": 8
   },
   {
     "title": "AI Agents Are Coming for Your Dating Life",
@@ -200,7 +87,7 @@
     "summary": "The developers of Pixel Societies are using AI agents to simulate social interactions. It's an attempt optimize the process of choosing new colleagues, friends, and even romantic partners.",
     "category": "tools",
     "image": "https://media.wired.com/photos/69cd22a828d35b2c1dfa67d1/191:100/w_1280,c_limit/Business_CananAIAgentDateOnYourBehalf_2400x1350.jpg",
-    "id": 21
+    "id": 9
   },
   {
     "title": "OpenKedge: Governing Agentic Mutation with Execution-Bound Safety and Evidence Chains",
@@ -209,7 +96,7 @@
     "date": "2026-04-13",
     "summary": "The rise of autonomous AI agents exposes a fundamental flaw in API-centric architectures: probabilistic systems directly execute state mutations without sufficient context, coordination, or safety gua...",
     "category": "research",
-    "id": 22
+    "id": 10
   },
   {
     "title": "From Business Events to Auditable Decisions: Ontology-Governed Graph Simulation for Enterprise AI",
@@ -218,7 +105,7 @@
     "date": "2026-04-13",
     "summary": "Existing LLM-based agent systems share a common architectural failure: they answer from the unrestricted knowledge space without first simulating how active business scenarios reshape that space for t...",
     "category": "models",
-    "id": 23
+    "id": 11
   },
   {
     "title": "Sustained Impact of Agentic Personalisation in Marketing: A Longitudinal Case Study",
@@ -227,7 +114,7 @@
     "date": "2026-04-13",
     "summary": "In consumer applications, Customer Relationship Management (CRM) has traditionally relied on the manual optimisation of static, rule-based messaging strategies. While adaptive and autonomous learning ...",
     "category": "research",
-    "id": 24
+    "id": 12
   },
   {
     "title": "RAMP: Hybrid DRL for Online Learning of Numeric Action Models",
@@ -236,7 +123,7 @@
     "date": "2026-04-13",
     "summary": "Automated planning algorithms require an action model specifying the preconditions and effects of each action, but obtaining such a model is often hard. Learning action models from observations is fea...",
     "category": "research",
-    "id": 25
+    "id": 13
   },
   {
     "title": "Model Space Reasoning as Search in Feedback Space for Planning Domain Generation",
@@ -245,7 +132,7 @@
     "date": "2026-04-13",
     "summary": "The generation of planning domains from natural language descriptions remains an open problem even with the advent of large language models and reasoning models. Recent work suggests that while LLMs h...",
     "category": "models",
-    "id": 26
+    "id": 14
   },
   {
     "title": "Artifacts as Memory Beyond the Agent Boundary",
@@ -254,7 +141,7 @@
     "date": "2026-04-13",
     "summary": "The situated view of cognition holds that intelligent behavior depends not only on internal memory, but on an agent's active use of environmental resources. Here, we begin formalizing this intuition w...",
     "category": "hardware",
-    "id": 27
+    "id": 15
   },
   {
     "title": "Hidden in Plain Sight: Visual-to-Symbolic Analytical Solution Inference from Field Visualizations",
@@ -263,7 +150,7 @@
     "date": "2026-04-13",
     "summary": "Recovering analytical solutions of physical fields from visual observations is a fundamental yet underexplored capability for AI-assisted scientific reasoning. We study visual-to-symbolic analytical s...",
     "category": "research",
-    "id": 28
+    "id": 16
   },
   {
     "title": "SPPO: Sequence-Level PPO for Long-Horizon Reasoning Tasks",
@@ -272,7 +159,7 @@
     "date": "2026-04-13",
     "summary": "Proximal Policy Optimization (PPO) is central to aligning Large Language Models (LLMs) in reasoning tasks with verifiable rewards. However, standard token-level PPO struggles in this setting due to th...",
     "category": "research",
-    "id": 29
+    "id": 17
   },
   {
     "title": "StaRPO: Stability-Augmented Reinforcement Policy Optimization",
@@ -281,7 +168,7 @@
     "date": "2026-04-13",
     "summary": "Reinforcement learning (RL) is effective in enhancing the accuracy of large language models in complex reasoning tasks. Existing RL policy optimization frameworks rely on final-answer correctness as f...",
     "category": "research",
-    "id": 30
+    "id": 18
   },
   {
     "title": "Enhancing LLM Problem Solving via Tutor-Student Multi-Agent Interaction",
@@ -290,7 +177,7 @@
     "date": "2026-04-13",
     "summary": "Human cognitive development is shaped not only by individual effort but by structured social interaction, where role-based exchanges such as those between a tutor and a learner, enable solutions that ...",
     "category": "models",
-    "id": 31
+    "id": 19
   },
   {
     "title": "PilotBench: A Benchmark for General Aviation Agents with Safety Constraints",
@@ -299,7 +186,7 @@
     "date": "2026-04-13",
     "summary": "As Large Language Models (LLMs) advance toward embodied AI agents operating in physical environments, a fundamental question emerges: can models trained on text corpora reliably reason about complex p...",
     "category": "models",
-    "id": 32
+    "id": 20
   },
   {
     "title": "SEA-Eval: A Benchmark for Evaluating Self-Evolving Agents Beyond Episodic Assessment",
@@ -308,7 +195,7 @@
     "date": "2026-04-13",
     "summary": "Current LLM-based agents demonstrate strong performance in episodic task execution but remain constrained by static toolsets and episodic amnesia, failing to accumulate experience or optimize strategi...",
     "category": "research",
-    "id": 33
+    "id": 21
   },
   {
     "title": "Hypergraph Neural Networks Accelerate MUS Enumeration",
@@ -317,7 +204,7 @@
     "date": "2026-04-13",
     "summary": "Enumerating Minimal Unsatisfiable Subsets (MUSes) is a fundamental task in constraint satisfaction problems (CSPs). Its major challenge is the exponential growth of the search space, which becomes par...",
     "category": "research",
-    "id": 34
+    "id": 22
   },
   {
     "title": "Advantage-Guided Diffusion for Model-Based Reinforcement Learning",
@@ -326,7 +213,7 @@
     "date": "2026-04-13",
     "summary": "Model-based reinforcement learning (MBRL) with autoregressive world models suffers from compounding errors, whereas diffusion world models mitigate this by generating trajectory segments jointly. Howe...",
     "category": "models",
-    "id": 35
+    "id": 23
   },
   {
     "title": "Camera Artist: A Multi-Agent Framework for Cinematic Language Storytelling Video Generation",
@@ -335,7 +222,7 @@
     "date": "2026-04-13",
     "summary": "We propose Camera Artist, a multi-agent framework that models a real-world filmmaking workflow to generate narrative videos with explicit cinematic language. While recent multi-agent systems have made...",
     "category": "tools",
-    "id": 36
+    "id": 24
   },
   {
     "title": "DRBENCHER: Can Your Agent Identify the Entity, Retrieve Its Properties and Do the Math?",
@@ -344,7 +231,7 @@
     "date": "2026-04-13",
     "summary": "Deep research agents increasingly interleave web browsing with multi-step computation, yet existing benchmarks evaluate these capabilities in isolation, creating a blind spot in assessing real-world p...",
     "category": "research",
-    "id": 37
+    "id": 25
   },
   {
     "title": "SAGE: A Service Agent Graph-guided Evaluation Benchmark",
@@ -353,7 +240,7 @@
     "date": "2026-04-13",
     "summary": "The development of Large Language Models (LLMs) has catalyzed automation in customer service, yet benchmarking their performance remains challenging. Existing benchmarks predominantly rely on static p...",
     "category": "models",
-    "id": 38
+    "id": 26
   },
   {
     "title": "Constraint-Aware Corrective Memory for Language-Based Drug Discovery Agents",
@@ -362,7 +249,7 @@
     "date": "2026-04-13",
     "summary": "Large language models are making autonomous drug discovery agents increasingly feasible, but reliable success in this setting is not determined by any single action or molecule. It is determined by wh...",
     "category": "models",
-    "id": 39
+    "id": 27
   },
   {
     "title": "Mind the Gap Between Spatial Reasoning and Acting! Step-by-Step Evaluation of Agents With Spatial-Gym",
@@ -371,7 +258,7 @@
     "date": "2026-04-13",
     "summary": "Spatial reasoning is central to navigation and robotics, yet measuring model capabilities on these tasks remains difficult. Existing benchmarks evaluate models in a one-shot setting, requiring full so...",
     "category": "research",
-    "id": 40
+    "id": 28
   },
   {
     "title": "HiL-Bench (Human-in-Loop Benchmark): Do Agents Know When to Ask for Help?",
@@ -380,7 +267,7 @@
     "date": "2026-04-13",
     "summary": "Frontier coding agents solve complex tasks when given complete context but collapse when specifications are incomplete or ambiguous. The bottleneck is not raw capability, but judgment: knowing when to...",
     "category": "models",
-    "id": 41
+    "id": 29
   },
   {
     "title": "Do We Really Need to Approach the Entire Pareto Front in Many-Objective Bayesian Optimisation?",
@@ -389,7 +276,7 @@
     "date": "2026-04-13",
     "summary": "Many-objective optimisation, a subset of multi-objective optimisation, involves optimisation problems with more than three objectives. As the number of objectives increases, the number of solutions ne...",
     "category": "research",
-    "id": 42
+    "id": 30
   },
   {
     "title": "E3-TIR: Enhanced Experience Exploitation for Tool-Integrated Reasoning",
@@ -398,7 +285,7 @@
     "date": "2026-04-13",
     "summary": "While Large Language Models (LLMs) have demonstrated significant potential in Tool-Integrated Reasoning (TIR), existing training paradigms face significant limitations: Zero-RL suffers from inefficien...",
     "category": "models",
-    "id": 43
+    "id": 31
   },
   {
     "title": "Process Reward Agents for Steering Knowledge-Intensive Reasoning",
@@ -407,7 +294,7 @@
     "date": "2026-04-13",
     "summary": "Reasoning in knowledge-intensive domains remains challenging as intermediate steps are often not locally verifiable: unlike math or code, evaluating step correctness may require synthesizing clues acr...",
     "category": "models",
-    "id": 44
+    "id": 32
   },
   {
     "title": "Strategic Algorithmic Monoculture:Experimental Evidence from Coordination Games",
@@ -416,7 +303,7 @@
     "date": "2026-04-13",
     "summary": "AI agents increasingly operate in multi-agent environments where outcomes depend on coordination. We distinguish primary algorithmic monoculture -- baseline action similarity -- from strategic algorit...",
     "category": "models",
-    "id": 45
+    "id": 33
   },
   {
     "title": "On Divergence Measures for Training GFlowNets",
@@ -425,7 +312,7 @@
     "date": "2026-04-13",
     "summary": "Generative Flow Networks (GFlowNets) are amortized inference models designed to sample from unnormalized distributions over composable objects, with applications in generative modeling for tasks in fi...",
     "category": "research",
-    "id": 46
+    "id": 34
   },
   {
     "title": "Towards Real-world Human Behavior Simulation: Benchmarking Large Language Models on Long-horizon, Cross-scenario, Heterogeneous Behavior Traces",
@@ -434,7 +321,7 @@
     "date": "2026-04-13",
     "summary": "The emergence of Large Language Models (LLMs) has illuminated the potential for a general-purpose user simulator. However, existing benchmarks remain constrained to isolated scenarios, narrow action s...",
     "category": "research",
-    "id": 47
+    "id": 35
   },
   {
     "title": "VerifAI: A Verifiable Open-Source Search Engine for Biomedical Question Answering",
@@ -443,7 +330,7 @@
     "date": "2026-04-13",
     "summary": "We introduce VerifAI, an open-source expert system for biomedical question answering that integrates retrieval-augmented generation (RAG) with a novel post-hoc claim verification mechanism. Unlike sta...",
     "category": "models",
-    "id": 48
+    "id": 36
   },
   {
     "title": "Automated Standardization of Legacy Biomedical Metadata Using an Ontology-Constrained LLM Agent",
@@ -452,7 +339,7 @@
     "date": "2026-04-13",
     "summary": "Scientific metadata are often incomplete and noncompliant with community standards, limiting dataset findability, interoperability, and reuse. When reporting guidelines exist, they typically lack mach...",
     "category": "models",
-    "id": 49
+    "id": 37
   },
   {
     "title": "GNN-as-Judge: Unleashing the Power of LLMs for Graph Learning with GNN Feedback",
@@ -460,6 +347,114 @@
     "source": "arXiv cs.AI",
     "date": "2026-04-13",
     "summary": "Large Language Models (LLMs) have shown strong performance on text-attributed graphs (TAGs) due to their superior semantic understanding ability on textual node features. However, their effectiveness ...",
+    "category": "models",
+    "id": 38
+  },
+  {
+    "title": "Drift and selection in LLM text ecosystems",
+    "url": "https://arxiv.org/abs/2604.08554",
+    "source": "arXiv cs.AI",
+    "date": "2026-04-13",
+    "summary": "The public text record -- the material from which both people and AI systems now learn -- is increasingly shaped by its own outputs. Generated text enters the public record, later agents learn from it...",
+    "category": "models",
+    "id": 39
+  },
+  {
+    "title": "EMA Is Not All You Need: Mapping the Boundary Between Structure and Content in Recurrent Context",
+    "url": "https://arxiv.org/abs/2604.08556",
+    "source": "arXiv cs.AI",
+    "date": "2026-04-13",
+    "summary": "What exactly do efficient sequence models gain over simple temporal averaging? We use exponential moving average (EMA) traces, the simplest recurrent context (no gating, no content-based retrieval), a...",
+    "category": "models",
+    "id": 40
+  },
+  {
+    "title": "Re-Mask and Redirect: Exploiting Denoising Irreversibility in Diffusion Language Models",
+    "url": "https://arxiv.org/abs/2604.08557",
+    "source": "arXiv cs.AI",
+    "date": "2026-04-13",
+    "summary": "Diffusion-based language models (dLLMs) generate text by iteratively denoising masked token sequences. We show that their safety alignment rests on a single fragile assumption: that the denoising sche...",
+    "category": "models",
+    "id": 41
+  },
+  {
+    "title": "WAND: Windowed Attention and Knowledge Distillation for Efficient Autoregressive Text-to-Speech Models",
+    "url": "https://arxiv.org/abs/2604.08558",
+    "source": "arXiv cs.AI",
+    "date": "2026-04-13",
+    "summary": "Recent decoder-only autoregressive text-to-speech (AR-TTS) models produce high-fidelity speech, but their memory and compute costs scale quadratically with sequence length due to full self-attention. ...",
+    "category": "research",
+    "id": 42
+  },
+  {
+    "title": "Medical Reasoning with Large Language Models: A Survey and MR-Bench",
+    "url": "https://arxiv.org/abs/2604.08559",
+    "source": "arXiv cs.AI",
+    "date": "2026-04-13",
+    "summary": "Large language models (LLMs) have achieved strong performance on medical exam-style tasks, motivating growing interest in their deployment in real-world clinical settings. However, clinical decision-m...",
+    "category": "research",
+    "id": 43
+  },
+  {
+    "title": "Uncertainty Estimation for the Open-Set Text Classification systems",
+    "url": "https://arxiv.org/abs/2604.08560",
+    "source": "arXiv cs.AI",
+    "date": "2026-04-13",
+    "summary": "Accurate uncertainty estimation is essential for building robust and trustworthy recognition systems. In this paper, we consider the open-set text classification (OSTC) task - and uncertainty estimati...",
+    "category": "research",
+    "id": 44
+  },
+  {
+    "title": "Neural networks for Text-to-Speech evaluation",
+    "url": "https://arxiv.org/abs/2604.08562",
+    "source": "arXiv cs.AI",
+    "date": "2026-04-13",
+    "summary": "Ensuring that Text-to-Speech (TTS) systems deliver human-perceived quality at scale is a central challenge for modern speech technologies. Human subjective evaluation protocols such as Mean Opinion Sc...",
+    "category": "models",
+    "id": 45
+  },
+  {
+    "title": "Temperature-Dependent Performance of Prompting Strategies in Extended Reasoning Large Language Models",
+    "url": "https://arxiv.org/abs/2604.08563",
+    "source": "arXiv cs.AI",
+    "date": "2026-04-13",
+    "summary": "Extended reasoning models represent a transformative shift in Large Language Model (LLM) capabilities by enabling explicit test-time computation for complex problem solving. However, the optimal confi...",
+    "category": "models",
+    "id": 46
+  },
+  {
+    "title": "Dynamic sparsity in tree-structured feed-forward layers at scale",
+    "url": "https://arxiv.org/abs/2604.08565",
+    "source": "arXiv cs.AI",
+    "date": "2026-04-13",
+    "summary": "At typical context lengths, the feed-forward MLP block accounts for a large share of a transformer's compute budget, motivating sparse alternatives to dense MLP blocks. We study sparse, tree-structure...",
+    "category": "models",
+    "id": 47
+  },
+  {
+    "title": "Can We Still Hear the Accent? Investigating the Resilience of Native Language Signals in the LLM Era",
+    "url": "https://arxiv.org/abs/2604.08568",
+    "source": "arXiv cs.AI",
+    "date": "2026-04-13",
+    "summary": "The evolution of writing assistance tools from machine translation to large language models (LLMs) has changed how researchers write. This study investigates whether this shift is homogenizing researc...",
+    "category": "models",
+    "id": 48
+  },
+  {
+    "title": "QuanBench+: A Unified Multi-Framework Benchmark for LLM-Based Quantum Code Generation",
+    "url": "https://arxiv.org/abs/2604.08570",
+    "source": "arXiv cs.AI",
+    "date": "2026-04-13",
+    "summary": "Large Language Models (LLMs) are increasingly used for code generation, yet quantum code generation is still evaluated mostly within single frameworks, making it difficult to separate quantum reasonin...",
+    "category": "research",
+    "id": 49
+  },
+  {
+    "title": "Robust Reasoning Benchmark",
+    "url": "https://arxiv.org/abs/2604.08571",
+    "source": "arXiv cs.AI",
+    "date": "2026-04-13",
+    "summary": "While Large Language Models (LLMs) achieve high performance on standard mathematical benchmarks, their underlying reasoning processes remain highly overfit to standard textual formatting. We propose a...",
     "category": "models",
     "id": 50
   }
