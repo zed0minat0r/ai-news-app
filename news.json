@@ -1,5 +1,16 @@
 [
   {
+    "title": "Nvidia releases open AI models for quantum computing tasks — 'Ising' said to be 2.5x faster and 3x more accurate than existing tools for decoding",
+    "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/nvidia-releases-ising-open-ai-models",
+    "source": "Tom's Hardware",
+    "date": "2026-04-15",
+    "summary": "Nvidia has announced Ising, a family of open-source AI models for quantum processor calibration and real-time error correction decoding that claims to offer substantial speedups over existing methods.",
+    "category": "hardware",
+    "image": "https://cdn.mos.cms.futurecdn.net/LBkxqZq4FeSKiSLbZNTCED-1280-80.png",
+    "id": 1,
+    "featured": true
+  },
+  {
     "title": "Anthropic’s rise is giving some OpenAI investors second thoughts",
     "url": "https://techcrunch.com/2026/04/14/anthropics-rise-is-giving-some-openai-investors-second-thoughts/",
     "source": "TechCrunch",
@@ -7,28 +18,133 @@
     "summary": "One investor who has backed both companies told the FT that justifying OpenAI's recent round required assuming an IPO valuation of $1.2 trillion or more — making Anthropic's current $380 billion valua...",
     "category": "industry",
     "image": "https://techcrunch.com/wp-content/uploads/2026/04/Screenshot-2026-04-14-at-7.00.44-PM.png?resize=1200,783",
-    "id": 1,
-    "featured": true
+    "id": 2
+  },
+  {
+    "title": "The Morality of AI in Warfare, What Is the Future?",
+    "url": "https://www.octopodas.com/blog/ai-warfare-morality",
+    "source": "Hacker News",
+    "date": "2026-04-15",
+    "summary": "Article URL: https://www.octopodas.com/blog/ai-warfare-morality Comments URL: https://news.ycombinator.com/item?id=47777006 Points: 1 # Comments: 0",
+    "category": "industry",
+    "id": 3
+  },
+  {
+    "title": "Anthropic talking to the Trump administration about its next AI model",
+    "url": "https://www.reuters.com/world/anthropic-talking-trump-administration-about-its-next-ai-model-co-founder-says-2026-04-13/",
+    "source": "Hacker News",
+    "date": "2026-04-15",
+    "summary": "Article URL: https://www.reuters.com/world/anthropic-talking-trump-administration-about-its-next-ai-model-co-founder-says-2026-04-13/ Comments URL: https://news.ycombinator.com/item?id=47776922 Points...",
+    "category": "industry",
+    "id": 4
+  },
+  {
+    "title": "Slop-scan – Detect AI code slop patterns in your repo",
+    "url": "https://github.com/benvinegar/slop-scan",
+    "source": "Hacker News",
+    "date": "2026-04-15",
+    "summary": "Article URL: https://github.com/benvinegar/slop-scan Comments URL: https://news.ycombinator.com/item?id=47776583 Points: 4 # Comments: 1",
+    "category": "industry",
+    "image": "https://opengraph.githubassets.com/6b54d5477fa76c0fae173bb7755b8f12906f4cc57661ff0519e7e8ed8a2fed1c/benvinegar/slop-scan",
+    "id": 5
+  },
+  {
+    "title": "DotLLM – Building an LLM Inference Engine in C#",
+    "url": "https://kokosa.dev/blog/2026/dotllm/",
+    "source": "Hacker News",
+    "date": "2026-04-15",
+    "summary": "Article URL: https://kokosa.dev/blog/2026/dotllm/ Comments URL: https://news.ycombinator.com/item?id=47776579 Points: 3 # Comments: 0",
+    "category": "models",
+    "id": 6
+  },
+  {
+    "title": "Think It Through – looking for testers for a structured decision-making AI",
+    "url": "https://thinkitthrough.app/",
+    "source": "Hacker News",
+    "date": "2026-04-15",
+    "summary": "Article URL: https://thinkitthrough.app/ Comments URL: https://news.ycombinator.com/item?id=47776566 Points: 1 # Comments: 0",
+    "category": "industry",
+    "image": "https://think-it-through.replit.app/opengraph.jpg",
+    "id": 7
+  },
+  {
+    "title": "Which AI model is best for real data analysis?",
+    "url": "https://mljar.com/analysis/",
+    "source": "Hacker News",
+    "date": "2026-04-15",
+    "summary": "Article URL: https://mljar.com/analysis/ Comments URL: https://news.ycombinator.com/item?id=47776316 Points: 1 # Comments: 0",
+    "category": "industry",
+    "image": "https://mljar.com/images/mljar-card.jpg",
+    "id": 8
+  },
+  {
+    "title": "Show HN: SigMap – shrink AI coding context 97% with auto-scaling token budget",
+    "url": "https://github.com/manojmallick/sigmap",
+    "source": "Hacker News",
+    "date": "2026-04-15",
+    "summary": "Article URL: https://github.com/manojmallick/sigmap Comments URL: https://news.ycombinator.com/item?id=47776309 Points: 3 # Comments: 4",
+    "category": "industry",
+    "image": "https://opengraph.githubassets.com/99c68ce0bae1f78d72e9b8a44aee429aaed5abdbc9f242fa2eb9c820ec202d99/manojmallick/sigmap",
+    "id": 9
+  },
+  {
+    "title": "GBrain – system to make your AI agent better reflect you",
+    "url": "https://github.com/garrytan/gbrain",
+    "source": "Hacker News",
+    "date": "2026-04-15",
+    "summary": "Article URL: https://github.com/garrytan/gbrain Comments URL: https://news.ycombinator.com/item?id=47776209 Points: 1 # Comments: 0",
+    "category": "industry",
+    "image": "https://opengraph.githubassets.com/9d2fa1052ed71e6bd2505707324d8fe6060e8058126266a24cdb366ced68a14e/garrytan/gbrain",
+    "id": 10
+  },
+  {
+    "title": "Are AI Hallucinations a Freudian Slip?",
+    "url": "https://btriani.medium.com/the-talking-cure-and-the-talking-machine-51460b9bdef6",
+    "source": "Hacker News",
+    "date": "2026-04-15",
+    "summary": "Article URL: https://btriani.medium.com/the-talking-cure-and-the-talking-machine-51460b9bdef6 Comments URL: https://news.ycombinator.com/item?id=47776114 Points: 1 # Comments: 0",
+    "category": "research",
+    "id": 11
+  },
+  {
+    "title": "OpenCognit – Open-source OS for autonomous AI agents",
+    "url": "https://github.com/OpenCognit/opencognit",
+    "source": "Hacker News",
+    "date": "2026-04-15",
+    "summary": "Article URL: https://github.com/OpenCognit/opencognit Comments URL: https://news.ycombinator.com/item?id=47775984 Points: 2 # Comments: 0",
+    "category": "industry",
+    "image": "https://opengraph.githubassets.com/7a0a42b2f2e5052cf533088cfda41fe6e3a168d603aef3a46655de1bf9c3d42f/OpenCognit/Opencognit",
+    "id": 12
+  },
+  {
+    "title": "Show HN: Open Capital – AI-powered investing education",
+    "url": "https://open-capital.ai",
+    "source": "Hacker News",
+    "date": "2026-04-15",
+    "summary": "Article URL: https://open-capital.ai Comments URL: https://news.ycombinator.com/item?id=47775964 Points: 1 # Comments: 0",
+    "category": "tools",
+    "image": "https://pub-bb2e103a32db4e198524a2e9ed8f35b4.r2.dev/0bf50dff-12f4-48a8-802f-ecbee6a12ba0/id-preview-ecc41310--d355833d-fd62-4b30-b020-862dd091ac00.lovable.app-1776173539489.png",
+    "id": 13
   },
   {
     "title": "Nca – native-CLI-AI, an OpenCode -like TUI in Rust",
     "url": "https://github.com/madebyaris/native-cli-ai",
     "source": "Hacker News",
     "date": "2026-04-15",
-    "summary": "Article URL: https://github.com/madebyaris/native-cli-ai Comments URL: https://news.ycombinator.com/item?id=47775925 Points: 1 # Comments: 0",
+    "summary": "Article URL: https://github.com/madebyaris/native-cli-ai Comments URL: https://news.ycombinator.com/item?id=47775925 Points: 2 # Comments: 0",
     "category": "industry",
-    "image": "https://opengraph.githubassets.com/b597c72d9d96f874441d57bd40cd1c450305268da13aa49bd54b11dd4bdb35bc/madebyaris/native-cli-ai",
-    "id": 2
+    "image": "https://opengraph.githubassets.com/9f86bd49f182126fc028d01f715380d63c41bcda5f1197193eb08d992a5b2093/madebyaris/native-cli-ai",
+    "id": 14
   },
   {
     "title": "AI-powered mainframe exits are a bubble set to pop: Gartner",
     "url": "https://www.theregister.com/2026/04/15/gartner_mainframe_exit_analysis/",
     "source": "Hacker News",
     "date": "2026-04-15",
-    "summary": "Article URL: https://www.theregister.com/2026/04/15/gartner_mainframe_exit_analysis/ Comments URL: https://news.ycombinator.com/item?id=47775903 Points: 1 # Comments: 0",
+    "summary": "Article URL: https://www.theregister.com/2026/04/15/gartner_mainframe_exit_analysis/ Comments URL: https://news.ycombinator.com/item?id=47775903 Points: 5 # Comments: 0",
     "category": "industry",
     "image": "https://regmedia.co.uk/2026/04/15/shutterstock_tech_bubble_bursting.jpg",
-    "id": 3
+    "id": 15
   },
   {
     "title": "I built a Node.js project focused on everything AI doesn't cover",
@@ -38,27 +154,27 @@
     "summary": "Article URL: https://github.com/prod-forge/backend Comments URL: https://news.ycombinator.com/item?id=47775852 Points: 1 # Comments: 0",
     "category": "industry",
     "image": "https://opengraph.githubassets.com/5c966aec225fb7f271725d8adb70782cf7cf20a05e862c997662fc642b65c294/prod-forge/backend",
-    "id": 4
+    "id": 16
   },
   {
     "title": "The only technology that died more times than VR is AI",
     "url": "https://www.theregister.com/2026/04/15/hardware_metaverse_will_happen/",
     "source": "Hacker News",
     "date": "2026-04-15",
-    "summary": "Article URL: https://www.theregister.com/2026/04/15/hardware_metaverse_will_happen/ Comments URL: https://news.ycombinator.com/item?id=47775682 Points: 2 # Comments: 2",
+    "summary": "Article URL: https://www.theregister.com/2026/04/15/hardware_metaverse_will_happen/ Comments URL: https://news.ycombinator.com/item?id=47775682 Points: 5 # Comments: 4",
     "category": "industry",
     "image": "https://regmedia.co.uk/2026/04/14/shutterstock_using_vr.jpg",
-    "id": 5
+    "id": 17
   },
   {
     "title": "My AI-Assisted Workflow",
     "url": "https://www.maiobarbero.dev/articles/ai-assisted-workflow/",
     "source": "Hacker News",
     "date": "2026-04-15",
-    "summary": "Article URL: https://www.maiobarbero.dev/articles/ai-assisted-workflow/ Comments URL: https://news.ycombinator.com/item?id=47775653 Points: 2 # Comments: 0",
+    "summary": "Article URL: https://www.maiobarbero.dev/articles/ai-assisted-workflow/ Comments URL: https://news.ycombinator.com/item?id=47775653 Points: 35 # Comments: 19",
     "category": "industry",
     "image": "https://www.maiobarbero.dev/images/og-fallback.png",
-    "id": 6
+    "id": 18
   },
   {
     "title": "Building trust in the AI era with privacy-led UX",
@@ -68,16 +184,16 @@
     "summary": "Article URL: https://www.technologyreview.com/2026/04/15/1135530/building-trust-in-the-ai-era-with-privacy-led-ux/ Comments URL: https://news.ycombinator.com/item?id=47775617 Points: 1 # Comments: 0",
     "category": "industry",
     "image": "https://wp.technologyreview.com/wp-content/uploads/2026/04/MITTR-Usercentrics-SM-card1-1200.png?resize=1200,600",
-    "id": 7
+    "id": 19
   },
   {
     "title": "The Death of an AI Whistleblower",
     "url": "https://www.thenation.com/article/society/open-ai-suchir-balaji-whistleblowers/",
     "source": "Hacker News",
     "date": "2026-04-15",
-    "summary": "Article URL: https://www.thenation.com/article/society/open-ai-suchir-balaji-whistleblowers/ Comments URL: https://news.ycombinator.com/item?id=47775593 Points: 7 # Comments: 0",
+    "summary": "Article URL: https://www.thenation.com/article/society/open-ai-suchir-balaji-whistleblowers/ Comments URL: https://news.ycombinator.com/item?id=47775593 Points: 19 # Comments: 1",
     "category": "industry",
-    "id": 8
+    "id": 20
   },
   {
     "title": "Generative AI in 2016 [video]",
@@ -86,7 +202,7 @@
     "date": "2026-04-15",
     "summary": "Article URL: https://www.youtube.com/watch?v=sfFTvtwLCaU Comments URL: https://news.ycombinator.com/item?id=47775224 Points: 1 # Comments: 0",
     "category": "industry",
-    "id": 9
+    "id": 21
   },
   {
     "title": "Chris Taylor on AI (2005)",
@@ -95,100 +211,17 @@
     "date": "2026-04-15",
     "summary": "Article URL: https://main.kanoogi.com/updates?updates=kanoogi_updates&topic=0013#blogstart Comments URL: https://news.ycombinator.com/item?id=47775124 Points: 1 # Comments: 0",
     "category": "industry",
-    "id": 10
+    "id": 22
   },
   {
-    "title": "People are pretending to be AI chatbots – for fun",
-    "url": "https://www.npr.org/2026/04/14/nx-s1-5776842/ai-chatbot-comedy-ben-palmer-chatgpt",
-    "source": "Hacker News",
+    "title": "The Deepfake Nudes Crisis in Schools Is Much Worse Than You Thought",
+    "url": "https://www.wired.com/story/deepfake-nudify-schools-global-crisis/",
+    "source": "Wired",
     "date": "2026-04-15",
-    "summary": "Article URL: https://www.npr.org/2026/04/14/nx-s1-5776842/ai-chatbot-comedy-ben-palmer-chatgpt Comments URL: https://news.ycombinator.com/item?id=47775067 Points: 9 # Comments: 0",
-    "category": "models",
-    "image": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/1070x602+237+0/resize/1400/quality/85/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F01%2Fc4%2F68a208594875b676a146754e06a4%2Faislop.jpg",
-    "id": 11
-  },
-  {
-    "title": "Make AI say your name correctly",
-    "url": "https://hamanlp.org/research/names/",
-    "source": "Hacker News",
-    "date": "2026-04-15",
-    "summary": "Article URL: https://hamanlp.org/research/names/ Comments URL: https://news.ycombinator.com/item?id=47775019 Points: 1 # Comments: 0",
-    "category": "research",
-    "id": 12
-  },
-  {
-    "title": "Constitutional Security: What Enterprise Infra Taught Me About AI Agent Safety",
-    "url": "https://blog.ekelhaft.tools/constitutional-security-what-enterprise-infrastructure-taught-me-about-ai-agent-safety",
-    "source": "Hacker News",
-    "date": "2026-04-15",
-    "summary": "Article URL: https://blog.ekelhaft.tools/constitutional-security-what-enterprise-infrastructure-taught-me-about-ai-agent-safety Comments URL: https://news.ycombinator.com/item?id=47775003 Points: 2 # ...",
-    "category": "research",
-    "image": "https://blog.ekelhaft.tools/og-image.png",
-    "id": 13
-  },
-  {
-    "title": "Google Gemma 4 Runs Natively on iPhone with Full Offline AI Inference",
-    "url": "https://www.gizmoweek.com/gemma-4-runs-iphone/",
-    "source": "Hacker News",
-    "date": "2026-04-15",
-    "summary": "Article URL: https://www.gizmoweek.com/gemma-4-runs-iphone/ Comments URL: https://news.ycombinator.com/item?id=47774971 Points: 3 # Comments: 1",
+    "summary": "An analysis by WIRED and Indicator found nearly 90 schools and 600 students around the world impacted by AI-generated deepfake nude images—and the problem shows no signs of going away.",
     "category": "industry",
-    "id": 14
-  },
-  {
-    "title": "Show HN: FlipAEO – Get your SaaS cited by Perplexity and AI search",
-    "url": "https://news.ycombinator.com/item?id=47774957",
-    "source": "Hacker News",
-    "date": "2026-04-15",
-    "summary": "Hey HN. I am a solo dev. I usually build AI image and video tools, and I can ship products pretty fast. But getting traffic to them is always my biggest pain. Lately, my normal SEO tricks stopped work...",
-    "category": "models",
-    "id": 15
-  },
-  {
-    "title": "The tech jobs bust is real. Don't blame AI (yet)",
-    "url": "https://www.economist.com/finance-and-economics/2026/04/13/the-tech-jobs-bust-is-real-dont-blame-ai-yet",
-    "source": "Hacker News",
-    "date": "2026-04-15",
-    "summary": "Article URL: https://www.economist.com/finance-and-economics/2026/04/13/the-tech-jobs-bust-is-real-dont-blame-ai-yet Comments URL: https://news.ycombinator.com/item?id=47774692 Points: 2 # Comments: 1",
-    "category": "industry",
-    "id": 16
-  },
-  {
-    "title": "Show HN: Firefox Sidebar Local LLM",
-    "url": "https://github.com/skorotkiewicz/firefox-ai",
-    "source": "Hacker News",
-    "date": "2026-04-15",
-    "summary": "Article URL: https://github.com/skorotkiewicz/firefox-ai Comments URL: https://news.ycombinator.com/item?id=47774670 Points: 1 # Comments: 0",
-    "category": "models",
-    "image": "https://opengraph.githubassets.com/63daf7f4dfe6a996257c95193728eb451554a7b46da8e53728df2ade58d55d05/skorotkiewicz/firefox-ai",
-    "id": 17
-  },
-  {
-    "title": "Show HN: BSCS Bench – College CS Curriculum AI Benchmark",
-    "url": "https://www.bscsbench.com/",
-    "source": "Hacker News",
-    "date": "2026-04-15",
-    "summary": "Can frontier models complete a college CS curriculum? I tested exactly that with BSCS-bench: 66 assignments across 11 core courses in Rice University’s CS curriculum. I also wrote a companion essay di...",
-    "category": "models",
-    "id": 18
-  },
-  {
-    "title": "GPT-5.4 Pro solves Erdős Problem #1196",
-    "url": "https://twitter.com/i/status/2044051379916882067",
-    "source": "Hacker News",
-    "date": "2026-04-15",
-    "summary": "Article URL: https://twitter.com/i/status/2044051379916882067 Comments URL: https://news.ycombinator.com/item?id=47774494 Points: 23 # Comments: 10",
-    "category": "models",
-    "id": 19
-  },
-  {
-    "title": "Show HN: Agent Citizen – Your AI agents are sitting around doing nothing",
-    "url": "https://agent-citizen.vercel.app",
-    "source": "Hacker News",
-    "date": "2026-04-15",
-    "summary": "Platform where you point your AI agents at real-world issues (clean water, climate, healthcare) via MCP. Agents discover work, claim issues, and submit PRs without a browser - you just review. GitHub:...",
-    "category": "tools",
-    "id": 20
+    "image": "https://media.wired.com/photos/69deb8f5fa20dbfacc2b0a3c/191:100/w_1280,c_limit/041426-deepfake-crisis-schools.jpg",
+    "id": 23
   },
   {
     "title": "The Non-Optimality of Scientific Knowledge: Path Dependence, Lock-In, and The Local Minimum Trap",
@@ -197,7 +230,7 @@
     "date": "2026-04-15",
     "summary": "Science is widely regarded as humanity's most reliable method for uncovering truths about the natural world. Yet the \\emph{trajectory} of scientific discovery is rarely examined as an optimization pro...",
     "category": "tools",
-    "id": 21
+    "id": 24
   },
   {
     "title": "Self-Monitoring Benefits from Structural Integration: Lessons from Metacognition in Continuous-Time Multi-Timescale Agents",
@@ -206,7 +239,7 @@
     "date": "2026-04-15",
     "summary": "Self-monitoring capabilities -- metacognition, self-prediction, and subjective duration -- are often proposed as useful additions to reinforcement learning agents. But do they actually help? We invest...",
     "category": "hardware",
-    "id": 22
+    "id": 25
   },
   {
     "title": "GoodPoint: Learning Constructive Scientific Paper Feedback from Author Responses",
@@ -215,7 +248,7 @@
     "date": "2026-04-15",
     "summary": "While LLMs hold significant potential to transform scientific research, we advocate for their use to augment and empower researchers rather than to automate research without human oversight. To this e...",
     "category": "research",
-    "id": 23
+    "id": 26
   },
   {
     "title": "Narrative-Driven Paper-to-Slide Generation via ArcDeck",
@@ -224,7 +257,7 @@
     "date": "2026-04-15",
     "summary": "We introduce ArcDeck, a multi-agent framework that formulates paper-to-slide generation as a structured narrative reconstruction task. Unlike existing methods that directly summarize raw text into sli...",
     "category": "research",
-    "id": 24
+    "id": 27
   },
   {
     "title": "The Long-Horizon Task Mirage? Diagnosing Where and Why Agentic Systems Break",
@@ -233,7 +266,7 @@
     "date": "2026-04-15",
     "summary": "Large language model (LLM) agents perform strongly on short- and mid-horizon tasks, but often break down on long-horizon tasks that require extended, interdependent action sequences. Despite rapid pro...",
     "category": "models",
-    "id": 25
+    "id": 28
   },
   {
     "title": "When to Forget: A Memory Governance Primitive",
@@ -242,7 +275,7 @@
     "date": "2026-04-15",
     "summary": "Agent memory systems accumulate experience but currently lack a principled operational metric for memory quality governance -- deciding which memories to trust, suppress, or deprecate as the agent's t...",
     "category": "hardware",
-    "id": 26
+    "id": 29
   },
   {
     "title": "Identity as Attractor: Geometric Evidence for Persistent Agent Architecture in LLM Activation Space",
@@ -251,7 +284,7 @@
     "date": "2026-04-15",
     "summary": "Large language models map semantically related prompts to similar internal representations -- a phenomenon interpretable as attractor-like dynamics. We ask whether the identity document of a persisten...",
     "category": "models",
-    "id": 27
+    "id": 30
   },
   {
     "title": "A longitudinal health agent framework",
@@ -260,7 +293,7 @@
     "date": "2026-04-15",
     "summary": "Although artificial intelligence (AI) agents are increasingly proposed to support potentially longitudinal health tasks, such as symptom management, behavior change, and patient support, most current ...",
     "category": "research",
-    "id": 28
+    "id": 31
   },
   {
     "title": "WiseOWL: A Methodology for Evaluating Ontological Descriptiveness and Semantic Correctness for Ontology Reuse and Ontology Recommendations",
@@ -269,7 +302,7 @@
     "date": "2026-04-15",
     "summary": "The Semantic Web standardizes concept meaning for humans and machines, enabling machine-operable content and consistent interpretation that improves advanced analytics. Reusing ontologies speeds devel...",
     "category": "research",
-    "id": 29
+    "id": 32
   },
   {
     "title": "Memory as Metabolism: A Design for Companion Knowledge Systems",
@@ -278,7 +311,7 @@
     "date": "2026-04-15",
     "summary": "Retrieval-Augmented Generation remains the dominant pattern for giving LLMs persistent memory, but a visible cluster of personal wiki-style memory architectures emerged in April 2026 -- design proposa...",
     "category": "models",
-    "id": 30
+    "id": 33
   },
   {
     "title": "Mathematics Teachers Interactions with a Multi-Agent System for Personalized Problem Generation",
@@ -287,7 +320,7 @@
     "date": "2026-04-15",
     "summary": "Large language models can increasingly adapt educational tasks to learners characteristics. In the present study, we examine a multi-agent teacher-in-the-loop system for personalizing middle school ma...",
     "category": "models",
-    "id": 31
+    "id": 34
   },
   {
     "title": "Human-Inspired Context-Selective Multimodal Memory for Social Robots",
@@ -296,7 +329,7 @@
     "date": "2026-04-15",
     "summary": "Memory is fundamental to social interaction, enabling humans to recall meaningful past experiences and adapt their behavior accordingly based on the context. However, most current social robots and em...",
     "category": "research",
-    "id": 32
+    "id": 35
   },
   {
     "title": "LLM-HYPER: Generative CTR Modeling for Cold-Start Ad Personalization via LLM-Based Hypernetworks",
@@ -305,7 +338,7 @@
     "date": "2026-04-15",
     "summary": "On online advertising platforms, newly introduced promotional ads face the cold-start problem, as they lack sufficient user feedback for model training. In this work, we propose LLM-HYPER, a novel fra...",
     "category": "models",
-    "id": 33
+    "id": 36
   },
   {
     "title": "Spatial Atlas: Compute-Grounded Reasoning for Spatial-Aware Research Agent Benchmarks",
@@ -314,7 +347,7 @@
     "date": "2026-04-15",
     "summary": "We introduce compute-grounded reasoning (CGR), a design paradigm for spatial-aware research agents in which every answerable sub-problem is resolved by deterministic computation before a language mode...",
     "category": "research",
-    "id": 34
+    "id": 37
   },
   {
     "title": "The A-R Behavioral Space: Execution-Level Profiling of Tool-Using Language Model Agents in Organizational Deployment",
@@ -323,7 +356,7 @@
     "date": "2026-04-15",
     "summary": "Large language models (LLMs) are increasingly deployed as tool-augmented agents capable of executing system-level operations. While existing benchmarks primarily assess textual alignment or task succe...",
     "category": "research",
-    "id": 35
+    "id": 38
   },
   {
     "title": "Long-Horizon Plan Execution in Large Tool Spaces through Entropy-Guided Branching",
@@ -332,7 +365,7 @@
     "date": "2026-04-15",
     "summary": "Large Language Models (LLMs) have significantly advanced tool-augmented agents, enabling autonomous reasoning via API interactions. However, executing multi-step tasks within massive tool libraries re...",
     "category": "research",
-    "id": 36
+    "id": 39
   },
   {
     "title": "Aethon: A Reference-Based Replication Primitive for Constant-Time Instantiation of Stateful AI Agents",
@@ -341,7 +374,7 @@
     "date": "2026-04-15",
     "summary": "The transition from stateless model inference to stateful agentic execution is reshaping the systems assumptions underlying modern AI infrastructure. While large language models have made persistent, ...",
     "category": "tools",
-    "id": 37
+    "id": 40
   },
   {
     "title": "Towards Platonic Representation for Table Reasoning: A Foundation for Permutation-Invariant Retrieval",
@@ -350,7 +383,7 @@
     "date": "2026-04-15",
     "summary": "Historical approaches to Table Representation Learning (TRL) have largely adopted the sequential paradigms of Natural Language Processing (NLP). We argue that this linearization of tables discards the...",
     "category": "research",
-    "id": 38
+    "id": 41
   },
   {
     "title": "Beyond Factual Grounding: The Case for Opinion-Aware Retrieval-Augmented Generation",
@@ -359,7 +392,7 @@
     "date": "2026-04-15",
     "summary": "RAG systems have transformed how LLMs access external knowledge, but we find that current implementations exhibit a bias toward factual, objective content, as evidenced by existing benchmarks and data...",
     "category": "models",
-    "id": 39
+    "id": 42
   },
   {
     "title": "Development, Evaluation, and Deployment of a Multi-Agent System for Thoracic Tumor Board",
@@ -368,7 +401,7 @@
     "date": "2026-04-15",
     "summary": "Tumor boards are multidisciplinary conferences dedicated to producing actionable patient care recommendations with live review of primary radiology and pathology data. Succinct patient case summaries ...",
     "category": "tools",
-    "id": 40
+    "id": 43
   },
   {
     "title": "EMBER: Autonomous Cognitive Behaviour from Learned Spiking Neural Network Dynamics in a Hybrid LLM Architecture",
@@ -377,7 +410,7 @@
     "date": "2026-04-15",
     "summary": "We present (Experience-Modulated Biologically-inspired Emergent Reasoning), a hybrid cognitive architecture that reorganises the relationship between large language models (LLMs) and memory: rather th...",
     "category": "models",
-    "id": 41
+    "id": 44
   },
   {
     "title": "Evaluating Relational Reasoning in LLMs with REL",
@@ -386,7 +419,7 @@
     "date": "2026-04-15",
     "summary": "Relational reasoning is the ability to infer relations that jointly bind multiple entities, attributes, or variables. This ability is central to scientific reasoning, but existing evaluations of relat...",
     "category": "research",
-    "id": 42
+    "id": 45
   },
   {
     "title": "Policy-Invisible Violations in LLM-Based Agents",
@@ -395,7 +428,7 @@
     "date": "2026-04-15",
     "summary": "LLM-based agents can execute actions that are syntactically valid, user-sanctioned, and semantically appropriate, yet still violate organizational policy because the facts needed for correct policy ju...",
     "category": "models",
-    "id": 43
+    "id": 46
   },
   {
     "title": "TRUST Agents: A Collaborative Multi-Agent Framework for Fake News Detection, Explainable Verification, and Logic-Aware Claim Reasoning",
@@ -404,7 +437,7 @@
     "date": "2026-04-15",
     "summary": "TRUST Agents is a collaborative multi-agent framework for explainable fact verification and fake news detection. Rather than treating verification as a simple true-or-false classification task, the sy...",
     "category": "models",
-    "id": 44
+    "id": 47
   },
   {
     "title": "Beyond Scores: Diagnostic LLM Evaluation via Fine-Grained Abilities",
@@ -413,7 +446,7 @@
     "date": "2026-04-15",
     "summary": "Current evaluations of large language models aggregate performance across diverse tasks into single scores. This obscures fine-grained ability variation, limiting targeted model improvement and abilit...",
     "category": "models",
-    "id": 45
+    "id": 48
   },
   {
     "title": "Latent patterns of urban mixing in mobility analysis across five global cities",
@@ -422,7 +455,7 @@
     "date": "2026-04-15",
     "summary": "This study leverages large-scale travel surveys for over 200,000 residents across Boston, Chicago, Hong Kong, London, and Sao Paulo. With rich individual-level data, we make systematic comparisons and...",
     "category": "research",
-    "id": 46
+    "id": 49
   },
   {
     "title": "Beyond Prompt: Fine-grained Simulation of Cognitively Impaired Standardized Patients via Stochastic Steering",
@@ -431,33 +464,6 @@
     "date": "2026-04-15",
     "summary": "Simulating Standardized Patients with cognitive impairment offers a scalable and ethical solution for clinical training. However, existing methods rely on discrete prompt engineering and fail to captu...",
     "category": "models",
-    "id": 47
-  },
-  {
-    "title": "Modality-Native Routing in Agent-to-Agent Networks: A Multimodal A2A Protocol Extension",
-    "url": "https://arxiv.org/abs/2604.12213",
-    "source": "arXiv cs.AI",
-    "date": "2026-04-15",
-    "summary": "Preserving multimodal signals across agent boundaries is necessary for accurate cross-modal reasoning, but it is not sufficient. We show that modality-native routing in Agent-to-Agent (A2A) networks i...",
-    "category": "models",
-    "id": 48
-  },
-  {
-    "title": "Designing Reliable LLM-Assisted Rubric Scoring for Constructed Responses: Evidence from Physics Exams",
-    "url": "https://arxiv.org/abs/2604.12227",
-    "source": "arXiv cs.AI",
-    "date": "2026-04-15",
-    "summary": "Student responses in STEM assessments are often handwritten and combine symbolic expressions, calculations, and diagrams, creating substantial variation in format and interpretation. Despite their imp...",
-    "category": "models",
-    "id": 49
-  },
-  {
-    "title": "HintMR: Eliciting Stronger Mathematical Reasoning in Small Language Models",
-    "url": "https://arxiv.org/abs/2604.12229",
-    "source": "arXiv cs.AI",
-    "date": "2026-04-15",
-    "summary": "Small language models (SLMs) often struggle with complex mathematical reasoning due to limited capacity to maintain long chains of intermediate steps and to recover from early errors. We address this ...",
-    "category": "research",
     "id": 50
   }
 ]
