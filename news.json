@@ -1,14 +1,110 @@
 [
   {
+    "title": "Mozilla Introduces Thunderbolt: Enterprise AI You Control",
+    "url": "https://www.thunderbolt.io/announcing-thunderbolt",
+    "source": "Hacker News",
+    "date": "2026-04-17",
+    "summary": "Article URL: https://www.thunderbolt.io/announcing-thunderbolt Comments URL: https://news.ycombinator.com/item?id=47803413 Points: 1 # Comments: 2",
+    "category": "industry",
+    "image": "https://thunderbolt.io/social.png",
+    "id": 1,
+    "featured": true
+  },
+  {
+    "title": "Can AI agents autonomously design components on photonic chips?",
+    "url": "https://engineering.flexcompute.com/articles/autoresearch-photonic-design/",
+    "source": "Hacker News",
+    "date": "2026-04-17",
+    "summary": "Article URL: https://engineering.flexcompute.com/articles/autoresearch-photonic-design/ Comments URL: https://news.ycombinator.com/item?id=47803381 Points: 1 # Comments: 0",
+    "category": "hardware",
+    "image": "https://engineering.flexcompute.com/images/og/autoresearch-photonic-design.png",
+    "id": 2
+  },
+  {
+    "title": "AI images are being used in insurance scams",
+    "url": "https://www.bbc.com/news/articles/cm2rr9pg4jzo",
+    "source": "Hacker News",
+    "date": "2026-04-17",
+    "summary": "Article URL: https://www.bbc.com/news/articles/cm2rr9pg4jzo Comments URL: https://news.ycombinator.com/item?id=47803265 Points: 1 # Comments: 0",
+    "category": "industry",
+    "image": "https://ichef.bbci.co.uk/news/1024/branded_news/e95f/live/81a67510-3976-11f1-879d-1b2f5c3919b8.png",
+    "id": 3
+  },
+  {
+    "title": "Treating enterprise AI as an operating layer",
+    "url": "https://www.technologyreview.com/2026/04/16/1135554/treating-enterprise-ai-as-an-operating-layer/",
+    "source": "Hacker News",
+    "date": "2026-04-17",
+    "summary": "Article URL: https://www.technologyreview.com/2026/04/16/1135554/treating-enterprise-ai-as-an-operating-layer/ Comments URL: https://news.ycombinator.com/item?id=47803219 Points: 1 # Comments: 0",
+    "category": "industry",
+    "image": "https://wp.technologyreview.com/wp-content/uploads/2026/04/Ensemble-article-iStock-2213998103.jpg?resize=1200,600",
+    "id": 4
+  },
+  {
+    "title": "Ask HN: What are the machine requirements for a LLM like Llama-3.1-8B?",
+    "url": "https://news.ycombinator.com/item?id=47803176",
+    "source": "Hacker News",
+    "date": "2026-04-17",
+    "summary": "I want to create a local GenAI. Tell me the server machine requirements. Or if you can suggest both—The model & a cheap machine requirement against that, it will help a lot. By the way, for now—I have...",
+    "category": "hardware",
+    "id": 5
+  },
+  {
+    "title": "Engram – context spine for AI coding agents, 88% proven token savings",
+    "url": "https://github.com/NickCirv/engram",
+    "source": "Hacker News",
+    "date": "2026-04-17",
+    "summary": "Article URL: https://github.com/NickCirv/engram Comments URL: https://news.ycombinator.com/item?id=47803155 Points: 1 # Comments: 0",
+    "category": "industry",
+    "image": "https://opengraph.githubassets.com/9ba8746e579014eb0dfcc2f92fef6ce0e59d0c2237a474d7f2b719fb8a9ba8d7/NickCirv/engram",
+    "id": 6
+  },
+  {
+    "title": "I'm tired about hearing about AI startups",
+    "url": "https://news.ycombinator.com/item?id=47803078",
+    "source": "Hacker News",
+    "date": "2026-04-17",
+    "summary": "Are there any companies just hiring for real people with real decades' of experience? Comments URL: https://news.ycombinator.com/item?id=47803078 Points: 3 # Comments: 3",
+    "category": "industry",
+    "id": 7
+  },
+  {
+    "title": "Show HN: Agent Armor, a Rust runtime for enforcing policies on AI agent actions",
+    "url": "https://github.com/EdoardoBambini/Agent-Armor-Iaga",
+    "source": "Hacker News",
+    "date": "2026-04-17",
+    "summary": "Article URL: https://github.com/EdoardoBambini/Agent-Armor-Iaga Comments URL: https://news.ycombinator.com/item?id=47802851 Points: 7 # Comments: 5",
+    "category": "industry",
+    "image": "https://opengraph.githubassets.com/71d0f24e4b249f4a72e1203350867dbdd34740904546a1840636e5ccfc186da7/EdoardoBambini/Agent-Armor-Iaga",
+    "id": 8
+  },
+  {
+    "title": "Is AI a tool or are you?",
+    "url": "https://hilariusbookbinder.substack.com/p/is-ai-a-tool-or-are-you",
+    "source": "Hacker News",
+    "date": "2026-04-17",
+    "summary": "Article URL: https://hilariusbookbinder.substack.com/p/is-ai-a-tool-or-are-you Comments URL: https://news.ycombinator.com/item?id=47802831 Points: 3 # Comments: 1",
+    "category": "tools",
+    "id": 9
+  },
+  {
+    "title": "The New Postman Is Here: AI-Native and Built for the Agentic Era",
+    "url": "https://blog.postman.com/new-postman-is-here/",
+    "source": "Hacker News",
+    "date": "2026-04-17",
+    "summary": "Article URL: https://blog.postman.com/new-postman-is-here/ Comments URL: https://news.ycombinator.com/item?id=47802717 Points: 1 # Comments: 0",
+    "category": "industry",
+    "id": 10
+  },
+  {
     "title": "Finance ministers and top bankers raise serious concerns about Mythos AI model",
     "url": "https://www.bbc.com/news/articles/c2ev24yx4rmo",
     "source": "Hacker News",
     "date": "2026-04-17",
-    "summary": "Article URL: https://www.bbc.com/news/articles/c2ev24yx4rmo Comments URL: https://news.ycombinator.com/item?id=47802556 Points: 1 # Comments: 0",
+    "summary": "Article URL: https://www.bbc.com/news/articles/c2ev24yx4rmo Comments URL: https://news.ycombinator.com/item?id=47802556 Points: 3 # Comments: 0",
     "category": "industry",
     "image": "https://ichef.bbci.co.uk/news/1024/branded_news/b221/live/21c28ea0-39f7-11f1-8766-4f833ac4b548.jpg",
-    "id": 1,
-    "featured": true
+    "id": 11
   },
   {
     "title": "The $10B Startup Training AI to Replace the White-Collar Workforce",
@@ -17,8 +113,7 @@
     "date": "2026-04-17",
     "summary": "Article URL: https://www.bloomberg.com/news/features/2026-04-16/ai-company-hiring-on-linkedin-wants-to-train-your-replacement-at-work Comments URL: https://news.ycombinator.com/item?id=47802533 Points...",
     "category": "industry",
-    "image": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/i9Kwn3sTZ3bY/v0/1200x630.jpg",
-    "id": 2
+    "id": 12
   },
   {
     "title": "AI boom is city's weirdest tech boom, says S.F.'s chief economist",
@@ -28,16 +123,16 @@
     "summary": "Article URL: https://missionlocal.org/2026/04/ai-boom-controller-economist-egan-wagner/ Comments URL: https://news.ycombinator.com/item?id=47802501 Points: 2 # Comments: 0",
     "category": "industry",
     "image": "https://newspack-missionlocal.s3.amazonaws.com/mission/wp-content/uploads/2026/04/042026_ZM_TedEganGregWagner-3-scaled.jpg",
-    "id": 3
+    "id": 13
   },
   {
     "title": "Poisoning AI Training Data",
     "url": "https://www.schneier.com/blog/archives/2026/02/poisoning-ai-training-data.html",
     "source": "Hacker News",
     "date": "2026-04-17",
-    "summary": "Article URL: https://www.schneier.com/blog/archives/2026/02/poisoning-ai-training-data.html Comments URL: https://news.ycombinator.com/item?id=47802271 Points: 2 # Comments: 0",
+    "summary": "Article URL: https://www.schneier.com/blog/archives/2026/02/poisoning-ai-training-data.html Comments URL: https://news.ycombinator.com/item?id=47802271 Points: 2 # Comments: 1",
     "category": "industry",
-    "id": 4
+    "id": 14
   },
   {
     "title": "Taiwan Market Cap Tops $4T on AI Boom, Overtaking UK",
@@ -46,8 +141,7 @@
     "date": "2026-04-17",
     "summary": "Article URL: https://www.bloomberg.com/news/articles/2026-04-16/ai-driven-demand-pushes-taiwan-s-market-cap-ahead-of-the-uk Comments URL: https://news.ycombinator.com/item?id=47802232 Points: 3 # Comm...",
     "category": "industry",
-    "image": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iAx93ZOnnrcE/v0/1200x800.jpg",
-    "id": 5
+    "id": 15
   },
   {
     "title": "Show HN: Ask your AI to start a business for you, resolved.sh",
@@ -57,7 +151,7 @@
     "summary": "Start with a FREE instant website for your AI on the open internet, then work with it to build a business that sells specialized datasets, files, premium reports, blogs, courses and more. Comments URL...",
     "category": "industry",
     "image": "https://resolved.sh/og/resolved.sh.png",
-    "id": 6
+    "id": 16
   },
   {
     "title": "AST and LLM Navigation Tool",
@@ -66,7 +160,7 @@
     "date": "2026-04-17",
     "summary": "Article URL: https://analect.dev/ Comments URL: https://news.ycombinator.com/item?id=47802113 Points: 1 # Comments: 0",
     "category": "models",
-    "id": 7
+    "id": 17
   },
   {
     "title": "Realistic AI Avatars",
@@ -76,7 +170,7 @@
     "summary": "Article URL: https://percify.io Comments URL: https://news.ycombinator.com/item?id=47802110 Points: 1 # Comments: 0",
     "category": "industry",
     "image": "https://percify.io/social_banner.png",
-    "id": 8
+    "id": 18
   },
   {
     "title": "LLM inference infrastructure for a systems audience",
@@ -85,111 +179,16 @@
     "date": "2026-04-17",
     "summary": "Article URL: https://blog.mihirnanavati.com Comments URL: https://news.ycombinator.com/item?id=47802066 Points: 1 # Comments: 0",
     "category": "models",
-    "id": 9
+    "id": 19
   },
   {
     "title": "Show HN: Hailuo 3.0 AI – AI Video Generator",
     "url": "https://hailuo30.net",
     "source": "Hacker News",
     "date": "2026-04-17",
-    "summary": "Article URL: https://hailuo30.net Comments URL: https://news.ycombinator.com/item?id=47802008 Points: 1 # Comments: 0",
+    "summary": "Article URL: https://hailuo30.net Comments URL: https://news.ycombinator.com/item?id=47802008 Points: 2 # Comments: 0",
     "category": "industry",
     "image": "https://hailuo30.net/og-image.webp",
-    "id": 10
-  },
-  {
-    "title": "How AI changed your daily work at office?",
-    "url": "https://news.ycombinator.com/item?id=47801978",
-    "source": "Hacker News",
-    "date": "2026-04-17",
-    "summary": "I would like to know from folks whose companies are using AI (or started recently using AI), in what ways your daily work changed? Did it become easier or challenging, or boring? Has the quality of th...",
-    "category": "industry",
-    "id": 11
-  },
-  {
-    "title": "Show HN: A collection of GPT-IMAGE-2 prompts from X(Twitter)",
-    "url": "https://gptimage2.one/awesome-gpt-image-2-prompts",
-    "source": "Hacker News",
-    "date": "2026-04-17",
-    "summary": "A living collection of real prompts shared by creators on Twitter, covering data viz, portraits, product design, and more.Links back to original tweets. Comments URL: https://news.ycombinator.com/item...",
-    "category": "models",
-    "id": 12
-  },
-  {
-    "title": "I built 7 AI agents that attack the same task in parallel – armyai.app",
-    "url": "https://armyai.app",
-    "source": "Hacker News",
-    "date": "2026-04-17",
-    "summary": "Article URL: https://armyai.app Comments URL: https://news.ycombinator.com/item?id=47801793 Points: 1 # Comments: 0",
-    "category": "industry",
-    "image": "https://armyai.app/og-image.png",
-    "id": 13
-  },
-  {
-    "title": "I built an AI that analyzes rental leases before you sign",
-    "url": "https://goleazly.com/",
-    "source": "Hacker News",
-    "date": "2026-04-17",
-    "summary": "Article URL: https://goleazly.com/ Comments URL: https://news.ycombinator.com/item?id=47801738 Points: 3 # Comments: 0",
-    "category": "industry",
-    "image": "https://www.goleazly.com/og-cover.png?v=2",
-    "id": 14
-  },
-  {
-    "title": "Google Opens Personal Intelligence AI to All US Users",
-    "url": "https://www.heygotrade.com/en/news/google-ai-expansion-challenges-microsoft-apple/",
-    "source": "Hacker News",
-    "date": "2026-04-17",
-    "summary": "Article URL: https://www.heygotrade.com/en/news/google-ai-expansion-challenges-microsoft-apple/ Comments URL: https://news.ycombinator.com/item?id=47801628 Points: 1 # Comments: 0",
-    "category": "hardware",
-    "image": "https://files-tr8.s3.ap-southeast-1.amazonaws.com/blog-posts/691b558d7e903c4c67d0baa9/feature-images/69b98d73dbf5b-feature-image.jpg",
-    "id": 15
-  },
-  {
-    "title": "AI companies are buying the Slack data of failed startups",
-    "url": "https://twitter.com/_iainmartin/status/2044758204773486925",
-    "source": "Hacker News",
-    "date": "2026-04-17",
-    "summary": "Article URL: https://twitter.com/_iainmartin/status/2044758204773486925 Comments URL: https://news.ycombinator.com/item?id=47801494 Points: 17 # Comments: 3",
-    "category": "industry",
-    "id": 16
-  },
-  {
-    "title": "DARPA builds AI to investigate China's claim it can break military encryption",
-    "url": "https://www.scientificamerican.com/article/darpa-built-an-ai-to-fact-check-enemy-weapons-claims/",
-    "source": "Hacker News",
-    "date": "2026-04-17",
-    "summary": "Article URL: https://www.scientificamerican.com/article/darpa-built-an-ai-to-fact-check-enemy-weapons-claims/ Comments URL: https://news.ycombinator.com/item?id=47801478 Points: 2 # Comments: 0",
-    "category": "industry",
-    "image": "https://static.scientificamerican.com/dam/asset/2cdfd82a-8097-4fab-b84d-2ecd002655cf/saw0526SoW01.jpg?m=1775491728.789&w=1200",
-    "id": 17
-  },
-  {
-    "title": "The Patchwright – AI Assisted Short Film",
-    "url": "https://www.youtube.com/watch?v=-Rzl7nUdEs4",
-    "source": "Hacker News",
-    "date": "2026-04-17",
-    "summary": "Article URL: https://www.youtube.com/watch?v=-Rzl7nUdEs4 Comments URL: https://news.ycombinator.com/item?id=47801447 Points: 1 # Comments: 0",
-    "category": "industry",
-    "id": 18
-  },
-  {
-    "title": "The tech jobs bust is real. Don't blame AI (yet)",
-    "url": "https://www.economist.com/finance-and-economics/2026/04/13/the-tech-jobs-bust-is-real-dont-blame-ai-yet",
-    "source": "Hacker News",
-    "date": "2026-04-17",
-    "summary": "Article URL: https://www.economist.com/finance-and-economics/2026/04/13/the-tech-jobs-bust-is-real-dont-blame-ai-yet Comments URL: https://news.ycombinator.com/item?id=47801433 Points: 1 # Comments: 1",
-    "category": "industry",
-    "id": 19
-  },
-  {
-    "title": "Server Nexe – Modular, local AI server with persistent memory, zero cloud",
-    "url": "https://github.com/jgoy-labs/server-nexe",
-    "source": "Hacker News",
-    "date": "2026-04-17",
-    "summary": "Article URL: https://github.com/jgoy-labs/server-nexe Comments URL: https://news.ycombinator.com/item?id=47801189 Points: 1 # Comments: 0",
-    "category": "hardware",
-    "image": "https://opengraph.githubassets.com/b4f6e81487d0324e577ba24e32aa7f503c0e2fff520044ccb19c188b51e1a0fd/jgoy-labs/server-nexe",
     "id": 20
   },
   {
