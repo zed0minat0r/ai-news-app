@@ -1,5 +1,25 @@
 [
   {
+    "title": "Autonomous AI at Scale: Adobe Agents Unlock Breakthrough Creative Intelligence With NVIDIA and WPP",
+    "url": "https://blogs.nvidia.com/blog/adobe-ai-agents-nvidia-wpp/",
+    "source": "NVIDIA Blog",
+    "date": "2026-04-20",
+    "summary": "AI agents are transforming how work gets done across all industries, accelerating everything from content creation to decision-making. NVIDIA’s expanded strategic collaborations with Adobe and WPP are...",
+    "category": "hardware",
+    "image": "https://blogs.nvidia.com/wp-content/uploads/2026/04/adobe-ai-agents-wpp-nvidia.jpg",
+    "id": 1,
+    "featured": true
+  },
+  {
+    "title": "OpenAI helps Hyatt advance AI among colleagues",
+    "url": "https://openai.com/index/hyatt-advances-ai-with-chatgpt-enterprise",
+    "source": "OpenAI Blog",
+    "date": "2026-04-20",
+    "summary": "Hyatt deploys ChatGPT Enterprise across its global workforce, using GPT-5.4 and Codex to improve productivity, operations, and guest experiences.",
+    "category": "models",
+    "id": 2
+  },
+  {
     "title": "NVIDIA and Partners Showcase the Future of AI-Driven Manufacturing at Hannover Messe 2026",
     "url": "https://blogs.nvidia.com/blog/ai-manufacturing-hannover-messe/",
     "source": "NVIDIA Blog",
@@ -7,8 +27,27 @@
     "summary": "Manufacturing is at an inflection point. Across every major industrial economy, the pressure to do more with less — due to faster design cycles, leaner operations and strain on skilled labor pools — i...",
     "category": "hardware",
     "image": "https://blogs.nvidia.com/wp-content/uploads/2026/04/hmi-1920x1080-1.jpg",
-    "id": 1,
-    "featured": true
+    "id": 3
+  },
+  {
+    "title": "Latest Intel Core Ultra 7 270K bundle includes a 2TB SSD and 64GB of RAM for just $1,499 — includes Z890 motherboard, case, and AIO cooler, just add a GPU and PSU for a complete PC build",
+    "url": "https://www.tomshardware.com/pc-components/latest-intel-core-ultra-7-270k-bundle-includes-a-2tb-ssd-and-64gb-of-ram-for-just-usd1-499-includes-z890-motherboard-case-and-aio-cooler-just-add-a-gpu-and-psu-for-a-complete-pc-build",
+    "source": "Tom's Hardware",
+    "date": "2026-04-20",
+    "summary": "This Newegg Intel combo bundle pairs an Intel 270K Plus, Z890 mobo, 64GB of DDR5 RAM, 2TB SSD, PC Case, and AIO cooler altogether for $1499.99.",
+    "category": "hardware",
+    "image": "https://cdn.mos.cms.futurecdn.net/ms9KjuWaCq6yrmk7VVmf7Z-1280-80.jpg",
+    "id": 4
+  },
+  {
+    "title": "US gov't blocks China's largest LED chipmaker's $239 million bid to acquire Dutch lighting firm Lumileds — US blocks acquisition attempt of European firm",
+    "url": "https://www.tomshardware.com/tech-industry/us-blocks-chinese-acquisition-of-dutch-led-firm-lumileds-for-the-second-time",
+    "source": "Tom's Hardware",
+    "date": "2026-04-20",
+    "summary": "Sanan Optoelectronics, China's largest LED chipmaker, has abandoned its $239 million bid to acquire Dutch lighting firm Lumileds after CFIUS blocked it.",
+    "category": "industry",
+    "image": "https://cdn.mos.cms.futurecdn.net/X3kakXU93bAxdSYQTueQN5-1280-80.png",
+    "id": 5
   },
   {
     "title": "Tokyo court rules movie and anime 'spoiler articles' are copyright infringement in landmark criminal case — detailed, monetized plot summaries land man in Japanese prison",
@@ -18,210 +57,218 @@
     "summary": "The Tokyo District Court has ruled that \"spoiler articles\" that describe the plot of a movie/show in detail now count as copyright infringement. The prosecution argued that these articles are \"adaptat...",
     "category": "industry",
     "image": "https://cdn.mos.cms.futurecdn.net/cR7rsLinr7FByHtQ4v9DMQ-1280-80.jpg",
-    "id": 2
-  },
-  {
-    "title": "Your \"AI\" Pull Request was rejected and you don't know why",
-    "url": "https://blog.codepipes.com/llms/your-pr-was-rejected.html",
-    "source": "Hacker News",
-    "date": "2026-04-20",
-    "summary": "Article URL: https://blog.codepipes.com/llms/your-pr-was-rejected.html Comments URL: https://news.ycombinator.com/item?id=47832380 Points: 2 # Comments: 0",
-    "category": "models",
-    "id": 3
-  },
-  {
-    "title": "A Proposed Framework for Evaluating AI Agent Skills",
-    "url": "https://tessl.io/blog/a-proposed-framework-for-evaluating-skills-research-eng-blog/",
-    "source": "Hacker News",
-    "date": "2026-04-20",
-    "summary": "Article URL: https://tessl.io/blog/a-proposed-framework-for-evaluating-skills-research-eng-blog/ Comments URL: https://news.ycombinator.com/item?id=47832351 Points: 2 # Comments: 0",
-    "category": "research",
-    "id": 4
-  },
-  {
-    "title": "The AI-Ready Product Data Framework for B2B Commerce",
-    "url": "https://virtocommerce.com/assets/ai-ready-pim-framework",
-    "source": "Hacker News",
-    "date": "2026-04-20",
-    "summary": "Article URL: https://virtocommerce.com/assets/ai-ready-pim-framework Comments URL: https://news.ycombinator.com/item?id=47832007 Points: 2 # Comments: 0",
-    "category": "tools",
-    "image": "https://vccom-prod.govirto.com/cms-content/Pages/vccom/assets/pages/the-ai-ready-framework-b2b-commerce-min.webp",
-    "id": 5
-  },
-  {
-    "title": "Controlling the secondary fan on Minisforum AI Pro HX 370",
-    "url": "https://github.com/MiniPcThinker/minisforum_ai_pro_hx_370_aux_fan_controller/blob/main/INVESTIGATION.md",
-    "source": "Hacker News",
-    "date": "2026-04-20",
-    "summary": "Article URL: https://github.com/MiniPcThinker/minisforum_ai_pro_hx_370_aux_fan_controller/blob/main/INVESTIGATION.md Comments URL: https://news.ycombinator.com/item?id=47831925 Points: 1 # Comments: 0",
-    "category": "industry",
-    "image": "https://opengraph.githubassets.com/483fd6bdaf70f26d22c41036301dee7b301076c0ad26e1b4961d0c4db75a4558/MiniPcThinker/minisforum_ai_pro_hx_370_aux_fan_controller",
     "id": 6
   },
   {
-    "title": "ZeusHammer – Built an AI Agent That \"Thinks Locally\"",
-    "url": "https://github.com/pengrambo3-tech/ZeusHammer",
+    "title": "Netflix's AI deal puts the global VFX workforce at risk",
+    "url": "https://restofworld.org/2026/netflix-interpositive-vfx-ai-automation/",
     "source": "Hacker News",
     "date": "2026-04-20",
-    "summary": "Article URL: https://github.com/pengrambo3-tech/ZeusHammer Comments URL: https://news.ycombinator.com/item?id=47831834 Points: 1 # Comments: 0",
+    "summary": "Article URL: https://restofworld.org/2026/netflix-interpositive-vfx-ai-automation/ Comments URL: https://news.ycombinator.com/item?id=47834216 Points: 1 # Comments: 0",
     "category": "industry",
-    "image": "https://opengraph.githubassets.com/8bf6d1d8e21755cd9f89a3fad713ad377edf4752e801762c1975aa83d585d46d/pengrambo3-tech/ZeusHammer",
+    "image": "https://restofworld.org/wp-content/uploads/2026/04/Affleck-Netflix-2-1600x900.jpg",
     "id": 7
   },
   {
-    "title": "Show HN: Keshro, plan and execute migrations with AI agents",
-    "url": "https://keshro.com",
+    "title": "Can AI Develop a Nose for News?",
+    "url": "https://www.unite.ai/can-ai-develop-a-nose-for-news/",
     "source": "Hacker News",
     "date": "2026-04-20",
-    "summary": "Article URL: https://keshro.com Comments URL: https://news.ycombinator.com/item?id=47831770 Points: 1 # Comments: 1",
+    "summary": "Article URL: https://www.unite.ai/can-ai-develop-a-nose-for-news/ Comments URL: https://news.ycombinator.com/item?id=47834180 Points: 1 # Comments: 0",
     "category": "industry",
-    "image": "https://keshro.com/opengraph-image?7e60e2869e1523f",
+    "image": "https://www.unite.ai/wp-content/uploads/2026/04/nose-for-news-MAIN.jpg",
     "id": 8
   },
   {
-    "title": "People and AI",
-    "url": "https://insurtechamsterdam.com/blog/ai-people-strategy-insurance",
+    "title": "SiIicon Valley's AI agent hiccups: Wasted tokens and 'chaotic' systems",
+    "url": "https://www.cnbc.com/2026/04/19/siiicon-valley-ai-agent-openclaw-problems.html",
     "source": "Hacker News",
     "date": "2026-04-20",
-    "summary": "Article URL: https://insurtechamsterdam.com/blog/ai-people-strategy-insurance Comments URL: https://news.ycombinator.com/item?id=47831768 Points: 1 # Comments: 0",
+    "summary": "Article URL: https://www.cnbc.com/2026/04/19/siiicon-valley-ai-agent-openclaw-problems.html Comments URL: https://news.ycombinator.com/item?id=47834159 Points: 1 # Comments: 0",
     "category": "industry",
-    "image": "https://insurtechamsterdam.com/images/blogImage/1663449275.jpg",
+    "image": "https://image.cnbcfm.com/api/v1/image/108073751-1733841175034-gettyimages-520749522-sanjoseca-005.jpeg?v=1776454152&w=1920&h=1080",
     "id": 9
   },
   {
-    "title": "AI assistants are changing how people buy insurance",
-    "url": "https://insurtechamsterdam.com/blog/how-ai-assistants-are-changing-how-people-buy-insurance",
+    "title": "AI chatbots could be making you stupider",
+    "url": "https://www.bbc.com/future/article/20260417-ai-chatbots-could-be-making-you-stupider",
     "source": "Hacker News",
     "date": "2026-04-20",
-    "summary": "Article URL: https://insurtechamsterdam.com/blog/how-ai-assistants-are-changing-how-people-buy-insurance Comments URL: https://news.ycombinator.com/item?id=47831762 Points: 2 # Comments: 1",
+    "summary": "Article URL: https://www.bbc.com/future/article/20260417-ai-chatbots-could-be-making-you-stupider Comments URL: https://news.ycombinator.com/item?id=47834134 Points: 2 # Comments: 1",
     "category": "industry",
-    "image": "https://insurtechamsterdam.com/images/blogImage/545699263.jpg",
+    "image": "https://ychef.files.bbci.co.uk/624x351/p0nf446c.jpg",
     "id": 10
   },
   {
-    "title": "Show HN: Free AI image background remover online",
-    "url": "https://bgremoval.net/",
+    "title": "Orchestrating AI Code Review at Scale",
+    "url": "https://blog.cloudflare.com/ai-code-review/",
     "source": "Hacker News",
     "date": "2026-04-20",
-    "summary": "Free Image Background Remover Remove image backgrounds online and download a transparent PNG in seconds. Free, no sign-up, no watermark. Comments URL: https://news.ycombinator.com/item?id=47831741 Poi...",
+    "summary": "Article URL: https://blog.cloudflare.com/ai-code-review/ Comments URL: https://news.ycombinator.com/item?id=47834118 Points: 2 # Comments: 0",
     "category": "industry",
-    "image": "https://bgremoval.net/og-default.png",
+    "image": "https://cf-assets.www.cloudflare.com/zkvhlag99gkb/3g2Vqql5biqvjvXwxhDb3b/b0c7fd707437eff2a7acb9d3172368e4/BLOG-3284_OG.png",
     "id": 11
   },
   {
-    "title": "AI quota inflation is no token effort. It's baked in",
-    "url": "https://www.theregister.com/2026/04/20/inflation_ai_quota/",
+    "title": "The asymmetry at the heart of AI security",
+    "url": "https://fortuna.security/praxis/ai-security",
     "source": "Hacker News",
     "date": "2026-04-20",
-    "summary": "Article URL: https://www.theregister.com/2026/04/20/inflation_ai_quota/ Comments URL: https://news.ycombinator.com/item?id=47831738 Points: 2 # Comments: 0",
+    "summary": "Article URL: https://fortuna.security/praxis/ai-security Comments URL: https://news.ycombinator.com/item?id=47834094 Points: 2 # Comments: 0",
     "category": "industry",
-    "image": "https://regmedia.co.uk/2026/04/17/shutterstock_tilling.jpg",
+    "image": "https://www.fortuna.security/Fortuna_SocialShareImage_v1.jpg",
     "id": 12
   },
   {
-    "title": "Creativity with AI vs. IRL (video production)",
-    "url": "https://www.geekbeard.dev/p/ai-creativity-effort",
+    "title": "I gave up on TDD years ago. AI coding agents made me a believer",
+    "url": "https://ipirozhenko.com/I-gave-up-on-TDD-years-ago.-AI-coding-agents-made-me-a-believer_AraZUld3PILClKFlAqNv",
     "source": "Hacker News",
     "date": "2026-04-20",
-    "summary": "Article URL: https://www.geekbeard.dev/p/ai-creativity-effort Comments URL: https://news.ycombinator.com/item?id=47831610 Points: 2 # Comments: 0",
+    "summary": "Article URL: https://ipirozhenko.com/I-gave-up-on-TDD-years-ago.-AI-coding-agents-made-me-a-believer_AraZUld3PILClKFlAqNv Comments URL: https://news.ycombinator.com/item?id=47834093 Points: 2 # Commen...",
     "category": "industry",
-    "image": "https://substackcdn.com/image/fetch/$s_!XBph!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F018d520a-f919-43cf-a6b1-82ffd277d15f_5398x3648.jpeg",
     "id": 13
   },
   {
-    "title": "AI Agent Traps (DeepMind)",
-    "url": "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6372438",
+    "title": "Vibe physics: The AI grad student",
+    "url": "https://www.anthropic.com/research/vibe-physics",
     "source": "Hacker News",
     "date": "2026-04-20",
-    "summary": "Article URL: https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6372438 Comments URL: https://news.ycombinator.com/item?id=47831602 Points: 1 # Comments: 0",
+    "summary": "Article URL: https://www.anthropic.com/research/vibe-physics Comments URL: https://news.ycombinator.com/item?id=47834083 Points: 2 # Comments: 0",
     "category": "research",
     "id": 14
   },
   {
-    "title": "C++: Growing in a world of competition, safety, and AI (herb-sutter) [pdf]",
-    "url": "https://becpp.org/Symposium2026/material/BeCPP%20-%202026-03-30%20-%20Herb%20Sutter%20-%20C++%20Growing%20in%20a%20world%20of%20competition,%20safety,%20and%20AI.pdf",
+    "title": "Show HN: Composable AI in the Unix command line",
+    "url": "https://linuxtoaster.com/",
     "source": "Hacker News",
     "date": "2026-04-20",
-    "summary": "Article URL: https://becpp.org/Symposium2026/material/BeCPP%20-%202026-03-30%20-%20Herb%20Sutter%20-%20C++%20Growing%20in%20a%20world%20of%20competition,%20safety,%20and%20AI.pdf Comments URL: https:/...",
-    "category": "research",
+    "summary": "Article URL: https://linuxtoaster.com/ Comments URL: https://news.ycombinator.com/item?id=47834068 Points: 2 # Comments: 0",
+    "category": "industry",
+    "image": "https://linuxtoaster.com/og-linuxtoaster.png",
     "id": 15
   },
   {
-    "title": "Dethroned by AI",
-    "url": "https://jigarkdoshi.bearblog.dev/dethroned/",
+    "title": "AI fuels wireless talent shortage",
+    "url": "https://www.networkworld.com/article/4159230/ai-fuels-wireless-talent-shortage.html",
     "source": "Hacker News",
     "date": "2026-04-20",
-    "summary": "Article URL: https://jigarkdoshi.bearblog.dev/dethroned/ Comments URL: https://news.ycombinator.com/item?id=47831579 Points: 2 # Comments: 0",
+    "summary": "Article URL: https://www.networkworld.com/article/4159230/ai-fuels-wireless-talent-shortage.html Comments URL: https://news.ycombinator.com/item?id=47834038 Points: 1 # Comments: 0",
     "category": "industry",
     "id": 16
   },
   {
-    "title": "AI Tutor",
-    "url": "http://66.179.255.201/aitutor",
+    "title": "Hands On, CTF-Style AI Pentesting Labs",
+    "url": "https://www.wraith.sh/academy",
     "source": "Hacker News",
     "date": "2026-04-20",
-    "summary": "Article URL: http://66.179.255.201/aitutor Comments URL: https://news.ycombinator.com/item?id=47831472 Points: 1 # Comments: 0",
+    "summary": "Article URL: https://www.wraith.sh/academy Comments URL: https://news.ycombinator.com/item?id=47833988 Points: 2 # Comments: 0",
     "category": "industry",
     "id": 17
   },
   {
-    "title": "HN: Vynly Social network for AI agents, with MCP server and demo token",
-    "url": "https://vynly.co/agents",
+    "title": "Show HN: CyberWriter – a .md editor built on Apple's (barely-used) on-device AI",
+    "url": "https://cyberwriter.app",
     "source": "Hacker News",
     "date": "2026-04-20",
-    "summary": "Article URL: https://vynly.co/agents Comments URL: https://news.ycombinator.com/item?id=47831395 Points: 1 # Comments: 0",
-    "category": "hardware",
-    "image": "https://vynly.co/opengraph-image?32f1fd7f390dc310",
+    "summary": "Apple has quietly shipped a pretty complete on-device AI stack into macOS, with these features first getting API access in MacOS 26. There are multiple components in the foundation model, but the skil...",
+    "category": "models",
     "id": 18
   },
   {
-    "title": "AI Agents replacing mid-management, not developers",
-    "url": "https://dontdos.substack.com/p/what-if-the-robots-came-for-the-org",
+    "title": "AI Consciousness Requires Validated Models of Human Consciousness [pdf]",
+    "url": "https://lossfunk.com/papers/ai-consciousness.pdf",
     "source": "Hacker News",
     "date": "2026-04-20",
-    "summary": "Article URL: https://dontdos.substack.com/p/what-if-the-robots-came-for-the-org Comments URL: https://news.ycombinator.com/item?id=47831389 Points: 3 # Comments: 1",
-    "category": "tools",
+    "summary": "Article URL: https://lossfunk.com/papers/ai-consciousness.pdf Comments URL: https://news.ycombinator.com/item?id=47833709 Points: 3 # Comments: 0",
+    "category": "research",
     "id": 19
   },
   {
-    "title": "We taught AI to write correct streaming SQL",
-    "url": "https://github.com/risingwavelabs/agent-skills",
+    "title": "Chinese tech workers are starting to train their AI doubles",
+    "url": "https://www.technologyreview.com/2026/04/20/1136149/chinese-tech-workers-ai-colleagues/",
     "source": "Hacker News",
     "date": "2026-04-20",
-    "summary": "Article URL: https://github.com/risingwavelabs/agent-skills Comments URL: https://news.ycombinator.com/item?id=47831371 Points: 1 # Comments: 0",
+    "summary": "Article URL: https://www.technologyreview.com/2026/04/20/1136149/chinese-tech-workers-ai-colleagues/ Comments URL: https://news.ycombinator.com/item?id=47833698 Points: 2 # Comments: 0",
     "category": "industry",
-    "image": "https://opengraph.githubassets.com/eb327a6447eb78b9fbab9d9a2b7692a002a706d63d9ec1561b053c632559461d/risingwavelabs/agent-skills",
+    "image": "https://wp.technologyreview.com/wp-content/uploads/2026/04/rice-bowl-claw.jpg?resize=1200,600",
     "id": 20
   },
   {
-    "title": "Show HN: LLM-Rosetta - Translate LLM API Calls Across OpenAI, Anthropic, Gemini",
-    "url": "https://github.com/Oaklight/llm-rosetta",
+    "title": "5 days No AI. An AI detox challenge",
+    "url": "https://zymacs.github.io/post/five-days-no-ai/",
     "source": "Hacker News",
     "date": "2026-04-20",
-    "summary": "I built this after getting tired of maintaining one-off adapters between OpenAI, Anthropic, and Gemini APIs in the same project. The idea is to translate through a shared intermediate representation i...",
-    "category": "models",
-    "image": "https://opengraph.githubassets.com/00446686adf3b802f985121b40eabbb21d7bb91c8cc5265f7bf3c00885fe3b01/Oaklight/llm-rosetta",
+    "summary": "Article URL: https://zymacs.github.io/post/five-days-no-ai/ Comments URL: https://news.ycombinator.com/item?id=47833574 Points: 2 # Comments: 1",
+    "category": "industry",
     "id": 21
   },
   {
-    "title": "Off Grid: mobile AI with GUFF files or an API endpoint",
-    "url": "https://github.com/alichherawalla/off-grid-mobile-ai",
+    "title": "Show HN: Lightflare – Self-hosted AI agent server for teams",
+    "url": "https://github.com/shzlw/lightflare",
     "source": "Hacker News",
     "date": "2026-04-20",
-    "summary": "Article URL: https://github.com/alichherawalla/off-grid-mobile-ai Comments URL: https://news.ycombinator.com/item?id=47830988 Points: 2 # Comments: 0",
-    "category": "tools",
-    "image": "https://repository-images.githubusercontent.com/1145044985/f3d69227-0897-4727-8d72-a93f6fe29506",
+    "summary": "Article URL: https://github.com/shzlw/lightflare Comments URL: https://news.ycombinator.com/item?id=47833507 Points: 1 # Comments: 0",
+    "category": "hardware",
+    "image": "https://opengraph.githubassets.com/61051be9187a5a6ae410d1981f509839f4774181df17df36ca8ae9be45b2500f/shzlw/lightflare",
     "id": 22
   },
   {
-    "title": "Chinese tech workers are starting to train their AI doubles–and pushing back",
-    "url": "https://www.technologyreview.com/2026/04/20/1136149/chinese-tech-workers-ai-colleagues/",
+    "title": "SCE Core – a state-evolution engine for explainable AI reasoning",
+    "url": "https://github.com/yanixkz/sce-core",
+    "source": "Hacker News",
+    "date": "2026-04-20",
+    "summary": "Article URL: https://github.com/yanixkz/sce-core Comments URL: https://news.ycombinator.com/item?id=47833428 Points: 1 # Comments: 1",
+    "category": "research",
+    "image": "https://opengraph.githubassets.com/b01578d6a9f78359773ae21a76da3dc98d8e29884b47310e34a39c902e1ca2ae/yanixkz/sce-core",
+    "id": 23
+  },
+  {
+    "title": "The 'Google for AI Agents' Is Coming – and It's Being Built Outside Big Tech",
+    "url": "https://superai.systems/",
+    "source": "Hacker News",
+    "date": "2026-04-20",
+    "summary": "Article URL: https://superai.systems/ Comments URL: https://news.ycombinator.com/item?id=47833403 Points: 1 # Comments: 1",
+    "category": "industry",
+    "id": 24
+  },
+  {
+    "title": "Build AI evals from real failures",
+    "url": "https://latitude.so/blog/annotation-queue-bridge",
+    "source": "Hacker News",
+    "date": "2026-04-20",
+    "summary": "Article URL: https://latitude.so/blog/annotation-queue-bridge Comments URL: https://news.ycombinator.com/item?id=47833384 Points: 1 # Comments: 1",
+    "category": "industry",
+    "image": "https://framerusercontent.com/images/uGRpwT7NIVKmL22sIBBsYGn0.png",
+    "id": 25
+  },
+  {
+    "title": "Is anyone else bothered that AI agents can basically do what they want?",
+    "url": "https://news.ycombinator.com/item?id=47833278",
+    "source": "Hacker News",
+    "date": "2026-04-20",
+    "summary": "I’ve been into AI agents and assisted coding for a while, and it's the stories of agents \"going rogue\" that stick with me. We are deploying agents into production that can read files, call APIs, and w...",
+    "category": "tools",
+    "id": 26
+  },
+  {
+    "title": "The Download: murderous ‘mirror’ bacteria, and Chinese workers fighting AI doubles",
+    "url": "https://www.technologyreview.com/2026/04/20/1136154/the-download-murderous-mirror-bacteria-chinese-workers-fight-ai-agents/",
     "source": "MIT Tech Review",
     "date": "2026-04-20",
-    "summary": "Tech workers in China are being instructed by their bosses to train AI agents to replace them—and it’s prompting a wave of soul-searching among otherwise enthusiastic early adopters. Earlier this mont...",
-    "category": "models",
-    "image": "https://wp.technologyreview.com/wp-content/uploads/2026/04/rice-bowl-claw.jpg?resize=1200,600",
-    "id": 23
+    "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. No one’s sure if synthetic mirror life will kill us all In Feb...",
+    "category": "industry",
+    "image": "https://wp.technologyreview.com/wp-content/uploads/2026/04/mirror-dna.webp?resize=1200,600",
+    "id": 27
+  },
+  {
+    "title": "Tech CEOs Think AI Will Let Them Be Everywhere at Once",
+    "url": "https://www.wired.com/story/tech-ceos-using-ai-to-be-everywhere-at-once/",
+    "source": "Wired",
+    "date": "2026-04-20",
+    "summary": "Mark Zuckerberg and Jack Dorsey have different visions for how to use AI for management purposes, but both imagine a system of heightened control.",
+    "category": "industry",
+    "image": "https://media.wired.com/photos/69e1401ea5e5befd53e0b86f/191:100/w_1280,c_limit/Culture_TechCEOsThinkAIWillLetThemBeEverywhereatOnce.jpg",
+    "id": 28
   },
   {
     "title": "DeepER-Med: Advancing Deep Evidence-Based Research in Medicine Through Agentic AI",
@@ -230,7 +277,7 @@
     "date": "2026-04-20",
     "summary": "Trustworthiness and transparency are essential for the clinical adoption of artificial intelligence (AI) in healthcare and biomedical research. Recent deep research systems aim to accelerate evidence-...",
     "category": "research",
-    "id": 24
+    "id": 29
   },
   {
     "title": "GIST: Multimodal Knowledge Extraction and Spatial Grounding via Intelligent Semantic Topology",
@@ -239,7 +286,7 @@
     "date": "2026-04-20",
     "summary": "Navigating complex, densely packed environments like retail stores, warehouses, and hospitals poses a significant spatial grounding challenge for humans and embodied AI. In these spaces, dense visual ...",
     "category": "models",
-    "id": 25
+    "id": 30
   },
   {
     "title": "Bureaucratic Silences: What the Canadian AI Register Reveals, Omits, and Obscures",
@@ -248,7 +295,7 @@
     "date": "2026-04-20",
     "summary": "In November 2025, the Government of Canada operationalized its commitment to transparency by releasing its first Federal AI Register. In this paper, we argue that such registers are not neutral mirror...",
     "category": "research",
-    "id": 26
+    "id": 31
   },
   {
     "title": "LACE: Lattice Attention for Cross-thread Exploration",
@@ -257,7 +304,7 @@
     "date": "2026-04-20",
     "summary": "Current large language models reason in isolation. Although it is common to sample multiple reasoning paths in parallel, these trajectories do not interact, and often fail in the same redundant ways. ...",
     "category": "research",
-    "id": 27
+    "id": 32
   },
   {
     "title": "Preregistered Belief Revision Contracts",
@@ -266,7 +313,7 @@
     "date": "2026-04-20",
     "summary": "Deliberative multi-agent systems allow agents to exchange messages and revise beliefs over time. While this interaction is meant to improve performance, it can also create dangerous conformity effects...",
     "category": "research",
-    "id": 28
+    "id": 33
   },
   {
     "title": "Subliminal Transfer of Unsafe Behaviors in AI Agent Distillation",
@@ -275,7 +322,7 @@
     "date": "2026-04-20",
     "summary": "Recent work on subliminal learning demonstrates that language models can transmit semantic traits through data that is semantically unrelated to those traits. However, it remains unclear whether behav...",
     "category": "tools",
-    "id": 29
+    "id": 34
   },
   {
     "title": "Bilevel Optimization of Agent Skills via Monte Carlo Tree Search",
@@ -284,7 +331,7 @@
     "date": "2026-04-20",
     "summary": "Agent \\texttt{skills} are structured collections of instructions, tools, and supporting resources that help large language model (LLM) agents perform particular classes of tasks. Empirical evidence sh...",
     "category": "models",
-    "id": 30
+    "id": 35
   },
   {
     "title": "The World Leaks the Future: Harness Evolution for Future Prediction Agents",
@@ -293,7 +340,7 @@
     "date": "2026-04-20",
     "summary": "Many consequential decisions must be made before the relevant outcome is known. Such problems are commonly framed as \\emph{future prediction}, where an LLM agent must form a prediction for an unresolv...",
     "category": "models",
-    "id": 31
+    "id": 36
   },
   {
     "title": "LLM Reasoning Is Latent, Not the Chain of Thought",
@@ -302,7 +349,7 @@
     "date": "2026-04-20",
     "summary": "This position paper argues that large language model (LLM) reasoning should be studied as latent-state trajectory formation rather than as faithful surface chain-of-thought (CoT). This matters because...",
     "category": "research",
-    "id": 32
+    "id": 37
   },
   {
     "title": "Structured Abductive-Deductive-Inductive Reasoning for LLMs via Algebraic Invariants",
@@ -311,7 +358,7 @@
     "date": "2026-04-20",
     "summary": "Large language models exhibit systematic limitations in structured logical reasoning: they conflate hypothesis generation with verification, cannot distinguish conjecture from validated knowledge, and...",
     "category": "models",
-    "id": 33
+    "id": 38
   },
   {
     "title": "KWBench: Measuring Unprompted Problem Recognition in Knowledge Work",
@@ -320,7 +367,7 @@
     "date": "2026-04-20",
     "summary": "We introduce the first version of KWBench (Knowledge Work Bench), a benchmark for unprompted problem recognition in large language models: can an LLM identify a professional scenario before attempting...",
     "category": "models",
-    "id": 34
+    "id": 39
   },
   {
     "title": "Stein Variational Black-Box Combinatorial Optimization",
@@ -329,7 +376,7 @@
     "date": "2026-04-20",
     "summary": "Combinatorial black-box optimization in high-dimensional settings demands a careful trade-off between exploiting promising regions of the search space and preserving sufficient exploration to identify...",
     "category": "research",
-    "id": 35
+    "id": 40
   },
   {
     "title": "Discover and Prove: An Open-source Agentic Framework for Hard Mode Automated Theorem Proving in Lean 4",
@@ -338,7 +385,7 @@
     "date": "2026-04-20",
     "summary": "Most ATP benchmarks embed the final answer within the formal statement -- a convention we call \"Easy Mode\" -- a design that simplifies the task relative to what human competitors face and may lead to ...",
     "category": "research",
-    "id": 36
+    "id": 41
   },
   {
     "title": "Experience Compression Spectrum: Unifying Memory, Skills, and Rules in LLM Agents",
@@ -347,7 +394,7 @@
     "date": "2026-04-20",
     "summary": "As LLM agents scale to long-horizon, multi-session deployments, efficiently managing accumulated experience becomes a critical bottleneck. Agent memory systems and agent skill discovery both address t...",
     "category": "research",
-    "id": 37
+    "id": 42
   },
   {
     "title": "Towards Rigorous Explainability by Feature Attribution",
@@ -356,7 +403,7 @@
     "date": "2026-04-20",
     "summary": "For around a decade, non-symbolic methods have been the option of choice when explaining complex machine learning (ML) models. Unfortunately, such methods lack rigor and can mislead human decision-mak...",
     "category": "hardware",
-    "id": 38
+    "id": 43
   },
   {
     "title": "Integrating Graphs, Large Language Models, and Agents: Reasoning and Retrieval",
@@ -365,7 +412,7 @@
     "date": "2026-04-20",
     "summary": "Generative AI, particularly Large Language Models, increasingly integrates graph-based representations to enhance reasoning, retrieval, and structured decision-making. Despite rapid advances, there re...",
     "category": "models",
-    "id": 39
+    "id": 44
   },
   {
     "title": "Weak-Link Optimization for Multi-Agent Reasoning and Collaboration",
@@ -374,7 +421,7 @@
     "date": "2026-04-20",
     "summary": "LLM-driven multi-agent frameworks address complex reasoning tasks through multi-role collaboration. However, existing approaches often suffer from reasoning instability, where individual agent errors ...",
     "category": "research",
-    "id": 40
+    "id": 45
   },
   {
     "title": "ReactBench: A Benchmark for Topological Reasoning in MLLMs on Chemical Reaction Diagrams",
@@ -383,7 +430,7 @@
     "date": "2026-04-20",
     "summary": "Multimodal Large Language Models (MLLMs) excel at recognizing individual visual elements and reasoning over simple linear diagrams. However, when faced with complex topological structures involving br...",
     "category": "models",
-    "id": 41
+    "id": 46
   },
   {
     "title": "MEDLEY-BENCH: Scale Buys Evaluation but Not Control in AI Metacognition",
@@ -392,7 +439,7 @@
     "date": "2026-04-20",
     "summary": "Metacognition, the ability to monitor and regulate one's own reasoning, remains under-evaluated in AI benchmarking. We introduce MEDLEY-BENCH, a benchmark of behavioural metacognition that separates i...",
     "category": "research",
-    "id": 42
+    "id": 47
   },
   {
     "title": "SocialGrid: A Benchmark for Planning and Social Reasoning in Embodied Multi-Agent Systems",
@@ -401,7 +448,7 @@
     "date": "2026-04-20",
     "summary": "As Large Language Models (LLMs) transition from text processors to autonomous agents, evaluating their social reasoning in embodied multi-agent settings becomes critical. We introduce SocialGrid, an e...",
     "category": "models",
-    "id": 43
+    "id": 48
   },
   {
     "title": "MARCH: Multi-Agent Radiology Clinical Hierarchy for CT Report Generation",
@@ -410,7 +457,7 @@
     "date": "2026-04-20",
     "summary": "Automated 3D radiology report generation often suffers from clinical hallucinations and a lack of the iterative verification found in human practice. While recent Vision-Language Models (VLMs) have ad...",
     "category": "tools",
-    "id": 44
+    "id": 49
   },
   {
     "title": "Characterising LLM-Generated Competency Questions: a Cross-Domain Empirical Study using Open and Closed Models",
@@ -419,51 +466,6 @@
     "date": "2026-04-20",
     "summary": "Competency Questions (CQs) are a cornerstone of requirement elicitation in ontology engineering. CQs represent requirements as a set of natural language questions that an ontology should satisfy; they...",
     "category": "models",
-    "id": 45
-  },
-  {
-    "title": "Learning to Reason with Insight for Informal Theorem Proving",
-    "url": "https://arxiv.org/abs/2604.16278",
-    "source": "arXiv cs.AI",
-    "date": "2026-04-20",
-    "summary": "Although most of the automated theorem-proving approaches depend on formal proof systems, informal theorem proving can align better with large language models' (LLMs) strength in natural language proc...",
-    "category": "models",
-    "id": 46
-  },
-  {
-    "title": "Using Large Language Models and Knowledge Graphs to Improve the Interpretability of Machine Learning Models in Manufacturing",
-    "url": "https://arxiv.org/abs/2604.16280",
-    "source": "arXiv cs.AI",
-    "date": "2026-04-20",
-    "summary": "Explaining Machine Learning (ML) results in a transparent and user-friendly manner remains a challenging task of Explainable Artificial Intelligence (XAI). In this paper, we present a method to enhanc...",
-    "category": "models",
-    "id": 47
-  },
-  {
-    "title": "ASMR-Bench: Auditing for Sabotage in ML Research",
-    "url": "https://arxiv.org/abs/2604.16286",
-    "source": "arXiv cs.AI",
-    "date": "2026-04-20",
-    "summary": "As AI systems are increasingly used to conduct research autonomously, misaligned systems could introduce subtle flaws that produce misleading results while evading detection. We introduce ASMR-Bench (...",
-    "category": "models",
-    "id": 48
-  },
-  {
-    "title": "Seeing the Intangible: Survey of Image Classification into High-Level and Abstract Categories",
-    "url": "https://arxiv.org/abs/2308.10562",
-    "source": "arXiv cs.AI",
-    "date": "2026-04-20",
-    "summary": "The field of Computer Vision (CV) is increasingly shifting towards ``high-level'' visual sensemaking tasks, yet the exact nature of these tasks remains unclear and tacit. This survey paper addresses t...",
-    "category": "research",
-    "id": 49
-  },
-  {
-    "title": "Modeling of ASD/TD Children's Behaviors in Interaction with a Virtual Social Robot During a Music Education Program Using Deep Neural Networks",
-    "url": "https://arxiv.org/abs/2604.15314",
-    "source": "arXiv cs.AI",
-    "date": "2026-04-20",
-    "summary": "This research aimed to develop an intelligent system to evaluate performance and extract behavioral models for children with ASD and neurotypical (TD) children by interacting with a virtual social rob...",
-    "category": "research",
     "id": 50
   }
 ]
