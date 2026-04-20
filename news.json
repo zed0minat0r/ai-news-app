@@ -61,183 +61,6 @@
     "id": 6
   },
   {
-    "title": "AI Agent Traps",
-    "url": "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6372438",
-    "source": "Hacker News",
-    "date": "2026-04-19",
-    "summary": "Article URL: https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6372438 Comments URL: https://news.ycombinator.com/item?id=47827863 Points: 1 # Comments: 0",
-    "category": "research",
-    "id": 7
-  },
-  {
-    "title": "Show HN: Nyx – multi-turn, adaptive, offensive testing harness for AI agents",
-    "url": "https://fabraix.com",
-    "source": "Hacker News",
-    "date": "2026-04-19",
-    "summary": "We built Nyx to solve a problem we kept hitting while building agents: AI agents break in ways traditional software doesn't. Logic bugs, reasoning failures, edge cases that manual testing and static b...",
-    "category": "models",
-    "id": 8
-  },
-  {
-    "title": "AI's New Training Data: Your Old Work Slacks and Emails",
-    "url": "https://www.forbes.com/sites/annatong/2026/04/16/ais-new-training-data-your-old-work-slacks-and-emails/",
-    "source": "Hacker News",
-    "date": "2026-04-19",
-    "summary": "Article URL: https://www.forbes.com/sites/annatong/2026/04/16/ais-new-training-data-your-old-work-slacks-and-emails/ Comments URL: https://news.ycombinator.com/item?id=47827792 Points: 1 # Comments: 0",
-    "category": "industry",
-    "id": 9
-  },
-  {
-    "title": "How are you handling security for AI agents that use MCP tools?",
-    "url": "https://news.ycombinator.com/item?id=47827684",
-    "source": "Hacker News",
-    "date": "2026-04-19",
-    "summary": "Curious how others are thinking about approaching agentic security for MCP connected agents. External tools processing raw data from websites or other APIs with no sanitization. There is no distinctio...",
-    "category": "tools",
-    "id": 10
-  },
-  {
-    "title": "The demand for local AI could shape a new business model for Apple",
-    "url": "https://9to5mac.com/2026/04/19/apple-local-ai-server-hosting-new-business-model/",
-    "source": "Hacker News",
-    "date": "2026-04-19",
-    "summary": "Article URL: https://9to5mac.com/2026/04/19/apple-local-ai-server-hosting-new-business-model/ Comments URL: https://news.ycombinator.com/item?id=47827682 Points: 1 # Comments: 0",
-    "category": "hardware",
-    "image": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2026/02/mac-studio-displays-fi.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
-    "id": 11
-  },
-  {
-    "title": "Ask HN: Is giving AI agents DB access the new BI-tool problem?",
-    "url": "https://news.ycombinator.com/item?id=47827486",
-    "source": "Hacker News",
-    "date": "2026-04-19",
-    "summary": "A couple of early-to-mid-stage startups I'm consulting with are asking the same question: their AI/ML team wants production Postgres data, and nobody's quite sure how to give it to them. I've handled ...",
-    "category": "industry",
-    "id": 12
-  },
-  {
-    "title": "The time when we suffer from large amounts of AI slop is gone",
-    "url": "https://lists.haxx.se/pipermail/daniel/2026-April/000153.html",
-    "source": "Hacker News",
-    "date": "2026-04-19",
-    "summary": "Article URL: https://lists.haxx.se/pipermail/daniel/2026-April/000153.html Comments URL: https://news.ycombinator.com/item?id=47827370 Points: 9 # Comments: 0",
-    "category": "industry",
-    "id": 13
-  },
-  {
-    "title": "Autoloom – Autonomous AI Agent built on tinyloom",
-    "url": "https://github.com/thresher-sh/autoloom",
-    "source": "Hacker News",
-    "date": "2026-04-19",
-    "summary": "Article URL: https://github.com/thresher-sh/autoloom Comments URL: https://news.ycombinator.com/item?id=47827316 Points: 3 # Comments: 0",
-    "category": "industry",
-    "image": "https://opengraph.githubassets.com/8f6f4fde278d6a6d30a105a1d5daba41a7f715914752742e78b589a9298e30db/thresher-sh/autoloom",
-    "id": 14
-  },
-  {
-    "title": "AI Assistance Reduces Persistence and Hurts Independent Performance",
-    "url": "https://arxiv.org/abs/2604.04721",
-    "source": "Hacker News",
-    "date": "2026-04-19",
-    "summary": "Article URL: https://arxiv.org/abs/2604.04721 Comments URL: https://news.ycombinator.com/item?id=47827276 Points: 3 # Comments: 0",
-    "category": "research",
-    "id": 15
-  },
-  {
-    "title": "Show HN: Lmcli v0.5.0 – A useable tool for LLM minimalists",
-    "url": "https://codeberg.org/mlow/lmcli",
-    "source": "Hacker News",
-    "date": "2026-04-19",
-    "summary": "I have put a lot of hours into making `lmcli` my go-to tool for all of my work with LLMs, including coding! Written in Go for snappy performance and a lean codebase. I wanted a tool that did not put h...",
-    "category": "models",
-    "image": "https://codeberg.org/mlow/lmcli/-/summary-card",
-    "id": 16
-  },
-  {
-    "title": "The Economist who was terrified of AI just found a rare reason for hope",
-    "url": "https://fortune.com/2026/04/19/alex-imas-human-jobs-ai-economy-chicago-economist-substack-doomsday-scenario/",
-    "source": "Hacker News",
-    "date": "2026-04-19",
-    "summary": "Article URL: https://fortune.com/2026/04/19/alex-imas-human-jobs-ai-economy-chicago-economist-substack-doomsday-scenario/ Comments URL: https://news.ycombinator.com/item?id=47826936 Points: 2 # Commen...",
-    "category": "industry",
-    "image": "https://fortune.com/img-assets/wp-content/uploads/2026/04/imas.png?resize=1200,600",
-    "id": 17
-  },
-  {
-    "title": "The LLM costs are not going up",
-    "url": "https://simianwords.bearblog.dev/conclusive-proofs-that-llm-costs-are-going-down/",
-    "source": "Hacker News",
-    "date": "2026-04-19",
-    "summary": "Article URL: https://simianwords.bearblog.dev/conclusive-proofs-that-llm-costs-are-going-down/ Comments URL: https://news.ycombinator.com/item?id=47826894 Points: 3 # Comments: 0",
-    "category": "models",
-    "id": 18
-  },
-  {
-    "title": "Stop Creating AI Slop [video]",
-    "url": "https://www.youtube.com/watch?v=Yxxk0LCeP3s",
-    "source": "Hacker News",
-    "date": "2026-04-19",
-    "summary": "Article URL: https://www.youtube.com/watch?v=Yxxk0LCeP3s Comments URL: https://news.ycombinator.com/item?id=47826732 Points: 2 # Comments: 0",
-    "category": "industry",
-    "id": 19
-  },
-  {
-    "title": "Epistemic Suicide: Why AI Is Collapsing into Mediocrity",
-    "url": "https://medium.com/@erinacius4455/full-linkedin-article-english-version-6611a87d02c5",
-    "source": "Hacker News",
-    "date": "2026-04-19",
-    "summary": "Article URL: https://medium.com/@erinacius4455/full-linkedin-article-english-version-6611a87d02c5 Comments URL: https://news.ycombinator.com/item?id=47826411 Points: 3 # Comments: 0",
-    "category": "industry",
-    "id": 20
-  },
-  {
-    "title": "Cardynal – AI support agent for businesses, no code, WhatsApp and web chat",
-    "url": "https://cardynal.io",
-    "source": "Hacker News",
-    "date": "2026-04-19",
-    "summary": "Article URL: https://cardynal.io Comments URL: https://news.ycombinator.com/item?id=47826408 Points: 2 # Comments: 0",
-    "category": "industry",
-    "image": "https://cardynal.io/og",
-    "id": 21
-  },
-  {
-    "title": "Uber's AI Push Hits a Wall–CTO Says Budget Struggles Despite $3.4B Spend",
-    "url": "https://finance.yahoo.com/sectors/technology/articles/ubers-anthropic-ai-push-hits-223109852.html",
-    "source": "Hacker News",
-    "date": "2026-04-19",
-    "summary": "Article URL: https://finance.yahoo.com/sectors/technology/articles/ubers-anthropic-ai-push-hits-223109852.html Comments URL: https://news.ycombinator.com/item?id=47826328 Points: 46 # Comments: 56",
-    "category": "industry",
-    "id": 22
-  },
-  {
-    "title": "The Missing Human Half of AI",
-    "url": "https://www.utkarshapoorva.com/writing/missing-human-half-of-ai/",
-    "source": "Hacker News",
-    "date": "2026-04-19",
-    "summary": "Article URL: https://www.utkarshapoorva.com/writing/missing-human-half-of-ai/ Comments URL: https://news.ycombinator.com/item?id=47826218 Points: 2 # Comments: 1",
-    "category": "industry",
-    "id": 23
-  },
-  {
-    "title": "MCPs are the music of AI Agents. We built the player",
-    "url": "https://github.com/vinkius-labs/mcp-explorer",
-    "source": "Hacker News",
-    "date": "2026-04-19",
-    "summary": "Article URL: https://github.com/vinkius-labs/mcp-explorer Comments URL: https://news.ycombinator.com/item?id=47826034 Points: 1 # Comments: 0",
-    "category": "industry",
-    "image": "https://opengraph.githubassets.com/34062d6841d8673b58e2d0098fc75860c7e4b79056c1604f96c81ee13845f58e/vinkius-labs/mcp-explorer",
-    "id": 24
-  },
-  {
-    "title": "Show HN: Bridge the gap between AI code/app generation and human understanding",
-    "url": "https://sourcebridge.ai",
-    "source": "Hacker News",
-    "date": "2026-04-19",
-    "summary": "Article URL: https://sourcebridge.ai Comments URL: https://news.ycombinator.com/item?id=47825884 Points: 1 # Comments: 1",
-    "category": "industry",
-    "id": 25
-  },
-  {
     "title": "Nvidia RTX 3060 comeback in 2026 could alleviate soaring GPU prices and memory shortages — rumored RTX 5050 9GB abruptly shelved amid speculation",
     "url": "https://www.tomshardware.com/pc-components/gpus/nvidia-rtx-3060-comeback-in-2026-could-alleviate-soaring-gpu-prices-and-memory-shortages-rumored-rtx-5050-9gb-abruptly-shelved-amid-speculation",
     "source": "Tom's Hardware",
@@ -245,7 +68,7 @@
     "summary": "If relaunched at the right price, the RTX 3060 could re-enter the market as a viable option in a segment facing increasing cost pressures.",
     "category": "hardware",
     "image": "https://cdn.mos.cms.futurecdn.net/UHkfe7S9CoF8tjtnL5e4f8-1280-80.jpg",
-    "id": 26
+    "id": 7
   },
   {
     "title": "Nvidia RTX 5070 Ti gaming laptop is on sale for 19% off — MSI's Vector 16 has a 144 Hz screen, and comes with Pragmata for free",
@@ -255,7 +78,7 @@
     "summary": "MSI has put its Vector 16 gaming laptop on sale for just $1,529 at Newegg, offering a solid discount for a beastly hardware combo. You get a Core Ultra 7 255HX paired with a 140W RTX 5070 Ti, 16GB of ...",
     "category": "hardware",
     "image": "https://cdn.mos.cms.futurecdn.net/33S9iN3GxDB2VfRBgFMTUD-1280-80.png",
-    "id": 27
+    "id": 8
   },
   {
     "title": "Bluetooth tracker hidden in a postcard and mailed to a warship exposed its location — $5 gadget put a $585 million Dutch ship at risk for 24 hours",
@@ -265,7 +88,7 @@
     "summary": "A Dutch journalist mailed a postcard to a Dutch Navy ship containing a hidden Bluetooth tracker, allowing them to track its route for 24 hours before it was found and disabled.",
     "category": "hardware",
     "image": "https://cdn.mos.cms.futurecdn.net/mrDHs97dg7kKm8H7v2ZAUi-1280-80.jpg",
-    "id": 28
+    "id": 9
   },
   {
     "title": "Minisforum's beastly N5 Max NAS comes powered by AMD Strix Halo — $2,899 for 'AI NAS' with pre-installed OpenClaw, supports up to 200TB capacity",
@@ -275,7 +98,7 @@
     "summary": "Minisforum says its powerful AI NAS, the N5 Max, will launch on April 23, 2026, at $2,899",
     "category": "hardware",
     "image": "https://cdn.mos.cms.futurecdn.net/Y3fcSoJJWRf4U7vwUBAtMJ-1280-80.jpg",
-    "id": 29
+    "id": 10
   },
   {
     "title": "Intel Core Ultra 250K Plus vs AMD Ryzen 5 9600X faceoff — battle for the best $200 CPU",
@@ -285,7 +108,7 @@
     "summary": "With similar pricing and target audiences, these two processors offer contrasting strengths across gaming, productivity, and power consumption.",
     "category": "hardware",
     "image": "https://cdn.mos.cms.futurecdn.net/2q92EnmKUuxZxo823WjYrg-1280-80.jpg",
-    "id": 30
+    "id": 11
   },
   {
     "title": "Backblaze silently redefines 'unlimited' backups and users discover it's not backing up Dropbox and OneDrive — as firm leans heavier into AI storage services, changes could signal shift away from home backups",
@@ -295,7 +118,7 @@
     "summary": "Backblaze redefines \"unlimited\" while users discover it's not backing up Dropbox, OneDrive, et al",
     "category": "research",
     "image": "https://cdn.mos.cms.futurecdn.net/sSRh92uczZFtrou5tGjgQV-1280-80.png",
-    "id": 31
+    "id": 12
   },
   {
     "title": "Nvidia CEO Jensen Huang ‘nearly lost his composure’ when pressed on selling chips to China — ‘You’re not talking to someone who woke up a loser’",
@@ -305,7 +128,7 @@
     "summary": "Nvidia CEO Jensen Huang said that blocking China, the second biggest market for AI chips, from buying from American companies is a \"losing proposition\" that makes no sense to him.",
     "category": "hardware",
     "image": "https://cdn.mos.cms.futurecdn.net/E7hAMKaduKL9yTxSkoqwCE-1280-80.jpg",
-    "id": 32
+    "id": 13
   },
   {
     "title": "AI chip startup Cerebras files for IPO",
@@ -315,7 +138,7 @@
     "summary": "In recent months, the company announced an agreement with Amazon Web Services to use Cerebras chips in Amazon data centers, as well as a deal with OpenAI reportedly worth more than $10 billion.",
     "category": "hardware",
     "image": "https://techcrunch.com/wp-content/uploads/2026/03/ASW-Chip_tour-servers.jpg?resize=1200,900",
-    "id": 33
+    "id": 14
   },
   {
     "title": "Anthropic’s relationship with the Trump administration seems to be thawing",
@@ -325,7 +148,7 @@
     "summary": "Despite recently being designated a supply-chain risk by the Pentagon, Anthropic is still talking to high-level members of the Trump administration.",
     "category": "industry",
     "image": "https://techcrunch.com/wp-content/uploads/2026/03/Dario-Amodei-.jpg?w=1024",
-    "id": 34
+    "id": 15
   },
   {
     "title": "The App Store is booming again, and AI may be why",
@@ -335,7 +158,7 @@
     "summary": "New data from Appfigures shows a swell of new app launches in 2026, suggesting AI tools could be fueling a mobile software boom.",
     "category": "tools",
     "image": "https://techcrunch.com/wp-content/uploads/2026/04/app-store-with-badge-GettyImages-2193151739.jpg?w=1024",
-    "id": 35
+    "id": 16
   },
   {
     "title": "Schematik Is ‘Cursor for Hardware.’ Anthropic Wants In",
@@ -345,7 +168,7 @@
     "summary": "Schematik is a program that aims to help people vibe code for physical devices. Hopefully, it won’t blow anything up.",
     "category": "tools",
     "image": "https://media.wired.com/photos/69e261f2c08b65b67742964b/191:100/w_1280,c_limit/IMG_0608%202.jpeg",
-    "id": 36
+    "id": 17
   },
   {
     "title": "US lawmakers amend new restrictions on Chinese chipmakers — MATCH Act's blanket restrictions removed from select chipmaking tools",
@@ -355,7 +178,7 @@
     "summary": "U.S. lawmakers remove countrywide exports ban on cryogenic etching tools from the MATCH Act, yet Chinese companies could barely get them anyway.",
     "category": "hardware",
     "image": "https://cdn.mos.cms.futurecdn.net/gXiiqKDVnZQpy3gNVhHB55-1280-80.jpg",
-    "id": 37
+    "id": 18
   },
   {
     "title": "Local political revolts threaten to derail US data center projects — mounting delays are already costing AI hyperscalers billions",
@@ -365,7 +188,7 @@
     "summary": "Local communities all over America and the world are pushing back on the explosive growth of AI data center projects. Through local courts, community action, and intense meetings with politicians, the...",
     "category": "hardware",
     "image": "https://cdn.mos.cms.futurecdn.net/PJ7hq4YZcLebfzKvT7XLVc-1280-80.jpg",
-    "id": 38
+    "id": 19
   },
   {
     "title": "Intel hires tenured Samsung exec to lead Foundry Services — signals company focus on winning business from potential Foundry suitors",
@@ -375,7 +198,7 @@
     "summary": "Intel lures Shawn 'Seung Hoon' Han from Samsung Foundry to land new customers and maintain customer relationships at Intel Foundry.",
     "category": "hardware",
     "image": "https://cdn.mos.cms.futurecdn.net/tCxeFD6UhKMx7J9BAHkQ2J-1280-80.jpg",
-    "id": 39
+    "id": 20
   },
   {
     "title": "Microsoft's April patch puts Windows domain controllers into reboot loops — third known issue from KB5082063 is affecting Windows Server 2016 through 2025",
@@ -385,7 +208,7 @@
     "summary": "Installing this month's Windows Server security update has knocked some enterprise domain controllers into continuous reboot cycles.",
     "category": "hardware",
     "image": "https://cdn.mos.cms.futurecdn.net/zpszyjwnJygENKdNTJiQ33-1280-80.jpg",
-    "id": 40
+    "id": 21
   },
   {
     "title": "TSMC ups revenue guidance and CapEx, buoyed by 'multiyear AI megatrend' — warns Middle East conflict may impact profitability as costs increase",
@@ -395,7 +218,7 @@
     "summary": "TSMC unveils aggressive plans to ramp up 3nm-capable capacity further in the coming years amid strong demand from the AI sector.",
     "category": "industry",
     "image": "https://cdn.mos.cms.futurecdn.net/p2QqhVFP7dTRWfeVBCYBYV-1280-80.jpg",
-    "id": 41
+    "id": 22
   },
   {
     "title": "Google and Pentagon in talks to run custom AI chips inside classified environments — Google pushes for tight controls for TPUs surrounding use for mass surveillance and autonomous weapons",
@@ -405,7 +228,7 @@
     "summary": "Google is reportedly negotiating with the U.S. Department of Defense to deploy Gemini in classified settings, with the talks covering the addition of GPU racks to Google Distributed Cloud.",
     "category": "hardware",
     "image": "https://cdn.mos.cms.futurecdn.net/Y5NMQot8GVcujBNAWTGvAG-1280-80.jpg",
-    "id": 42
+    "id": 23
   },
   {
     "title": "AMD to resurrect Ryzen 7 5800X3D AM4 with 10th anniversary edition, leaker claims — return of legendary CPU a sign of bleak PC building landscape",
@@ -415,7 +238,7 @@
     "summary": "AMD is rumored to launch the Ryzen 7 5800X3D 10th Anniversary Edition in the second quarter of this year.",
     "category": "hardware",
     "image": "https://cdn.mos.cms.futurecdn.net/bDiD7zrekdcXMe8jNhRmCR-1280-80.jpg",
-    "id": 43
+    "id": 24
   },
   {
     "title": "Amazon returns buyer gets scammed out of a Ryzen 9 9950X3D — 'CPU' came with just a 3D-printed base underneath a real heat spreader",
@@ -425,7 +248,7 @@
     "summary": "Another victim of Amazon's return policy shares their story on Reddit, how they bought a Ryzen 9 9950X3D for just €163 only to get a 3D-printed base and an IHS of a 9950X3D.",
     "category": "hardware",
     "image": "https://cdn.mos.cms.futurecdn.net/iamVBuqkZd4d2Y5Ev6B2kk-1280-80.jpg",
-    "id": 44
+    "id": 25
   },
   {
     "title": "TSMC warns of Intel Foundry's growing prowess during the company's latest earnings call — 'We view Intel as our formidable competitor and do not underestimate them'",
@@ -435,7 +258,7 @@
     "summary": "By now, TSMC has become a much bigger chipmaker than Intel has ever been, but the world's top foundry still calls its American peer a 'formidable' competitor.",
     "category": "hardware",
     "image": "https://cdn.mos.cms.futurecdn.net/cYadY8ki4zpB7RxErYHK7S-1280-80.jpg",
-    "id": 45
+    "id": 26
   },
   {
     "title": "Kevin Weil and Bill Peebles exit OpenAI as company continues to shed ‘side quests’",
@@ -445,7 +268,7 @@
     "summary": "Kevin Weil and Bill Peebles are leaving OpenAI as the company shuts down Sora and folds its science team, signaling a sharp pivot away from consumer moonshots toward enterprise AI.",
     "category": "industry",
     "image": "https://techcrunch.com/wp-content/uploads/2025/04/GettyImages-2206295463.jpg?resize=1200,800",
-    "id": 46
+    "id": 27
   },
   {
     "title": "Sources: Cursor in talks to raise $2B+ at $50B valuation as enterprise growth surges",
@@ -455,7 +278,7 @@
     "summary": "Returning backers a16z and Thrive are expected to lead the round.",
     "category": "industry",
     "image": "https://techcrunch.com/wp-content/uploads/2025/12/Anysphere-Cursor-Michael-Truell-.png?resize=1200,745",
-    "id": 47
+    "id": 28
   },
   {
     "title": "Tokenmaxxing, OpenAI’s shopping spree, and the AI Anxiety Gap",
@@ -465,7 +288,7 @@
     "summary": "The gap between AI insiders and everyone else is widening, and the spending, suspicion, and even new vocabulary are starting to show it. While OpenAI is busy buying up everything from finance apps to ...",
     "category": "industry",
     "image": "https://techcrunch.com/wp-content/uploads/2026/02/GettyImages-2236544077.jpg?resize=1200,800",
-    "id": 48
+    "id": 29
   },
   {
     "title": "Anthropic launches Claude Design, a new product for creating quick visuals",
@@ -475,7 +298,7 @@
     "summary": "The company says Claude Design is intended to help people like founders and product managers without a design background share their ideas more easily.",
     "category": "models",
     "image": "https://techcrunch.com/wp-content/uploads/2026/04/Claude-Design-2-Press-Logo-Claude-1920x1080-1.png?resize=1200,675",
-    "id": 49
+    "id": 30
   },
   {
     "title": "Are we tokenmaxxing our way to nowhere?",
@@ -485,6 +308,193 @@
     "summary": "The gap between AI insiders and everyone else is widening, and the spending, suspicion, and even new vocabulary are starting to show it. While OpenAI is busy buying up everything from finance apps to ...",
     "category": "industry",
     "image": "https://techcrunch.com/wp-content/uploads/2026/03/code-on-a-screen.jpg?resize=1200,675",
+    "id": 31
+  },
+  {
+    "title": "The Download: bad news for inner Neanderthals, and AI warfare’s human illusion",
+    "url": "https://www.technologyreview.com/2026/04/17/1136112/the-download-inner-neanderthal-ai-war-human-in-the-loop/",
+    "source": "MIT Tech Review",
+    "date": "2026-04-17",
+    "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. The problem with thinking you’re part Neanderthal There’s a th...",
+    "category": "tools",
+    "image": "https://wp.technologyreview.com/wp-content/uploads/2026/04/Neanderthals_finals-top.jpg?resize=1200,600",
+    "id": 32
+  },
+  {
+    "title": "OpenAI Executive Kevin Weil Is Leaving the Company",
+    "url": "https://www.wired.com/story/openai-executive-kevin-weil-is-leaving-the-company/",
+    "source": "Wired",
+    "date": "2026-04-17",
+    "summary": "The former Instagram VP is departing the ChatGPT-maker, which is folding the AI science application he led into Codex.",
+    "category": "models",
+    "image": "https://media.wired.com/photos/69e28bd5c90ceaca5deef659/191:100/w_1280,c_limit/Kevin-Weil-Leaving-OpenAI-Business-2212179127.jpg",
+    "id": 33
+  },
+  {
+    "title": "AI Drafting My Stories? Over My Dead Body",
+    "url": "https://www.wired.com/story/backchannel-the-problem-with-letting-ai-do-the-writing/",
+    "source": "Wired",
+    "date": "2026-04-17",
+    "summary": "AI-assisted writing is creeping into newsrooms under the guise of efficiency. But the trade-off may be more profound than publishers are willing to admit.",
+    "category": "industry",
+    "image": "https://media.wired.com/photos/69e1650c3768d90cb0bbf6c2/191:100/w_1280,c_limit/Backchannel-Issue-With-AI-Doing-the-Writing-Busines-491874561.jpg",
+    "id": 34
+  },
+  {
+    "title": "Codex for (almost) everything",
+    "url": "https://openai.com/index/codex-for-almost-everything",
+    "source": "OpenAI Blog",
+    "date": "2026-04-16",
+    "summary": "The updated Codex app for macOS and Windows adds computer use, in-app browsing, image generation, memory, and plugins to accelerate developer workflows.",
+    "category": "tools",
+    "id": 35
+  },
+  {
+    "title": "Introducing GPT-Rosalind for life sciences research",
+    "url": "https://openai.com/index/introducing-gpt-rosalind",
+    "source": "OpenAI Blog",
+    "date": "2026-04-16",
+    "summary": "OpenAI introduces GPT-Rosalind, a frontier reasoning model built to accelerate drug discovery, genomics analysis, protein reasoning, and scientific research workflows.",
+    "category": "research",
+    "id": 36
+  },
+  {
+    "title": "Accelerating the cyber defense ecosystem that protects us all",
+    "url": "https://openai.com/index/accelerating-cyber-defense-ecosystem",
+    "source": "OpenAI Blog",
+    "date": "2026-04-16",
+    "summary": "Leading security firms and enterprises join OpenAI’s Trusted Access for Cyber, using GPT-5.4-Cyber and $10M in API grants to strengthen global cyber defense.",
+    "category": "models",
+    "id": 37
+  },
+  {
+    "title": "A new way to explore the web with AI Mode in Chrome",
+    "url": "https://blog.google/products-and-platforms/products/search/ai-mode-chrome/",
+    "source": "Google AI Blog",
+    "date": "2026-04-16",
+    "summary": "Today’s upgrades for AI Mode in Chrome transform how you interact with the web",
+    "category": "industry",
+    "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/original_images/AI_Mode_in_Chrome_-_Blog_header.png",
+    "id": 38
+  },
+  {
+    "title": "New ways to create personalized images in the Gemini app",
+    "url": "https://blog.google/innovation-and-ai/products/gemini-app/personal-intelligence-nano-banana/",
+    "source": "Google AI Blog",
+    "date": "2026-04-16",
+    "summary": "Nano Banana 2 now uses your personal context and Google Photos to create images that reflect your unique life.",
+    "category": "models",
+    "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Blog_post_header.max-600x600.format-webp.webp",
+    "id": 39
+  },
+  {
+    "title": "AMD Ryzen 9 9950X3D2 appears on Amazon with $1,000 pre-order price — AMD confirms recommended pricing is still set at $899 [Updated]",
+    "url": "https://www.tomshardware.com/pc-components/cpus/amd-ryzen-9-9950x3d2-appears-on-amazon-with-usd1-000-pre-order-price-amd-confirms-recommended-pricing-is-still-set-at-usd899",
+    "source": "Tom's Hardware",
+    "date": "2026-04-16",
+    "summary": "AMD's Ryzen 9 9950X3D2 has started appearing at retailers, with Amazon currently offering the CPU at $1,000 — $100 above the suggest retail pricing.",
+    "category": "hardware",
+    "image": "https://cdn.mos.cms.futurecdn.net/ig33KupddRioiajuhCAxGa-1280-80.png",
+    "id": 40
+  },
+  {
+    "title": "AMD's market cap hits all-time high, Intel hits 25-year high on Agentic AI's insatiable demand for CPUs",
+    "url": "https://www.tomshardware.com/pc-components/cpus/amds-market-cap-hits-all-time-high-intel-hits-25-year-high-on-agentic-ais-insatiable-demand-for-cpus",
+    "source": "Tom's Hardware",
+    "date": "2026-04-16",
+    "summary": "Demand for CPUs by AI systems is creating positive sentiment and drives AMD and Intel stocks to their highs.",
+    "category": "hardware",
+    "image": "https://cdn.mos.cms.futurecdn.net/b6AWuqaDHTv9ZS4ZpfqZNV-1280-80.png",
+    "id": 41
+  },
+  {
+    "title": "Meta raising Quest headset prices due to AI-driven RAM shortage — Quest 3 to cost $600, Quest 3S $350 from April 19",
+    "url": "https://www.tomshardware.com/virtual-reality/meta-raising-quest-headset-prices-due-to-ai-driven-ram-shortage-quest-3-to-cost-usd600-quest-3s-usd350-from-april-19",
+    "source": "Tom's Hardware",
+    "date": "2026-04-16",
+    "summary": "Meta's Quest 3 lineup was known for offering an excellent value proposition, giving players a powerful, untethered VR experience without breaking the bank. Unfortunately, the AI boom is at the door, a...",
+    "category": "industry",
+    "image": "https://cdn.mos.cms.futurecdn.net/9ouEN6SyhzoYYEBjv5uukb-1280-80.jpg",
+    "id": 42
+  },
+  {
+    "title": "Pragmata PC performance tested: 18 GPUs take us to the Moon",
+    "url": "https://www.tomshardware.com/video-games/pc-gaming/pragmata-pc-performance-review",
+    "source": "Tom's Hardware",
+    "date": "2026-04-16",
+    "summary": "Capcom's Pragmata blends strategic gunplay and split-second puzzle solving for a fresh and fun adventure on the Moon. Oh, and everything is 3D printed. We tested 18 different GPUs for rasterization, r...",
+    "category": "hardware",
+    "image": "https://cdn.mos.cms.futurecdn.net/7t3nc9B64Abe2NzCmNQVtj-1280-80.jpg",
+    "id": 43
+  },
+  {
+    "title": "Chinese fabs import record volumes of US chipmaking equipment via Singapore and Malaysia — homegrown tool makers booked record 2025 revenues as price competition squeezes margins",
+    "url": "https://www.tomshardware.com/tech-industry/chinese-chip-tool-makers-booked-record-2025-revenues",
+    "source": "Tom's Hardware",
+    "date": "2026-04-16",
+    "summary": "2025 was a bumper year for Chinese chipmaking equipment firms Naura, AMEC, ACM Research, and Piotech, with each posting record revenues.",
+    "category": "industry",
+    "image": "https://cdn.mos.cms.futurecdn.net/CmM2jsgtAUNEHVoV48L8rh-1280-80.jpg",
+    "id": 44
+  },
+  {
+    "title": "US appeals court restarts $3 billion patent infringement lawsuit against Intel — VLSI case from 2017 returns after court sets aside 2024 decision",
+    "url": "https://www.tomshardware.com/pc-components/cpus/us-appeals-court-restarts-usd3-billion-patent-infringement-lawsuit-against-intel-vlsi-case-from-2017-returns-after-court-sets-aside-2024-decision",
+    "source": "Tom's Hardware",
+    "date": "2026-04-16",
+    "summary": "The U.S. Court of Appeals determines $3 billion VLSI lawsuit was not suitable for summary judgment and must instead be evaluated by a jury, so it must return to a district court for proceedings.",
+    "category": "industry",
+    "image": "https://cdn.mos.cms.futurecdn.net/3qAuWorrwTksrwq4GhoeEL-1280-80.png",
+    "id": 45
+  },
+  {
+    "title": "Factory hits $1.5B valuation to build AI coding for enterprises",
+    "url": "https://techcrunch.com/2026/04/16/factory-hits-1-5b-valuation-to-build-ai-coding-for-enterprises/",
+    "source": "TechCrunch",
+    "date": "2026-04-16",
+    "summary": "The three-year-old startup raised $150 million led by Khosla Ventures.",
+    "category": "industry",
+    "image": "https://techcrunch.com/wp-content/uploads/2025/02/GettyImages-1356382582.jpg?resize=1200,800",
+    "id": 46
+  },
+  {
+    "title": "Luma launches AI-powered production studio with faith-focused Wonder Project",
+    "url": "https://techcrunch.com/2026/04/16/luma-launches-ai-powered-production-studio-with-faith-focused-wonder-project/",
+    "source": "TechCrunch",
+    "date": "2026-04-16",
+    "summary": "The studio's first project will be about Moses and star Academy Award-winner Ben Kingsley, to be released this spring on Prime Video.",
+    "category": "industry",
+    "image": "https://techcrunch.com/wp-content/uploads/2026/04/Screenshot-2026-04-16-at-5.36.36-PM.png?resize=1200,664",
+    "id": 47
+  },
+  {
+    "title": "Upscale AI in talks to raise at $2B valuation, says report",
+    "url": "https://techcrunch.com/2026/04/16/upscale-ai-in-talks-to-raise-at-2b-valuation-says-report/",
+    "source": "TechCrunch",
+    "date": "2026-04-16",
+    "summary": "AI infrastructure company Upscale AI is reportedly in talks to raise its third funding round since launching just seven months ago.",
+    "category": "industry",
+    "image": "https://techcrunch.com/wp-content/uploads/2023/11/GettyImages-182414392.jpg?resize=1200,800",
+    "id": 48
+  },
+  {
+    "title": "Physical Intelligence, a hot robotics startup, says its new robot brain can figure out tasks it was never taught",
+    "url": "https://techcrunch.com/2026/04/16/physical-intelligence-a-hot-robotics-startup-says-its-new-robot-brain-can-figure-out-tasks-it-was-never-taught/",
+    "source": "TechCrunch",
+    "date": "2026-04-16",
+    "summary": "The new model, called π0.7, represents what the company describes as an early but meaningful step toward the long-sought goal of a general-purpose robot brain.",
+    "category": "hardware",
+    "image": "https://techcrunch.com/wp-content/uploads/2026/04/Screenshot-2026-04-16-at-12.22.07-PM.png?resize=1200,589",
+    "id": 49
+  },
+  {
+    "title": "OpenAI takes aim at Anthropic with beefed-up Codex that gives it more power over your desktop",
+    "url": "https://techcrunch.com/2026/04/16/openai-takes-aim-at-anthropic-with-beefed-up-codex-that-gives-it-more-power-over-your-desktop/",
+    "source": "TechCrunch",
+    "date": "2026-04-16",
+    "summary": "OpenAI's agentic coding tool has gotten a major makeover, with a variety of new powers and abilities.",
+    "category": "tools",
+    "image": "https://techcrunch.com/wp-content/uploads/2026/04/Screenshot-2026-04-16-at-8.39.23-AM.png?resize=1200,670",
     "id": 50
   }
 ]
