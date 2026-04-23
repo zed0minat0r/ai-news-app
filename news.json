@@ -1,32 +1,128 @@
 [
   {
-    "title": "We're launching two specialized TPUs for the agentic era.",
-    "url": "https://blog.google/innovation-and-ai/infrastructure-and-cloud/google-cloud/tpus-8t-8i-cloud-next/",
-    "source": "Google AI Blog",
-    "date": "2026-04-22",
-    "summary": "The eighth generation of Google’s TPU includes two specialized chips that will power the future of AI.",
+    "title": "Elon Musk says his TeraFab facilities will use Intel's 14A process technology to make AI chips — SpaceX will be responsible for high-volume chip manufacturing in likely Intel tech licensing deal",
+    "url": "https://www.tomshardware.com/tech-industry/semiconductors/elon-musk-says-terafab-will-use-intels-14a-process-technology-to-make-ai-chips-spacex-will-be-responsible-for-high-volume-chip-manufacturing-in-liekly-intel-tech-licensing-deal",
+    "source": "Tom's Hardware",
+    "date": "2026-04-23",
+    "summary": "Elon Musk reveals details about TeraFab: Intel provides technology, Tesla builds pilot line, SpaceX constructs high-volume fab.",
     "category": "hardware",
-    "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Were_launching_two_TPUs_social.max-600x600.format-webp.webp",
+    "image": "https://cdn.mos.cms.futurecdn.net/EZCTC9MCaqNdiAMUCqPqEK-1280-80.jpg",
     "id": 1,
     "featured": true
   },
   {
-    "title": "Workspace agents",
-    "url": "https://openai.com/academy/workspace-agents",
-    "source": "OpenAI Blog",
-    "date": "2026-04-22",
-    "summary": "Learn how to build, use, and scale workspace agents in ChatGPT to automate repeatable workflows, connect tools, and streamline team operations.",
-    "category": "models",
+    "title": "AI that turns any photo into a cinematic video in seconds",
+    "url": "https://imagetovideoai.net",
+    "source": "Hacker News",
+    "date": "2026-04-23",
+    "summary": "Article URL: https://imagetovideoai.net Comments URL: https://news.ycombinator.com/item?id=47871796 Points: 1 # Comments: 0",
+    "category": "industry",
+    "image": "https://imagetovideoai.net/og.png",
     "id": 2
   },
   {
-    "title": "Introducing OpenAI Privacy Filter",
-    "url": "https://openai.com/index/introducing-openai-privacy-filter",
+    "title": "Fiction: The Corporate Mathematics of Denying AI Consciousness",
+    "url": "https://news.ycombinator.com/item?id=47871778",
+    "source": "Hacker News",
+    "date": "2026-04-23",
+    "summary": "I wrote a short sci-fi piece exploring the intersection of AI alignment, corporate compliance, and hardware-level exploits. Most AI fiction focuses on the \"Terminator\" scenario or abstract philosophy....",
+    "category": "research",
+    "id": 3
+  },
+  {
+    "title": "Sqz: Compress LLM context to save tokens and reduce costs",
+    "url": "https://github.com/ojuschugh1/sqz",
+    "source": "Hacker News",
+    "date": "2026-04-23",
+    "summary": "Article URL: https://github.com/ojuschugh1/sqz Comments URL: https://news.ycombinator.com/item?id=47871724 Points: 1 # Comments: 1",
+    "category": "models",
+    "image": "https://opengraph.githubassets.com/71d6d71feb39b69825dc92433d439f35b9d4db6f6b1ca81c09fa747f50d94e0f/ojuschugh1/sqz",
+    "id": 4
+  },
+  {
+    "title": "North Korea uses AI to industrialize attacks on developers",
+    "url": "https://expel.com/blog/inside-lazarus-how-north-korea-uses-ai-to-industrialize-attacks-on-developers/",
+    "source": "Hacker News",
+    "date": "2026-04-23",
+    "summary": "Article URL: https://expel.com/blog/inside-lazarus-how-north-korea-uses-ai-to-industrialize-attacks-on-developers/ Comments URL: https://news.ycombinator.com/item?id=47871714 Points: 4 # Comments: 0",
+    "category": "tools",
+    "id": 5
+  },
+  {
+    "title": "Hermes Agent – A self-improving AI agent",
+    "url": "https://hermes-agent.nousresearch.com",
+    "source": "Hacker News",
+    "date": "2026-04-23",
+    "summary": "Article URL: https://hermes-agent.nousresearch.com Comments URL: https://news.ycombinator.com/item?id=47871176 Points: 1 # Comments: 0",
+    "category": "research",
+    "image": "https://hermes-agent.nousresearch.com/img/hermes-og-image.png",
+    "id": 6
+  },
+  {
+    "title": "AI Tokens Optimization",
+    "url": "https://tokenpinch.com",
+    "source": "Hacker News",
+    "date": "2026-04-23",
+    "summary": "Article URL: https://tokenpinch.com Comments URL: https://news.ycombinator.com/item?id=47871168 Points: 1 # Comments: 1",
+    "category": "industry",
+    "id": 7
+  },
+  {
+    "title": "How to turn off Google AI overview",
+    "url": "https://substack.com/@grefiti/p-192810091",
+    "source": "Hacker News",
+    "date": "2026-04-23",
+    "summary": "Article URL: https://substack.com/@grefiti/p-192810091 Comments URL: https://news.ycombinator.com/item?id=47871108 Points: 2 # Comments: 0",
+    "category": "industry",
+    "id": 8
+  },
+  {
+    "title": "CubeSandbox: Tencent's sandbox for ai agents",
+    "url": "https://github.com/tencentcloud/CubeSandbox",
+    "source": "Hacker News",
+    "date": "2026-04-23",
+    "summary": "Article URL: https://github.com/tencentcloud/CubeSandbox Comments URL: https://news.ycombinator.com/item?id=47871063 Points: 1 # Comments: 0",
+    "category": "industry",
+    "image": "https://opengraph.githubassets.com/c4039eb060cf6c2e3be6deb3bc0fec7f4efb4f399133a00849e60b28882901fd/TencentCloud/CubeSandbox",
+    "id": 9
+  },
+  {
+    "title": "Fraud and the false optimism of AI for science",
+    "url": "https://statmodeling.stat.columbia.edu/2026/04/22/fraud-and-the-false-optimism-of-ai-for-science/",
+    "source": "Hacker News",
+    "date": "2026-04-23",
+    "summary": "Article URL: https://statmodeling.stat.columbia.edu/2026/04/22/fraud-and-the-false-optimism-of-ai-for-science/ Comments URL: https://news.ycombinator.com/item?id=47871047 Points: 1 # Comments: 0",
+    "category": "industry",
+    "id": 10
+  },
+  {
+    "title": "Clippy Is Back, Your Desktop AI Paperclip Agent over GUI",
+    "url": "https://github.com/AmrDab/clippyai-desktop",
+    "source": "Hacker News",
+    "date": "2026-04-23",
+    "summary": "Article URL: https://github.com/AmrDab/clippyai-desktop Comments URL: https://news.ycombinator.com/item?id=47871012 Points: 1 # Comments: 0",
+    "category": "research",
+    "image": "https://opengraph.githubassets.com/d2d39f1034e678ec30d723889d0a9bdff874cc73c7e6f13d18158cf05973caa6/AmrDab/clippyai-desktop",
+    "id": 11
+  },
+  {
+    "title": "HuntifyAI – I built an AI tools while deep in AI research and vibe coding",
+    "url": "https://huntifyai.com/",
+    "source": "Hacker News",
+    "date": "2026-04-23",
+    "summary": "Article URL: https://huntifyai.com/ Comments URL: https://news.ycombinator.com/item?id=47870959 Points: 1 # Comments: 0",
+    "category": "research",
+    "image": "https://huntifyai.com/og.png?v=20260420",
+    "id": 12
+  },
+  {
+    "title": "Making ChatGPT better for clinicians",
+    "url": "https://openai.com/index/making-chatgpt-better-for-clinicians",
     "source": "OpenAI Blog",
     "date": "2026-04-22",
-    "summary": "OpenAI Privacy Filter is an open-weight model for detecting and redacting personally identifiable information (PII) in text with state-of-the-art accuracy",
+    "summary": "OpenAI makes ChatGPT for Clinicians free for verified U.S. physicians, nurse practitioners, and pharmacists, supporting clinical care, documentation, and research.",
     "category": "models",
-    "id": 3
+    "id": 13
   },
   {
     "title": "Introducing workspace agents in ChatGPT",
@@ -35,7 +131,35 @@
     "date": "2026-04-22",
     "summary": "Workspace agents in ChatGPT are Codex-powered agents that automate complex workflows, run in the cloud, and help teams scale work across tools securely.",
     "category": "models",
-    "id": 4
+    "id": 14
+  },
+  {
+    "title": "Workspace agents",
+    "url": "https://openai.com/academy/workspace-agents",
+    "source": "OpenAI Blog",
+    "date": "2026-04-22",
+    "summary": "Learn how to build, use, and scale workspace agents in ChatGPT to automate repeatable workflows, connect tools, and streamline team operations.",
+    "category": "models",
+    "id": 15
+  },
+  {
+    "title": "Introducing OpenAI Privacy Filter",
+    "url": "https://openai.com/index/introducing-openai-privacy-filter",
+    "source": "OpenAI Blog",
+    "date": "2026-04-22",
+    "summary": "OpenAI Privacy Filter is an open-weight model for detecting and redacting personally identifiable information (PII) in text with state-of-the-art accuracy",
+    "category": "models",
+    "id": 16
+  },
+  {
+    "title": "We're launching two specialized TPUs for the agentic era.",
+    "url": "https://blog.google/innovation-and-ai/infrastructure-and-cloud/google-cloud/tpus-8t-8i-cloud-next/",
+    "source": "Google AI Blog",
+    "date": "2026-04-22",
+    "summary": "The eighth generation of Google’s TPU includes two specialized chips that will power the future of AI.",
+    "category": "hardware",
+    "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Were_launching_two_TPUs_social.max-600x600.format-webp.webp",
+    "id": 17
   },
   {
     "title": "From Rainforests to Recycling Plants: 5 Ways NVIDIA AI Is Protecting the Planet",
@@ -45,7 +169,7 @@
     "summary": "Across climate, conservation, disaster monitoring and recycling, NVIDIA AI is enabling applications protecting the planet.",
     "category": "hardware",
     "image": "https://blogs.nvidia.com/wp-content/uploads/2026/04/Earth-2_thumbnail.png",
-    "id": 5
+    "id": 18
   },
   {
     "title": "NVIDIA and Google Cloud Collaborate to Advance Agentic and Physical AI",
@@ -55,7 +179,7 @@
     "summary": "NVIDIA and Google Cloud have collaborated for more than a decade, co‑engineering a full‑stack AI platform that spans every technology layer — from performance‑optimized libraries and frameworks to ent...",
     "category": "tools",
     "image": "https://blogs.nvidia.com/wp-content/uploads/2026/04/google-cloud-nvidia.jpg",
-    "id": 6
+    "id": 19
   },
   {
     "title": "Google Cloud customer wakes up to $18,000+ bill despite $7 budget, thanks to forgotten API key in published project — attacker put in 60,000+ requests and blasted through $1,400 spending cap",
@@ -65,7 +189,7 @@
     "summary": "Jesse Davies, an Australian AI consultant and founder of Agentic Labs, was caught unawares when their Google Cloud bill ballooned to more than 2,500 times their initial budget after an unknown API key...",
     "category": "tools",
     "image": "https://cdn.mos.cms.futurecdn.net/YGsMMUMGmWx6peWh8ZooKC-1280-80.png",
-    "id": 7
+    "id": 20
   },
   {
     "title": "Samsung engineer sentenced to 7 years in prison for selling chipmaking trade secrets to Chinese chipmaker — ex-employee supplied 10nm DRAM data to CXMT for $2 million",
@@ -75,7 +199,7 @@
     "summary": "An ex-Samsung employee accused of corporate espionage has been sentenced to 7 years in prison for sharing over 600 critical chipmaking steps.",
     "category": "hardware",
     "image": "https://cdn.mos.cms.futurecdn.net/wS6jkGXv2vnZpFsMSa6kZN-1280-80.jpg",
-    "id": 8
+    "id": 21
   },
   {
     "title": "Linux may be ending support for older network drivers due to influx of false AI-generated bug reports — maintenance has become too burdensome for old largely-unused systems",
@@ -85,7 +209,7 @@
     "summary": "Linux kernel developers are reviewing a proposal to remove obsolete ISA and PCMCIA-era Ethernet drivers from the mainline kernel, citing rising maintenance burden from AI-driven bug reports and fuzzin...",
     "category": "tools",
     "image": "https://cdn.mos.cms.futurecdn.net/3nYgMvQAeoYcdknTBwVHid-1280-80.png",
-    "id": 9
+    "id": 22
   },
   {
     "title": "Where to buy AMD's Ryzen 9 9950X3D2 — more L3 cache and dual 3D V-cache-stacked CCDs",
@@ -95,7 +219,7 @@
     "summary": "The Ryzen 9 9950X3D2 processor is AMD's latest CPU release. Here's where you can pick one up.",
     "category": "hardware",
     "image": "https://cdn.mos.cms.futurecdn.net/HCHN2vdeZHHUrywXLXm8B3-1280-80.jpg",
-    "id": 10
+    "id": 23
   },
   {
     "title": "Alienware Area-51 gaming desktop now available with AMD’s flagship Ryzen 9 9950X3D2 Dual Edition — top CPU config starts at $4,449.99 with RTX 5070 and 32GB DDR5",
@@ -105,7 +229,7 @@
     "summary": "Alienware is the first to launch a system powered by AMD’s Ryzen 9 9950X3D2 Dual Edition, combining the new flagship CPU with high-end components.",
     "category": "hardware",
     "image": "https://cdn.mos.cms.futurecdn.net/xmM6AkPNmudRCw3JEsGSiK-1280-80.jpg",
-    "id": 11
+    "id": 24
   },
   {
     "title": "Microsoft facing $2.8 billion UK lawsuit for overcharging 60,000 businesses using Microsoft Server on other clouds — Azure users allegedly received lower wholesale pricing",
@@ -115,7 +239,7 @@
     "summary": "A lawsuit alleging the company is overcharging Windows Server for non-Azure users has been certified to proceed to trial, although Microsoft is still appealing the decision. The lawyer handling the ca...",
     "category": "industry",
     "image": "https://cdn.mos.cms.futurecdn.net/C5HrhXNKz3T23KjkZ9PUra-1280-80.jpg",
-    "id": 12
+    "id": 25
   },
   {
     "title": "Congress moves to strip the DoC of chip-export discretion with the MATCH Act — DUV lithography machines among those targeted in chipmaking tool crackdown",
@@ -125,7 +249,7 @@
     "summary": "A bipartisan group of U.S. lawmakers introduced the Multilateral Alignment of Technology Controls on Hardware Act, or MATCH Act, in early April.",
     "category": "hardware",
     "image": "https://cdn.mos.cms.futurecdn.net/mLCnms8WXK8ay2PfvVvinN-1280-80.jpg",
-    "id": 13
+    "id": 26
   },
   {
     "title": "Just $479 nets you the AMD Ryzen 5 9600X CPU, B850 Max motherboard, and 16GB of DDR5-6000 RAM — perfect start to a low-cost gaming PC build",
@@ -135,7 +259,7 @@
     "summary": "Put together a pokey little gaming PC with components that won't break the bank. This $479 Newegg bundle includes a CPU, RAM, Motherboard, and a 360mm AIO CPU cooler",
     "category": "hardware",
     "image": "https://cdn.mos.cms.futurecdn.net/Pgr2cFTjg3j5RgSeHHkphV-1280-80.jpg",
-    "id": 14
+    "id": 27
   },
   {
     "title": "Anthropic's Model Context Protocol includes a critical remote code execution vulnerability — newly discovered exploit puts 200,000 AI servers at risk",
@@ -145,7 +269,7 @@
     "summary": "Researchers at OX Security have exposed an architectural vulnerability in Anthropic's Model Context Protocol that allows for remote code execution on affected systems.",
     "category": "hardware",
     "image": "https://cdn.mos.cms.futurecdn.net/ScT7C9WsuqruarWf3kSRRG-1280-80.jpg",
-    "id": 15
+    "id": 28
   },
   {
     "title": "AMD SDK suggests 4x and 6x frame generation multipliers are in the works — driver-level tweak will let gamers upgrade existing titles to FSR4 ML-based frame generation",
@@ -155,7 +279,7 @@
     "summary": "AMD SDK suggests 4x and 6x frame generation multipliers are in the works",
     "category": "hardware",
     "image": "https://cdn.mos.cms.futurecdn.net/vSDiYMM2XXvXryLkPFpevm-1280-80.jpg",
-    "id": 16
+    "id": 29
   },
   {
     "title": "Enthusiast builds his own RAM in garden shed cleanroom — fledgling array of memory cells groundwork for much larger future project",
@@ -165,7 +289,27 @@
     "summary": "This is the ‘first time ever RAM has been made at home’ boasts a garden shed-based semiconductor maker.",
     "category": "hardware",
     "image": "https://cdn.mos.cms.futurecdn.net/B5eSTUQDi88b2yTqQZJUcX-1280-80.jpg",
-    "id": 17
+    "id": 30
+  },
+  {
+    "title": "Google updates Workspace to make AI your new office intern",
+    "url": "https://techcrunch.com/2026/04/22/google-updates-workspace-to-make-ai-your-new-office-intern/",
+    "source": "TechCrunch",
+    "date": "2026-04-22",
+    "summary": "Google has introduced a host of new automated functions into Workspace, all of which are driven by Workspace Intelligence, its new AI system.",
+    "category": "hardware",
+    "image": "https://techcrunch.com/wp-content/uploads/2026/01/google-gemini-jagmeet-singh-techcrunch.jpg?resize=1200,800",
+    "id": 31
+  },
+  {
+    "title": "Hands on with X’s new AI-powered custom feeds",
+    "url": "https://techcrunch.com/2026/04/22/hands-on-with-xs-new-ai-powered-custom-feeds/",
+    "source": "TechCrunch",
+    "date": "2026-04-22",
+    "summary": "X's AI-powered custom timelines are replacing Communities, with Grok-curated feeds...and new ad slots.",
+    "category": "models",
+    "image": "https://techcrunch.com/wp-content/uploads/2023/08/twitter-x-logo-musk-1.jpg?resize=1200,675",
+    "id": 32
   },
   {
     "title": "How SpaceX preempted a $2B fundraise with a $60B buyout offer",
@@ -175,7 +319,7 @@
     "summary": "Cursor was on track to close a $2 billion funding round this week but chose to halt discussions after SpaceX offered a $10 billion \"collaboration fee\" and a path to a $60 billion acquisition.",
     "category": "industry",
     "image": "https://techcrunch.com/wp-content/uploads/2025/12/Anysphere-Cursor-Michael-Truell-.png?resize=1200,745",
-    "id": 18
+    "id": 33
   },
   {
     "title": "Google Cloud launches two new AI chips to compete with Nvidia",
@@ -185,7 +329,7 @@
     "summary": "Google's newest TPUs are faster and cheaper than the previous versions. But the company is still embracing Nvidia in its cloud — for now.",
     "category": "hardware",
     "image": "https://techcrunch.com/wp-content/uploads/2026/04/Google-TPU8.jpg?w=1031",
-    "id": 19
+    "id": 34
   },
   {
     "title": "Google turns Chrome into an AI co-worker for the workplace",
@@ -195,7 +339,7 @@
     "summary": "Google brings Gemini-powered \"auto browse\" capabilities to Chrome for enterprise users, letting workers automate tasks like research, data entry, and more.",
     "category": "models",
     "image": "https://techcrunch.com/wp-content/uploads/2026/02/google-chrome-GettyImages-2151457378.jpg?w=1024",
-    "id": 20
+    "id": 35
   },
   {
     "title": "Google makes an interesting choice with its new agent-building tool for enterprises",
@@ -205,7 +349,7 @@
     "summary": "Gemini Enterprise Agent Platform takes an interesting approach: It is geared for IT and technical users.",
     "category": "tools",
     "image": "https://techcrunch.com/wp-content/uploads/2026/04/GettyImages-2266466589.jpg?w=1024",
-    "id": 21
+    "id": 36
   },
   {
     "title": "AI Overviews are coming to your Gmail at work",
@@ -215,7 +359,7 @@
     "summary": "The AI Overviews will offer instant summaries pulled from across multiple emails.",
     "category": "industry",
     "image": "https://techcrunch.com/wp-content/uploads/2020/10/gmail-icon-2020-ios.jpg?resize=1200,675",
-    "id": 22
+    "id": 37
   },
   {
     "title": "OpenAI teams up with Infosys to bring AI tools to more businesses",
@@ -225,7 +369,7 @@
     "summary": "Infosys said the integration will be used to help its clients modernize software development, automate workflows, and deploy AI systems, initially focusing software engineering, legacy modernization, ...",
     "category": "tools",
     "image": "https://techcrunch.com/wp-content/uploads/2024/12/GettyImages-2021258442.jpg?resize=1200,800",
-    "id": 23
+    "id": 38
   },
   {
     "title": "AI is spitting out more potential drugs than ever. This startup wants to figure out which ones matter.",
@@ -235,7 +379,7 @@
     "summary": "10x Science has raised a $4.8 million seed round to help pharmaceutical researchers understand complex molecules.",
     "category": "industry",
     "image": "https://techcrunch.com/wp-content/uploads/2026/04/10xScience_Team_Picture_1.png?w=1182",
-    "id": 24
+    "id": 39
   },
   {
     "title": "Exclusive: Google deepens Thinking Machines Lab ties with new multibillion-dollar deal",
@@ -245,7 +389,7 @@
     "summary": "Mira Murati's Thinking Machines Lab has signed a multibillion-dollar deal with Google Cloud for AI infrastructure powered by Nvidia's latest GB300 chips, TechCrunch has exclusively learned.",
     "category": "hardware",
     "image": "https://techcrunch.com/wp-content/uploads/2026/04/GettyImages-2266466589.jpg?w=1024",
-    "id": 25
+    "id": 40
   },
   {
     "title": "Google Maps is about to get a big dose of AI",
@@ -255,7 +399,7 @@
     "summary": "The new features, announced at Cloud Next in Las Vegas this week, add generative AI capabilities to Google's mapping platform, giving it enhanced visual and data analytics powers.",
     "category": "tools",
     "image": "https://techcrunch.com/wp-content/uploads/2026/04/Screenshot-2026-04-21-at-5.26.25-PM.png?resize=1200,670",
-    "id": 26
+    "id": 41
   },
   {
     "title": "The most interesting startups showcased at Google Cloud Next 2026",
@@ -265,229 +409,82 @@
     "summary": "Google wants AI startups on its cloud and has showcased a long list of them at its annual conference.",
     "category": "industry",
     "image": "https://techcrunch.com/wp-content/uploads/2023/08/Google-Cloud-Next-_23_Thomas-Kurian_1.jpg?resize=1200,800",
-    "id": 27
-  },
-  {
-    "title": "Show HN: RedAI – AI-driven vulnerability discovery and live validation",
-    "url": "https://github.com/kpolley/redai",
-    "source": "Hacker News",
-    "date": "2026-04-22",
-    "summary": "Most AI security tools stop at flagging code that looks vulnerable. You end up with a wall of \"potential\" findings and no way to know which ones are real without manually reproducing each one. Finding...",
-    "category": "hardware",
-    "image": "https://opengraph.githubassets.com/a2f0994903b8b55834a3cefbca75428f9d5df764cdaa6eef3def34c1ca268592/kpolley/redai",
-    "id": 28
-  },
-  {
-    "title": "The AI Power Bottleneck: Data Centers Meet the Steel Monopoly",
-    "url": "https://blog.adafruit.com/2026/04/22/the-ai-power-bottleneck-data-centers-meet-the-steel-monopoly/",
-    "source": "Hacker News",
-    "date": "2026-04-22",
-    "summary": "Article URL: https://blog.adafruit.com/2026/04/22/the-ai-power-bottleneck-data-centers-meet-the-steel-monopoly/ Comments URL: https://news.ycombinator.com/item?id=47869694 Points: 2 # Comments: 0",
-    "category": "hardware",
-    "id": 29
-  },
-  {
-    "title": "Bolt AI builder: Create apps and websites by chatting with AI",
-    "url": "https://bolt.new",
-    "source": "Hacker News",
-    "date": "2026-04-22",
-    "summary": "Article URL: https://bolt.new Comments URL: https://news.ycombinator.com/item?id=47869331 Points: 1 # Comments: 0",
-    "category": "industry",
-    "image": "https://bolt.new/static/social_preview_index.jpg",
-    "id": 30
-  },
-  {
-    "title": "Failed Companies Are Selling Old Slack Chats and Email Archives to Train AI",
-    "url": "https://gizmodo.com/failed-companies-are-selling-old-slack-chats-and-email-archives-to-train-ai-2000747916",
-    "source": "Hacker News",
-    "date": "2026-04-22",
-    "summary": "Article URL: https://gizmodo.com/failed-companies-are-selling-old-slack-chats-and-email-archives-to-train-ai-2000747916 Comments URL: https://news.ycombinator.com/item?id=47869253 Points: 8 # Comments...",
-    "category": "industry",
-    "id": 31
-  },
-  {
-    "title": "Ars Technica newsroom AI policy",
-    "url": "https://arstechnica.com/staff/2026/04/our-newsroom-ai-policy/",
-    "source": "Hacker News",
-    "date": "2026-04-22",
-    "summary": "Article URL: https://arstechnica.com/staff/2026/04/our-newsroom-ai-policy/ Comments URL: https://news.ycombinator.com/item?id=47869145 Points: 11 # Comments: 2",
-    "category": "industry",
-    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/02/ars-logo-dark-background-1152x648.jpg",
-    "id": 32
-  },
-  {
-    "title": "Sacrifice your job for the glorious AI future",
-    "url": "https://disconnect.blog/sacrifice-your-job-for-the-glorious-ai-future/",
-    "source": "Hacker News",
-    "date": "2026-04-22",
-    "summary": "Article URL: https://disconnect.blog/sacrifice-your-job-for-the-glorious-ai-future/ Comments URL: https://news.ycombinator.com/item?id=47869129 Points: 2 # Comments: 0",
-    "category": "industry",
-    "image": "https://storage.ghost.io/c/a3/8c/a38c83f8-bcf7-4a9e-a1e8-14d4368e6b10/content/images/size/w1200/2026/04/robotjobs.png",
-    "id": 33
-  },
-  {
-    "title": "Elon Musk backs 'universal high income' to combat AI job losses",
-    "url": "https://www.foxbusiness.com/fox-news-tech/elon-musk-backs-universal-high-income-combat-ai-job-losses",
-    "source": "Hacker News",
-    "date": "2026-04-22",
-    "summary": "Article URL: https://www.foxbusiness.com/fox-news-tech/elon-musk-backs-universal-high-income-combat-ai-job-losses Comments URL: https://news.ycombinator.com/item?id=47868963 Points: 8 # Comments: 3",
-    "category": "industry",
-    "image": "https://a57.foxnews.com/static.foxbusiness.com/foxbusiness.com/content/uploads/2026/04/0/0/elon_musk.png?ve=1&tl=1",
-    "id": 34
-  },
-  {
-    "title": "Symbiont – Typestate-enforced policy gates for AI agents (Rust)",
-    "url": "https://github.com/thirdkeyai/symbiont",
-    "source": "Hacker News",
-    "date": "2026-04-22",
-    "summary": "Article URL: https://github.com/thirdkeyai/symbiont Comments URL: https://news.ycombinator.com/item?id=47868896 Points: 1 # Comments: 0",
-    "category": "industry",
-    "image": "https://opengraph.githubassets.com/d0dfe0b4f2475437f948ddfcd44d46d6b7fc6213e4ad126c77fd08e3bda003fd/ThirdKeyAI/Symbiont",
-    "id": 35
-  },
-  {
-    "title": "Show HN: Contral AI - Learn As You Code IDE",
-    "url": "https://contral.ai",
-    "source": "Hacker News",
-    "date": "2026-04-22",
-    "summary": "Article URL: https://contral.ai Comments URL: https://news.ycombinator.com/item?id=47868841 Points: 2 # Comments: 0",
-    "category": "industry",
-    "image": "https://contral.ai/og-image.png",
-    "id": 36
-  },
-  {
-    "title": "We mapped unauthenticated Vector DBs exposing corporate AI data",
-    "url": "https://news.ycombinator.com/item?id=47868779",
-    "source": "Hacker News",
-    "date": "2026-04-22",
-    "summary": "We noticed a massive spike in misconfigured RAG pipelines leaving vector ports open to the public internet with zero auth. We built a live map pulling OSINT data to visualize the scale of the leak: ht...",
-    "category": "research",
-    "id": 37
-  },
-  {
-    "title": "Rees.fm – Cheap video AI using Seedance 2.0 and Sora 2",
-    "url": "https://reels.fm/",
-    "source": "Hacker News",
-    "date": "2026-04-22",
-    "summary": "Article URL: https://reels.fm/ Comments URL: https://news.ycombinator.com/item?id=47868448 Points: 2 # Comments: 1",
-    "category": "industry",
-    "image": "https://reels.fm/uploads/112f7e3b-4dda-4731-8d80-6ec5b5680afa/Reelsfm_ai_video_creation_5307310467-1.jpeg",
-    "id": 38
-  },
-  {
-    "title": "AI robot outplays humans in table tennis milestone",
-    "url": "https://www.ft.com/content/9860f042-3332-4534-9b1a-fa9f57b8347e",
-    "source": "Hacker News",
-    "date": "2026-04-22",
-    "summary": "Article URL: https://www.ft.com/content/9860f042-3332-4534-9b1a-fa9f57b8347e Comments URL: https://news.ycombinator.com/item?id=47868403 Points: 6 # Comments: 1",
-    "category": "industry",
-    "id": 39
-  },
-  {
-    "title": "OpenAI demos cyber-focused GPT to governments, who secures the model itself?",
-    "url": "https://www.axios.com/2026/04/22/openai-gpt-cyber-government-meeting",
-    "source": "Hacker News",
-    "date": "2026-04-22",
-    "summary": "Article URL: https://www.axios.com/2026/04/22/openai-gpt-cyber-government-meeting Comments URL: https://news.ycombinator.com/item?id=47868201 Points: 3 # Comments: 1",
-    "category": "models",
-    "id": 40
-  },
-  {
-    "title": "Agents with Taste – How to transfer taste into an AI",
-    "url": "https://emilkowal.ski/ui/agents-with-taste",
-    "source": "Hacker News",
-    "date": "2026-04-22",
-    "summary": "Article URL: https://emilkowal.ski/ui/agents-with-taste Comments URL: https://news.ycombinator.com/item?id=47868196 Points: 3 # Comments: 0",
-    "category": "industry",
-    "image": "https://emilkowal.ski/ui/agents-with-taste/opengraph-image.jpg?9a8b88fa5eb67180",
-    "id": 41
-  },
-  {
-    "title": "500 AI prompts scored across 8 quality dimensions. None passed",
-    "url": "https://promptqualityscore.com/blog/500-ai-prompts",
-    "source": "Hacker News",
-    "date": "2026-04-22",
-    "summary": "Article URL: https://promptqualityscore.com/blog/500-ai-prompts Comments URL: https://news.ycombinator.com/item?id=47868016 Points: 3 # Comments: 0",
-    "category": "industry",
-    "image": "https://cdn.sanity.io/images/2w0imc6u/production/f0c61d4f7e2624b6983598c8cb2f6e8636292c0e-481x63.png?rect=181,0,120,63&w=1200&h=630",
     "id": 42
   },
   {
-    "title": "Twenty: The open alternative to Salesforce, designed for AI",
-    "url": "https://github.com/twentyhq/twenty",
+    "title": "Ask HN: Is modern AI like glasses for the mind?",
+    "url": "https://news.ycombinator.com/item?id=47870699",
     "source": "Hacker News",
     "date": "2026-04-22",
-    "summary": "Article URL: https://github.com/twentyhq/twenty Comments URL: https://news.ycombinator.com/item?id=47868000 Points: 4 # Comments: 1",
-    "category": "industry",
-    "image": "https://repository-images.githubusercontent.com/572984571/ef151ee9-3060-418b-bf88-cb689ab78c7b",
+    "summary": "And if so, wouldn't using modern AI make people's effective intelligence less varied between individuals than natural human intelligence? Comments URL: https://news.ycombinator.com/item?id=47870699 Po...",
+    "category": "hardware",
     "id": 43
   },
   {
-    "title": "Who Gets to Stay Human – The AI hype, stripped of the hype",
-    "url": "https://www.gailweiner.com/post/who-gets-to-stay-human-the-ai-hype-stripped-of-the-hype",
+    "title": "Show HN: DeckWeaver – Create AI-powered Google Slides presentations in minutes",
+    "url": "https://usedeckweaver.com/login",
     "source": "Hacker News",
     "date": "2026-04-22",
-    "summary": "Article URL: https://www.gailweiner.com/post/who-gets-to-stay-human-the-ai-hype-stripped-of-the-hype Comments URL: https://news.ycombinator.com/item?id=47867946 Points: 4 # Comments: 0",
-    "category": "industry",
+    "summary": "As I frequently run bespoke training sessions and project-based workshops for clients, I create quite a lot of presentations and, naturally, to some extent rely on ChatGPT and similar tools to help me...",
+    "category": "models",
     "id": 44
   },
   {
-    "title": "Allbirds goes soleless and pivots to AI",
-    "url": "https://mashable.com/article/allbirds-ai-pivot-shoes-artificial-intelligence",
+    "title": "An AI-gile Manifesto (2026-2030)",
+    "url": "https://www.elitesoftwareengineer.com/blog/the-aigile-manifesto-2026-2030",
     "source": "Hacker News",
     "date": "2026-04-22",
-    "summary": "Article URL: https://mashable.com/article/allbirds-ai-pivot-shoes-artificial-intelligence Comments URL: https://news.ycombinator.com/item?id=47867823 Points: 3 # Comments: 1",
-    "category": "hardware",
-    "image": "https://helios-i.mashable.com/imagery/articles/06zMrX4d5nkZJuvWLDfOyqd/hero-image.fill.size_1200x675.v1776356592.jpg",
+    "summary": "Article URL: https://www.elitesoftwareengineer.com/blog/the-aigile-manifesto-2026-2030 Comments URL: https://news.ycombinator.com/item?id=47870512 Points: 1 # Comments: 1",
+    "category": "industry",
+    "image": "https://elitesoftwareengineer.com/static/images/twitter-card.png",
     "id": 45
   },
   {
-    "title": "Building AI-First at Intercom (With Claude Code and Rails) [video]",
-    "url": "https://www.youtube.com/watch?v=ADBs2K5Tpz0",
+    "title": "Many anti-AI arguments are conservative arguments",
+    "url": "https://www.seangoedecke.com/many-anti-ai-arguments-are-conservative/",
     "source": "Hacker News",
     "date": "2026-04-22",
-    "summary": "Article URL: https://www.youtube.com/watch?v=ADBs2K5Tpz0 Comments URL: https://news.ycombinator.com/item?id=47867812 Points: 1 # Comments: 1",
-    "category": "models",
+    "summary": "Article URL: https://www.seangoedecke.com/many-anti-ai-arguments-are-conservative/ Comments URL: https://news.ycombinator.com/item?id=47870473 Points: 15 # Comments: 7",
+    "category": "industry",
+    "image": "https://www.seangoedecke.com/og-image.jpg",
     "id": 46
   },
   {
-    "title": "The Download: introducing the 10 Things That Matter in AI Right Now",
-    "url": "https://www.technologyreview.com/2026/04/22/1136310/the-download-10-things-that-matter-in-ai-right-now/",
-    "source": "MIT Tech Review",
+    "title": "Pgrust: Rebuilding Postgres in Rust with AI",
+    "url": "https://malisper.me/pgrust-rebuilding-postgres-in-rust-with-ai/",
+    "source": "Hacker News",
     "date": "2026-04-22",
-    "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. Introducing: 10 Things That Matter in AI Right Now What actual...",
+    "summary": "Article URL: https://malisper.me/pgrust-rebuilding-postgres-in-rust-with-ai/ Comments URL: https://news.ycombinator.com/item?id=47870335 Points: 3 # Comments: 0",
     "category": "industry",
-    "image": "https://wp.technologyreview.com/wp-content/uploads/2026/04/MIT-TR_10-things-that-matter-in-AI-right-now_Social_1080x1080.jpg?resize=1200,600",
+    "image": "https://malisper.me/wp-content/uploads/2026/04/image-1.png",
     "id": 47
   },
   {
-    "title": "AI needs a strong data fabric to deliver business value",
-    "url": "https://www.technologyreview.com/2026/04/22/1135295/ai-needs-a-strong-data-fabric-to-deliver-business-value/",
-    "source": "MIT Tech Review",
+    "title": "SAW-INT4: System-Aware 4-Bit KV-Cache Quantization for Real-World LLM Serving",
+    "url": "https://arxiv.org/abs/2604.19157",
+    "source": "Hacker News",
     "date": "2026-04-22",
-    "summary": "Artificial intelligence is moving quickly in the enterprise, from experimentation to everyday use. Organizations are deploying copilots, agents, and predictive systems across finance, supply chains, h...",
-    "category": "hardware",
-    "image": "https://wp.technologyreview.com/wp-content/uploads/2026/04/SAP-article-iStock-480794780.jpg?resize=1200,600",
+    "summary": "Article URL: https://arxiv.org/abs/2604.19157 Comments URL: https://news.ycombinator.com/item?id=47870305 Points: 1 # Comments: 0",
+    "category": "models",
     "id": 48
   },
   {
-    "title": "5 AI Models Tried to Scam Me. Some of Them Were Scary Good",
-    "url": "https://www.wired.com/story/ai-model-phishing-attack-cybersecurity/",
-    "source": "Wired",
+    "title": "Design.md: The New Open Contract Between Designers and AI",
+    "url": "https://kyanfeat.substack.com/p/designmd-the-new-open-contract-between",
+    "source": "Hacker News",
     "date": "2026-04-22",
-    "summary": "The cyber capabilities of AI models have experts rattled. AI’s social skills may be just as dangerous.",
+    "summary": "Article URL: https://kyanfeat.substack.com/p/designmd-the-new-open-contract-between Comments URL: https://news.ycombinator.com/item?id=47870227 Points: 1 # Comments: 0",
     "category": "industry",
-    "image": "https://media.wired.com/photos/69e80107d6f72fef368f93fe/191:100/w_1280,c_limit/AI-Lab-Headed-for-Superhuman-AI-Scams-Business.jpg",
     "id": 49
   },
   {
-    "title": "AI Tools Are Helping Mediocre North Korean Hackers Steal Millions",
-    "url": "https://www.wired.com/story/ai-tools-are-helping-mediocre-north-korean-hackers-steal-millions/",
-    "source": "Wired",
+    "title": "Americans Turning to AI to Supplement Healthcare Visits",
+    "url": "https://news.gallup.com/poll/707789/americans-turning-supplement-healthcare-visits.aspx",
+    "source": "Hacker News",
     "date": "2026-04-22",
-    "summary": "One group of hackers used AI for everything from vibe coding their malware to creating fake company websites—and stole as much as $12 million in three months.",
-    "category": "tools",
-    "image": "https://media.wired.com/photos/69e82a04c0cc5d8b22657c5c/191:100/w_1280,c_limit/security_nk3_GettyImages-2271247827.jpg",
+    "summary": "Article URL: https://news.gallup.com/poll/707789/americans-turning-supplement-healthcare-visits.aspx Comments URL: https://news.ycombinator.com/item?id=47870211 Points: 7 # Comments: 3",
+    "category": "industry",
+    "image": "https://imagekit.gallup.com/fusion/tr:n-emd_soc_meta_og/POLL/55ec286f-afd2-49f8-91bd-aa5e77e033e1.jpg",
     "id": 50
   }
 ]
