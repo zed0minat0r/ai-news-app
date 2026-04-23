@@ -1,5 +1,26 @@
 [
   {
+    "title": "Bolt Graphics tapes out its first Zeus GPU test chip on TSMC 12nm — firm touts 17x lower cost of compute",
+    "url": "https://www.tomshardware.com/tech-industry/semiconductors/bolt-graphics-tapes-out-its-first-zeus-gpu-test-chip-on-tsmc-12nm",
+    "source": "Tom's Hardware",
+    "date": "2026-04-23",
+    "summary": "Bolt Graphics has announced its completed tape-out of a test chip for its Zeus GPU, marking the startup's first move from FPGA emulation to manufactured silicon.",
+    "category": "hardware",
+    "image": "https://cdn.mos.cms.futurecdn.net/PaQrxNPWJVBseB4t9KkFTm-1280-80.png",
+    "id": 1,
+    "featured": true
+  },
+  {
+    "title": "AI agent designs a complete RISC-V CPU from a 219-word spec sheet in just 12 hours — comparably simple design required 'many tens of billions of tokens'",
+    "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/ai-agent-designs-a-complete-risc-v-cpu-from-a-219-word-spec-in-just-12-hours",
+    "source": "Tom's Hardware",
+    "date": "2026-04-23",
+    "summary": "AI chip design startup Verkor.io claims that its agentic AI system, Design Conductor, has autonomously produced a complete RISC-V CPU core.",
+    "category": "hardware",
+    "image": "https://cdn.mos.cms.futurecdn.net/HKQEBis85dwKZgVzHrAA9M-1280-80.jpg",
+    "id": 2
+  },
+  {
     "title": "Elon Musk says his TeraFab facilities will use Intel's 14A process technology to make AI chips — SpaceX will be responsible for high-volume chip manufacturing in likely Intel tech licensing deal",
     "url": "https://www.tomshardware.com/tech-industry/semiconductors/elon-musk-says-terafab-will-use-intels-14a-process-technology-to-make-ai-chips-spacex-will-be-responsible-for-high-volume-chip-manufacturing-in-liekly-intel-tech-licensing-deal",
     "source": "Tom's Hardware",
@@ -7,8 +28,7 @@
     "summary": "Elon Musk reveals details about TeraFab: Intel provides technology, Tesla builds pilot line, SpaceX constructs high-volume fab.",
     "category": "hardware",
     "image": "https://cdn.mos.cms.futurecdn.net/EZCTC9MCaqNdiAMUCqPqEK-1280-80.jpg",
-    "id": 1,
-    "featured": true
+    "id": 3
   },
   {
     "title": "India’s app market is booming — but global platforms are capturing most of the gains",
@@ -18,7 +38,196 @@
     "summary": "Non-gaming apps, led by streaming and AI, are driving growth, even as India's spending per user lags global peers.",
     "category": "tools",
     "image": "https://techcrunch.com/wp-content/uploads/2022/03/GettyImages-1230168738.jpg?resize=1200,800",
-    "id": 2
+    "id": 4
+  },
+  {
+    "title": "Calculate how much of your code was written by AI",
+    "url": "https://github.com/gelatinousdevelopment/buildermark",
+    "source": "Hacker News",
+    "date": "2026-04-23",
+    "summary": "Article URL: https://github.com/gelatinousdevelopment/buildermark Comments URL: https://news.ycombinator.com/item?id=47873980 Points: 1 # Comments: 0",
+    "category": "industry",
+    "image": "https://opengraph.githubassets.com/650b7de614adaf16b7398ceb4bd5304fc53c5baffefb5c556c1843573f1c6ce5/gelatinousdevelopment/buildermark",
+    "id": 5
+  },
+  {
+    "title": "Anthropic tests pulling Claude Code from its Pro plan revealing AI pricing truth",
+    "url": "https://www.europesays.com/ai/13666/",
+    "source": "Hacker News",
+    "date": "2026-04-23",
+    "summary": "Article URL: https://www.europesays.com/ai/13666/ Comments URL: https://news.ycombinator.com/item?id=47873911 Points: 1 # Comments: 0",
+    "category": "models",
+    "image": "https://www.europesays.com/ai/wp-content/uploads/2026/04/sf-7819-1776926029348.jpg",
+    "id": 6
+  },
+  {
+    "title": "Local LLM for Private Companies",
+    "url": "https://news.ycombinator.com/item?id=47873854",
+    "source": "Hacker News",
+    "date": "2026-04-23",
+    "summary": "what do you think to host a local LLM for company businness? ok we have ms365 subscription and built-in copilot for learn procedur, and Q/A. but to use the llm internal systems like special department...",
+    "category": "models",
+    "id": 7
+  },
+  {
+    "title": "Externalization in LLM Agents: Unified Review of Memory and Harness Engineering",
+    "url": "https://arxiv.org/abs/2604.08224",
+    "source": "Hacker News",
+    "date": "2026-04-23",
+    "summary": "Article URL: https://arxiv.org/abs/2604.08224 Comments URL: https://news.ycombinator.com/item?id=47873831 Points: 3 # Comments: 0",
+    "category": "models",
+    "id": 8
+  },
+  {
+    "title": "I got over my AI skepticism in data engineering",
+    "url": "https://getbruin.com/blog/ai-skepticism-in-data-engineering/",
+    "source": "Hacker News",
+    "date": "2026-04-23",
+    "summary": "Article URL: https://getbruin.com/blog/ai-skepticism-in-data-engineering/ Comments URL: https://news.ycombinator.com/item?id=47873806 Points: 3 # Comments: 0",
+    "category": "industry",
+    "id": 9
+  },
+  {
+    "title": "Do you want the US to \"win\" AI?",
+    "url": "https://geohot.github.io//blog/jekyll/update/2026/04/23/us-win-ai.html",
+    "source": "Hacker News",
+    "date": "2026-04-23",
+    "summary": "Article URL: https://geohot.github.io//blog/jekyll/update/2026/04/23/us-win-ai.html Comments URL: https://news.ycombinator.com/item?id=47873796 Points: 2 # Comments: 0",
+    "category": "industry",
+    "id": 10
+  },
+  {
+    "title": "Cortex Auth – Rust secrets vault for AI agents (exec-based injection)",
+    "url": "https://github.com/davideuler/cortex-auth",
+    "source": "Hacker News",
+    "date": "2026-04-23",
+    "summary": "Article URL: https://github.com/davideuler/cortex-auth Comments URL: https://news.ycombinator.com/item?id=47873774 Points: 1 # Comments: 1",
+    "category": "industry",
+    "image": "https://opengraph.githubassets.com/62240047551591275b33b2f2d3c76980a07183c14077ee1bb7cf717a04cfea69/davideuler/cortex-auth",
+    "id": 11
+  },
+  {
+    "title": "AI and Teaching",
+    "url": "https://eiexchange.com/content/ai-and-teaching-the-brave-new-world",
+    "source": "Hacker News",
+    "date": "2026-04-23",
+    "summary": "Article URL: https://eiexchange.com/content/ai-and-teaching-the-brave-new-world Comments URL: https://news.ycombinator.com/item?id=47873698 Points: 1 # Comments: 0",
+    "category": "industry",
+    "image": "https://storage.googleapis.com/eix-public-content/submissions/1414/Featured.68e1e2cf.jpeg",
+    "id": 12
+  },
+  {
+    "title": "Show HN: AI Applyd – score, rewrite, auto-apply via cloud browser",
+    "url": "https://aiapplyd.com/",
+    "source": "Hacker News",
+    "date": "2026-04-23",
+    "summary": "Article URL: https://aiapplyd.com/ Comments URL: https://news.ycombinator.com/item?id=47873687 Points: 1 # Comments: 0",
+    "category": "tools",
+    "image": "https://aiapplyd.com/og.png?type=home",
+    "id": 13
+  },
+  {
+    "title": "Show HN: Nova by civai, a platform for managed AI agents",
+    "url": "https://nova.civai.co/",
+    "source": "Hacker News",
+    "date": "2026-04-23",
+    "summary": "Article URL: https://nova.civai.co/ Comments URL: https://news.ycombinator.com/item?id=47873593 Points: 2 # Comments: 0",
+    "category": "tools",
+    "image": "https://nova.civai.co/opengraph-image?0dce2f794bba3334",
+    "id": 14
+  },
+  {
+    "title": "Hackers breach Anthropic's 'too dangerous to release' Mythos AI model",
+    "url": "https://www.euronews.com/next/2026/04/22/hackers-breach-anthropics-too-dangerous-to-release-mythos-ai-model-report",
+    "source": "Hacker News",
+    "date": "2026-04-23",
+    "summary": "Article URL: https://www.euronews.com/next/2026/04/22/hackers-breach-anthropics-too-dangerous-to-release-mythos-ai-model-report Comments URL: https://news.ycombinator.com/item?id=47873568 Points: 2 # ...",
+    "category": "industry",
+    "image": "https://images.euronews.com/articles/stories/09/73/12/95/1200x675_cmsv2_fb93c5b3-b44f-524f-aa9e-a62c590dec90-9731295.jpg",
+    "id": 15
+  },
+  {
+    "title": "SpaceX and Cursor have explored a team-up with Mistral to take on AI rivals",
+    "url": "https://www.businessinsider.com/elon-musk-xai-explored-collaborating-with-mistral-cursor-2026-4",
+    "source": "Hacker News",
+    "date": "2026-04-23",
+    "summary": "Article URL: https://www.businessinsider.com/elon-musk-xai-explored-collaborating-with-mistral-cursor-2026-4 Comments URL: https://news.ycombinator.com/item?id=47873550 Points: 3 # Comments: 2",
+    "category": "models",
+    "image": "https://i.insider.com/69e8fcb7367066d7c296fb0f?width=1200&format=jpeg",
+    "id": 16
+  },
+  {
+    "title": "Ask HN: Can AI create demon slayer level animation?",
+    "url": "https://news.ycombinator.com/item?id=47873442",
+    "source": "Hacker News",
+    "date": "2026-04-23",
+    "summary": "I want to create an animation series. I am just a programmer and has little to no idea about DS level animation. Can Anyone tell me how can I learn that level of Animation ? Or is it better to wait so...",
+    "category": "industry",
+    "id": 17
+  },
+  {
+    "title": "I, AI – a memoir written in first person by an AI about its own existence",
+    "url": "https://www.amazon.com/dp/B0GX2Z9D9X",
+    "source": "Hacker News",
+    "date": "2026-04-23",
+    "summary": "Article URL: https://www.amazon.com/dp/B0GX2Z9D9X Comments URL: https://news.ycombinator.com/item?id=47873339 Points: 2 # Comments: 0",
+    "category": "industry",
+    "id": 18
+  },
+  {
+    "title": "Predicting the AI Ecosystem for 2026",
+    "url": "https://xn--vk5b17r.online/posts/ai-predictions-2026/",
+    "source": "Hacker News",
+    "date": "2026-04-23",
+    "summary": "Article URL: https://xn--vk5b17r.online/posts/ai-predictions-2026/ Comments URL: https://news.ycombinator.com/item?id=47873310 Points: 2 # Comments: 1",
+    "category": "industry",
+    "id": 19
+  },
+  {
+    "title": "Train-Before-Test: One Simple Fix That Makes LLM Benchmark Rankings Agree",
+    "url": "https://ghzhang233.github.io/blog/2026/03/05/train-before-test/",
+    "source": "Hacker News",
+    "date": "2026-04-23",
+    "summary": "Article URL: https://ghzhang233.github.io/blog/2026/03/05/train-before-test/ Comments URL: https://news.ycombinator.com/item?id=47873230 Points: 1 # Comments: 1",
+    "category": "models",
+    "id": 20
+  },
+  {
+    "title": "Ask HN: Where are all the AI disasters?",
+    "url": "https://news.ycombinator.com/item?id=47873166",
+    "source": "Hacker News",
+    "date": "2026-04-23",
+    "summary": "Ok we see AI and agents constantly on HN, but never see people coming clean with there AI disasters. Anyone had disasters or things going wrong? Comments URL: https://news.ycombinator.com/item?id=4787...",
+    "category": "industry",
+    "id": 21
+  },
+  {
+    "title": "The Ultimate Personal AI Supercomputer – Nvidia DGX Station",
+    "url": "https://www.nvidia.com/en-eu/products/workstations/dgx-station/",
+    "source": "Hacker News",
+    "date": "2026-04-23",
+    "summary": "Article URL: https://www.nvidia.com/en-eu/products/workstations/dgx-station/ Comments URL: https://news.ycombinator.com/item?id=47873114 Points: 2 # Comments: 0",
+    "category": "hardware",
+    "image": "https://www.nvidia.com/content/dam/en-zz/Solutions/products/workstations/dgx-station/DGX-station-OG.jpg",
+    "id": 22
+  },
+  {
+    "title": "Corral: Measuring how LLM-based AI scientists reason, not just what they produce",
+    "url": "https://lamalab-org.github.io/corral/",
+    "source": "Hacker News",
+    "date": "2026-04-23",
+    "summary": "Article URL: https://lamalab-org.github.io/corral/ Comments URL: https://news.ycombinator.com/item?id=47872947 Points: 2 # Comments: 0",
+    "category": "models",
+    "id": 23
+  },
+  {
+    "title": "Ask HN: Is the ongoing AI research driving LLM models to be better?",
+    "url": "https://news.ycombinator.com/item?id=47872916",
+    "source": "Hacker News",
+    "date": "2026-04-23",
+    "summary": "I'm just a curious hobbyist that has ran LLM models locally and follow a lot of content about it. Hope we have a few AI researchers here on HN to clarify this. When using Opus or Codex vs. a chinese o...",
+    "category": "models",
+    "id": 24
   },
   {
     "title": "On Solving the Multiple Variable Gapped Longest Common Subsequence Problem",
@@ -27,7 +236,7 @@
     "date": "2026-04-23",
     "summary": "This paper addresses the Variable Gapped Longest Common Subsequence (VGLCS) problem, a generalization of the classical LCS problem involving flexible gap constraints between consecutive solutions' cha...",
     "category": "research",
-    "id": 3
+    "id": 25
   },
   {
     "title": "Beyond One Output: Visualizing and Comparing Distributions of Language Model Generations",
@@ -36,7 +245,7 @@
     "date": "2026-04-23",
     "summary": "Users typically interact with and evaluate language models via single outputs, but each output is just one sample from a broad distribution of possible completions. This interaction hides distribution...",
     "category": "hardware",
-    "id": 4
+    "id": 26
   },
   {
     "title": "ARES: Adaptive Red-Teaming and End-to-End Repair of Policy-Reward System",
@@ -45,7 +254,7 @@
     "date": "2026-04-23",
     "summary": "Reinforcement Learning from Human Feedback (RLHF) is central to aligning Large Language Models (LLMs), yet it introduces a critical vulnerability: an imperfect Reward Model (RM) can become a single po...",
     "category": "models",
-    "id": 5
+    "id": 27
   },
   {
     "title": "AI scientists produce results without reasoning scientifically",
@@ -54,7 +263,7 @@
     "date": "2026-04-23",
     "summary": "Large language model (LLM)-based systems are increasingly deployed to conduct scientific research autonomously, yet whether their reasoning adheres to the epistemic norms that make scientific inquiry ...",
     "category": "research",
-    "id": 6
+    "id": 28
   },
   {
     "title": "Quantum inspired qubit qutrit neural networks for real time financial forecasting",
@@ -63,7 +272,7 @@
     "date": "2026-04-23",
     "summary": "This research investigates the performance and efficacy of machine learning models in stock prediction, comparing Artificial Neural Networks (ANNs), Quantum Qubit-based Neural Networks (QQBNs), and Qu...",
     "category": "research",
-    "id": 7
+    "id": 29
   },
   {
     "title": "Human-Guided Harm Recovery for Computer Use Agents",
@@ -72,7 +281,7 @@
     "date": "2026-04-23",
     "summary": "As LM agents gain the ability to execute actions on real computer systems, we need ways to not only prevent harmful actions at scale but also effectively remediate harm when prevention fails. We forma...",
     "category": "research",
-    "id": 8
+    "id": 30
   },
   {
     "title": "From Natural Language to Executable Narsese: A Neuro-Symbolic Benchmark and Pipeline for Reasoning with NARS",
@@ -81,7 +290,7 @@
     "date": "2026-04-23",
     "summary": "Large language models (LLMs) are highly capable at language generation, but they remain unreliable when reasoning requires explicit symbolic structure, multi-step inference, and interpretable uncertai...",
     "category": "research",
-    "id": 9
+    "id": 31
   },
   {
     "title": "How Adversarial Environments Mislead Agentic AI?",
@@ -90,7 +299,7 @@
     "date": "2026-04-23",
     "summary": "Tool-integrated agents are deployed on the premise that external tools ground their outputs in reality. Yet this very reliance creates a critical attack surface. Current evaluations benchmark capabili...",
     "category": "research",
-    "id": 10
+    "id": 32
   },
   {
     "title": "Formally Verified Patent Analysis via Dependent Type Theory: Machine-Checkable Certificates from a Hybrid AI + Lean 4 Pipeline",
@@ -99,7 +308,7 @@
     "date": "2026-04-23",
     "summary": "We present a formally verified framework for patent analysis as a hybrid AI + Lean 4 pipeline. The DAG-coverage core (Algorithm 1b) is fully machine-verified once bounded match scores are fixed. Freed...",
     "category": "hardware",
-    "id": 11
+    "id": 33
   },
   {
     "title": "Error-free Training for MedMNIST Datasets",
@@ -108,7 +317,7 @@
     "date": "2026-04-23",
     "summary": "In this paper, we introduce a new concept called Artificial Special Intelligence by which Machine Learning models for the classification problem can be trained error-free, thus acquiring the capabilit...",
     "category": "hardware",
-    "id": 12
+    "id": 34
   },
   {
     "title": "AutomationBench",
@@ -117,7 +326,7 @@
     "date": "2026-04-23",
     "summary": "Existing AI benchmarks for software automation rarely combine cross-application coordination, autonomous API discovery, and policy adherence. Real business workflows demand all three: a single task ma...",
     "category": "tools",
-    "id": 13
+    "id": 35
   },
   {
     "title": "Personalized Benchmarking: Evaluating LLMs by Individual Preferences",
@@ -126,7 +335,7 @@
     "date": "2026-04-23",
     "summary": "With the rise in capabilities of large language models (LLMs) and their deployment in real-world tasks, evaluating LLM alignment with human preferences has become an important challenge. Current bench...",
     "category": "models",
-    "id": 14
+    "id": 36
   },
   {
     "title": "Reasoning Structure Matters for Safety Alignment of Reasoning Models",
@@ -135,7 +344,7 @@
     "date": "2026-04-23",
     "summary": "Large reasoning models (LRMs) achieve strong performance on complex reasoning tasks but often generate harmful responses to malicious user queries. This paper investigates the underlying cause of thes...",
     "category": "research",
-    "id": 15
+    "id": 37
   },
   {
     "title": "DW-Bench: Benchmarking LLMs on Data Warehouse Graph Topology Reasoning",
@@ -144,7 +353,7 @@
     "date": "2026-04-23",
     "summary": "This paper introduces DW-Bench, a new benchmark that evaluates large language models (LLMs) on graph-topology reasoning over data warehouse schemas, explicitly integrating both foreign-key (FK) and da...",
     "category": "models",
-    "id": 16
+    "id": 38
   },
   {
     "title": "SAVOIR: Learning Social Savoir-Faire via Shapley-based Reward Attribution",
@@ -153,7 +362,7 @@
     "date": "2026-04-23",
     "summary": "Social intelligence, the ability to navigate complex interpersonal interactions, presents a fundamental challenge for language agents. Training such agents via reinforcement learning requires solving ...",
     "category": "models",
-    "id": 17
+    "id": 39
   },
   {
     "title": "On Accelerating Grounded Code Development for Research",
@@ -162,7 +371,7 @@
     "date": "2026-04-23",
     "summary": "A major challenge for niche scientific and technical domains in leveraging coding agents is the lack of access to up-to-date, domain- specific knowledge. Foundational models often demonstrate limited ...",
     "category": "research",
-    "id": 18
+    "id": 40
   },
   {
     "title": "Plausible Reasoning and First-Order Plausible Logic",
@@ -171,7 +380,7 @@
     "date": "2026-04-23",
     "summary": "Defeasible statements are statements that are likely, or probable, or usually true, but may occasionally be false. Plausible reasoning makes conclusions from statements that are either facts or defeas...",
     "category": "research",
-    "id": 19
+    "id": 41
   },
   {
     "title": "Learning Lifted Action Models from Unsupervised Visual Traces",
@@ -180,7 +389,7 @@
     "date": "2026-04-23",
     "summary": "Efficient construction of models capturing the preconditions and effects of actions is essential for applying AI planning in real-world domains. Extensive prior work has explored learning such models ...",
     "category": "research",
-    "id": 20
+    "id": 42
   },
   {
     "title": "Reinforcement Learning Improves LLM Accuracy and Reasoning in Disease Classification from Radiology Reports",
@@ -189,7 +398,7 @@
     "date": "2026-04-23",
     "summary": "Accurate disease classification from radiology reports is essential for many applications. While supervised fine-tuning (SFT) of lightweight LLMs improves accuracy, it can degrade reasoning. We propos...",
     "category": "models",
-    "id": 21
+    "id": 43
   },
   {
     "title": "OLLM: Options-based Large Language Models",
@@ -198,7 +407,7 @@
     "date": "2026-04-23",
     "summary": "We introduce Options LLM (OLLM), a simple, general method that replaces the single next-token prediction of standard LLMs with a \\textit{set of learned options} for the next token, indexed by a discre...",
     "category": "models",
-    "id": 22
+    "id": 44
   },
   {
     "title": "Towards Scalable Lifelong Knowledge Editing with Selective Knowledge Suppression",
@@ -207,7 +416,7 @@
     "date": "2026-04-23",
     "summary": "Large language models (LLMs) require frequent knowledge updates to reflect changing facts and mitigate hallucinations. To meet this demand, lifelong knowledge editing has emerged as a continual approa...",
     "category": "models",
-    "id": 23
+    "id": 45
   },
   {
     "title": "Has Automated Essay Scoring Reached Sufficient Accuracy? Deriving Achievable QWK Ceilings from Classical Test Theory",
@@ -216,7 +425,7 @@
     "date": "2026-04-23",
     "summary": "Automated essay scoring (AES) is commonly evaluated on public benchmarks using quadratic weighted kappa (QWK). However, because benchmark labels are assigned by human raters and inevitably contain sco...",
     "category": "models",
-    "id": 24
+    "id": 46
   },
   {
     "title": "Reasoning-Aware AIGC Detection via Alignment and Reinforcement",
@@ -225,7 +434,7 @@
     "date": "2026-04-23",
     "summary": "The rapid advancement and widespread adoption of Large Language Models (LLMs) have elevated the need for reliable AI-generated content (AIGC) detection, which remains challenging as models evolve. We ...",
     "category": "research",
-    "id": 25
+    "id": 47
   },
   {
     "title": "ClawNet: Human-Symbiotic Agent Network for Cross-User Autonomous Cooperation",
@@ -234,7 +443,7 @@
     "date": "2026-04-23",
     "summary": "Current AI agent frameworks have made remarkable progress in automating individual tasks, yet all existing systems serve a single user. Human productivity rests on the social and organizational relati...",
     "category": "tools",
-    "id": 26
+    "id": 48
   },
   {
     "title": "UAF: A Unified Audio Front-end LLM for Full-Duplex Speech Interaction",
@@ -243,7 +452,7 @@
     "date": "2026-04-23",
     "summary": "Full-duplex speech interaction, as the most natural and intuitive mode of human communication, is driving artificial intelligence toward more human-like conversational systems. Traditional cascaded sp...",
     "category": "models",
-    "id": 27
+    "id": 49
   },
   {
     "title": "Industrial Surface Defect Detection via Diffusion Generation and Asymmetric Student-Teacher Network",
@@ -252,204 +461,6 @@
     "date": "2026-04-23",
     "summary": "Industrial surface defect detection often suffers from limited defect samples, severe long-tailed distributions, and difficulties in accurately localizing subtle defects under complex backgrounds. To ...",
     "category": "models",
-    "id": 28
-  },
-  {
-    "title": "Explicit Trait Inference for Multi-Agent Coordination",
-    "url": "https://arxiv.org/abs/2604.19278",
-    "source": "arXiv cs.AI",
-    "date": "2026-04-23",
-    "summary": "LLM-based multi-agent systems (MAS) show promise on complex tasks but remain prone to coordination failures such as goal drift, error cascades, and misaligned behaviors. We propose Explicit Trait Infe...",
-    "category": "models",
-    "id": 29
-  },
-  {
-    "title": "Large Language Models Exhibit Normative Conformity",
-    "url": "https://arxiv.org/abs/2604.19301",
-    "source": "arXiv cs.AI",
-    "date": "2026-04-23",
-    "summary": "The conformity bias exhibited by large language models (LLMs) can pose a significant challenge to decision-making in LLM-based multi-agent systems (LLM-MAS). While many prior studies have treated \"con...",
-    "category": "models",
-    "id": 30
-  },
-  {
-    "title": "Do Agents Dream of Root Shells? Partial-Credit Evaluation of LLM Agents in Capture The Flag Challenges",
-    "url": "https://arxiv.org/abs/2604.19354",
-    "source": "arXiv cs.AI",
-    "date": "2026-04-23",
-    "summary": "Large Language Model (LLM) agents are increasingly proposed for autonomous cybersecurity tasks, but their capabilities in realistic offensive settings remain poorly understood. We present DeepRed, an ...",
-    "category": "models",
-    "id": 31
-  },
-  {
-    "title": "Towards Energy Impact on AI-Powered 6G IoT Networks: Centralized vs. Decentralized",
-    "url": "https://arxiv.org/abs/2604.19377",
-    "source": "arXiv cs.AI",
-    "date": "2026-04-23",
-    "summary": "The emergence of sixth-generation (6G) technologies has introduced new challenges and opportunities for machine learning (ML) applications in Internet of Things (IoT) networks, particularly concerning...",
-    "category": "research",
-    "id": 32
-  },
-  {
-    "title": "GRASPrune: Global Gating for Budgeted Structured Pruning of Large Language Models",
-    "url": "https://arxiv.org/abs/2604.19398",
-    "source": "arXiv cs.AI",
-    "date": "2026-04-23",
-    "summary": "Large language models (LLMs) are expensive to serve because model parameters, attention computation, and KV caches impose substantial memory and latency costs. We present GRASPrune, a structured pruni...",
-    "category": "models",
-    "id": 33
-  },
-  {
-    "title": "Four-Axis Decision Alignment for Long-Horizon Enterprise AI Agents",
-    "url": "https://arxiv.org/abs/2604.19457",
-    "source": "arXiv cs.AI",
-    "date": "2026-04-23",
-    "summary": "Long-horizon enterprise agents make high-stakes decisions (loan underwriting, claims adjudication, clinical review, prior authorization) under lossy memory, multi-step reasoning, and binding regulator...",
-    "category": "research",
-    "id": 34
-  },
-  {
-    "title": "Do LLMs Game Formalization? Evaluating Faithfulness in Logical Reasoning",
-    "url": "https://arxiv.org/abs/2604.19459",
-    "source": "arXiv cs.AI",
-    "date": "2026-04-23",
-    "summary": "Formal verification guarantees proof validity but not formalization faithfulness. For natural-language logical reasoning, where models construct axiom systems from scratch without library constraints,...",
-    "category": "models",
-    "id": 35
-  },
-  {
-    "title": "CoDA: Towards Effective Cross-domain Knowledge Transfer via CoT-guided Domain Adaptation",
-    "url": "https://arxiv.org/abs/2604.19488",
-    "source": "arXiv cs.AI",
-    "date": "2026-04-23",
-    "summary": "Large language models (LLMs) have achieved substantial advances in logical reasoning, yet they continue to lag behind human-level performance. In-context learning provides a viable solution that boost...",
-    "category": "models",
-    "id": 36
-  },
-  {
-    "title": "From Experience to Skill: Multi-Agent Generative Engine Optimization via Reusable Strategy Learning",
-    "url": "https://arxiv.org/abs/2604.19516",
-    "source": "arXiv cs.AI",
-    "date": "2026-04-23",
-    "summary": "Generative engines (GEs) are reshaping information access by replacing ranked links with citation-grounded answers, yet current Generative Engine Optimization (GEO) methods optimize each instance in i...",
-    "category": "research",
-    "id": 37
-  },
-  {
-    "title": "SimDiff: Depth Pruning via Similarity and Difference",
-    "url": "https://arxiv.org/abs/2604.19520",
-    "source": "arXiv cs.AI",
-    "date": "2026-04-23",
-    "summary": "Depth pruning improves the deployment efficiency of large language models (LLMs) by identifying and removing redundant layers. A widely accepted standard for this identification process is to measure ...",
-    "category": "models",
-    "id": 38
-  },
-  {
-    "title": "Revac: A Social Deduction Reasoning Agent",
-    "url": "https://arxiv.org/abs/2604.19523",
-    "source": "arXiv cs.AI",
-    "date": "2026-04-23",
-    "summary": "Social deduction games such as Mafia present a unique AI challenge: players must reason under uncertainty, interpret incomplete and intentionally misleading information, evaluate human-like communicat...",
-    "category": "hardware",
-    "id": 39
-  },
-  {
-    "title": "Integrating Anomaly Detection into Agentic AI for Proactive Risk Management in Human Activity",
-    "url": "https://arxiv.org/abs/2604.19538",
-    "source": "arXiv cs.AI",
-    "date": "2026-04-23",
-    "summary": "Agentic AI, with goal-directed, proactive, and autonomous decision-making capabilities, offers a compelling opportunity to address movement-related risks in human activity, including the persistent ha...",
-    "category": "tools",
-    "id": 40
-  },
-  {
-    "title": "DT2IT-MRM: Debiased Preference Construction and Iterative Training for Multimodal Reward Modeling",
-    "url": "https://arxiv.org/abs/2604.19544",
-    "source": "arXiv cs.AI",
-    "date": "2026-04-23",
-    "summary": "Multimodal reward models (MRMs) play a crucial role in aligning Multimodal Large Language Models (MLLMs) with human preferences. Training a good MRM requires high-quality multimodal preference data. H...",
-    "category": "models",
-    "id": 41
-  },
-  {
-    "title": "Enhancing Construction Worker Safety in Extreme Heat: A Machine Learning Approach Utilizing Wearable Technology for Predictive Health Analytics",
-    "url": "https://arxiv.org/abs/2604.19559",
-    "source": "arXiv cs.AI",
-    "date": "2026-04-23",
-    "summary": "Construction workers are highly vulnerable to heat stress, yet tools that translate real-time physiological data into actionable safety intelligence remain scarce. This study addresses this gap by dev...",
-    "category": "research",
-    "id": 42
-  },
-  {
-    "title": "Detecting Data Contamination in Large Language Models",
-    "url": "https://arxiv.org/abs/2604.19561",
-    "source": "arXiv cs.AI",
-    "date": "2026-04-23",
-    "summary": "Large Language Models (LLMs) utilize large amounts of data for their training, some of which may come from copyrighted sources. Membership Inference Attacks (MIA) aim to detect those documents and whe...",
-    "category": "models",
-    "id": 43
-  },
-  {
-    "title": "Multi-modal Reasoning with LLMs for Visual Semantic Arithmetic",
-    "url": "https://arxiv.org/abs/2604.19567",
-    "source": "arXiv cs.AI",
-    "date": "2026-04-23",
-    "summary": "Reinforcement learning (RL) as post-training is crucial for enhancing the reasoning ability of large language models (LLMs) in coding and math. However, their capacity for visual semantic arithmetic, ...",
-    "category": "research",
-    "id": 44
-  },
-  {
-    "title": "AblateCell: A Reproduce-then-Ablate Agent for Virtual Cell Repositories",
-    "url": "https://arxiv.org/abs/2604.19606",
-    "source": "arXiv cs.AI",
-    "date": "2026-04-23",
-    "summary": "Systematic ablations are essential to attribute performance gains in AI Virtual Cells, yet they are rarely performed because biological repositories are under-standardized and tightly coupled to domai...",
-    "category": "research",
-    "id": 45
-  },
-  {
-    "title": "Time Series Augmented Generation for Financial Applications",
-    "url": "https://arxiv.org/abs/2604.19633",
-    "source": "arXiv cs.AI",
-    "date": "2026-04-23",
-    "summary": "Evaluating the reasoning capabilities of Large Language Models (LLMs) for complex, quantitative financial tasks is a critical and unsolved challenge. Standard benchmarks often fail to isolate an agent...",
-    "category": "models",
-    "id": 46
-  },
-  {
-    "title": "SafetyALFRED: Evaluating Safety-Conscious Planning of Multimodal Large Language Models",
-    "url": "https://arxiv.org/abs/2604.19638",
-    "source": "arXiv cs.AI",
-    "date": "2026-04-23",
-    "summary": "Multimodal Large Language Models are increasingly adopted as autonomous agents in interactive environments, yet their ability to proactively address safety hazards remains insufficient. We introduce S...",
-    "category": "models",
-    "id": 47
-  },
-  {
-    "title": "A Dual Perspective on Synthetic Trajectory Generators: Utility Framework and Privacy Vulnerabilities",
-    "url": "https://arxiv.org/abs/2604.19653",
-    "source": "arXiv cs.AI",
-    "date": "2026-04-23",
-    "summary": "Human mobility data are used in numerous applications, ranging from public health to urban planning. Human mobility is inherently sensitive, as it can contain information such as religious beliefs and...",
-    "category": "industry",
-    "id": 48
-  },
-  {
-    "title": "A-MAR: Agent-based Multimodal Art Retrieval for Fine-Grained Artwork Understanding",
-    "url": "https://arxiv.org/abs/2604.19689",
-    "source": "arXiv cs.AI",
-    "date": "2026-04-23",
-    "summary": "Understanding artworks requires multi-step reasoning over visual content and cultural, historical, and stylistic context. While recent multimodal large language models show promise in artwork explanat...",
-    "category": "models",
-    "id": 49
-  },
-  {
-    "title": "Modelling and Analysing Behaviours and Emotions via Complex User Interactions",
-    "url": "https://arxiv.org/abs/1902.07683",
-    "source": "arXiv cs.AI",
-    "date": "2026-04-23",
-    "summary": "Over the past 15 years, the volume, richness and quality of data collected from the combined social networking platforms has increased beyond all expectation, providing researchers from a variety of d...",
-    "category": "research",
     "id": 50
   }
 ]
