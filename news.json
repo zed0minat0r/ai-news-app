@@ -1,5 +1,16 @@
 [
   {
+    "title": "8 Gemini tips for organizing your space (and life)",
+    "url": "https://blog.google/products-and-platforms/products/gemini/gemini-spring-cleaning-tips/",
+    "source": "Google AI Blog",
+    "date": "2026-04-24",
+    "summary": "Organize your home and digital space with Gemini. Use AI-powered tips for cleaning schedules, inbox decluttering, seasonal chores.",
+    "category": "models",
+    "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Gemini_Spring_Cleaning_hero.max-600x600.format-webp.webp",
+    "id": 1,
+    "featured": true
+  },
+  {
     "title": "New 3D device computes using living brain cells — bioelectronic device uses 3D electronic mesh design paired with living tissue",
     "url": "https://www.tomshardware.com/tech-industry/big-tech/new-3d-device-computes-using-living-brain-cells-bioelectronic-device-uses-3d-electronic-mesh-design-paired-with-living-tissue",
     "source": "Tom's Hardware",
@@ -7,8 +18,7 @@
     "summary": "Princeton researchers have developed a 3D bioelectronic device that combines living brain cells with embedded electronics, allowing neurons outside the body to perform simple computational tasks. The ...",
     "category": "research",
     "image": "https://cdn.mos.cms.futurecdn.net/cjXwG2TD5wJqVY8wxLHvjW-1280-80.jpg",
-    "id": 1,
-    "featured": true
+    "id": 2
   },
   {
     "title": "NEO Semiconductor's revolutionary 3D X-DRAM for AI processors has passed proof-of-concept validation — company secures funding to develop next-gen memory HBM alternative",
@@ -18,7 +28,7 @@
     "summary": "NEO Semiconductor says its 3D X-DRAM passed proof-of-concept testing, using 3D NAND processes to target cheaper AI memory than HBM. The company has secured funding for development.",
     "category": "hardware",
     "image": "https://cdn.mos.cms.futurecdn.net/JLXymXRmjQVzAsCPysoSY3-1280-80.webp",
-    "id": 2
+    "id": 3
   },
   {
     "title": "How a cavalcade of blunders gave unauthorized users access to Claude Mythos — restricted model accessed by third parties, thanks to knowledge from data breach",
@@ -28,7 +38,7 @@
     "summary": "Unauthorized individuals have accessed Anthropic's new Mythos cybersecurity-focused AI model, despite the developer locking it down to just a handful of companies. Considering the AI was purposefully ...",
     "category": "models",
     "image": "https://cdn.mos.cms.futurecdn.net/oVkvRiLw6nfH6cD4HoJBhF-1280-80.jpg",
-    "id": 3
+    "id": 4
   },
   {
     "title": "CPU requirements for AI workloads are multiplying, driving intensifying shortages and price hikes — Intel already shifting production from consumer chips to Xeon as inference workloads drive server CPU ratios back toward parity with GPUs",
@@ -38,7 +48,7 @@
     "summary": "As workloads continue migrating towards inference and agentic AI, CPU-GPU ratios could converge to 1:1 or even tilt further in favor of CPUs.",
     "category": "hardware",
     "image": "https://cdn.mos.cms.futurecdn.net/B22Y35c6WAhjUoKp7cjvsd-1280-80.jpg",
-    "id": 4
+    "id": 5
   },
   {
     "title": "Widely ridiculed Intel stock buyer who invested $700,000 inheritance has the last laugh (if they held) as it nearly triples in value — investment is now worth around $1.89 million",
@@ -48,7 +58,7 @@
     "summary": "In August 2024, a Redditor was widely, repeatedly, and mercilessly ridiculed for investing the majority of an $800,000 inheritance in Intel stock. It's been a rollercoaster, but that looks like it was...",
     "category": "industry",
     "image": "https://cdn.mos.cms.futurecdn.net/tFyzjsZUyihWE8a92DcfkX-1280-80.jpg",
-    "id": 5
+    "id": 6
   },
   {
     "title": "Union rally causes Samsung fab production to plummet by 58% during night shift as workers demand up to $400,000 bonuses — updated figures show over 40,000 people attended rally for better pay and bonuses",
@@ -58,7 +68,7 @@
     "summary": "Samsung's memory fab and contract chip foundry production for a single night-shift fell by up to 58% after a one-day strike. The union is gearing up for an extended 18-day labor action if company mana...",
     "category": "hardware",
     "image": "https://cdn.mos.cms.futurecdn.net/DPNfrQbh2gPkNpAuCmtSJ7-1280-80.jpg",
-    "id": 6
+    "id": 7
   },
   {
     "title": "Grab 32GB of Corsair DDR5 RAM for just $28 in this Newegg combo with the new 9950X3D2 that saves you a huge $441 — $1,729.99 deal with AMD's first dual-X3D CPU also ships with a 2TB WD Black SSD and an Asus TUF Gaming motherboard",
@@ -68,7 +78,7 @@
     "summary": "Save 20% on this Newegg combo kit with AMD's first dual-X3D chip in the AMD Ryzen 9 9950X3D2, along with an Asus TUF Gaming X870E-Plus WiFi7 motherboard, 32GB (2x16GB) of Corsair Vengeance DDR5-6400 R...",
     "category": "hardware",
     "image": "https://cdn.mos.cms.futurecdn.net/LpnrrUnEQyUm39yXHdT79R-1280-80.png",
-    "id": 7
+    "id": 8
   },
   {
     "title": "Intel stock jumps 28%, setting a record, after it posts strong Q1 with rising forecasts — Intel says yields are improving faster than expected with new nodes",
@@ -78,7 +88,7 @@
     "summary": "Demand for Intel's products exceed expectations and supply, but Intel is still bleeding money.",
     "category": "hardware",
     "image": "https://cdn.mos.cms.futurecdn.net/KiJGR8WJv72p6G8Qcysneb-1280-80.jpg",
-    "id": 8
+    "id": 9
   },
   {
     "title": "SoftBank subsidiary working with Intel to develop radical new ZAM memory is now receiving Japanese gov't subsidies — new memory designed as a lower-power HBM for AI workloads",
@@ -88,7 +98,37 @@
     "summary": "Japan’s SaiMemory, a SoftBank subsidiary collaborating with Intel, has secured NEDO funding to develop Z-Angle Memory (ZAM), a next-gen DRAM architecture addressing HBM limitations",
     "category": "hardware",
     "image": "https://cdn.mos.cms.futurecdn.net/u3myfqyQwuDFWsoxGdjM8U-1280-80.jpg",
-    "id": 9
+    "id": 10
+  },
+  {
+    "title": "Google to invest up to $40B in Anthropic in cash and compute",
+    "url": "https://techcrunch.com/2026/04/24/google-to-invest-up-to-40b-in-anthropic-in-cash-and-compute/",
+    "source": "TechCrunch",
+    "date": "2026-04-24",
+    "summary": "Google plans up to $40B investment in Anthropic as AI rivals race to secure massive compute capacity, following the limited release of its powerful, cybersecurity-focused Mythos model.",
+    "category": "industry",
+    "image": "https://techcrunch.com/wp-content/uploads/2026/01/GettyImages-2252871842.jpg?w=1024",
+    "id": 11
+  },
+  {
+    "title": "Apple’s new CEO, and why Elon Musk wants to buy Cursor for $60B",
+    "url": "https://techcrunch.com/podcast/apples-new-ceo-and-why-elon-musk-wants-to-buy-cursor-for-60b/",
+    "source": "TechCrunch",
+    "date": "2026-04-24",
+    "summary": "A new era is on the way for Apple as Tim Cook plans to step down from his CEO role in September, handing the reins to hardware chief John Ternus. Ternus may be inheriting one of the most durable busin...",
+    "category": "tools",
+    "image": "https://techcrunch.com/wp-content/uploads/2018/02/tc-backlight-e1689786273147.png?w=1200",
+    "id": 12
+  },
+  {
+    "title": "Marked-up Mac minis flood eBay amid shortages driven by AI",
+    "url": "https://techcrunch.com/2026/04/24/mac-mini-price-expensive-ebay-shortage-ai-memory/",
+    "source": "TechCrunch",
+    "date": "2026-04-24",
+    "summary": "Apple’s sold-out Mac mini is spawning marked-up eBay listings as demand surges for the compact desktop, now favored for running local AI models and tools.",
+    "category": "tools",
+    "image": "https://techcrunch.com/wp-content/uploads/2024/11/CMC_8135.jpg?resize=1200,800",
+    "id": 13
   },
   {
     "title": "Uber CTO Praveen Neppalli Naga joins stacked StrictlyVC SF lineup for April 30 event",
@@ -98,7 +138,17 @@
     "summary": "Surprise! StrictlyVC San Francisco, which will kick off this year’s events lineup for TechCrunch on April 30 at the Sentro Filipino Cultural Center, is getting a new addition to its increasingly stack...",
     "category": "industry",
     "image": "https://techcrunch.com/wp-content/uploads/2025/04/StrictlyVC-NYC-2024.jpg?resize=1200,800",
-    "id": 10
+    "id": 14
+  },
+  {
+    "title": "Tim Cook is stepping down. What happens to Apple now?",
+    "url": "https://techcrunch.com/video/tim-cook-is-stepping-down-what-happens-to-apple-now/",
+    "source": "TechCrunch",
+    "date": "2026-04-24",
+    "summary": "Tim Cook plans to step down from his CEO role in September, handing the reins to hardware chief John Ternus. Ternus may be inheriting one of the most durable businesses in tech, but he’s also stepping...",
+    "category": "tools",
+    "image": "https://techcrunch.com/wp-content/uploads/2026/01/tim-cook-glowing-apple-logo-GettyImages-2234517515.jpg?w=1024",
+    "id": 15
   },
   {
     "title": "Nothing introduces an AI-powered dictation tool",
@@ -108,7 +158,7 @@
     "summary": "Nothing's new on-device dictation tool supports over 100 languages.",
     "category": "tools",
     "image": "https://techcrunch.com/wp-content/uploads/2025/07/IMG_2376-rotated.jpeg?resize=900,1200",
-    "id": 11
+    "id": 16
   },
   {
     "title": "DeepSeek previews new AI model that ‘closes the gap’ with frontier models",
@@ -118,7 +168,7 @@
     "summary": "DeepSeek says both models are more efficient and performant than DeepSeek V3.2 due to architectural improvements, and have almost \"closed the gap\" with current leading models, both open and closed, on...",
     "category": "models",
     "image": "https://techcrunch.com/wp-content/uploads/2026/04/GettyImages-2272184430.jpg?w=1024",
-    "id": 12
+    "id": 17
   },
   {
     "title": "In another wild turn for AI chips, Meta signs deal for millions of Amazon AI CPUs",
@@ -128,198 +178,201 @@
     "summary": "Meta has commandeered a big chunk of Amazon's homegrown CPUs (not GPUs) for AI agentic workloads, signaling that a new kind of chip race has begun.",
     "category": "hardware",
     "image": "https://techcrunch.com/wp-content/uploads/2022/09/GettyImages-1415078085.jpg?resize=1200,721",
-    "id": 13
-  },
-  {
-    "title": "What I learned asking 11 AI models to grade each other's AI predictions",
-    "url": "https://shimin.io/journal/what-i-learned-asking-11-ai-models-to-grade-each-other/",
-    "source": "Hacker News",
-    "date": "2026-04-24",
-    "summary": "Article URL: https://shimin.io/journal/what-i-learned-asking-11-ai-models-to-grade-each-other/ Comments URL: https://news.ycombinator.com/item?id=47891741 Points: 1 # Comments: 0",
-    "category": "industry",
-    "image": "https://shimin.io/images/journal/what-i-learned-asking-11-ai-models-to-grade-each-other/og.png",
-    "id": 14
-  },
-  {
-    "title": "Show HN: PrivateClaw – AI agents running in confidential VMs you can verify",
-    "url": "https://privateclaw.dev",
-    "source": "Hacker News",
-    "date": "2026-04-24",
-    "summary": "We built PrivateClaw because the hosted OpenClaw platforms on the market today require you to trust them with plaintext. PrivateClaw removes that requirement at the hardware layer. PrivateClaw runs AI...",
-    "category": "tools",
-    "image": "https://privateclaw.dev/og-image-v2.png",
-    "id": 15
-  },
-  {
-    "title": "Cloudflare Agents Week: Infrastructure for Running AI Agents at Scale",
-    "url": "https://www.youtube.com/watch?v=GE5oiUQPl1Q",
-    "source": "Hacker News",
-    "date": "2026-04-24",
-    "summary": "Article URL: https://www.youtube.com/watch?v=GE5oiUQPl1Q Comments URL: https://news.ycombinator.com/item?id=47891512 Points: 1 # Comments: 1",
-    "category": "industry",
-    "id": 16
-  },
-  {
-    "title": "Meta Partners with AWS on Graviton Chips to Power Agentic AI",
-    "url": "https://about.fb.com/news/2026/04/meta-partners-with-aws-on-graviton-chips-to-power-agentic-ai/",
-    "source": "Hacker News",
-    "date": "2026-04-24",
-    "summary": "Article URL: https://about.fb.com/news/2026/04/meta-partners-with-aws-on-graviton-chips-to-power-agentic-ai/ Comments URL: https://news.ycombinator.com/item?id=47891390 Points: 3 # Comments: 0",
-    "category": "hardware",
-    "image": "https://about.fb.com/wp-content/uploads/2026/04/Partnership-Announcement_Header.jpg?w=1200",
-    "id": 17
-  },
-  {
-    "title": "Google Unveils Agent Skills Repository for Smarter AI Agents",
-    "url": "https://cloud.google.com/blog/topics/developers-practitioners/level-up-your-agents-announcing-googles-official-skills-repository",
-    "source": "Hacker News",
-    "date": "2026-04-24",
-    "summary": "Article URL: https://cloud.google.com/blog/topics/developers-practitioners/level-up-your-agents-announcing-googles-official-skills-repository Comments URL: https://news.ycombinator.com/item?id=4789128...",
-    "category": "tools",
     "id": 18
   },
   {
-    "title": "AI Switching Costs will be Surprising",
-    "url": "https://leadprompt.sh/a/733-AI-Switching-Costs-will-be-Surprising-2026w13",
+    "title": "Show HN: I'm 15 and built a cryptographic accountability layer for AI agents",
+    "url": "https://github.com/arian-gogani/nobulex",
     "source": "Hacker News",
     "date": "2026-04-24",
-    "summary": "Article URL: https://leadprompt.sh/a/733-AI-Switching-Costs-will-be-Surprising-2026w13 Comments URL: https://news.ycombinator.com/item?id=47891271 Points: 3 # Comments: 1",
-    "category": "industry",
-    "image": "https://leadprompt.sh/img/icons/noun_AI_2324354.png",
+    "summary": "i'm 15 and a sophomore in high school in california. for the past two weeks i've been building a protocol that lets you prove what an AI agent actually did. not just log it. prove it. signed receipts ...",
+    "category": "tools",
+    "image": "https://opengraph.githubassets.com/574fcf18668bbbc6fc08a0bb4ead8da571f178f97295bf0afaf10155cd79fd85/arian-gogani/nobulex",
     "id": 19
   },
   {
-    "title": "AI as a Fascist Artifact",
-    "url": "https://tante.cc/2026/04/21/ai-as-a-fascist-artifact/",
+    "title": "AI Agent Designs a RISC-V CPU Core from Scratch",
+    "url": "https://spectrum.ieee.org/ai-chip-design",
     "source": "Hacker News",
     "date": "2026-04-24",
-    "summary": "Article URL: https://tante.cc/2026/04/21/ai-as-a-fascist-artifact/ Comments URL: https://news.ycombinator.com/item?id=47891260 Points: 24 # Comments: 4",
-    "category": "industry",
-    "image": "https://tante.cc/wp-content/uploads/2026/04/slides-01-scaled.png",
+    "summary": "Article URL: https://spectrum.ieee.org/ai-chip-design Comments URL: https://news.ycombinator.com/item?id=47894337 Points: 1 # Comments: 0",
+    "category": "hardware",
+    "image": "https://spectrum.ieee.org/media-library/image.jpg?id=65519356&width=1200&height=600&coordinates=0%2C21%2C0%2C479",
     "id": 20
   },
   {
-    "title": "The Killer Use Case for AI in Social Media: Narrative Storytelling",
-    "url": "https://thecarrierwave.substack.com/p/the-killer-use-case-for-ai-in-social",
+    "title": "Mercedes-Benz and Liquid AI Partner to Scale Embedded In-Car Intelligence",
+    "url": "https://www.businesswire.com/news/home/20260423009970/en/Mercedes-Benz-and-Liquid-AI-Partner-to-Scale-Embedded-In-Car-Intelligence-in-North-America",
     "source": "Hacker News",
     "date": "2026-04-24",
-    "summary": "Article URL: https://thecarrierwave.substack.com/p/the-killer-use-case-for-ai-in-social Comments URL: https://news.ycombinator.com/item?id=47891171 Points: 4 # Comments: 0",
-    "category": "industry",
+    "summary": "Article URL: https://www.businesswire.com/news/home/20260423009970/en/Mercedes-Benz-and-Liquid-AI-Partner-to-Scale-Embedded-In-Car-Intelligence-in-North-America Comments URL: https://news.ycombinator....",
+    "category": "hardware",
     "id": 21
   },
   {
-    "title": "Do AI models understand GPS coordinates?",
-    "url": "https://www.spatialedge.co/p/do-ai-models-actually-understand",
+    "title": "OpenAI releases GPT-5.5 and GPT-5.5 Pro in the API",
+    "url": "https://developers.openai.com/api/docs/changelog",
     "source": "Hacker News",
     "date": "2026-04-24",
-    "summary": "Article URL: https://www.spatialedge.co/p/do-ai-models-actually-understand Comments URL: https://news.ycombinator.com/item?id=47891164 Points: 5 # Comments: 0",
-    "category": "industry",
-    "image": "https://substackcdn.com/image/fetch/$s_!gzNV!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Ff3096117-6498-47f3-9a61-963418312881_2576x1138.png",
+    "summary": "Article URL: https://developers.openai.com/api/docs/changelog Comments URL: https://news.ycombinator.com/item?id=47894000 Points: 17 # Comments: 3",
+    "category": "tools",
+    "image": "https://developers.openai.com/og/api/docs/changelog.png",
     "id": 22
   },
   {
-    "title": "AI-Designed Thermoelectric Generator Slashes Design Time",
-    "url": "https://spectrum.ieee.org/ai-designed-thermoelectric-generator",
+    "title": "LLM research on Hacker News is drying up",
+    "url": "https://dylancastillo.co/til/llm-research-on-hacker-news-is-dying.html",
     "source": "Hacker News",
     "date": "2026-04-24",
-    "summary": "Article URL: https://spectrum.ieee.org/ai-designed-thermoelectric-generator Comments URL: https://news.ycombinator.com/item?id=47891156 Points: 4 # Comments: 0",
-    "category": "research",
-    "image": "https://spectrum.ieee.org/media-library/image.jpg?id=65560088&width=1200&height=600&coordinates=0%2C125%2C0%2C125",
+    "summary": "Article URL: https://dylancastillo.co/til/llm-research-on-hacker-news-is-dying.html Comments URL: https://news.ycombinator.com/item?id=47893860 Points: 3 # Comments: 0",
+    "category": "models",
+    "image": "https://dylancastillo.co/til/images/arxiv-hacker-news/hn_arxiv_share.png",
     "id": 23
   },
   {
-    "title": "Towards end-to-end automation of AI research",
-    "url": "https://www.nature.com/articles/s41586-026-10265-5",
+    "title": "Ask HN: How are you evaluating AI apps and CLI?",
+    "url": "https://news.ycombinator.com/item?id=47893745",
     "source": "Hacker News",
     "date": "2026-04-24",
-    "summary": "Article URL: https://www.nature.com/articles/s41586-026-10265-5 Comments URL: https://news.ycombinator.com/item?id=47891101 Points: 3 # Comments: 0",
-    "category": "research",
+    "summary": "I'm sure many of you work for companies where various AI tools are being made available and IT departments asking for feedback on those tools. The IT departments are allocating in some cases unlimited...",
+    "category": "tools",
     "id": 24
   },
   {
-    "title": "The Flavor of the AI Interface",
-    "url": "https://metedata.substack.com/p/009-the-flavor-of-the-ai-interface",
+    "title": "AI discovered 20 of 23 recent zero-days in OpenSSL",
+    "url": "https://aisle.com/blog/aisle-discovers-20-openssl-zero-days-in-6-months",
     "source": "Hacker News",
     "date": "2026-04-24",
-    "summary": "Article URL: https://metedata.substack.com/p/009-the-flavor-of-the-ai-interface Comments URL: https://news.ycombinator.com/item?id=47891066 Points: 2 # Comments: 0",
+    "summary": "Article URL: https://aisle.com/blog/aisle-discovers-20-openssl-zero-days-in-6-months Comments URL: https://news.ycombinator.com/item?id=47893677 Points: 6 # Comments: 1",
     "category": "industry",
+    "image": "https://aisle.com/api/media/file/aisle-discovers-20-openssl-zero-days-in-6-months-1200x630.jpg",
     "id": 25
   },
   {
-    "title": "In the AI Era, Shopify Is Investing in Junior Engineers–Not Cutting Them",
-    "url": "https://coderpad.io/blog/hiring-developers/in-the-ai-era-shopify-is-investing-in-junior-engineers-not-cutting-them/",
+    "title": "AI smart glasses will help visually impaired runners take on the London Marathon",
+    "url": "https://apnews.com/article/london-marathon-ai-smart-glasses-5ab4dab11759a42fef0450c7c16bfb25",
     "source": "Hacker News",
     "date": "2026-04-24",
-    "summary": "Article URL: https://coderpad.io/blog/hiring-developers/in-the-ai-era-shopify-is-investing-in-junior-engineers-not-cutting-them/ Comments URL: https://news.ycombinator.com/item?id=47891016 Points: 5 #...",
-    "category": "tools",
-    "image": "https://coderpad.io/wp-content/uploads/2024/01/coderpad-hire-better-candidates-faster-opengraph-image.png",
+    "summary": "Article URL: https://apnews.com/article/london-marathon-ai-smart-glasses-5ab4dab11759a42fef0450c7c16bfb25 Comments URL: https://news.ycombinator.com/item?id=47893371 Points: 4 # Comments: 0",
+    "category": "industry",
+    "image": "https://dims.apnews.com/dims4/default/32a4525/2147483647/strip/true/crop/7008x4670+0+1/resize/980x653!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F0e%2F0c%2F952b56b732311c02d574da0734f0%2Ff5cb79f279064c08907e4a1661ec55d1",
     "id": 26
   },
   {
-    "title": "Amazon-Backed Hollywood Production Startup Deploys AI for Speed and Cost-Cutting [video]",
-    "url": "https://www.youtube.com/watch?v=D5Ylmvn_D6g",
+    "title": "Show HN: Harmonic Progression Podcast on Humans, AI and Tech News",
+    "url": "https://open.spotify.com/episode/0Q03ytkssZxw2YUKzwUkKZ",
     "source": "Hacker News",
     "date": "2026-04-24",
-    "summary": "Article URL: https://www.youtube.com/watch?v=D5Ylmvn_D6g Comments URL: https://news.ycombinator.com/item?id=47890934 Points: 3 # Comments: 0",
+    "summary": "Article URL: https://open.spotify.com/episode/0Q03ytkssZxw2YUKzwUkKZ Comments URL: https://news.ycombinator.com/item?id=47893331 Points: 1 # Comments: 0",
     "category": "industry",
+    "image": "https://i.scdn.co/image/ab6765630000ba8a79caed60f573b0e7edce696b",
     "id": 27
   },
   {
-    "title": "Show HN: Browser Harness – simplest way to give AI control of real browser",
-    "url": "https://github.com/browser-use/browser-harness",
+    "title": "Honolulu's Airport Has AI Theme Songs. The Internet Is Divided",
+    "url": "https://www.civilbeat.org/2026/04/honolulu-airport-has-ai-theme-songs-the-internet-is-divided/",
     "source": "Hacker News",
     "date": "2026-04-24",
-    "summary": "Hey HN, We got tired of browser frameworks restricting the LLM, so we removed the framework and gave the LLM maximum freedom to do whatever it's trained on. We gave the harness the ability to self cor...",
-    "category": "tools",
-    "image": "https://opengraph.githubassets.com/7a4aa46f98e184d7a9d003c736cb637611facf1ae3f06117561713ed4a6235a6/browser-use/browser-harness",
+    "summary": "Article URL: https://www.civilbeat.org/2026/04/honolulu-airport-has-ai-theme-songs-the-internet-is-divided/ Comments URL: https://news.ycombinator.com/item?id=47893292 Points: 2 # Comments: 0",
+    "category": "industry",
+    "image": "https://d1l18ops95qbzp.cloudfront.net/wp-content/2018/12/04144544/Hula-dolls-1024x768.jpeg",
     "id": 28
   },
   {
-    "title": "Food for Agile Thought #541: GPT-5.5, Product Managers&Trouble, Product on Speed",
-    "url": "https://age-of-product.com/food-agile-thought-541-gpt-55/",
+    "title": "Aperture beta: better controls for the AI agent era",
+    "url": "https://tailscale.com/blog/aperture-public-beta",
     "source": "Hacker News",
     "date": "2026-04-24",
-    "summary": "Article URL: https://age-of-product.com/food-agile-thought-541-gpt-55/ Comments URL: https://news.ycombinator.com/item?id=47890780 Points: 1 # Comments: 0",
-    "category": "models",
-    "image": "https://age-of-product.com/wp-content/uploads/food-agile-thought-541-gpt-55-age-of-product-com-1200x630-cropped.jpg",
+    "summary": "Article URL: https://tailscale.com/blog/aperture-public-beta Comments URL: https://news.ycombinator.com/item?id=47893031 Points: 1 # Comments: 0",
+    "category": "industry",
+    "image": "https://cdn.sanity.io/images/w77i7m8x/production/18038d8741b614690abc39eb389cdac7b7876b2f-2304x1188.png",
     "id": 29
   },
   {
-    "title": "Ask HN: How are you using AI code assistants on large messy legacy code bases?",
-    "url": "https://news.ycombinator.com/item?id=47890749",
+    "title": "85% of enterprises are running AI agents. Only 5% trust them enough to ship",
+    "url": "https://venturebeat.com/security/85-of-enterprises-are-running-ai-agents-only-5-trust-them-enough-to-ship",
     "source": "Hacker News",
     "date": "2026-04-24",
-    "summary": "My company is starting to explore AI coding. I am a dev with 20+ years of experience and I am tasked with trying to help see how we can use this tool to help our company. I have only used Claude so my...",
-    "category": "tools",
-    "id": 30
-  },
-  {
-    "title": "Meta to ax 8k jobs as Zuckerberg doubles down on AI",
-    "url": "https://nypost.com/2026/04/23/business/meta-to-ax-8000-jobs-as-zuckerberg-doubles-down-on-ai-and-white-collar-bloodbath-picks-up/",
-    "source": "Hacker News",
-    "date": "2026-04-24",
-    "summary": "Article URL: https://nypost.com/2026/04/23/business/meta-to-ax-8000-jobs-as-zuckerberg-doubles-down-on-ai-and-white-collar-bloodbath-picks-up/ Comments URL: https://news.ycombinator.com/item?id=478906...",
+    "summary": "Article URL: https://venturebeat.com/security/85-of-enterprises-are-running-ai-agents-only-5-trust-them-enough-to-ship Comments URL: https://news.ycombinator.com/item?id=47893017 Points: 2 # Comments:...",
     "category": "industry",
-    "id": 31
-  },
-  {
-    "title": "Ask HN: What's your current go-to LLM for \"thinking-partner\"?",
-    "url": "https://news.ycombinator.com/item?id=47890665",
-    "source": "Hacker News",
-    "date": "2026-04-24",
-    "summary": "Looking for community input on current model choice for \"thinking-partner\" use — back-and-forth discussions about workflow design, architecture, trade-offs. For context, I have been using Opus 4.6 via...",
-    "category": "models",
-    "id": 32
+    "id": 30
   },
   {
     "title": "The Download: supercharged scams and studying AI healthcare",
     "url": "https://www.technologyreview.com/2026/04/24/1136400/the-download-supercharged-scams-questionable-ai-healthcare/",
-    "source": "MIT Tech Review",
+    "source": "Hacker News",
     "date": "2026-04-24",
-    "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. We’re in a new era of AI-driven scams When ChatGPT was release...",
-    "category": "models",
+    "summary": "Article URL: https://www.technologyreview.com/2026/04/24/1136400/the-download-supercharged-scams-questionable-ai-healthcare/ Comments URL: https://news.ycombinator.com/item?id=47893006 Points: 1 # Com...",
+    "category": "research",
     "image": "https://wp.technologyreview.com/wp-content/uploads/2026/04/superchargedC-thumb.jpg?resize=1200,600",
+    "id": 31
+  },
+  {
+    "title": "Show HN: Signova AI – DocuSign alternative for $7",
+    "url": "https://signova.ai",
+    "source": "Hacker News",
+    "date": "2026-04-24",
+    "summary": "I built a simpler e-sign + document generation tool. Goal was to remove subscriptions and make it accessible globally. Would love feedback from the community. Comments URL: https://news.ycombinator.co...",
+    "category": "tools",
+    "image": "https://signova.ai/og-image.png",
+    "id": 32
+  },
+  {
+    "title": "AI Field Notes on the DGX Spark",
+    "url": "https://manavsehgal.github.io/ai-field-notes/",
+    "source": "Hacker News",
+    "date": "2026-04-24",
+    "summary": "Article URL: https://manavsehgal.github.io/ai-field-notes/ Comments URL: https://news.ycombinator.com/item?id=47892943 Points: 1 # Comments: 0",
+    "category": "industry",
     "id": 33
+  },
+  {
+    "title": "Tesla (TSLA) discloses $2B AI hardware company acquisition buried",
+    "url": "https://electrek.co/2026/04/23/tesla-tsla-quietly-discloses-2-billion-ai-hardware-acquisition-10q/",
+    "source": "Hacker News",
+    "date": "2026-04-24",
+    "summary": "Article URL: https://electrek.co/2026/04/23/tesla-tsla-quietly-discloses-2-billion-ai-hardware-acquisition-10q/ Comments URL: https://news.ycombinator.com/item?id=47892765 Points: 45 # Comments: 27",
+    "category": "industry",
+    "image": "https://i0.wp.com/electrek.co/wp-content/uploads/sites/3/2024/07/Tesla-Optimus-robot-4680-battery-cell.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+    "id": 34
+  },
+  {
+    "title": "AI models, power, politics, and performance",
+    "url": "https://dominiccummings.substack.com/p/1-ai-models-power-politics-and-performance",
+    "source": "Hacker News",
+    "date": "2026-04-24",
+    "summary": "Article URL: https://dominiccummings.substack.com/p/1-ai-models-power-politics-and-performance Comments URL: https://news.ycombinator.com/item?id=47892758 Points: 2 # Comments: 0",
+    "category": "industry",
+    "id": 35
+  },
+  {
+    "title": "AI Progress doesn't feel as fast as we're told",
+    "url": "https://backnotprop.com/blog/ai-progress-doesnt-feel-as-fast-as-were-told/",
+    "source": "Hacker News",
+    "date": "2026-04-24",
+    "summary": "Article URL: https://backnotprop.com/blog/ai-progress-doesnt-feel-as-fast-as-were-told/ Comments URL: https://news.ycombinator.com/item?id=47892572 Points: 4 # Comments: 1",
+    "category": "industry",
+    "image": "https://backnotprop.com/_astro/og-default.CtYXdJzI.png",
+    "id": 36
+  },
+  {
+    "title": "The Atlas of AI Interaction Design",
+    "url": "https://ai-interaction.com/",
+    "source": "Hacker News",
+    "date": "2026-04-24",
+    "summary": "Article URL: https://ai-interaction.com/ Comments URL: https://news.ycombinator.com/item?id=47892504 Points: 1 # Comments: 0",
+    "category": "industry",
+    "image": "https://ai-interaction.com/OG.png",
+    "id": 37
+  },
+  {
+    "title": "Designing a Memory System for LLM-Based Agents",
+    "url": "https://zby.github.io/commonplace/notes/designing-agent-memory-systems/",
+    "source": "Hacker News",
+    "date": "2026-04-24",
+    "summary": "Article URL: https://zby.github.io/commonplace/notes/designing-agent-memory-systems/ Comments URL: https://news.ycombinator.com/item?id=47892444 Points: 2 # Comments: 0",
+    "category": "models",
+    "id": 38
   },
   {
     "title": "Health-care AI is here. We don’t know if it actually helps patients.",
@@ -329,7 +382,17 @@
     "summary": "I don’t need to tell you that AI is everywhere. Or that it is being used, increasingly, in hospitals. Doctors are using AI to help them with notetaking. AI-based tools are trawling through patient rec...",
     "category": "tools",
     "image": "https://wp.technologyreview.com/wp-content/uploads/2026/04/patient-care.jpg?resize=1200,600",
-    "id": 34
+    "id": 39
+  },
+  {
+    "title": "AI-Designed Drugs by a DeepMind Spinoff Are Headed to Human Trials",
+    "url": "https://www.wired.com/story/wired-health-2026-how-ai-is-powering-drug-discovery-max-jaderberg/",
+    "source": "Wired",
+    "date": "2026-04-24",
+    "summary": "Isomorphic Labs president Max Jaderberg said at WIRED Health in London that the startup has built a “broad and exciting pipeline of new medicines.”",
+    "category": "industry",
+    "image": "https://media.wired.com/photos/69ea468e0e9dbe999945f7fa/191:100/w_1280,c_limit/XT502412.jpg",
+    "id": 40
   },
   {
     "title": "Apple's Next CEO Needs to Launch a Killer AI Product",
@@ -339,7 +402,7 @@
     "summary": "Tim Cook was a great CEO, but he didn’t crack AI. It’s job number 1 for John Ternus.",
     "category": "hardware",
     "image": "https://media.wired.com/photos/69ea4c46037c333b88b0c456/191:100/w_1280,c_limit/Backchannel-What-John-Ternus-Must-Do-Business-2264179980.jpg",
-    "id": 35
+    "id": 41
   },
   {
     "title": "These AI Thirst Trap Creators Say They’re Misunderstood",
@@ -349,7 +412,7 @@
     "summary": "A viral red carpet moment shone light on a group of hunky Instagram influencers—and the followers who are too horny to care that they’re not real.",
     "category": "industry",
     "image": "https://media.wired.com/photos/69e8007028d4e7b7573ef27b/191:100/w_1280,c_limit/The-Gay-AI-Influencers-Taking-IG%E2%80%94and-Red-Carpet%E2%80%94by-Storm-Culture.jpg",
-    "id": 36
+    "id": 42
   },
   {
     "title": "5 Reasons to Think Twice Before Using ChatGPT—or Any Chatbot—for Financial Advice",
@@ -359,7 +422,7 @@
     "summary": "As people increasingly rely on AI chatbots for guidance, even on financial matters, a healthy dose of skepticism is critical.",
     "category": "models",
     "image": "https://media.wired.com/photos/69ea22cb7c6d09c92685b0af/191:100/w_1280,c_limit/financial-advice-chat-gpt.jpg",
-    "id": 37
+    "id": 43
   },
   {
     "title": "The Tool-Overuse Illusion: Why Does LLM Prefer External Tools over Internal Knowledge?",
@@ -368,7 +431,7 @@
     "date": "2026-04-24",
     "summary": "Equipping LLMs with external tools effectively addresses internal reasoning limitations. However, it introduces a critical yet under-explored phenomenon: tool overuse, the unnecessary tool-use during ...",
     "category": "research",
-    "id": 38
+    "id": 44
   },
   {
     "title": "AI to Learn 2.0: A Deliverable-Oriented Governance Framework and Maturity Rubric for Opaque AI in Learning-Intensive Domains",
@@ -377,7 +440,7 @@
     "date": "2026-04-24",
     "summary": "Generative AI is entering research, education, and professional work faster than current governance frameworks can specify how AI-assisted outputs should be judged in learning-intensive settings. The ...",
     "category": "research",
-    "id": 39
+    "id": 45
   },
   {
     "title": "Algorithm Selection with Zero Domain Knowledge via Text Embeddings",
@@ -386,7 +449,7 @@
     "date": "2026-04-24",
     "summary": "We propose a feature-free approach to algorithm selection that replaces hand-crafted instance features with pretrained text embeddings. Our method, ZeroFolio, proceeds in three steps: it reads the raw...",
     "category": "research",
-    "id": 40
+    "id": 46
   },
   {
     "title": "Exploring Data Augmentation and Resampling Strategies for Transformer-Based Models to Address Class Imbalance in AI Scoring of Scientific Explanations in NGSS Classroom",
@@ -395,7 +458,7 @@
     "date": "2026-04-24",
     "summary": "Automated scoring of students' scientific explanations offers the potential for immediate, accurate feedback, yet class imbalance in rubric categories particularly those capturing advanced reasoning r...",
     "category": "research",
-    "id": 41
+    "id": 47
   },
   {
     "title": "Explainable AML Triage with LLMs: Evidence Retrieval and Counterfactual Checks",
@@ -404,7 +467,7 @@
     "date": "2026-04-24",
     "summary": "Anti-money laundering (AML) transaction monitoring generates large volumes of alerts that must be rapidly triaged by investigators under strict audit and governance constraints. While large language m...",
     "category": "models",
-    "id": 42
+    "id": 48
   },
   {
     "title": "ThermoQA: A Three-Tier Benchmark for Evaluating Thermodynamic Reasoning in Large Language Models",
@@ -413,7 +476,7 @@
     "date": "2026-04-24",
     "summary": "We present ThermoQA, a benchmark of 293 open-ended engineering thermodynamics problems in three tiers: property lookups (110 Q), component analysis (101 Q), and full cycle analysis (82 Q). Ground trut...",
     "category": "models",
-    "id": 43
+    "id": 49
   },
   {
     "title": "Automated Detection of Dosing Errors in Clinical Trial Narratives: A Multi-Modal Feature Engineering Approach with LightGBM",
@@ -421,60 +484,6 @@
     "source": "arXiv cs.AI",
     "date": "2026-04-24",
     "summary": "Clinical trials require strict adherence to medication protocols, yet dosing errors remain a persistent challenge affecting patient safety and trial integrity. We present an automated system for detec...",
-    "category": "research",
-    "id": 44
-  },
-  {
-    "title": "Inference Headroom Ratio: A Diagnostic and Control Framework for Inference Stability Under Constraint",
-    "url": "https://arxiv.org/abs/2604.19760",
-    "source": "arXiv cs.AI",
-    "date": "2026-04-24",
-    "summary": "We present a simulation-based evaluation of the Inference Headroom Ratio (IHR), a dimensionless diagnostic quantity for characterizing inference stability in constrained decision systems. IHR formaliz...",
-    "category": "industry",
-    "id": 45
-  },
-  {
-    "title": "EvoForest: A Novel Machine-Learning Paradigm via Open-Ended Evolution of Computational Graphs",
-    "url": "https://arxiv.org/abs/2604.19761",
-    "source": "arXiv cs.AI",
-    "date": "2026-04-24",
-    "summary": "Modern machine learning is still largely organized around a single recipe: choose a parameterized model family and optimize its weights. Although highly successful, this paradigm is too narrow for man...",
-    "category": "models",
-    "id": 46
-  },
-  {
-    "title": "From Actions to Understanding: Conformal Interpretability of Temporal Concepts in LLM Agents",
-    "url": "https://arxiv.org/abs/2604.19775",
-    "source": "arXiv cs.AI",
-    "date": "2026-04-24",
-    "summary": "Large Language Models (LLMs) are increasingly deployed as autonomous agents capable of reasoning, planning, and acting within interactive environments. Despite their growing capability to perform mult...",
-    "category": "research",
-    "id": 47
-  },
-  {
-    "title": "Using Learning Theories to Evolve Human-Centered XAI: Future Perspectives and Challenges",
-    "url": "https://arxiv.org/abs/2604.19788",
-    "source": "arXiv cs.AI",
-    "date": "2026-04-24",
-    "summary": "As Artificial Intelligence (AI) systems continue to grow in size and complexity, so does the difficulty of the quest for AI transparency. In a world of large models and complex AI systems, why do we e...",
-    "category": "hardware",
-    "id": 48
-  },
-  {
-    "title": "From Data to Theory: Autonomous Large Language Model Agents for Materials Science",
-    "url": "https://arxiv.org/abs/2604.19789",
-    "source": "arXiv cs.AI",
-    "date": "2026-04-24",
-    "summary": "We present an autonomous large language model (LLM) agent for end-to-end, data-driven materials theory development. The model can choose an equation form, generate and run its own code, and test how w...",
-    "category": "models",
-    "id": 49
-  },
-  {
-    "title": "Hidden Reliability Risks in Large Language Models: Systematic Identification of Precision-Induced Output Disagreements",
-    "url": "https://arxiv.org/abs/2604.19790",
-    "source": "arXiv cs.AI",
-    "date": "2026-04-24",
-    "summary": "Large language models (LLMs) are increasingly deployed under diverse numerical precision configurations, including standard floating-point formats (e.g., bfloat16 and float16) and quantized integer fo...",
     "category": "research",
     "id": 50
   }
