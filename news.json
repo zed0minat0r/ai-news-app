@@ -1,5 +1,26 @@
 [
   {
+    "title": "Maine governor vetoes bill that bans large new data centers — says legislature should’ve exempted one particular well-supported data center",
+    "url": "https://www.tomshardware.com/desktops/servers/maine-governor-vetoes-bill-that-bans-large-new-data-centers-says-legislature-shouldve-exempted-one-particular-well-supported-data-center",
+    "source": "Tom's Hardware",
+    "date": "2026-04-25",
+    "summary": "Governor Janet Mills vetoed a bill that would have enacted a moratorium on all data center projects because it would affect one site to be built on a former paper mill in Jay, Franklin County.",
+    "category": "hardware",
+    "image": "https://cdn.mos.cms.futurecdn.net/nX2R5xtRMdpDRLzcPLp6xe-1280-80.jpg",
+    "id": 1,
+    "featured": true
+  },
+  {
+    "title": "Intel has reportedly cancelled discrete gaming GPUs for the upcoming Xe3P Arc \"Celestial\" family — gaming GPU remains uncertain even for the next-gen Xe4 \"Druid\" lineup that lands in 2027",
+    "url": "https://www.tomshardware.com/pc-components/gpus/intel-has-reportedly-killed-discrete-gaming-gpus-for-the-upcoming-xe3p-arc-celestial-family-gaming-gpu-remains-uncertain-even-for-the-next-gen-xe4-druid-lineup-that-lands-in-2027",
+    "source": "Tom's Hardware",
+    "date": "2026-04-25",
+    "summary": "New leaks claim that Intel's upcoming Xe3P graphics architecture won't feature any discrete gaming GPUs, and even the next-gen Xe4 lineup isn't confirmed to. Intel is instead prioritizing the datacent...",
+    "category": "hardware",
+    "image": "https://cdn.mos.cms.futurecdn.net/hi5W35JxnqEdhVwLQLhFSh-1280-80.jpg",
+    "id": 2
+  },
+  {
     "title": "Intel Core Ultra 7 270K Plus vs AMD Ryzen 7 7800X3D — Can Intel finally beat X3D?",
     "url": "https://www.tomshardware.com/pc-components/cpus/intel-core-ultra-7-270k-plus-vs-amd-ryzen-7-7800x3d-cpu-faceoff",
     "source": "Tom's Hardware",
@@ -7,8 +28,7 @@
     "summary": "Intel's new Core Ultra 7 270K Plus is a productivity beast, but can it hang with the Ryzen 7 7800X3D in games? We put the two CPUs head-to-head.",
     "category": "hardware",
     "image": "https://cdn.mos.cms.futurecdn.net/tqwG7C6ZkmTRBrURi8apGc-1280-80.jpg",
-    "id": 1,
-    "featured": true
+    "id": 3
   },
   {
     "title": "Intel VP claims up to 30% of CPU performance is untapped by modern games — software optimization is critical to unlocking full potential of hybrid CPUs",
@@ -18,7 +38,7 @@
     "summary": "Intel is claiming that better software optimization for hybrid architecture CPUs can unlock up to 30% more performance without hardware upgrades. The silicon itself is very capable, but its true poten...",
     "category": "hardware",
     "image": "https://cdn.mos.cms.futurecdn.net/Jnjcgt3QhdSo3kGCD2juTd-1280-80.png",
-    "id": 2
+    "id": 4
   },
   {
     "title": "AMD's memory-boosting EXPO 1.2 is here, adds support for three Chinese memory vendors — performance gains could be muted until Zen 6",
@@ -28,34 +48,157 @@
     "summary": "Third-party AMD developer and hardware leakers share details of the new AMD EXPO 1.2 technology arriving on AMD AM5 motherboards.",
     "category": "hardware",
     "image": "https://cdn.mos.cms.futurecdn.net/DgnCy6qJLcnrV9geLHmGqW-1280-80.jpg",
-    "id": 3
+    "id": 5
+  },
+  {
+    "title": "AI Adoption in the United States and Its (Tiny) Labor Market Impact",
+    "url": "https://macromostly.substack.com/p/an-update-on-ai-adoption-in-the-united",
+    "source": "Hacker News",
+    "date": "2026-04-25",
+    "summary": "Article URL: https://macromostly.substack.com/p/an-update-on-ai-adoption-in-the-united Comments URL: https://news.ycombinator.com/item?id=47902151 Points: 1 # Comments: 1",
+    "category": "industry",
+    "id": 6
+  },
+  {
+    "title": "AI News Aggregator – The Wire",
+    "url": "https://www.thewire.ink/",
+    "source": "Hacker News",
+    "date": "2026-04-25",
+    "summary": "Article URL: https://www.thewire.ink/ Comments URL: https://news.ycombinator.com/item?id=47902107 Points: 1 # Comments: 1",
+    "category": "industry",
+    "id": 7
+  },
+  {
+    "title": "Is \"Outsourcing Our Thinking to AI\" a Bug or a Feature?",
+    "url": "https://slashdot.org/submission/17346722/is-outsourcing-our-thinking-to-ai-a-bug-or-a-feature",
+    "source": "Hacker News",
+    "date": "2026-04-25",
+    "summary": "Article URL: https://slashdot.org/submission/17346722/is-outsourcing-our-thinking-to-ai-a-bug-or-a-feature Comments URL: https://news.ycombinator.com/item?id=47902034 Points: 1 # Comments: 0",
+    "category": "industry",
+    "id": 8
+  },
+  {
+    "title": "GPT hallucinated a bug in my code, so I 'fixed' it",
+    "url": "https://www.droppedasbaby.com/posts/2602-02/",
+    "source": "Hacker News",
+    "date": "2026-04-25",
+    "summary": "Article URL: https://www.droppedasbaby.com/posts/2602-02/ Comments URL: https://news.ycombinator.com/item?id=47901999 Points: 1 # Comments: 0",
+    "category": "models",
+    "id": 9
+  },
+  {
+    "title": "Surf-CLI – a CLI for AI agents to control Chrome",
+    "url": "https://github.com/nicobailon/surf-cli",
+    "source": "Hacker News",
+    "date": "2026-04-25",
+    "summary": "Article URL: https://github.com/nicobailon/surf-cli Comments URL: https://news.ycombinator.com/item?id=47901782 Points: 3 # Comments: 0",
+    "category": "industry",
+    "image": "https://opengraph.githubassets.com/c9081cf1bdfc081f414c8f7fb0766b5aa03b1afa247c617ee1a69b60a2118f17/nicobailon/surf-cli",
+    "id": 10
+  },
+  {
+    "title": "Onyx Pro, a local desktop utility for re-evaluating AI IDEs before paying",
+    "url": "https://getonyxpro.com",
+    "source": "Hacker News",
+    "date": "2026-04-25",
+    "summary": "Article URL: https://getonyxpro.com Comments URL: https://news.ycombinator.com/item?id=47901765 Points: 2 # Comments: 0",
+    "category": "industry",
+    "image": "https://getonyxpro.com/og-image-v4.jpg",
+    "id": 11
+  },
+  {
+    "title": "xAI credits (YC AI STACK) rescinded",
+    "url": "https://news.ycombinator.com/item?id=47901739",
+    "source": "Hacker News",
+    "date": "2026-04-25",
+    "summary": "I redeemed xai credits from my yc stack, now those credits are gone, i asked someone i know too , even their credits in xai are gone. Comments URL: https://news.ycombinator.com/item?id=47901739 Points...",
+    "category": "industry",
+    "id": 12
+  },
+  {
+    "title": "What Would You Ask an AI to Do in Every Prompt?",
+    "url": "https://news.ycombinator.com/item?id=47901712",
+    "source": "Hacker News",
+    "date": "2026-04-25",
+    "summary": "I'm referring to the way some AI agents let you add a rule that applies to every conversation, and the AI will follow that rule every time you interact with it. Is it necessary to set up such rules in...",
+    "category": "industry",
+    "id": 13
+  },
+  {
+    "title": "Officials underestimated impact of AI datacentres on UK carbon emissions",
+    "url": "https://www.theguardian.com/technology/2026/apr/24/officials-hugely-underestimated-impact-of-ai-datacentres-on-uk-carbon-emissions",
+    "source": "Hacker News",
+    "date": "2026-04-25",
+    "summary": "Article URL: https://www.theguardian.com/technology/2026/apr/24/officials-hugely-underestimated-impact-of-ai-datacentres-on-uk-carbon-emissions Comments URL: https://news.ycombinator.com/item?id=47901...",
+    "category": "industry",
+    "image": "https://i.guim.co.uk/img/media/27eee0f11e117ff8a3a29a566e0c66bafbdec427/479_0_7042_5632/master/7042.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=283c82e1a1c7e08ef39855809d397d38",
+    "id": 14
+  },
+  {
+    "title": "SciRS2 – Scientific Computing and AI in Rust without C/C++/Fortran dependencies",
+    "url": "https://github.com/cool-japan/scirs",
+    "source": "Hacker News",
+    "date": "2026-04-25",
+    "summary": "Article URL: https://github.com/cool-japan/scirs Comments URL: https://news.ycombinator.com/item?id=47901533 Points: 2 # Comments: 0",
+    "category": "industry",
+    "image": "https://opengraph.githubassets.com/4052bddd9e0f446ec2769c6c2633aebd613b86cabb4d6e157dc8059c5701688b/cool-japan/scirs",
+    "id": 15
+  },
+  {
+    "title": "Show HN: Chatforge – drag two local LLM conversations together to merge context",
+    "url": "https://github.com/gerritsxd/chatforge",
+    "source": "Hacker News",
+    "date": "2026-04-25",
+    "summary": "Article URL: https://github.com/gerritsxd/chatforge Comments URL: https://news.ycombinator.com/item?id=47901504 Points: 1 # Comments: 0",
+    "category": "models",
+    "image": "https://opengraph.githubassets.com/41faf02c7cd51c55e514d7cc08655d7fadec1b5fe62b847f96dc6e2a601e4fcf/gerritsxd/chatforge",
+    "id": 16
+  },
+  {
+    "title": "The reporters at this news site are AI bots. OpenAI's super PAC appears to be",
+    "url": "https://modelrepublic.substack.com/p/the-reporters-at-this-news-site-are",
+    "source": "Hacker News",
+    "date": "2026-04-25",
+    "summary": "Article URL: https://modelrepublic.substack.com/p/the-reporters-at-this-news-site-are Comments URL: https://news.ycombinator.com/item?id=47901482 Points: 5 # Comments: 0",
+    "category": "industry",
+    "id": 17
+  },
+  {
+    "title": "Fight AI Slop and Fakery: Build and Distribute Your Own Trust Chain",
+    "url": "https://blog.certisfy.com/2026/04/build-your-own-trust-chain.html",
+    "source": "Hacker News",
+    "date": "2026-04-25",
+    "summary": "Article URL: https://blog.certisfy.com/2026/04/build-your-own-trust-chain.html Comments URL: https://news.ycombinator.com/item?id=47901453 Points: 2 # Comments: 1",
+    "category": "industry",
+    "image": "https://lh3.googleusercontent.com/blogger_img_proxy/AEn0k_v1q137Ett6TNdI0NE5lM5DywMkATAK-cXyQvdDV-DXECguckcNSxvgX-ubPr62kYl6yZypOae0HIQoZsydOsznHkcQvI4Lvmi-w0-CKnYjV41QdA=w1200-h630-n-k-no-nu",
+    "id": 18
   },
   {
     "title": "Subvert's AI Policy",
     "url": "https://subvert.fm/ai-policy/",
     "source": "Hacker News",
     "date": "2026-04-25",
-    "summary": "Article URL: https://subvert.fm/ai-policy/ Comments URL: https://news.ycombinator.com/item?id=47901269 Points: 2 # Comments: 0",
+    "summary": "Article URL: https://subvert.fm/ai-policy/ Comments URL: https://news.ycombinator.com/item?id=47901269 Points: 4 # Comments: 0",
     "category": "industry",
-    "id": 4
+    "id": 19
   },
   {
     "title": "Can Google Win the AI Hardware Race Through TPUs?",
     "url": "https://google-ai-race.pagey.site/",
     "source": "Hacker News",
     "date": "2026-04-25",
-    "summary": "Article URL: https://google-ai-race.pagey.site/ Comments URL: https://news.ycombinator.com/item?id=47901251 Points: 3 # Comments: 0",
+    "summary": "Article URL: https://google-ai-race.pagey.site/ Comments URL: https://news.ycombinator.com/item?id=47901251 Points: 4 # Comments: 0",
     "category": "hardware",
-    "id": 5
+    "id": 20
   },
   {
     "title": "The Tsundoku Trap: Why AI Makes You Start Everything and Finish Nothing",
     "url": "https://blog.danielvaughan.com/the-tsundoku-trap-why-ai-makes-you-start-everything-and-finish-nothing-7087184a4342",
     "source": "Hacker News",
     "date": "2026-04-25",
-    "summary": "Article URL: https://blog.danielvaughan.com/the-tsundoku-trap-why-ai-makes-you-start-everything-and-finish-nothing-7087184a4342 Comments URL: https://news.ycombinator.com/item?id=47901024 Points: 9 # ...",
+    "summary": "Article URL: https://blog.danielvaughan.com/the-tsundoku-trap-why-ai-makes-you-start-everything-and-finish-nothing-7087184a4342 Comments URL: https://news.ycombinator.com/item?id=47901024 Points: 11 #...",
     "category": "industry",
-    "id": 6
+    "id": 21
   },
   {
     "title": "Show HN: Memweave CLI – search your AI agent's memory from the shell",
@@ -65,7 +208,7 @@
     "summary": "Article URL: https://github.com/sachinsharma9780/memweave Comments URL: https://news.ycombinator.com/item?id=47900995 Points: 5 # Comments: 0",
     "category": "hardware",
     "image": "https://opengraph.githubassets.com/30777b33ca08c90671fd5c7a15298a9bf4e6b2cc310ad155578c2407c5e80769/sachinsharma9780/memweave",
-    "id": 7
+    "id": 22
   },
   {
     "title": "Show HN: Enlist AI: Sub-second interview coaching with persistence",
@@ -74,150 +217,17 @@
     "date": "2026-04-25",
     "summary": "Following some initial feedback, we’ve updated Enlist AI to ensure your preparation never resets. Based on user behavior, we noticed plans were being lost on refresh, so we've implemented local persis...",
     "category": "hardware",
-    "id": 8
+    "id": 23
   },
   {
     "title": "From $200 to $30: Five Layers of LLM Cost Optimization",
     "url": "http://blog.dwornikowski.com/posts/cutting-llm-costs-token-optimization/",
     "source": "Hacker News",
     "date": "2026-04-25",
-    "summary": "Article URL: http://blog.dwornikowski.com/posts/cutting-llm-costs-token-optimization/ Comments URL: https://news.ycombinator.com/item?id=47900746 Points: 7 # Comments: 1",
+    "summary": "Article URL: http://blog.dwornikowski.com/posts/cutting-llm-costs-token-optimization/ Comments URL: https://news.ycombinator.com/item?id=47900746 Points: 9 # Comments: 1",
     "category": "models",
     "image": "http://blog.dwornikowski.com/openg.png",
-    "id": 9
-  },
-  {
-    "title": "Crafting an AI-Driven Workflow System [video]",
-    "url": "https://www.youtube.com/watch?v=SrRweChigB0",
-    "source": "Hacker News",
-    "date": "2026-04-25",
-    "summary": "Article URL: https://www.youtube.com/watch?v=SrRweChigB0 Comments URL: https://news.ycombinator.com/item?id=47900731 Points: 1 # Comments: 0",
-    "category": "industry",
-    "id": 10
-  },
-  {
-    "title": "Show HN: Harnessing LLM-Prompt Mutation to Build Smart,Automated Fuzz Drivers",
-    "url": "https://github.com/FuzzAnything/PromptFuzz",
-    "source": "Hacker News",
-    "date": "2026-04-25",
-    "summary": "Article URL: https://github.com/FuzzAnything/PromptFuzz Comments URL: https://news.ycombinator.com/item?id=47900648 Points: 1 # Comments: 0",
-    "category": "models",
-    "image": "https://opengraph.githubassets.com/8c0a499cffaa261b794c1c8ab5fe573b2ca99bf6576feeb78e56692624ec1df7/FuzzAnything/PromptFuzz",
-    "id": 11
-  },
-  {
-    "title": "SAP just made the opposite bet from every other enterprise platform on AI agents",
-    "url": "https://www.sap.com/documents/2026/04/dce9aee4-497f-0010-bca6-c68f7e60039b.html",
-    "source": "Hacker News",
-    "date": "2026-04-25",
-    "summary": "Article URL: https://www.sap.com/documents/2026/04/dce9aee4-497f-0010-bca6-c68f7e60039b.html Comments URL: https://news.ycombinator.com/item?id=47900564 Points: 2 # Comments: 0",
-    "category": "tools",
-    "id": 12
-  },
-  {
-    "title": "GPT 5.5 flags accounts for \"potential high-risk cybersecurity\"",
-    "url": "https://twitter.com/banteg/status/2047577218142871949",
-    "source": "Hacker News",
-    "date": "2026-04-25",
-    "summary": "Article URL: https://twitter.com/banteg/status/2047577218142871949 Comments URL: https://news.ycombinator.com/item?id=47900544 Points: 4 # Comments: 0",
-    "category": "models",
-    "id": 13
-  },
-  {
-    "title": "Lambda Calculus Benchmark for AI",
-    "url": "https://victortaelin.github.io/lambench/",
-    "source": "Hacker News",
-    "date": "2026-04-25",
-    "summary": "Article URL: https://victortaelin.github.io/lambench/ Comments URL: https://news.ycombinator.com/item?id=47900506 Points: 18 # Comments: 3",
-    "category": "models",
-    "id": 14
-  },
-  {
-    "title": "Amália- Open Source Large Language Model (LLM) for European Portuguese",
-    "url": "https://portugal.gov.pt/gc24/comunicacao/noticias/modelo-de-linguagem-em-grande-escala-para-a-lingua-portuguesa",
-    "source": "Hacker News",
-    "date": "2026-04-25",
-    "summary": "Article URL: https://portugal.gov.pt/gc24/comunicacao/noticias/modelo-de-linguagem-em-grande-escala-para-a-lingua-portuguesa Comments URL: https://news.ycombinator.com/item?id=47900407 Points: 6 # Com...",
-    "category": "models",
-    "image": "https://edge.sitecorecloud.io/centrodeges65c9-cegere0de-prod6279-8af9/media/Project/Portal-do-Governo/Portal-do-Governo/portugalgov.png?h=630&iar=0&w=1200",
-    "id": 15
-  },
-  {
-    "title": "Happy Horse AI",
-    "url": "https://www.happyhorseai.store",
-    "source": "Hacker News",
-    "date": "2026-04-25",
-    "summary": "Article URL: https://www.happyhorseai.store Comments URL: https://news.ycombinator.com/item?id=47900383 Points: 4 # Comments: 0",
-    "category": "industry",
-    "image": "https://www.happyhorseai.store/og.png",
-    "id": 16
-  },
-  {
-    "title": "South Korean workers learn AI after work, outpacing their companies",
-    "url": "https://english.kyodonews.net/articles/-/74668",
-    "source": "Hacker News",
-    "date": "2026-04-25",
-    "summary": "Article URL: https://english.kyodonews.net/articles/-/74668 Comments URL: https://news.ycombinator.com/item?id=47900380 Points: 1 # Comments: 0",
-    "category": "industry",
-    "image": "https://english-kyodo.ismcdn.jp/mwimgs/9/2/1200x/img_920b28e7bb3c467d8652925cdd512296179102.jpg",
-    "id": 17
-  },
-  {
-    "title": "Intel soars on signs AI boom for CPUs is here",
-    "url": "https://www.reuters.com/business/intel-set-record-high-ai-driven-cpu-demand-powers-upbeat-forecast-2026-04-24/",
-    "source": "Hacker News",
-    "date": "2026-04-25",
-    "summary": "Article URL: https://www.reuters.com/business/intel-set-record-high-ai-driven-cpu-demand-powers-upbeat-forecast-2026-04-24/ Comments URL: https://news.ycombinator.com/item?id=47900376 Points: 4 # Comm...",
-    "category": "hardware",
-    "id": 18
-  },
-  {
-    "title": "You probably wouldn't notice if an AI chatbot slipped ads into its responses",
-    "url": "https://theconversation.com/you-probably-wouldnt-notice-if-an-ai-chatbot-slipped-ads-into-its-responses-276010",
-    "source": "Hacker News",
-    "date": "2026-04-25",
-    "summary": "Article URL: https://theconversation.com/you-probably-wouldnt-notice-if-an-ai-chatbot-slipped-ads-into-its-responses-276010 Comments URL: https://news.ycombinator.com/item?id=47900270 Points: 10 # Com...",
-    "category": "industry",
-    "image": "https://images.theconversation.com/files/728415/original/file-20260407-57-dj2xk6.jpg?ixlib=rb-4.1.0&rect=0%2C362%2C4338%2C2169&q=45&auto=format&w=1356&h=668&fit=crop",
-    "id": 19
-  },
-  {
-    "title": "Meta signs agreement with AWS to power agentic AI on Amazon's Graviton chips",
-    "url": "https://www.aboutamazon.com/news/aws/meta-aws-graviton-ai-partnership",
-    "source": "Hacker News",
-    "date": "2026-04-25",
-    "summary": "Article URL: https://www.aboutamazon.com/news/aws/meta-aws-graviton-ai-partnership Comments URL: https://news.ycombinator.com/item?id=47900251 Points: 2 # Comments: 1",
-    "category": "hardware",
-    "image": "https://assets.aboutamazon.com/dims4/default/56e1ac7/2147483647/strip/true/crop/1919x960+0+73/resize/1200x600!/quality/90/?url=https%3A%2F%2Famazon-blogs-brightspot.s3.amazonaws.com%2F8b%2F04%2F03d9e1cb492390a8115eddabbe1d%2Faws-meta-hero-amazonnews-ck042326.jpg",
-    "id": 20
-  },
-  {
-    "title": "Rust open-source headless browser for AI agents and web scraping",
-    "url": "https://github.com/h4ckf0r0day/obscura",
-    "source": "Hacker News",
-    "date": "2026-04-25",
-    "summary": "Article URL: https://github.com/h4ckf0r0day/obscura Comments URL: https://news.ycombinator.com/item?id=47900202 Points: 2 # Comments: 0",
-    "category": "tools",
-    "image": "https://opengraph.githubassets.com/3f63c3829451664c2a1565c543bdf94b142fec42a189d085fe9d8ef6a935f8b3/h4ckf0r0day/obscura",
-    "id": 21
-  },
-  {
-    "title": "A fun 5 minute take on AI in business",
-    "url": "https://www.youtube.com/watch?v=nDL3Ch7Nz8c",
-    "source": "Hacker News",
-    "date": "2026-04-25",
-    "summary": "Article URL: https://www.youtube.com/watch?v=nDL3Ch7Nz8c Comments URL: https://news.ycombinator.com/item?id=47900156 Points: 2 # Comments: 0",
-    "category": "industry",
-    "id": 22
-  },
-  {
-    "title": "Agentic AI for Hormuz Shock Modelling",
-    "url": "https://avkcode.github.io/blog/hormuz-shock.html",
-    "source": "Hacker News",
-    "date": "2026-04-25",
-    "summary": "Article URL: https://avkcode.github.io/blog/hormuz-shock.html Comments URL: https://news.ycombinator.com/item?id=47900115 Points: 1 # Comments: 0",
-    "category": "industry",
-    "id": 23
+    "id": 24
   },
   {
     "title": "Discord Sleuths Gained Unauthorized Access to Anthropic’s Mythos",
@@ -227,7 +237,7 @@
     "summary": "Plus: Spy firms tap into a global telecom weakness to track targets, 500,000 UK health records go up for sale on Alibaba, Apple patches a revealing notification bug, and more.",
     "category": "hardware",
     "image": "https://media.wired.com/photos/69ebf499d9b235ed1b8f0693/191:100/w_1280,c_limit/Security-News-This-Week-Discord-Group-Reportedly-Guessed-Its-Way-Into-Anthropic-Mythos-Security.jpg",
-    "id": 24
+    "id": 25
   },
   {
     "title": "Architecture of an AI-Based Automated Course of Action Generation System for Military Operations",
@@ -236,7 +246,7 @@
     "date": "2026-04-25",
     "summary": "The automation system for Course of Action (CoA) planning is an essential element in future warfare. As maneuver speeds increase, surveillance ranges extend, and weapon ranges grow, the operational ar...",
     "category": "research",
-    "id": 25
+    "id": 26
   },
   {
     "title": "Escaping the Agreement Trap: Defensibility Signals for Evaluating Rule-Governed AI",
@@ -245,7 +255,7 @@
     "date": "2026-04-25",
     "summary": "Content moderation systems are typically evaluated by measuring agreement with human labels. In rule-governed environments this assumption fails: multiple decisions may be logically consistent with th...",
     "category": "research",
-    "id": 26
+    "id": 27
   },
   {
     "title": "Co-Evolving LLM Decision and Skill Bank Agents for Long-Horizon Tasks",
@@ -254,7 +264,7 @@
     "date": "2026-04-25",
     "summary": "Long horizon interactive environments are a testbed for evaluating agents skill usage abilities. These environments demand multi step reasoning, the chaining of multiple skills over many timesteps, an...",
     "category": "models",
-    "id": 27
+    "id": 28
   },
   {
     "title": "Value-Conflict Diagnostics Reveal Widespread Alignment Faking in Language Models",
@@ -263,7 +273,7 @@
     "date": "2026-04-25",
     "summary": "Alignment faking, where a model behaves aligned with developer policy when monitored but reverts to its own preferences when unobserved, is a concerning yet poorly understood phenomenon, in part becau...",
     "category": "models",
-    "id": 28
+    "id": 29
   },
   {
     "title": "The Last Harness You'll Ever Build",
@@ -272,7 +282,7 @@
     "date": "2026-04-25",
     "summary": "AI agents are increasingly deployed on complex, domain-specific workflows -- navigating enterprise web applications that require dozens of clicks and form fills, orchestrating multi-step research pipe...",
     "category": "research",
-    "id": 29
+    "id": 30
   },
   {
     "title": "Deep FinResearch Bench: Evaluating AI's Ability to Conduct Professional Financial Investment Research",
@@ -281,7 +291,7 @@
     "date": "2026-04-25",
     "summary": "We introduce Deep FinResearch Bench, a practical and comprehensive evaluation framework for deep research (DR) agents in financial investment research. The benchmark assesses three dimensions of repor...",
     "category": "research",
-    "id": 30
+    "id": 31
   },
   {
     "title": "Adaptive Test-Time Compute Allocation with Evolving In-Context Demonstrations",
@@ -290,7 +300,7 @@
     "date": "2026-04-25",
     "summary": "While scaling test-time compute can substantially improve model performance, existing approaches either rely on static compute allocation or sample from fixed generation distributions. In this work, w...",
     "category": "research",
-    "id": 31
+    "id": 32
   },
   {
     "title": "HypEHR: Hyperbolic Modeling of Electronic Health Records for Efficient Question Answering",
@@ -299,7 +309,7 @@
     "date": "2026-04-25",
     "summary": "Electronic health record (EHR) question answering is often handled by LLM-based pipelines that are costly to deploy and do not explicitly leverage the hierarchical structure of clinical data. Motivate...",
     "category": "models",
-    "id": 32
+    "id": 33
   },
   {
     "title": "Who Defines Fairness? Target-Based Prompting for Demographic Representation in Generative Models",
@@ -308,7 +318,7 @@
     "date": "2026-04-25",
     "summary": "Text-to-image(T2I) models like Stable Diffusion and DALL-E have made generative AI widely accessible, yet recent studies reveal that these systems often replicate societal biases, particularly in how ...",
     "category": "models",
-    "id": 33
+    "id": 34
   },
   {
     "title": "Active Data",
@@ -317,7 +327,7 @@
     "date": "2026-04-25",
     "summary": "In some complex domains, certain problem-specific decompositions can provide advantages over monolithic designs by enabling comprehension and specification of the design. In this paper we present an i...",
     "category": "research",
-    "id": 34
+    "id": 35
   },
   {
     "title": "InVitroVision: a Multi-Modal AI Model for Automated Description of Embryo Development using Natural Language",
@@ -326,7 +336,7 @@
     "date": "2026-04-25",
     "summary": "The application of artificial intelligence (AI) in IVF has shown promise in improving consistency and standardization of decisions, but often relies on annotated data and does not make use of the mult...",
     "category": "models",
-    "id": 35
+    "id": 36
   },
   {
     "title": "Mind the Prompt: Self-adaptive Generation of Task Plan Explanations via LLMs",
@@ -335,7 +345,7 @@
     "date": "2026-04-25",
     "summary": "Integrating Large Language Models (LLMs) into complex software systems enables the generation of human-understandable explanations of opaque AI processes, such as automated task planning. However, the...",
     "category": "models",
-    "id": 36
+    "id": 37
   },
   {
     "title": "Propensity Inference: Environmental Contributors to LLM Behaviour",
@@ -344,7 +354,7 @@
     "date": "2026-04-25",
     "summary": "Motivated by loss of control risks from misaligned AI systems, we develop and apply methods for measuring language models' propensity for unsanctioned behaviour. We contribute three methodological imp...",
     "category": "research",
-    "id": 37
+    "id": 38
   },
   {
     "title": "AI Governance under Political Turnover: The Alignment Surface of Compliance Design",
@@ -353,7 +363,7 @@
     "date": "2026-04-25",
     "summary": "Governments are increasingly interested in using AI to make administrative decisions cheaper, more scalable, and more consistent. But for probabilistic AI to be incorporated into public administration...",
     "category": "industry",
-    "id": 38
+    "id": 39
   },
   {
     "title": "Agentic AI for Personalized Physiotherapy: A Multi-Agent Framework for Generative Video Training and Real-Time Pose Correction",
@@ -362,7 +372,7 @@
     "date": "2026-04-25",
     "summary": "At-home physiotherapy compliance remains critically low due to a lack of personalized supervision and dynamic feedback. Existing digital health solutions rely on static, pre-recorded video libraries o...",
     "category": "research",
-    "id": 39
+    "id": 40
   },
   {
     "title": "Multi-Agent Empowerment and Emergence of Complex Behavior in Groups",
@@ -371,7 +381,7 @@
     "date": "2026-04-25",
     "summary": "Intrinsic motivations are receiving increasing attention, i.e. behavioral incentives that are not engineered, but emerge from the interaction of an agent with its surroundings. In this work we study t...",
     "category": "research",
-    "id": 40
+    "id": 41
   },
   {
     "title": "Trust but Verify: Introducing DAVinCI -- A Framework for Dual Attribution and Verification in Claim Inference for Language Models",
@@ -380,7 +390,7 @@
     "date": "2026-04-25",
     "summary": "Large Language Models (LLMs) have demonstrated remarkable fluency and versatility across a wide range of NLP tasks, yet they remain prone to factual inaccuracies and hallucinations. This limitation po...",
     "category": "research",
-    "id": 41
+    "id": 42
   },
   {
     "title": "Align Generative Artificial Intelligence with Human Preferences: A Novel Large Language Model Fine-Tuning Method for Online Review Management",
@@ -389,7 +399,7 @@
     "date": "2026-04-25",
     "summary": "Online reviews have played a pivotal role in consumers' decision-making processes. Existing research has highlighted the significant impact of managerial review responses on customer relationship mana...",
     "category": "models",
-    "id": 42
+    "id": 43
   },
   {
     "title": "ReCAPA: Hierarchical Predictive Correction to Mitigate Cascading Failures",
@@ -398,7 +408,7 @@
     "date": "2026-04-25",
     "summary": "Vision-Language-Action systems follow instructions to execute multi-step tasks in multimodal environments. Recent VLA approaches typically rely on post-hoc correction mechanisms or operate under fixed...",
     "category": "models",
-    "id": 43
+    "id": 44
   },
   {
     "title": "Robustness Analysis of POMDP Policies to Observation Perturbations",
@@ -407,7 +417,7 @@
     "date": "2026-04-25",
     "summary": "Policies for Partially Observable Markov Decision Processes (POMDPs) are often designed using a nominal system model. In practice, this model can deviate from the true system during deployment due to ...",
     "category": "research",
-    "id": 44
+    "id": 45
   },
   {
     "title": "Trustworthy Clinical Decision Support Using Meta-Predicates and Domain-Specific Languages",
@@ -416,7 +426,7 @@
     "date": "2026-04-25",
     "summary": "\\textbf{Background:} Regulatory frameworks for AI in healthcare, including the EU AI Act and FDA guidance on AI/ML-based medical devices, require clinical decision support to demonstrate not only accu...",
     "category": "tools",
-    "id": 45
+    "id": 46
   },
   {
     "title": "Enhancing Online Recruitment with Category-Aware MoE and LLM-based Data Augmentation",
@@ -425,7 +435,7 @@
     "date": "2026-04-25",
     "summary": "Person-Job Fit (PJF) is a critical component for online recruitment. Existing approaches face several challenges, particularly in handling low-quality job descriptions and similar candidate-job pairs,...",
     "category": "research",
-    "id": 46
+    "id": 47
   },
   {
     "title": "Can MLLMs \"Read\" What is Missing?",
@@ -434,7 +444,7 @@
     "date": "2026-04-25",
     "summary": "We introduce MMTR-Bench, a benchmark designed to evaluate the intrinsic ability of Multimodal Large Language Models (MLLMs) to reconstruct masked text directly from visual context. Unlike conventional...",
     "category": "models",
-    "id": 47
+    "id": 48
   },
   {
     "title": "Spatial Metaphors for LLM Memory: A Critical Analysis of the MemPalace Architecture",
@@ -443,7 +453,7 @@
     "date": "2026-04-25",
     "summary": "MemPalace is an open-source AI memory system that applies the ancient method of loci (memory palace) spatial metaphor to organize long-term memory for large language models; launched in April 2026, it...",
     "category": "research",
-    "id": 48
+    "id": 49
   },
   {
     "title": "Ideological Bias in LLMs' Economic Causal Reasoning",
@@ -452,15 +462,6 @@
     "date": "2026-04-25",
     "summary": "Do large language models (LLMs) exhibit systematic ideological bias when reasoning about economic causal effects? As LLMs are increasingly used in policy analysis and economic reporting, where directi...",
     "category": "industry",
-    "id": 49
-  },
-  {
-    "title": "Evaluating AI Meeting Summaries with a Reusable Cross-Domain Pipeline",
-    "url": "https://arxiv.org/abs/2604.21345",
-    "source": "arXiv cs.AI",
-    "date": "2026-04-25",
-    "summary": "We present a reusable evaluation pipeline for generative AI applications, instantiated for AI meeting summaries and released with a public artifact package derived from a Dataset Pipeline. The system ...",
-    "category": "research",
     "id": 50
   }
 ]
