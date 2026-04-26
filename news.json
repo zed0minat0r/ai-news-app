@@ -1,5 +1,81 @@
 [
   {
+    "title": "Blueprint: AI Hardware Design",
+    "url": "https://www.blueprint.am/",
+    "source": "Hacker News",
+    "date": "2026-04-26",
+    "summary": "Article URL: https://www.blueprint.am/ Comments URL: https://news.ycombinator.com/item?id=47907988 Points: 1 # Comments: 0",
+    "category": "industry",
+    "image": "https://blueprint.am/favicons/BlueprintOG.png",
+    "id": 1,
+    "featured": true
+  },
+  {
+    "title": "Airprompt – SSH into your Mac from your phone for AI agent prompts",
+    "url": "https://www.npmjs.com/package/airprompt",
+    "source": "Hacker News",
+    "date": "2026-04-26",
+    "summary": "Article URL: https://www.npmjs.com/package/airprompt Comments URL: https://news.ycombinator.com/item?id=47908040 Points: 2 # Comments: 1",
+    "category": "industry",
+    "id": 2
+  },
+  {
+    "title": "The reporters at this news site are AI bots. OpenAI's super PAC is funding it",
+    "url": "https://twitter.com/TheMidasProj/status/2047692328396034490",
+    "source": "Hacker News",
+    "date": "2026-04-26",
+    "summary": "Article URL: https://twitter.com/TheMidasProj/status/2047692328396034490 Comments URL: https://news.ycombinator.com/item?id=47907960 Points: 2 # Comments: 0",
+    "category": "industry",
+    "id": 3
+  },
+  {
+    "title": "Show HN: Implit – Catch fake AI-generated dependencies",
+    "url": "https://github.com/build-neurall/implit",
+    "source": "Hacker News",
+    "date": "2026-04-26",
+    "summary": "Article URL: https://github.com/build-neurall/implit Comments URL: https://news.ycombinator.com/item?id=47907707 Points: 1 # Comments: 0",
+    "category": "industry",
+    "image": "https://opengraph.githubassets.com/66c2c68d45711235b2b07d312c292ab1c1ceb29e97031181cdffadd2175b098c/build-neurall/implit",
+    "id": 4
+  },
+  {
+    "title": "Stt.ai MCP Server",
+    "url": "https://pypi.org/project/sttai-mcp/0.1.0/",
+    "source": "Hacker News",
+    "date": "2026-04-26",
+    "summary": "Article URL: https://pypi.org/project/sttai-mcp/0.1.0/ Comments URL: https://news.ycombinator.com/item?id=47907472 Points: 1 # Comments: 0",
+    "category": "hardware",
+    "id": 5
+  },
+  {
+    "title": "I asked my local LLM to add 23 numbers and got seven wrong answers",
+    "url": "https://viggy28.dev/article/local-llm-seven-wrong-answers/",
+    "source": "Hacker News",
+    "date": "2026-04-26",
+    "summary": "Article URL: https://viggy28.dev/article/local-llm-seven-wrong-answers/ Comments URL: https://news.ycombinator.com/item?id=47907355 Points: 5 # Comments: 3",
+    "category": "models",
+    "id": 6
+  },
+  {
+    "title": "Show HN: Track official AI company news and blogs in your Chrome side panel",
+    "url": "https://chromewebstore.google.com/detail/bigtech-ai-news/aehmpingbppjnlppejppiifmijdjjiej",
+    "source": "Hacker News",
+    "date": "2026-04-26",
+    "summary": "I've already picked up so much great news and tips from here — thanks to the HNers for sharing. That said, I still find myself manually checking various official newsrooms and engineering blogs. To sa...",
+    "category": "hardware",
+    "id": 7
+  },
+  {
+    "title": "Dataland, the first museum of AI arts, sets opening date and first exhibition",
+    "url": "https://www.latimes.com/entertainment-arts/story/2026-04-23/refik-anadol-ai-art-museum-dataland-opening-date",
+    "source": "Hacker News",
+    "date": "2026-04-26",
+    "summary": "Article URL: https://www.latimes.com/entertainment-arts/story/2026-04-23/refik-anadol-ai-art-museum-dataland-opening-date Comments URL: https://news.ycombinator.com/item?id=47907120 Points: 1 # Commen...",
+    "category": "industry",
+    "image": "https://ca-times.brightspotcdn.com/dims4/default/5eb5fd3/2147483647/strip/true/crop/3839x2015+0+69/resize/1200x630!/quality/75/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2F99%2Fd5%2F120256334019b219f25b53b0c0a5%2Fdataland-infinity-room-00.jpg",
+    "id": 8
+  },
+  {
     "title": "How Meta used AI to map tribal knowledge in large-scale data pipelines",
     "url": "https://engineering.fb.com/2026/04/06/developer-tools/how-meta-used-ai-to-map-tribal-knowledge-in-large-scale-data-pipelines/",
     "source": "Hacker News",
@@ -7,28 +83,27 @@
     "summary": "Article URL: https://engineering.fb.com/2026/04/06/developer-tools/how-meta-used-ai-to-map-tribal-knowledge-in-large-scale-data-pipelines/ Comments URL: https://news.ycombinator.com/item?id=47906903 P...",
     "category": "tools",
     "image": "https://engineering.fb.com/wp-content/uploads/2026/04/Compass-Not-Enclycopedia-Hero.png",
-    "id": 1,
-    "featured": true
+    "id": 9
   },
   {
     "title": "The AI Compute Crunch Is Here (and It's Affecting the Economy)",
     "url": "https://www.404media.co/the-ai-compute-crunch-is-here-and-its-affecting-the-entire-economy/",
     "source": "Hacker News",
     "date": "2026-04-26",
-    "summary": "Article URL: https://www.404media.co/the-ai-compute-crunch-is-here-and-its-affecting-the-entire-economy/ Comments URL: https://news.ycombinator.com/item?id=47906841 Points: 2 # Comments: 0",
+    "summary": "Article URL: https://www.404media.co/the-ai-compute-crunch-is-here-and-its-affecting-the-entire-economy/ Comments URL: https://news.ycombinator.com/item?id=47906841 Points: 3 # Comments: 0",
     "category": "industry",
     "image": "https://storage.ghost.io/c/0f/76/0f76b548-bc58-4f25-abc3-3f5ebca07da4/content/images/size/w1200/2026/04/joshua-sortino-LqKhnDzSF-8-unsplash.jpg",
-    "id": 2
+    "id": 10
   },
   {
     "title": "Claude Cowork Now Runs Any LLM. Test It Free",
     "url": "https://www.productcompass.pm/p/cowork-on-3p-any-llm",
     "source": "Hacker News",
     "date": "2026-04-26",
-    "summary": "Article URL: https://www.productcompass.pm/p/cowork-on-3p-any-llm Comments URL: https://news.ycombinator.com/item?id=47906739 Points: 1 # Comments: 0",
+    "summary": "Article URL: https://www.productcompass.pm/p/cowork-on-3p-any-llm Comments URL: https://news.ycombinator.com/item?id=47906739 Points: 2 # Comments: 0",
     "category": "models",
     "image": "https://substackcdn.com/image/fetch/$s_!YB7Z!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F5af023c9-acd3-48e9-8871-1d9f2e265ccc_1280x720.png",
-    "id": 3
+    "id": 11
   },
   {
     "title": "Multi-Agent AI Systems Are Eating Single Agents",
@@ -38,7 +113,7 @@
     "summary": "Article URL: https://aistackinsights.ai/blog/multi-agent-ai-systems-langgraph-crewai-production-guide Comments URL: https://news.ycombinator.com/item?id=47906692 Points: 2 # Comments: 0",
     "category": "industry",
     "image": "https://images.unsplash.com/photo-1451187580459-43490279c0fa?w=1200&q=80",
-    "id": 4
+    "id": 12
   },
   {
     "title": "Can Frontier AI Labs make money?",
@@ -47,7 +122,7 @@
     "date": "2026-04-26",
     "summary": "Article URL: https://janosmeny.com/blog/can-frontier-ai-labs-make-money/index.html Comments URL: https://news.ycombinator.com/item?id=47906583 Points: 1 # Comments: 0",
     "category": "industry",
-    "id": 5
+    "id": 13
   },
   {
     "title": "Aruana – Detects scams and blocks PII before it reaches AI chatbots (100% local)",
@@ -57,7 +132,7 @@
     "summary": "Article URL: https://aruana.maiaware.com/ Comments URL: https://news.ycombinator.com/item?id=47906422 Points: 1 # Comments: 0",
     "category": "industry",
     "image": "https://aruana.maiaware.com/icons/icon-512.png",
-    "id": 6
+    "id": 14
   },
   {
     "title": "Multiple AI Models in One Platform",
@@ -67,7 +142,7 @@
     "summary": "Article URL: https://www.chatcomparison.ai/ Comments URL: https://news.ycombinator.com/item?id=47906310 Points: 1 # Comments: 0",
     "category": "tools",
     "image": "https://framerusercontent.com/images/UlpsLPhoCoOD6ncZYrtrDNMToI.webp",
-    "id": 7
+    "id": 15
   },
   {
     "title": "Zephyr Agent: Add AI chat to any website",
@@ -76,16 +151,16 @@
     "date": "2026-04-26",
     "summary": "Article URL: https://zephyr-agent.sh/ Comments URL: https://news.ycombinator.com/item?id=47906308 Points: 2 # Comments: 0",
     "category": "industry",
-    "id": 8
+    "id": 16
   },
   {
     "title": "Google unveils way to train AI models across distributed data centers",
     "url": "https://www.sdxcentral.com/news/google-unveils-way-to-train-ai-models-across-distributed-data-centers/",
     "source": "Hacker News",
     "date": "2026-04-26",
-    "summary": "Article URL: https://www.sdxcentral.com/news/google-unveils-way-to-train-ai-models-across-distributed-data-centers/ Comments URL: https://news.ycombinator.com/item?id=47906171 Points: 2 # Comments: 2",
+    "summary": "Article URL: https://www.sdxcentral.com/news/google-unveils-way-to-train-ai-models-across-distributed-data-centers/ Comments URL: https://news.ycombinator.com/item?id=47906171 Points: 3 # Comments: 2",
     "category": "hardware",
-    "id": 9
+    "id": 17
   },
   {
     "title": "AI cannot plan",
@@ -94,7 +169,7 @@
     "date": "2026-04-26",
     "summary": "Article URL: https://orchidfiles.com/ai-will-build-your-roadmap-in-ten-seconds/ Comments URL: https://news.ycombinator.com/item?id=47906140 Points: 1 # Comments: 0",
     "category": "industry",
-    "id": 10
+    "id": 18
   },
   {
     "title": "What Managerial Economics can tell us about AI and Software Development",
@@ -104,7 +179,7 @@
     "summary": "Article URL: https://www.germanvelasco.com/blog/managerial-economics-ai-and-software-development Comments URL: https://news.ycombinator.com/item?id=47905894 Points: 2 # Comments: 0",
     "category": "industry",
     "image": "https://www.germanvelasco.com/images/ai-and-software-dev-from-econ/lower-K-leading-to-higher-Kq-and-Lq.png",
-    "id": 11
+    "id": 19
   },
   {
     "title": "Intel's upcoming Xeon 7 \"Diamond Rapids\" server CPUs reportedly delayed to 2027 — Next-gen Coral Rapids lineup lands 2028 but can be accelerated, according to new leak",
@@ -114,7 +189,7 @@
     "summary": "Diamond Rapids, also known as Xeon 7, was supposed to launch later this year, but a new leak from Jaykihn claims the timeline has now moved to 2027. Clearwater Forest, the E-core-only successor to Sie...",
     "category": "hardware",
     "image": "https://cdn.mos.cms.futurecdn.net/VBnZto6P3Yzh9RfNDACjGT-1280-80.jpg",
-    "id": 12
+    "id": 20
   },
   {
     "title": "Maine governor vetoes bill that bans large new data centers — says legislature should’ve exempted one particular well-supported data center",
@@ -124,7 +199,7 @@
     "summary": "Governor Janet Mills vetoed a bill that would have enacted a moratorium on all data center projects because it would affect one site to be built on a former paper mill in Jay, Franklin County.",
     "category": "hardware",
     "image": "https://cdn.mos.cms.futurecdn.net/nX2R5xtRMdpDRLzcPLp6xe-1280-80.jpg",
-    "id": 13
+    "id": 21
   },
   {
     "title": "Intel has reportedly cancelled discrete gaming GPUs for the upcoming Xe3P Arc \"Celestial\" family — gaming GPU remains uncertain even for the next-gen Xe4 \"Druid\" lineup that lands in 2027",
@@ -134,7 +209,7 @@
     "summary": "New leaks claim that Intel's upcoming Xe3P graphics architecture won't feature any discrete gaming GPUs, and even the next-gen Xe4 lineup isn't confirmed to. Intel is instead prioritizing the datacent...",
     "category": "hardware",
     "image": "https://cdn.mos.cms.futurecdn.net/hi5W35JxnqEdhVwLQLhFSh-1280-80.jpg",
-    "id": 14
+    "id": 22
   },
   {
     "title": "Intel Core Ultra 7 270K Plus vs AMD Ryzen 7 7800X3D — Can Intel finally beat X3D?",
@@ -144,7 +219,7 @@
     "summary": "Intel's new Core Ultra 7 270K Plus is a productivity beast, but can it hang with the Ryzen 7 7800X3D in games? We put the two CPUs head-to-head.",
     "category": "hardware",
     "image": "https://cdn.mos.cms.futurecdn.net/tqwG7C6ZkmTRBrURi8apGc-1280-80.jpg",
-    "id": 15
+    "id": 23
   },
   {
     "title": "Intel VP claims up to 30% of CPU performance is untapped by modern games — software optimization is critical to unlocking full potential of hybrid CPUs",
@@ -154,7 +229,7 @@
     "summary": "Intel is claiming that better software optimization for hybrid architecture CPUs can unlock up to 30% more performance without hardware upgrades. The silicon itself is very capable, but its true poten...",
     "category": "hardware",
     "image": "https://cdn.mos.cms.futurecdn.net/Jnjcgt3QhdSo3kGCD2juTd-1280-80.png",
-    "id": 16
+    "id": 24
   },
   {
     "title": "AMD's memory-boosting EXPO 1.2 is here, adds support for three Chinese memory vendors — performance gains could be muted until Zen 6",
@@ -164,7 +239,7 @@
     "summary": "Third-party AMD developer and hardware leakers share details of the new AMD EXPO 1.2 technology arriving on AMD AM5 motherboards.",
     "category": "hardware",
     "image": "https://cdn.mos.cms.futurecdn.net/DgnCy6qJLcnrV9geLHmGqW-1280-80.jpg",
-    "id": 17
+    "id": 25
   },
   {
     "title": "Anthropic created a test marketplace for agent-on-agent commerce",
@@ -174,7 +249,7 @@
     "summary": "In a recent experiment, Anthropic created a classified marketplace where AI agents represented both buyers and sellers, striking real deals for real goods and real money.",
     "category": "industry",
     "image": "https://techcrunch.com/wp-content/uploads/2023/08/GettyImages-88622588.jpg?resize=1200,870",
-    "id": 18
+    "id": 26
   },
   {
     "title": "OpenAI CEO apologizes to Tumbler Ridge community",
@@ -184,7 +259,7 @@
     "summary": "In a letter to the residents of Tumbler Ridge, Canada, OpenAI CEO Sam Altman said he is “deeply sorry” that his company failed to alert law enforcement about the suspect in a recent mass shooting.",
     "category": "industry",
     "image": "https://techcrunch.com/wp-content/uploads/2025/02/GettyImages-2194585161.jpg?w=1024",
-    "id": 19
+    "id": 27
   },
   {
     "title": "Why Cohere is merging with Aleph Alpha",
@@ -194,7 +269,7 @@
     "summary": "Canadian AI startup Cohere is taking over Germany-based Aleph Alpha with support from Lidl’s owner, Schwarz Group. With the blessing of their governments, the companies intend to offer a sovereign alt...",
     "category": "industry",
     "image": "https://techcrunch.com/wp-content/uploads/2024/08/GettyImages-1757707025.jpg?w=1024",
-    "id": 20
+    "id": 28
   },
   {
     "title": "Show HN: A privacy first companion AI",
@@ -204,83 +279,6 @@
     "summary": "I'm flabbergasted that people share their most sensitive messages with companion AI apps. Read their privacy policies. They can read your messages. They also have your email. That combination is a ser...",
     "category": "tools",
     "image": "https://www.friendai.pro/assets/hero-friendai.png",
-    "id": 21
-  },
-  {
-    "title": "Show HN: LLM-wiki – One command Karpathy's wiki with QMD search for Claude/Codex",
-    "url": "https://github.com/ivankuznetsov/llm-wiki",
-    "source": "Hacker News",
-    "date": "2026-04-25",
-    "summary": "Article URL: https://github.com/ivankuznetsov/llm-wiki Comments URL: https://news.ycombinator.com/item?id=47905223 Points: 2 # Comments: 1",
-    "category": "models",
-    "image": "https://opengraph.githubassets.com/679cd72887b166ff3d99387edf7556e28cc625c0095b61b09fa86967ef4257d6/ivankuznetsov/llm-wiki",
-    "id": 22
-  },
-  {
-    "title": "MCP Spine – Middleware proxy for LLM tool calls with security and token control",
-    "url": "https://github.com/Donnyb369/mcp-spine",
-    "source": "Hacker News",
-    "date": "2026-04-25",
-    "summary": "Article URL: https://github.com/Donnyb369/mcp-spine Comments URL: https://news.ycombinator.com/item?id=47904762 Points: 1 # Comments: 0",
-    "category": "models",
-    "image": "https://opengraph.githubassets.com/302768995e9b68d0d5bb07ba973128b79544a22066496afb205704a2e74fc7be/Donnyb369/mcp-spine",
-    "id": 23
-  },
-  {
-    "title": "Our Survey on Creativity, Writing, and Reading in the Age of AI",
-    "url": "https://ellipsus.com/blog/survey-on-writing-and-ai",
-    "source": "Hacker News",
-    "date": "2026-04-25",
-    "summary": "Article URL: https://ellipsus.com/blog/survey-on-writing-and-ai Comments URL: https://news.ycombinator.com/item?id=47904589 Points: 9 # Comments: 0",
-    "category": "industry",
-    "image": "https://cdn.sanity.io/images/3sx2q15i/production/eae7890a34a878706accd0339f6b80bfd459a2df-3582x1782.jpg?w=1200&q=90&auto=format",
-    "id": 24
-  },
-  {
-    "title": "The AI industry is discovering that the public hates it",
-    "url": "https://newrepublic.com/article/209163/ai-industry-discovering-public-backlash",
-    "source": "Hacker News",
-    "date": "2026-04-25",
-    "summary": "Article URL: https://newrepublic.com/article/209163/ai-industry-discovering-public-backlash Comments URL: https://news.ycombinator.com/item?id=47904568 Points: 213 # Comments: 288",
-    "category": "industry",
-    "id": 25
-  },
-  {
-    "title": "Memory in the Age of AI Agents",
-    "url": "https://arxiv.org/abs/2512.13564",
-    "source": "Hacker News",
-    "date": "2026-04-25",
-    "summary": "Article URL: https://arxiv.org/abs/2512.13564 Comments URL: https://news.ycombinator.com/item?id=47904562 Points: 2 # Comments: 1",
-    "category": "hardware",
-    "id": 26
-  },
-  {
-    "title": "Blog prize for big questions about AI",
-    "url": "https://www.dwarkesh.com/p/blog-prize",
-    "source": "Hacker News",
-    "date": "2026-04-25",
-    "summary": "Article URL: https://www.dwarkesh.com/p/blog-prize Comments URL: https://news.ycombinator.com/item?id=47904352 Points: 3 # Comments: 0",
-    "category": "industry",
-    "image": "https://substackcdn.com/image/fetch/$s_!aIW3!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fa7d14f96-c3aa-4305-bdc2-27c509bdbedc_1400x923.jpeg",
-    "id": 27
-  },
-  {
-    "title": "Show HN: Routiium – self-hosted LLM gateway with a tool-result guard",
-    "url": "https://github.com/labiium/routiium",
-    "source": "Hacker News",
-    "date": "2026-04-25",
-    "summary": "Routiium is a self-hosted, OpenAI-compatible LLM gateway I built. It does the table-stakes things you'd expect — managed keys, routing, rate limits, analytics — but the part I want to flag for HN is w...",
-    "category": "models",
-    "image": "https://opengraph.githubassets.com/d55531c606c42a01ef20f110d53cda0d0fca7e24124b4efbf9eade54773346f4/labiium/routiium",
-    "id": 28
-  },
-  {
-    "title": "Why your AI assistant is suddenly selling to you",
-    "url": "https://www.economist.com/business/2026/04/19/why-your-ai-assistant-is-suddenly-selling-to-you",
-    "source": "Hacker News",
-    "date": "2026-04-25",
-    "summary": "Article URL: https://www.economist.com/business/2026/04/19/why-your-ai-assistant-is-suddenly-selling-to-you Comments URL: https://news.ycombinator.com/item?id=47904262 Points: 3 # Comments: 0",
-    "category": "industry",
     "id": 29
   },
   {
@@ -294,183 +292,203 @@
     "id": 30
   },
   {
-    "title": "Architecture of an AI-Based Automated Course of Action Generation System for Military Operations",
-    "url": "https://arxiv.org/abs/2604.20862",
-    "source": "arXiv cs.AI",
-    "date": "2026-04-25",
-    "summary": "The automation system for Course of Action (CoA) planning is an essential element in future warfare. As maneuver speeds increase, surveillance ranges extend, and weapon ranges grow, the operational ar...",
-    "category": "research",
+    "title": "8 Gemini tips for organizing your space (and life)",
+    "url": "https://blog.google/products-and-platforms/products/gemini/gemini-spring-cleaning-tips/",
+    "source": "Google AI Blog",
+    "date": "2026-04-24",
+    "summary": "Organize your home and digital space with Gemini. Use AI-powered tips for cleaning schedules, inbox decluttering, seasonal chores.",
+    "category": "models",
+    "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Gemini_Spring_Cleaning_hero.max-600x600.format-webp.webp",
     "id": 31
   },
   {
-    "title": "Escaping the Agreement Trap: Defensibility Signals for Evaluating Rule-Governed AI",
-    "url": "https://arxiv.org/abs/2604.20972",
-    "source": "arXiv cs.AI",
-    "date": "2026-04-25",
-    "summary": "Content moderation systems are typically evaluated by measuring agreement with human labels. In rule-governed environments this assumption fails: multiple decisions may be logically consistent with th...",
+    "title": "New 3D device computes using living brain cells — bioelectronic device uses 3D electronic mesh design paired with living tissue",
+    "url": "https://www.tomshardware.com/tech-industry/big-tech/new-3d-device-computes-using-living-brain-cells-bioelectronic-device-uses-3d-electronic-mesh-design-paired-with-living-tissue",
+    "source": "Tom's Hardware",
+    "date": "2026-04-24",
+    "summary": "Princeton researchers have developed a 3D bioelectronic device that combines living brain cells with embedded electronics, allowing neurons outside the body to perform simple computational tasks. The ...",
     "category": "research",
+    "image": "https://cdn.mos.cms.futurecdn.net/cjXwG2TD5wJqVY8wxLHvjW-1280-80.jpg",
     "id": 32
   },
   {
-    "title": "Co-Evolving LLM Decision and Skill Bank Agents for Long-Horizon Tasks",
-    "url": "https://arxiv.org/abs/2604.20987",
-    "source": "arXiv cs.AI",
-    "date": "2026-04-25",
-    "summary": "Long horizon interactive environments are a testbed for evaluating agents skill usage abilities. These environments demand multi step reasoning, the chaining of multiple skills over many timesteps, an...",
-    "category": "models",
+    "title": "NEO Semiconductor's revolutionary 3D X-DRAM for AI processors has passed proof-of-concept validation — company secures funding to develop next-gen memory HBM alternative",
+    "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/neo-semiconductors-revolutionary-3d-x-dram-for-ai-processors-has-passed-proof-of-concept-validation-company-secures-funding-to-develop-next-gen-memory-hbm-alternative",
+    "source": "Tom's Hardware",
+    "date": "2026-04-24",
+    "summary": "NEO Semiconductor says its 3D X-DRAM passed proof-of-concept testing, using 3D NAND processes to target cheaper AI memory than HBM. The company has secured funding for development.",
+    "category": "hardware",
+    "image": "https://cdn.mos.cms.futurecdn.net/JLXymXRmjQVzAsCPysoSY3-1280-80.webp",
     "id": 33
   },
   {
-    "title": "Value-Conflict Diagnostics Reveal Widespread Alignment Faking in Language Models",
-    "url": "https://arxiv.org/abs/2604.20995",
-    "source": "arXiv cs.AI",
-    "date": "2026-04-25",
-    "summary": "Alignment faking, where a model behaves aligned with developer policy when monitored but reverts to its own preferences when unobserved, is a concerning yet poorly understood phenomenon, in part becau...",
+    "title": "How a cavalcade of blunders gave unauthorized users access to Claude Mythos — restricted model accessed by third parties, thanks to knowledge from data breach",
+    "url": "https://www.tomshardware.com/tech-industry/cyber-security/how-a-cavalcade-of-blunders-gave-unauthorized-users-access-to-claude-mythos-restricted-model-accessed-by-third-parties-thanks-to-knowledge-from-data-breach",
+    "source": "Tom's Hardware",
+    "date": "2026-04-24",
+    "summary": "Unauthorized individuals have accessed Anthropic's new Mythos cybersecurity-focused AI model, despite the developer locking it down to just a handful of companies. Considering the AI was purposefully ...",
     "category": "models",
+    "image": "https://cdn.mos.cms.futurecdn.net/oVkvRiLw6nfH6cD4HoJBhF-1280-80.jpg",
     "id": 34
   },
   {
-    "title": "The Last Harness You'll Ever Build",
-    "url": "https://arxiv.org/abs/2604.21003",
-    "source": "arXiv cs.AI",
-    "date": "2026-04-25",
-    "summary": "AI agents are increasingly deployed on complex, domain-specific workflows -- navigating enterprise web applications that require dozens of clicks and form fills, orchestrating multi-step research pipe...",
-    "category": "research",
+    "title": "CPU requirements for AI workloads are multiplying, driving intensifying shortages and price hikes — Intel already shifting production from consumer chips to Xeon as inference workloads drive server CPU ratios back toward parity with GPUs",
+    "url": "https://www.tomshardware.com/pc-components/cpus/shifting-need-for-cpus-in-ai-workloads-drives-intensifying-shortages-price-hikes",
+    "source": "Tom's Hardware",
+    "date": "2026-04-24",
+    "summary": "As workloads continue migrating towards inference and agentic AI, CPU-GPU ratios could converge to 1:1 or even tilt further in favor of CPUs.",
+    "category": "hardware",
+    "image": "https://cdn.mos.cms.futurecdn.net/B22Y35c6WAhjUoKp7cjvsd-1280-80.jpg",
     "id": 35
   },
   {
-    "title": "Deep FinResearch Bench: Evaluating AI's Ability to Conduct Professional Financial Investment Research",
-    "url": "https://arxiv.org/abs/2604.21006",
-    "source": "arXiv cs.AI",
-    "date": "2026-04-25",
-    "summary": "We introduce Deep FinResearch Bench, a practical and comprehensive evaluation framework for deep research (DR) agents in financial investment research. The benchmark assesses three dimensions of repor...",
-    "category": "research",
+    "title": "Widely ridiculed Intel stock buyer who invested $700,000 inheritance has the last laugh (if they held) as it nearly triples in value — investment is now worth around $1.89 million",
+    "url": "https://www.tomshardware.com/tech-industry/widely-ridiculed-intel-stock-buyer-who-invested-usd700-000-inheritance-has-the-last-laugh-if-they-held-as-it-nearly-triples-in-value-investment-is-now-worth-around-usd1-89-million",
+    "source": "Tom's Hardware",
+    "date": "2026-04-24",
+    "summary": "In August 2024, a Redditor was widely, repeatedly, and mercilessly ridiculed for investing the majority of an $800,000 inheritance in Intel stock. It's been a rollercoaster, but that looks like it was...",
+    "category": "industry",
+    "image": "https://cdn.mos.cms.futurecdn.net/tFyzjsZUyihWE8a92DcfkX-1280-80.jpg",
     "id": 36
   },
   {
-    "title": "Adaptive Test-Time Compute Allocation with Evolving In-Context Demonstrations",
-    "url": "https://arxiv.org/abs/2604.21018",
-    "source": "arXiv cs.AI",
-    "date": "2026-04-25",
-    "summary": "While scaling test-time compute can substantially improve model performance, existing approaches either rely on static compute allocation or sample from fixed generation distributions. In this work, w...",
-    "category": "research",
+    "title": "Union rally causes Samsung fab production to plummet by 58% during night shift as workers demand up to $400,000 bonuses — updated figures show over 40,000 people attended rally for better pay and bonuses",
+    "url": "https://www.tomshardware.com/tech-industry/big-tech/union-rally-causes-samsung-fab-production-to-plummet-by-58-percent-during-night-shift-as-workers-demand-up-to-usd400-000-bonuses-updated-figures-show-over-40-000-people-attended-rally-for-better-pay-and-bonuses",
+    "source": "Tom's Hardware",
+    "date": "2026-04-24",
+    "summary": "Samsung's memory fab and contract chip foundry production for a single night-shift fell by up to 58% after a one-day strike. The union is gearing up for an extended 18-day labor action if company mana...",
+    "category": "hardware",
+    "image": "https://cdn.mos.cms.futurecdn.net/DPNfrQbh2gPkNpAuCmtSJ7-1280-80.jpg",
     "id": 37
   },
   {
-    "title": "HypEHR: Hyperbolic Modeling of Electronic Health Records for Efficient Question Answering",
-    "url": "https://arxiv.org/abs/2604.21027",
-    "source": "arXiv cs.AI",
-    "date": "2026-04-25",
-    "summary": "Electronic health record (EHR) question answering is often handled by LLM-based pipelines that are costly to deploy and do not explicitly leverage the hierarchical structure of clinical data. Motivate...",
-    "category": "models",
+    "title": "Grab 32GB of Corsair DDR5 RAM for just $28 in this Newegg combo with the new 9950X3D2 that saves you a huge $441 — $1,729.99 deal with AMD's first dual-X3D CPU also ships with a 2TB WD Black SSD and an Asus TUF Gaming motherboard",
+    "url": "https://www.tomshardware.com/pc-components/grab-32gb-of-corsair-ddr5-ram-for-just-usd28-in-this-newegg-combo-with-the-new-9950x3d2-that-saves-you-a-huge-usd441-usd1-729-99-deal-with-amds-first-dual-x3d-cpu-also-ships-with-a-2tb-wd-black-ssd-and-an-asus-tuf-gaming-motherboard",
+    "source": "Tom's Hardware",
+    "date": "2026-04-24",
+    "summary": "Save 20% on this Newegg combo kit with AMD's first dual-X3D chip in the AMD Ryzen 9 9950X3D2, along with an Asus TUF Gaming X870E-Plus WiFi7 motherboard, 32GB (2x16GB) of Corsair Vengeance DDR5-6400 R...",
+    "category": "hardware",
+    "image": "https://cdn.mos.cms.futurecdn.net/LpnrrUnEQyUm39yXHdT79R-1280-80.png",
     "id": 38
   },
   {
-    "title": "Who Defines Fairness? Target-Based Prompting for Demographic Representation in Generative Models",
-    "url": "https://arxiv.org/abs/2604.21036",
-    "source": "arXiv cs.AI",
-    "date": "2026-04-25",
-    "summary": "Text-to-image(T2I) models like Stable Diffusion and DALL-E have made generative AI widely accessible, yet recent studies reveal that these systems often replicate societal biases, particularly in how ...",
-    "category": "models",
+    "title": "Intel stock jumps 28%, setting a record, after it posts strong Q1 with rising forecasts — Intel says yields are improving faster than expected with new nodes",
+    "url": "https://www.tomshardware.com/pc-components/cpus/intel-stock-jumps-28-percent-setting-a-record-after-it-posts-strong-q1-with-rising-forecasts-intel-says-yields-are-improving-faster-than-expected-with-new-nodes",
+    "source": "Tom's Hardware",
+    "date": "2026-04-24",
+    "summary": "Demand for Intel's products exceed expectations and supply, but Intel is still bleeding money.",
+    "category": "hardware",
+    "image": "https://cdn.mos.cms.futurecdn.net/KiJGR8WJv72p6G8Qcysneb-1280-80.jpg",
     "id": 39
   },
   {
-    "title": "Active Data",
-    "url": "https://arxiv.org/abs/2604.21044",
-    "source": "arXiv cs.AI",
-    "date": "2026-04-25",
-    "summary": "In some complex domains, certain problem-specific decompositions can provide advantages over monolithic designs by enabling comprehension and specification of the design. In this paper we present an i...",
-    "category": "research",
+    "title": "SoftBank subsidiary working with Intel to develop radical new ZAM memory is now receiving Japanese gov't subsidies — new memory designed as a lower-power HBM for AI workloads",
+    "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/softbank-subsidiary-working-with-intel-to-develop-radical-new-zam-memory-is-now-receiving-japanese-govt-subsidies-new-memory-designed-as-a-lower-power-hbm-for-ai-workloads",
+    "source": "Tom's Hardware",
+    "date": "2026-04-24",
+    "summary": "Japan’s SaiMemory, a SoftBank subsidiary collaborating with Intel, has secured NEDO funding to develop Z-Angle Memory (ZAM), a next-gen DRAM architecture addressing HBM limitations",
+    "category": "hardware",
+    "image": "https://cdn.mos.cms.futurecdn.net/u3myfqyQwuDFWsoxGdjM8U-1280-80.jpg",
     "id": 40
   },
   {
-    "title": "InVitroVision: a Multi-Modal AI Model for Automated Description of Embryo Development using Natural Language",
-    "url": "https://arxiv.org/abs/2604.21061",
-    "source": "arXiv cs.AI",
-    "date": "2026-04-25",
-    "summary": "The application of artificial intelligence (AI) in IVF has shown promise in improving consistency and standardization of decisions, but often relies on annotated data and does not make use of the mult...",
-    "category": "models",
+    "title": "ComfyUI hits $500M valuation as creators seek more control over AI-generated media",
+    "url": "https://techcrunch.com/2026/04/24/comfyui-hits-500m-valuation-as-creators-seek-more-control-over-ai-generated-media/",
+    "source": "TechCrunch",
+    "date": "2026-04-24",
+    "summary": "ComfyUI, whose tools give creators more control over AI image, video, and audio generation, just raised $30 million.",
+    "category": "industry",
+    "image": "https://techcrunch.com/wp-content/uploads/2026/04/ComfyUI-Co-founders-1.png?resize=1200,790",
     "id": 41
   },
   {
-    "title": "Mind the Prompt: Self-adaptive Generation of Task Plan Explanations via LLMs",
-    "url": "https://arxiv.org/abs/2604.21092",
-    "source": "arXiv cs.AI",
-    "date": "2026-04-25",
-    "summary": "Integrating Large Language Models (LLMs) into complex software systems enables the generation of human-understandable explanations of opaque AI processes, such as automated task planning. However, the...",
-    "category": "models",
+    "title": "Google to invest up to $40B in Anthropic in cash and compute",
+    "url": "https://techcrunch.com/2026/04/24/google-to-invest-up-to-40b-in-anthropic-in-cash-and-compute/",
+    "source": "TechCrunch",
+    "date": "2026-04-24",
+    "summary": "Google plans up to $40B investment in Anthropic as AI rivals race to secure massive compute capacity, following the limited release of its powerful, cybersecurity-focused Mythos model.",
+    "category": "industry",
+    "image": "https://techcrunch.com/wp-content/uploads/2026/01/GettyImages-2252871842.jpg?w=1024",
     "id": 42
   },
   {
-    "title": "Propensity Inference: Environmental Contributors to LLM Behaviour",
-    "url": "https://arxiv.org/abs/2604.21098",
-    "source": "arXiv cs.AI",
-    "date": "2026-04-25",
-    "summary": "Motivated by loss of control risks from misaligned AI systems, we develop and apply methods for measuring language models' propensity for unsanctioned behaviour. We contribute three methodological imp...",
-    "category": "research",
+    "title": "Apple’s new CEO, and why Elon Musk wants to buy Cursor for $60B",
+    "url": "https://techcrunch.com/podcast/apples-new-ceo-and-why-elon-musk-wants-to-buy-cursor-for-60b/",
+    "source": "TechCrunch",
+    "date": "2026-04-24",
+    "summary": "A new era is on the way for Apple as Tim Cook plans to step down from his CEO role in September, handing the reins to hardware chief John Ternus. Ternus may be inheriting one of the most durable busin...",
+    "category": "tools",
+    "image": "https://techcrunch.com/wp-content/uploads/2018/02/tc-backlight-e1689786273147.png?w=1200",
     "id": 43
   },
   {
-    "title": "AI Governance under Political Turnover: The Alignment Surface of Compliance Design",
-    "url": "https://arxiv.org/abs/2604.21103",
-    "source": "arXiv cs.AI",
-    "date": "2026-04-25",
-    "summary": "Governments are increasingly interested in using AI to make administrative decisions cheaper, more scalable, and more consistent. But for probabilistic AI to be incorporated into public administration...",
-    "category": "industry",
+    "title": "Marked-up Mac minis flood eBay amid shortages driven by AI",
+    "url": "https://techcrunch.com/2026/04/24/mac-mini-price-expensive-ebay-shortage-ai-memory/",
+    "source": "TechCrunch",
+    "date": "2026-04-24",
+    "summary": "Apple’s sold-out Mac mini is spawning marked-up eBay listings as demand surges for the compact desktop, now favored for running local AI models and tools.",
+    "category": "tools",
+    "image": "https://techcrunch.com/wp-content/uploads/2024/11/CMC_8135.jpg?resize=1200,800",
     "id": 44
   },
   {
-    "title": "Agentic AI for Personalized Physiotherapy: A Multi-Agent Framework for Generative Video Training and Real-Time Pose Correction",
-    "url": "https://arxiv.org/abs/2604.21154",
-    "source": "arXiv cs.AI",
-    "date": "2026-04-25",
-    "summary": "At-home physiotherapy compliance remains critically low due to a lack of personalized supervision and dynamic feedback. Existing digital health solutions rely on static, pre-recorded video libraries o...",
-    "category": "research",
+    "title": "Uber CTO Praveen Neppalli Naga joins stacked StrictlyVC SF lineup for April 30 event",
+    "url": "https://techcrunch.com/2026/04/24/uber-cto-praveen-neppalli-naga-joins-stacked-strictlyvc-sf-lineup-for-april-30-event/",
+    "source": "TechCrunch",
+    "date": "2026-04-24",
+    "summary": "Surprise! StrictlyVC San Francisco, which will kick off this year’s events lineup for TechCrunch on April 30 at the Sentro Filipino Cultural Center, is getting a new addition to its increasingly stack...",
+    "category": "industry",
+    "image": "https://techcrunch.com/wp-content/uploads/2025/04/StrictlyVC-NYC-2024.jpg?resize=1200,800",
     "id": 45
   },
   {
-    "title": "Multi-Agent Empowerment and Emergence of Complex Behavior in Groups",
-    "url": "https://arxiv.org/abs/2604.21155",
-    "source": "arXiv cs.AI",
-    "date": "2026-04-25",
-    "summary": "Intrinsic motivations are receiving increasing attention, i.e. behavioral incentives that are not engineered, but emerge from the interaction of an agent with its surroundings. In this work we study t...",
-    "category": "research",
+    "title": "Tim Cook is stepping down. What happens to Apple now?",
+    "url": "https://techcrunch.com/video/tim-cook-is-stepping-down-what-happens-to-apple-now/",
+    "source": "TechCrunch",
+    "date": "2026-04-24",
+    "summary": "Tim Cook plans to step down from his CEO role in September, handing the reins to hardware chief John Ternus. Ternus may be inheriting one of the most durable businesses in tech, but he’s also stepping...",
+    "category": "tools",
+    "image": "https://techcrunch.com/wp-content/uploads/2026/01/tim-cook-glowing-apple-logo-GettyImages-2234517515.jpg?w=1024",
     "id": 46
   },
   {
-    "title": "Trust but Verify: Introducing DAVinCI -- A Framework for Dual Attribution and Verification in Claim Inference for Language Models",
-    "url": "https://arxiv.org/abs/2604.21193",
-    "source": "arXiv cs.AI",
-    "date": "2026-04-25",
-    "summary": "Large Language Models (LLMs) have demonstrated remarkable fluency and versatility across a wide range of NLP tasks, yet they remain prone to factual inaccuracies and hallucinations. This limitation po...",
-    "category": "research",
+    "title": "Nothing introduces an AI-powered dictation tool",
+    "url": "https://techcrunch.com/2026/04/24/nothing-introduces-an-ai-powered-dictation-tool/",
+    "source": "TechCrunch",
+    "date": "2026-04-24",
+    "summary": "Nothing's new on-device dictation tool supports over 100 languages.",
+    "category": "tools",
+    "image": "https://techcrunch.com/wp-content/uploads/2025/07/IMG_2376-rotated.jpeg?resize=900,1200",
     "id": 47
   },
   {
-    "title": "Align Generative Artificial Intelligence with Human Preferences: A Novel Large Language Model Fine-Tuning Method for Online Review Management",
-    "url": "https://arxiv.org/abs/2604.21209",
-    "source": "arXiv cs.AI",
-    "date": "2026-04-25",
-    "summary": "Online reviews have played a pivotal role in consumers' decision-making processes. Existing research has highlighted the significant impact of managerial review responses on customer relationship mana...",
+    "title": "DeepSeek previews new AI model that ‘closes the gap’ with frontier models",
+    "url": "https://techcrunch.com/2026/04/24/deepseek-previews-new-ai-model-that-closes-the-gap-with-frontier-models/",
+    "source": "TechCrunch",
+    "date": "2026-04-24",
+    "summary": "DeepSeek says both models are more efficient and performant than DeepSeek V3.2 due to architectural improvements, and have almost \"closed the gap\" with current leading models, both open and closed, on...",
     "category": "models",
+    "image": "https://techcrunch.com/wp-content/uploads/2026/04/GettyImages-2272184430.jpg?w=1024",
     "id": 48
   },
   {
-    "title": "ReCAPA: Hierarchical Predictive Correction to Mitigate Cascading Failures",
-    "url": "https://arxiv.org/abs/2604.21232",
-    "source": "arXiv cs.AI",
-    "date": "2026-04-25",
-    "summary": "Vision-Language-Action systems follow instructions to execute multi-step tasks in multimodal environments. Recent VLA approaches typically rely on post-hoc correction mechanisms or operate under fixed...",
-    "category": "models",
+    "title": "In another wild turn for AI chips, Meta signs deal for millions of Amazon AI CPUs",
+    "url": "https://techcrunch.com/2026/04/24/in-another-wild-turn-for-ai-chips-meta-signs-deal-for-millions-of-amazon-ai-cpus/",
+    "source": "TechCrunch",
+    "date": "2026-04-24",
+    "summary": "Meta has commandeered a big chunk of Amazon's homegrown CPUs (not GPUs) for AI agentic workloads, signaling that a new kind of chip race has begun.",
+    "category": "hardware",
+    "image": "https://techcrunch.com/wp-content/uploads/2022/09/GettyImages-1415078085.jpg?resize=1200,721",
     "id": 49
   },
   {
-    "title": "Robustness Analysis of POMDP Policies to Observation Perturbations",
-    "url": "https://arxiv.org/abs/2604.21256",
-    "source": "arXiv cs.AI",
-    "date": "2026-04-25",
-    "summary": "Policies for Partially Observable Markov Decision Processes (POMDPs) are often designed using a nominal system model. In practice, this model can deviate from the true system during deployment due to ...",
-    "category": "research",
+    "title": "Three reasons why DeepSeek’s new model matters",
+    "url": "https://www.technologyreview.com/2026/04/24/1136422/why-deepseeks-v4-matters/",
+    "source": "MIT Tech Review",
+    "date": "2026-04-24",
+    "summary": "On Friday, Chinese AI firm DeepSeek released a preview of V4, its long-awaited new flagship model. Notably, the model can process much longer prompts than its last generation, thanks to a new design t...",
+    "category": "models",
+    "image": "https://wp.technologyreview.com/wp-content/uploads/2026/04/260424_deepseek.jpg?resize=1200,600",
     "id": 50
   }
 ]
