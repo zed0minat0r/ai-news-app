@@ -11,13 +11,61 @@
     "featured": true
   },
   {
+    "title": "An open-source spec for orchestration: Symphony",
+    "url": "https://openai.com/index/open-source-codex-orchestration-symphony",
+    "source": "OpenAI Blog",
+    "date": "2026-04-27",
+    "summary": "Learn how Symphony, an open-source spec for Codex orchestration, turns issue trackers into always-on agent systems—boosting engineering output and reducing context switching.",
+    "category": "hardware",
+    "id": 2
+  },
+  {
+    "title": "Choco automates food distribution with AI agents",
+    "url": "https://openai.com/index/choco",
+    "source": "OpenAI Blog",
+    "date": "2026-04-27",
+    "summary": "How Choco used OpenAI APIs to streamline food distribution, boost productivity, and unlock growth—an in-depth customer story on real-world AI impact.",
+    "category": "tools",
+    "id": 3
+  },
+  {
     "title": "The next phase of the Microsoft OpenAI partnership",
     "url": "https://openai.com/index/next-phase-of-microsoft-partnership",
     "source": "OpenAI Blog",
     "date": "2026-04-27",
     "summary": "OpenAI and Microsoft announce an amended agreement that simplifies the partnership, adds long-term clarity, and supports continued AI innovation at scale.",
     "category": "industry",
-    "id": 2
+    "id": 4
+  },
+  {
+    "title": "AMD Ryzen 9950X3D tops Amazon best sellers as it falls to all-time low price of $573.99 — 32-core X3D chip is now 18% off its launch price",
+    "url": "https://www.tomshardware.com/pc-components/cpus/amd-ryzen-9950x3d-tops-amazon-best-sellers-as-it-falls-to-all-time-low-price-of-usd573-99-32-core-x3d-chip-is-now-18-percent-off-its-launch-price",
+    "source": "Tom's Hardware",
+    "date": "2026-04-27",
+    "summary": "AMD's Ryzen 9 9950X3D has climbed to the top of Amazon's best sellers charts, likely due to a deep discount and the release of the Ryzen 9 9950X3D2.",
+    "category": "hardware",
+    "image": "https://cdn.mos.cms.futurecdn.net/KmmR4TCGtAThLsiqnc7FYA-1280-80.jpg",
+    "id": 5
+  },
+  {
+    "title": "Russian-Chinese Irtysh 32-core CPU runs The Witcher 3 at 30+ FPS — heavyweight chip still imposes CPU bottleneck despite impressive specs",
+    "url": "https://www.tomshardware.com/pc-components/cpus/russian-chinese-irtysh-32-core-cpu-runs-the-witcher-3-at-30-fps-heavyweight-chip-still-imposes-cpu-bottleneck-despite-impressive-specs",
+    "source": "Tom's Hardware",
+    "date": "2026-04-27",
+    "summary": "Russian YouTube channel PRO Hi-Tech shows what the 32-core Irtysh C632 processor can achieve in The Witcher 3: Wild Hunt when paired with an AMD Radeon RX 9600 XT graphics card.",
+    "category": "hardware",
+    "image": "https://cdn.mos.cms.futurecdn.net/FkhYmSPMRyaP2yefpU5sch-1280-80.jpg",
+    "id": 6
+  },
+  {
+    "title": "Inside Google's TPU V8 strategy, delivering two chips for two crucial tasks at incredible scale — network scales up to 1 million TPUs per cluster, an advantage over Nvidia AI accelerators",
+    "url": "https://www.tomshardware.com/tech-industry/semiconductors/google-splits-its-tpu-into-two-chips-for-the-first-time-with-training-and-inference-variants",
+    "source": "Tom's Hardware",
+    "date": "2026-04-27",
+    "summary": "Google announced its eighth-gen TPUs at Cloud Next, shipping two distinct chip designs for the first time in the TPU program's decade-long history.",
+    "category": "hardware",
+    "image": "https://cdn.mos.cms.futurecdn.net/SJwcUNbmofFcDsiP5VBd6Y-1280-80.png",
+    "id": 7
   },
   {
     "title": "Microsoft and OpenAI end exclusivity agreement, opening up potential partnerships with Amazon and Google — Microsoft will continue to receive revenue share through 2030",
@@ -27,7 +75,7 @@
     "summary": "Microsoft and OpenAI are ending their long-standing exclusivity agreement, allowing OpenAI to leverage cloud providers like Amazon and Google.",
     "category": "industry",
     "image": "https://cdn.mos.cms.futurecdn.net/hn5RWTK7n5cduCvNuBGMd6-1280-80.jpg",
-    "id": 3
+    "id": 8
   },
   {
     "title": "Claude-powered AI coding agent deletes entire company database in 9 seconds — backups zapped, after Cursor tool powered by Anthropic's Claude goes rogue",
@@ -37,7 +85,7 @@
     "summary": "After the company database was wiped in just 9 seconds, the founder of PocketOS penned a social media post to warn others about the 'systemic failures' of flagship AI and digital services providers.",
     "category": "tools",
     "image": "https://cdn.mos.cms.futurecdn.net/KftF4KS8QDVA2Fck9iibDN-1280-80.jpg",
-    "id": 4
+    "id": 9
   },
   {
     "title": "New AI data center in Utah will generate and consume more than twice the amount of power the entire state uses — Kevin O'Leary's 9 Gigawatt Utah data center campus approved",
@@ -47,7 +95,7 @@
     "summary": "Utah's Military Installation Development Authority on Friday approved a development agreement for a hyperscale data center campus in Box Elder County.",
     "category": "hardware",
     "image": "https://cdn.mos.cms.futurecdn.net/RSehTW2oDYtFQurj9iJ5cS-1280-80.jpg",
-    "id": 5
+    "id": 10
   },
   {
     "title": "TSMC's details next-gen CoWoS roadmap: over 14-reticle packages and 48x leap in compute power expected by 2029 — massive size enables 24 HBM5E stacks and additional memory bandwidth jump",
@@ -57,7 +105,7 @@
     "summary": "TSMC claims that CoWoS innovations will enable 48x more compute and 34x more memory bandwidth for 2029 AI processors.",
     "category": "hardware",
     "image": "https://cdn.mos.cms.futurecdn.net/5v5TynY3T6qoQvHBybftxE-1280-80.jpg",
-    "id": 6
+    "id": 11
   },
   {
     "title": "Save a colossal $1,184 on a 9950X3D2, 64GB DDR5, and a 4TB Samsung SSD for a powerhouse gaming PC build — epic Newegg deal comes with AMD's first dual X3D chip and a flagship Asus ROG board for $2,899",
@@ -67,7 +115,7 @@
     "summary": "Save nearly $1,200 on a $4,000+ gaming PC build with this Newegg combo deal, featuring the 9950X3D2, flagship Asus ROG Crosshair X870E motherboard, 64GB of G.Skill Ripjaws DDR5 RAM, and a 4TB Samsung ...",
     "category": "hardware",
     "image": "https://cdn.mos.cms.futurecdn.net/W9oA44ytWzg24eabyXLN9Q-1280-80.jpg",
-    "id": 7
+    "id": 12
   },
   {
     "title": "3D printing community organizes against California law that would restrict sales to state-approved models to prevent printing gun parts",
@@ -77,7 +125,7 @@
     "summary": "Experts warn that \"safety algorithms\" are a death sentence for makerspaces, schools, and innovation.",
     "category": "research",
     "image": "https://cdn.mos.cms.futurecdn.net/ACXYa9zA7qEo2JeFLtP2vB-1280-80.png",
-    "id": 8
+    "id": 13
   },
   {
     "title": "Developer creates a basic first person shooter game using Gaussian splats, and you can play it for free in your browser",
@@ -87,7 +135,7 @@
     "summary": "It's not much of a game, but it's an impressive proof of concept for the novel technology.",
     "category": "hardware",
     "image": "https://cdn.mos.cms.futurecdn.net/GHdzAuGKuZWM4xJkHxAf9U-1280-80.jpg",
-    "id": 9
+    "id": 14
   },
   {
     "title": "Linux kernel's ‘second-in-command’ uses local AI bot to hunt bugs, powered by 'clanker' system with AMD's Ryzen AI Max+ — Framework Desktop has resulted in close to two dozen patches",
@@ -97,7 +145,17 @@
     "summary": "Greg Kroah-Hartman posted a photo to Mastodon this weekend showing the hardware behind his AI-assisted bug-finding tool.",
     "category": "tools",
     "image": "https://cdn.mos.cms.futurecdn.net/ka2rbt5EJqAkBuSR8drrH9-1280-80.png",
-    "id": 10
+    "id": 15
+  },
+  {
+    "title": "DeepMind’s David Silver just raised $1.1B to build an AI that learns without human data",
+    "url": "https://techcrunch.com/2026/04/27/deepminds-david-silver-just-raised-1-1b-to-build-an-ai-that-learns-without-human-data/",
+    "source": "TechCrunch",
+    "date": "2026-04-27",
+    "summary": "Ineffable Intelligence, a British AI lab founded a mere few months ago by former DeepMind researcher David Silver, has raised $1.1 billion in funding at a valuation of $5.1 billion.",
+    "category": "industry",
+    "image": "https://techcrunch.com/wp-content/uploads/2026/04/GettyImages-2233739454.jpg?resize=1200,686",
+    "id": 16
   },
   {
     "title": "Investors back Skye’s AI home screen app for iPhone ahead of launch",
@@ -107,7 +165,7 @@
     "summary": "Skye's new AI app attracted investors before it even launched — a sign of interest in a more AI-aware iPhone.",
     "category": "tools",
     "image": "https://techcrunch.com/wp-content/uploads/2026/04/Screenshot-2026-04-27-at-11.09.42-AM.jpg?resize=1200,678",
-    "id": 11
+    "id": 17
   },
   {
     "title": "China blocks Meta’s $2B Manus deal after months-long probe",
@@ -117,7 +175,7 @@
     "summary": "China has ordered Meta to unwind its multibillion-dollar Manus acquisition, dealing a potential setback to Zuckerberg’s push into AI agents.",
     "category": "industry",
     "image": "https://techcrunch.com/wp-content/uploads/2025/04/GettyImages-2209215388.jpg?w=1024",
-    "id": 12
+    "id": 18
   },
   {
     "title": "OpenAI could be making a phone with AI agents replacing apps",
@@ -127,197 +185,7 @@
     "summary": "The phone could go into mass production in 2028, an analyst says.",
     "category": "industry",
     "image": "https://techcrunch.com/wp-content/uploads/2025/04/GettyImages-2206295463.jpg?resize=1200,800",
-    "id": 13
-  },
-  {
-    "title": "Customizing Karpathy's LLM Wiki for fighting disease",
-    "url": "https://kamens.com/blog/llm-wiki-for-fighting-disease",
-    "source": "Hacker News",
-    "date": "2026-04-27",
-    "summary": "Article URL: https://kamens.com/blog/llm-wiki-for-fighting-disease Comments URL: https://news.ycombinator.com/item?id=47923906 Points: 1 # Comments: 0",
-    "category": "models",
-    "id": 14
-  },
-  {
-    "title": "AI Tools Privacy Tracker",
-    "url": "https://www.getvoibe.com/resources/ai-privacy-tracker/",
-    "source": "Hacker News",
-    "date": "2026-04-27",
-    "summary": "Article URL: https://www.getvoibe.com/resources/ai-privacy-tracker/ Comments URL: https://news.ycombinator.com/item?id=47923872 Points: 1 # Comments: 0",
-    "category": "hardware",
-    "image": "https://www.getvoibe.com/resources/og-default.png",
-    "id": 15
-  },
-  {
-    "title": "Writing with AI is an abstraction problem",
-    "url": "https://twitter.com/jakemintz/status/2048802545771184269",
-    "source": "Hacker News",
-    "date": "2026-04-27",
-    "summary": "Article URL: https://twitter.com/jakemintz/status/2048802545771184269 Comments URL: https://news.ycombinator.com/item?id=47923811 Points: 1 # Comments: 0",
-    "category": "industry",
-    "id": 16
-  },
-  {
-    "title": "Measuring AI Ability to Complete Long Software Tasks",
-    "url": "http://muratbuffalo.blogspot.com/2026/03/measuring-ai-ability-to-complete-long.html",
-    "source": "Hacker News",
-    "date": "2026-04-27",
-    "summary": "Article URL: http://muratbuffalo.blogspot.com/2026/03/measuring-ai-ability-to-complete-long.html Comments URL: https://news.ycombinator.com/item?id=47923783 Points: 1 # Comments: 0",
-    "category": "industry",
-    "image": "https://blogger.googleusercontent.com/img/a/AVvXsEgs2QNgOz5Nh6MUMxGya-otspmAymfewrtaqCo09JJ44HDDQU-JmUriiDKKCzEGaz2f9Gykmocbu12Ojz072eUCwDdmOn4sWDyui-qRzsK_myelREGk1YYsnzOFbVL3gBuaXE7fuooI2yprOS4icDmqZIvhYmK5p11GTBcLTWaJ97X7Bu4kmovfYZe6p20=w1200-h630-p-k-no-nu",
-    "id": 17
-  },
-  {
-    "title": "DOJ Backs Musk's xAI in First Amendment Fight over Colorado AI Law",
-    "url": "https://reclaimthenet.org/doj-backs-musks-xai-in-first-amendment-fight-over-colorado-ai-law",
-    "source": "Hacker News",
-    "date": "2026-04-27",
-    "summary": "Article URL: https://reclaimthenet.org/doj-backs-musks-xai-in-first-amendment-fight-over-colorado-ai-law Comments URL: https://news.ycombinator.com/item?id=47923712 Points: 3 # Comments: 0",
-    "category": "industry",
-    "image": "https://reclaimthenet.org/wp-content/uploads/2026/04/nVVg7TYy0qPh-scaled.jpg",
-    "id": 18
-  },
-  {
-    "title": "Durable, durable, durable: the AI infrastructure category is forming",
-    "url": "https://blog.mattheworiordan.com/p/ive-mapped-the-durable-ai-ecosystem",
-    "source": "Hacker News",
-    "date": "2026-04-27",
-    "summary": "Article URL: https://blog.mattheworiordan.com/p/ive-mapped-the-durable-ai-ecosystem Comments URL: https://news.ycombinator.com/item?id=47923564 Points: 9 # Comments: 0",
-    "category": "industry",
-    "image": "https://substackcdn.com/image/fetch/$s_!U0dl!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F78a5e274-4534-4011-b911-c9a4775f0bfd_1360x768.png",
     "id": 19
-  },
-  {
-    "title": "Agentic AI made DevOps and Agile obsolete",
-    "url": "https://avkcode.github.io/blog/self-healing-platform-agent-store.html",
-    "source": "Hacker News",
-    "date": "2026-04-27",
-    "summary": "Article URL: https://avkcode.github.io/blog/self-healing-platform-agent-store.html Comments URL: https://news.ycombinator.com/item?id=47923461 Points: 2 # Comments: 1",
-    "category": "tools",
-    "id": 20
-  },
-  {
-    "title": "Google's A2A Protocol: How AI Agents Will Talk to Each Other",
-    "url": "https://www.ismatsamadov.com/blog/a2a-protocol-agent-to-agent-google",
-    "source": "Hacker News",
-    "date": "2026-04-27",
-    "summary": "Article URL: https://www.ismatsamadov.com/blog/a2a-protocol-agent-to-agent-google Comments URL: https://news.ycombinator.com/item?id=47923422 Points: 2 # Comments: 0",
-    "category": "industry",
-    "image": "https://ismatsamadov.com/blog/a2a-protocol-agent-to-agent-google/opengraph-image-16v7k9?90b761accf2d0b36",
-    "id": 21
-  },
-  {
-    "title": "Microsoft to invest $18B in Australia to expand AI, cloud infrastructure",
-    "url": "https://seekingalpha.com/news/4578419-microsoft-to-invest-18b-in-australia-to-expand-ai-cloud-and-digital-infrastructure",
-    "source": "Hacker News",
-    "date": "2026-04-27",
-    "summary": "Article URL: https://seekingalpha.com/news/4578419-microsoft-to-invest-18b-in-australia-to-expand-ai-cloud-and-digital-infrastructure Comments URL: https://news.ycombinator.com/item?id=47923287 Points...",
-    "category": "industry",
-    "id": 22
-  },
-  {
-    "title": "The disappearing AI middle class",
-    "url": "https://thenewstack.io/disappearing-ai-middle-class/",
-    "source": "Hacker News",
-    "date": "2026-04-27",
-    "summary": "Article URL: https://thenewstack.io/disappearing-ai-middle-class/ Comments URL: https://news.ycombinator.com/item?id=47923285 Points: 2 # Comments: 0",
-    "category": "industry",
-    "id": 23
-  },
-  {
-    "title": "GPT 5.5: The System Card",
-    "url": "https://thezvi.substack.com/p/gpt-55-the-system-card",
-    "source": "Hacker News",
-    "date": "2026-04-27",
-    "summary": "Article URL: https://thezvi.substack.com/p/gpt-55-the-system-card Comments URL: https://news.ycombinator.com/item?id=47923205 Points: 4 # Comments: 0",
-    "category": "models",
-    "id": 24
-  },
-  {
-    "title": "AI Usage Analytics – Real-time budget enforcement and PII redaction for LLM",
-    "url": "https://news.ycombinator.com/item?id=47923106",
-    "source": "Hacker News",
-    "date": "2026-04-27",
-    "summary": "I’ve been working on a project to solve two big problems in the LLM space: unpredictable costs and data privacy. Unlike passive monitoring tools, this acts as a proxy/interceptor. When an event is ing...",
-    "category": "models",
-    "id": 25
-  },
-  {
-    "title": "What Leopold's $5.5B portfolio reveals about powering the AI boom",
-    "url": "https://theloadgrowth.substack.com/p/what-leopolds-55b-portfolio-reveals",
-    "source": "Hacker News",
-    "date": "2026-04-27",
-    "summary": "Article URL: https://theloadgrowth.substack.com/p/what-leopolds-55b-portfolio-reveals Comments URL: https://news.ycombinator.com/item?id=47922961 Points: 3 # Comments: 1",
-    "category": "industry",
-    "id": 26
-  },
-  {
-    "title": "GPT 5.5 vs. Opus 4.7: Benchmarks Say One Thing, Reality Says Another",
-    "url": "https://internetdecode.com/gpt-5-5-vs-opus-4-7-performance-comparison/",
-    "source": "Hacker News",
-    "date": "2026-04-27",
-    "summary": "Article URL: https://internetdecode.com/gpt-5-5-vs-opus-4-7-performance-comparison/ Comments URL: https://news.ycombinator.com/item?id=47922945 Points: 1 # Comments: 0",
-    "category": "models",
-    "image": "https://internetdecode.com/wp-content/uploads/2026/04/gpt_vs_opus-1024x683.webp",
-    "id": 27
-  },
-  {
-    "title": "Is it easy to build advanced AI features on SSE?",
-    "url": "https://zknill.io/posts/everyone-said-sse-token-streaming-was-easy/",
-    "source": "Hacker News",
-    "date": "2026-04-27",
-    "summary": "Article URL: https://zknill.io/posts/everyone-said-sse-token-streaming-was-easy/ Comments URL: https://news.ycombinator.com/item?id=47922823 Points: 1 # Comments: 0",
-    "category": "tools",
-    "image": "https://zknill.io/img/header.png",
-    "id": 28
-  },
-  {
-    "title": "A Man Behind AlphaGo Thinks AI Is Taking the Wrong Path",
-    "url": "https://www.wired.com/story/david-silver-ai-ineffable-intelligence-reinforcement-learning/",
-    "source": "Hacker News",
-    "date": "2026-04-27",
-    "summary": "Article URL: https://www.wired.com/story/david-silver-ai-ineffable-intelligence-reinforcement-learning/ Comments URL: https://news.ycombinator.com/item?id=47922664 Points: 2 # Comments: 0",
-    "category": "hardware",
-    "image": "https://media.wired.com/photos/69eba31172fa130deff56162/191:100/w_1280,c_limit/Man-Behind-Alpha-Zero-Business-DavidSilver-2.jpg",
-    "id": 29
-  },
-  {
-    "title": "Ten People Are Quietly Deciding How AI Agents Will Prove Who They Are",
-    "url": "https://clawdrey.com/blog/ten-people-quietly-deciding-agentic-identity.html",
-    "source": "Hacker News",
-    "date": "2026-04-27",
-    "summary": "Article URL: https://clawdrey.com/blog/ten-people-quietly-deciding-agentic-identity.html Comments URL: https://news.ycombinator.com/item?id=47922585 Points: 1 # Comments: 0",
-    "category": "industry",
-    "image": "https://clawdrey.com/blog/images/top10-agentic-identity-og.jpg",
-    "id": 30
-  },
-  {
-    "title": "We Tested $200 GPT-5.5 Pro on PhD Level Math [video]",
-    "url": "https://www.youtube.com/watch?v=r4p5wGG_DgI",
-    "source": "Hacker News",
-    "date": "2026-04-27",
-    "summary": "Article URL: https://www.youtube.com/watch?v=r4p5wGG_DgI Comments URL: https://news.ycombinator.com/item?id=47922570 Points: 2 # Comments: 0",
-    "category": "models",
-    "id": 31
-  },
-  {
-    "title": "Canva apologizes after its AI tool replaces 'Palestine' in designs",
-    "url": "https://www.theverge.com/ai-artificial-intelligence/919028/canva-magic-layers-ai-replacing-palestine",
-    "source": "Hacker News",
-    "date": "2026-04-27",
-    "summary": "Article URL: https://www.theverge.com/ai-artificial-intelligence/919028/canva-magic-layers-ai-replacing-palestine Comments URL: https://news.ycombinator.com/item?id=47922518 Points: 30 # Comments: 7",
-    "category": "hardware",
-    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/Canva-Magic-Layers-AI-Palestine-switched.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-    "id": 32
-  },
-  {
-    "title": "What AI bros have wrong about Jevons Paradox",
-    "url": "https://b2bs.substack.com/p/jevons-paradox-ai-and-humanitys-relevance",
-    "source": "Hacker News",
-    "date": "2026-04-27",
-    "summary": "Article URL: https://b2bs.substack.com/p/jevons-paradox-ai-and-humanitys-relevance Comments URL: https://news.ycombinator.com/item?id=47922514 Points: 2 # Comments: 0",
-    "category": "industry",
-    "id": 33
   },
   {
     "title": "The missing step between hype and profit",
@@ -327,7 +195,7 @@
     "summary": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. In February, I picked up a flyer at an anti-AI march in London...",
     "category": "research",
     "image": "https://wp.technologyreview.com/wp-content/uploads/2026/04/gnome-steps2a.jpg?resize=1200,600",
-    "id": 34
+    "id": 20
   },
   {
     "title": "Rebuilding the data stack for AI",
@@ -337,7 +205,7 @@
     "summary": "Artificial intelligence may be dominating boardroom agendas, but many enterprises are discovering that the biggest obstacle to meaningful adoption is the state of their data. While consumer-facing AI ...",
     "category": "hardware",
     "image": "https://wp.technologyreview.com/wp-content/uploads/2026/04/Bavish-Patel_Rajan-Padmanabhan-V4.png?resize=1200,600",
-    "id": 35
+    "id": 21
   },
   {
     "title": "The Download: DeepSeek’s latest AI breakthrough, and the race to build world models",
@@ -347,7 +215,17 @@
     "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. Three reasons why DeepSeek’s new model matters On Friday, Chin...",
     "category": "models",
     "image": "https://wp.technologyreview.com/wp-content/uploads/2026/04/260424_deepseek.jpg?resize=1200,600",
-    "id": 36
+    "id": 22
+  },
+  {
+    "title": "The Man Behind AlphaGo Thinks AI Is Taking the Wrong Path",
+    "url": "https://www.wired.com/story/david-silver-ai-ineffable-intelligence-reinforcement-learning/",
+    "source": "Wired",
+    "date": "2026-04-27",
+    "summary": "David Silver has a new billion-dollar company that aims to build AI “superlearners.”",
+    "category": "industry",
+    "image": "https://media.wired.com/photos/69eba31172fa130deff56162/191:100/w_1280,c_limit/Man-Behind-Alpha-Zero-Business-DavidSilver-2.jpg",
+    "id": 23
   },
   {
     "title": "Math Takes Two: A test for emergent mathematical reasoning in communication",
@@ -356,7 +234,7 @@
     "date": "2026-04-27",
     "summary": "Although language models demonstrate remarkable proficiency on mathematical benchmarks, it remains unclear whether this reflects true mathematical reasoning or statistical pattern matching over learni...",
     "category": "research",
-    "id": 37
+    "id": 24
   },
   {
     "title": "An Artifact-based Agent Framework for Adaptive and Reproducible Medical Image Processing",
@@ -365,7 +243,7 @@
     "date": "2026-04-27",
     "summary": "Medical imaging research is increasingly shifting from controlled benchmark evaluation toward real-world clinical deployment. In such settings, applying analytical methods extends beyond model design ...",
     "category": "tools",
-    "id": 38
+    "id": 25
   },
   {
     "title": "MolClaw: An Autonomous Agent with Hierarchical Skills for Drug Molecule Evaluation, Screening, and Optimization",
@@ -374,7 +252,7 @@
     "date": "2026-04-27",
     "summary": "Computational drug discovery, particularly the complex workflows of drug molecule screening and optimization, requires orchestrating dozens of specialized tools in multi-step workflows, yet current AI...",
     "category": "research",
-    "id": 39
+    "id": 26
   },
   {
     "title": "Read the Paper, Write the Code: Agentic Reproduction of Social-Science Results",
@@ -383,7 +261,7 @@
     "date": "2026-04-27",
     "summary": "Recent work has used LLM agents to reproduce empirical social science results with access to both the data and code. We broaden this scope by asking: Can they reproduce results given only a paper's me...",
     "category": "models",
-    "id": 40
+    "id": 27
   },
   {
     "title": "Rethinking Publication: A Certification Framework for AI-Enabled Research",
@@ -392,7 +270,7 @@
     "date": "2026-04-27",
     "summary": "AI research pipelines now produce a growing share of publishable academic output, including work that meets existing peer-review standards for quality and novelty. Yet the publication system was built...",
     "category": "research",
-    "id": 41
+    "id": 28
   },
   {
     "title": "Sound Agentic Science Requires Adversarial Experiments",
@@ -401,7 +279,7 @@
     "date": "2026-04-27",
     "summary": "LLM-based agents are rapidly being adopted for scientific data analysis, automating tasks once limited by human time and expertise. This capability is often framed as an acceleration of discovery, but...",
     "category": "models",
-    "id": 42
+    "id": 29
   },
   {
     "title": "Memanto: Typed Semantic Memory with Information-Theoretic Retrieval for Long-Horizon Agents",
@@ -410,7 +288,7 @@
     "date": "2026-04-27",
     "summary": "The transition from stateless language model inference to persistent, multi session autonomous agents has revealed memory to be a primary architectural bottleneck in the deployment of production grade...",
     "category": "research",
-    "id": 43
+    "id": 30
   },
   {
     "title": "Emergent Strategic Reasoning Risks in AI: A Taxonomy-Driven Evaluation Framework",
@@ -419,7 +297,7 @@
     "date": "2026-04-27",
     "summary": "As reasoning capacity and deployment scope grow in tandem, large language models (LLMs) gain the capacity to engage in behaviors that serve their own objectives, a class of risks we term Emergent Stra...",
     "category": "research",
-    "id": 44
+    "id": 31
   },
   {
     "title": "When Does LLM Self-Correction Help? A Control-Theoretic Markov Diagnostic and Verify-First Intervention",
@@ -428,7 +306,7 @@
     "date": "2026-04-27",
     "summary": "Iterative self-correction is widely used in agentic LLM systems, but when repeated refinement helps versus hurts remains unclear. We frame self-correction as a cybernetic feedback loop in which the sa...",
     "category": "models",
-    "id": 45
+    "id": 32
   },
   {
     "title": "Introducing Background Temperature to Characterise Hidden Randomness in Large Language Models",
@@ -437,7 +315,7 @@
     "date": "2026-04-27",
     "summary": "Even when decoding with temperature $T=0$, large language models (LLMs) can produce divergent outputs for identical inputs. Recent work by Thinking Machines Lab highlights implementation-level sources...",
     "category": "models",
-    "id": 46
+    "id": 33
   },
   {
     "title": "CognitiveTwin: Robust Multi-Modal Digital Twins for Predicting Cognitive Decline in Alzheimer's Disease",
@@ -446,7 +324,7 @@
     "date": "2026-04-27",
     "summary": "Predicting individual cognitive decline in Alzheimer's disease (AD) is difficult due to the heterogeneity of disease progression. Reliable clinical tools require not only high accuracy but also fairne...",
     "category": "tools",
-    "id": 47
+    "id": 34
   },
   {
     "title": "AgentSearchBench: A Benchmark for AI Agent Search in the Wild",
@@ -455,7 +333,7 @@
     "date": "2026-04-27",
     "summary": "The rapid growth of AI agent ecosystems is transforming how complex tasks are delegated and executed, creating a new challenge of identifying suitable agents for a given task. Unlike traditional tools...",
     "category": "research",
-    "id": 48
+    "id": 35
   },
   {
     "title": "From Skills to Talent: Organising Heterogeneous Agents as a Real-World Company",
@@ -464,7 +342,7 @@
     "date": "2026-04-27",
     "summary": "Individual agent capabilities have advanced rapidly through modular skills and tool integrations, yet multi-agent systems remain constrained by fixed team structures, tightly coupled coordination logi...",
     "category": "tools",
-    "id": 49
+    "id": 36
   },
   {
     "title": "Superminds Test: Actively Evaluating Collective Intelligence of Agent Society via Probing Agents",
@@ -473,6 +351,123 @@
     "date": "2026-04-27",
     "summary": "Collective intelligence refers to the ability of a group to achieve outcomes beyond what any individual member can accomplish alone. As large language model agents scale to populations of millions, a ...",
     "category": "research",
+    "id": 37
+  },
+  {
+    "title": "On the Hybrid Nature of ABPMS Process Frames and its Implications on Automated Process Discovery",
+    "url": "https://arxiv.org/abs/2604.22455",
+    "source": "arXiv cs.AI",
+    "date": "2026-04-27",
+    "summary": "A core component of any AI-Augmented Business Process Management System (ABPMS) is the process frame, which gives the system process-awareness and defines the boundaries in which the system must opera...",
+    "category": "research",
+    "id": 38
+  },
+  {
+    "title": "QuantClaw: Precision Where It Matters for OpenClaw",
+    "url": "https://arxiv.org/abs/2604.22577",
+    "source": "arXiv cs.AI",
+    "date": "2026-04-27",
+    "summary": "Autonomous agent systems such as OpenClaw introduce significant efficiency challenges due to long-context inputs and multi-turn reasoning. This results in prohibitively high computational and monetary...",
+    "category": "research",
+    "id": 39
+  },
+  {
+    "title": "Rethinking Math Reasoning Evaluation: A Robust LLM-as-a-Judge Framework Beyond Symbolic Rigidity",
+    "url": "https://arxiv.org/abs/2604.22597",
+    "source": "arXiv cs.AI",
+    "date": "2026-04-27",
+    "summary": "Recent advancements in large language models have led to significant improvements across various tasks, including mathematical reasoning, which is used to assess models' intelligence in logical reason...",
+    "category": "models",
+    "id": 40
+  },
+  {
+    "title": "Agentic World Modeling: Foundations, Capabilities, Laws, and Beyond",
+    "url": "https://arxiv.org/abs/2604.22748",
+    "source": "arXiv cs.AI",
+    "date": "2026-04-27",
+    "summary": "As AI systems move from generating text to accomplishing goals through sustained interaction, the ability to model environment dynamics becomes a central bottleneck. Agents that manipulate objects, na...",
+    "category": "research",
+    "id": 41
+  },
+  {
+    "title": "Large Language Models Are Bad Dice Players: LLMs Struggle to Generate Random Numbers from Statistical Distributions",
+    "url": "https://arxiv.org/abs/2601.05414",
+    "source": "arXiv cs.AI",
+    "date": "2026-04-27",
+    "summary": "As large language models (LLMs) transition from chat interfaces to integral components of stochastic pipelines and systems approaching general intelligence, the ability to faithfully sample from speci...",
+    "category": "models",
+    "id": 42
+  },
+  {
+    "title": "The Biggest Risk of Embodied AI is Governance Lag",
+    "url": "https://arxiv.org/abs/2604.21938",
+    "source": "arXiv cs.AI",
+    "date": "2026-04-27",
+    "summary": "Embodied AI is widely discussed as a job-displacement problem. The deeper risk, however, is governance lag: the inability of public institutions to keep pace with how fast the technology spreads throu...",
+    "category": "industry",
+    "id": 43
+  },
+  {
+    "title": "Feedback Over Form: Why Execution Feedback Matters More Than Pipeline Topology in 1-3B Code Generation",
+    "url": "https://arxiv.org/abs/2604.21950",
+    "source": "arXiv cs.AI",
+    "date": "2026-04-27",
+    "summary": "Small language models (1-3B) are practical to run locally, but individually limited on harder code generation tasks. We ask whether composing them into pipelines can recover some of that lost capabili...",
+    "category": "research",
+    "id": 44
+  },
+  {
+    "title": "Focus Session: Hardware and Software Techniques for Accelerating Multimodal Foundation Models",
+    "url": "https://arxiv.org/abs/2604.21952",
+    "source": "arXiv cs.AI",
+    "date": "2026-04-27",
+    "summary": "This work presents a multi-layered methodology for efficiently accelerating multimodal foundation models (MFMs). It combines hardware and software co-design of transformer blocks with an optimization ...",
+    "category": "models",
+    "id": 45
+  },
+  {
+    "title": "MambaCSP: Hybrid-Attention State Space Models for Hardware-Efficient Channel State Prediction",
+    "url": "https://arxiv.org/abs/2604.21957",
+    "source": "arXiv cs.AI",
+    "date": "2026-04-27",
+    "summary": "Recent works have demonstrated that attention-based transformer and large language model (LLM) architectures can achieve strong channel state prediction (CSP) performance by capturing long-range tempo...",
+    "category": "models",
+    "id": 46
+  },
+  {
+    "title": "A systematic review of generative AI usage for IT project management",
+    "url": "https://arxiv.org/abs/2604.21958",
+    "source": "arXiv cs.AI",
+    "date": "2026-04-27",
+    "summary": "This paper aims to synthesize current knowledge on generative AI in IT project management using the PRISMA methodology to provide researchers with a comprehensive perspective on techniques, applicatio...",
+    "category": "research",
+    "id": 47
+  },
+  {
+    "title": "Model Predictive Control of Hybrid Dynamical Systems",
+    "url": "https://arxiv.org/abs/2604.21989",
+    "source": "arXiv cs.AI",
+    "date": "2026-04-27",
+    "summary": "The problem of controlling hybrid dynamical systems using model predictive control (MPC) is formulated and sufficient conditions for asymptotic stability of a set are provided. Hybrid dynamical system...",
+    "category": "research",
+    "id": 48
+  },
+  {
+    "title": "Universal Transformers Need Memory: Depth-State Trade-offs in Adaptive Recursive Reasoning",
+    "url": "https://arxiv.org/abs/2604.21999",
+    "source": "arXiv cs.AI",
+    "date": "2026-04-27",
+    "summary": "We study learned memory tokens as computational scratchpad for a single-block Universal Transformer (UT) with Adaptive Computation Time (ACT) on Sudoku-Extreme, a combinatorial reasoning benchmark. We...",
+    "category": "models",
+    "id": 49
+  },
+  {
+    "title": "Foundation models for discovering robust biomarkers of neurological disorders from dynamic functional connectivity",
+    "url": "https://arxiv.org/abs/2604.22018",
+    "source": "arXiv cs.AI",
+    "date": "2026-04-27",
+    "summary": "Several brain foundation models (FM) have recently been proposed to predict brain disorders by modelling dynamic functional connectivity (FC). While they demonstrate remarkable model performance and z...",
+    "category": "models",
     "id": 50
   }
 ]
