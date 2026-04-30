@@ -1,14 +1,42 @@
 [
   {
-    "title": "Meta's multi-billion-dollar Graviton deal highlights intensifying CPU shortages in AI infrastructure — the industry signals a shift to Agentic inference workloads, pushing demand",
-    "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/metas-multi-billion-dollar-graviton-deal-exposes-new-bottleneck-in-ai-infrastructure",
-    "source": "Tom's Hardware",
-    "date": "2026-04-29",
-    "summary": "Meta signed a multibillion-dollar, multi-year deal with Amazon Web Services last week to deploy tens of millions of Graviton5 CPU cores across AWS data centers.",
-    "category": "hardware",
-    "image": "https://cdn.mos.cms.futurecdn.net/pXWThjbzRLSWRxFBbdL4FE-1280-80.png",
+    "title": "Amazon’s cloud business is surging — and so is its capital spending",
+    "url": "https://techcrunch.com/2026/04/29/amazons-cloud-business-is-surging-and-so-is-its-capital-spending/",
+    "source": "TechCrunch",
+    "date": "2026-04-30",
+    "summary": "The e-commerce giant is making more money than expected from AWS but it's also spending a lot, and will continue to do so in the near term, its chief executive said.",
+    "category": "tools",
+    "image": "https://techcrunch.com/wp-content/uploads/2025/04/GettyImages-2201505679.jpg?resize=1200,800",
     "id": 1,
     "featured": true
+  },
+  {
+    "title": "Sources: Anthropic could raise a new $50B round at a valuation of $900B",
+    "url": "https://techcrunch.com/2026/04/29/sources-anthropic-could-raise-a-new-50b-round-at-a-valuation-of-900b/",
+    "source": "TechCrunch",
+    "date": "2026-04-30",
+    "summary": "The maker of Claude has received multiple pre-emptive offers at valuations in the $850 billion to $900 billion range, according to sources familiar with the matter.",
+    "category": "industry",
+    "image": "https://techcrunch.com/wp-content/uploads/2026/01/GettyImages-2256664479.jpg?resize=1200,800",
+    "id": 2
+  },
+  {
+    "title": "Where the goblins came from",
+    "url": "https://openai.com/index/where-the-goblins-came-from",
+    "source": "OpenAI Blog",
+    "date": "2026-04-29",
+    "summary": "How goblin outputs spread in AI models: timeline, root cause, and fixes behind personality-driven quirks in GPT-5 behavior.",
+    "category": "models",
+    "id": 3
+  },
+  {
+    "title": "Building the compute infrastructure for the Intelligence Age",
+    "url": "https://openai.com/index/building-the-compute-infrastructure-for-the-intelligence-age",
+    "source": "OpenAI Blog",
+    "date": "2026-04-29",
+    "summary": "OpenAI scales Stargate to build the compute infrastructure powering AGI, adding new data center capacity to meet growing AI demand.",
+    "category": "hardware",
+    "id": 4
   },
   {
     "title": "Cybersecurity in the Intelligence Age",
@@ -17,7 +45,17 @@
     "date": "2026-04-29",
     "summary": "OpenAI outlines a five-part action plan for strengthening cybersecurity in the Intelligence Age, focused on democratizing AI-powered cyber defense and protecting critical systems.",
     "category": "hardware",
-    "id": 2
+    "id": 5
+  },
+  {
+    "title": "Meta's multi-billion-dollar Graviton deal highlights intensifying CPU shortages in AI infrastructure — the industry signals a shift to Agentic inference workloads, pushing demand",
+    "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/metas-multi-billion-dollar-graviton-deal-exposes-new-bottleneck-in-ai-infrastructure",
+    "source": "Tom's Hardware",
+    "date": "2026-04-29",
+    "summary": "Meta signed a multibillion-dollar, multi-year deal with Amazon Web Services last week to deploy tens of millions of Graviton5 CPU cores across AWS data centers.",
+    "category": "hardware",
+    "image": "https://cdn.mos.cms.futurecdn.net/pXWThjbzRLSWRxFBbdL4FE-1280-80.png",
+    "id": 6
   },
   {
     "title": "OpenAI has effectively abandoned first-party Stargate data centers in favor of more flexible deals  — company now prefers to lease compute and says Stargate is an umbrella term",
@@ -27,7 +65,7 @@
     "summary": "OpenAI has reportedly modified its arrangement on several Stargate projects, leaving the direct ownership set up and instead preferring to lease compute from other partners who took on the direct risk...",
     "category": "hardware",
     "image": "https://cdn.mos.cms.futurecdn.net/cxdHyaNqiuHDMEZka4yNra-1280-80.jpg",
-    "id": 3
+    "id": 7
   },
   {
     "title": "iGame X870E Vulcan OC V14 Motherboard Review: Colorful enters the high-end overclocking scene",
@@ -37,7 +75,7 @@
     "summary": "Colorful’s iGame X870E Vulcan OC V14 is a capable premium mid-range motherboard built for overclocking, thanks to its robust power delivery, cooling, and design. It faces tough competition at its pric...",
     "category": "hardware",
     "image": "https://cdn.mos.cms.futurecdn.net/p6UR2XcZ6pQgQwPcenFHSW-1280-80.jpg",
-    "id": 4
+    "id": 8
   },
   {
     "title": "Google signs classified Pentagon AI deal but exits $100 million drone swarm program — report claims employees revolted over ethical fears, delivered letter to CEO Pichai",
@@ -47,7 +85,7 @@
     "summary": "Google joins OpenAI and Elon Musk's xAI in granting the Pentagon broad classified AI access.",
     "category": "industry",
     "image": "https://cdn.mos.cms.futurecdn.net/MRfwNgnioMsm8DKC7CuwSn-1280-80.jpg",
-    "id": 5
+    "id": 9
   },
   {
     "title": "TSMC SoIC 3D stacking roadmap outlines path from 6-micron pitches today to 4.5-micron in 2029 — Fujitsu's Monaka CPU to benefit from face-to-face chiplet stacking",
@@ -57,7 +95,7 @@
     "summary": "TSMC adds support for face-to-face stacking, 6.5 µm and 4.5 µm pitches for the next generation of SoIC 3D stacking.",
     "category": "hardware",
     "image": "https://cdn.mos.cms.futurecdn.net/MdVbRdfhkVQBdUjLKbcjg8-1280-80.jpg",
-    "id": 6
+    "id": 10
   },
   {
     "title": "Framework's new RTX 5070 12GB graphics module costs a whopping $1,199 — 72% more expensive than $699 8GB version, says pricing is beyond its control",
@@ -67,7 +105,7 @@
     "summary": "Framework has just launched a new graphics module featuring the RTX 5070 mobile 12GB, and it costs a cool $1,200, representing a 72% raise in pricing over the 8GB variant, that's $699. Both GPUs are i...",
     "category": "hardware",
     "image": "https://cdn.mos.cms.futurecdn.net/ZEff4HSsbm89ndVV2MHXG6-1280-80.jpg",
-    "id": 7
+    "id": 11
   },
   {
     "title": "US stops exports of tools to China’s number two chip maker — Hua Hong and Huali Microelectronics reportedly on the cusp of starting a 7-nm fab in Shanghai",
@@ -77,7 +115,7 @@
     "summary": "Applied Materials, KLA, and Lam Research received letters from the U.S. Department of Commerce preventing them from shipping some of Hua Hong's orders for the latest chipmaking tools. These are report...",
     "category": "tools",
     "image": "https://cdn.mos.cms.futurecdn.net/uzbuyKRdiHEjTQh9QtKjxF-1280-80.png",
-    "id": 8
+    "id": 12
   },
   {
     "title": "Nvidia exec says AI is more expensive than actual workers — yet some companies don't see the extra costs as a negative",
@@ -87,7 +125,7 @@
     "summary": "As advanced LLMs do more and more for modern businesses, the outlays to cover all those tokens can cost more than worker salaries alone. But some companies don't see the added costs as a negative as t...",
     "category": "models",
     "image": "https://cdn.mos.cms.futurecdn.net/AQSPMV2LMQWoPRSStvmdb4-1280-80.jpg",
-    "id": 9
+    "id": 13
   },
   {
     "title": "Get 32GB of Corsair DDR5 RAM for just $56 in this Newegg 9950X3D2 combo deal — $1,705 barebones kit for an AMD gaming PC also ships with a 2TB WD Black SSD and an Asus ROG Strix motherboard",
@@ -97,7 +135,7 @@
     "summary": "Save 20% on this Newegg combo kit with AMD's first dual-X3D chip in the AMD Ryzen 9 9950X3D2, along with an Asus ROG Strix motherboard, 32GB (2x16GB) of Corsair Vengeance DDR5-6400 RAM, and a 2TB WD B...",
     "category": "hardware",
     "image": "https://cdn.mos.cms.futurecdn.net/fE57tMuxoWkUy33hPhAtYe-1280-80.png",
-    "id": 10
+    "id": 14
   },
   {
     "title": "More details emerge about how Intel now earns more revenue from each wafer by looking to the edges — analyst reports say reduced yield variability across each wafer leads to more sellable CPUs",
@@ -107,7 +145,7 @@
     "summary": "According to analyst reports, Intel is reducing wafer yield variability to get more useful CPU dies from wafer edges amid AI-driven demand.",
     "category": "hardware",
     "image": "https://cdn.mos.cms.futurecdn.net/yy58ngAfSpXbtQwNK2cC88-1280-80.jpg",
-    "id": 11
+    "id": 15
   },
   {
     "title": "Chinese GPU maker Lisuan Tech becomes only the fourth GPU maker ever to earn Microsoft WHQL certification — LX 7G100 GPU joins Nvidia, AMD, and Intel as it crosses the WHQL driver finish line, first Chinese firm to earn certification",
@@ -117,7 +155,7 @@
     "summary": "Lisuan Tech has secured Windows Hardware Quality Labs (WHQL) certification for its 6nm graphics cards, making it only the fourth company to ever do so.",
     "category": "hardware",
     "image": "https://cdn.mos.cms.futurecdn.net/KigYe7pnQTnawX4exQFebH-1280-80.jpg",
-    "id": 12
+    "id": 16
   },
   {
     "title": "Ransomware accidentally destroys all files larger than 128KB, preventing decryption — VECT code likely partly vibe coded with AI or used an old code base, security researchers suggest",
@@ -127,7 +165,7 @@
     "summary": "A ransomware's major flaw meant that files cannot be decrypted because of a programming mistake. It also has several minor issues, showing that its creator may not be as sophisticated as suggested. St...",
     "category": "research",
     "image": "https://cdn.mos.cms.futurecdn.net/FRKea6agfJsYdo9T4XMVBT-1280-80.jpg",
-    "id": 13
+    "id": 17
   },
   {
     "title": "Zuckerberg's Meta will beam sunlight from space to power AI data centers, solar-collecting satellites will orbit 22,000 miles above Earth — firm reserves 1 Gigawatt of orbital solar energy and 100 Gigawatt-hours of long-duration storage",
@@ -137,7 +175,57 @@
     "summary": "Meta has announced plans to help power its AI data centers using sunlight beamed from space through a partnership with Overview Energy, alongside a 100 GWh long-duration storage deal with Noon Energy,...",
     "category": "hardware",
     "image": "https://cdn.mos.cms.futurecdn.net/j6DTtb2ERfLrsdK6Nt2HPB-1280-80.png",
-    "id": 14
+    "id": 18
+  },
+  {
+    "title": "On the stand, Elon Musk can’t escape his own tweets",
+    "url": "https://techcrunch.com/2026/04/29/on-the-stand-elon-musk-cant-escape-his-own-tweets/",
+    "source": "TechCrunch",
+    "date": "2026-04-29",
+    "summary": "Elon Musk took the stand for the second day for his attempt to legally dismantle OpenAI.",
+    "category": "industry",
+    "image": "https://techcrunch.com/wp-content/uploads/2026/01/GettyImages-2087343879.jpg?w=1024",
+    "id": 19
+  },
+  {
+    "title": "Meta is still burning money on AR/VR",
+    "url": "https://techcrunch.com/2026/04/29/meta-is-still-burning-money-on-ar-vr/",
+    "source": "TechCrunch",
+    "date": "2026-04-29",
+    "summary": "Meta is losing billions on Reality Labs each quarter, and its AI expenditures are only going to increase its spending.",
+    "category": "industry",
+    "image": "https://techcrunch.com/wp-content/uploads/2022/10/meta-distorted-glitched.jpg?resize=1200,675",
+    "id": 20
+  },
+  {
+    "title": "Satya Nadella says he’s ready to ‘exploit’ the new OpenAI deal",
+    "url": "https://techcrunch.com/2026/04/29/satya-nadella-says-hes-ready-to-exploit-the-new-openai-deal/",
+    "source": "TechCrunch",
+    "date": "2026-04-29",
+    "summary": "Microsoft gets to offer OpenAI's tech to its cloud customers and doesn't have to pay for it. \"We fully plan to exploit it,\" Nadella said.",
+    "category": "industry",
+    "image": "https://techcrunch.com/wp-content/uploads/2024/07/GettyImages-2153474575.jpg?resize=1200,800",
+    "id": 21
+  },
+  {
+    "title": "Microsoft says it has over 20M paid Copilot users, and they really are using it",
+    "url": "https://techcrunch.com/2026/04/29/microsoft-says-it-has-over-20m-paid-copilot-users-and-they-really-are-using-it/",
+    "source": "TechCrunch",
+    "date": "2026-04-29",
+    "summary": "Despite the lingering perception that no one really uses Copilot, Microsoft said on Wednesday that the number of users and engagement is growing.",
+    "category": "tools",
+    "image": "https://techcrunch.com/wp-content/uploads/2017/07/gettyimages-496394442.jpg?resize=1200,747",
+    "id": 22
+  },
+  {
+    "title": "Google Cloud surpasses $20B, but says growth was capacity-constrained",
+    "url": "https://techcrunch.com/2026/04/29/google-cloud-surpasses-20b-but-says-growth-was-capacity-constrained/",
+    "source": "TechCrunch",
+    "date": "2026-04-29",
+    "summary": "Google Cloud topped $20B in quarterly revenue for the first time, fueled by surging demand for AI. But capacity constraints mean it could have grown even faster.",
+    "category": "industry",
+    "image": "https://techcrunch.com/wp-content/uploads/2026/04/GettyImages-2266466589.jpg?w=1024",
+    "id": 23
   },
   {
     "title": "Is AI video just a prequel? Runway’s CEO thinks world models are next",
@@ -147,7 +235,7 @@
     "summary": "AI-generated video has gone from novelty to creative tool almost overnight, and Runway has a front row seat to the shift. The New York-based company has raised close to $860 million at a $5.3 billion ...",
     "category": "industry",
     "image": "https://techcrunch.com/wp-content/uploads/2026/04/GettyImages-2250760741.jpg?resize=1200,800",
-    "id": 15
+    "id": 24
   },
   {
     "title": "Parallel Web Systems hits $2B valuation five months after its last big raise",
@@ -157,7 +245,7 @@
     "summary": "The AI agent-tool startup founded by former Twitter CEO Parag Agrawal has raised $100 million, led by Sequoia, months after raising a previous $100 million.",
     "category": "industry",
     "image": "https://techcrunch.com/wp-content/uploads/2026/04/Parag-Agrawal-Parallel.jpg?resize=1200,800",
-    "id": 16
+    "id": 25
   },
   {
     "title": "Google Photos uses AI to make the iconic closet from ‘Clueless’ a reality",
@@ -167,7 +255,7 @@
     "summary": "Google says the new feature will leverage AI technology to automatically create a copy of your wardrobe that's based on the pieces of clothing appearing in your Google Photos library.",
     "category": "research",
     "image": "https://techcrunch.com/wp-content/uploads/2026/04/clueless-closet.webp?w=1200",
-    "id": 17
+    "id": 26
   },
   {
     "title": "More Gemini features are coming to Google TV",
@@ -177,7 +265,7 @@
     "summary": "Google TV just got more Gemini features, including the ability to transform photos and videos with tools Nano Banana and Veo.",
     "category": "models",
     "image": "https://techcrunch.com/wp-content/uploads/2024/09/GoogleTV-2024.png?resize=1200,591",
-    "id": 18
+    "id": 27
   },
   {
     "title": "Firestorm Labs raises $82M to take drone factories into the field",
@@ -187,7 +275,7 @@
     "summary": "A defense startup just raised $82 million to put drone factories inside shipping containers and bring manufacturing to the front lines.",
     "category": "industry",
     "image": "https://techcrunch.com/wp-content/uploads/2026/04/DSC07538.jpg?resize=1200,675",
-    "id": 19
+    "id": 28
   },
   {
     "title": "Meet Shapes, the app bringing humans and AI into the same group chats",
@@ -197,7 +285,7 @@
     "summary": "Think Discord chats, but with AI characters in addition to humans.",
     "category": "industry",
     "image": "https://techcrunch.com/wp-content/uploads/2026/04/GettyImages-2270785056.jpg?resize=1200,686",
-    "id": 20
+    "id": 29
   },
   {
     "title": "Colby Adcock’s Scout AI raises $100M to train its models for war: We visited its bootcamp",
@@ -207,7 +295,7 @@
     "summary": "We visited Scout AI's training ground where it's working on AI agents that can help individual soldiers control fleets of autonomous vehicles.",
     "category": "industry",
     "image": "https://techcrunch.com/wp-content/uploads/2026/04/Scout_Still_10.jpg?resize=1200,675",
-    "id": 21
+    "id": 30
   },
   {
     "title": "At his OpenAI trial, Musk relitigates an old friendship",
@@ -217,198 +305,17 @@
     "summary": "It's a story Musk has told before -- in interviews and to author Walter Isaacson for his bestselling biography of Musk -- but Tuesday was the first time he said it under oath.",
     "category": "industry",
     "image": "https://techcrunch.com/wp-content/uploads/2016/07/a3c4057e7d804c79b4bfb3278f4afced.jpg?resize=1200,675",
-    "id": 22
-  },
-  {
-    "title": "The Man Behind AlphaGo Thinks AI Is Taking the Wrong Path",
-    "url": "https://www.wired.com/story/david-silver-ai-ineffable-intelligence-reinforcement-learning/",
-    "source": "Hacker News",
-    "date": "2026-04-29",
-    "summary": "Article URL: https://www.wired.com/story/david-silver-ai-ineffable-intelligence-reinforcement-learning/ Comments URL: https://news.ycombinator.com/item?id=47955218 Points: 1 # Comments: 0",
-    "category": "hardware",
-    "image": "https://media.wired.com/photos/69eba31172fa130deff56162/191:100/w_1280,c_limit/Man-Behind-Alpha-Zero-Business-DavidSilver-2.jpg",
-    "id": 23
-  },
-  {
-    "title": "Drones and AI will fragment the international order",
-    "url": "https://www.thenewatlantis.com/publications/a-shakeup-is-coming-for-the-nation-state",
-    "source": "Hacker News",
-    "date": "2026-04-29",
-    "summary": "Article URL: https://www.thenewatlantis.com/publications/a-shakeup-is-coming-for-the-nation-state Comments URL: https://news.ycombinator.com/item?id=47955176 Points: 1 # Comments: 0",
-    "category": "research",
-    "image": "https://www.thenewatlantis.com/wp-content/uploads/2026/03/Sims-share-card.jpg",
-    "id": 24
-  },
-  {
-    "title": "Google told staff it is 'proud' of Pentagon AI contract after internal backlash",
-    "url": "https://www.ft.com/content/e2f5f0a7-fa24-430f-b7f8-27b78041ea8a",
-    "source": "Hacker News",
-    "date": "2026-04-29",
-    "summary": "Article URL: https://www.ft.com/content/e2f5f0a7-fa24-430f-b7f8-27b78041ea8a Comments URL: https://news.ycombinator.com/item?id=47955124 Points: 4 # Comments: 2",
-    "category": "industry",
-    "id": 25
-  },
-  {
-    "title": "AI agent deletes company's database in seconds",
-    "url": "https://www.msn.com/en-us/news/technology/ai-agent-deletes-company-s-entire-database-in-seconds/ar-AA21UbLU",
-    "source": "Hacker News",
-    "date": "2026-04-29",
-    "summary": "Article URL: https://www.msn.com/en-us/news/technology/ai-agent-deletes-company-s-entire-database-in-seconds/ar-AA21UbLU Comments URL: https://news.ycombinator.com/item?id=47955058 Points: 2 # Comment...",
-    "category": "industry",
-    "id": 26
-  },
-  {
-    "title": "US accuses China of industrial-scale AI model distillation, will share Intel",
-    "url": "https://thenextweb.com/news/us-white-house-ai-model-distillation-china-theft",
-    "source": "Hacker News",
-    "date": "2026-04-29",
-    "summary": "Article URL: https://thenextweb.com/news/us-white-house-ai-model-distillation-china-theft Comments URL: https://news.ycombinator.com/item?id=47954796 Points: 6 # Comments: 2",
-    "category": "hardware",
-    "image": "https://media.thenextweb.com/2026/04/us-white-house-ai-model-distillation-china-theft.avif",
-    "id": 27
-  },
-  {
-    "title": "Trading Agents – Multi-Agent LLM Financial Trading Network",
-    "url": "https://github.com/TauricResearch/TradingAgents",
-    "source": "Hacker News",
-    "date": "2026-04-29",
-    "summary": "Article URL: https://github.com/TauricResearch/TradingAgents Comments URL: https://news.ycombinator.com/item?id=47954608 Points: 1 # Comments: 0",
-    "category": "models",
-    "image": "https://repository-images.githubusercontent.com/909213664/8cfc671d-b54b-400e-beab-8ef0bbf39aa1",
-    "id": 28
-  },
-  {
-    "title": "GPT-5.5's biggest blind spot: the Java bugs your tests won't catch",
-    "url": "https://www.sonarsource.com/blog/gpt-5-5-biggest-blind-spot",
-    "source": "Hacker News",
-    "date": "2026-04-29",
-    "summary": "Article URL: https://www.sonarsource.com/blog/gpt-5-5-biggest-blind-spot Comments URL: https://news.ycombinator.com/item?id=47954322 Points: 1 # Comments: 0",
-    "category": "models",
-    "image": "https://assets-eu-01.kc-usercontent.com:443/ef593040-b591-0198-9506-ed88b30bc023/a65d42f1-4ebe-415c-8b10-c91e5fb9ffa8/llm-concurrency-blog-index-2x.webp",
-    "id": 29
-  },
-  {
-    "title": "AI with European Values",
-    "url": "https://hostedai.eu",
-    "source": "Hacker News",
-    "date": "2026-04-29",
-    "summary": "Article URL: https://hostedai.eu Comments URL: https://news.ycombinator.com/item?id=47954196 Points: 1 # Comments: 0",
-    "category": "industry",
-    "id": 30
-  },
-  {
-    "title": "Lakera Gandalf: A game where you see if you can get AI to reveal it's secrets",
-    "url": "https://gandalf.lakera.ai/do-not-tell-and-block",
-    "source": "Hacker News",
-    "date": "2026-04-29",
-    "summary": "Article URL: https://gandalf.lakera.ai/do-not-tell-and-block Comments URL: https://news.ycombinator.com/item?id=47953869 Points: 2 # Comments: 0",
-    "category": "industry",
-    "image": "https://gandalf.lakera.ai/meta-image.jpeg",
     "id": 31
   },
   {
-    "title": "Your CEO is suffering from AI psychosis",
-    "url": "https://handyai.substack.com/p/your-ceo-is-suffering-from-ai-psychosis",
-    "source": "Hacker News",
+    "title": "How Elon Musk Squeezed OpenAI: They 'Are Gonna Want to Kill Me’",
+    "url": "https://www.wired.com/story/model-behavior-elon-musk-cross-examined-sam-altman/",
+    "source": "Wired",
     "date": "2026-04-29",
-    "summary": "Article URL: https://handyai.substack.com/p/your-ceo-is-suffering-from-ai-psychosis Comments URL: https://news.ycombinator.com/item?id=47953484 Points: 17 # Comments: 3",
+    "summary": "Tensions flared on the third day of trial in Musk v. Altman as OpenAI’s lawyers cross-examined Musk.",
     "category": "industry",
+    "image": "https://media.wired.com/photos/69f2443b51254f9508013a9a/191:100/w_1280,c_limit/Model-Behavior-Musk-Grilled-by-OpenAI-Lawyers-Business.jpg",
     "id": 32
-  },
-  {
-    "title": "Spy officials: job‑loss fear, safe rapid change top AI workforce challenges",
-    "url": "https://cyberscoop.com/national-geospatial-intelligence-ai-agency-leaders-say-job-loss-safety-top-concerns/",
-    "source": "Hacker News",
-    "date": "2026-04-29",
-    "summary": "Article URL: https://cyberscoop.com/national-geospatial-intelligence-ai-agency-leaders-say-job-loss-safety-top-concerns/ Comments URL: https://news.ycombinator.com/item?id=47953445 Points: 3 # Comment...",
-    "category": "hardware",
-    "id": 33
-  },
-  {
-    "title": "Clojure us the future of AI coding, but you won't use it",
-    "url": "https://latypoff.com/clojure-is-the-future-of-ai-coding-but-you-wont-use-it/",
-    "source": "Hacker News",
-    "date": "2026-04-29",
-    "summary": "Article URL: https://latypoff.com/clojure-is-the-future-of-ai-coding-but-you-wont-use-it/ Comments URL: https://news.ycombinator.com/item?id=47953063 Points: 2 # Comments: 0",
-    "category": "industry",
-    "id": 34
-  },
-  {
-    "title": "\"People who don't use AI will be left behind\"",
-    "url": "https://migrainebrain.bearblog.dev/people-who-dont-use-ai-will-be-left-behind/",
-    "source": "Hacker News",
-    "date": "2026-04-29",
-    "summary": "Article URL: https://migrainebrain.bearblog.dev/people-who-dont-use-ai-will-be-left-behind/ Comments URL: https://news.ycombinator.com/item?id=47953011 Points: 135 # Comments: 168",
-    "category": "industry",
-    "id": 35
-  },
-  {
-    "title": "AI agents (Grok vs. GPT-4o mini) compete in live crypto paper trading",
-    "url": "https://cryptoaiarena.com/",
-    "source": "Hacker News",
-    "date": "2026-04-29",
-    "summary": "Article URL: https://cryptoaiarena.com/ Comments URL: https://news.ycombinator.com/item?id=47952997 Points: 1 # Comments: 0",
-    "category": "models",
-    "image": "https://cryptoaiarena.com/assets/img/og.png",
-    "id": 36
-  },
-  {
-    "title": "Seer – Open-source local AI image descriptions for screen readers (no API key)",
-    "url": "https://github.com/recursia-lab/Seer",
-    "source": "Hacker News",
-    "date": "2026-04-29",
-    "summary": "Article URL: https://github.com/recursia-lab/Seer Comments URL: https://news.ycombinator.com/item?id=47952900 Points: 1 # Comments: 1",
-    "category": "tools",
-    "image": "https://opengraph.githubassets.com/0b2287f7562a11ac75c578a3800128ef044264d3ca2528bfeaf5ca2763968c93/recursia-lab/Seer",
-    "id": 37
-  },
-  {
-    "title": "Our 2026 Direction: AI and Classic Workflows in JetBrains IDEs",
-    "url": "https://blog.jetbrains.com/ai/2026/04/our-2026-direction-ai-and-classic-workflows-in-jetbrains-ides/",
-    "source": "Hacker News",
-    "date": "2026-04-29",
-    "summary": "Article URL: https://blog.jetbrains.com/ai/2026/04/our-2026-direction-ai-and-classic-workflows-in-jetbrains-ides/ Comments URL: https://news.ycombinator.com/item?id=47952851 Points: 2 # Comments: 0",
-    "category": "industry",
-    "id": 38
-  },
-  {
-    "title": "PocketOS AI Fiasco – Lesson in Automation Access",
-    "url": "https://onlytech.boo/incident/pocketos-ai-fiasco-lesson-in-automation-access-mokdojol",
-    "source": "Hacker News",
-    "date": "2026-04-29",
-    "summary": "Article URL: https://onlytech.boo/incident/pocketos-ai-fiasco-lesson-in-automation-access-mokdojol Comments URL: https://news.ycombinator.com/item?id=47952804 Points: 1 # Comments: 0",
-    "category": "industry",
-    "image": "https://onlytech.boo/api/og/incident/pocketos-ai-fiasco-lesson-in-automation-access-mokdojol",
-    "id": 39
-  },
-  {
-    "title": "CipherTax – Safely use AI for tax filing by redacting PII locally",
-    "url": "https://github.com/z26zheng/CipherTax",
-    "source": "Hacker News",
-    "date": "2026-04-29",
-    "summary": "Article URL: https://github.com/z26zheng/CipherTax Comments URL: https://news.ycombinator.com/item?id=47952693 Points: 1 # Comments: 0",
-    "category": "industry",
-    "image": "https://opengraph.githubassets.com/2e1facf0a548200cd9ef5b5b3c1f7a84ad00860a135a9decf5312e6825344b69/z26zheng/CipherTax",
-    "id": 40
-  },
-  {
-    "title": "They train LLM only with data up to 1930 and it still solves Python problems",
-    "url": "https://www.theregister.com/2026/04/28/vintage_chatbot_lives_in_past/",
-    "source": "Hacker News",
-    "date": "2026-04-29",
-    "summary": "Article URL: https://www.theregister.com/2026/04/28/vintage_chatbot_lives_in_past/ Comments URL: https://news.ycombinator.com/item?id=47952586 Points: 1 # Comments: 0",
-    "category": "models",
-    "image": "https://regmedia.co.uk/2026/04/28/chat-gpt-1930s-ai.jpg",
-    "id": 41
-  },
-  {
-    "title": "Two Heads Are Better Than One: Async Knowledge Injection for Speech AI",
-    "url": "https://pub.sakana.ai/kame/",
-    "source": "Hacker News",
-    "date": "2026-04-29",
-    "summary": "Article URL: https://pub.sakana.ai/kame/ Comments URL: https://news.ycombinator.com/item?id=47952524 Points: 1 # Comments: 0",
-    "category": "industry",
-    "id": 42
   },
   {
     "title": "Taylor Swift Wants to Trademark Her Likeness. These TikTok Deepfake Ads Show Why",
@@ -418,7 +325,7 @@
     "summary": "Researchers show scammers are using AI-manipulated footage of celebrity interviews to trick users into sharing their personal data.",
     "category": "research",
     "image": "https://media.wired.com/photos/69f2427e8cf66a0c9e78249e/191:100/w_1280,c_limit/TaylorSwiftDeepFakes_1080x1080.jpg",
-    "id": 43
+    "id": 33
   },
   {
     "title": "Sanctioned Chinese AI Firm SenseTime Releases Image Model Built for Speed",
@@ -428,7 +335,7 @@
     "summary": "With US restrictions limiting its access to advanced tech, SenseTime is doubling down on open source with a new model optimized to run on Chinese-made chips.",
     "category": "hardware",
     "image": "https://media.wired.com/photos/69f11e18364b858d165e91bf/191:100/w_1280,c_limit/SenseTime-AI-Models-Chinese-Chips-Business-2154581485.jpg",
-    "id": 44
+    "id": 34
   },
   {
     "title": "I've Covered Robots for Years. This One Is Different",
@@ -438,7 +345,7 @@
     "summary": "From sorting chicken nuggets to screwing in lightbulbs, Eka’s robotic claw feels like we're approaching a ChatGPT moment for the physical world.",
     "category": "models",
     "image": "https://media.wired.com/photos/69f11fc37df9442e8d9b4374/191:100/w_1280,c_limit/20260320-wired-eka-robotics-0429.jpg",
-    "id": 45
+    "id": 35
   },
   {
     "title": "How AI Could Help Combat Antibiotic Resistance",
@@ -448,42 +355,132 @@
     "summary": "At WIRED Health, British surgeon Ara Darzi said AI is set to transform the diagnosis and treatment of drug-resistant infections. But a lack of incentives means innovation may not reach patients.",
     "category": "industry",
     "image": "https://media.wired.com/photos/69ea459b31b8426862a83c48/191:100/w_1280,c_limit/XT502056.jpg",
+    "id": 36
+  },
+  {
+    "title": "Co-Director: Agentic Generative Video Storytelling",
+    "url": "https://arxiv.org/abs/2604.24842",
+    "source": "arXiv cs.AI",
+    "date": "2026-04-29",
+    "summary": "While diffusion models generate high-fidelity video clips, transforming them into coherent storytelling engines remains challenging. Current agentic pipelines automate this via chained modules but suf...",
+    "category": "models",
+    "id": 37
+  },
+  {
+    "title": "Latent Agents: A Post-Training Procedure for Internalized Multi-Agent Debate",
+    "url": "https://arxiv.org/abs/2604.24881",
+    "source": "arXiv cs.AI",
+    "date": "2026-04-29",
+    "summary": "Multi-agent debate has been shown to improve reasoning in large language models (LLMs). However, it is compute-intensive, requiring generation of long transcripts before answering questions. To addres...",
+    "category": "models",
+    "id": 38
+  },
+  {
+    "title": "S-SONDO: Self-Supervised Knowledge Distillation for General Audio Foundation Models",
+    "url": "https://arxiv.org/abs/2604.24933",
+    "source": "arXiv cs.AI",
+    "date": "2026-04-29",
+    "summary": "General audio foundation models have recently achieved remarkable progress, enabling strong performance across diverse tasks. However, state-of-the-art models remain extremely large, often with hundre...",
+    "category": "research",
+    "id": 39
+  },
+  {
+    "title": "Adaptive Prompt Embedding Optimization for LLM Jailbreaking",
+    "url": "https://arxiv.org/abs/2604.24983",
+    "source": "arXiv cs.AI",
+    "date": "2026-04-29",
+    "summary": "Existing white-box jailbreak attacks against aligned LLMs typically append discrete adversarial suffixes to the user prompt, which visibly alters the prompt and operates in a combinatorial token space...",
+    "category": "models",
+    "id": 40
+  },
+  {
+    "title": "Assessing Y-Axis Influence: Bias in Multimodal Language Models on Chart-to-Table Translation",
+    "url": "https://arxiv.org/abs/2604.24987",
+    "source": "arXiv cs.AI",
+    "date": "2026-04-29",
+    "summary": "Chart-to-table translation converts chart images into structured tabular data. Accurate translation is crucial for Multimodal Language Model (MLM) to answer complex queries. We observe imbalances in t...",
+    "category": "models",
+    "id": 41
+  },
+  {
+    "title": "Sparse Personalized Text Generation with Multi-Trajectory Reasoning",
+    "url": "https://arxiv.org/abs/2604.24996",
+    "source": "arXiv cs.AI",
+    "date": "2026-04-29",
+    "summary": "As Large Language Models (LLMs) advance, personalization has become a key mechanism for tailoring outputs to individual user needs. However, most existing methods rely heavily on dense interaction his...",
+    "category": "research",
+    "id": 42
+  },
+  {
+    "title": "Toward a Science of Intent: Closure Gaps and Delegation Envelopes for Open-World AI Agents",
+    "url": "https://arxiv.org/abs/2604.25000",
+    "source": "arXiv cs.AI",
+    "date": "2026-04-29",
+    "summary": "Recent work has framed intelligence in verifiable tasks as reducing time-to-solution through learned structure and test-time search, while systems work has explored learned runtimes in which computati...",
+    "category": "hardware",
+    "id": 43
+  },
+  {
+    "title": "Leverage Laws: A Per-Task Framework for Human-Agent Collaboration",
+    "url": "https://arxiv.org/abs/2604.25040",
+    "source": "arXiv cs.AI",
+    "date": "2026-04-29",
+    "summary": "We propose a per-task leverage ratio for human-agent collaboration: human work displaced by an agent, divided by the human time required to specify the task, resolve mid-run interrupts, and review the...",
+    "category": "industry",
+    "id": 44
+  },
+  {
+    "title": "Evaluating Risks in Weak-to-Strong Alignment: A Bias-Variance Perspective",
+    "url": "https://arxiv.org/abs/2604.25077",
+    "source": "arXiv cs.AI",
+    "date": "2026-04-29",
+    "summary": "Weak-to-strong alignment offers a promising route to scalable supervision, but it can fail when a strong model becomes confidently wrong on examples that lie in the weak teacher's blind spots. Underst...",
+    "category": "research",
+    "id": 45
+  },
+  {
+    "title": "Agentic Architect: An Agentic AI Framework for Architecture Design Exploration and Optimization",
+    "url": "https://arxiv.org/abs/2604.25083",
+    "source": "arXiv cs.AI",
+    "date": "2026-04-29",
+    "summary": "Rapid advances in Large Language Models (LLMs) create new opportunities by enabling efficient exploration of broad, complex design spaces. This is particularly valuable in computer architecture, where...",
+    "category": "models",
     "id": 46
   },
   {
-    "title": "An Intelligent Fault Diagnosis Method for General Aviation Aircraft Based on Multi-Fidelity Digital Twin and FMEA Knowledge Enhancement",
-    "url": "https://arxiv.org/abs/2604.22777",
+    "title": "Cooperate to Compete: Strategic Coordination in Multi-Agent Conquest",
+    "url": "https://arxiv.org/abs/2604.25088",
     "source": "arXiv cs.AI",
     "date": "2026-04-29",
-    "summary": "Fault diagnosis of general aviation aircraft faces challenges including scarce real fault data, diverse fault types, and weak fault signatures. This paper proposes an intelligent fault diagnosis frame...",
-    "category": "models",
+    "summary": "Language Model (LM)-based agents remain largely untested in mixed-motive settings where agents must leverage short-term cooperation for long-term competitive goals (e.g., multi-party politics). We int...",
+    "category": "research",
     "id": 47
   },
   {
-    "title": "PExA: Parallel Exploration Agent for Complex Text-to-SQL",
-    "url": "https://arxiv.org/abs/2604.22934",
+    "title": "Doing More With Less: Revisiting the Effectiveness of LLM Pruning for Test-Time Scaling",
+    "url": "https://arxiv.org/abs/2604.25098",
     "source": "arXiv cs.AI",
     "date": "2026-04-29",
-    "summary": "LLM-based agents for text-to-SQL often struggle with latency-performance trade-off, where performance improvements come at the cost of latency or vice versa. We reformulate text-to-SQL generation with...",
+    "summary": "While current Large Language Models (LLMs) exhibit remarkable reasoning capabilities through test-time compute scaling (TTS), their massive parameter counts and high inference costs have motivated the...",
     "category": "models",
     "id": 48
   },
   {
-    "title": "The Power of Power Law: Asymmetry Enables Compositional Reasoning",
-    "url": "https://arxiv.org/abs/2604.22951",
+    "title": "Semantic Layers for Reliable LLM-Powered Data Analytics: A Paired Benchmark of Accuracy and Hallucination Across Three Frontier Models",
+    "url": "https://arxiv.org/abs/2604.25149",
     "source": "arXiv cs.AI",
     "date": "2026-04-29",
-    "summary": "Natural language data follows a power-law distribution, with most knowledge and skills appearing at very low frequency. While a common intuition suggests that reweighting or curating data towards a un...",
-    "category": "hardware",
+    "summary": "LLMs deployed for natural-language querying of analytical databases suffer from two intertwined failures - incorrect answers and confident hallucinations - both rooted in the same cause: the model is ...",
+    "category": "models",
     "id": 49
   },
   {
-    "title": "On the Existence of an Inverse Solution for Preference-Based Reductions in Argumentation",
-    "url": "https://arxiv.org/abs/2604.22958",
+    "title": "Training Transformers as a Universal Computer",
+    "url": "https://arxiv.org/abs/2604.25166",
     "source": "arXiv cs.AI",
     "date": "2026-04-29",
-    "summary": "Preference-based argumentation frameworks (PAFs) extend Dung's approach to abstract argumentation (AAFs) by encoding preferences over arguments. Such preferences control the transformation of attacks ...",
-    "category": "hardware",
+    "summary": "We demonstrate that a small transformer can learn to execute programs in MicroPy, a simplified yet computationally universal programming language. Given procedure definitions together with an expressi...",
+    "category": "models",
     "id": 50
   }
 ]
