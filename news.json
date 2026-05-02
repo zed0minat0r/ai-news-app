@@ -1,5 +1,55 @@
 [
   {
+    "title": "Amnitex: Lossless memory layer for AI coding assistants",
+    "url": "https://github.com/Amnibro/amnitex",
+    "source": "Hacker News",
+    "date": "2026-05-02",
+    "summary": "Article URL: https://github.com/Amnibro/amnitex Comments URL: https://news.ycombinator.com/item?id=47982785 Points: 2 # Comments: 0",
+    "category": "hardware",
+    "image": "https://opengraph.githubassets.com/e6a3438805aecc44683b09b474169abebb9565cc68cc7bc787aa498b0c1cffbc/Amnibro/amnitex",
+    "id": 1,
+    "featured": true
+  },
+  {
+    "title": "Sam Altman says OpenAI doesn't want to replace you with AI",
+    "url": "https://www.neowin.net/news/sam-altman-says-that-openai-doesnt-want-to-replace-you-with-ai/",
+    "source": "Hacker News",
+    "date": "2026-05-02",
+    "summary": "Article URL: https://www.neowin.net/news/sam-altman-says-that-openai-doesnt-want-to-replace-you-with-ai/ Comments URL: https://news.ycombinator.com/item?id=47982795 Points: 1 # Comments: 1",
+    "category": "industry",
+    "id": 2
+  },
+  {
+    "title": "Show HN: MemHub, Turn Your GPT/Claude/Gemini History into LLM-Wiki Mindmap",
+    "url": "https://github.com/XTraceAI/memhub-llm-wiki-guide",
+    "source": "Hacker News",
+    "date": "2026-05-02",
+    "summary": "Hi, this is Tristan, CPO of XTrace. We are launching a very cool feature that is inspired by Andrey Karpathy's LLM Wiki mindmap. Let everyone who doesn't have enough sessions and markdowns made with c...",
+    "category": "models",
+    "image": "https://opengraph.githubassets.com/22cbb386a28540ed0bc9b8d2a12fac15ea109a9d5141d4719f550007acb73676/XTraceAI/memhub-llm-wiki-guide",
+    "id": 3
+  },
+  {
+    "title": "Finny – AI trading agent that runs in your terminal",
+    "url": "https://www.finnyai.tech/",
+    "source": "Hacker News",
+    "date": "2026-05-02",
+    "summary": "Article URL: https://www.finnyai.tech/ Comments URL: https://news.ycombinator.com/item?id=47982138 Points: 1 # Comments: 0",
+    "category": "industry",
+    "image": "https://finnyai.tech/assets/og-preview.png?v=2",
+    "id": 4
+  },
+  {
+    "title": "So, About That AI Bubble",
+    "url": "https://www.theatlantic.com/economy/2026/05/ai-bubble-revenue-anthropic/687022/",
+    "source": "Hacker News",
+    "date": "2026-05-02",
+    "summary": "Article URL: https://www.theatlantic.com/economy/2026/05/ai-bubble-revenue-anthropic/687022/ Comments URL: https://news.ycombinator.com/item?id=47982069 Points: 2 # Comments: 1",
+    "category": "industry",
+    "image": "https://cdn.theatlantic.com/thumbor/cz9zWTIyb6KAz5ePohup0sg09kA=/0x43:2000x1085/1200x625/media/img/mt/2026/04/2026_4_20_AI_Bubble/original.gif",
+    "id": 5
+  },
+  {
     "title": "The Pentagon announces AI deals with OpenAI, Google, Microsoft, Amazon, Nvidia, and more — LLMs to be deployed on classified Department of War networks ‘for lawful operational use’",
     "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/the-pentagon-announces-ai-deals-with-openai-google-microsoft-amazon-nvidia-and-more-llms-to-be-deployed-on-classified-department-of-war-networks-for-lawful-operational-use",
     "source": "Tom's Hardware",
@@ -7,8 +57,7 @@
     "summary": "The U.S. Department of War announced agreements with seven AI providers, allowing it to deploy multiple LLMs for its use and avoiding lock up with a single vendor.",
     "category": "models",
     "image": "https://cdn.mos.cms.futurecdn.net/6vTk3xJGhojSU7NNDcyECo-1280-80.png",
-    "id": 1,
-    "featured": true
+    "id": 6
   },
   {
     "title": "Skyrocketing component prices push Big Tech capex to record $725 billion — Microsoft alone attributes $25 billion of AI budget to increased memory and chip costs",
@@ -18,7 +67,7 @@
     "summary": "Google, Amazon, Microsoft, and Meta plan to spend a combined $725 billion on capital expenditure in 2026, a 77% increase over last year's record $410 billion.",
     "category": "hardware",
     "image": "https://cdn.mos.cms.futurecdn.net/7ZfYx4wyiuAKGHcmrwJb8a-1280-80.jpg",
-    "id": 2
+    "id": 7
   },
   {
     "title": "SoftBank plans robotics and AI firm in the US to build data centers — aims for $100 billion valuation and an IPO this year",
@@ -28,7 +77,7 @@
     "summary": "SoftBank is planning to launch an AI and robotics startup in the U.S. to build data centers. The firm is gunning for a $100 billion valuation and aims to list the startup this year.",
     "category": "industry",
     "image": "https://cdn.mos.cms.futurecdn.net/ncKfApzgqCY2EPQAdhE6ZQ-1280-80.jpg",
-    "id": 3
+    "id": 8
   },
   {
     "title": "Huawei could seize China’s AI chip crown in 2026 as Nvidia's H200 shipments stall in regulatory limbo — Beijing pushes homegrown AI hardware dominance in a market projected to hit $67 billion by 2030",
@@ -38,7 +87,7 @@
     "summary": "Huawei is reportedly on track to become China’s top AI chip supplier as Nvidia faces export restrictions and customs delays. Analysts forecast China’s domestic AI chip market could hit $67 billion by ...",
     "category": "hardware",
     "image": "https://cdn.mos.cms.futurecdn.net/ZM7QHi9Pi9ZCnNXVYqUb5-1280-80.jpg",
-    "id": 4
+    "id": 9
   },
   {
     "title": "ASML's roadmap for chipmaking lithography tools examined — from DUV to Low-NA, High-NA, Hyper-NA, and beyond",
@@ -48,7 +97,7 @@
     "summary": "ASML shipped 48 EUV lithography systems and 131 immersion DUV tools in 2025, generating €32.7 billion in total revenue and ending the year with a €38.8 billion order backlog.",
     "category": "industry",
     "image": "https://cdn.mos.cms.futurecdn.net/yigtYLnV9mYF7u9h27AiYi-1280-80.png",
-    "id": 5
+    "id": 10
   },
   {
     "title": "Wingtech posts $1.3 billion loss and faces Shanghai delisting as Nexperia audit collapses — 57% of company's assets can't be verified",
@@ -58,7 +107,7 @@
     "summary": "According to a filing to the Shanghai bourse on Wednesday, Wingtech's stock will carry a delisting risk warning starting May 6th.",
     "category": "industry",
     "image": "https://cdn.mos.cms.futurecdn.net/XMLWANTcTr2ieutVjTfoRH-1280-80.jpg",
-    "id": 6
+    "id": 11
   },
   {
     "title": "Save a huge $400 on this Acer Predator OLED gaming laptop with an RTX 5070 Ti and 32GB DDR5, now under $1,800 — big saving on Helios Neo 16S AI rig that ships with a 24-core Intel CPU, 1TB SSD, and a 240Hz refresh rate",
@@ -68,7 +117,7 @@
     "summary": "Best Buy has slashed the cost of this Acer Predator Helios Neo 16S AI laptop with an RTX 5070 Ti, 32 GB of RAM, 240 Hz OLED display, and a Core Ultra 9 275HX processor, knocking it down to $1,799.99 a...",
     "category": "hardware",
     "image": "https://cdn.mos.cms.futurecdn.net/RcdEvT7RdgN8B36M58cu3d-1280-80.jpg",
-    "id": 7
+    "id": 12
   },
   {
     "title": "Mark Zuckerberg says Meta is cutting 8,000 jobs to pay for AI infrastructure — insatiable compute demand means the company can't rule out further headcount reductions",
@@ -78,7 +127,7 @@
     "summary": "Meta spent $72.2 billion on capex in all of 2025. The midpoint of its new 2026 guidance would nearly double that figure in a single year.",
     "category": "industry",
     "image": "https://cdn.mos.cms.futurecdn.net/JFeg3wSMPZgN7k7TJ2sMzH-1280-80.jpg",
-    "id": 8
+    "id": 13
   },
   {
     "title": "Get 32GB of DDR5 RAM for just $126 when paired with AMD's blistering 9850X3D — X870 motherboardbundle is less than $830 for your AM5 gaming battlestation",
@@ -88,7 +137,27 @@
     "summary": "Get an AMD Ryzen 9850X3D CPU, 32GB of DDR5, an X870 MSI MAG Tomahawk motherboard, and a 750W PSU combo deal at Newegg",
     "category": "hardware",
     "image": "https://cdn.mos.cms.futurecdn.net/YztYVnsvEwm4yvNbZwbQi3-1280-80.jpg",
-    "id": 9
+    "id": 14
+  },
+  {
+    "title": "Replit’s Amjad Masad on the Cursor deal, fighting Apple, and why he’d rather not sell",
+    "url": "https://techcrunch.com/2026/05/01/replits-amjad-masad-on-the-cursor-deal-fighting-apple-and-why-hed-rather-not-sell/",
+    "source": "TechCrunch",
+    "date": "2026-05-01",
+    "summary": "At TechCrunch's sold-out StrictlyVC event in San Francisco on Thursday night, we covered a lot of ground in a short time, beginning with the question everyone in the industry is asking right now: in a...",
+    "category": "tools",
+    "image": "https://techcrunch.com/wp-content/uploads/2026/05/55242949643_f997627b64_k.jpg?resize=1200,800",
+    "id": 15
+  },
+  {
+    "title": "Meta buys robotics startup to bolster its humanoid AI ambitions",
+    "url": "https://techcrunch.com/2026/05/01/meta-buys-robotics-startup-to-bolster-its-humanoid-ai-ambitions/",
+    "source": "TechCrunch",
+    "date": "2026-05-01",
+    "summary": "Meta bought humanoid startup Assured Robot Intelligence to beef up its AI models for robots, the company said.",
+    "category": "hardware",
+    "image": "https://techcrunch.com/wp-content/uploads/2026/03/GettyImages-2195752979.jpg?resize=1200,800",
+    "id": 16
   },
   {
     "title": "Did you know you can’t steal a charity? Don’t worry. Elon Musk will remind you.",
@@ -98,7 +167,7 @@
     "summary": "Elon Musk spent the better part of three days on the witness stand this week in his lawsuit against OpenAI, and it’s already getting messy. Emails, texts, and his own tweets are surfacing in court, an...",
     "category": "industry",
     "image": "https://techcrunch.com/wp-content/uploads/2026/04/musk-court-2273245544.jpg?resize=1200,801",
-    "id": 10
+    "id": 17
   },
   {
     "title": "Pentagon inks deals with Nvidia, Microsoft, and AWS to deploy AI on classified networks",
@@ -108,7 +177,7 @@
     "summary": "The deals come as the DOD has doubled down on diversifying its exposure to AI vendors in the wake of its controversial dispute with Anthropic over usage terms of its AI models.",
     "category": "hardware",
     "image": "https://techcrunch.com/wp-content/uploads/2021/07/GettyImages-1292192586.jpg?resize=1200,900",
-    "id": 11
+    "id": 18
   },
   {
     "title": "Musk v. Altman is just getting started",
@@ -118,7 +187,7 @@
     "summary": "Elon Musk spent the better part of three days on the witness stand this week in his lawsuit against OpenAI, and it’s already getting messy. Emails, texts, and his own tweets are surfacing in court, an...",
     "category": "industry",
     "image": "https://techcrunch.com/wp-content/uploads/2025/05/GettyImages-2213399157.jpg?resize=1200,800",
-    "id": 12
+    "id": 19
   },
   {
     "title": "ChatGPT Images 2.0 is a hit in India, but not a big winner elsewhere, yet",
@@ -128,7 +197,103 @@
     "summary": "Users in India are embracing ChatGPT Images 2.0 for creative, personal visuals — from avatars to cinematic portraits.",
     "category": "models",
     "image": "https://techcrunch.com/wp-content/uploads/2025/04/chatgpt-india.jpg?resize=1200,800",
-    "id": 13
+    "id": 20
+  },
+  {
+    "title": "Show HN: TTS Studio: AI-Powered Text-to-Speech Tool",
+    "url": "https://tts.haroun.dev/",
+    "source": "Hacker News",
+    "date": "2026-05-01",
+    "summary": "Article URL: https://tts.haroun.dev/ Comments URL: https://news.ycombinator.com/item?id=47981746 Points: 3 # Comments: 1",
+    "category": "tools",
+    "id": 21
+  },
+  {
+    "title": "AI Companies Can't Regulate Themselves. They Should Regulate Each Other",
+    "url": "https://www.lawfaremedia.org/article/ai-companies-can-t-regulate-themselves-they-should-regulate-each-other",
+    "source": "Hacker News",
+    "date": "2026-05-01",
+    "summary": "Article URL: https://www.lawfaremedia.org/article/ai-companies-can-t-regulate-themselves-they-should-regulate-each-other Comments URL: https://news.ycombinator.com/item?id=47981614 Points: 1 # Comment...",
+    "category": "industry",
+    "image": "https://lawfare-assets-new.azureedge.net/assets/images/default-source/article-images/chatbots-(1).jpg?sfvrsn=c5a4ff6d_5",
+    "id": 22
+  },
+  {
+    "title": "AI models that consider user's feeling are more likely to make errors",
+    "url": "https://arstechnica.com/ai/2026/05/study-ai-models-that-consider-users-feeling-are-more-likely-to-make-errors/",
+    "source": "Hacker News",
+    "date": "2026-05-01",
+    "summary": "Article URL: https://arstechnica.com/ai/2026/05/study-ai-models-that-consider-users-feeling-are-more-likely-to-make-errors/ Comments URL: https://news.ycombinator.com/item?id=47981420 Points: 3 # Comm...",
+    "category": "research",
+    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/05/GettyImages-1338190481-1152x648.jpg",
+    "id": 23
+  },
+  {
+    "title": "Does threatening an AI agent's existence make it a better gambler?",
+    "url": "https://handyai.substack.com/p/does-threatening-an-ai-agents-existence",
+    "source": "Hacker News",
+    "date": "2026-05-01",
+    "summary": "Article URL: https://handyai.substack.com/p/does-threatening-an-ai-agents-existence Comments URL: https://news.ycombinator.com/item?id=47981398 Points: 2 # Comments: 0",
+    "category": "industry",
+    "id": 24
+  },
+  {
+    "title": "Friday Studio AI runtime: Turn prompts, skills, & tools into reliable config",
+    "url": "https://github.com/friday-platform/friday-studio",
+    "source": "Hacker News",
+    "date": "2026-05-01",
+    "summary": "Article URL: https://github.com/friday-platform/friday-studio Comments URL: https://news.ycombinator.com/item?id=47981311 Points: 8 # Comments: 3",
+    "category": "tools",
+    "image": "https://opengraph.githubassets.com/aec8f66ff1a0e391912978501affa13f0958920c30d5f5b89f7a23ac59b3a8b2/friday-platform/friday-studio",
+    "id": 25
+  },
+  {
+    "title": "A Dark-Money Campaign Is Paying Influencers to Frame Chinese AI as a Threat",
+    "url": "https://www.wired.com/story/super-pac-backed-by-openai-and-palantir-is-paying-tiktok-influencers-to-fear-monger-about-china/",
+    "source": "Hacker News",
+    "date": "2026-05-01",
+    "summary": "Article URL: https://www.wired.com/story/super-pac-backed-by-openai-and-palantir-is-paying-tiktok-influencers-to-fear-monger-about-china/ Comments URL: https://news.ycombinator.com/item?id=47981288 Po...",
+    "category": "industry",
+    "image": "https://media.wired.com/photos/69f14b40d98ff026bfabf317/191:100/w_1280,c_limit/Made-In-China-Super-PAC-Backed-By-OpenAI-Palantir-Paying-TikTok-Influencers-Business.jpg",
+    "id": 26
+  },
+  {
+    "title": "AI doesn't replace us, but commodizes us",
+    "url": "https://qihqi.github.io/posts/what-if-ai-commodizes-us/",
+    "source": "Hacker News",
+    "date": "2026-05-01",
+    "summary": "Article URL: https://qihqi.github.io/posts/what-if-ai-commodizes-us/ Comments URL: https://news.ycombinator.com/item?id=47981273 Points: 5 # Comments: 0",
+    "category": "industry",
+    "id": 27
+  },
+  {
+    "title": "AI actors and writers will be ineligible for Oscars",
+    "url": "https://www.reuters.com/lifestyle/ai-actors-writers-will-be-ineligible-oscars-2026-05-01/",
+    "source": "Hacker News",
+    "date": "2026-05-01",
+    "summary": "Article URL: https://www.reuters.com/lifestyle/ai-actors-writers-will-be-ineligible-oscars-2026-05-01/ Comments URL: https://news.ycombinator.com/item?id=47981199 Points: 5 # Comments: 3",
+    "category": "industry",
+    "id": 28
+  },
+  {
+    "title": "GitHub Copilot: Upcoming Deprecation of GPT-5.2 and GPT-5.2-Codex",
+    "url": "https://github.blog/changelog/2026-05-01-upcoming-deprecation-of-gpt-5-2-and-gpt-5-2-codex/",
+    "source": "Hacker News",
+    "date": "2026-05-01",
+    "summary": "Article URL: https://github.blog/changelog/2026-05-01-upcoming-deprecation-of-gpt-5-2-and-gpt-5-2-codex/ Comments URL: https://news.ycombinator.com/item?id=47981179 Points: 3 # Comments: 0",
+    "category": "tools",
+    "image": "https://github.blog/wp-content/uploads/2026/05/586565460-ecfbff7a-fa59-4c49-848a-60ba3c2c9f53.jpg",
+    "id": 29
+  },
+  {
+    "title": "Show HN: Stealth Benchmark test if AI coding interview tools can be detected",
+    "url": "https://github.com/blindCodes/stealth-benchmark",
+    "source": "Hacker News",
+    "date": "2026-05-01",
+    "summary": "Article URL: https://github.com/blindCodes/stealth-benchmark Comments URL: https://news.ycombinator.com/item?id=47981096 Points: 2 # Comments: 0",
+    "category": "models",
+    "image": "https://opengraph.githubassets.com/aec8f66ff1a0e391912978501affa13f0958920c30d5f5b89f7a23ac59b3a8b2/blindCodes/stealth-benchmark",
+    "id": 30
   },
   {
     "title": "Enabling a new model for healthcare with AI co-clinician",
@@ -138,7 +303,7 @@
     "summary": "Article URL: https://deepmind.google/blog/ai-co-clinician/ Comments URL: https://news.ycombinator.com/item?id=47980192 Points: 2 # Comments: 0",
     "category": "industry",
     "image": "https://lh3.googleusercontent.com/z2sN_eil5tgap-Ji1W_4l1xnbfLRghzxdXzyCMdnKFVW1xTfgm0o8bpg9pNwE4RcHTR2QGEGhGx7LFn7Q6bg-LEPBW20d4Djo3Erii8PBYYrWz36=w1200-h630-n-nu-rw",
-    "id": 14
+    "id": 31
   },
   {
     "title": "TI Calculator Monopoly Offers Lessons for Educators in the Age of Generative AI",
@@ -148,7 +313,7 @@
     "summary": "Article URL: https://www.promarket.org/2024/04/08/tis-calculator-monopoly-offers-lessons-for-educators-in-the-age-of-generative-ai/ Comments URL: https://news.ycombinator.com/item?id=47980116 Points: ...",
     "category": "industry",
     "image": "https://www.promarket.org/wp-content/uploads/2024/04/Orbach.jpg",
-    "id": 15
+    "id": 32
   },
   {
     "title": "Ask HN: When will GitHub allow CoPilot AI programmer for new customers again?",
@@ -157,7 +322,7 @@
     "date": "2026-05-01",
     "summary": "When will GitHub allow CoPilot AI programmer for new customers again? Is the AI revolution on hold? Can't the AIs handle the real world scale? https://github.blog/news-insights/company-news/changes-to...",
     "category": "tools",
-    "id": 16
+    "id": 33
   },
   {
     "title": "Show HN: Building self-evolving AI Agents without training",
@@ -167,149 +332,17 @@
     "summary": "Article URL: https://getreflect.starlight-search.com Comments URL: https://news.ycombinator.com/item?id=47980027 Points: 2 # Comments: 0",
     "category": "industry",
     "image": "https://getreflect.starlight-search.com/logo.png",
-    "id": 17
+    "id": 34
   },
   {
-    "title": "Show HN: Aide-memory – persistent memory for AI coding agents and teams",
-    "url": "https://www.aide-memory.dev/blog/launch",
-    "source": "Hacker News",
+    "title": "Musk v. Altman week 1: Elon Musk says he was duped, warns AI could kill us all, and admits that xAI distills OpenAI’s models",
+    "url": "https://www.technologyreview.com/2026/05/01/1136800/musk-v-altman-week-1-musk-says-he-was-duped-warns-ai-could-kill-us-all-and-admits-that-xai-distills-openais-models/",
+    "source": "MIT Tech Review",
     "date": "2026-05-01",
-    "summary": "Article URL: https://www.aide-memory.dev/blog/launch Comments URL: https://news.ycombinator.com/item?id=47979991 Points: 3 # Comments: 0",
-    "category": "hardware",
-    "id": 18
-  },
-  {
-    "title": "Kia's electric van is about to go on patrol with AI cameras and drones",
-    "url": "https://electrek.co/2026/04/30/kias-ev-van-patrol-ai-cameras-drones/",
-    "source": "Hacker News",
-    "date": "2026-05-01",
-    "summary": "Article URL: https://electrek.co/2026/04/30/kias-ev-van-patrol-ai-cameras-drones/ Comments URL: https://news.ycombinator.com/item?id=47979769 Points: 1 # Comments: 0",
+    "summary": "In the first week of the landmark trial between Elon Musk and OpenAI, Musk took the stand in a crisp black suit and tie and argued that OpenAI CEO Sam Altman and president Greg Brockman had deceived h...",
     "category": "industry",
-    "image": "https://i0.wp.com/electrek.co/wp-content/uploads/sites/3/2026/04/Kia-PV5-Patrol-AI.jpeg?resize=1200%2C628&quality=82&strip=all&ssl=1",
-    "id": 19
-  },
-  {
-    "title": "Random thoughts while gazing at the misty AI Frontier",
-    "url": "https://blog.eladgil.com/p/random-thoughts-while-gazing-at-the",
-    "source": "Hacker News",
-    "date": "2026-05-01",
-    "summary": "Article URL: https://blog.eladgil.com/p/random-thoughts-while-gazing-at-the Comments URL: https://news.ycombinator.com/item?id=47979612 Points: 1 # Comments: 0",
-    "category": "industry",
-    "image": "https://substackcdn.com/image/fetch/$s_!kbjr!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Faf5d54f6-3093-495e-b8bc-d70d22433b14_640x1424.png",
-    "id": 20
-  },
-  {
-    "title": "Why the AI era needs BASIC again",
-    "url": "https://github.com/xgreenrx-star/VisualGasic/blob/main/docs/manifesto.md",
-    "source": "Hacker News",
-    "date": "2026-05-01",
-    "summary": "Article URL: https://github.com/xgreenrx-star/VisualGasic/blob/main/docs/manifesto.md Comments URL: https://news.ycombinator.com/item?id=47979580 Points: 2 # Comments: 0",
-    "category": "hardware",
-    "image": "https://opengraph.githubassets.com/26370838710e66c30d01c79e408e414766fac5f2b1bccd8ed7f844d893a36699/xgreenrx-star/VisualGasic",
-    "id": 21
-  },
-  {
-    "title": "Senate Panel Backs Guard Act, AI Age Verification Bill",
-    "url": "https://reclaimthenet.org/senate-panel-backs-guard-act-ai-age-verification-bill",
-    "source": "Hacker News",
-    "date": "2026-05-01",
-    "summary": "Article URL: https://reclaimthenet.org/senate-panel-backs-guard-act-ai-age-verification-bill Comments URL: https://news.ycombinator.com/item?id=47979381 Points: 8 # Comments: 0",
-    "category": "industry",
-    "image": "https://reclaimthenet.org/wp-content/uploads/2026/04/tMkybGgGi87e-scaled.jpg",
-    "id": 22
-  },
-  {
-    "title": "AI is starting to beat doctors at making correct diagnoses",
-    "url": "https://www.science.org/content/article/ai-starting-beat-doctors-making-correct-diagnoses",
-    "source": "Hacker News",
-    "date": "2026-05-01",
-    "summary": "Article URL: https://www.science.org/content/article/ai-starting-beat-doctors-making-correct-diagnoses Comments URL: https://news.ycombinator.com/item?id=47979132 Points: 3 # Comments: 0",
-    "category": "industry",
-    "id": 23
-  },
-  {
-    "title": "The AI scaffolding layer is collapsing. LlamaIndex's CEO explains what survives",
-    "url": "https://venturebeat.com/infrastructure/the-ai-scaffolding-layer-is-collapsing-llamaindexs-ceo-explains-what-survives",
-    "source": "Hacker News",
-    "date": "2026-05-01",
-    "summary": "Article URL: https://venturebeat.com/infrastructure/the-ai-scaffolding-layer-is-collapsing-llamaindexs-ceo-explains-what-survives Comments URL: https://news.ycombinator.com/item?id=47979098 Points: 2 ...",
-    "category": "models",
-    "id": 24
-  },
-  {
-    "title": "Upcoming Blender Development Fund and AI Policies",
-    "url": "https://www.blender.org/news/upcoming-blender-development-fund-and-ai-policies/",
-    "source": "Hacker News",
-    "date": "2026-05-01",
-    "summary": "Article URL: https://www.blender.org/news/upcoming-blender-development-fund-and-ai-policies/ Comments URL: https://news.ycombinator.com/item?id=47979001 Points: 1 # Comments: 0",
-    "category": "industry",
-    "image": "https://www.blender.org/wp-content/uploads/2026/05/devfund_ai_policies-480x270.jpg",
-    "id": 25
-  },
-  {
-    "title": "Pentagon inks deals with AI giants, but not Anthropic",
-    "url": "https://www.dw.com/en/pentagon-inks-deals-with-ai-giants-but-not-anthropic/a-77012715",
-    "source": "Hacker News",
-    "date": "2026-05-01",
-    "summary": "Article URL: https://www.dw.com/en/pentagon-inks-deals-with-ai-giants-but-not-anthropic/a-77012715 Comments URL: https://news.ycombinator.com/item?id=47978983 Points: 4 # Comments: 0",
-    "category": "industry",
-    "image": "https://static.dw.com/image/74390400_6.jpg",
-    "id": 26
-  },
-  {
-    "title": "The LLM Is Not a Junior Engineer",
-    "url": "https://jacobharr.is/personal/llm-not-junior-engineer",
-    "source": "Hacker News",
-    "date": "2026-05-01",
-    "summary": "Article URL: https://jacobharr.is/personal/llm-not-junior-engineer Comments URL: https://news.ycombinator.com/item?id=47978891 Points: 4 # Comments: 0",
-    "category": "models",
-    "id": 27
-  },
-  {
-    "title": "AI Will Create Jobs",
-    "url": "https://geohot.github.io//blog/jekyll/update/2026/05/01/ai-will-create-jobs.html",
-    "source": "Hacker News",
-    "date": "2026-05-01",
-    "summary": "Article URL: https://geohot.github.io//blog/jekyll/update/2026/05/01/ai-will-create-jobs.html Comments URL: https://news.ycombinator.com/item?id=47978880 Points: 3 # Comments: 0",
-    "category": "industry",
-    "id": 28
-  },
-  {
-    "title": "Aeon – an autonomous AI hedge fund research assistant",
-    "url": "https://github.com/akshaylakkur/AEON",
-    "source": "Hacker News",
-    "date": "2026-05-01",
-    "summary": "Article URL: https://github.com/akshaylakkur/AEON Comments URL: https://news.ycombinator.com/item?id=47978829 Points: 1 # Comments: 0",
-    "category": "research",
-    "image": "https://opengraph.githubassets.com/314155dbe47593f68c6784d7b1416f7ab7776b529977e13e04142468b317a8f8/akshaylakkur/AEON",
-    "id": 29
-  },
-  {
-    "title": "AI predictions in the movie Electric Dreams (1984)",
-    "url": "https://medium.com/@tk512/the-ai-predictions-in-the-movie-electric-dreams-1984-0c6a47a6326e",
-    "source": "Hacker News",
-    "date": "2026-05-01",
-    "summary": "Article URL: https://medium.com/@tk512/the-ai-predictions-in-the-movie-electric-dreams-1984-0c6a47a6326e Comments URL: https://news.ycombinator.com/item?id=47978749 Points: 2 # Comments: 0",
-    "category": "industry",
-    "id": 30
-  },
-  {
-    "title": "I wrote a beginner friendly guide to integrating AI into projects",
-    "url": "https://www.amazon.co.uk/Building-AI-Developers-Guide-Integrating-ebook/dp/B0GX3B3MV1",
-    "source": "Hacker News",
-    "date": "2026-05-01",
-    "summary": "Article URL: https://www.amazon.co.uk/Building-AI-Developers-Guide-Integrating-ebook/dp/B0GX3B3MV1 Comments URL: https://news.ycombinator.com/item?id=47978353 Points: 2 # Comments: 1",
-    "category": "tools",
-    "id": 31
-  },
-  {
-    "title": "Ask HN: Where is my UX after all those billions spent on LLM codegen?",
-    "url": "https://news.ycombinator.com/item?id=47978130",
-    "source": "Hacker News",
-    "date": "2026-05-01",
-    "summary": "today is may 2026. all my apps are up to date. all the SaaS I use are up to date by definition. so where is the promised LLM software revolution? all those super-on-steroids productivity boosts — wher...",
-    "category": "models",
-    "id": 32
+    "image": "https://wp.technologyreview.com/wp-content/uploads/2026/05/AP26118555311492.jpg?resize=1200,600",
+    "id": 35
   },
   {
     "title": "Cyber-Insecurity in the AI Era",
@@ -319,7 +352,7 @@
     "summary": "Cybersecurity was already under strain before AI entered the stack. Now, as AI expands the attack surface and adds new complexity, the limits of legacy approaches are becoming harder to ignore. This s...",
     "category": "industry",
     "image": "https://wp.technologyreview.com/wp-content/uploads/2026/05/BP0A9302.jpg?resize=1200,600",
-    "id": 33
+    "id": 36
   },
   {
     "title": "Operationalizing AI for Scale and Sovereignty",
@@ -329,7 +362,7 @@
     "summary": "Companies are taking control of their own data to tailor AI for their needs. The challenge lies in balancing ownership with the safe, trusted flow of high‑quality data needed to power reliable insight...",
     "category": "industry",
     "image": "https://wp.technologyreview.com/wp-content/uploads/2026/05/BP0A8304.jpg?resize=1200,600",
-    "id": 34
+    "id": 37
   },
   {
     "title": "The Download: a new Christian phone network, and debugging LLMs",
@@ -339,7 +372,7 @@
     "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. A new US phone network for Christians aims to block porn and g...",
     "category": "models",
     "image": "https://wp.technologyreview.com/wp-content/uploads/2026/05/radiant-phone2.webp?resize=1200,600",
-    "id": 35
+    "id": 38
   },
   {
     "title": "Trump’s mass firing just dealt another blow to American science",
@@ -349,17 +382,7 @@
     "summary": "This past week delivered another gut punch for science in the US. This time, the target was the National Science Foundation—a federal agency that funds major research projects to the tune of around $9...",
     "category": "research",
     "image": "https://wp.technologyreview.com/wp-content/uploads/2026/04/nsf-funding2.jpg?resize=1200,600",
-    "id": 36
-  },
-  {
-    "title": "A Dark-Money Campaign Is Paying Influencers to Frame Chinese AI as a Threat",
-    "url": "https://www.wired.com/story/super-pac-backed-by-openai-and-palantir-is-paying-tiktok-influencers-to-fear-monger-about-china/",
-    "source": "Wired",
-    "date": "2026-05-01",
-    "summary": "Build American AI, a nonprofit linked to a super PAC bankrolled by executives at OpenAI and Andreessen Horowitz, is funding a campaign to spread pro-AI messaging and stoke fears about China.",
-    "category": "industry",
-    "image": "https://media.wired.com/photos/69f14b40d98ff026bfabf317/191:100/w_1280,c_limit/Made-In-China-Super-PAC-Backed-By-OpenAI-Palantir-Paying-TikTok-Influencers-Business.jpg",
-    "id": 37
+    "id": 39
   },
   {
     "title": "How Shivon Zilis Operated as Elon Musk’s OpenAI Insider",
@@ -369,7 +392,7 @@
     "summary": "Messages presented at trial reveal how Zilis, the mother of four of Musk’s children, acted as an intermediary between him and OpenAI.",
     "category": "industry",
     "image": "https://media.wired.com/photos/69f3d20465348cc78c80dfb1/191:100/w_1280,c_limit/Model-Behavior-Why-Everything-in-Musk-v-Altman-Leads-Back-to-Shivon-Zelis-Business-2258844337.jpg",
-    "id": 38
+    "id": 40
   },
   {
     "title": "Compositional Meta-Learning for Mitigating Task Heterogeneity in Physics-Informed Neural Networks",
@@ -378,7 +401,7 @@
     "date": "2026-05-01",
     "summary": "Physics-informed neural networks (PINNs) approximate solutions of partial differential equations (PDEs) by embedding physical laws into the loss function. In parameterized PDE families, variations in ...",
     "category": "models",
-    "id": 39
+    "id": 41
   },
   {
     "title": "Binary Spiking Neural Networks as Causal Models",
@@ -387,7 +410,7 @@
     "date": "2026-05-01",
     "summary": "We provide a causal analysis of Binary Spiking Neural Networks (BSNNs) to explain their behavior. We formally define a BSNN and represent its spiking activity as a binary causal model. Thanks to this ...",
     "category": "hardware",
-    "id": 40
+    "id": 42
   },
   {
     "title": "When Your LLM Reaches End-of-Life: A Framework for Confident Model Migration in Production Systems",
@@ -396,7 +419,7 @@
     "date": "2026-05-01",
     "summary": "We present a framework for migrating production Large Language Model (LLM) based systems when the underlying model reaches end-of-life or requires replacement. The key contribution is a Bayesian stati...",
     "category": "models",
-    "id": 41
+    "id": 43
   },
   {
     "title": "End-to-end autonomous scientific discovery on a real optical platform",
@@ -405,7 +428,7 @@
     "date": "2026-05-01",
     "summary": "Scientific research has long been human-led, driving new knowledge and transformative technologies through the continual revision of questions, methods and claims as evidence accumulates. Although lar...",
     "category": "models",
-    "id": 42
+    "id": 44
   },
   {
     "title": "Think it, Run it: Autonomous ML pipeline generation via self-healing multi-agent AI",
@@ -414,7 +437,7 @@
     "date": "2026-05-01",
     "summary": "The purpose of our paper is to develop a unified multi-agent architecture that automates end-to-end machine learning (ML) pipeline generation from datasets and natural-language (NL) goals, improving e...",
     "category": "research",
-    "id": 43
+    "id": 45
   },
   {
     "title": "Unsupervised Electrofacies Classification and Porosity Characterization in the Offshore Keta Basin Using Wireline Logs",
@@ -423,7 +446,7 @@
     "date": "2026-05-01",
     "summary": "This study presents an unsupervised machine learning workflow for electrofacies analysis in the offshore Keta Basin, Ghana, where core data are scarce. Six standard wireline logs from Well~C were anal...",
     "category": "research",
-    "id": 44
+    "id": 46
   },
   {
     "title": "TRUST: A Framework for Decentralized AI Service v.0.1",
@@ -432,7 +455,7 @@
     "date": "2026-05-01",
     "summary": "Large Reasoning Models (LRMs) and Multi-Agent Systems (MAS) in high-stakes domains demand reliable verification, yet centralized approaches suffer four limitations: (1) Robustness, with single points ...",
     "category": "research",
-    "id": 45
+    "id": 47
   },
   {
     "title": "Unpacking Vibe Coding: Help-Seeking Processes in Student-AI Interactions While Programming",
@@ -441,7 +464,7 @@
     "date": "2026-05-01",
     "summary": "Generative AI is reshaping higher education programming through vibe coding, where students collaborate with AI via natural language rather than writing code line-by-line. We conceptualize this practi...",
     "category": "industry",
-    "id": 46
+    "id": 48
   },
   {
     "title": "Optimal Stop-Loss and Take-Profit Parameterization for Autonomous Trading Agent Swarm",
@@ -450,7 +473,7 @@
     "date": "2026-05-01",
     "summary": "Autonomous crypto trading systems often spend most of their design effort on finding entries, while exits are left to fixed rules that are rarely tested in a systematic way. This paper examines whethe...",
     "category": "research",
-    "id": 47
+    "id": 49
   },
   {
     "title": "Step-level Optimization for Efficient Computer-use Agents",
@@ -459,24 +482,6 @@
     "date": "2026-05-01",
     "summary": "Computer-use agents provide a promising path toward general software automation because they can interact directly with arbitrary graphical user interfaces instead of relying on brittle, application-s...",
     "category": "research",
-    "id": 48
-  },
-  {
-    "title": "Interval Orders, Biorders and Credibility-limited Belief Revision",
-    "url": "https://arxiv.org/abs/2604.27156",
-    "source": "arXiv cs.AI",
-    "date": "2026-05-01",
-    "summary": "Rational belief revision is commonly viewed as being based on a preference order between possible worlds, with the resulting new belief set being those sentences true in all the most preferred models ...",
-    "category": "hardware",
-    "id": 49
-  },
-  {
-    "title": "Evaluating TabPFN for Mild Cognitive Impairment to Alzheimer's Disease Conversion in Data Limited Settings",
-    "url": "https://arxiv.org/abs/2604.27195",
-    "source": "arXiv cs.AI",
-    "date": "2026-05-01",
-    "summary": "Accurate prediction of conversion from Mild Cognitive Impairment (MCI) to Alzheimers Diseases (AD) is essential for early intervention, however, developing reliable conversion predictive models is dif...",
-    "category": "models",
     "id": 50
   }
 ]
