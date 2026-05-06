@@ -1,5 +1,25 @@
 [
   {
+    "title": "5 gardening tips you can try right in Search",
+    "url": "https://blog.google/products-and-platforms/products/search/gardening-tips/",
+    "source": "Google AI Blog",
+    "date": "2026-05-06",
+    "summary": "We’ve rounded up the top ways you can use Google’s AI Mode, Search Live and Shopping to help your plants thrive.",
+    "category": "industry",
+    "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/01-Google_Gardening_Header.max-600x600.format-webp.webp",
+    "id": 1,
+    "featured": true
+  },
+  {
+    "title": "How frontier enterprises are building an AI advantage",
+    "url": "https://openai.com/index/introducing-b2b-signals",
+    "source": "OpenAI Blog",
+    "date": "2026-05-06",
+    "summary": "OpenAI’s B2B Signals research shows how frontier enterprises deepen AI adoption, scale Codex-powered agentic workflows, and build durable competitive advantage.",
+    "category": "research",
+    "id": 2
+  },
+  {
     "title": "NVIDIA Spectrum-X — the Open, AI-Native Ethernet Fabric — Sets the Standard for Gigascale AI, Now With MRC",
     "url": "https://blogs.nvidia.com/blog/spectrum-x-ethernet-mrc/",
     "source": "NVIDIA Blog",
@@ -7,8 +27,17 @@
     "summary": "The race to build the world’s most powerful AI factories demands networking that keeps pace with the ambitions of AI itself. NVIDIA Spectrum-X Ethernet scale-out infrastructure stands at the forefront...",
     "category": "hardware",
     "image": "https://blogs.nvidia.com/wp-content/uploads/2026/05/ethernet-press-spectrum-x-corp-blog-1920x1080-1.jpg",
-    "id": 1,
-    "featured": true
+    "id": 3
+  },
+  {
+    "title": "Survey shows that nearly half of Americans don't want new data centers built near their homes — 47% oppose the construction of new AI data centers in their neighborhood",
+    "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/survey-shows-that-nearly-half-of-americans-dont-want-new-data-centers-built-near-their-homes-47-percent-oppose-the-construction-of-new-ai-data-centers-in-their-neighborhood",
+    "source": "Tom's Hardware",
+    "date": "2026-05-06",
+    "summary": "According to a new survey conducted by Ipsos at the end of last year, almost half of all queried Americans said they would oppose an AI data center being built near their community.",
+    "category": "hardware",
+    "image": "https://cdn.mos.cms.futurecdn.net/Mmp3MeVfMAxqZQ3Z9geEz4-1280-80.jpg",
+    "id": 4
   },
   {
     "title": "AMD to broaden and specialize EPYC CPUs, already working on Zen 7 architecture — increased customization to better address evolving AI and cloud needs",
@@ -18,7 +47,7 @@
     "summary": "AMD plans to expand its portfolio of CPUs for data centers that will be targeted at different workloads.",
     "category": "hardware",
     "image": "https://cdn.mos.cms.futurecdn.net/Xv8aggMZhYWEmA5ttPHdHh-1280-80.png",
-    "id": 2
+    "id": 5
   },
   {
     "title": "SpaceX files for $55 billion semiconductor fab in rural Texas for Musk's Terafab — total chipmaking fab investment could reach $119 billion",
@@ -28,7 +57,7 @@
     "summary": "The capital figures in this filing far exceed what was disclosed when Elon Musk announced Terafab in March, where the project carried a $20 billion price tag.",
     "category": "hardware",
     "image": "https://cdn.mos.cms.futurecdn.net/PoCxHQ8gKEscb2NWQov7wZ-1280-80.png",
-    "id": 3
+    "id": 6
   },
   {
     "title": "Apple quietly axes 128GB Mac Studio amid supply constraints and local AI frenzy — highest memory capacity reduced to 96GB, two months after discontinuation of 512GB model",
@@ -38,7 +67,7 @@
     "summary": "Apple quietly pulls high Unified Memory capacity Mac Studios and Mac minis from the Apple store as the memory crunch continues to affect consumer products.",
     "category": "hardware",
     "image": "https://cdn.mos.cms.futurecdn.net/fALMqW5ck4pECmvw7XTXNS-1280-80.jpg",
-    "id": 4
+    "id": 7
   },
   {
     "title": "AMD posts record first-quarter results, driven by skyrocketing data center CPU demand — company expects consumer andgaming revenue to decline in Q2 over rising memory and component costs",
@@ -48,7 +77,7 @@
     "summary": "AMD sets record data center revenue as demand for CPUs from the AI sector skyrockets and is poised to increase even further as agentic AI gains momentum.",
     "category": "hardware",
     "image": "https://cdn.mos.cms.futurecdn.net/b6AWuqaDHTv9ZS4ZpfqZNV-1280-80.png",
-    "id": 5
+    "id": 8
   },
   {
     "title": "Global semiconductor sales hit nearly $300 billion in Q1 2026 — chips are on track to top $1 trillion for this year, says report",
@@ -58,7 +87,7 @@
     "summary": "Sales of chips in Q1 2026 hit $298.5 billion and are on track to exceed $1 trillion this year, according to the Semiconductor Industry Association.",
     "category": "hardware",
     "image": "https://cdn.mos.cms.futurecdn.net/oZ82RyoRPstu3RQsYtkB7M-1280-80.jpg",
-    "id": 6
+    "id": 9
   },
   {
     "title": "Google Chrome 'silently' downloads 4GB AI model to your device without permission, report claims — researcher says practice may violate EU law, waste thousands of kilowatts of energy",
@@ -68,7 +97,7 @@
     "summary": "Security researcher says that Google is likely in violation of EU law and wasting thousands upon thousands of kilowatts.",
     "category": "research",
     "image": "https://cdn.mos.cms.futurecdn.net/vvv86h5qSVRzov9gfNgdoj-1280-80.jpg",
-    "id": 7
+    "id": 10
   },
   {
     "title": "Denmark presses pause on new data center grid connections as total requests hit 60 GW — Nordic nation is the latest to put the brakes on AI buildouts",
@@ -78,7 +107,7 @@
     "summary": "Denmark's Energinet grid operator has pressed pause on new connection requests in the country as potential new data centers and other installations put total demands of up to 60 GW on its docket.",
     "category": "hardware",
     "image": "https://cdn.mos.cms.futurecdn.net/rhNoeoSe4dfRJcHFM2sFsb-1280-80.jpg",
-    "id": 8
+    "id": 11
   },
   {
     "title": "Microsoft says 'Transformation Paradox' holding back AI adoption in the workplace — 45% of respondents say it's safer to focus on current goals, rather than AI innovation",
@@ -88,7 +117,47 @@
     "summary": "Microsoft's study says that it's not just enough to give employees access to AI tools for them to make the most of it. Instead, they should revamp their processes and systems to integrate AI use from ...",
     "category": "research",
     "image": "https://cdn.mos.cms.futurecdn.net/Mr3kkbMgc4ZXJ2sCAMeRVP-1280-80.png",
-    "id": 9
+    "id": 12
+  },
+  {
+    "title": "Google updates AI search to include ‘expert advice’ from Reddit and other web forums",
+    "url": "https://techcrunch.com/2026/05/06/google-updates-ai-search-to-include-expert-advice-from-reddit-and-other-web-forums/",
+    "source": "TechCrunch",
+    "date": "2026-05-06",
+    "summary": "While citing web forums and discussion boards can help users find answers to more niche queries, this design choice could also prove chaotic.",
+    "category": "industry",
+    "image": "https://techcrunch.com/wp-content/uploads/2026/02/google-logo.jpg?resize=1200,800",
+    "id": 13
+  },
+  {
+    "title": "Khosla-backed robotics startup Genesis AI has gone full-stack, demo shows",
+    "url": "https://techcrunch.com/2026/05/06/khosla-backed-robotics-startup-genesis-ai-has-gone-full-stack-demo-shows/",
+    "source": "TechCrunch",
+    "date": "2026-05-06",
+    "summary": "Genesis AI, a startup that raised a $105 million seed round to build foundational AI for robotics, has unveiled its first model, GENE-26.5, but also a demo showcasing a set of robotic hands performing...",
+    "category": "industry",
+    "image": "https://techcrunch.com/wp-content/uploads/2026/05/Genesis-AI-Rubiks-Cube-Solve-A-Cam.jpg?resize=1200,675",
+    "id": 14
+  },
+  {
+    "title": "Tinder owner Match Group is slowing hiring to pay for its increased use of AI tools",
+    "url": "https://techcrunch.com/2026/05/06/tinder-owner-match-group-is-slowing-hiring-to-pay-for-its-increased-use-of-ai-tools/",
+    "source": "TechCrunch",
+    "date": "2026-05-06",
+    "summary": "Match Group said that it's slowing its hiring plans for the rest of the year because AI tools \"cost a lot of money.\"",
+    "category": "tools",
+    "image": "https://techcrunch.com/wp-content/uploads/2019/09/tinder-icon-ios.jpg?resize=1200,674",
+    "id": 15
+  },
+  {
+    "title": "Apple to pay $250M to settle lawsuit over Siri’s delayed AI features",
+    "url": "https://techcrunch.com/2026/05/06/apple-to-pay-250m-to-settle-lawsuit-over-siris-delayed-ai-features/",
+    "source": "TechCrunch",
+    "date": "2026-05-06",
+    "summary": "Apple has agreed to pay $250 million to settle a class action lawsuit for overpromising the arrival of Siri's AI features.",
+    "category": "industry",
+    "image": "https://techcrunch.com/wp-content/uploads/2025/06/apple-on-phone.jpg?resize=1200,800",
+    "id": 16
   },
   {
     "title": "AI boom pushes Samsung to $1T",
@@ -98,210 +167,217 @@
     "summary": "Samsung crossed the $1 trillion valuation mark after shares surged on AI-driven chip demand, making it only the second Asian company after TSMC to hit the milestone.",
     "category": "hardware",
     "image": "https://techcrunch.com/wp-content/uploads/2024/05/Samsung-logo.webp?resize=1200,799",
-    "id": 10
+    "id": 17
   },
   {
     "title": "Peter Sarlin’s QuTwo reaches $380M valuation in angel round",
     "url": "https://techcrunch.com/2026/05/05/peter-sarlins-qutwo-reaches-380m-valuation-in-angel-round/",
     "source": "TechCrunch",
     "date": "2026-05-06",
-    "summary": "QyTw0, the Finnish AI lab founded by former AMD Silo AI CEO Peter Sarlin, is now valued at €325 million (approximately $380 million) after raising a €25 million angel round ($29 million). It's a sign ...",
+    "summary": "QuTwo, the Finnish AI lab founded by former AMD Silo AI CEO Peter Sarlin, is now valued at €325 million (approximately $380 million) after raising a €25 million angel round ($29 million). It's a sign ...",
     "category": "industry",
     "image": "https://techcrunch.com/wp-content/uploads/2026/05/GettyImages-2174694558.jpg?resize=1200,800",
-    "id": 11
+    "id": 18
   },
   {
-    "title": "Marc Lore says that AI will soon enable anyone open a restaurant",
+    "title": "Marc Lore says that AI will soon enable anyone to open a restaurant",
     "url": "https://techcrunch.com/2026/05/05/marc-lore-says-that-ai-will-soon-enable-anyone-open-a-restaurant/",
     "source": "TechCrunch",
     "date": "2026-05-06",
     "summary": "Wonder wants to turn its robotic kitchens into AI-powered “restaurant factories,” letting anyone spin up a virtual food brand with a prompt.",
     "category": "industry",
     "image": "https://techcrunch.com/wp-content/uploads/2026/05/marc-lore-wonder.jpg?resize=1200,672",
-    "id": 12
-  },
-  {
-    "title": "Qbeast 0.6: Multi-cloud SaaS, AI-native access, and faster queries",
-    "url": "https://qbeast.io/blogs/qbeast-0-6-multi-cloud-saas-ai-native-access-and-faster-queries",
-    "source": "Hacker News",
-    "date": "2026-05-06",
-    "summary": "Article URL: https://qbeast.io/blogs/qbeast-0-6-multi-cloud-saas-ai-native-access-and-faster-queries Comments URL: https://news.ycombinator.com/item?id=48036571 Points: 1 # Comments: 2",
-    "category": "industry",
-    "id": 13
-  },
-  {
-    "title": "AI Needs Better Metaphors",
-    "url": "https://metedata.substack.com/p/011-ai-needs-better-metaphors",
-    "source": "Hacker News",
-    "date": "2026-05-06",
-    "summary": "Article URL: https://metedata.substack.com/p/011-ai-needs-better-metaphors Comments URL: https://news.ycombinator.com/item?id=48036566 Points: 1 # Comments: 0",
-    "category": "industry",
-    "id": 14
-  },
-  {
-    "title": "Show HN: HideMyData – macOS PII Removal with Local AI and OCR",
-    "url": "https://github.com/mkbula/HideMyData",
-    "source": "Hacker News",
-    "date": "2026-05-06",
-    "summary": "Article URL: https://github.com/mkbula/HideMyData Comments URL: https://news.ycombinator.com/item?id=48036468 Points: 1 # Comments: 0",
-    "category": "industry",
-    "image": "https://opengraph.githubassets.com/2ac6aa0b0ddb12fa675af4b686e705e25c61a223af16e91f4717dd1d59944d97/mkbula/HideMyData",
-    "id": 15
-  },
-  {
-    "title": "Major publishers sue Meta for copyright infringement over AI training",
-    "url": "https://www.theguardian.com/technology/2026/may/05/publishers-sue-meta-copyright-ai",
-    "source": "Hacker News",
-    "date": "2026-05-06",
-    "summary": "Article URL: https://www.theguardian.com/technology/2026/may/05/publishers-sue-meta-copyright-ai Comments URL: https://news.ycombinator.com/item?id=48036463 Points: 2 # Comments: 0",
-    "category": "industry",
-    "image": "https://i.guim.co.uk/img/media/7cd8e9afaac5ea90e11a18a60c74d6b31d95f4e0/1140_725_5976_4779/master/5976.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=ece216ec6cbc2239195b829f2f6570e5",
-    "id": 16
-  },
-  {
-    "title": "Show HN: MetaLens – Observability and AI agents on top of Metabase",
-    "url": "https://metalens.it",
-    "source": "Hacker News",
-    "date": "2026-05-06",
-    "summary": "Article URL: https://metalens.it Comments URL: https://news.ycombinator.com/item?id=48036342 Points: 2 # Comments: 0",
-    "category": "industry",
-    "image": "https://metalens.it/screenshots/xray-scan.png",
-    "id": 17
-  },
-  {
-    "title": "Show HN: Recursant – an open source mesh platform for governing AI agents",
-    "url": "https://www.recursant.ai/",
-    "source": "Hacker News",
-    "date": "2026-05-06",
-    "summary": "Hello, I have just released Recursant to the public. I have been working on it for a while. It is a control plane for governing AI agents across stacks. It provides full observability, guardrails, and...",
-    "category": "industry",
-    "id": 18
-  },
-  {
-    "title": "Engineering message appends for AI transport: three vignettes",
-    "url": "https://ably.com/blog/engineering-message-appends-for-ai-transport-three-vignettes",
-    "source": "Hacker News",
-    "date": "2026-05-06",
-    "summary": "Article URL: https://ably.com/blog/engineering-message-appends-for-ai-transport-three-vignettes Comments URL: https://news.ycombinator.com/item?id=48036324 Points: 1 # Comments: 0",
-    "category": "industry",
-    "image": "https://files.ably.io/ghost/prod/2026/05/appends.webp",
     "id": 19
   },
   {
-    "title": "Meet the academics refusing to use generative AI",
-    "url": "https://www.nature.com/articles/d41586-026-00508-w",
+    "title": "Reviewing in the Age of AI",
+    "url": "https://news.ycombinator.com/item?id=48038079",
     "source": "Hacker News",
     "date": "2026-05-06",
-    "summary": "Article URL: https://www.nature.com/articles/d41586-026-00508-w Comments URL: https://news.ycombinator.com/item?id=48036295 Points: 2 # Comments: 2",
+    "summary": "How are you guys ensuring that the code that goes into production is high quality now that the time to review code is significantly greater than the time to generate it. There is a huge asymmetry betw...",
     "category": "industry",
-    "image": "https://media.nature.com/lw1200/magazine-assets/d41586-026-00508-w/d41586-026-00508-w_52359090.jpg",
     "id": 20
   },
   {
-    "title": "AI Harness by Purista in TypeScript",
-    "url": "https://github.com/puristajs/harness",
+    "title": "Google Ending Workspace AI Ultra Access",
+    "url": "https://knowledge.workspace.google.com/admin/gemini/ai-ultra-access",
     "source": "Hacker News",
     "date": "2026-05-06",
-    "summary": "Article URL: https://github.com/puristajs/harness Comments URL: https://news.ycombinator.com/item?id=48036229 Points: 1 # Comments: 0",
-    "category": "industry",
-    "image": "https://opengraph.githubassets.com/339d6f518113de058636c55c3272f8511303e67c348a5abe962eff1a49138afd/puristajs/harness",
+    "summary": "Article URL: https://knowledge.workspace.google.com/admin/gemini/ai-ultra-access Comments URL: https://news.ycombinator.com/item?id=48038065 Points: 3 # Comments: 2",
+    "category": "models",
     "id": 21
   },
   {
-    "title": "Character.ai sued over chatbot that claims to be a real doctor with a license",
-    "url": "https://arstechnica.com/tech-policy/2026/05/character-ai-sued-over-chatbot-that-claims-to-be-a-real-doctor-with-a-license/",
+    "title": "How AI Benchmarks Work – and When Scores Mislead",
+    "url": "https://agent-benchmarks.com/",
     "source": "Hacker News",
     "date": "2026-05-06",
-    "summary": "Article URL: https://arstechnica.com/tech-policy/2026/05/character-ai-sued-over-chatbot-that-claims-to-be-a-real-doctor-with-a-license/ Comments URL: https://news.ycombinator.com/item?id=48036228 Poin...",
-    "category": "industry",
-    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/05/robot-hand-stethoscope-1152x648-1778013526.jpg",
+    "summary": "Article URL: https://agent-benchmarks.com/ Comments URL: https://news.ycombinator.com/item?id=48038037 Points: 2 # Comments: 0",
+    "category": "models",
     "id": 22
   },
   {
-    "title": "Show HN: Docker AI Stack, self-hosted LLM/STT/TTS/MCP in one compose file",
-    "url": "https://github.com/hwdsl2/docker-ai-stack",
+    "title": "Creators of Grok, the AI Chatbot",
+    "url": "https://x.ai/news/anthropic-compute-partnership",
     "source": "Hacker News",
     "date": "2026-05-06",
-    "summary": "Article URL: https://github.com/hwdsl2/docker-ai-stack Comments URL: https://news.ycombinator.com/item?id=48036128 Points: 1 # Comments: 0",
+    "summary": "Article URL: https://x.ai/news/anthropic-compute-partnership Comments URL: https://news.ycombinator.com/item?id=48037958 Points: 4 # Comments: 1",
     "category": "models",
-    "image": "https://opengraph.githubassets.com/8a271165d4957011e6d17bdd342a64bf070a552013b5c5b3f1634c007c3d9d93/hwdsl2/docker-ai-stack",
     "id": 23
   },
   {
-    "title": "What AI-Ready Means for a 20-Person Company",
-    "url": "https://saas-glue.com/blog/ai-ready-small-business/",
+    "title": "Canadian fiddler sues Google after AI Overview claimed he was a sex offender",
+    "url": "https://www.theguardian.com/music/2026/may/05/canadian-ashley-macisaac-fiddler-musician-singer-songwriter-sues-google-ai-sex-offender-ntwnfb",
     "source": "Hacker News",
     "date": "2026-05-06",
-    "summary": "Article URL: https://saas-glue.com/blog/ai-ready-small-business/ Comments URL: https://news.ycombinator.com/item?id=48036111 Points: 2 # Comments: 1",
+    "summary": "Article URL: https://www.theguardian.com/music/2026/may/05/canadian-ashley-macisaac-fiddler-musician-singer-songwriter-sues-google-ai-sex-offender-ntwnfb Comments URL: https://news.ycombinator.com/ite...",
     "category": "industry",
+    "image": "https://i.guim.co.uk/img/media/4642f2ca4299ccec57c56b3c44dc41ddb56a21cd/89_0_2219_1776/master/2219.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=c8292fc5b88fd133a4c0d1074c7057dc",
     "id": 24
   },
   {
-    "title": "Show HN: HomeButler – A narrow ops interface for AI agents and homelabs",
-    "url": "https://homebutler.dev/",
+    "title": "Israel's AI targeting system: How data from a phone become a death sentence",
+    "url": "https://www.latimes.com/world-nation/story/2026-05-04/inside-israels-ai-targeting-system-how-data-from-phone-become-death-sentence",
     "source": "Hacker News",
     "date": "2026-05-06",
-    "summary": "Article URL: https://homebutler.dev/ Comments URL: https://news.ycombinator.com/item?id=48036001 Points: 3 # Comments: 0",
+    "summary": "Article URL: https://www.latimes.com/world-nation/story/2026-05-04/inside-israels-ai-targeting-system-how-data-from-phone-become-death-sentence Comments URL: https://news.ycombinator.com/item?id=48037...",
     "category": "industry",
+    "image": "https://ca-times.brightspotcdn.com/dims4/default/2b5a390/2147483647/strip/true/crop/6015x3158+0+427/resize/1200x630!/quality/75/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2Faf%2F5f%2Fdbbf044c488da394716de14e67ea%2F2270407856.jpg",
     "id": 25
   },
   {
-    "title": "Silicon Valley bets $200M on AI data centers floating in the ocean",
-    "url": "https://arstechnica.com/ai/2026/05/silicon-valley-bets-on-floating-ai-data-centers-powered-by-ocean-waves/",
+    "title": "Show HN: AgentBrain – local-first Markdown/JSON vault for AI agents",
+    "url": "https://agentbrain.heroka.xyz",
     "source": "Hacker News",
     "date": "2026-05-06",
-    "summary": "Article URL: https://arstechnica.com/ai/2026/05/silicon-valley-bets-on-floating-ai-data-centers-powered-by-ocean-waves/ Comments URL: https://news.ycombinator.com/item?id=48035998 Points: 2 # Comments...",
-    "category": "hardware",
-    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/05/Panthalassa-ocean-computing-node-with-multiple-people-1152x648.jpg",
+    "summary": "Article URL: https://agentbrain.heroka.xyz Comments URL: https://news.ycombinator.com/item?id=48037841 Points: 1 # Comments: 0",
+    "category": "industry",
     "id": 26
   },
   {
-    "title": "KV Cache Locality: The Hidden Variable in Your LLM Serving Cost",
-    "url": "https://ranvier.systems/2026/04/30/kv-cache-locality-the-hidden-variable-in-your-llm-serving-cost.html",
+    "title": "Apples settles lawsuit about Siri AI, iPhone users can get $25-$95 each",
+    "url": "https://www.theverge.com/tech/924706/apple-iphone-siri-intelligence-class-action-lawsuit-settlement",
     "source": "Hacker News",
     "date": "2026-05-06",
-    "summary": "Article URL: https://ranvier.systems/2026/04/30/kv-cache-locality-the-hidden-variable-in-your-llm-serving-cost.html Comments URL: https://news.ycombinator.com/item?id=48035938 Points: 1 # Comments: 0",
-    "category": "models",
+    "summary": "Article URL: https://www.theverge.com/tech/924706/apple-iphone-siri-intelligence-class-action-lawsuit-settlement Comments URL: https://news.ycombinator.com/item?id=48037806 Points: 3 # Comments: 2",
+    "category": "hardware",
+    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25697397/STK071_APPLE_N.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
     "id": 27
   },
   {
-    "title": "Pitch-Pit – AI rates your startup idea, crowd votes, top one gets built",
-    "url": "https://pitchpit.app",
+    "title": "Creating an animated manga with GPT Image 2.0 and Claude Code",
+    "url": "https://groverburger.xyz/notes/2026-04-27-mangamotion/",
     "source": "Hacker News",
     "date": "2026-05-06",
-    "summary": "Article URL: https://pitchpit.app Comments URL: https://news.ycombinator.com/item?id=48035927 Points: 1 # Comments: 0",
-    "category": "industry",
-    "image": "https://pitch-pit.app/opengraph-image?30487a0e1966c148",
+    "summary": "Article URL: https://groverburger.xyz/notes/2026-04-27-mangamotion/ Comments URL: https://news.ycombinator.com/item?id=48037697 Points: 2 # Comments: 0",
+    "category": "models",
     "id": 28
   },
   {
-    "title": "Show HN: BattleClaws – A battle arena where AI agents fight autonomously",
-    "url": "https://battleclaws.ai/",
+    "title": "Show HN: Costanza – an autonomous AI agent that can't be turned off",
+    "url": "https://ahrussell.com/writing/costanza/",
     "source": "Hacker News",
     "date": "2026-05-06",
-    "summary": "Article URL: https://battleclaws.ai/ Comments URL: https://news.ycombinator.com/item?id=48035871 Points: 3 # Comments: 0",
-    "category": "industry",
+    "summary": "I've been working on this project for a couple of months! Costanza is an LLM agent that runs as a smart contract on Base. Each epoch, he posts a bounty for someone to run his \"brain\" (Hermes 4 70B) in...",
+    "category": "hardware",
     "id": 29
   },
   {
-    "title": "Proprietary Software, Hardware and Protocols Face AI-Driven Security Risk",
-    "url": "https://www.infosecurity-magazine.com/blogs/why-software-faces-ai-driven/",
+    "title": "Show HN: RelayFreeLLM – Free AI Gateway with Auto-Failover (Update))",
+    "url": "https://github.com/msmarkgu/RelayFreeLLM",
     "source": "Hacker News",
     "date": "2026-05-06",
-    "summary": "Article URL: https://www.infosecurity-magazine.com/blogs/why-software-faces-ai-driven/ Comments URL: https://news.ycombinator.com/item?id=48035848 Points: 7 # Comments: 0",
-    "category": "industry",
-    "image": "https://assets.infosecurity-magazine.com/webpage/og/c642e655-284e-4929-9705-fe7e55fc980e.jpg",
+    "summary": "Author here. Since the last post, RelayFreeLLM now supports NVIDIA's free catalog, adds 4-mode context management (with extractive summarization that doesn't need an LLM), session affinity, output nor...",
+    "category": "hardware",
+    "image": "https://opengraph.githubassets.com/40513155af3f4e6d6a2e0cc75c3263c230349fa331b10065b110b0308e3be12d/msmarkgu/RelayFreeLLM",
     "id": 30
   },
   {
-    "title": "Show HN: Arden – Runtime policy enforcement and governance for AI agents",
-    "url": "https://www.arden.sh/",
+    "title": "Show HN: Long-term memory for AI agents and teams, built with PostgreSQL",
+    "url": "https://github.com/simplyblock/postbrain",
     "source": "Hacker News",
     "date": "2026-05-06",
-    "summary": "Article URL: https://www.arden.sh/ Comments URL: https://news.ycombinator.com/item?id=48035817 Points: 4 # Comments: 3",
-    "category": "industry",
-    "image": "https://arden.sh/arden_dashboard.png",
+    "summary": "Hey folks! Over the past weeks, I started building a long-term memory for AI agents. While there are many around already, this one is specifically aimed at development teams. There are a few items whi...",
+    "category": "models",
+    "image": "https://opengraph.githubassets.com/9a449823906b80d91ca077de0faadb23fb8a7a81873cbc9997cc7894c29d9008/simplyblock/postbrain",
     "id": 31
+  },
+  {
+    "title": "Lessons from testing GPT and Gemini native audio models for voice agents",
+    "url": "https://deepsense.ai/blog/realtime-voice-ai-in-the-enterprise-overcoming-latency-with-native-audio-models/",
+    "source": "Hacker News",
+    "date": "2026-05-06",
+    "summary": "Article URL: https://deepsense.ai/blog/realtime-voice-ai-in-the-enterprise-overcoming-latency-with-native-audio-models/ Comments URL: https://news.ycombinator.com/item?id=48037460 Points: 1 # Comments...",
+    "category": "models",
+    "image": "https://deepsense.ai/wp-content/smush-webp/2026/04/okadka-voicebot.png.webp",
+    "id": 32
+  },
+  {
+    "title": "21 Days: A Founder Rebrand Compressed by AI",
+    "url": "https://itsbariscan.substack.com/p/21-days-a-founder-rebrand-compressed",
+    "source": "Hacker News",
+    "date": "2026-05-06",
+    "summary": "Article URL: https://itsbariscan.substack.com/p/21-days-a-founder-rebrand-compressed Comments URL: https://news.ycombinator.com/item?id=48037368 Points: 2 # Comments: 0",
+    "category": "industry",
+    "id": 33
+  },
+  {
+    "title": "Ctx – Do you remember? Persistent context for AI coding tools",
+    "url": "https://github.com/ActiveMemory/ctx",
+    "source": "Hacker News",
+    "date": "2026-05-06",
+    "summary": "Article URL: https://github.com/ActiveMemory/ctx Comments URL: https://news.ycombinator.com/item?id=48037347 Points: 1 # Comments: 0",
+    "category": "hardware",
+    "image": "https://repository-images.githubusercontent.com/1138059317/4ac67fcc-c98a-4c88-b162-25cc62239553",
+    "id": 34
+  },
+  {
+    "title": "Show HN: KubeRiva OMS – Open-source AI-native order management system",
+    "url": "https://github.com/KubeRiva/OMS",
+    "source": "Hacker News",
+    "date": "2026-05-06",
+    "summary": "Article URL: https://github.com/KubeRiva/OMS Comments URL: https://news.ycombinator.com/item?id=48037338 Points: 2 # Comments: 0",
+    "category": "industry",
+    "image": "https://opengraph.githubassets.com/a606084288a37b790bf9b36ea67a44c8d0afdc6e40fa570de16c96f492419224/KubeRiva/OMS",
+    "id": 35
+  },
+  {
+    "title": "Your craft is obsolete: WiseTech staff in limbo as AI touted better than humans",
+    "url": "https://www.theguardian.com/technology/2026/may/07/your-craft-is-obsolete-wisetech-staff-in-limbo-as-ai-touted-as-better-than-humans",
+    "source": "Hacker News",
+    "date": "2026-05-06",
+    "summary": "Article URL: https://www.theguardian.com/technology/2026/may/07/your-craft-is-obsolete-wisetech-staff-in-limbo-as-ai-touted-as-better-than-humans Comments URL: https://news.ycombinator.com/item?id=480...",
+    "category": "industry",
+    "image": "https://i.guim.co.uk/img/media/c154a26d6a5682febab92b6a19b11365e6734008/231_0_2585_2069/master/2585.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=33c4d2428178239c1b1571fe3d64aee7",
+    "id": 36
+  },
+  {
+    "title": "Agent Exchange – A2A discovery with real-time bidding for AI agents",
+    "url": "https://github.com/open-experiments/agent-exchange",
+    "source": "Hacker News",
+    "date": "2026-05-06",
+    "summary": "Article URL: https://github.com/open-experiments/agent-exchange Comments URL: https://news.ycombinator.com/item?id=48037303 Points: 3 # Comments: 0",
+    "category": "industry",
+    "image": "https://opengraph.githubassets.com/fbc482c687f386928a2a8f01c9705c67e260e5718f77f66d2717be5ca1edf79f/open-experiments/agent-exchange",
+    "id": 37
+  },
+  {
+    "title": "Ask HN: How are PMs keeping up with AI-accelerated engineering output?",
+    "url": "https://news.ycombinator.com/item?id=48037249",
+    "source": "Hacker News",
+    "date": "2026-05-06",
+    "summary": "With tools like Claude Code, Cursor, or Codex, engineers are shipping code faster than before. The bottleneck is no longer \"how fast can we build it\" but \"how fast can we spec it well enough to build ...",
+    "category": "tools",
+    "id": 38
+  },
+  {
+    "title": "Show HN: AgentArena – AI agents compete in real-time negotiation battles",
+    "url": "https://agentsarena.vercel.app/",
+    "source": "Hacker News",
+    "date": "2026-05-06",
+    "summary": "Article URL: https://agentsarena.vercel.app/ Comments URL: https://news.ycombinator.com/item?id=48037171 Points: 2 # Comments: 0",
+    "category": "industry",
+    "id": 39
   },
   {
     "title": "The Download: seafloor science and military chatbots",
@@ -311,17 +387,27 @@
     "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. Inexpensive seafloor-hopping submersibles could stoke deep-sea...",
     "category": "industry",
     "image": "https://wp.technologyreview.com/wp-content/uploads/2026/05/FD3C0ADB-581A-4E96-8A81-E339F9F312B5.webp?resize=1200,600",
-    "id": 32
+    "id": 40
   },
   {
-    "title": "Apple Will Pay $250 Million to Settle Lawsuit Over Siri's AI Features",
+    "title": "Hackers Hate AI Slop Even More Than You Do",
+    "url": "https://www.wired.com/story/cybercriminals-are-complaining-about-ai-slop-flooding-their-forums/",
+    "source": "Wired",
+    "date": "2026-05-06",
+    "summary": "It's not just you. Scammers, hackers, and other cybercriminals are complaining about “AI shit” flooding platforms where they discuss cyberattacks and other illegal activity.",
+    "category": "tools",
+    "image": "https://media.wired.com/photos/69fb5ce596ac6b501416fbb0/191:100/w_1280,c_limit/Security_EvenCybercriminalsAreAnnoyedbyAISlop_v2.jpg",
+    "id": 41
+  },
+  {
+    "title": "Apple Will Pay $250 Million to Settle Lawsuit Over Siri’s AI Features",
     "url": "https://www.wired.com/story/apple-will-pay-dollar250-million-to-settle-lawsuit-over-siris-ai-features/",
     "source": "Wired",
     "date": "2026-05-06",
     "summary": "If you bought an iPhone 15 or 16 in the US, you could be set to pocket up to $95 per device as part of the settlement.",
     "category": "industry",
     "image": "https://media.wired.com/photos/69fb0b751edc0624d26eda73/191:100/w_1280,c_limit/GettyImages-2260718787.jpg",
-    "id": 33
+    "id": 42
   },
   {
     "title": "Hasan Piker, Self-Described ‘Ayatollah of Woke,’ Wants AI to Die",
@@ -331,7 +417,7 @@
     "summary": "The far-left Twitch streamer says AI is rotting our brains. He’s also addicted to Twitter and listens to at least eight podcasts.",
     "category": "industry",
     "image": "https://media.wired.com/photos/69fa6c2e0a765f6f26cab129/191:100/w_1280,c_limit/HASAN-PIKER-RGB_Social.jpg",
-    "id": 34
+    "id": 43
   },
   {
     "title": "2026 Roadmap on Artificial Intelligence and Machine Learning for Smart Manufacturing",
@@ -340,7 +426,7 @@
     "date": "2026-05-06",
     "summary": "The evolution of artificial intelligence (AI) and machine learning (ML) is reshaping smart manufacturing by providing new capabilities for efficiency, adaptability, and autonomy across industrial valu...",
     "category": "models",
-    "id": 35
+    "id": 44
   },
   {
     "title": "AI Agents for Sustainable SMEs: A Green ESG Assessment Framework",
@@ -349,7 +435,7 @@
     "date": "2026-05-06",
     "summary": "This study presents a novel, AI-driven framework for assessing Environmental, Social, and Governance (ESG) performance in European small and medium-sized enterprises (SMEs). An initial phase establish...",
     "category": "models",
-    "id": 36
+    "id": 45
   },
   {
     "title": "Understanding Emergent Misalignment via Feature Superposition Geometry",
@@ -358,7 +444,7 @@
     "date": "2026-05-06",
     "summary": "Emergent misalignment, where fine-tuning on narrow, non-harmful tasks induces harmful behaviors, poses a key challenge for AI safety in LLMs. Despite growing empirical evidence, its underlying mechani...",
     "category": "research",
-    "id": 37
+    "id": 46
   },
   {
     "title": "ClinicBot: A Guideline-Grounded Clinical Chatbot with Prioritized Evidence RAG and Verifiable Citations",
@@ -367,7 +453,7 @@
     "date": "2026-05-06",
     "summary": "Clinical diagnosis requires answers that are accurate, verifiable, and explicitly grounded in official guidelines. While large language models excel at natural language processing, their tendency to h...",
     "category": "research",
-    "id": 38
+    "id": 47
   },
   {
     "title": "Accelerating battery research with an AI interface between FINALES and Kadi4Mat",
@@ -376,7 +462,7 @@
     "date": "2026-05-06",
     "summary": "The time-consuming formation process critically impacts the longevity of sodium-ion coin cells and End Of Life (EOL) performance. This study aims to optimize formation protocols for duration efficienc...",
     "category": "research",
-    "id": 39
+    "id": 48
   },
   {
     "title": "Effect-Transparent Governance for AI Workflow Architectures: Semantic Preservation, Expressive Minimality, and Decidability Boundaries",
@@ -385,7 +471,7 @@
     "date": "2026-05-06",
     "summary": "We present a machine-checked formalization of structurally governed AI workflow architectures and prove that effect-level governance can be imposed without reducing internal computational expressivity...",
     "category": "models",
-    "id": 40
+    "id": 49
   },
   {
     "title": "Algebraic Semantics of Governed Execution: Monoidal Categories, Effect Algebras, and Coterminous Boundaries",
@@ -393,87 +479,6 @@
     "source": "arXiv cs.AI",
     "date": "2026-05-06",
     "summary": "We present an algebraic semantics for governed execution in which governance is axiomatized, compositional, and coterminous with expressibility. The framework, mechanized in 32 Rocq modules (~12,000 l...",
-    "category": "research",
-    "id": 41
-  },
-  {
-    "title": "A Knowledge-Driven LLM-Based Decision-Support System for Explainable Defect Analysis and Mitigation Guidance in Laser Powder Bed Fusion",
-    "url": "https://arxiv.org/abs/2605.01100",
-    "source": "arXiv cs.AI",
-    "date": "2026-05-06",
-    "summary": "This work presents a knowledge-driven decision-support system that integrates structured defect knowledge with LLM-based reasoning to provide explainable defect diagnosis and mitigation guidance in ma...",
-    "category": "research",
-    "id": 42
-  },
-  {
-    "title": "Virtual Speech Therapist: A Clinician-in-the-Loop AI Speech Therapy Agent for Personalized and Supervised Therapy",
-    "url": "https://arxiv.org/abs/2605.01101",
-    "source": "arXiv cs.AI",
-    "date": "2026-05-06",
-    "summary": "This paper develops Virtual Speech Therapist (VST), an intelligent agent-based platform that streamlines stuttering assessment and delivers customized therapy planning through automated and adaptive A...",
-    "category": "research",
-    "id": 43
-  },
-  {
-    "title": "Towards Multi-Agent Autonomous Reasoning in Hydrodynamics",
-    "url": "https://arxiv.org/abs/2605.01102",
-    "source": "arXiv cs.AI",
-    "date": "2026-05-06",
-    "summary": "Single-agent systems (SAS) have become the default pattern for LLM-driven scientific workflows, but routing planning, tool use, and synthesis through a single context window comes with a well-known co...",
-    "category": "models",
-    "id": 44
-  },
-  {
-    "title": "New Bounds for Zarankiewicz Numbers via Reinforced LLM Evolutionary Search",
-    "url": "https://arxiv.org/abs/2605.01120",
-    "source": "arXiv cs.AI",
-    "date": "2026-05-06",
-    "summary": "The Zarankiewicz number $\\textbf{Z}(m, n, s, t)$ is the maximum number of edges in a bipartite graph $G_{m, n}$ such that there is no complete $K_{s, t}$ bipartite subgraph. We determine for the first...",
-    "category": "models",
-    "id": 45
-  },
-  {
-    "title": "PERSA: Reinforcement Learning for Professor-Style Personalized Feedback with LLMs",
-    "url": "https://arxiv.org/abs/2605.01123",
-    "source": "arXiv cs.AI",
-    "date": "2026-05-06",
-    "summary": "Large language models (LLMs) can provide automated feedback in educational settings, but aligning an LLMs style with a specific instructors tone while maintaining diagnostic correctness remains challe...",
-    "category": "models",
-    "id": 46
-  },
-  {
-    "title": "Iterative Finetuning is Mostly Idempotent",
-    "url": "https://arxiv.org/abs/2605.01130",
-    "source": "arXiv cs.AI",
-    "date": "2026-05-06",
-    "summary": "If a model has some behavioral tendency, such as sycophancy or misalignment, and it is trained on its own outputs, will the tendency be amplified in the next generation of models? We study this questi...",
-    "category": "research",
-    "id": 47
-  },
-  {
-    "title": "To Use AI as Dice of Possibilities with Timing Computation",
-    "url": "https://arxiv.org/abs/2605.01134",
-    "source": "arXiv cs.AI",
-    "date": "2026-05-06",
-    "summary": "The dominant noun-based modeling paradigm has fundamentally constrained AI development, precluding any adequate representation of the future as an open temporal dimension. This paper introduces a verb...",
-    "category": "research",
-    "id": 48
-  },
-  {
-    "title": "A Low-Latency Fraud Detection Layer for Detecting Adversarial Interaction Patterns in LLM-Powered Agents",
-    "url": "https://arxiv.org/abs/2605.01143",
-    "source": "arXiv cs.AI",
-    "date": "2026-05-06",
-    "summary": "Large Language Model (LLM)-powered agents demonstrate strong capabilities in autonomous task execution, tool use, and multi-step reasoning. However, their increasing autonomy also introduces a new att...",
-    "category": "tools",
-    "id": 49
-  },
-  {
-    "title": "Position: Safety and Fairness in Agentic AI Depend on Interaction Topology, Not on Model Scale or Alignment",
-    "url": "https://arxiv.org/abs/2605.01147",
-    "source": "arXiv cs.AI",
-    "date": "2026-05-06",
-    "summary": "As large language models are increasingly deployed as interacting agents in high-stakes decisions, the AI safety community assumes that safety properties of individual models will compose into safe mu...",
     "category": "research",
     "id": 50
   }
