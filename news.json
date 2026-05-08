@@ -11,6 +11,16 @@
     "featured": true
   },
   {
+    "title": "The New Wild West of AI Kids’ Toys",
+    "url": "https://www.wired.com/story/the-new-wild-west-of-ai-kids-toys/",
+    "source": "Wired",
+    "date": "2026-05-08",
+    "summary": "These cuddly, connected companions could disrupt everything from make-believe to bedtime stories. No wonder some lawmakers want them banned.",
+    "category": "industry",
+    "image": "https://media.wired.com/photos/69fd2cd21516a07ed72646e6/191:100/w_1280,c_limit/gear_kidsai_getty.jpg",
+    "id": 2
+  },
+  {
     "title": "Musk v. Altman Evidence Shows What Microsoft Executives Thought of OpenAI",
     "url": "https://www.wired.com/story/microsoft-executives-discuss-openai-sam-altman-2018/",
     "source": "Wired",
@@ -18,7 +28,7 @@
     "summary": "Leaders at the tech giant were skeptical of OpenAI—but wary of pushing it into the arms of Amazon, according to emails dating back to 2018.",
     "category": "industry",
     "image": "https://media.wired.com/photos/69fd155e0436533ae1a17e00/191:100/w_1280,c_limit/What-Microsoft-Executives-Were-Dishing-About-OpenAI-Business-1778707567.jpg",
-    "id": 2
+    "id": 3
   },
   {
     "title": "LCM: Lossless Context Management",
@@ -27,7 +37,7 @@
     "date": "2026-05-08",
     "summary": "We introduce Lossless Context Management (LCM), a deterministic architecture for LLM memory that outperforms Claude Code on long-context tasks. When benchmarked using Opus 4.6, our LCM-augmented codin...",
     "category": "models",
-    "id": 3
+    "id": 4
   },
   {
     "title": "Regularized Centered Emphatic Temporal Difference Learning",
@@ -36,7 +46,7 @@
     "date": "2026-05-08",
     "summary": "Off-policy temporal-difference (TD) learning with function approximation faces a structural tradeoff among stability, projection geometry, and variance control. Emphatic TD (ETD) improves the off-poli...",
     "category": "models",
-    "id": 4
+    "id": 5
   },
   {
     "title": "Actionable Real-Time Modeling of Surgical Team Dynamics via Time-Expanded Interaction Graphs",
@@ -45,7 +55,7 @@
     "date": "2026-05-08",
     "summary": "Surgical team performance arises from complex interactions between technical execution and non-technical skills, including communication and coordination dynamics. However, current surgical AI systems...",
     "category": "research",
-    "id": 5
+    "id": 6
   },
   {
     "title": "ANDRE: An Attention-based Neuro-symbolic Differentiable Rule Extractor",
@@ -54,7 +64,7 @@
     "date": "2026-05-08",
     "summary": "Inductive Logic Programming (ILP) aims to learn interpretable first-order rules from data, but existing symbolic and neuro-symbolic approaches struggle to scale to noisy and probabilistic settings. Cl...",
     "category": "research",
-    "id": 6
+    "id": 7
   },
   {
     "title": "Pro$^2$Assist: Continuous Step-Aware Proactive Assistance with Multimodal Egocentric Perception for Long-Horizon Procedural Tasks",
@@ -63,7 +73,7 @@
     "date": "2026-05-08",
     "summary": "Procedural tasks with multiple ordered steps are ubiquitous in daily life. Recent advances in multimodal large language models (MLLMs) have enabled personal assistants that support daily activities. H...",
     "category": "research",
-    "id": 7
+    "id": 8
   },
   {
     "title": "Temporal Reasoning Is Not the Bottleneck: A Probabilistic Inconsistency Framework for Neuro-Symbolic QA",
@@ -72,7 +82,7 @@
     "date": "2026-05-08",
     "summary": "Despite significant advances, large language models (LLMs) continue to exhibit brittle performance on complex temporal reasoning tasks. This failure mode is widely attributed to inherent deficits in a...",
     "category": "research",
-    "id": 8
+    "id": 9
   },
   {
     "title": "Parallel Prefix Verification for Speculative Generation",
@@ -81,7 +91,7 @@
     "date": "2026-05-08",
     "summary": "We introduce PARSE (PArallel pRefix Speculative Engine), a speculative generation framework that accelerates large language model (LLM) inference by parallelizing prefix verification on a semantic lev...",
     "category": "models",
-    "id": 9
+    "id": 10
   },
   {
     "title": "Agent Island: A Saturation- and Contamination-Resistant Benchmark from Multiagent Games",
@@ -90,7 +100,7 @@
     "date": "2026-05-08",
     "summary": "Static capabilities benchmarks suffer from saturation and contamination, making it difficult to track capabilities progress over time. We introduce Agent Island, a multiplayer simulation environment i...",
     "category": "models",
-    "id": 10
+    "id": 11
   },
   {
     "title": "The Scaling Properties of Implicit Deductive Reasoning in Transformers",
@@ -99,7 +109,7 @@
     "date": "2026-05-08",
     "summary": "We investigate the scaling properties of implicit deductive reasoning over Horn clauses in depth-bounded Transformers. By systematically decorrelating provability from spurious features and enforcing ...",
     "category": "research",
-    "id": 11
+    "id": 12
   },
   {
     "title": "When Context Hurts: The Crossover Effect of Knowledge Transfer on Multi-Agent Design Exploration",
@@ -108,7 +118,7 @@
     "date": "2026-05-08",
     "summary": "The prevailing assumption in agent orchestration is that more context is better. We test this on multi-agent software design across 10 tasks, 7 context-injection conditions, and over 2,700 runs, and f...",
     "category": "models",
-    "id": 12
+    "id": 13
   },
   {
     "title": "Deployment-Relevant Alignment Cannot Be Inferred from Model-Level Evaluation Alone",
@@ -117,7 +127,7 @@
     "date": "2026-05-08",
     "summary": "Alignment evaluation in machine learning has largely become evaluation of models. Influential benchmarks score model outputs under fixed inputs, such as truthfulness, instruction following, or pairwis...",
     "category": "research",
-    "id": 13
+    "id": 14
   },
   {
     "title": "How Does Thinking Mode Change LLM Moral Judgments? A Controlled Instant-vs-Thinking Comparison Across Five Frontier Models",
@@ -126,7 +136,7 @@
     "date": "2026-05-08",
     "summary": "We evaluate whether enabling provider-exposed reasoning mode changes moral judgments within the same model checkpoint. Across 100 moral-judgment scenarios and five frontier reasoning-trained LLMs (Cla...",
     "category": "models",
-    "id": 14
+    "id": 15
   },
   {
     "title": "From Parameter Dynamics to Risk Scoring : Quantifying Sample-Level Safety Degradation in LLM Fine-tuning",
@@ -135,7 +145,7 @@
     "date": "2026-05-08",
     "summary": "Safety alignment of Large Language Models (LLMs) is extremely fragile, as fine-tuning on a small number of benign samples can erase safety behaviors learned from millions of preference examples. Exist...",
     "category": "models",
-    "id": 15
+    "id": 16
   },
   {
     "title": "SensingAgents: A Multi-Agent Collaborative Framework for Robust IMU Activity Recognition",
@@ -144,7 +154,7 @@
     "date": "2026-05-08",
     "summary": "Human Activity Recognition (HAR) using Inertial Measurement Unit (IMU) sensors is a cornerstone of mobile health, smart environments, and human-computer interaction. However, current deep learning-bas...",
     "category": "research",
-    "id": 16
+    "id": 17
   },
   {
     "title": "AuditRepairBench: A Paired-Execution Trace Corpus for Evaluator-Channel Ranking Instability in Agent Repair",
@@ -153,7 +163,7 @@
     "date": "2026-05-08",
     "summary": "Agent-repair leaderboards reorder under evaluator reconfiguration, and a measurable share of the reordering is produced by methods that consult evaluator-derived signal during internal selection of ca...",
     "category": "research",
-    "id": 17
+    "id": 18
   },
   {
     "title": "Budget-aware Auto Optimizer Configurator",
@@ -162,7 +172,7 @@
     "date": "2026-05-08",
     "summary": "Optimizer states occupy massive GPU memory in large-scale model training. However, gradients in different network blocks exhibit distinct behaviors, such as varying directional stability and scale ani...",
     "category": "hardware",
-    "id": 18
+    "id": 19
   },
   {
     "title": "Reward-Decomposed Reinforcement Learning for Immersive Video Role-Playing",
@@ -171,7 +181,7 @@
     "date": "2026-05-08",
     "summary": "Text-based role-playing models can imitate character styles, yet they often fail to reflect a scene's atmosphere and evolving tension, both essential for immersive applications such as Virtual Reality...",
     "category": "research",
-    "id": 19
+    "id": 20
   },
   {
     "title": "AgentTrust: Runtime Safety Evaluation and Interception for AI Agent Tool Use",
@@ -180,7 +190,7 @@
     "date": "2026-05-08",
     "summary": "Modern AI agents execute real-world side effects through tool calls such as file operations, shell commands, HTTP requests, and database queries. A single unsafe action, including accidental deletion,...",
     "category": "research",
-    "id": 20
+    "id": 21
   },
   {
     "title": "DecodingTrust-Agent Platform (DTap): A Controllable and Interactive Red-Teaming Platform for AI Agents",
@@ -189,7 +199,7 @@
     "date": "2026-05-08",
     "summary": "AI agents are increasingly deployed across diverse domains to automate complex workflows through long-horizon and high-stakes action executions. Due to their high capability and flexibility, such agen...",
     "category": "tools",
-    "id": 21
+    "id": 22
   },
   {
     "title": "Strat-Reasoner: Reinforcing Strategic Reasoning of LLMs in Multi-Agent Games",
@@ -198,7 +208,7 @@
     "date": "2026-05-08",
     "summary": "While Large Language Models (LLMs) excel in certain reasoning tasks, they struggle in multi-agent games where the final outcome depends on the joint strategies of all agents. In multi-agent games, the...",
     "category": "research",
-    "id": 22
+    "id": 23
   },
   {
     "title": "Curated AI beats frontier LLMs at pharma asset discovery",
@@ -207,7 +217,7 @@
     "date": "2026-05-08",
     "summary": "General-purpose LLMs with web search are increasingly used to scout the competitive landscape of pharmaceutical pipelines. We benchmark Gosset -- an AI platform with a chat interface backed by curated...",
     "category": "models",
-    "id": 23
+    "id": 24
   },
   {
     "title": "A Foundation Model for Zero-Shot Logical Rule Induction",
@@ -216,7 +226,7 @@
     "date": "2026-05-08",
     "summary": "Inductive Logic Programming (ILP) learns interpretable logical rules from data. Existing methods are transductive: their learned parameters are bound to specific predicates and require retraining for ...",
     "category": "models",
-    "id": 24
+    "id": 25
   },
   {
     "title": "On-line Learning in Tree MDPs by Treating Policies as Bandit Arms",
@@ -225,7 +235,7 @@
     "date": "2026-05-08",
     "summary": "A Tree Markov Decision Problem (T-MDP) is a finite-horizon MDP with a starting state $s_{1}$, in which every state is reachable from $s_{1}$ through exactly one state-action trajectory. T-MDPs arise n...",
     "category": "industry",
-    "id": 25
+    "id": 26
   },
   {
     "title": "Uno-Orchestra: Parsimonious Agent Routing via Selective Delegation",
@@ -234,7 +244,7 @@
     "date": "2026-05-08",
     "summary": "Large language model (LLM) multi-agent systems typically rely on rigid orchestration, committing either to flat per-query routing or to hand-engineered task decomposition, so decomposition depth, work...",
     "category": "models",
-    "id": 26
+    "id": 27
   },
   {
     "title": "Position: Embodied AI Requires a Privacy-Utility Trade-off",
@@ -243,7 +253,7 @@
     "date": "2026-05-08",
     "summary": "Embodied AI (EAI) systems are rapidly transitioning from simulations into real-world domestic and other sensitive environments. However, recent EAI solutions have largely demonstrated advancements wit...",
     "category": "research",
-    "id": 27
+    "id": 28
   },
   {
     "title": "LongSeeker: Elastic Context Orchestration for Long-Horizon Search Agents",
@@ -252,7 +262,7 @@
     "date": "2026-05-08",
     "summary": "Long-horizon search agents must manage a rapidly growing working context as they reason, call tools, and observe information. Naively accumulating all intermediate content can overwhelm the agent, inc...",
     "category": "models",
-    "id": 28
+    "id": 29
   },
   {
     "title": "Analogy between Boltzmann machines and Feynman path integrals",
@@ -261,7 +271,7 @@
     "date": "2026-05-08",
     "summary": "We provide a detailed exposition of the connections between Boltzmann machines commonly utilized in machine learning problems and the ideas already well known in quantum statistical mechanics through ...",
     "category": "models",
-    "id": 29
+    "id": 30
   },
   {
     "title": "A large language model-type architecture for high-dimensional molecular potential energy surfaces",
@@ -270,7 +280,7 @@
     "date": "2026-05-08",
     "summary": "Computing high-dimensional potential energy surfaces for molecular systems and materials is considered to be a great challenge in computational chemistry with potential impact in a range of areas incl...",
     "category": "research",
-    "id": 30
+    "id": 31
   },
   {
     "title": "Learning Reconstructive Embeddings in Reproducing Kernel Hilbert Spaces via the Representer Theorem",
@@ -279,7 +289,7 @@
     "date": "2026-05-08",
     "summary": "Motivated by the growing interest in representation learning approaches that uncover the latent structure of high-dimensional data, this work proposes new algorithms for reconstruction-based manifold ...",
     "category": "research",
-    "id": 31
+    "id": 32
   },
   {
     "title": "Interpreting Manifolds and Graph Neural Embeddings from Internet of Things Traffic Flows",
@@ -288,7 +298,7 @@
     "date": "2026-05-08",
     "summary": "The rapid expansion of Internet of Things (IoT) ecosystems has led to increasingly complex and heterogeneous network topologies. Traditional network monitoring and visualization tools rely on aggregat...",
     "category": "tools",
-    "id": 32
+    "id": 33
   },
   {
     "title": "Modeling Subjective Urban Perception with Human Gaze",
@@ -297,7 +307,7 @@
     "date": "2026-05-08",
     "summary": "Urban perception describes how people subjectively evaluate urban environments, shaping how cities are experienced and understood. Existing computational approaches primarily model urban perception di...",
     "category": "research",
-    "id": 33
+    "id": 34
   },
   {
     "title": "The Reasoning Trap: An Information-Theoretic Bound on Closed-System Multi-Step LLM Reasoning",
@@ -306,7 +316,7 @@
     "date": "2026-05-08",
     "summary": "When copies of the same language model are prompted to debate, they produce diverse phrasings of one perspective rather than diverse perspectives. Multi-agent debate (MAD), and more broadly closed-sys...",
     "category": "models",
-    "id": 34
+    "id": 35
   },
   {
     "title": "Transformation Categorization Based on Group Decomposition Theory Using Parameter Division",
@@ -315,7 +325,7 @@
     "date": "2026-05-08",
     "summary": "Representation learning seeks meaningful sensory representations without supervision and can model aspects of human development. Although many neural networks empirically learn useful features, a prin...",
     "category": "research",
-    "id": 35
+    "id": 36
   },
   {
     "title": "Structured Progressive Knowledge Activation for LLM-Driven Neural Architecture Search",
@@ -324,7 +334,7 @@
     "date": "2026-05-08",
     "summary": "This paper focuses on a key challenge in Neural Architecture Search (NAS): integrating established architectural knowledge while exploring new designs under expensive evaluations. Large language model...",
     "category": "models",
-    "id": 36
+    "id": 37
   },
   {
     "title": "MP-ISMoE: Mixed-Precision Interactive Side Mixture-of-Experts for Efficient Transfer Learning",
@@ -333,7 +343,7 @@
     "date": "2026-05-08",
     "summary": "Parameter-efficient transfer learning (PETL) has emerged as a pivotal paradigm for adapting pre-trained foundation models to downstream tasks, significantly reducing trainable parameters yet suffering...",
     "category": "models",
-    "id": 37
+    "id": 38
   },
   {
     "title": "Lookahead Drifting Model",
@@ -342,7 +352,7 @@
     "date": "2026-05-08",
     "summary": "Recently, a new paradigm named \\emph{drifting model} has been proposed for mapping distributions, which achieves the SOTA image generation performance over ImageNet via one-step neural functional eval...",
     "category": "hardware",
-    "id": 38
+    "id": 39
   },
   {
     "title": "EdgeRazor: A Lightweight Framework for Large Language Models via Mixed-Precision Quantization-Aware Distillation",
@@ -351,7 +361,7 @@
     "date": "2026-05-08",
     "summary": "Recent years have witnessed an increasing interest in deploying LLMs on resource-constrained devices, among which quantization has emerged as a promising lightweight technique that converts full-preci...",
     "category": "models",
-    "id": 39
+    "id": 40
   },
   {
     "title": "Investigating Trustworthiness of Nonparametric Deep Survival Models for Alzheimer's Disease Progression Analysis",
@@ -360,7 +370,7 @@
     "date": "2026-05-08",
     "summary": "Alzheimer's Dementia (AD) is a progressive neurodegenerative disease marked by irreversible decline, making reliable modeling of its progression essential for effective patient care. Progression-aware...",
     "category": "research",
-    "id": 40
+    "id": 41
   },
   {
     "title": "Designing a double deep reinforcement learning selection tool for resilient demand prediction",
@@ -369,7 +379,7 @@
     "date": "2026-05-08",
     "summary": "The use of artificial intelligence in supply chain forecasting has attracted many scientific studies for several decades. However, the process of selecting an appropriate forecasting solution becomes ...",
     "category": "research",
-    "id": 41
+    "id": 42
   },
   {
     "title": "LAWS: Learning from Actual Workloads Symbolically -- A Self-Certifying Parametrized Cache Architecture for Neural Inference, Robotics, and Edge Deployment",
@@ -378,7 +388,7 @@
     "date": "2026-05-08",
     "summary": "We introduce LAWS (Learning from Actual Workloads Symbolically), a self-certifying inference caching architecture that builds a growing library of certified expert functions from deployment observatio...",
     "category": "research",
-    "id": 42
+    "id": 43
   },
   {
     "title": "Toward Human-AI Complementarity Across Diverse Tasks",
@@ -387,7 +397,7 @@
     "date": "2026-05-08",
     "summary": "Human-AI complementarity, the idea that combining human and AI judgments can outperform either alone, offers a promising pathway toward robust oversight of advanced AI systems. However, whether human-...",
     "category": "research",
-    "id": 43
+    "id": 44
   },
   {
     "title": "FlatASCEND: Autoregressive Clinical Sequence Generation with Continuous Time Prediction and Association-Based Pharmacological Testing",
@@ -396,7 +406,7 @@
     "date": "2026-05-08",
     "summary": "Autoregressive models can predict clinical events, but generating patient-conditioned multi-step trajectories that respond to intervention tokens and testing whether those responses preserve known pha...",
     "category": "research",
-    "id": 44
+    "id": 45
   },
   {
     "title": "Sparse Autoencoder Decomposition of Clinical Sequence Model Representations: Feature Complexity, Task Specialisation, and Mortality Prediction",
@@ -405,7 +415,7 @@
     "date": "2026-05-08",
     "summary": "Sparse autoencoders (SAEs) have been applied to large language models and protein language models, but not systematically to electronic health record (EHR) foundation models. We train TopK SAEs on Fla...",
     "category": "models",
-    "id": 45
+    "id": 46
   },
   {
     "title": "Confronting Label Indeterminacy in Automated Bail Decisions",
@@ -414,7 +424,7 @@
     "date": "2026-05-08",
     "summary": "Bail decisions present a fundamental challenge for data-driven decision support systems. When bail is denied, the counterfactual outcome of whether the defendant would have appeared in court remains u...",
     "category": "research",
-    "id": 46
+    "id": 47
   },
   {
     "title": "A Physics-Aware Framework for Short-Term GPU Power Forecasting of AI Data Centers",
@@ -423,7 +433,7 @@
     "date": "2026-05-08",
     "summary": "AI data centers experience rapid fluctuations in power demand due to the heterogeneity of computational tasks that they have to support. For example, the power profile of inference and training of lar...",
     "category": "hardware",
-    "id": 47
+    "id": 48
   },
   {
     "title": "RetentiveKV: State-Space Memory for Uncertainty-Aware Multimodal KV Cache Eviction",
@@ -432,7 +442,7 @@
     "date": "2026-05-08",
     "summary": "Multimodal Large Language Models face severe challenges in computational efficiency and memory consumption due to the substantial expansion of the visual KV cache when processing long visual contexts....",
     "category": "models",
-    "id": 48
+    "id": 49
   },
   {
     "title": "A Regulatory Governance Framework for AI-Driven Financial Fraud Detection in U.S. Banking: Integrating OCC, SR 11-7, CFPB, and FinCEN Compliance Requirements for Model Development, Validation, and Monitoring Lifecycles",
@@ -441,15 +451,6 @@
     "date": "2026-05-08",
     "summary": "U.S. financial institutions deploying AI-based fraud detection face a fragmented compliance landscape spanning four regulatory frameworks -- OCC Bulletin 2011-12, SR 11-7, the CFPB AI circular, and Fi...",
     "category": "research",
-    "id": 49
-  },
-  {
-    "title": "Balanced Aggregation: Understanding and Fixing Aggregation Bias in GRPO",
-    "url": "https://arxiv.org/abs/2605.04077",
-    "source": "arXiv cs.AI",
-    "date": "2026-05-08",
-    "summary": "Reinforcement learning with verifiable rewards (RLVR) has become a central paradigm for improving reasoning and code generation in large language models, and GRPO-style training is widely adopted for ...",
-    "category": "models",
     "id": 50
   }
 ]
