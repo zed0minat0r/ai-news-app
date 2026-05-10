@@ -51,16 +51,6 @@
     "id": 5
   },
   {
-    "title": "AMD Ryzen 9 9950X3D2 vs Ryzen 9 9950X3D faceoff — How far does dual cache take you?",
-    "url": "https://www.tomshardware.com/pc-components/cpus/amd-ryzen-9-9950x3d2-vs-ryzen-9-9950x3d-cpu-faceoff",
-    "source": "Tom's Hardware",
-    "date": "2026-05-10",
-    "summary": "AMD's new Ryzen 9 9950X3D2 is a unique CPU, but how does it stack up to the single-cache Ryzen 9 9950X3D? We put the two head-to-head in a six-round gauntlet.",
-    "category": "hardware",
-    "image": "https://cdn.mos.cms.futurecdn.net/4voje8sjBgnJEMAKHmjknC-1280-80.jpg",
-    "id": 6
-  },
-  {
     "title": "AMD's legendary K5, its first independently-designed processor, is being removed from the Linux kernel — 4.3-million-transistor chip gets the axe because it lacks Time Stamp Counter (TSC) support, making it a coding burden",
     "url": "https://www.tomshardware.com/software/linux/amds-legendary-k5-its-first-independently-designed-processor-is-being-removed-from-the-linux-kernel-4-3-million-transistor-chip-gets-the-axe-because-it-lacks-time-stamp-counter-tsc-support-making-it-a-coding-burden",
     "source": "Tom's Hardware",
@@ -68,6 +58,16 @@
     "summary": "AMD’s landmark K5 processor family will no longer be supported by Linux when kernel version 7.2 arrives.",
     "category": "hardware",
     "image": "https://cdn.mos.cms.futurecdn.net/co4HBJEMpEWtvAPK4P6Wfd-1280-80.jpg",
+    "id": 6
+  },
+  {
+    "title": "AMD Ryzen 9 9950X3D2 vs Ryzen 9 9950X3D faceoff — How far does dual cache take you?",
+    "url": "https://www.tomshardware.com/pc-components/cpus/amd-ryzen-9-9950x3d2-vs-ryzen-9-9950x3d-cpu-faceoff",
+    "source": "Tom's Hardware",
+    "date": "2026-05-10",
+    "summary": "AMD's new Ryzen 9 9950X3D2 is a unique CPU, but how does it stack up to the single-cache Ryzen 9 9950X3D? We put the two head-to-head in a six-round gauntlet.",
+    "category": "hardware",
+    "image": "https://cdn.mos.cms.futurecdn.net/4voje8sjBgnJEMAKHmjknC-1280-80.jpg",
     "id": 7
   },
   {
@@ -111,6 +111,16 @@
     "id": 11
   },
   {
+    "title": "Anthropic says ‘evil’ portrayals of AI were responsible for Claude’s blackmail attempts",
+    "url": "https://techcrunch.com/2026/05/10/anthropic-says-evil-portrayals-of-ai-were-responsible-for-claudes-blackmail-attempts/",
+    "source": "TechCrunch",
+    "date": "2026-05-10",
+    "summary": "Fictional portrayals of artificial intelligence can have a real effect on AI models, according to Anthropic.",
+    "category": "models",
+    "image": "https://techcrunch.com/wp-content/uploads/2026/04/GettyImages-2269811684.jpg?w=1024",
+    "id": 12
+  },
+  {
     "title": "We’re feeling cynical about xAI’s big deal with Anthropic",
     "url": "https://techcrunch.com/2026/05/10/were-feeling-cynical-about-xais-big-deal-with-anthropic/",
     "source": "TechCrunch",
@@ -118,7 +128,7 @@
     "summary": "On the latest episode of the Equity podcast, we discussed what xAI's deal with Anthropic might mean for parent company SpaceX.",
     "category": "industry",
     "image": "https://techcrunch.com/wp-content/uploads/2025/06/GettyImages-2217198328.jpeg?resize=1200,800",
-    "id": 12
+    "id": 13
   },
   {
     "title": "Voice AI in India is hard. Wispr Flow is betting on it anyway.",
@@ -128,16 +138,139 @@
     "summary": "Wispr Flow says growth accelerated in India after its Hinglish rollout, even as voice AI products continue to face challenges.",
     "category": "industry",
     "image": "https://techcrunch.com/wp-content/uploads/2026/05/wispr-flow-india-image.jpg?resize=1200,800",
-    "id": 13
+    "id": 14
+  },
+  {
+    "title": "Frona v2026.5.0 – self-hosted personal AI assistant",
+    "url": "https://github.com/fronalabs/frona/releases/tag/v2026.5.0",
+    "source": "Hacker News",
+    "date": "2026-05-10",
+    "summary": "Article URL: https://github.com/fronalabs/frona/releases/tag/v2026.5.0 Comments URL: https://news.ycombinator.com/item?id=48088308 Points: 2 # Comments: 0",
+    "category": "industry",
+    "image": "https://opengraph.githubassets.com/fb162d8f4ebec599504e0ce5c335e0746b2557036c458954f8be3ed9d7591794/fronalabs/frona/releases/tag/v2026.5.0",
+    "id": 15
+  },
+  {
+    "title": "Misplaced Panic over AI Progress",
+    "url": "https://garymarcus.substack.com/p/misplaced-panic-over-ai-progress",
+    "source": "Hacker News",
+    "date": "2026-05-10",
+    "summary": "Article URL: https://garymarcus.substack.com/p/misplaced-panic-over-ai-progress Comments URL: https://news.ycombinator.com/item?id=48088176 Points: 3 # Comments: 0",
+    "category": "industry",
+    "id": 16
+  },
+  {
+    "title": "Ask HN: Which LLM are you using to evaluate your ideas?",
+    "url": "https://news.ycombinator.com/item?id=48088126",
+    "source": "Hacker News",
+    "date": "2026-05-10",
+    "summary": "Question as in the title. Curious about your experience and which LLM helped you out the most without saying yes to everything.. Comments URL: https://news.ycombinator.com/item?id=48088126 Points: 2 #...",
+    "category": "models",
+    "id": 17
+  },
+  {
+    "title": "Fluiq – LLM observability, evals and optimization in two lines of Python",
+    "url": "https://getfluiq.com",
+    "source": "Hacker News",
+    "date": "2026-05-10",
+    "summary": "Article URL: https://getfluiq.com Comments URL: https://news.ycombinator.com/item?id=48087997 Points: 2 # Comments: 0",
+    "category": "models",
+    "id": 18
+  },
+  {
+    "title": "Show HN: Aura – Desktop AI Orchestration IDE with Planner/Worker Architecture",
+    "url": "https://github.com/CarpseDeam/Aura-IDE",
+    "source": "Hacker News",
+    "date": "2026-05-10",
+    "summary": "Article URL: https://github.com/CarpseDeam/Aura-IDE Comments URL: https://news.ycombinator.com/item?id=48087949 Points: 3 # Comments: 0",
+    "category": "industry",
+    "image": "https://opengraph.githubassets.com/914d31894eb56a1d5470a504abbf46cfc727f74caddef00c4cbe3466c0860eb5/CarpseDeam/Aura-IDE",
+    "id": 19
+  },
+  {
+    "title": "Ask HN: Will low quality AI customer support be the new normal?",
+    "url": "https://news.ycombinator.com/item?id=48087925",
+    "source": "Hacker News",
+    "date": "2026-05-10",
+    "summary": "Now whenever I reach for customer's support chat or phone I get an AI agent replying to me and I get into a useless loop for a couple of minutes before I start begging it to link me to a real person. ...",
+    "category": "industry",
+    "id": 20
+  },
+  {
+    "title": "The AI That Took a Sunday Off",
+    "url": "https://debarshibasak.github.io/readables/blogs/eu-ai-right.html",
+    "source": "Hacker News",
+    "date": "2026-05-10",
+    "summary": "Article URL: https://debarshibasak.github.io/readables/blogs/eu-ai-right.html Comments URL: https://news.ycombinator.com/item?id=48087762 Points: 2 # Comments: 0",
+    "category": "industry",
+    "id": 21
+  },
+  {
+    "title": "Prpack – Pack a pull request into one Markdown file for LLM code review",
+    "url": "https://github.com/Lucas2944/prpack",
+    "source": "Hacker News",
+    "date": "2026-05-10",
+    "summary": "Article URL: https://github.com/Lucas2944/prpack Comments URL: https://news.ycombinator.com/item?id=48087329 Points: 2 # Comments: 0",
+    "category": "models",
+    "image": "https://opengraph.githubassets.com/c2ec487f86ec3f1df498ca10bb42170a7325682df57a54a37b3d410c3df32209/Lucas2944/prpack",
+    "id": 22
+  },
+  {
+    "title": "Lorein – A Persistent, Local-First AI Architecture [pdf]",
+    "url": "https://github.com/AnonymousNomad/LOREIN-Sovereign-Entity",
+    "source": "Hacker News",
+    "date": "2026-05-10",
+    "summary": "Article URL: https://github.com/AnonymousNomad/LOREIN-Sovereign-Entity Comments URL: https://news.ycombinator.com/item?id=48087182 Points: 2 # Comments: 0",
+    "category": "industry",
+    "image": "https://opengraph.githubassets.com/c667bdfb170975de843b22f04d6d076c6e49106ff638ee03f6fe60a5cf0fc91b/AnonymousNomad/LOREIN-Sovereign-Entity",
+    "id": 23
+  },
+  {
+    "title": "ProxyFace: Give Your AI a Face and Emotions (100% Local, Zero Telemetry)",
+    "url": "https://www.proxyface.com",
+    "source": "Hacker News",
+    "date": "2026-05-10",
+    "summary": "Article URL: https://www.proxyface.com Comments URL: https://news.ycombinator.com/item?id=48087139 Points: 2 # Comments: 1",
+    "category": "industry",
+    "id": 24
+  },
+  {
+    "title": "AI-powered NPM deprecation tracker with dependency tree Ghost Detection",
+    "url": "https://www.stackgraveyard.dev/",
+    "source": "Hacker News",
+    "date": "2026-05-10",
+    "summary": "Article URL: https://www.stackgraveyard.dev/ Comments URL: https://news.ycombinator.com/item?id=48087029 Points: 4 # Comments: 0",
+    "category": "hardware",
+    "image": "https://stackgraveyard.dev/og-image.png",
+    "id": 25
+  },
+  {
+    "title": "Agent VCR – Time-travel debugging for LLM agents (rewind, edit state, resume)",
+    "url": "https://github.com/ixchio/agent-vcr",
+    "source": "Hacker News",
+    "date": "2026-05-10",
+    "summary": "Article URL: https://github.com/ixchio/agent-vcr Comments URL: https://news.ycombinator.com/item?id=48086890 Points: 3 # Comments: 0",
+    "category": "models",
+    "image": "https://opengraph.githubassets.com/3edb3b0bf199b2b4ae1c654c54ce609fc77a80b73f9fa755d088e2169d38622f/ixchio/agent-vcr",
+    "id": 26
+  },
+  {
+    "title": "Chris Hohn's hedge fund slashes $8B MS stake in warning over AI disruption",
+    "url": "https://www.ft.com/content/ac5d90a9-b010-4529-9616-706420920681",
+    "source": "Hacker News",
+    "date": "2026-05-10",
+    "summary": "Article URL: https://www.ft.com/content/ac5d90a9-b010-4529-9616-706420920681 Comments URL: https://news.ycombinator.com/item?id=48086863 Points: 7 # Comments: 1",
+    "category": "industry",
+    "id": 27
   },
   {
     "title": "Humanoid Robots Are the Next Phase of the AI Hype Cycle",
     "url": "https://www.bloomberg.com/news/articles/2026-05-08/humanoid-robots-aren-t-as-advanced-as-the-ai-hype-cycle-suggests",
     "source": "Hacker News",
     "date": "2026-05-10",
-    "summary": "Article URL: https://www.bloomberg.com/news/articles/2026-05-08/humanoid-robots-aren-t-as-advanced-as-the-ai-hype-cycle-suggests Comments URL: https://news.ycombinator.com/item?id=48086667 Points: 2 #...",
+    "summary": "Article URL: https://www.bloomberg.com/news/articles/2026-05-08/humanoid-robots-aren-t-as-advanced-as-the-ai-hype-cycle-suggests Comments URL: https://news.ycombinator.com/item?id=48086667 Points: 4 #...",
     "category": "industry",
-    "id": 14
+    "id": 28
   },
   {
     "title": "Show HN: SimplyBudget, AI Finance Tracker",
@@ -147,7 +280,7 @@
     "summary": "I know there’s no shortage of budgeting and expense tracking apps, but most still rely on manual input and feel slow for everyday use. SimplyBudget lets you log expenses by voice instead of typing eve...",
     "category": "hardware",
     "image": "https://framerusercontent.com/images/A6jX6ze1nh4sDM2azQH8Ui5aww.png",
-    "id": 15
+    "id": 29
   },
   {
     "title": "'AI gave me your number': AI doxxing turns ChatGPT hallucinations to harassment",
@@ -157,161 +290,36 @@
     "summary": "Article URL: https://www.the-independent.com/tech/ai-doxxing-gemini-hallucination-google-b2973008.html Comments URL: https://news.ycombinator.com/item?id=48085958 Points: 2 # Comments: 2",
     "category": "models",
     "image": "https://static.the-independent.com/2026/05/08/11/07/ai-doxxing-gemini-chatgpt-phone-number.jpeg?trim=0,0,0,0&width=1200&height=800&crop=1200:800",
-    "id": 16
+    "id": 30
   },
   {
     "title": "Mostly the first breakup AI agent that delivers your breakup over iMessage",
     "url": "https://behalf.love",
     "source": "Hacker News",
     "date": "2026-05-10",
-    "summary": "Article URL: https://behalf.love Comments URL: https://news.ycombinator.com/item?id=48085873 Points: 1 # Comments: 1",
+    "summary": "Article URL: https://behalf.love Comments URL: https://news.ycombinator.com/item?id=48085873 Points: 1 # Comments: 2",
     "category": "industry",
     "image": "https://behalf.love/opengraph-image?eb2cb07ac88432e4",
-    "id": 17
+    "id": 31
   },
   {
     "title": "My writing students were using AI. Their confessions led to a teaching moment",
     "url": "https://www.theguardian.com/us-news/ng-interactive/2026/may/10/fiction-writing-professor-ai",
     "source": "Hacker News",
     "date": "2026-05-10",
-    "summary": "Article URL: https://www.theguardian.com/us-news/ng-interactive/2026/may/10/fiction-writing-professor-ai Comments URL: https://news.ycombinator.com/item?id=48085825 Points: 6 # Comments: 1",
+    "summary": "Article URL: https://www.theguardian.com/us-news/ng-interactive/2026/may/10/fiction-writing-professor-ai Comments URL: https://news.ycombinator.com/item?id=48085825 Points: 13 # Comments: 3",
     "category": "industry",
     "image": "https://i.guim.co.uk/img/media/e6dcf73db64c84a2c7e3ae1f9ab84be7459303ee/0_2_3000_2398/master/3000.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=58e1debef53ecb7b169d87da0a1d0f94",
-    "id": 18
+    "id": 32
   },
   {
     "title": "Local AI needs to be the norm",
     "url": "https://unix.foo/posts/local-ai-needs-to-be-norm/",
     "source": "Hacker News",
     "date": "2026-05-10",
-    "summary": "Article URL: https://unix.foo/posts/local-ai-needs-to-be-norm/ Comments URL: https://news.ycombinator.com/item?id=48085821 Points: 5 # Comments: 1",
+    "summary": "Article URL: https://unix.foo/posts/local-ai-needs-to-be-norm/ Comments URL: https://news.ycombinator.com/item?id=48085821 Points: 242 # Comments: 128",
     "category": "industry",
-    "id": 19
-  },
-  {
-    "title": "Show HN: PerceptAI – Give AI agents eyes on any screen, not just browsers",
-    "url": "https://news.ycombinator.com/item?id=48085738",
-    "source": "Hacker News",
-    "date": "2026-05-10",
-    "summary": "I built PerceptAI because every agent tool I found only works on websites via DOM. 75% of real computer work happens in desktop apps, legacy software, and tools with zero APIs. Agents are completely b...",
-    "category": "hardware",
-    "id": 20
-  },
-  {
-    "title": "Training an LLM in Swift, Part 1: Taking matrix mult from Gflop/s to Tflop/s",
-    "url": "https://www.cocoawithlove.com/blog/matrix-multiplications-swift.html",
-    "source": "Hacker News",
-    "date": "2026-05-10",
-    "summary": "Article URL: https://www.cocoawithlove.com/blog/matrix-multiplications-swift.html Comments URL: https://news.ycombinator.com/item?id=48085685 Points: 2 # Comments: 0",
-    "category": "models",
-    "image": "https://www.cocoawithlove.com/assets/site/touch_heartandcup.png",
-    "id": 21
-  },
-  {
-    "title": "Memgraph Ingester. Speed up your AI agent",
-    "url": "https://github.com/ousatov-ua/memgraph-ingester/blob/main/README.md",
-    "source": "Hacker News",
-    "date": "2026-05-10",
-    "summary": "Article URL: https://github.com/ousatov-ua/memgraph-ingester/blob/main/README.md Comments URL: https://news.ycombinator.com/item?id=48085671 Points: 1 # Comments: 0",
-    "category": "industry",
-    "image": "https://repository-images.githubusercontent.com/1214962520/5b02e835-149f-4dae-be54-5a789701223c",
-    "id": 22
-  },
-  {
-    "title": "Full Walkthrough: Workflow for AI Coding – Matt Pocock [video]",
-    "url": "https://www.youtube.com/watch?v=-QFHIoCo-Ko",
-    "source": "Hacker News",
-    "date": "2026-05-10",
-    "summary": "Article URL: https://www.youtube.com/watch?v=-QFHIoCo-Ko Comments URL: https://news.ycombinator.com/item?id=48085656 Points: 1 # Comments: 0",
-    "category": "industry",
-    "id": 23
-  },
-  {
-    "title": "Code Bench – Local-first desktop AI coding agent, BYO model (MIT)",
-    "url": "https://benchlabs.app/code-bench/",
-    "source": "Hacker News",
-    "date": "2026-05-10",
-    "summary": "Article URL: https://benchlabs.app/code-bench/ Comments URL: https://news.ycombinator.com/item?id=48085598 Points: 2 # Comments: 0",
-    "category": "industry",
-    "image": "https://benchlabs.app/og/code-bench.png",
-    "id": 24
-  },
-  {
-    "title": "I built a meal planner AI agent to solve my weekly dinner dilemma (2025)",
-    "url": "https://contentdesignhub.com.au/blog/how-i-built-a-meal-planner-ai-agent-to-solve-my-weekly-dinner-dilemma",
-    "source": "Hacker News",
-    "date": "2026-05-10",
-    "summary": "Article URL: https://contentdesignhub.com.au/blog/how-i-built-a-meal-planner-ai-agent-to-solve-my-weekly-dinner-dilemma Comments URL: https://news.ycombinator.com/item?id=48085573 Points: 1 # Comments...",
-    "category": "industry",
-    "image": "https://lwfiles.mycourse.app/6785aa2a9e9b07f5af94faf5-public/9c25fceb3b77e6cc904f4e259e5843c3.png",
-    "id": 25
-  },
-  {
-    "title": "Show HN: Agent Postmortem Skill – Force AI coding agents to prove their work",
-    "url": "https://github.com/plus8bit/agent-postmortem-skill",
-    "source": "Hacker News",
-    "date": "2026-05-10",
-    "summary": "Article URL: https://github.com/plus8bit/agent-postmortem-skill Comments URL: https://news.ycombinator.com/item?id=48085516 Points: 1 # Comments: 0",
-    "category": "industry",
-    "image": "https://opengraph.githubassets.com/10563676cbb88c420297e8ac605f666901add1aeda90e6e475233b6325991780/plus8bit/agent-postmortem-skill",
-    "id": 26
-  },
-  {
-    "title": "Cron job, scheduled tasks, automations... AI needs better metaphors",
-    "url": "https://metedata.substack.com/p/011-ai-needs-better-metaphors",
-    "source": "Hacker News",
-    "date": "2026-05-10",
-    "summary": "Article URL: https://metedata.substack.com/p/011-ai-needs-better-metaphors Comments URL: https://news.ycombinator.com/item?id=48085477 Points: 1 # Comments: 0",
-    "category": "industry",
-    "id": 27
-  },
-  {
-    "title": "For Palantir, AI Is a Product, a Punching Bag–and a Problem",
-    "url": "https://www.wsj.com/tech/ai/for-palantir-ai-is-a-product-a-punching-bagand-a-problem-a4cfea77",
-    "source": "Hacker News",
-    "date": "2026-05-10",
-    "summary": "Article URL: https://www.wsj.com/tech/ai/for-palantir-ai-is-a-product-a-punching-bagand-a-problem-a4cfea77 Comments URL: https://news.ycombinator.com/item?id=48085290 Points: 2 # Comments: 0",
-    "category": "industry",
-    "id": 28
-  },
-  {
-    "title": "AI's Memorization Crisis",
-    "url": "https://www.theatlantic.com/technology/2026/01/ai-memorization-research/685552/",
-    "source": "Hacker News",
-    "date": "2026-05-10",
-    "summary": "Article URL: https://www.theatlantic.com/technology/2026/01/ai-memorization-research/685552/ Comments URL: https://news.ycombinator.com/item?id=48085270 Points: 2 # Comments: 0",
-    "category": "research",
-    "image": "https://cdn.theatlantic.com/thumbor/uoz9_OY2pO-93_0emQxcOSAJICY=/0x32:1498x812/1200x625/media/img/mt/2026/01/2025_12_18_Ai_compress_mpg_landscape/original.gif",
-    "id": 29
-  },
-  {
-    "title": "Terax – A Lightweight AI Terminal",
-    "url": "https://terax.app",
-    "source": "Hacker News",
-    "date": "2026-05-10",
-    "summary": "Article URL: https://terax.app Comments URL: https://news.ycombinator.com/item?id=48085237 Points: 1 # Comments: 0",
-    "category": "industry",
-    "image": "https://terax.app/opengraph-image?454764f837731647",
-    "id": 30
-  },
-  {
-    "title": "Compensation in AI Tokens?",
-    "url": "https://www.bogleheads.org/forum/viewtopic.php?t=469693",
-    "source": "Hacker News",
-    "date": "2026-05-10",
-    "summary": "Article URL: https://www.bogleheads.org/forum/viewtopic.php?t=469693 Comments URL: https://news.ycombinator.com/item?id=48085228 Points: 2 # Comments: 1",
-    "category": "industry",
-    "id": 31
-  },
-  {
-    "title": "The Faith AI Covenant",
-    "url": "https://faithaicovenant.com/",
-    "source": "Hacker News",
-    "date": "2026-05-10",
-    "summary": "Article URL: https://faithaicovenant.com/ Comments URL: https://news.ycombinator.com/item?id=48085227 Points: 1 # Comments: 1",
-    "category": "industry",
-    "image": "https://faithaicovenant.com/og-cover.jpg",
-    "id": 32
+    "id": 33
   },
   {
     "title": "Maryland citizens slapped with $2 billion power grid upgrade bill for out-of-state AI data centers — state complains to federal energy regulators, says additional cost breaks ‘ratepayer protection pledge’ promises",
@@ -321,7 +329,7 @@
     "summary": "Maryland is complaining to the federal energy regulator about PJM's plan to charge it $2 billion for grid upgrades that will mostly benefit data centers, especially as the state claims that the majori...",
     "category": "hardware",
     "image": "https://cdn.mos.cms.futurecdn.net/KHUetaXQbsmm6z9m5g5Pne-1280-80.jpg",
-    "id": 33
+    "id": 34
   },
   {
     "title": "Cloudflare cuts 20% of its jobs due to AI, and its stock takes a 19% spill — 1,100 jobs disappearing as company increased usage of AI sixfold over past months",
@@ -331,7 +339,7 @@
     "summary": "Cloudflare cuts 20% of its jobs due to AI, and its stock takes a 19% spill. The company announced it will be cutting 1,100 jobs and has increased its usage of AI sixfold over the past few months.",
     "category": "industry",
     "image": "https://cdn.mos.cms.futurecdn.net/iBu6BXKDx9eNtLPFhAZHXh-1280-80.jpg",
-    "id": 34
+    "id": 35
   },
   {
     "title": "Best budget gaming laptops of 2026: The best cheap laptops we've tested and benchmarked",
@@ -341,7 +349,7 @@
     "summary": "Gaming laptops are expensive, and only getting pricier as AI-driven shortages increase. Here are the best options for budget gaming laptops on the cheap, comprised of laptop models that we have tested...",
     "category": "models",
     "image": "https://cdn.mos.cms.futurecdn.net/XEJEag3LmxWAajjYbZPq3V-1280-80.jpg",
-    "id": 35
+    "id": 36
   },
   {
     "title": "Fears grow that age verification coming to VPNs as a British research firm labels them a 'loophole' — one app developer saw downloads surge by 1,800% in just the first month after the UK's Online Safety Act took effect",
@@ -351,7 +359,7 @@
     "summary": "The paper noted that VPN downloads spiked after enforcement began in the UK and several U.S. states.",
     "category": "research",
     "image": "https://cdn.mos.cms.futurecdn.net/vrbdUiJ4PuC6hovf8WzrDn-1280-80.jpg",
-    "id": 36
+    "id": 37
   },
   {
     "title": "Supermicro-tied execs used Thailand government entity to ship Nvidia AI GPUs to China — report alleges Chinese web giant Alibaba received restricted servers",
@@ -361,7 +369,7 @@
     "summary": "A network to smuggle restricted Nvidia AI hardware has been found: it shipped to Alibaba, among other destinations.",
     "category": "hardware",
     "image": "https://cdn.mos.cms.futurecdn.net/aet3KurpvhSKoRZMjPtZd4-1280-80.jpg",
-    "id": 37
+    "id": 38
   },
   {
     "title": "Chinese grey market sells Claude API access at 90% off by using stolen credentials, model substitution, and harvesting users' prompts and outputs for resale as AI training data — 'transfer stations' operate through proxy networks that harvest user data",
@@ -371,7 +379,7 @@
     "summary": "A grey-market economy of API proxy services in China is reselling access to Anthropic's Claude models at as little as 10% of the official price.",
     "category": "models",
     "image": "https://cdn.mos.cms.futurecdn.net/ScT7C9WsuqruarWf3kSRRG-1280-80.jpg",
-    "id": 38
+    "id": 39
   },
   {
     "title": "So you’ve heard these AI terms and nodded along; let’s fix that",
@@ -381,7 +389,7 @@
     "summary": "The rise of AI has brought an avalanche of new terms and slang. Here is a glossary with definitions of some of the most important words and phrases you might encounter.",
     "category": "industry",
     "image": "https://techcrunch.com/wp-content/uploads/2025/03/GettyImages-ai-generated-eb728837-4a65-4ce4-b814-abd0c140d20c.jpg?w=1024",
-    "id": 39
+    "id": 40
   },
   {
     "title": "Nvidia has already committed $40B to equity AI deals this year",
@@ -391,7 +399,7 @@
     "summary": "Nvidia continues to be a big investor in the AI ecosystem.",
     "category": "hardware",
     "image": "https://techcrunch.com/wp-content/uploads/2026/03/GettyImages-2266475966.jpg?w=1024",
-    "id": 40
+    "id": 41
   },
   {
     "title": "Running Codex safely at OpenAI",
@@ -400,7 +408,7 @@
     "date": "2026-05-08",
     "summary": "How OpenAI runs Codex securely with sandboxing, approvals, network policies, and agent-native telemetry to support safe and compliant coding agent adoption.",
     "category": "industry",
-    "id": 41
+    "id": 42
   },
   {
     "title": "See what happens when creative legends use AI to make ads for small businesses.",
@@ -410,7 +418,7 @@
     "summary": "Today we're launching The Small Brief, an initiative bringing together three ad industry icons to champion a local businesses they love. Their mission is to build breakt…",
     "category": "industry",
     "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Group_Icons_1x1.max-600x600.format-webp.webp",
-    "id": 42
+    "id": 43
   },
   {
     "title": "Apple reportedly strikes deal for Intel to make some of its chips — two tech giants reached a preliminary agreement for Intel to make processors for Cupertino",
@@ -420,7 +428,7 @@
     "summary": "Intel and Apple have reportedly reached a deal in which the former will manufacture chips for the latter.",
     "category": "hardware",
     "image": "https://cdn.mos.cms.futurecdn.net/CAcvpszp9CNXepVni2dP9K-1280-80.jpg",
-    "id": 43
+    "id": 44
   },
   {
     "title": "AI data center bans are rapidly multiplying across the US — 69 jurisdictions block new builds, with four moves noted as permanent",
@@ -430,7 +438,7 @@
     "summary": "More jurisdictions across the United States have been enacting a data center ban, with the total number of active bans reaching 50 as of April 2026.",
     "category": "hardware",
     "image": "https://cdn.mos.cms.futurecdn.net/wYqdn6r8zn93ZNCHbaSecQ-1280-80.png",
-    "id": 44
+    "id": 45
   },
   {
     "title": "Save $444 on this top-tier gaming PC combo with Asus Prime RTX 5070, Ryzen 9850X3D, X870E motherboard, and 32GB of RAM — world's fastest gaming CPU meets copious amount of RAM",
@@ -440,7 +448,7 @@
     "summary": "Newegg’s latest combo deal packs AMD’s Ryzen 7 9850X3D, an Asus X870E motherboard, RTX 5070 graphics card, and 32GB of DDR5 RAM into a nearly complete AM5 gaming PC for just $1,494.99 - a massive $444...",
     "category": "hardware",
     "image": "https://cdn.mos.cms.futurecdn.net/8qbjwmmfNBKgMTp5ftjWwW-1280-80.png",
-    "id": 45
+    "id": 46
   },
   {
     "title": "The Middle East had everything data center builders and hyperscalers could wish for — then the Iran war happened",
@@ -450,7 +458,7 @@
     "summary": "The Middle East has been a hotspot for investment into data centers, with multiple large projects in planning, attracting wide global investment. But that belief has been shaken by the disruption with...",
     "category": "hardware",
     "image": "https://cdn.mos.cms.futurecdn.net/jfmpWP9AVTdN9wNHK7wSyJ-1280-80.jpg",
-    "id": 46
+    "id": 47
   },
   {
     "title": "Senator at center of Utah AI data center debate gets physical, slaps phone out of reporter’s hand — reporter covering cases of harassment against his business",
@@ -460,7 +468,7 @@
     "summary": "Utah State Sen. Jerry Stevenson (R.-Layton) got into a physical confrontation with an ABC4 reporter as they tried to cover the harassment being made against his employees by people against the propose...",
     "category": "hardware",
     "image": "https://cdn.mos.cms.futurecdn.net/mFCYR2F69AXbFcKaYW9px5-1280-80.jpg",
-    "id": 47
+    "id": 48
   },
   {
     "title": "Desperate SK hynix customers offer to buy its EUV machines and fund new fabs as memory capacity hits zero amid crushing AI-driven shortages — worsening global shortages pry open wallets to the tune of hundreds of millions of dollars",
@@ -470,7 +478,7 @@
     "summary": "The offers go well beyond standard long-term supply agreements.",
     "category": "hardware",
     "image": "https://cdn.mos.cms.futurecdn.net/w8pDnVdADakuWR4qK6Lksc-1280-80.jpg",
-    "id": 48
+    "id": 49
   },
   {
     "title": "Internet archival sites struggling to preserve the internet because of skyrocketing hard drive prices due to the AI boom — Wayback Machine and Wikimedia punished by stratospheric storage pricing and stricter anti-scraping measures blocking the wrong bots",
@@ -480,16 +488,6 @@
     "summary": "Hard drives are so expensive now that archival efforts are being hurt as a result of the AI boom snatching all production lines. Organizations like Wikimedia and the Internet Archive are just about ke...",
     "category": "research",
     "image": "https://cdn.mos.cms.futurecdn.net/oZ6or6izq6b75RaAKvehJY-1280-80.jpg",
-    "id": 49
-  },
-  {
-    "title": "Google's DeepMind to train AI on player actions in quarter-million-player MMORPG Eve Online — Google bought in by purchasing a minority stake in the newly independent Fenris Creations",
-    "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/googles-deepmind-to-train-ai-on-player-actions-in-quarter-million-player-mmorpg-eve-online-google-bought-in-by-purchasing-a-minority-stake-in-the-newly-independent-fenris-creations",
-    "source": "Tom's Hardware",
-    "date": "2026-05-08",
-    "summary": "Google will leverage data from one of the most complex and multi-layered sci-fi RPGs to train its AI, as DeepMind begins training in Eve Online.",
-    "category": "research",
-    "image": "https://cdn.mos.cms.futurecdn.net/gpFzyG8XgvYvdqNagn24JM-1280-80.jpg",
     "id": 50
   }
 ]
