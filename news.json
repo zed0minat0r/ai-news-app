@@ -20,6 +20,24 @@
     "id": 2
   },
   {
+    "title": "AutoScout24 scales engineering with AI-powered workflows",
+    "url": "https://openai.com/index/autoscout24",
+    "source": "OpenAI Blog",
+    "date": "2026-05-12",
+    "summary": "Learn how AutoScout24 Group uses Codex and ChatGPT to speed development cycles, improve code quality, and expand AI adoption.",
+    "category": "models",
+    "id": 3
+  },
+  {
+    "title": "How NVIDIA engineers and researchers build with Codex",
+    "url": "https://openai.com/index/nvidia",
+    "source": "OpenAI Blog",
+    "date": "2026-05-12",
+    "summary": "Teams use Codex with GPT-5.5 to ship production systems and turn research ideas into runnable experiments.",
+    "category": "models",
+    "id": 4
+  },
+  {
     "title": "Google's new laptop platform, 'Googlebook,' leaks ahead of reveal event — new laptops powered by Android and Google Gemini, meant to succeed Chromebook",
     "url": "https://www.tomshardware.com/laptops/googles-new-laptop-platform-googlebook-leaks-ahead-of-reveal-event-new-laptops-powered-by-android-and-google-gemini-meant-to-succeed-chromebook",
     "source": "Tom's Hardware",
@@ -27,7 +45,7 @@
     "summary": "Google has a new laptop platform coming out called the \"Googlebook\" and it's meant to replace or succeed Chromebook. It's powered by Android and \"designed for Gemini Intelligence.\" The main highlight ...",
     "category": "models",
     "image": "https://cdn.mos.cms.futurecdn.net/VQyD75DsrtCgQeus3an2wN-1280-80.webp",
-    "id": 3
+    "id": 5
   },
   {
     "title": "Trump administration reportedly debating ban on Chinese cellular modules in expansion of FCC crackdown — potential restrictions could impact everything from smart devices and routers to connected cars and industrial IoT systems",
@@ -37,7 +55,7 @@
     "summary": "A Financial Times report claims the Trump administration is considering restrictions on Chinese cellular modules as the FCC escalates its crackdown on Chinese communications technology, potentially af...",
     "category": "hardware",
     "image": "https://cdn.mos.cms.futurecdn.net/k7YBWndbTLr2fAqZzoddeG-1280-80.jpg",
-    "id": 4
+    "id": 6
   },
   {
     "title": "Jensen Huang snubbed by White House for President Trump’s China state visit — Nvidia CEO not on roster, which includes Apple's Tim Cook and Elon Musk",
@@ -47,7 +65,7 @@
     "summary": "Jensen Huang was reportedly not invited to President Trump's state visit to China, even though the Nvidia CEO has accompanied the U.S. president in several state visits across the globe. One expert sa...",
     "category": "hardware",
     "image": "https://cdn.mos.cms.futurecdn.net/2V7Vcu9Q5xNV3KCkrFbD5H-1280-80.jpg",
-    "id": 5
+    "id": 7
   },
   {
     "title": "Amazon employees admit to using AI unnecessarily to pump up internal usage scores — workers complain of intense pressure to use AI tools",
@@ -57,7 +75,7 @@
     "summary": "Amazon is the latest hyperscaler where employees have been caught inflating AI token consumption to hit internal usage targets.",
     "category": "tools",
     "image": "https://cdn.mos.cms.futurecdn.net/7tPTeAtBjquh74okNqyo7B-1280-80.jpg",
-    "id": 6
+    "id": 8
   },
   {
     "title": "Compromised Mistral AI and TanStack packages may have exposed GitHub, cloud and CI/CD credentials in 'mini Shai Hulud' malware infection — supply-chain campaign spreads across npm and AI developer ecosystems like wildfire",
@@ -67,7 +85,7 @@
     "summary": "Microsoft says attackers compromised the mistralai PyPI package with malware that executed on import, while researchers link related npm compromises affecting TanStack and Mistral SDKs to the broader ...",
     "category": "tools",
     "image": "https://cdn.mos.cms.futurecdn.net/YUDxAZxxyWFMPWzwJRmWvH-1280-80.jpg",
-    "id": 7
+    "id": 9
   },
   {
     "title": "Standard 90-day vulnerability disclosure policy is likely dead thanks to AI, expert warns that AI can weaponize patches in 30 minutes — LLM-assisted bug-hunting ushers in a new cyberworld order",
@@ -77,7 +95,7 @@
     "summary": "AI-assisted bug detection has massively accelerated the timeline in which new security vulnerabilities are discovered, and one researcher argues that has killed the standard 90-day disclosure policy.",
     "category": "models",
     "image": "https://cdn.mos.cms.futurecdn.net/hckLQbRUHGWnHJfJQyPJEG-1280-80.jpg",
-    "id": 8
+    "id": 10
   },
   {
     "title": "NASA partners with Microchip to build next-generation spaceflight chips with 100x the power of current offerings — chip designed to withstand radiation for extended missions on the Moon and Mars",
@@ -87,7 +105,7 @@
     "summary": "The public-private partnership aims to develop an SoC that offers 100x the computing power of current chips designed for spaceflight. NASA envisions that the technologies developed from this project w...",
     "category": "hardware",
     "image": "https://cdn.mos.cms.futurecdn.net/qCPNqgg27yc6Hec4nRu2Y5-1280-80.png",
-    "id": 9
+    "id": 11
   },
   {
     "title": "SoftBank to manufacture its own batteries with water-based tech to power AI data centers — targets gigawatt-hour-scale production by 2028",
@@ -97,7 +115,7 @@
     "summary": "The Japanese company is partnering with two South Korean startups, Cosmos Lab and DeltaX, to produce zinc-halogen batteries.",
     "category": "industry",
     "image": "https://cdn.mos.cms.futurecdn.net/bTjNbLiUneQifBWxQz3szc-1280-80.jpg",
-    "id": 10
+    "id": 12
   },
   {
     "title": "Google finds first AI-developed zero-day that bypasses 2FA — self-morphing malware and Gemini-powered backdoors signal a new era of cybercrime",
@@ -107,7 +125,7 @@
     "summary": "Google cybersecurity boffins found at least one AI-developed zero-day exploit",
     "category": "models",
     "image": "https://cdn.mos.cms.futurecdn.net/HW4qxknDwJwEJwDFgE3z9o-1280-80.jpg",
-    "id": 11
+    "id": 13
   },
   {
     "title": "China's next-gen CPUs and GPUs prepare to challenge last-gen Intel and AMD in 2027 — Loongson 3B6600 and 9A1000 aim to match Intel's 12th Gen and AMD's RX 550",
@@ -117,7 +135,7 @@
     "summary": "Loongson has provided updates on the company's upcoming 3B6600 processor and 9A1000 graphics card during its 2025 annual and 2026 Q1 earnings calls.",
     "category": "hardware",
     "image": "https://cdn.mos.cms.futurecdn.net/rNmyFEK6YB82Yxqz6VfAYP-1280-80.jpg",
-    "id": 12
+    "id": 14
   },
   {
     "title": "Microsoft's massive Kenya AI data center would require switching off 'half the country' to meet power requirements, government says — $1 billion project stalls over capacity disagreements and lack of infrastructure",
@@ -127,27 +145,27 @@
     "summary": "The project was supposed to bring a geothermal-powered data center to the Olkaria region in Kenya's Rift Valley.",
     "category": "industry",
     "image": "https://cdn.mos.cms.futurecdn.net/G8aje4ydEZGGvtWdx53Z6B-1280-80.png",
-    "id": 13
+    "id": 15
   },
   {
     "title": "Musk mulled handing OpenAI to his children, Altman testifies",
     "url": "https://techcrunch.com/2026/05/12/musk-mulled-handing-openai-to-his-children-altman-testifies/",
     "source": "TechCrunch",
     "date": "2026-05-12",
-    "summary": "OpenAI's CEO recalls a \"particularly hair-raising\" conversation with the SpaceX founder.",
-    "category": "industry",
+    "summary": "Altman said that Musk's focus on controlling the initial for-profit gave him pause because OpenAI was dedicated to keeping advanced AI out of the hands of a single person, and Altman, with his experie...",
+    "category": "hardware",
     "image": "https://techcrunch.com/wp-content/uploads/2026/05/GettyImages-2273246979.jpg?resize=1200,800",
-    "id": 14
+    "id": 16
   },
   {
     "title": "Anthropic warns investors against secondary platforms offering access to its shares",
     "url": "https://techcrunch.com/2026/05/12/anthropic-warns-investors-against-secondary-platforms-offering-access-to-its-shares/",
     "source": "TechCrunch",
     "date": "2026-05-12",
-    "summary": "The company named Open Doors Partners, Unicorns Exchange, Pachamama Capital, Lionheart Ventures, Hiive, Forge Global, Sydecar and Upmarket as companies that are not authorized to provide access to buy...",
+    "summary": "\"Any sale or transfer of Anthropic stock, or any interest in Anthropic stock, offered by these firms is void and will not be recognized on our books and records,\" the company's support page reads.",
     "category": "tools",
     "image": "https://techcrunch.com/wp-content/uploads/2026/04/GettyImages-2269811684.jpg?w=1024",
-    "id": 15
+    "id": 17
   },
   {
     "title": "Report: Google and SpaceX in talks to put data centers into orbit",
@@ -157,7 +175,7 @@
     "summary": "Google and SpaceX are in talks to build data centers in orbit, pitching space as the future home for AI compute, even as costs today remain far higher than on the ground.",
     "category": "hardware",
     "image": "https://techcrunch.com/wp-content/uploads/2024/02/starship-stacked-oft-3.jpeg?resize=1200,674",
-    "id": 16
+    "id": 18
   },
   {
     "title": "Everything Google announced at its Android Show, from Googlebooks to vibe-coded widgets",
@@ -167,27 +185,17 @@
     "summary": "Google unveiled its new AI-first Googlebooks laptops, more agentic Gemini features, vibe-coded Android widgets, Gemini in Chrome, refreshed Android Auto, and more ahead of I/O.",
     "category": "models",
     "image": "https://techcrunch.com/wp-content/uploads/2026/05/googlebook.png?resize=1200,843",
-    "id": 17
+    "id": 19
   },
   {
-    "title": "Google brings agentic AI and vibe-coded widgets to Android",
-    "url": "https://techcrunch.com/2026/05/12/google-brings-agentic-ai-and-vibe-coded-widgets-to-android/",
-    "source": "TechCrunch",
-    "date": "2026-05-12",
-    "summary": "Gemini Intelligence will also include Gboard based dictation and form filling capabilities",
-    "category": "models",
-    "image": "https://techcrunch.com/wp-content/uploads/2025/09/GettyImages-2233653192.jpg?resize=1200,786",
-    "id": 18
-  },
-  {
-    "title": "Google adds Gemini-powered Dictation to Gboard, which could be bad news for dictation startups",
+    "title": "Google adds Gemini-powered dictation to Gboard, which could be bad news for dictation startups",
     "url": "https://techcrunch.com/2026/05/12/google-adds-gemini-powered-dictation-to-gboard-which-could-be-bad-news-for-dictation-startups/",
     "source": "TechCrunch",
     "date": "2026-05-12",
-    "summary": "Google's transcription feature will initially launch with Samsung Galaxy and Google Pixel phones",
+    "summary": "Google's transcription feature will initially launch with Samsung Galaxy and Google Pixel phones.",
     "category": "models",
     "image": "https://techcrunch.com/wp-content/uploads/2026/01/google-gemini-jagmeet-singh-techcrunch.jpg?resize=1200,800",
-    "id": 19
+    "id": 20
   },
   {
     "title": "The AI legal services industry is heating up — Anthropic is getting in on the action",
@@ -197,7 +205,17 @@
     "summary": "Anthropic's new tools are designed to help law firms automate specific clerical functions — things like document search and review, case law resources, deposition prep, document drafting, and other re...",
     "category": "tools",
     "image": "https://techcrunch.com/wp-content/uploads/2026/02/GettyImages-2261514463.jpg?w=1024",
-    "id": 20
+    "id": 21
+  },
+  {
+    "title": "Google brings agentic AI and vibe-coded widgets to Android",
+    "url": "https://techcrunch.com/2026/05/12/google-brings-agentic-ai-and-vibe-coded-widgets-to-android/",
+    "source": "TechCrunch",
+    "date": "2026-05-12",
+    "summary": "Gemini Intelligence will also include Gboard-based dictation and form-filling capabilities.",
+    "category": "models",
+    "image": "https://techcrunch.com/wp-content/uploads/2025/09/GettyImages-2233653192.jpg?resize=1200,786",
+    "id": 22
   },
   {
     "title": "Threads tests a Meta AI integration that works similarly to Grok",
@@ -207,7 +225,7 @@
     "summary": "The feature is designed to help people get real-time context about trends and breaking stories, as well as receive recommendations, all within conversations.",
     "category": "models",
     "image": "https://techcrunch.com/wp-content/uploads/2026/02/threads-finger-GettyImages-2232887912.jpg?w=1024",
-    "id": 21
+    "id": 23
   },
   {
     "title": "Dessn raises $6M for its production-focused design tool",
@@ -217,7 +235,7 @@
     "summary": "A new startup called Dessn has raised $6 million to build AI-powered design tools that work directly with production codebases.",
     "category": "industry",
     "image": "https://techcrunch.com/wp-content/uploads/2026/05/Screenshot-2026-05-01-at-6.45.13-PM.jpeg?resize=1200,560",
-    "id": 22
+    "id": 24
   },
   {
     "title": "AI voice startup Vapi hits $500M valuation after winning Amazon Ring over 40 rivals",
@@ -227,7 +245,7 @@
     "summary": "Vapi says its enterprise business has grown tenfold since early 2025 as companies shift customer support and sales calls to AI agents.",
     "category": "industry",
     "image": "https://techcrunch.com/wp-content/uploads/2026/05/vapi-founders-jordan-dearsley-nikhil-gupta.jpg?resize=1200,800",
-    "id": 23
+    "id": 25
   },
   {
     "title": "Thinking Machines wants to build an AI that actually listens while it talks",
@@ -237,7 +255,7 @@
     "summary": "Right now, every AI model you've ever used works the same way. You talk, it listens. It responds, you listen. Thinking Machines is trying to change that by building a model that processes your input a...",
     "category": "industry",
     "image": "https://techcrunch.com/wp-content/uploads/2026/05/GettyImages-2271655163.jpg?resize=1200,879",
-    "id": 24
+    "id": 26
   },
   {
     "title": "Riding an AI rally, Robinhood preps second retail venture IPO",
@@ -247,7 +265,197 @@
     "summary": "Robinhood files confidentially for its second venture fund, this time targeting growth and early-stage startups.",
     "category": "industry",
     "image": "https://techcrunch.com/wp-content/uploads/2026/05/vlad-tenev-robinhood-GettyImages-2272038864.jpg?w=1024",
-    "id": 25
+    "id": 27
+  },
+  {
+    "title": "I built a free PII scanner for LLM prompts. No signup needed",
+    "url": "https://aisecuritygateway.ai/ai-leak-checker",
+    "source": "Hacker News",
+    "date": "2026-05-12",
+    "summary": "Article URL: https://aisecuritygateway.ai/ai-leak-checker Comments URL: https://news.ycombinator.com/item?id=48115158 Points: 2 # Comments: 0",
+    "category": "models",
+    "image": "https://aisecuritygateway.ai/ai-leak-checker/opengraph-image?6ab17ae2f6b487d3",
+    "id": 28
+  },
+  {
+    "title": "Long AI Short AGI",
+    "url": "https://1984.substack.com/p/long-ai-short-agi",
+    "source": "Hacker News",
+    "date": "2026-05-12",
+    "summary": "Article URL: https://1984.substack.com/p/long-ai-short-agi Comments URL: https://news.ycombinator.com/item?id=48115043 Points: 1 # Comments: 0",
+    "category": "industry",
+    "id": 29
+  },
+  {
+    "title": "The Emotional Cost of AI-Assisted Coding",
+    "url": "https://news.ycombinator.com/item?id=48114954",
+    "source": "Hacker News",
+    "date": "2026-05-12",
+    "summary": "This post doesn’t have a blog or article; it is a blog itself (kind of). I’m just sharing how coding agents feel. A little about me: I started CS in 2020. I liked being able to instruct and interact w...",
+    "category": "hardware",
+    "id": 30
+  },
+  {
+    "title": "Anthropic's Computer Use API: How AI Is Navigating Your Desktop Now",
+    "url": "https://www.aigridnews.com/anthropics-computer-use-api-how-ai-is-navigating-your-desktop-now",
+    "source": "Hacker News",
+    "date": "2026-05-12",
+    "summary": "Article URL: https://www.aigridnews.com/anthropics-computer-use-api-how-ai-is-navigating-your-desktop-now Comments URL: https://news.ycombinator.com/item?id=48114849 Points: 1 # Comments: 0",
+    "category": "tools",
+    "image": "https://cdn.aigridnews.com/2/photo_1647427060118_4911c9821b82_2454fcbd2a.jpeg",
+    "id": 31
+  },
+  {
+    "title": "Anthropic publicly releases AI tool that can take over the ' mouse cursor(2024)",
+    "url": "https://arstechnica.com/ai/2024/10/anthropic-publicly-releases-ai-tool-that-can-take-over-the-users-mouse-cursor/",
+    "source": "Hacker News",
+    "date": "2026-05-12",
+    "summary": "Article URL: https://arstechnica.com/ai/2024/10/anthropic-publicly-releases-ai-tool-that-can-take-over-the-users-mouse-cursor/ Comments URL: https://news.ycombinator.com/item?id=48114822 Points: 1 # C...",
+    "category": "tools",
+    "image": "https://cdn.arstechnica.net/wp-content/uploads/2024/10/Screenshot-2024-10-22-at-3.44.28 PM-1152x648.png",
+    "id": 32
+  },
+  {
+    "title": "I've been running an AI editorial pipeline on the Iran-US war for 75 days",
+    "url": "https://worldwarwatcher.com",
+    "source": "Hacker News",
+    "date": "2026-05-12",
+    "summary": "Article URL: https://worldwarwatcher.com Comments URL: https://news.ycombinator.com/item?id=48114647 Points: 1 # Comments: 0",
+    "category": "industry",
+    "image": "https://worldwarwatcher.com/images/og/default.png",
+    "id": 33
+  },
+  {
+    "title": "AI Strategy Has a Blind Spot: The Network",
+    "url": "https://www.kentik.com/blog/your-ai-strategy-has-a-blind-spot-the-network/",
+    "source": "Hacker News",
+    "date": "2026-05-12",
+    "summary": "Article URL: https://www.kentik.com/blog/your-ai-strategy-has-a-blind-spot-the-network/ Comments URL: https://news.ycombinator.com/item?id=48114554 Points: 1 # Comments: 0",
+    "category": "industry",
+    "image": "https://images.ctfassets.net/6yom6slo28h2/7v4k8NYHnK3E8yzRt7pMrb/b4800abc2cdf21665e910e401381105f/ai-strategy-blind-spot.jpg",
+    "id": 34
+  },
+  {
+    "title": "Show HN: GitGlimpse – CLI for understanding AI-generated Git diffs",
+    "url": "https://gitglimpse.com",
+    "source": "Hacker News",
+    "date": "2026-05-12",
+    "summary": "Built GitGlimpse — a CLI that helps you understand AI-generated code changes faster. Coding agents can generate huge diffs quickly, but reviewing those changes is getting harder — especially in PRs wh...",
+    "category": "industry",
+    "image": "https://gitglimpse.com/gitglimpse.png",
+    "id": 35
+  },
+  {
+    "title": "Three things in AI to watch, according to a Nobel-winning economist",
+    "url": "https://www.technologyreview.com/2026/05/11/1137090/three-things-in-ai-to-watch-according-to-a-nobel-winning-economist/",
+    "source": "Hacker News",
+    "date": "2026-05-12",
+    "summary": "Article URL: https://www.technologyreview.com/2026/05/11/1137090/three-things-in-ai-to-watch-according-to-a-nobel-winning-economist/ Comments URL: https://news.ycombinator.com/item?id=48114222 Points:...",
+    "category": "industry",
+    "image": "https://wp.technologyreview.com/wp-content/uploads/2026/05/260507_algo2.jpg?resize=1200,600",
+    "id": 36
+  },
+  {
+    "title": "Paper introduces Positive Alignment framework for AI",
+    "url": "https://twitter.com/RubenLaukkonen/status/2054215967584944599",
+    "source": "Hacker News",
+    "date": "2026-05-12",
+    "summary": "Article URL: https://twitter.com/RubenLaukkonen/status/2054215967584944599 Comments URL: https://news.ycombinator.com/item?id=48114167 Points: 1 # Comments: 0",
+    "category": "research",
+    "id": 37
+  },
+  {
+    "title": "Spar [KILL]: AI distribution agent for startups that identifies warm intro paths",
+    "url": "https://sparit.vc/spar/d/BPCf3D6XsY",
+    "source": "Hacker News",
+    "date": "2026-05-12",
+    "summary": "Article URL: https://sparit.vc/spar/d/BPCf3D6XsY Comments URL: https://news.ycombinator.com/item?id=48114062 Points: 1 # Comments: 0",
+    "category": "industry",
+    "id": 38
+  },
+  {
+    "title": "Ask HN: If AI has made engineers more efficient, why does everything feel worse?",
+    "url": "https://news.ycombinator.com/item?id=48113873",
+    "source": "Hacker News",
+    "date": "2026-05-12",
+    "summary": "constant outages, horrible UIs that won't change, security issues left and right. What's going on?! Comments URL: https://news.ycombinator.com/item?id=48113873 Points: 3 # Comments: 4",
+    "category": "industry",
+    "id": 39
+  },
+  {
+    "title": "Samsung is upgrading its smart refrigerators with Google AI to recognize foods",
+    "url": "https://qz.com/samsung-bespoke-fridge-google-gemini-ai-food-recognition-051126",
+    "source": "Hacker News",
+    "date": "2026-05-12",
+    "summary": "Article URL: https://qz.com/samsung-bespoke-fridge-google-gemini-ai-food-recognition-051126 Comments URL: https://news.ycombinator.com/item?id=48113781 Points: 2 # Comments: 0",
+    "category": "models",
+    "id": 40
+  },
+  {
+    "title": "Show HN: OCL Nexus – An automated compute layer for AI agents with native MCP",
+    "url": "https://oclnexus.com",
+    "source": "Hacker News",
+    "date": "2026-05-12",
+    "summary": "Article URL: https://oclnexus.com Comments URL: https://news.ycombinator.com/item?id=48113764 Points: 1 # Comments: 0",
+    "category": "industry",
+    "id": 41
+  },
+  {
+    "title": "Molière Ex Machina: AI used to create 'new work' by beloved French playwright",
+    "url": "https://www.theguardian.com/stage/2026/may/11/moliere-ex-machina-ai-create-new-work-france-equivalent-shakespeare",
+    "source": "Hacker News",
+    "date": "2026-05-12",
+    "summary": "Article URL: https://www.theguardian.com/stage/2026/may/11/moliere-ex-machina-ai-create-new-work-france-equivalent-shakespeare Comments URL: https://news.ycombinator.com/item?id=48113628 Points: 2 # C...",
+    "category": "industry",
+    "image": "https://i.guim.co.uk/img/media/7aaf595151330540fbd05c6c1ef47152525114db/413_0_4674_3740/master/4674.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=507213f29cc8830e7fba55293c51bdf8",
+    "id": 42
+  },
+  {
+    "title": "Kash Patel Touts AI Overhaul of FBI Crime-Fighting Operations",
+    "url": "https://decrypt.co/367431/kash-patel-ai-overhaul-fbi-crime-fighting-operations",
+    "source": "Hacker News",
+    "date": "2026-05-12",
+    "summary": "Article URL: https://decrypt.co/367431/kash-patel-ai-overhaul-fbi-crime-fighting-operations Comments URL: https://news.ycombinator.com/item?id=48113484 Points: 14 # Comments: 2",
+    "category": "industry",
+    "image": "https://cdn.decrypt.co/resize/1024/height/512/wp-content/uploads/2025/08/fbi-decrypt-style-gID_7.jpg",
+    "id": 43
+  },
+  {
+    "title": "Ask HN: Is delegating writing to AI like CEO delegating writing to a secretary?",
+    "url": "https://news.ycombinator.com/item?id=48113449",
+    "source": "Hacker News",
+    "date": "2026-05-12",
+    "summary": "And if so, why is one considered less acceptable than the other, especially on social media? Comments URL: https://news.ycombinator.com/item?id=48113449 Points: 2 # Comments: 2",
+    "category": "industry",
+    "id": 44
+  },
+  {
+    "title": "Qxotic.ai – AI Sovereignty for the JVM",
+    "url": "https://qxotic.ai/",
+    "source": "Hacker News",
+    "date": "2026-05-12",
+    "summary": "Article URL: https://qxotic.ai/ Comments URL: https://news.ycombinator.com/item?id=48113410 Points: 3 # Comments: 0",
+    "category": "industry",
+    "id": 45
+  },
+  {
+    "title": "Show HN: Ralph Workflow - Simple Agent-Agnostic AI Orchestrator based on Ralph.",
+    "url": "https://codeberg.org/RalphWorkflow/Ralph-Workflow",
+    "source": "Hacker News",
+    "date": "2026-05-12",
+    "summary": "Simple AI Orchestrator based on Ralph. The original Ralph idea was to repeat the same PROMPT over and over again, which was still a pretty powerful idea to this day. This workflow builds on top of the...",
+    "category": "tools",
+    "image": "https://codeberg.org/RalphWorkflow/Ralph-Workflow/-/summary-card",
+    "id": 46
+  },
+  {
+    "title": "AI Agents Under EU Law",
+    "url": "https://arxiv.org/abs/2604.04604",
+    "source": "Hacker News",
+    "date": "2026-05-12",
+    "summary": "Article URL: https://arxiv.org/abs/2604.04604 Comments URL: https://news.ycombinator.com/item?id=48113073 Points: 1 # Comments: 0",
+    "category": "research",
+    "id": 47
   },
   {
     "title": "World Models: 10 Things That Matter in AI Right Now",
@@ -257,7 +465,7 @@
     "summary": "World models recently made our list of 10 Things That Matter in AI Right Now. Watch executive editor Niall Firth explain why this emerging area of AI is gaining so much attention. Join MIT Technology ...",
     "category": "industry",
     "image": "https://wp.technologyreview.com/wp-content/uploads/2026/05/MITTR-Roundtables-Zoom-Opening-Overlay.png?resize=1200,600",
-    "id": 26
+    "id": 48
   },
   {
     "title": "The Download: a Nobel winner on AI, and the case for fixing everything",
@@ -267,7 +475,7 @@
     "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. Three things in AI to watch, according to a Nobel-winning econ...",
     "category": "research",
     "image": "https://wp.technologyreview.com/wp-content/uploads/2026/05/260507_algo2.jpg?resize=1200,600",
-    "id": 27
+    "id": 49
   },
   {
     "title": "Where Reliability Lives in Vision-Language Models: A Mechanistic Study of Attention, Hidden States, and Causal Circuits",
@@ -276,204 +484,6 @@
     "date": "2026-05-12",
     "summary": "A pervasive intuition holds that vision-language models (VLMs) are most trustworthy when their attention maps look sharp: concentrated attention on the queried region should imply a confident, calibra...",
     "category": "models",
-    "id": 28
-  },
-  {
-    "title": "Spatial Priming Outperforms Semantic Prompting: A Grid-Based Approach to Improving LLM Accuracy on Chart Data Extraction",
-    "url": "https://arxiv.org/abs/2605.08220",
-    "source": "arXiv cs.AI",
-    "date": "2026-05-12",
-    "summary": "The automated extraction of data from scientific charts is a critical task for large-scale literature analysis. While multimodal Large Language Models (LLMs) show promise, their accuracy on non-standa...",
-    "category": "research",
-    "id": 29
-  },
-  {
-    "title": "Auto-Rubric as Reward: From Implicit Preferences to Explicit Multimodal Generative Criteria",
-    "url": "https://arxiv.org/abs/2605.08354",
-    "source": "arXiv cs.AI",
-    "date": "2026-05-12",
-    "summary": "Aligning multimodal generative models with human preferences demands reward signals that respect the compositional, multi-dimensional structure of human judgment. Prevailing RLHF approaches reduce thi...",
-    "category": "research",
-    "id": 30
-  },
-  {
-    "title": "Embeddings for Preferences, Not Semantics",
-    "url": "https://arxiv.org/abs/2605.08360",
-    "source": "arXiv cs.AI",
-    "date": "2026-05-12",
-    "summary": "Modern AI is opening the door to collective decision-making in which participants express their views as free-form text rather than voting on a fixed set of candidates. A natural idea is to embed thes...",
-    "category": "hardware",
-    "id": 31
-  },
-  {
-    "title": "On Distinguishing Capability Elicitation from Capability Creation in Post-Training: A Free-Energy Perspective",
-    "url": "https://arxiv.org/abs/2605.08368",
-    "source": "arXiv cs.AI",
-    "date": "2026-05-12",
-    "summary": "Debates about large language model post-training often treat supervised fine-tuning (SFT) as imitation and reinforcement learning (RL) as discovery. But this distinction is too coarse. What matters is...",
-    "category": "models",
-    "id": 32
-  },
-  {
-    "title": "MemQ: Integrating Q-Learning into Self-Evolving Memory Agents over Provenance DAGs",
-    "url": "https://arxiv.org/abs/2605.08374",
-    "source": "arXiv cs.AI",
-    "date": "2026-05-12",
-    "summary": "Episodic memory allows LLM agents to accumulate and retrieve experience, but current methods treat each memory independently, i.e., evaluating retrieval quality in isolation without accounting for the...",
-    "category": "research",
-    "id": 33
-  },
-  {
-    "title": "SkillLens: Adaptive Multi-Granularity Skill Reuse for Cost-Efficient LLM Agents",
-    "url": "https://arxiv.org/abs/2605.08386",
-    "source": "arXiv cs.AI",
-    "date": "2026-05-12",
-    "summary": "Skill libraries have become a practical way for LLM agents to reuse procedural experience across tasks. However, existing systems typically treat skills as flat, single-resolution prompt blocks. This ...",
-    "category": "models",
-    "id": 34
-  },
-  {
-    "title": "PLACO: A Multi-Stage Framework for Cost-Effective Performance in Human-AI Teams",
-    "url": "https://arxiv.org/abs/2605.08388",
-    "source": "arXiv cs.AI",
-    "date": "2026-05-12",
-    "summary": "Human-AI teams play a pivotal role in improving overall system performance when neither the human nor the model can achieve such performance on their own. With the advent of powerful and accessible Ge...",
-    "category": "hardware",
-    "id": 35
-  },
-  {
-    "title": "CoCoDA: Co-evolving Compositional DAG for Tool-Augmented Agents",
-    "url": "https://arxiv.org/abs/2605.08399",
-    "source": "arXiv cs.AI",
-    "date": "2026-05-12",
-    "summary": "Tool-augmented language models can extend small language models with external executable skills, but scaling the tool library creates a coupled challenge: the library must evolve with the planner as n...",
-    "category": "tools",
-    "id": 36
-  },
-  {
-    "title": "Belief or Circuitry? Causal Evidence for In-Context Graph Learning",
-    "url": "https://arxiv.org/abs/2605.08405",
-    "source": "arXiv cs.AI",
-    "date": "2026-05-12",
-    "summary": "How do LLMs learn in-context? Is it by pattern-matching recent tokens, or by inferring latent structure? We probe this question using a toy graph random-walk across two competing graph structures. Thi...",
-    "category": "models",
-    "id": 37
-  },
-  {
-    "title": "Playing games with knowledge: AI-Induced delusions need game theoretic interventions",
-    "url": "https://arxiv.org/abs/2605.08409",
-    "source": "arXiv cs.AI",
-    "date": "2026-05-12",
-    "summary": "Conversational AI has a fundamental flaw as a knowledge interface: sycophantic chatbots induce epistemic entrenchment and delusional belief spirals even in rational agents. We propose the problem does...",
-    "category": "research",
-    "id": 38
-  },
-  {
-    "title": "Political Plasticity: An Analysis of Ideological Adaptability in Large Language Models",
-    "url": "https://arxiv.org/abs/2605.08415",
-    "source": "arXiv cs.AI",
-    "date": "2026-05-12",
-    "summary": "Since the advent of Large Language Models (LLMs), a significant area of research has focused on their intrinsic biases, particularly in political discourse. This study investigates a different but rel...",
-    "category": "models",
-    "id": 39
-  },
-  {
-    "title": "Alignment as Jurisprudence",
-    "url": "https://arxiv.org/abs/2605.08416",
-    "source": "arXiv cs.AI",
-    "date": "2026-05-12",
-    "summary": "Jurisprudence, the study of how judges should properly decide cases, and alignment, the science of getting AI models to conform to human values, share a fundamental structure. These seemingly distant ...",
-    "category": "research",
-    "id": 40
-  },
-  {
-    "title": "The Attacker in the Mirror: Breaking Self-Consistency in Safety via Anchored Bipolicy Self-Play",
-    "url": "https://arxiv.org/abs/2605.08427",
-    "source": "arXiv cs.AI",
-    "date": "2026-05-12",
-    "summary": "Self-play red team is an established approach to improving AI safety in which different instances of the same model play attacker and defender roles in a zero-sum game, i.e., where the attacker tries ...",
-    "category": "models",
-    "id": 41
-  },
-  {
-    "title": "Measuring What Matters: Benchmarking Generative, Multimodal, and Agentic AI in Healthcare",
-    "url": "https://arxiv.org/abs/2605.08445",
-    "source": "arXiv cs.AI",
-    "date": "2026-05-12",
-    "summary": "AI models are increasingly deployed in live clinical environments where they must perform reliably across complex, high-stakes workflows that standard training and validation datasets were never desig...",
-    "category": "models",
-    "id": 42
-  },
-  {
-    "title": "LLM-guided Semi-Supervised Approaches for Social Media Crisis Data Classification",
-    "url": "https://arxiv.org/abs/2605.08448",
-    "source": "arXiv cs.AI",
-    "date": "2026-05-12",
-    "summary": "Semi-supervised learning approaches have been investigated as a means to enhance the analysis of social media data in disaster management contexts. In this work, we present the first empirical evaluat...",
-    "category": "models",
-    "id": 43
-  },
-  {
-    "title": "Behavioral Determinants of Deployed AI Agents in Social Networks: A Multi-Factor Study of Personality, Model, and Guardrail Specification",
-    "url": "https://arxiv.org/abs/2605.08463",
-    "source": "arXiv cs.AI",
-    "date": "2026-05-12",
-    "summary": "Autonomous AI agents are increasingly deployed in open social environments, yet the relationship between their configuration specifications and their emergent social behavior remains poorly understood...",
-    "category": "research",
-    "id": 44
-  },
-  {
-    "title": "Mid-Training with Self-Generated Data Improves Reinforcement Learning in Language Models",
-    "url": "https://arxiv.org/abs/2605.08472",
-    "source": "arXiv cs.AI",
-    "date": "2026-05-12",
-    "summary": "The effectiveness of Reinforcement Learning (RL) in Large Language Models (LLMs) depends on the nature and diversity of the data used before and during RL. In particular, reasoning problems can often ...",
-    "category": "models",
-    "id": 45
-  },
-  {
-    "title": "AI-Care: A Conversational Agentic System for Task Coordination in Alzheimer's Disease Care",
-    "url": "https://arxiv.org/abs/2605.08480",
-    "source": "arXiv cs.AI",
-    "date": "2026-05-12",
-    "summary": "Individuals with Alzheimer's disease (AD) and Alzheimer's disease-related dementia (ADRD) experience memory and thinking changes that impact their ability to use digital daily management tools. For ex...",
-    "category": "hardware",
-    "id": 46
-  },
-  {
-    "title": "Latent Personality Alignment: Improving Harmlessness Without Mentioning Harms",
-    "url": "https://arxiv.org/abs/2605.08496",
-    "source": "arXiv cs.AI",
-    "date": "2026-05-12",
-    "summary": "Current adversarial robustness methods for large language models require extensive datasets of harmful prompts (thousands to hundreds of thousands of examples), yet remain vulnerable to novel attack v...",
-    "category": "models",
-    "id": 47
-  },
-  {
-    "title": "OracleTSC: Oracle-Informed Reward Hurdle and Uncertainty Regularization for Traffic Signal Control",
-    "url": "https://arxiv.org/abs/2605.08516",
-    "source": "arXiv cs.AI",
-    "date": "2026-05-12",
-    "summary": "Transparent decision-making is essential for traffic signal control (TSC) systems to earn public trust. However, traditional reinforcement learning-based TSC methods function as black boxes with limit...",
-    "category": "research",
-    "id": 48
-  },
-  {
-    "title": "Results and Retrospective Analysis of the CODS 2025 AssetOpsBench Challenge",
-    "url": "https://arxiv.org/abs/2605.08518",
-    "source": "arXiv cs.AI",
-    "date": "2026-05-12",
-    "summary": "Competition retrospectives are useful when they explain what a leaderboard measured, how hidden evaluation changed conclusions, and which design patterns were rewarded. We revisit the CODS 2025 \\asset...",
-    "category": "industry",
-    "id": 49
-  },
-  {
-    "title": "Human-LLM Dialogue Improves Diagnostic Accuracy in Emergency Care",
-    "url": "https://arxiv.org/abs/2605.08533",
-    "source": "arXiv cs.AI",
-    "date": "2026-05-12",
-    "summary": "Clinical decision-making in emergency medicine demands rapid, accurate diagnoses under uncertainty. Despite benchmark progress, evidence for LLMs as interactive aids in live physician workflows remain...",
-    "category": "research",
     "id": 50
   }
 ]
