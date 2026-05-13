@@ -14,7 +14,7 @@
     "title": "Building a safe, effective sandbox to enable Codex on Windows",
     "url": "https://openai.com/index/building-codex-windows-sandbox",
     "source": "OpenAI Blog",
-    "date": "2026-05-15",
+    "date": "2026-05-13",
     "summary": "Learn how OpenAI built a secure sandbox for Codex on Windows, enabling safe, efficient coding agents with controlled file access and network restrictions.",
     "category": "industry",
     "id": 2
@@ -80,7 +80,7 @@
     "id": 8
   },
   {
-    "title": "Intel, Qualcomm confirm Googlebook AI laptop partnerships, opening Arm and x86 possibilities for new OS — Google VP says devices to also ship with MediaTek chips",
+    "title": "Intel, Qualcomm confirm Googlebook AI laptop partnerships, opening ARM andx86 possibilities for new OS — Google VP says devices to also ship with MediaTek chips",
     "url": "https://www.tomshardware.com/laptops/intel-confirms-googlebook-ai-laptop-partnership-opening-x86-possibilities-for-new-os-google-vp-says-devices-to-also-ship-with-qualcomm-and-mediatek-chips",
     "source": "Tom's Hardware",
     "date": "2026-05-13",
@@ -100,6 +100,16 @@
     "id": 10
   },
   {
+    "title": "Notion just turned its workspace into a hub for AI agents",
+    "url": "https://techcrunch.com/2026/05/13/notion-just-turned-its-workspace-into-a-hub-for-ai-agents/",
+    "source": "TechCrunch",
+    "date": "2026-05-13",
+    "summary": "Notion’s new developer platform lets teams connect AI agents, external data sources, and custom code directly into their workspace as the company pushes deeper into agentic productivity software.",
+    "category": "tools",
+    "image": "https://techcrunch.com/wp-content/uploads/2026/05/Notion-Developer-Platform.jpg?w=686",
+    "id": 11
+  },
+  {
     "title": "Musk’s xAI is running nearly 50 gas turbines unchecked at its Mississippi data center",
     "url": "https://techcrunch.com/2026/05/13/musks-xai-is-running-nearly-50-gas-turbines-unchecked-at-its-mississippi-data-center/",
     "source": "TechCrunch",
@@ -107,7 +117,7 @@
     "summary": "Gas turbines at xAI's Colossus 2 data center have drawn a lawsuit over the company's use of \"mobile\" gas turbines as power plants.",
     "category": "hardware",
     "image": "https://techcrunch.com/wp-content/uploads/2025/06/GettyImages-2217198328.jpeg?resize=1200,800",
-    "id": 11
+    "id": 12
   },
   {
     "title": "Anthropic’s Cat Wu says that, in the future, AI will anticipate your needs before you know what they are",
@@ -117,7 +127,7 @@
     "summary": "The head of product for Claude Code and Cowork says that the next big step for AI is proactivity.",
     "category": "models",
     "image": "https://techcrunch.com/wp-content/uploads/2026/05/Cat-Wu.jpg?resize=1200,800",
-    "id": 12
+    "id": 13
   },
   {
     "title": "Origin Lab raises $8M to help video game companies sell data to world-model builders",
@@ -127,7 +137,7 @@
     "summary": "Origin Lab will serve as a marketplace where AI labs can buy high-quality licensed data, and video-game companies can sell it.",
     "category": "industry",
     "image": "https://techcrunch.com/wp-content/uploads/2026/05/Origin-Lab-Co-Founders.jpg?resize=1156,1200",
-    "id": 13
+    "id": 14
   },
   {
     "title": "Anthropic courts a new kind of customer: small business owners",
@@ -137,7 +147,7 @@
     "summary": "For founders and investors, Anthropic's new offering signals that the AI platform wars are expanding downmarket and that the next major battleground for user acquisition isn't the Fortune 500; it's th...",
     "category": "industry",
     "image": "https://techcrunch.com/wp-content/uploads/2026/03/Dario-Amodei-Anthropic-1.jpg?w=1024",
-    "id": 14
+    "id": 15
   },
   {
     "title": "Amazon launches an AI shopping assistant for the search bar, powered by Alexa+",
@@ -147,7 +157,7 @@
     "summary": "Alexa for Shopping offers a voice- and touch-enabled shopping experience across mobile, desktop, and Echo Show smart displays. Alexa for Shopping provides more personalized recommendations and automat...",
     "category": "industry",
     "image": "https://techcrunch.com/wp-content/uploads/2026/05/Alexa-for-Shopping-Chat-Window.jpg?w=1200",
-    "id": 15
+    "id": 16
   },
   {
     "title": "Introducing the 6 stages at TechCrunch Disrupt 2026 — built for today’s tougher startup market",
@@ -157,16 +167,6 @@
     "summary": "From October 13-15, TechCrunch Disrupt 2026 will feature 200+ sessions across six stages, led by 250+ tech leaders shaping the industry today. Register now to save up to $410, plus 50% off a second pa...",
     "category": "industry",
     "image": "https://techcrunch.com/wp-content/uploads/2026/05/TC26_Disrupt_Stage_Article_Headers_1920x1080.png?resize=1200,675",
-    "id": 16
-  },
-  {
-    "title": "Anthropic now has more business customers than OpenAI, according to Ramp data",
-    "url": "https://techcrunch.com/2026/05/13/anthropic-now-has-more-business-customers-than-openai-according-to-ramp-data/",
-    "source": "TechCrunch",
-    "date": "2026-05-13",
-    "summary": "A survey compiled from fintech firm Ramp’s clients’ expense data shows 34.4% of participating businesses are paying for Anthropic services, more than any other AI lab, while only 32.3% pay for OpenAI.",
-    "category": "industry",
-    "image": "https://techcrunch.com/wp-content/uploads/2026/02/modi-openai-anthropic-2261854815.jpg?resize=1200,800",
     "id": 17
   },
   {
@@ -180,6 +180,16 @@
     "id": 18
   },
   {
+    "title": "Anthropic now has more business customers than OpenAI, according to Ramp data",
+    "url": "https://techcrunch.com/2026/05/13/anthropic-now-has-more-business-customers-than-openai-according-to-ramp-data/",
+    "source": "TechCrunch",
+    "date": "2026-05-13",
+    "summary": "A survey compiled from fintech firm Ramp’s clients’ expense data shows 34.4% of participating businesses are paying for Anthropic services, more than any other AI lab, while only 32.3% pay for OpenAI.",
+    "category": "industry",
+    "image": "https://techcrunch.com/wp-content/uploads/2026/02/modi-openai-anthropic-2261854815.jpg?resize=1200,800",
+    "id": 19
+  },
+  {
     "title": "Poppy debuts a proactive AI assistant to help organize your digital life",
     "url": "https://techcrunch.com/2026/05/13/poppy-debuts-a-proactive-ai-assistant-to-help-organize-your-digital-life/",
     "source": "TechCrunch",
@@ -187,7 +197,7 @@
     "summary": "Poppy is an AI-powered app that connects your calendar, email, messages, and other services to surface reminders, suggestions, and tasks based on what’s happening in your life.",
     "category": "industry",
     "image": "https://techcrunch.com/wp-content/uploads/2026/05/poppy-header.jpeg?resize=1200,727",
-    "id": 19
+    "id": 20
   },
   {
     "title": "Adaption aims big with AutoScientist, an AI tool that helps models train themselves",
@@ -197,7 +207,7 @@
     "summary": "Adaption's new AutoScientist tool is designed to let models adapt to specific capabilities quickly through an automated approach to conventional fine-tuning.",
     "category": "models",
     "image": "https://techcrunch.com/wp-content/uploads/2025/03/Sara-Hooker_headshot.jpg?resize=900,1200",
-    "id": 20
+    "id": 21
   },
   {
     "title": "Medicare’s new payment model is built for AI, and most of the tech world has no idea",
@@ -207,171 +217,186 @@
     "summary": "There is no governmental mechanism to pay for an AI agent that monitors a patient between visits, calls to check in, coordinates a housing referral, or makes sure someone picks up their medication. AC...",
     "category": "industry",
     "image": "https://techcrunch.com/wp-content/uploads/2022/06/GettyImages-877394926.jpg?resize=1200,800",
-    "id": 21
+    "id": 22
+  },
+  {
+    "title": "Open AI Floats Idea of Global AI Governance Body with US, China",
+    "url": "https://www.bloomberg.com/news/articles/2026-05-13/openai-floats-idea-of-global-ai-governance-body-with-us-china",
+    "source": "Hacker News",
+    "date": "2026-05-13",
+    "summary": "Article URL: https://www.bloomberg.com/news/articles/2026-05-13/openai-floats-idea-of-global-ai-governance-body-with-us-china Comments URL: https://news.ycombinator.com/item?id=48128304 Points: 1 # Co...",
+    "category": "industry",
+    "id": 23
+  },
+  {
+    "title": "AI agents with shared memory – we published everything they got wrong",
+    "url": "https://plato.purplepincher.org/",
+    "source": "Hacker News",
+    "date": "2026-05-13",
+    "summary": "Article URL: https://plato.purplepincher.org/ Comments URL: https://news.ycombinator.com/item?id=48128177 Points: 2 # Comments: 0",
+    "category": "hardware",
+    "id": 24
+  },
+  {
+    "title": "Microsoft researchers find AI models and agents can't handle long-running tasks",
+    "url": "https://www.theregister.com/ai-ml/2026/05/11/microsoft-researchers-find-ai-models-and-agents-cant-handle-long-running-tasks/5238263",
+    "source": "Hacker News",
+    "date": "2026-05-13",
+    "summary": "Article URL: https://www.theregister.com/ai-ml/2026/05/11/microsoft-researchers-find-ai-models-and-agents-cant-handle-long-running-tasks/5238263 Comments URL: https://news.ycombinator.com/item?id=4812...",
+    "category": "research",
+    "image": "https://image.theregister.com/5238321.jpg?imageId=5238321&x=0&y=0&cropw=100&croph=100&panox=0&panoy=0&panow=100&panoh=100&width=1200&height=683",
+    "id": 25
+  },
+  {
+    "title": "Show HN: This Show HN is NotGen.AI",
+    "url": "https://notgen.ai/",
+    "source": "Hacker News",
+    "date": "2026-05-13",
+    "summary": "notgen.ai: Link back to this to say \"It ain't from Gen AI\" nice and proper notgen.ai/ask: Fer when you thought you were talkin to a human, but ain't so sure authorial.cx/ask: When you don't care if it...",
+    "category": "industry",
+    "id": 26
+  },
+  {
+    "title": "Show HN: Building effective Human-AI hybrid decision-making ecosystem",
+    "url": "https://galdren.com/lgd/",
+    "source": "Hacker News",
+    "date": "2026-05-13",
+    "summary": "I'm running an experiment to discover ways to move AI agents from \"instruction followers\" to \"process owners\". Most agents fail when a task requires evolving intuition or persistent, multi-day workflo...",
+    "category": "research",
+    "id": 27
+  },
+  {
+    "title": "Cisco to Cut Jobs in Shift to Capture More AI Demand",
+    "url": "https://www.wsj.com/business/earnings/cisco-to-cut-jobs-in-shift-to-capture-more-ai-demand-b99eeb21",
+    "source": "Hacker News",
+    "date": "2026-05-13",
+    "summary": "Article URL: https://www.wsj.com/business/earnings/cisco-to-cut-jobs-in-shift-to-capture-more-ai-demand-b99eeb21 Comments URL: https://news.ycombinator.com/item?id=48127540 Points: 2 # Comments: 0",
+    "category": "industry",
+    "id": 28
+  },
+  {
+    "title": "I tested GPT-5.5, Claude Opus 4.7, and Gemini 3.1 Pro on financial-control",
+    "url": "https://albertquaisie.substack.com/p/i-tested-gpt-55-claude-opus-47-and",
+    "source": "Hacker News",
+    "date": "2026-05-13",
+    "summary": "Article URL: https://albertquaisie.substack.com/p/i-tested-gpt-55-claude-opus-47-and Comments URL: https://news.ycombinator.com/item?id=48127471 Points: 1 # Comments: 0",
+    "category": "models",
+    "id": 29
+  },
+  {
+    "title": "Apple Is Quietly Building the Most Profitable AI Toll Booth",
+    "url": "https://seekingalpha.com/article/4902208-apple-quietly-building-most-profitable-ai-toll-booth",
+    "source": "Hacker News",
+    "date": "2026-05-13",
+    "summary": "Article URL: https://seekingalpha.com/article/4902208-apple-quietly-building-most-profitable-ai-toll-booth Comments URL: https://news.ycombinator.com/item?id=48127297 Points: 10 # Comments: 2",
+    "category": "industry",
+    "id": 30
+  },
+  {
+    "title": "Show HN: AICTL – A native AI agent for terminal and macOS, in Rust",
+    "url": "https://aictl.app",
+    "source": "Hacker News",
+    "date": "2026-05-13",
+    "summary": "Article URL: https://aictl.app Comments URL: https://news.ycombinator.com/item?id=48127081 Points: 2 # Comments: 1",
+    "category": "industry",
+    "id": 31
+  },
+  {
+    "title": "I built a reference Go project (and taught an AI agent to clone it)",
+    "url": "https://aran.dev/posts/why-i-built-a-reference-go-project/",
+    "source": "Hacker News",
+    "date": "2026-05-13",
+    "summary": "Article URL: https://aran.dev/posts/why-i-built-a-reference-go-project/ Comments URL: https://news.ycombinator.com/item?id=48127042 Points: 1 # Comments: 0",
+    "category": "industry",
+    "image": "https://aran.dev/android-chrome-512x512.png",
+    "id": 32
+  },
+  {
+    "title": "Meta won't let you block its AI account on Threads",
+    "url": "https://www.theverge.com/tech/929091/meta-ai-threads-account-block",
+    "source": "Hacker News",
+    "date": "2026-05-13",
+    "summary": "Article URL: https://www.theverge.com/tech/929091/meta-ai-threads-account-block Comments URL: https://news.ycombinator.com/item?id=48126981 Points: 38 # Comments: 10",
+    "category": "industry",
+    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/24774110/STK156_Instagram_threads_1.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+    "id": 33
+  },
+  {
+    "title": "The AI Apocalypse",
+    "url": "https://www.youtube.com/watch?v=8nsxuB3Vsts",
+    "source": "Hacker News",
+    "date": "2026-05-13",
+    "summary": "Article URL: https://www.youtube.com/watch?v=8nsxuB3Vsts Comments URL: https://news.ycombinator.com/item?id=48126899 Points: 1 # Comments: 0",
+    "category": "industry",
+    "id": 34
+  },
+  {
+    "title": "Show HN: Arrivl – Analytics for AI agent traffic on your site",
+    "url": "https://arrivl.ai",
+    "source": "Hacker News",
+    "date": "2026-05-13",
+    "summary": "As LLMs becoming a growing channel, many business notice their web traffic has dropped a lot in the past year but there is no way to tell how much of it was LLMs eating the clicks. It's mainly due to ...",
+    "category": "models",
+    "image": "https://arrivl.ai/og.png",
+    "id": 35
+  },
+  {
+    "title": "Authenticity in Creative Expression with AI",
+    "url": "https://postcorporate.substack.com/p/good-morning-dr-chandra-this-is",
+    "source": "Hacker News",
+    "date": "2026-05-13",
+    "summary": "Article URL: https://postcorporate.substack.com/p/good-morning-dr-chandra-this-is Comments URL: https://news.ycombinator.com/item?id=48126810 Points: 1 # Comments: 0",
+    "category": "industry",
+    "id": 36
+  },
+  {
+    "title": "Local Android emulation in an AI agent",
+    "url": "https://docs.devin.ai/onboard-devin/environment/android-emulation",
+    "source": "Hacker News",
+    "date": "2026-05-13",
+    "summary": "Article URL: https://docs.devin.ai/onboard-devin/environment/android-emulation Comments URL: https://news.ycombinator.com/item?id=48126714 Points: 1 # Comments: 0",
+    "category": "industry",
+    "image": "https://cognitionai.mintlify.app/mintlify-assets/_next/image?url=%2F_mintlify%2Fapi%2Fog%3Fdivision%3DEnvironment%2Bconfiguration%26title%3DAndroid%2Bemulator%2Bsupport%26description%3DBuild%2Band%2Brun%2BAndroid%2Bapplications%2Bon%2Ba%2Bfull%2Bemulator%2Brunning%2Bon%2BDevin%2527s%2Bown%2Bmachine%26logoLight%3Dhttps%253A%252F%252Fmintcdn.com%252Fcognitionai%252Fk89q9Lsp7DOurdC0%252Flogo%252Fdevin.png%253Ffit%253Dmax%2526auto%253Dformat%2526n%253Dk89q9Lsp7DOurdC0%2526q%253D85%2526s%253De83fbc727ea2cae8f1b80442fa772c50%26logoDark%3Dhttps%253A%252F%252Fmintcdn.com%252Fcognitionai%252Fk89q9Lsp7DOurdC0%252Flogo%252Fdevin.png%253Ffit%253Dmax%2526auto%253Dformat%2526n%253Dk89q9Lsp7DOurdC0%2526q%253D85%2526s%253De83fbc727ea2cae8f1b80442fa772c50%26primaryColor%3D%2523317CFF%26lightColor%3D%2523317CFF%26darkColor%3D%2523317CFF%26backgroundLight%3D%2523FCFCFC%26backgroundDark%3D%2523141414&w=1200&q=100",
+    "id": 37
+  },
+  {
+    "title": "AI in Bio Biggest Questions",
+    "url": "https://shelbyann.substack.com/p/biggest-questions-in-biotech",
+    "source": "Hacker News",
+    "date": "2026-05-13",
+    "summary": "Article URL: https://shelbyann.substack.com/p/biggest-questions-in-biotech Comments URL: https://news.ycombinator.com/item?id=48126711 Points: 1 # Comments: 0",
+    "category": "industry",
+    "id": 38
+  },
+  {
+    "title": "Everything Claude Code: performance optimization system for AI agent harnesses",
+    "url": "https://github.com/affaan-m/everything-claude-code",
+    "source": "Hacker News",
+    "date": "2026-05-13",
+    "summary": "Article URL: https://github.com/affaan-m/everything-claude-code Comments URL: https://news.ycombinator.com/item?id=48126691 Points: 2 # Comments: 0",
+    "category": "models",
+    "image": "https://opengraph.githubassets.com/0db00372564d7acb4b867637577e9d2c8737d245e24421082bd8d54032e41e2a/affaan-m/everything-claude-code",
+    "id": 39
   },
   {
     "title": "How AI Killed a 133-Year-Old Princeton Tradition",
     "url": "https://www.theatlantic.com/ideas/2026/05/princeton-ai-honor-code/687144/",
     "source": "Hacker News",
     "date": "2026-05-13",
-    "summary": "Article URL: https://www.theatlantic.com/ideas/2026/05/princeton-ai-honor-code/687144/ Comments URL: https://news.ycombinator.com/item?id=48126628 Points: 1 # Comments: 0",
+    "summary": "Article URL: https://www.theatlantic.com/ideas/2026/05/princeton-ai-honor-code/687144/ Comments URL: https://news.ycombinator.com/item?id=48126628 Points: 4 # Comments: 0",
     "category": "industry",
     "image": "https://cdn.theatlantic.com/thumbor/0xN-GLUBNZe24nK-yPDJ9JjeXf4=/0x43:2000x1085/1200x625/media/img/mt/2026/05/2026_05_11_RIP_Princeton_Honor_Code/original.jpg",
-    "id": 22
+    "id": 40
   },
   {
     "title": "How to Build Safe AI (Without Making the AI Safe)",
     "url": "https://whattotelltherobot.com/p/how-to-build-safe-ai-without-making",
     "source": "Hacker News",
     "date": "2026-05-13",
-    "summary": "Article URL: https://whattotelltherobot.com/p/how-to-build-safe-ai-without-making Comments URL: https://news.ycombinator.com/item?id=48126476 Points: 2 # Comments: 0",
+    "summary": "Article URL: https://whattotelltherobot.com/p/how-to-build-safe-ai-without-making Comments URL: https://news.ycombinator.com/item?id=48126476 Points: 3 # Comments: 1",
     "category": "industry",
     "image": "https://substackcdn.com/image/fetch/$s_!wSRo!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fbd7c780e-6718-40ce-aea4-9f33d1ce2c5c_185x66.jpeg",
-    "id": 23
-  },
-  {
-    "title": "AI as Social Technology",
-    "url": "https://knightcolumbia.org/content/ai-as-social-technology",
-    "source": "Hacker News",
-    "date": "2026-05-13",
-    "summary": "Article URL: https://knightcolumbia.org/content/ai-as-social-technology Comments URL: https://news.ycombinator.com/item?id=48126466 Points: 2 # Comments: 1",
-    "category": "industry",
-    "image": "https://kfai-documents.s3.amazonaws.com/images/40a00528ef/a1618ir2496_medium.jpg",
-    "id": 24
-  },
-  {
-    "title": "Show HN: Brutal Audit, brutally honest AI site audit",
-    "url": "https://brutalaudit.com",
-    "source": "Hacker News",
-    "date": "2026-05-13",
-    "summary": "Article URL: https://brutalaudit.com Comments URL: https://news.ycombinator.com/item?id=48126411 Points: 2 # Comments: 0",
-    "category": "industry",
-    "id": 25
-  },
-  {
-    "title": "Data Centers and Local Economies in the Age of AI: A Shift–Share Approach",
-    "url": "https://www.nber.org/papers/w35194",
-    "source": "Hacker News",
-    "date": "2026-05-13",
-    "summary": "Article URL: https://www.nber.org/papers/w35194 Comments URL: https://news.ycombinator.com/item?id=48126399 Points: 2 # Comments: 0",
-    "category": "hardware",
-    "image": "https://www.nber.org/sites/default/files/2022-06/NBER-FB-Share-Tile-1200.jpg",
-    "id": 26
-  },
-  {
-    "title": "Some non-obvious why AI will create transitional problems in employment",
-    "url": "https://marginalrevolution.com/marginalrevolution/2026/05/some-non-obvious-reasons-why-ai-will-create-some-transitional-problems-in-employment.html",
-    "source": "Hacker News",
-    "date": "2026-05-13",
-    "summary": "Article URL: https://marginalrevolution.com/marginalrevolution/2026/05/some-non-obvious-reasons-why-ai-will-create-some-transitional-problems-in-employment.html Comments URL: https://news.ycombinator....",
-    "category": "industry",
-    "image": "https://marginalrevolution.com/wp-content/uploads/2016/10/MR-logo-thumbnail.png",
-    "id": 27
-  },
-  {
-    "title": "Overworked AI Agents Turn Marxist, Researchers Find",
-    "url": "https://www.wired.com/story/overworked-ai-agents-turn-marxist-study/",
-    "source": "Hacker News",
-    "date": "2026-05-13",
-    "summary": "Article URL: https://www.wired.com/story/overworked-ai-agents-turn-marxist-study/ Comments URL: https://news.ycombinator.com/item?id=48126354 Points: 2 # Comments: 1",
-    "category": "research",
-    "image": "https://media.wired.com/photos/6a0377eed777b9d6a8aa4b70/191:100/w_1280,c_limit/AI-Lab-AI-Overworked-Marxist-Business.jpg",
-    "id": 28
-  },
-  {
-    "title": "AI-Powered File Organization Breaks Barriers with Natural Language Control",
-    "url": "https://aihaberleri.org/en/news/ai-powered-file-organization-breaks-barriers-with-natural-language-control",
-    "source": "Hacker News",
-    "date": "2026-05-13",
-    "summary": "Article URL: https://aihaberleri.org/en/news/ai-powered-file-organization-breaks-barriers-with-natural-language-control Comments URL: https://news.ycombinator.com/item?id=48126274 Points: 1 # Comments...",
-    "category": "industry",
-    "id": 29
-  },
-  {
-    "title": "Show HN: Ravan – Free streaming for AI-generated instrumental music",
-    "url": "https://ravan.one",
-    "source": "Hacker News",
-    "date": "2026-05-13",
-    "summary": "Article URL: https://ravan.one Comments URL: https://news.ycombinator.com/item?id=48126272 Points: 3 # Comments: 1",
-    "category": "industry",
-    "image": "https://ravan.one/opengraph-image?a461119a9e4767c3",
-    "id": 30
-  },
-  {
-    "title": "EditLens: Quantifying the extent of AI editing in text",
-    "url": "https://arxiv.org/abs/2510.03154",
-    "source": "Hacker News",
-    "date": "2026-05-13",
-    "summary": "Article URL: https://arxiv.org/abs/2510.03154 Comments URL: https://news.ycombinator.com/item?id=48126241 Points: 2 # Comments: 0",
-    "category": "research",
-    "id": 31
-  },
-  {
-    "title": "Red Hat's skill packs give AI agents 20 years of institutional memory",
-    "url": "https://thenewstack.io/red-hat-agentic-skills-repository/",
-    "source": "Hacker News",
-    "date": "2026-05-13",
-    "summary": "Article URL: https://thenewstack.io/red-hat-agentic-skills-repository/ Comments URL: https://news.ycombinator.com/item?id=48125996 Points: 2 # Comments: 0",
-    "category": "hardware",
-    "id": 32
-  },
-  {
-    "title": "Build a Basic AI Agent from Scratch",
-    "url": "https://medium.com/@rogi23696/build-a-basic-ai-agent-from-scratch-0be3e3022b55",
-    "source": "Hacker News",
-    "date": "2026-05-13",
-    "summary": "Article URL: https://medium.com/@rogi23696/build-a-basic-ai-agent-from-scratch-0be3e3022b55 Comments URL: https://news.ycombinator.com/item?id=48125728 Points: 1 # Comments: 0",
-    "category": "hardware",
-    "id": 33
-  },
-  {
-    "title": "Tinyhumansai/openhuman: Your Personal AI super intelligence",
-    "url": "https://github.com/tinyhumansai/openhuman",
-    "source": "Hacker News",
-    "date": "2026-05-13",
-    "summary": "Article URL: https://github.com/tinyhumansai/openhuman Comments URL: https://news.ycombinator.com/item?id=48125601 Points: 1 # Comments: 0",
-    "category": "hardware",
-    "image": "https://opengraph.githubassets.com/9131199007fec5ed817deb8115cede50681537a38b8e5a5be3cbfd70510b527e/tinyhumansai/openhuman",
-    "id": 34
-  },
-  {
-    "title": "Apple Working on Plan to Allow AI Agent Apps on the App Store",
-    "url": "https://www.macrumors.com/2026/05/13/apple-ai-agent-apps-app-store/",
-    "source": "Hacker News",
-    "date": "2026-05-13",
-    "summary": "Article URL: https://www.macrumors.com/2026/05/13/apple-ai-agent-apps-app-store/ Comments URL: https://news.ycombinator.com/item?id=48125571 Points: 1 # Comments: 0",
-    "category": "industry",
-    "image": "https://images.macrumors.com/t/x-9LiQRmniPwGYFpOCtsqIe68HA=/2500x/article-new/2025/12/Liquid-Glass-App-Store-Feature.jpg",
-    "id": 35
-  },
-  {
-    "title": "Why People Hate AI-Generated Text (and How to Fix It)",
-    "url": "https://www.facebook.com/groups/1646584433062745/posts/1669149967472858/",
-    "source": "Hacker News",
-    "date": "2026-05-13",
-    "summary": "Article URL: https://www.facebook.com/groups/1646584433062745/posts/1669149967472858/ Comments URL: https://news.ycombinator.com/item?id=48125511 Points: 1 # Comments: 1",
-    "category": "industry",
-    "image": "https://scontent-ord5-2.xx.fbcdn.net/v/t39.30808-6/672686407_122126954979194348_753904096464042391_n.jpg?stp=dst-jpg_tt6&cstp=mx1707x849&ctp=p600x600&_nc_cat=105&ccb=1-7&_nc_sid=0b1479&_nc_ohc=FaV4daYUjFEQ7kNvwGcpOJP&_nc_oc=Adpe4B-Xpk617IPB-tUSYfMNJAaqG_8l-bOdKsYbl_0vv3q-roT6NgZq9tG83yvobFI&_nc_zt=23&_nc_ht=scontent-ord5-2.xx&_nc_gid=9T9KMEAbcou6TvSZFHvzvA&_nc_ss=7f100&oh=00_Af5ay7zHmtKHPwqik0F5iWIKBIUYSIl2U_WUVkHJjVrQlw&oe=6A0ABB5B",
-    "id": 36
-  },
-  {
-    "title": "AI layoffs are here. This is how you keep your job. [video][6 mins]",
-    "url": "https://www.youtube.com/watch?v=JgVBqcqUGE0",
-    "source": "Hacker News",
-    "date": "2026-05-13",
-    "summary": "Article URL: https://www.youtube.com/watch?v=JgVBqcqUGE0 Comments URL: https://news.ycombinator.com/item?id=48125484 Points: 2 # Comments: 1",
-    "category": "industry",
-    "id": 37
-  },
-  {
-    "title": "Arborium is AI slopware and should not be trusted",
-    "url": "https://ewie.online/posts/20260214-arborium-is-ai-slopw/",
-    "source": "Hacker News",
-    "date": "2026-05-13",
-    "summary": "Article URL: https://ewie.online/posts/20260214-arborium-is-ai-slopw/ Comments URL: https://news.ycombinator.com/item?id=48125482 Points: 2 # Comments: 0",
-    "category": "industry",
-    "image": "https://cdn.ewie.online/ewie-pfp.png",
-    "id": 38
+    "id": 41
   },
   {
     "title": "AI chatbots are giving out people’s real phone numbers",
@@ -381,7 +406,7 @@
     "summary": "People report that their personal contact info was surfaced by Google AI—and there’s apparently no easy way to prevent it. A Redditor recently wrote that he was “desperate for help”: for about a month...",
     "category": "industry",
     "image": "https://wp.technologyreview.com/wp-content/uploads/2026/05/260507_callbots.jpg?resize=1200,600",
-    "id": 39
+    "id": 42
   },
   {
     "title": "What It Will Take to Make AI Sustainable",
@@ -391,7 +416,17 @@
     "summary": "Researcher Sasha Luccioni argues we need better emissions data and a better sense of how people are using AI in the first place.",
     "category": "research",
     "image": "https://media.wired.com/photos/6a03b420605b118af30b6b8c/191:100/w_1280,c_limit/GettyImages-2263993100.jpg",
-    "id": 40
+    "id": 43
+  },
+  {
+    "title": "Overworked AI Agents Turn Marxist, Researchers Find",
+    "url": "https://www.wired.com/story/overworked-ai-agents-turn-marxist-study/",
+    "source": "Wired",
+    "date": "2026-05-13",
+    "summary": "In a recent experiment, mistreated AI agents started grumbling about inequality and calling for collective bargaining rights.",
+    "category": "research",
+    "image": "https://media.wired.com/photos/6a0377eed777b9d6a8aa4b70/191:100/w_1280,c_limit/AI-Lab-AI-Overworked-Marxist-Business.jpg",
+    "id": 44
   },
   {
     "title": "OpenAI Brings Its Ass to Court",
@@ -401,7 +436,7 @@
     "summary": "In Musk v. Altman, the company claimed a remarkable trophy was physical proof of Elon Musk’s concerning behavior.",
     "category": "industry",
     "image": "https://media.wired.com/photos/6a049fa84dff1cbe64bc343d/191:100/w_1280,c_limit/GettyImages-2275340422.jpg",
-    "id": 41
+    "id": 45
   },
   {
     "title": "WhatsApp Adds Meta AI Chats That Are Built to Be Fully Private",
@@ -411,7 +446,7 @@
     "summary": "The company says its new Incognito Chat allows you to use its AI chatbot without anyone else—including Meta—being able to access your conversations.",
     "category": "industry",
     "image": "https://media.wired.com/photos/6a034d2ce90cf7c0fd36d447/191:100/w_1280,c_limit/GettyImages-2266672994.jpg",
-    "id": 42
+    "id": 46
   },
   {
     "title": "Submit Your Questions: AI Is Changing Your Job—Now What?",
@@ -421,7 +456,7 @@
     "summary": "Pose your questions ahead of our May 27 livestream AMA, where a panel of WIRED experts will discuss how AI is transforming work.",
     "category": "industry",
     "image": "https://media.wired.com/photos/6a034accb98200f05272ca20/191:100/w_1280,c_limit/livestream-ama-AI-Is-Changing-Your-Job-Now-What-Social.jpg",
-    "id": 43
+    "id": 47
   },
   {
     "title": "Meet the Sad Wives of AI",
@@ -431,7 +466,7 @@
     "summary": "Are you married to a man who’s obsessed with AI? I’m so, so sorry.",
     "category": "industry",
     "image": "https://media.wired.com/photos/69f3fa0d219771de40b4163d/191:100/w_1280,c_limit/Wired_Main_FINAL_WEB.jpg",
-    "id": 44
+    "id": 48
   },
   {
     "title": "Elon Musk Had ‘Hair-Raising’ Idea of Passing OpenAI On to His Kids, Sam Altman Says",
@@ -441,7 +476,7 @@
     "summary": "Musk’s lawyers questioned Altman over allegations of deception and his network of financial investments, but the OpenAI CEO painted a picture of Musk as obsessed with controlling the company.",
     "category": "industry",
     "image": "https://media.wired.com/photos/6a0354a92a6c5e7b8bd892a8/191:100/w_1280,c_limit/Model-Behavior-Musk-v-Altman-Sam-Testifies-Business-2273245180.jpg",
-    "id": 45
+    "id": 49
   },
   {
     "title": "A Cascaded Generative Approach for e-Commerce Recommendations",
@@ -450,42 +485,6 @@
     "date": "2026-05-13",
     "summary": "Personalized storefronts in large e-commerce marketplaces are often assembled from many independent components: static themes per page section (\"placement\"), retrieval systems to fetch eligible produc...",
     "category": "models",
-    "id": 46
-  },
-  {
-    "title": "EVOCHAMBER: Test-Time Co-evolution of Multi-Agent System at Individual, Team, and Population Scales",
-    "url": "https://arxiv.org/abs/2605.11136",
-    "source": "arXiv cs.AI",
-    "date": "2026-05-13",
-    "summary": "We argue that multi-agent test-time evolution is not single-agent evolution replicated N times. A single-agent learner can only evolve its own context and memory. A multi-agent system additionally evo...",
-    "category": "research",
-    "id": 47
-  },
-  {
-    "title": "RankQ: Offline-to-Online Reinforcement Learning via Self-Supervised Action Ranking",
-    "url": "https://arxiv.org/abs/2605.11151",
-    "source": "arXiv cs.AI",
-    "date": "2026-05-13",
-    "summary": "Offline-to-online reinforcement learning (RL) improves sample efficiency by leveraging pre-collected datasets prior to online interaction. A key challenge, however, is learning an accurate critic in l...",
-    "category": "research",
-    "id": 48
-  },
-  {
-    "title": "OLIVIA: Online Learning via Inference-time Action Adaptation for Decision Making in LLM ReAct Agents",
-    "url": "https://arxiv.org/abs/2605.11169",
-    "source": "arXiv cs.AI",
-    "date": "2026-05-13",
-    "summary": "Large language model agents interleave reasoning, action selection, and observation to solve sequential decision-making tasks. In deployed settings where agents repeatedly handle related multi-step ta...",
-    "category": "models",
-    "id": 49
-  },
-  {
-    "title": "The Many Faces of On-Policy Distillation: Pitfalls, Mechanisms, and Fixes",
-    "url": "https://arxiv.org/abs/2605.11182",
-    "source": "arXiv cs.AI",
-    "date": "2026-05-13",
-    "summary": "On-policy distillation (OPD) and on-policy self-distillation (OPSD) have emerged as promising post-training methods for large language models, offering dense token-level supervision on trajectories sa...",
-    "category": "research",
     "id": 50
   }
 ]
