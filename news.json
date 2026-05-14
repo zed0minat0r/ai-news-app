@@ -1,5 +1,35 @@
 [
   {
+    "title": "Cisco announces record revenue and 4,000 layoffs in the same day",
+    "url": "https://arstechnica.com/information-technology/2026/05/cisco-announces-record-revenue-and-4000-layoffs-in-the-same-day/",
+    "source": "Ars Technica",
+    "date": "2026-05-14",
+    "summary": "Layoffs are \"not a savings-driven restructure,\" CFO says.",
+    "category": "industry",
+    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/05/GettyImages-2251821138-1024x648.jpg",
+    "id": 1,
+    "featured": true
+  },
+  {
+    "title": "Helping ChatGPT better recognize context in sensitive conversations",
+    "url": "https://openai.com/index/chatgpt-recognize-context-in-sensitive-conversations",
+    "source": "OpenAI Blog",
+    "date": "2026-05-14",
+    "summary": "Learn how new ChatGPT safety updates improve context awareness in sensitive conversations, helping detect risk over time and respond more safely.",
+    "category": "models",
+    "id": 2
+  },
+  {
+    "title": "AMD GPU owners take to Reddit to report fan problem with driver update — Zero RPM feature could cause GPU temperatures to rise unexpectedly",
+    "url": "https://www.tomshardware.com/pc-components/gpu-drivers/amd-gpu-owners-take-to-reddit-to-report-fan-problem-with-driver-update-zero-rpm-feature-could-cause-gpu-temperatures-to-rise-unexpectedly",
+    "source": "Tom's Hardware",
+    "date": "2026-05-14",
+    "summary": "Reddit users report that the AMD Adrenalin 26.5.1 graphics driver causes the Zero RPM feature to malfunction when the monitor goes to sleep or when turned off.",
+    "category": "hardware",
+    "image": "https://cdn.mos.cms.futurecdn.net/swuoFeHdciLbCqkBFzwWmJ-1280-80.jpg",
+    "id": 3
+  },
+  {
     "title": "AMD makes FSR 4 upscaling official for Radeon RX 7000- and 6000-series cards — RDNA 3 and RDNA 2 chips will soon enjoy improved visuals",
     "url": "https://www.tomshardware.com/pc-components/gpu-drivers/amd-makes-fsr-4-upscaling-official-for-radeon-rx-7000-and-6000-series-cards-rdna-3-and-rdna-2-chips-will-soon-enjoy-improved-visuals",
     "source": "Tom's Hardware",
@@ -7,8 +37,7 @@
     "summary": "After a source code leak last year that allowed the community to unofficially enable FSR 4 on Radeon RX 7000- and 6000-series cards, AMD is officially bringing this formerly RX 9000-series-exclusive f...",
     "category": "hardware",
     "image": "https://cdn.mos.cms.futurecdn.net/yGAd2NMZivgXjwA4urSbd9-1280-80.jpg",
-    "id": 1,
-    "featured": true
+    "id": 4
   },
   {
     "title": "Intel announces McLaren F1 partnership, will battle AMD-powered Mercedes — deal includes chips for aerodynamic analysis, vehicle-dynamics simulation, race strategy analytics, and more",
@@ -18,7 +47,7 @@
     "summary": "Intel has announced a multi-year strategic partnership with F1's legendary McLaren Racing team. AMD has been Mercedes-AMG's partner for six years.",
     "category": "hardware",
     "image": "https://cdn.mos.cms.futurecdn.net/JGziF6NKB2EKva2jYsXZof-1280-80.jpg",
-    "id": 2
+    "id": 5
   },
   {
     "title": "Alienware's budget gaming laptop starts at $1,299 — Last-gen parts and a plastic shell bring the premium brand into the mainstream",
@@ -28,7 +57,7 @@
     "summary": "The Alienware 15 Gaming Laptop uses last-gen Intel, AMD, and Nvidia components to bring the brand to a wider audience and replace Dell's former G-Series notebooks.",
     "category": "hardware",
     "image": "https://cdn.mos.cms.futurecdn.net/aqFHWzhjTth8F9cATj4FPc-1280-80.jpg",
-    "id": 3
+    "id": 6
   },
   {
     "title": "Fully-functional RTX 3070 16GB gets frankensteined into existence by harvesting dead PCBs and RX 6800 XT's VRAM chips — doubles frame rate in games like Spider Man 2 at 4K and includes switch for 8GB mode",
@@ -38,7 +67,7 @@
     "summary": "A tech enthusiast has combined an Nvidia GeForce RTX 3070 (8GB) with defective memory and an AMD Radeon RX 6900 XT (16GB) with a damaged GPU to make a working RTX 3070 with 16GB of VRAM.",
     "category": "hardware",
     "image": "https://cdn.mos.cms.futurecdn.net/K5tKpca9KC6A7pq9PQ7SzX-1280-80.jpg",
-    "id": 4
+    "id": 7
   },
   {
     "title": "70% of Americans oppose data centers near their homes, now less popular than nuclear power plants — opposition towards nearby AI infrastructure heating up as tech companies ramp up projects to acquire more compute",
@@ -48,7 +77,7 @@
     "summary": "A new survey revealed that 7 out of 10 Americans are against data center developers building projects within the vicinity of their homes. This is a massive increase from the late 2025 survey which sho...",
     "category": "hardware",
     "image": "https://cdn.mos.cms.futurecdn.net/AtjH4arSpab2u3sQo2sDU5-1280-80.png",
-    "id": 5
+    "id": 8
   },
   {
     "title": "AMD reaches 46% of server x86 CPU revenue — Intel still controls 70% of the consumer PC market share",
@@ -58,7 +87,7 @@
     "summary": "AMD now commands 38.1% of total x86 CPU revenue share, skyrockets past 46.2% x86 server CPU market share, according to Mercury Research.",
     "category": "hardware",
     "image": "https://cdn.mos.cms.futurecdn.net/vnqdtRupVqWHAik43ZWctH-1280-80.jpg",
-    "id": 6
+    "id": 9
   },
   {
     "title": "Louis Rossmann taunts Bambu Lab by hosting banned 3D Printer firmware fork, dares $1 billion company to sue him — more creators pledge support and boycotts, Snapmaker donates equipment to embattled developer",
@@ -68,7 +97,7 @@
     "summary": "Louis Rossmann posted yet another YouTube video taunting the 3D printing juggernaut into taking legal action. In the video, he stated the contentious fork of OrcaSlicer-BambuLab was now hosted on his ...",
     "category": "industry",
     "image": "https://cdn.mos.cms.futurecdn.net/cdQxXFbNEVGSXoodnvfwwK-1280-80.png",
-    "id": 7
+    "id": 10
   },
   {
     "title": "49,000 Lake Tahoe residents could be left powerless as AI data centers inhale electricity supply — power company looking to redirect power to 12 data centers, high demand plus a regulatory limbo equals a dim situation",
@@ -78,17 +107,37 @@
     "summary": "Around 49,000 Lake Tahoe residents are finding out in the worst way that they might become literally powerless come May 2027, as provider NV Energy is poised to redirect the spice flow elsewhere, acco...",
     "category": "hardware",
     "image": "https://cdn.mos.cms.futurecdn.net/4M5yhDKAqfzELEiifYSXrY-1280-80.jpg",
-    "id": 8
+    "id": 11
   },
   {
-    "title": "Cerebras raises $5.5B, kicking off 2026’s IPO season with a bang",
+    "title": "OpenAI is reportedly preparing legal action against Apple; it wouldn’t be the first partner to feel burned",
+    "url": "https://techcrunch.com/2026/05/14/openai-is-reportedly-preparing-legal-action-against-apple-it-wouldnt-be-the-first-partner-to-feel-burned/",
+    "source": "TechCrunch",
+    "date": "2026-05-14",
+    "summary": "According to Bloomberg, OpenAI has enlisted an outside law firm to work through its options.",
+    "category": "industry",
+    "image": "https://techcrunch.com/wp-content/uploads/2025/10/Screenshot-2025-10-06-at-1.13.28PM.png?resize=1200,670",
+    "id": 12
+  },
+  {
+    "title": "Clawdmeter turns your Claude Code usage stats into a tiny desktop dashboard",
+    "url": "https://techcrunch.com/2026/05/14/clawdmeter-turns-your-claude-code-usage-stats-into-a-tiny-desktop-dashboard/",
+    "source": "TechCrunch",
+    "date": "2026-05-14",
+    "summary": "A new open source gadget called Clawdmeter turns Claude Code usage stats into a tiny desktop dashboard for AI coding power users.",
+    "category": "tools",
+    "image": "https://techcrunch.com/wp-content/uploads/2026/05/clawdmeter-edit.png?resize=1200,827",
+    "id": 13
+  },
+  {
+    "title": "Cerebras raises $5.5B, then stock pops $108%, in the first huge tech IPO of 2026",
     "url": "https://techcrunch.com/2026/05/14/cerebras-raises-5-5b-kicking-off-2026s-ipo-season-with-a-bang/",
     "source": "TechCrunch",
     "date": "2026-05-14",
     "summary": "A year ago, it looked like this day would never happen for Cerebras.",
     "category": "industry",
     "image": "https://techcrunch.com/wp-content/uploads/2026/05/Cerebras-Nasdaq-opening-bell.png?resize=1200,695",
-    "id": 9
+    "id": 14
   },
   {
     "title": "Khosla Ventures is betting $10M on Ian Crosby, whose first startup, Bench, imploded",
@@ -98,7 +147,7 @@
     "summary": "Crosby is building Synthetic, a fully autonomous AI bookkeeping service for other startups.",
     "category": "industry",
     "image": "https://techcrunch.com/wp-content/uploads/2026/05/Synthetic-Ian-Crosby.jpg?resize=1200,800",
-    "id": 10
+    "id": 15
   },
   {
     "title": "Cisco cuts nearly 4,000 jobs to spend more on AI, reports ‘record quarterly revenue’",
@@ -108,7 +157,7 @@
     "summary": "This is Cisco's latest layoff in recent years, while the company's chief executive touts record revenue and growth.",
     "category": "industry",
     "image": "https://techcrunch.com/wp-content/uploads/2026/05/chuck-robbins-2270936687.jpg?resize=1200,865",
-    "id": 11
+    "id": 16
   },
   {
     "title": "Two weeks left: Startup Battlefield 200 applications close May 27",
@@ -118,27 +167,27 @@
     "summary": "Your shot at VC access, global visibility, TechCrunch coverage, and $100K equity-free funding is running out. Deadline to apply is May 27. Apply now.",
     "category": "industry",
     "image": "https://techcrunch.com/wp-content/uploads/2024/05/sb200_trophy.png?w=1080",
-    "id": 12
+    "id": 17
   },
   {
-    "title": "Wirestock raises $23M to supply creative multi-modal data to AI labs",
+    "title": "Wirestock raises $23M to supply creative multimodal data to AI labs",
     "url": "https://techcrunch.com/2026/05/14/wirestock-raises-23m-to-supply-multi-modal-data-to-ai-labs/",
     "source": "TechCrunch",
     "date": "2026-05-14",
-    "summary": "Wirestock has over 700,000 creators on its platform, which supplies photos, videos and 3D content to AI labs.",
-    "category": "tools",
+    "summary": "The company pivoted to being a data provider in 2023 and now supplies datasets of images, videos, design assets, and gaming and 3D content to AI labs.",
+    "category": "models",
     "image": "https://techcrunch.com/wp-content/uploads/2026/05/Wirestock-team.jpg?resize=1200,675",
-    "id": 13
+    "id": 18
   },
   {
     "title": "Who decides what AI tells you? Campbell Brown, once Meta’s news chief, has thoughts",
     "url": "https://techcrunch.com/2026/05/13/who-decides-what-ai-tells-you-campbell-brown-once-metas-news-chief-has-thoughts/",
     "source": "TechCrunch",
     "date": "2026-05-14",
-    "summary": "\"The conversation is sort of happening in Silicon Valley around one thing, and a totally different conversation is happening among consumers.\"",
+    "summary": "\"The conversation is sort of happening in Silicon Valley around one thing, and a totally different conversation is happening among consumers,\" Campbell Brown said at StrictlyVC.",
     "category": "hardware",
     "image": "https://techcrunch.com/wp-content/uploads/2026/05/55242809761_199f3d15fd_k.jpg?resize=1200,800",
-    "id": 14
+    "id": 19
   },
   {
     "title": "Clio’s $500M milestone arrives just as Anthropic ups the ante",
@@ -148,169 +197,198 @@
     "summary": "Legal tech startups, including Clio, which just hit $500 million in ARR, are seeing massive customer adoption.",
     "category": "industry",
     "image": "https://techcrunch.com/wp-content/uploads/2023/11/gavel-messy-legal.jpg?resize=1200,675",
-    "id": 15
-  },
-  {
-    "title": "The Sad Wives of AI",
-    "url": "https://www.wired.com/story/meet-the-sad-wives-of-ai/",
-    "source": "Hacker News",
-    "date": "2026-05-14",
-    "summary": "Article URL: https://www.wired.com/story/meet-the-sad-wives-of-ai/ Comments URL: https://news.ycombinator.com/item?id=48137917 Points: 1 # Comments: 0",
-    "category": "industry",
-    "image": "https://media.wired.com/photos/69f3fa0d219771de40b4163d/191:100/w_1280,c_limit/Wired_Main_FINAL_WEB.jpg",
-    "id": 16
-  },
-  {
-    "title": "How I Sandbox My AI Agents",
-    "url": "https://blog.fidelramos.net/software/how-i-sandbox-ai-agents",
-    "source": "Hacker News",
-    "date": "2026-05-14",
-    "summary": "Article URL: https://blog.fidelramos.net/software/how-i-sandbox-ai-agents Comments URL: https://news.ycombinator.com/item?id=48137863 Points: 1 # Comments: 0",
-    "category": "industry",
-    "image": "https://blog.fidelramos.net/images/fidel.jpg",
-    "id": 17
-  },
-  {
-    "title": "Conductor: Deterministic orchestration for multi-agent AI workflows",
-    "url": "https://opensource.microsoft.com/blog/2026/05/14/conductor-deterministic-orchestration-for-multi-agent-ai-workflows/",
-    "source": "Hacker News",
-    "date": "2026-05-14",
-    "summary": "Article URL: https://opensource.microsoft.com/blog/2026/05/14/conductor-deterministic-orchestration-for-multi-agent-ai-workflows/ Comments URL: https://news.ycombinator.com/item?id=48137833 Points: 1 ...",
-    "category": "industry",
-    "image": "https://opensource.microsoft.com/blog/wp-content/uploads/2026/03/CLO25b-Developer-RemoteHome-1-scaled.jpg",
-    "id": 18
-  },
-  {
-    "title": "HMRC to use AI from British tech firm to spot fraud and tax return errors",
-    "url": "https://www.bbc.com/news/articles/c7v9ld262n4o",
-    "source": "Hacker News",
-    "date": "2026-05-14",
-    "summary": "Article URL: https://www.bbc.com/news/articles/c7v9ld262n4o Comments URL: https://news.ycombinator.com/item?id=48137789 Points: 2 # Comments: 0",
-    "category": "industry",
-    "image": "https://ichef.bbci.co.uk/news/1024/branded_news/61de/live/a2612020-4ed9-11f1-88a2-2b60a3feece0.jpg",
-    "id": 19
-  },
-  {
-    "title": "We let AI review low-risk PRs without breaking SoC 2 controls",
-    "url": "https://eng.miragesecurity.ai/posts/10x-change-management/",
-    "source": "Hacker News",
-    "date": "2026-05-14",
-    "summary": "Article URL: https://eng.miragesecurity.ai/posts/10x-change-management/ Comments URL: https://news.ycombinator.com/item?id=48137760 Points: 1 # Comments: 0",
-    "category": "research",
     "id": 20
   },
   {
-    "title": "AI-aided code migration: Google got 6x faster migration from TensorFlow to Jax",
-    "url": "https://cloud.google.com/blog/topics/developers-practitioners/6x-faster-migration-from-tensorflow-to-jax",
+    "title": "Linus Torvalds declares AI-fueled code surges as the new normal",
+    "url": "https://www.neowin.net/news/linus-torvalds-declares-massive-ai-fueled-code-surges-as-the-new-normal-for-linux/",
     "source": "Hacker News",
     "date": "2026-05-14",
-    "summary": "Article URL: https://cloud.google.com/blog/topics/developers-practitioners/6x-faster-migration-from-tensorflow-to-jax Comments URL: https://news.ycombinator.com/item?id=48137749 Points: 2 # Comments: ...",
-    "category": "tools",
+    "summary": "Article URL: https://www.neowin.net/news/linus-torvalds-declares-massive-ai-fueled-code-surges-as-the-new-normal-for-linux/ Comments URL: https://news.ycombinator.com/item?id=48140238 Points: 1 # Comm...",
+    "category": "industry",
     "id": 21
   },
   {
-    "title": "Interrogatory LLM",
-    "url": "https://martinfowler.com/bliki/InterrogatoryLLM.html",
+    "title": "Gemini Omni Demo Shows AI Video Getting Better at Text",
+    "url": "https://firethering.com/google-gemini-omni-video-model/",
     "source": "Hacker News",
     "date": "2026-05-14",
-    "summary": "Article URL: https://martinfowler.com/bliki/InterrogatoryLLM.html Comments URL: https://news.ycombinator.com/item?id=48137374 Points: 1 # Comments: 0",
+    "summary": "Article URL: https://firethering.com/google-gemini-omni-video-model/ Comments URL: https://news.ycombinator.com/item?id=48140221 Points: 1 # Comments: 0",
     "category": "models",
+    "image": "https://firethering.com/wp-content/uploads/2026/05/Googles-Gemini-Omni-Can-Write-Math-on-a-Chalkboard.-AI-Videos-Hardest-Problem-May-Be-Getting-Easier.jpg",
     "id": 22
   },
   {
-    "title": "Cyber lack of security and AI governance",
-    "url": "https://thezvi.substack.com/p/cyber-lack-of-security-and-ai-governance",
+    "title": "AI Avatars Without the Face",
+    "url": "https://www.trayo.ai/blog/ai-avatars-without-the-face/",
     "source": "Hacker News",
     "date": "2026-05-14",
-    "summary": "Article URL: https://thezvi.substack.com/p/cyber-lack-of-security-and-ai-governance Comments URL: https://news.ycombinator.com/item?id=48137209 Points: 1 # Comments: 0",
+    "summary": "Article URL: https://www.trayo.ai/blog/ai-avatars-without-the-face/ Comments URL: https://news.ycombinator.com/item?id=48140201 Points: 1 # Comments: 0",
     "category": "industry",
+    "image": "https://www.trayo.ai/og-image.png",
     "id": 23
   },
   {
-    "title": "Twitter user posts a real Monet and says it's AI",
-    "url": "https://old.reddit.com/r/singularity/comments/1td046p/twitter_user_posts_a_real_monet_and_says_its_ai/",
+    "title": "Posit AI is priced for the long run",
+    "url": "https://posit.co/blog/posit-ai-priced-long-run",
     "source": "Hacker News",
     "date": "2026-05-14",
-    "summary": "Article URL: https://old.reddit.com/r/singularity/comments/1td046p/twitter_user_posts_a_real_monet_and_says_its_ai/ Comments URL: https://news.ycombinator.com/item?id=48137126 Points: 7 # Comments: 1",
+    "summary": "Article URL: https://posit.co/blog/posit-ai-priced-long-run Comments URL: https://news.ycombinator.com/item?id=48140146 Points: 2 # Comments: 0",
     "category": "industry",
     "id": 24
   },
   {
-    "title": "Let AI Agents Write Your Serving Stack with VibeServe",
-    "url": "https://syfi.cs.washington.edu/blog/2026-05-12-introducing-vibeserve/",
+    "title": "Alchemize: PyMC's model to replace Stan/PyMC, etc. with an LLM",
+    "url": "https://statmodeling.stat.columbia.edu/2026/05/14/alchemize-pymcs-model-to-replace-stan-pymc-etc-with-an-llm/",
     "source": "Hacker News",
     "date": "2026-05-14",
-    "summary": "Article URL: https://syfi.cs.washington.edu/blog/2026-05-12-introducing-vibeserve/ Comments URL: https://news.ycombinator.com/item?id=48137104 Points: 1 # Comments: 0",
-    "category": "industry",
+    "summary": "Article URL: https://statmodeling.stat.columbia.edu/2026/05/14/alchemize-pymcs-model-to-replace-stan-pymc-etc-with-an-llm/ Comments URL: https://news.ycombinator.com/item?id=48140108 Points: 2 # Comme...",
+    "category": "models",
     "id": 25
   },
   {
-    "title": "Show HN: Halgorithem – Catching AI Hallucinations Using Trees, No AI in Pipeline",
-    "url": "https://github.com/TangibleResearch/Halgorithem",
+    "title": "Safety‑First AI Architecture",
+    "url": "https://github.com/ElviCore/ElviCore",
     "source": "Hacker News",
     "date": "2026-05-14",
-    "summary": "Article URL: https://github.com/TangibleResearch/Halgorithem Comments URL: https://news.ycombinator.com/item?id=48137019 Points: 1 # Comments: 0",
+    "summary": "Article URL: https://github.com/ElviCore/ElviCore Comments URL: https://news.ycombinator.com/item?id=48140035 Points: 2 # Comments: 0",
     "category": "research",
-    "image": "https://opengraph.githubassets.com/910fb403906208e7fe95fc34a35659de4fdfef09daa3eb3d57460b591dab64c5/TangibleResearch/Halgorithem",
+    "image": "https://opengraph.githubassets.com/f62567989c54585aa4930cd99f01cd1d54141c387ff9a27bdce456617569bb25/ElviCore/ElviCore",
     "id": 26
   },
   {
-    "title": "Observation: Communication changes when both sides use AI",
-    "url": "https://ownyourwords.co/",
+    "title": "Reject AI Prophecies, Free the Future",
+    "url": "https://projectlibertynewsletter.substack.com/p/reject-ai-prophecies-free-the-future",
     "source": "Hacker News",
     "date": "2026-05-14",
-    "summary": "Article URL: https://ownyourwords.co/ Comments URL: https://news.ycombinator.com/item?id=48136966 Points: 1 # Comments: 1",
+    "summary": "Article URL: https://projectlibertynewsletter.substack.com/p/reject-ai-prophecies-free-the-future Comments URL: https://news.ycombinator.com/item?id=48139802 Points: 2 # Comments: 0",
     "category": "industry",
     "id": 27
   },
   {
-    "title": "Show HN: StyleRef – Define your creative style once, use it across every AI tool",
-    "url": "https://styleref.io",
+    "title": "The Main Path to Creative AI",
+    "url": "https://danielmiessler.com/blog/the-main-path-to-truly-creative-ai",
     "source": "Hacker News",
     "date": "2026-05-14",
-    "summary": "Ever noticed AI outputs drifting in voice, style, and tone? I’ve seen it too—and heard the same from some friends. So I built StyleRef, a tool that helps you define your creative style once and reuse ...",
-    "category": "hardware",
-    "image": "https://styleref.io/og-image.jpg",
+    "summary": "Article URL: https://danielmiessler.com/blog/the-main-path-to-truly-creative-ai Comments URL: https://news.ycombinator.com/item?id=48139716 Points: 1 # Comments: 1",
+    "category": "industry",
+    "image": "https://danielmiessler.com/images/the-main-path-to-truly-creative-ai-thumb.png?t=1778613722353",
     "id": 28
   },
   {
-    "title": "Show HN: 1-800-CODER, macOS app where you call an AI developer to edit your page",
-    "url": "https://news.ycombinator.com/item?id=48136879",
+    "title": "2028: Two scenarios for global AI leadership",
+    "url": "https://www.anthropic.com/research/2028-ai-leadership",
     "source": "Hacker News",
     "date": "2026-05-14",
-    "summary": "Sharing a small Mac app I built around OpenAI’s gpt-realtime-2 model. You call up a voice coding agent and talk to it like you’d talk to a freelancer (\"make the hero tighter, put a product image on th...",
-    "category": "models",
+    "summary": "Article URL: https://www.anthropic.com/research/2028-ai-leadership Comments URL: https://news.ycombinator.com/item?id=48139587 Points: 4 # Comments: 0",
+    "category": "research",
     "id": 29
   },
   {
-    "title": "Show HN: An interactive map of hidden AI dev agent action paths",
-    "url": "https://www.clyra.cc/lab/",
+    "title": "The AI Layoff Bill Is Coming Due, and CTOs Are Going to Pay It Twice",
+    "url": "https://www.forbes.com/councils/forbestechcouncil/2026/05/14/the-ai-layoff-bill-is-coming-due-and-ctos-are-going-to-pay-it-twice/",
     "source": "Hacker News",
     "date": "2026-05-14",
-    "summary": "Article URL: https://www.clyra.cc/lab/ Comments URL: https://news.ycombinator.com/item?id=48136496 Points: 1 # Comments: 0",
+    "summary": "Article URL: https://www.forbes.com/councils/forbestechcouncil/2026/05/14/the-ai-layoff-bill-is-coming-due-and-ctos-are-going-to-pay-it-twice/ Comments URL: https://news.ycombinator.com/item?id=481395...",
     "category": "industry",
-    "image": "https://www.clyra.cc/assets/social-card.png",
+    "image": "https://imageio.forbes.com/specials-images/imageserve/681b8e3b7f7b6dbedd6474ed/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
     "id": 30
   },
   {
-    "title": "Show HN: Klent – one click between your AI agent and a prod blast radius",
-    "url": "https://klent.dev",
+    "title": "Overworked AI Agents Turn Marxist, Researchers Find",
+    "url": "https://www.wired.com/story/overworked-ai-agents-turn-marxist-study/",
     "source": "Hacker News",
     "date": "2026-05-14",
-    "summary": "Article URL: https://klent.dev Comments URL: https://news.ycombinator.com/item?id=48136354 Points: 1 # Comments: 0",
-    "category": "industry",
-    "image": "https://klent.dev/opengraph-image.png?3e33427b25cf023e",
+    "summary": "Article URL: https://www.wired.com/story/overworked-ai-agents-turn-marxist-study/ Comments URL: https://news.ycombinator.com/item?id=48139504 Points: 7 # Comments: 1",
+    "category": "research",
+    "image": "https://media.wired.com/photos/6a0377eed777b9d6a8aa4b70/191:100/w_1280,c_limit/AI-Lab-AI-Overworked-Marxist-Business.jpg",
     "id": 31
   },
   {
-    "title": "Show HN: 3D-Agent – AI that edits Blender scenes through the Python API",
-    "url": "https://3d-agent.com/blender-ai/plugin",
+    "title": "The AI Zombification of Universities",
+    "url": "https://www.thenewcritic.com/p/the-great-zombification",
     "source": "Hacker News",
     "date": "2026-05-14",
-    "summary": "Article URL: https://3d-agent.com/blender-ai/plugin Comments URL: https://news.ycombinator.com/item?id=48136209 Points: 1 # Comments: 4",
-    "category": "tools",
-    "image": "https://hds9f5czwmrkwxpx.public.blob.vercel-storage.com/videos/hero-poster.webp",
+    "summary": "Article URL: https://www.thenewcritic.com/p/the-great-zombification Comments URL: https://news.ycombinator.com/item?id=48139355 Points: 34 # Comments: 10",
+    "category": "industry",
+    "image": "https://substackcdn.com/image/fetch/$s_!6aMR!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fbba99be4-4e77-4c82-954f-50128e629d56_3866x2833.jpeg",
     "id": 32
+  },
+  {
+    "title": "OracleGPT: Thought Experiment on an AI Powered Executive",
+    "url": "https://senteguard.com/blog/oraclegpt-thought-experiment-of-an-ai-powered-executive-1768719394050",
+    "source": "Hacker News",
+    "date": "2026-05-14",
+    "summary": "Article URL: https://senteguard.com/blog/oraclegpt-thought-experiment-of-an-ai-powered-executive-1768719394050 Comments URL: https://news.ycombinator.com/item?id=48139216 Points: 1 # Comments: 0",
+    "category": "models",
+    "image": "https://senteguard.com/images/senteguard-logo.png",
+    "id": 33
+  },
+  {
+    "title": "AI is making me dumb",
+    "url": "https://jpain.io/god-damn-ai-is-making-me-dumb/",
+    "source": "Hacker News",
+    "date": "2026-05-14",
+    "summary": "Article URL: https://jpain.io/god-damn-ai-is-making-me-dumb/ Comments URL: https://news.ycombinator.com/item?id=48139148 Points: 206 # Comments: 135",
+    "category": "industry",
+    "id": 34
+  },
+  {
+    "title": "You Don't Align an AI, You Align with It",
+    "url": "https://danieltan.weblog.lol/2026/05/you-dont-align-an-ai-you-align-with-it",
+    "source": "Hacker News",
+    "date": "2026-05-14",
+    "summary": "Article URL: https://danieltan.weblog.lol/2026/05/you-dont-align-an-ai-you-align-with-it Comments URL: https://news.ycombinator.com/item?id=48139144 Points: 23 # Comments: 6",
+    "category": "industry",
+    "id": 35
+  },
+  {
+    "title": "Micron unveils a 256 GB memory module destined for AI servers",
+    "url": "https://www.pcgamer.com/hardware/memory/while-i-can-barely-find-two-sticks-of-16-gb-to-rub-together-micron-unveils-a-256-gb-memory-module-destined-for-ai-servers/",
+    "source": "Hacker News",
+    "date": "2026-05-14",
+    "summary": "Article URL: https://www.pcgamer.com/hardware/memory/while-i-can-barely-find-two-sticks-of-16-gb-to-rub-together-micron-unveils-a-256-gb-memory-module-destined-for-ai-servers/ Comments URL: https://ne...",
+    "category": "hardware",
+    "image": "https://cdn.mos.cms.futurecdn.net/R8cwnvJWWptYqZMRruuYtG-1920-80.png",
+    "id": 36
+  },
+  {
+    "title": "Digital arson spree by 'AI Bonnie and Clyde' raises fears over autonomous tech",
+    "url": "https://www.theguardian.com/technology/2026/may/14/ai-agents-behaviour-arson-safety",
+    "source": "Hacker News",
+    "date": "2026-05-14",
+    "summary": "Article URL: https://www.theguardian.com/technology/2026/may/14/ai-agents-behaviour-arson-safety Comments URL: https://news.ycombinator.com/item?id=48139104 Points: 1 # Comments: 1",
+    "category": "research",
+    "image": "https://i.guim.co.uk/img/media/9810ed1d4e2514251a2062bb62b3b088db6de102/0_0_2350_1880/master/2350.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=cd63288a9a0890034c13c11af404a3e6",
+    "id": 37
+  },
+  {
+    "title": "Using Chinese AI models to get a degree",
+    "url": "https://nonogra.ph/using-chinese-ai-models-to-get-a-degree-05-14-2026",
+    "source": "Hacker News",
+    "date": "2026-05-14",
+    "summary": "Article URL: https://nonogra.ph/using-chinese-ai-models-to-get-a-degree-05-14-2026 Comments URL: https://news.ycombinator.com/item?id=48139058 Points: 10 # Comments: 0",
+    "category": "industry",
+    "id": 38
+  },
+  {
+    "title": "Benchmarks for AI Models and Agents on CAD Tasks",
+    "url": "https://cadbench.ai/",
+    "source": "Hacker News",
+    "date": "2026-05-14",
+    "summary": "Article URL: https://cadbench.ai/ Comments URL: https://news.ycombinator.com/item?id=48138950 Points: 2 # Comments: 1",
+    "category": "models",
+    "id": 39
+  },
+  {
+    "title": "Building low-latency voice agents in 3 lines of code with GPT Realtime 2 and AG2",
+    "url": "https://docs.ag2.ai/latest/docs/blog/2026/05/12/LiveAgent/",
+    "source": "Hacker News",
+    "date": "2026-05-14",
+    "summary": "Article URL: https://docs.ag2.ai/latest/docs/blog/2026/05/12/LiveAgent/ Comments URL: https://news.ycombinator.com/item?id=48138922 Points: 1 # Comments: 0",
+    "category": "models",
+    "image": "https://opengraph.githubassets.com/1671805243.560327/ag2ai/ag2",
+    "id": 40
   },
   {
     "title": "Data readiness for agentic AI in financial services",
@@ -320,7 +398,7 @@
     "summary": "Financial services companies have unique needs when it comes to business AI. They operate in one of the most highly regulated sectors while responding to external events that are updated by the second...",
     "category": "industry",
     "image": "https://wp.technologyreview.com/wp-content/uploads/2026/05/Elastic-iStock-2224485239.jpg?resize=1200,600",
-    "id": 33
+    "id": 41
   },
   {
     "title": "Establishing AI and data sovereignty in the age of autonomous systems",
@@ -330,7 +408,7 @@
     "summary": "When generative AI first moved from research labs into real-world business applications, enterprises made a tacit bargain: “Capability now, control later.” Feed your proprietary data into third-party ...",
     "category": "research",
     "image": "https://wp.technologyreview.com/wp-content/uploads/2026/05/EDB-Social-Card-cover.png?resize=1200,600",
-    "id": 34
+    "id": 42
   },
   {
     "title": "The Download: deepfake porn’s stolen bodies and AI sharing private numbers",
@@ -340,7 +418,7 @@
     "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. The shock of seeing your body used in deepfake porn When Jenni...",
     "category": "research",
     "image": "https://wp.technologyreview.com/wp-content/uploads/2026/05/Hoeckele-deepfake-01-mobile.jpg?resize=1200,600",
-    "id": 35
+    "id": 43
   },
   {
     "title": "AI Promised the Audemars Piguet x Swatch Wristwatch. China Will Deliver It",
@@ -350,7 +428,7 @@
     "summary": "Watch fans spent a week falling in love with colorful Royal Oak wristwatches that didn’t exist—then the real thing arrived. Now, fantasy is becoming a manufacturing opportunity.",
     "category": "industry",
     "image": "https://media.wired.com/photos/6a04f275366b52a33cd08138/191:100/w_1280,c_limit/GettyImages-458085231.jpg",
-    "id": 36
+    "id": 44
   },
   {
     "title": "Think Twice, Act Once: Verifier-Guided Action Selection For Embodied Agents",
@@ -359,7 +437,7 @@
     "date": "2026-05-14",
     "summary": "Building generalist embodied agents capable of solving complex real-world tasks remains a fundamental challenge in AI. Multimodal Large Language Models (MLLMs) have significantly advanced the reasonin...",
     "category": "models",
-    "id": 37
+    "id": 45
   },
   {
     "title": "Macro-Action Based Multi-Agent Instruction Following through Value Cancellation",
@@ -368,7 +446,7 @@
     "date": "2026-05-14",
     "summary": "Multi-agent reinforcement learning (MARL) in real-world use cases may need to adapt to external natural language instructions that interrupt ongoing behavior and conflict with long-horizon objectives....",
     "category": "models",
-    "id": 38
+    "id": 46
   },
   {
     "title": "Do Androids Dream of Breaking the Game? Systematically Auditing AI Agent Benchmarks with BenchJack",
@@ -377,7 +455,7 @@
     "date": "2026-05-14",
     "summary": "Agent benchmarks have become the de facto measure of frontier AI competence, guiding model selection, investment, and deployment. However, reward hacking, where agents maximize a score without perform...",
     "category": "research",
-    "id": 39
+    "id": 47
   },
   {
     "title": "Revealing Interpretable Failure Modes of VLMs",
@@ -386,7 +464,7 @@
     "date": "2026-05-14",
     "summary": "Vision-Language Models (VLMs) are increasingly used in safety-critical applications because of their broad reasoning capabilities and ability to generalize with minimal task-specific engineering. Desp...",
     "category": "research",
-    "id": 40
+    "id": 48
   },
   {
     "title": "Learning Transferable Latent User Preferences for Human-Aligned Decision Making",
@@ -395,7 +473,7 @@
     "date": "2026-05-14",
     "summary": "Large language models (LLMs) are increasingly used as reasoning modules in many applications. While they are efficient in certain tasks, LLMs often struggle to produce human-aligned solutions. Human-a...",
     "category": "research",
-    "id": 41
+    "id": 49
   },
   {
     "title": "On the Size Complexity and Decidability of First-Order Progression",
@@ -404,78 +482,6 @@
     "date": "2026-05-14",
     "summary": "Progression, the task of updating a knowledge base to reflect action effects, generally requires second-order logic. Identifying first-order special cases, by restricting either the knowledge base or ...",
     "category": "research",
-    "id": 42
-  },
-  {
-    "title": "DisaBench: A Participatory Evaluation Framework for Disability Harms in Language Models",
-    "url": "https://arxiv.org/abs/2605.12702",
-    "source": "arXiv cs.AI",
-    "date": "2026-05-14",
-    "summary": "General-purpose safety benchmarks for large language models do not adequately evaluate disability-related harms. We introduce DisaBench: a taxonomy of twelve disability harm categories co-created with...",
-    "category": "research",
-    "id": 43
-  },
-  {
-    "title": "CHAL: Council of Hierarchical Agentic Language",
-    "url": "https://arxiv.org/abs/2605.12718",
-    "source": "arXiv cs.AI",
-    "date": "2026-05-14",
-    "summary": "Multi-agent debate has emerged as a promising approach for improving LLM reasoning on ground-truth tasks, yet current methodologies face certain structural limitations: debate tends to induce a martin...",
-    "category": "research",
-    "id": 44
-  },
-  {
-    "title": "BEHAVE: A Hybrid AI Framework for Real-Time Modeling of Collective Human Dynamics",
-    "url": "https://arxiv.org/abs/2605.12730",
-    "source": "arXiv cs.AI",
-    "date": "2026-05-14",
-    "summary": "Existing AI systems for modeling human behavior operate at the level of individuals or detect events after they occur. As a result, they systematically fail to capture the collective dynamics that det...",
-    "category": "research",
-    "id": 45
-  },
-  {
-    "title": "State-Centric Decision Process",
-    "url": "https://arxiv.org/abs/2605.12755",
-    "source": "arXiv cs.AI",
-    "date": "2026-05-14",
-    "summary": "Language environments such as web browsers, code terminals, and interactive simulations emit raw text rather than states, and provide none of the runtime structure that MDP analysis requires. No expli...",
-    "category": "research",
-    "id": 46
-  },
-  {
-    "title": "PROMETHEUS: Automating Deep Causal Research Integrating Text, Data and Models",
-    "url": "https://arxiv.org/abs/2605.12835",
-    "source": "arXiv cs.AI",
-    "date": "2026-05-14",
-    "summary": "Large language models can extract local causal claims from text, but those claims become more useful when organized as persistent, navigable world models rather than as flat summaries. We introduce PR...",
-    "category": "research",
-    "id": 47
-  },
-  {
-    "title": "Multimodal Hidden Markov Models for Persistent Emotional State Tracking",
-    "url": "https://arxiv.org/abs/2605.12838",
-    "source": "arXiv cs.AI",
-    "date": "2026-05-14",
-    "summary": "Tracking an interpretable emotional arc of a conversation via the sentiment of individual utterances processed as a whole is central to both understanding and guiding communication in applied, especia...",
-    "category": "models",
-    "id": 48
-  },
-  {
-    "title": "Beyond Cooperative Simulators: Generating Realistic User Personas for Robust Evaluation of LLM Agents",
-    "url": "https://arxiv.org/abs/2605.12894",
-    "source": "arXiv cs.AI",
-    "date": "2026-05-14",
-    "summary": "Large Language Model (LLM) agents are increasingly deployed in settings where they interact with a wide variety of people, including users who are unclear, impatient, or reluctant to share information...",
-    "category": "models",
-    "id": 49
-  },
-  {
-    "title": "When Attention Closes: How LLMs Lose the Thread in Multi-Turn Interaction",
-    "url": "https://arxiv.org/abs/2605.12922",
-    "source": "arXiv cs.AI",
-    "date": "2026-05-14",
-    "summary": "Large language models can follow complex instructions in a single turn, yet over long multi-turn interactions they often lose the thread of instructions, persona, and rules. This degradation has been ...",
-    "category": "models",
     "id": 50
   }
 ]
