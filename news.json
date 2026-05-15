@@ -1,23 +1,119 @@
 [
   {
-    "title": "Overworked AI Agents Turn Marxist, Researchers Find",
-    "url": "https://www.wired.com/story/overworked-ai-agents-turn-marxist-study/",
-    "source": "Hacker News",
+    "title": "Musk's Colossus 1 AI supercomputer's inefficient mixed-architecture design couldn't be used to train Grok, so Anthropic's using it for inference instead — Musk readies unified Blackwell-only Colossus 2 for frontier training and potential IPO",
+    "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/musks-colossus-1-ai-supercomputers-inefficient-mixed-architecture-design-couldnt-be-used-to-train-grok-so-anthropics-using-it-for-inference-instead-musk-readies-unified-blackwell-only-colossus-2-for-frontier-training-and-potential-ipo",
+    "source": "Tom's Hardware",
     "date": "2026-05-15",
-    "summary": "Article URL: https://www.wired.com/story/overworked-ai-agents-turn-marxist-study/ Comments URL: https://news.ycombinator.com/item?id=48145852 Points: 2 # Comments: 1",
-    "category": "research",
-    "image": "https://media.wired.com/photos/6a0377eed777b9d6a8aa4b70/191:100/w_1280,c_limit/AI-Lab-AI-Overworked-Marxist-Business.jpg",
+    "summary": "Anthropic has leased xAI’s entire 220,000-GPU Colossus 1 supercluster from SpaceX to ease Claude’s growing compute bottlenecks, in a deal that may reveal far bigger ambitions around AI infrastructure,...",
+    "category": "hardware",
+    "image": "https://cdn.mos.cms.futurecdn.net/NaeKbhgsdAyAekHkZv8mPW-1280-80.jpg",
     "id": 1,
     "featured": true
   },
   {
-    "title": "Kog AI – Building a Real-Time Inference Stack on AMD Instinct GPUs [video]",
-    "url": "https://www.youtube.com/watch?v=ndSA9T5yvmM",
+    "title": "ScyllaDB MCP Server: What AI-Native Developer Distribution Looks Like",
+    "url": "https://www.devexp.ai/blog/scylladb-mcp-server-case-study.html",
     "source": "Hacker News",
     "date": "2026-05-15",
-    "summary": "Article URL: https://www.youtube.com/watch?v=ndSA9T5yvmM Comments URL: https://news.ycombinator.com/item?id=48145922 Points: 6 # Comments: 0",
+    "summary": "Article URL: https://www.devexp.ai/blog/scylladb-mcp-server-case-study.html Comments URL: https://news.ycombinator.com/item?id=48147178 Points: 1 # Comments: 0",
     "category": "hardware",
     "id": 2
+  },
+  {
+    "title": "Show HN: I built a free AI startup validator – it scored a dog walking app 4/10",
+    "url": "https://tools.predictionoracle.io/",
+    "source": "Hacker News",
+    "date": "2026-05-15",
+    "summary": "Article URL: https://tools.predictionoracle.io/ Comments URL: https://news.ycombinator.com/item?id=48147148 Points: 1 # Comments: 0",
+    "category": "tools",
+    "id": 3
+  },
+  {
+    "title": "Chinese short dramas became AI content machines",
+    "url": "https://www.technologyreview.com/2026/05/15/1137326/chinese-short-dramas-ai/",
+    "source": "Hacker News",
+    "date": "2026-05-15",
+    "summary": "Article URL: https://www.technologyreview.com/2026/05/15/1137326/chinese-short-dramas-ai/ Comments URL: https://news.ycombinator.com/item?id=48147086 Points: 1 # Comments: 0",
+    "category": "industry",
+    "image": "https://wp.technologyreview.com/wp-content/uploads/2026/05/260424_Cdrama.webp?resize=1200,600",
+    "id": 4
+  },
+  {
+    "title": "Known by Their Actions: Fingerprinting LLM Browser Agents via UI Traces",
+    "url": "https://arxiv.org/abs/2605.14786",
+    "source": "Hacker News",
+    "date": "2026-05-15",
+    "summary": "Article URL: https://arxiv.org/abs/2605.14786 Comments URL: https://news.ycombinator.com/item?id=48146865 Points: 1 # Comments: 1",
+    "category": "models",
+    "id": 5
+  },
+  {
+    "title": "Overseas fakers using AI videos to push a narrative of UK decline, BBC finds",
+    "url": "https://www.bbc.co.uk/news/articles/ckgpyn30dp3o",
+    "source": "Hacker News",
+    "date": "2026-05-15",
+    "summary": "Article URL: https://www.bbc.co.uk/news/articles/ckgpyn30dp3o Comments URL: https://news.ycombinator.com/item?id=48146656 Points: 18 # Comments: 7",
+    "category": "industry",
+    "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/c664/live/adc17350-4f8f-11f1-9ab5-d7f2c647b333.png",
+    "id": 6
+  },
+  {
+    "title": "AI Will Not Make Everyone More Productive",
+    "url": "https://www.vincentschmalbach.com/ai-will-not-make-everyone-more-productive/",
+    "source": "Hacker News",
+    "date": "2026-05-15",
+    "summary": "Article URL: https://www.vincentschmalbach.com/ai-will-not-make-everyone-more-productive/ Comments URL: https://news.ycombinator.com/item?id=48146625 Points: 5 # Comments: 1",
+    "category": "industry",
+    "image": "https://www.vincentschmalbach.com/wp-content/uploads/2021/05/Vincent-Schmalbach-draft01.jpg",
+    "id": 7
+  },
+  {
+    "title": "UK sovereign LLM inference",
+    "url": "https://relax.ai/docs",
+    "source": "Hacker News",
+    "date": "2026-05-15",
+    "summary": "Article URL: https://relax.ai/docs Comments URL: https://news.ycombinator.com/item?id=48146424 Points: 68 # Comments: 56",
+    "category": "models",
+    "id": 8
+  },
+  {
+    "title": "Show HN: Find the best local LLM for your hardware, ranked by benchmarks",
+    "url": "https://github.com/Andyyyy64/whichllm",
+    "source": "Hacker News",
+    "date": "2026-05-15",
+    "summary": "Article URL: https://github.com/Andyyyy64/whichllm Comments URL: https://news.ycombinator.com/item?id=48146369 Points: 52 # Comments: 9",
+    "category": "models",
+    "image": "https://opengraph.githubassets.com/e02b65d15a02fb2434df12f72ee2c858c46055bcb1aef84691e43a7e78eab432/Andyyyy64/whichllm",
+    "id": 9
+  },
+  {
+    "title": "LLM temporal and causal reasoning research",
+    "url": "https://github.com/krellixlabs/llm-reasoning-research",
+    "source": "Hacker News",
+    "date": "2026-05-15",
+    "summary": "Article URL: https://github.com/krellixlabs/llm-reasoning-research Comments URL: https://news.ycombinator.com/item?id=48146279 Points: 1 # Comments: 0",
+    "category": "research",
+    "image": "https://opengraph.githubassets.com/eebbcff4c190db90537a36fb1ab3952ec41d5f385e22d080807673412488065a/krellixlabs/llm-reasoning-research",
+    "id": 10
+  },
+  {
+    "title": "AI, open code and vulnerability risk in the public sector",
+    "url": "https://www.gov.uk/guidance/ai-open-code-and-vulnerability-risk-in-the-public-sector",
+    "source": "Hacker News",
+    "date": "2026-05-15",
+    "summary": "Article URL: https://www.gov.uk/guidance/ai-open-code-and-vulnerability-risk-in-the-public-sector Comments URL: https://news.ycombinator.com/item?id=48146185 Points: 2 # Comments: 0",
+    "category": "industry",
+    "image": "https://www.gov.uk/assets/frontend/govuk-opengraph-image-4196a4d6333cf92aaf720047f56cfd91b3532d7635fc21ebcf0d5897df6b5f77.png",
+    "id": 11
+  },
+  {
+    "title": "IEA: AI data center electricity demand could nearly double by 2030",
+    "url": "https://www.iea.org/reports/key-questions-on-energy-and-ai/executive-summary",
+    "source": "Hacker News",
+    "date": "2026-05-15",
+    "summary": "Article URL: https://www.iea.org/reports/key-questions-on-energy-and-ai/executive-summary Comments URL: https://news.ycombinator.com/item?id=48146158 Points: 3 # Comments: 0",
+    "category": "hardware",
+    "id": 12
   },
   {
     "title": "Andy Jassy Is Rewriting Amazon's Playbook for the AI Age",
@@ -26,7 +122,26 @@
     "date": "2026-05-15",
     "summary": "Article URL: https://www.bloomberg.com/features/2026-andy-jassy-amazon-ai/ Comments URL: https://news.ycombinator.com/item?id=48146097 Points: 1 # Comments: 0",
     "category": "industry",
-    "id": 3
+    "id": 13
+  },
+  {
+    "title": "Kog AI – Building a Real-Time Inference Stack on AMD Instinct GPUs [video]",
+    "url": "https://www.youtube.com/watch?v=ndSA9T5yvmM",
+    "source": "Hacker News",
+    "date": "2026-05-15",
+    "summary": "Article URL: https://www.youtube.com/watch?v=ndSA9T5yvmM Comments URL: https://news.ycombinator.com/item?id=48145922 Points: 7 # Comments: 0",
+    "category": "hardware",
+    "id": 14
+  },
+  {
+    "title": "Overworked AI Agents Turn Marxist, Researchers Find",
+    "url": "https://www.wired.com/story/overworked-ai-agents-turn-marxist-study/",
+    "source": "Hacker News",
+    "date": "2026-05-15",
+    "summary": "Article URL: https://www.wired.com/story/overworked-ai-agents-turn-marxist-study/ Comments URL: https://news.ycombinator.com/item?id=48145852 Points: 2 # Comments: 1",
+    "category": "research",
+    "image": "https://media.wired.com/photos/6a0377eed777b9d6a8aa4b70/191:100/w_1280,c_limit/AI-Lab-AI-Overworked-Marxist-Business.jpg",
+    "id": 15
   },
   {
     "title": "Ask HN: Im a back end dev, how do you go from designing the UI with AI?",
@@ -35,7 +150,7 @@
     "date": "2026-05-15",
     "summary": "As I was saying Im a backend dev, I lose my mind writing frontend code, given the power of the new designing tools, what is the typical workflow me as somebody not very good at design to make an UI an...",
     "category": "models",
-    "id": 4
+    "id": 16
   },
   {
     "title": "2028: Two scenarios for global AI leadership",
@@ -44,7 +159,7 @@
     "date": "2026-05-15",
     "summary": "Article URL: https://www.anthropic.com/research/2028-ai-leadership Comments URL: https://news.ycombinator.com/item?id=48145722 Points: 4 # Comments: 0",
     "category": "research",
-    "id": 5
+    "id": 17
   },
   {
     "title": "Have you switched to AI for heart monitoring during physical activity yet?",
@@ -53,7 +168,7 @@
     "date": "2026-05-15",
     "summary": "Here's how AI can monitor your heart during physical activity AI (ACCO AI watch): your myocardium is lacking oxygen (HOV — myocardial oxygen consumption, CMBV — coronary blood flow volume); the heart ...",
     "category": "hardware",
-    "id": 6
+    "id": 18
   },
   {
     "title": "Establishing AI and data sovereignty in the age of autonomous systems",
@@ -63,124 +178,27 @@
     "summary": "Article URL: https://www.technologyreview.com/2026/05/14/1137168/establishing-ai-and-data-sovereignty-in-the-age-of-autonomous-systems/ Comments URL: https://news.ycombinator.com/item?id=48145463 Poin...",
     "category": "industry",
     "image": "https://wp.technologyreview.com/wp-content/uploads/2026/05/EDB-Social-Card-cover.png?resize=1200,600",
-    "id": 7
+    "id": 19
   },
   {
     "title": "Cerebras risked dinner plate-sized AI accelerators. Today it's worth $66B",
     "url": "https://www.theregister.com/ai-ml/2026/05/15/cerebras-wafer-scale-ai-bet-delivers-blockbuster-ipo/5240821",
     "source": "Hacker News",
     "date": "2026-05-15",
-    "summary": "Article URL: https://www.theregister.com/ai-ml/2026/05/15/cerebras-wafer-scale-ai-bet-delivers-blockbuster-ipo/5240821 Comments URL: https://news.ycombinator.com/item?id=48145429 Points: 1 # Comments:...",
+    "summary": "Article URL: https://www.theregister.com/ai-ml/2026/05/15/cerebras-wafer-scale-ai-bet-delivers-blockbuster-ipo/5240821 Comments URL: https://news.ycombinator.com/item?id=48145429 Points: 2 # Comments:...",
     "category": "hardware",
     "image": "https://image.theregister.com/5240836.jpg?imageId=5240836&x=0&y=0&cropw=100&croph=100&panox=0&panoy=0&panow=100&panoh=100&width=1200&height=683",
-    "id": 8
+    "id": 20
   },
   {
-    "title": "Android rolling out AI-powered \"Contextual suggestion\" learning from your habits",
-    "url": "https://9to5google.com/2026/05/13/android-contextual-suggestions/",
-    "source": "Hacker News",
+    "title": "Mira Murati Wants Her AI to ‘Keep Humans in the Loop’",
+    "url": "https://www.wired.com/story/mira-murati-humans-in-the-loop-ai-models-thinking-machines/",
+    "source": "Wired",
     "date": "2026-05-15",
-    "summary": "Article URL: https://9to5google.com/2026/05/13/android-contextual-suggestions/ Comments URL: https://news.ycombinator.com/item?id=48145382 Points: 2 # Comments: 0",
+    "summary": "The Thinking Machines Lab founder and former CTO of OpenAI tells WIRED she isn’t interested in automating people out of jobs. Instead, she’s building AI that can collaborate.",
     "category": "industry",
-    "image": "https://i0.wp.com/9to5google.com/wp-content/uploads/sites/4/2025/03/Android-Bot-pin-badge-holding-Pixel.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
-    "id": 9
-  },
-  {
-    "title": "AI makes weak engineers less harmful",
-    "url": "https://www.seangoedecke.com/ai-makes-weak-engineers-less-harmful/",
-    "source": "Hacker News",
-    "date": "2026-05-15",
-    "summary": "Article URL: https://www.seangoedecke.com/ai-makes-weak-engineers-less-harmful/ Comments URL: https://news.ycombinator.com/item?id=48145370 Points: 2 # Comments: 0",
-    "category": "industry",
-    "image": "https://www.seangoedecke.com/og-image.jpg",
-    "id": 10
-  },
-  {
-    "title": "'There are no rules':spotlight on Gossip Goblin as AI film-making enters new era",
-    "url": "https://www.theguardian.com/technology/2026/may/14/gossip-goblin-ai-film-making-new-era-hollywood",
-    "source": "Hacker News",
-    "date": "2026-05-15",
-    "summary": "Article URL: https://www.theguardian.com/technology/2026/may/14/gossip-goblin-ai-film-making-new-era-hollywood Comments URL: https://news.ycombinator.com/item?id=48145080 Points: 3 # Comments: 0",
-    "category": "industry",
-    "image": "https://i.guim.co.uk/img/media/0234950112c22adbc6f8b75b39cc260ee23940a7/2690_0_5320_4256/master/5320.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=b2a9f96549b33ebb7116243321253326",
-    "id": 11
-  },
-  {
-    "title": "The rise and fall of an AI-driven 'local news outlet' in South Florida",
-    "url": "https://floridatrib.org/2026/05/14/the-rise-and-fall-of-an-ai-driven-local-news-outlet-in-south-florida/",
-    "source": "Hacker News",
-    "date": "2026-05-15",
-    "summary": "Article URL: https://floridatrib.org/2026/05/14/the-rise-and-fall-of-an-ai-driven-local-news-outlet-in-south-florida/ Comments URL: https://news.ycombinator.com/item?id=48145022 Points: 2 # Comments: ...",
-    "category": "industry",
-    "image": "https://floridatrib.org/wp-content/uploads/2026/05/4-scaled.jpeg",
-    "id": 12
-  },
-  {
-    "title": "What Are AI Ethics",
-    "url": "https://krellixlabs.com/en/blog/what-are-ai-ethics",
-    "source": "Hacker News",
-    "date": "2026-05-15",
-    "summary": "Article URL: https://krellixlabs.com/en/blog/what-are-ai-ethics Comments URL: https://news.ycombinator.com/item?id=48145017 Points: 1 # Comments: 0",
-    "category": "industry",
-    "image": "https://krellixlabs.com/articles/What-are-AI-ethics-large.png",
-    "id": 13
-  },
-  {
-    "title": "Agentic evals or LLM as a judge? considering cost, time and quality",
-    "url": "https://news.ycombinator.com/item?id=48144995",
-    "source": "Hacker News",
-    "date": "2026-05-15",
-    "summary": "Comments URL: https://news.ycombinator.com/item?id=48144995 Points: 1 # Comments: 0",
-    "category": "models",
-    "id": 14
-  },
-  {
-    "title": "Multi-LLM trading harness with live leaderboard on Alpaca paper trades",
-    "url": "https://github.com/achaljhawar/1rok",
-    "source": "Hacker News",
-    "date": "2026-05-15",
-    "summary": "Article URL: https://github.com/achaljhawar/1rok Comments URL: https://news.ycombinator.com/item?id=48144911 Points: 2 # Comments: 0",
-    "category": "models",
-    "image": "https://opengraph.githubassets.com/3f24a23fa43627bf3b88b2aacefd4b7f3139bea5f92210497b3d4e006830dd85/achaljhawar/1rok",
-    "id": 15
-  },
-  {
-    "title": "What Are the Different Types of AI Testing Tools?",
-    "url": "https://news.ycombinator.com/item?id=48144848",
-    "source": "Hacker News",
-    "date": "2026-05-15",
-    "summary": "Comments URL: https://news.ycombinator.com/item?id=48144848 Points: 2 # Comments: 1",
-    "category": "tools",
-    "id": 16
-  },
-  {
-    "title": "OpenAI just lost its enterprise AI crown to Anthropic",
-    "url": "https://www.businessinsider.com/anthropic-tops-openai-business-ai-adoption-ramp-index-2026-5",
-    "source": "Hacker News",
-    "date": "2026-05-15",
-    "summary": "Article URL: https://www.businessinsider.com/anthropic-tops-openai-business-ai-adoption-ramp-index-2026-5 Comments URL: https://news.ycombinator.com/item?id=48144749 Points: 4 # Comments: 0",
-    "category": "industry",
-    "image": "https://i.insider.com/6a0399a47c7e83f26041b09b?width=1200&format=jpeg",
-    "id": 17
-  },
-  {
-    "title": "Random AI Explained Fast",
-    "url": "https://www.youtube.com/watch?v=XURpiqSelBw",
-    "source": "Hacker News",
-    "date": "2026-05-15",
-    "summary": "Article URL: https://www.youtube.com/watch?v=XURpiqSelBw Comments URL: https://news.ycombinator.com/item?id=48144690 Points: 2 # Comments: 0",
-    "category": "industry",
-    "id": 18
-  },
-  {
-    "title": "Show HN: GlycemicGPT – Open-source AI-powered diabetes management",
-    "url": "https://github.com/GlycemicGPT/GlycemicGPT",
-    "source": "Hacker News",
-    "date": "2026-05-15",
-    "summary": "I'm a Type 1 diabetic and software engineer. Last year I went months between endocrinologists with no clinician reviewing my data. I'm an engineer, so I built the tool I needed — and now I'm open sour...",
-    "category": "tools",
-    "image": "https://opengraph.githubassets.com/208a4ee341f4682ac33b574b2b3eefe4fdd1d258ed806e445a0f7470296d3e86/GlycemicGPT/GlycemicGPT",
-    "id": 19
+    "image": "https://media.wired.com/photos/6a04e8e8e20de45ef884b2b7/191:100/w_1280,c_limit/Mira-Murati-Wants-to-Keep-Human-Intelligence-in-Loop-As-Long-asPossible-Business-2266727283.jpg",
+    "id": 21
   },
   {
     "title": "The Real Losers of the Musk v. Altman Trial",
@@ -190,7 +208,7 @@
     "summary": "A federal jury is now deciding whether Elon Musk will win his lawsuit against OpenAI and Sam Altman—but the trial has made everyone look bad.",
     "category": "industry",
     "image": "https://media.wired.com/photos/6a063a9b1d5880149b6572f1/191:100/w_1280,c_limit/Model-Behavior-We-Are-All-Losers-in-Musk-v-Altman-Business.jpg",
-    "id": 20
+    "id": 22
   },
   {
     "title": "Think Twice, Act Once: Verifier-Guided Action Selection For Embodied Agents",
@@ -199,7 +217,7 @@
     "date": "2026-05-15",
     "summary": "Building generalist embodied agents capable of solving complex real-world tasks remains a fundamental challenge in AI. Multimodal Large Language Models (MLLMs) have significantly advanced the reasonin...",
     "category": "models",
-    "id": 21
+    "id": 23
   },
   {
     "title": "Macro-Action Based Multi-Agent Instruction Following through Value Cancellation",
@@ -208,7 +226,7 @@
     "date": "2026-05-15",
     "summary": "Multi-agent reinforcement learning (MARL) in real-world use cases may need to adapt to external natural language instructions that interrupt ongoing behavior and conflict with long-horizon objectives....",
     "category": "models",
-    "id": 22
+    "id": 24
   },
   {
     "title": "Do Androids Dream of Breaking the Game? Systematically Auditing AI Agent Benchmarks with BenchJack",
@@ -217,7 +235,7 @@
     "date": "2026-05-15",
     "summary": "Agent benchmarks have become the de facto measure of frontier AI competence, guiding model selection, investment, and deployment. However, reward hacking, where agents maximize a score without perform...",
     "category": "research",
-    "id": 23
+    "id": 25
   },
   {
     "title": "Revealing Interpretable Failure Modes of VLMs",
@@ -226,7 +244,7 @@
     "date": "2026-05-15",
     "summary": "Vision-Language Models (VLMs) are increasingly used in safety-critical applications because of their broad reasoning capabilities and ability to generalize with minimal task-specific engineering. Desp...",
     "category": "research",
-    "id": 24
+    "id": 26
   },
   {
     "title": "Learning Transferable Latent User Preferences for Human-Aligned Decision Making",
@@ -235,7 +253,7 @@
     "date": "2026-05-15",
     "summary": "Large language models (LLMs) are increasingly used as reasoning modules in many applications. While they are efficient in certain tasks, LLMs often struggle to produce human-aligned solutions. Human-a...",
     "category": "research",
-    "id": 25
+    "id": 27
   },
   {
     "title": "On the Size Complexity and Decidability of First-Order Progression",
@@ -244,7 +262,7 @@
     "date": "2026-05-15",
     "summary": "Progression, the task of updating a knowledge base to reflect action effects, generally requires second-order logic. Identifying first-order special cases, by restricting either the knowledge base or ...",
     "category": "research",
-    "id": 26
+    "id": 28
   },
   {
     "title": "DisaBench: A Participatory Evaluation Framework for Disability Harms in Language Models",
@@ -253,7 +271,7 @@
     "date": "2026-05-15",
     "summary": "General-purpose safety benchmarks for large language models do not adequately evaluate disability-related harms. We introduce DisaBench: a taxonomy of twelve disability harm categories co-created with...",
     "category": "research",
-    "id": 27
+    "id": 29
   },
   {
     "title": "CHAL: Council of Hierarchical Agentic Language",
@@ -262,7 +280,7 @@
     "date": "2026-05-15",
     "summary": "Multi-agent debate has emerged as a promising approach for improving LLM reasoning on ground-truth tasks, yet current methodologies face certain structural limitations: debate tends to induce a martin...",
     "category": "research",
-    "id": 28
+    "id": 30
   },
   {
     "title": "BEHAVE: A Hybrid AI Framework for Real-Time Modeling of Collective Human Dynamics",
@@ -271,7 +289,7 @@
     "date": "2026-05-15",
     "summary": "Existing AI systems for modeling human behavior operate at the level of individuals or detect events after they occur. As a result, they systematically fail to capture the collective dynamics that det...",
     "category": "research",
-    "id": 29
+    "id": 31
   },
   {
     "title": "State-Centric Decision Process",
@@ -280,7 +298,7 @@
     "date": "2026-05-15",
     "summary": "Language environments such as web browsers, code terminals, and interactive simulations emit raw text rather than states, and provide none of the runtime structure that MDP analysis requires. No expli...",
     "category": "research",
-    "id": 30
+    "id": 32
   },
   {
     "title": "PROMETHEUS: Automating Deep Causal Research Integrating Text, Data and Models",
@@ -289,7 +307,7 @@
     "date": "2026-05-15",
     "summary": "Large language models can extract local causal claims from text, but those claims become more useful when organized as persistent, navigable world models rather than as flat summaries. We introduce PR...",
     "category": "research",
-    "id": 31
+    "id": 33
   },
   {
     "title": "Multimodal Hidden Markov Models for Persistent Emotional State Tracking",
@@ -298,7 +316,7 @@
     "date": "2026-05-15",
     "summary": "Tracking an interpretable emotional arc of a conversation via the sentiment of individual utterances processed as a whole is central to both understanding and guiding communication in applied, especia...",
     "category": "models",
-    "id": 32
+    "id": 34
   },
   {
     "title": "Beyond Cooperative Simulators: Generating Realistic User Personas for Robust Evaluation of LLM Agents",
@@ -307,7 +325,7 @@
     "date": "2026-05-15",
     "summary": "Large Language Model (LLM) agents are increasingly deployed in settings where they interact with a wide variety of people, including users who are unclear, impatient, or reluctant to share information...",
     "category": "models",
-    "id": 33
+    "id": 35
   },
   {
     "title": "When Attention Closes: How LLMs Lose the Thread in Multi-Turn Interaction",
@@ -316,7 +334,7 @@
     "date": "2026-05-15",
     "summary": "Large language models can follow complex instructions in a single turn, yet over long multi-turn interactions they often lose the thread of instructions, persona, and rules. This degradation has been ...",
     "category": "models",
-    "id": 34
+    "id": 36
   },
   {
     "title": "Sustaining AI safety: Control-theoretic external impossibility, intrinsic necessity, and structural requirements",
@@ -325,7 +343,7 @@
     "date": "2026-05-15",
     "summary": "As AI systems become increasingly capable, safety strategies must be evaluated not only by how much they reduce present risk, but by whether they could sustain safety once external control can no long...",
     "category": "research",
-    "id": 35
+    "id": 37
   },
   {
     "title": "Position: Agentic AI System Is a Foreseeable Pathway to AGI",
@@ -334,7 +352,7 @@
     "date": "2026-05-15",
     "summary": "Is monolithic scaling the only path to AGI? This paper challenges the dogma that purely scaling a single model is sufficient to achieve Artificial General Intelligence. Instead, we identify Agentic AI...",
     "category": "research",
-    "id": 36
+    "id": 38
   },
   {
     "title": "Retrieval is Cheap, Show Me the Code: Executable Multi-Hop Reasoning for Retrieval-Augmented Generation",
@@ -343,7 +361,7 @@
     "date": "2026-05-15",
     "summary": "Retrieval-Augmented Generation (RAG) has become a standard approach for knowledge-intensive question answering, but existing systems remain brittle on multi-hop questions, where solving the task requi...",
     "category": "research",
-    "id": 37
+    "id": 39
   },
   {
     "title": "Useful Memories Become Faulty When Continuously Updated by LLMs",
@@ -352,7 +370,7 @@
     "date": "2026-05-15",
     "summary": "Learning from past experience benefits from two complementary forms of memory: episodic traces -- raw trajectories of what happened -- and consolidated abstractions distilled across many episodes into...",
     "category": "models",
-    "id": 38
+    "id": 40
   },
   {
     "title": "Retrieval-Augmented Tutoring for Algorithm Tracing and Problem-Solving in AI Education",
@@ -361,7 +379,7 @@
     "date": "2026-05-15",
     "summary": "Students learning algorithms often need support as they interpret traces, debug reasoning errors, and apply procedures across unfamiliar problem instances. In this paper, we present KITE (Knowledge-In...",
     "category": "research",
-    "id": 39
+    "id": 41
   },
   {
     "title": "MAP: A Map-then-Act Paradigm for Long-Horizon Interactive Agent Reasoning",
@@ -370,7 +388,7 @@
     "date": "2026-05-15",
     "summary": "Current interactive LLM agents rely on goal-conditioned stepwise planning, where environmental understanding is acquired reactively during execution rather than established beforehand. This temporal i...",
     "category": "models",
-    "id": 40
+    "id": 42
   },
   {
     "title": "An Agentic LLM-Based Framework for Population-Scale Mental Health Screening",
@@ -379,7 +397,7 @@
     "date": "2026-05-15",
     "summary": "Mental health disorders affect millions worldwide, and healthcare systems are increasingly overwhelmed by the volume of clinical data generated from electronic records, telemedicine platforms, and pop...",
     "category": "tools",
-    "id": 41
+    "id": 43
   },
   {
     "title": "GRACE: Gradient-aligned Reasoning Data Curation for Efficient Post-training",
@@ -388,7 +406,7 @@
     "date": "2026-05-15",
     "summary": "Existing reasoning data curation pipelines score whole samples, treating every intermediate step as equally valuable. In reality, steps within a trace contribute very unevenly, and selecting reasoning...",
     "category": "models",
-    "id": 42
+    "id": 44
   },
   {
     "title": "A Constraint Programming Approach for $n$-Day Lookahead Playoff Clinching",
@@ -397,7 +415,7 @@
     "date": "2026-05-15",
     "summary": "In professional sports, a team has clinched the playoffs if they are guaranteed a postseason spot, regardless of the outcomes of any remaining games. As the season progresses, sports fans and other st...",
     "category": "research",
-    "id": 43
+    "id": 45
   },
   {
     "title": "Strikingness-Aware Evaluation for Temporal Knowledge Graph Reasoning",
@@ -406,7 +424,7 @@
     "date": "2026-05-15",
     "summary": "Temporal Knowledge Graph Reasoning (TKGR) aims at inferring missing (especially future) events from historical data. Current evaluation in TKGR uniformly weights all events, ignoring that most are tri...",
     "category": "research",
-    "id": 44
+    "id": 46
   },
   {
     "title": "Formal Conjectures: An Open and Evolving Benchmark for Verified Discovery in Mathematics",
@@ -415,7 +433,7 @@
     "date": "2026-05-15",
     "summary": "As automated reasoning systems advance rapidly, there is a growing need for research-level formal mathematical problems to accurately evaluate their capabilities. To address this, we present Formal Co...",
     "category": "research",
-    "id": 45
+    "id": 47
   },
   {
     "title": "Hierarchical Attacks for Multi-Modal Multi-Agent Reasoning",
@@ -424,7 +442,7 @@
     "date": "2026-05-15",
     "summary": "Multi-modal multi-agent systems (MM-MAS) have gained increasing attention for their capacity to enable complex reasoning and coordination across diverse modalities. As these systems continue to expand...",
     "category": "research",
-    "id": 46
+    "id": 48
   },
   {
     "title": "An Agentic AI Framework with Large Language Models and Chain-of-Thought for UAV-Assisted Logistics Scheduling with Mobile Edge Computing",
@@ -433,7 +451,7 @@
     "date": "2026-05-15",
     "summary": "In cloud manufacturing, unmanned aerial vehicles (UAVs) can support both product collection and mobile edge computing (MEC). This joint operation forms a hybrid scheduling problem, where physical logi...",
     "category": "research",
-    "id": 47
+    "id": 49
   },
   {
     "title": "Improving Code Translation with Syntax-Guided and Semantic-aware Preference Optimization",
@@ -442,24 +460,6 @@
     "date": "2026-05-15",
     "summary": "LLMs have shown immense potential for code translation, yet they often struggle to ensure both syntactic correctness and semantic consistency. While preference-based learning offers a promising alignm...",
     "category": "research",
-    "id": 48
-  },
-  {
-    "title": "It's not the Language Model, it's the Tool: Deterministic Mediation for Scientific Workflows",
-    "url": "https://arxiv.org/abs/2605.13245",
-    "source": "arXiv cs.AI",
-    "date": "2026-05-15",
-    "summary": "Language models can produce convincing scientific analyses, but repeated generations on the same data do not guarantee the same result. A researcher may regenerate an identical query and receive a dif...",
-    "category": "models",
-    "id": 49
-  },
-  {
-    "title": "Respecting Self-Uncertainty in On-Policy Self-Distillation for Efficient LLM Reasoning",
-    "url": "https://arxiv.org/abs/2605.13255",
-    "source": "arXiv cs.AI",
-    "date": "2026-05-15",
-    "summary": "On-policy self-distillation trains a reasoning model on its own rollouts while a teacher, often the same model conditioned on privileged context, provides dense token-level supervision. Existing objec...",
-    "category": "models",
     "id": 50
   }
 ]
