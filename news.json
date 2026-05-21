@@ -1,5 +1,25 @@
 [
   {
+    "title": "NVIDIA GTC Taipei at COMPUTEX: Live Updates on What’s Next in AI",
+    "url": "https://blogs.nvidia.com/blog/nvidia-gtc-taipei-computex-2026-news/",
+    "source": "NVIDIA Blog",
+    "date": "2026-05-21",
+    "summary": "At NVIDIA GTC Taipei at COMPUTEX, the world’s developers, researchers and industry leaders are converging to dive into the latest breakthroughs shaping every industry, covering topics spanning AI fact...",
+    "category": "research",
+    "image": "https://blogs.nvidia.com/wp-content/uploads/2026/05/computex-rolling-blog-kickoff.jpg",
+    "id": 1,
+    "featured": true
+  },
+  {
+    "title": "AdventHealth advances whole-person care with OpenAI",
+    "url": "https://openai.com/index/adventhealth",
+    "source": "OpenAI Blog",
+    "date": "2026-05-21",
+    "summary": "AdventHealth is using ChatGPT for Healthcare to streamline workflows, reduce administrative burden, and return more time to patient care.",
+    "category": "models",
+    "id": 2
+  },
+  {
     "title": "US government takes $2 billion equity stake in nine quantum computing firms",
     "url": "https://arstechnica.com/gadgets/2026/05/us-government-takes-2-billion-equity-stake-in-nine-quantum-computing-firms/",
     "source": "Ars Technica",
@@ -7,8 +27,27 @@
     "summary": "Beneficiaries include startup backed by firm with links to the Trump family.",
     "category": "industry",
     "image": "https://cdn.arstechnica.net/wp-content/uploads/2017/03/Screen-Shot-2017-03-31-at-1.37.22-PM.png",
-    "id": 1,
-    "featured": true
+    "id": 3
+  },
+  {
+    "title": "Open-source non-profit claims Bambu Lab violated license — SFC steps in after multi-billion dollar 3D printer giant threatened independent developer, issued cease-and-desist demand on OrcaSlicer fork that restored cloud printing features",
+    "url": "https://www.tomshardware.com/3d-printing/open-source-non-profit-claims-bambu-lab-violated-license-move-follows-cease-and-desist-demand-on-orcaslicer-fork-that-restored-cloud-printing-features-without-using-bambu-connect",
+    "source": "Tom's Hardware",
+    "date": "2026-05-21",
+    "summary": "The SFC says that including proprietary code alongside software under AGPLv3 breaks the open-source license, and that Bambu Lab has been doing this for years.",
+    "category": "tools",
+    "image": "https://cdn.mos.cms.futurecdn.net/BysNUB87XVLrZGvBUSP2p3-1280-80.jpg",
+    "id": 4
+  },
+  {
+    "title": "Nvidia's memory costs soar 485%, latest AI systems now cost $7.8 million to build — memory now comprises 25% of the total cost, Rubin GPUs a mere $50,000 apiece",
+    "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/nvidias-memory-costs-soar-485-percent-latest-ai-systems-now-cost-usd7-8-million-to-build-memory-now-comprises-25-percent-of-the-total-cost-rubin-gpus-a-mere-usd50-000-apiece",
+    "source": "Tom's Hardware",
+    "date": "2026-05-21",
+    "summary": "As memory content per rack increases in Vera Rubin platform, it now accounts for nearly 25% of its cost.",
+    "category": "hardware",
+    "image": "https://cdn.mos.cms.futurecdn.net/iaLn9eep6ryDrWj6V9zkb9-1280-80.jpg",
+    "id": 5
   },
   {
     "title": "EU forced to exempt banned Chinese chipmaker after auto industry warns of supply crisis — European car factories warn of imminent supply chain collapse",
@@ -18,7 +57,7 @@
     "summary": "The European Commission is preparing to propose a temporary exemption for a Chinese semiconductor manufacturer from the EU's 20th Russia sanctions package.",
     "category": "hardware",
     "image": "https://cdn.mos.cms.futurecdn.net/LTwbDyUf22muymoDMVT7Fk-1280-80.jpg",
-    "id": 2
+    "id": 6
   },
   {
     "title": "Samsung reportedly set to distribute up to $26.6 billion to staff in AI-driven semiconductor bonuses after last-minute union deal — average payouts could approach $400,000 per chip employee",
@@ -28,7 +67,7 @@
     "summary": "Samsung Electronics is reportedly preparing to distribute up to 40 trillion won ($26.6 billion) in semiconductor employee bonuses after reaching a last-minute labor agreement. The proposed deal ties p...",
     "category": "hardware",
     "image": "https://cdn.mos.cms.futurecdn.net/tRrvFL7XAZrRiJiCFASp6E-1280-80.jpg",
-    "id": 3
+    "id": 7
   },
   {
     "title": "Taiwan raids 12 locations in its first formal crackdown on Nvidia AI chip smuggling — hunts three fugitives for document forgery, fraudulent declarations in Super Micro smuggling case",
@@ -38,7 +77,7 @@
     "summary": "Getting banned Hopper or Blackwell chips into mainland data centers just became exponentially more fraught as Taiwan begins to crack down on smugglers.",
     "category": "hardware",
     "image": "https://cdn.mos.cms.futurecdn.net/DB4x9PYF6bWN6hPrSC5WvU-1280-80.jpg",
-    "id": 4
+    "id": 8
   },
   {
     "title": "The custom AI ASIC state of play (May 2026) — Broadcom deals, Google TPUs, Meta MTIA & beyond",
@@ -48,7 +87,7 @@
     "summary": "ASIC-based AI server shipments are projected to reach 27.8% of the market in 2026, the highest share since 2023, and custom ASIC shipments will grow 44.6% year-over-year.",
     "category": "hardware",
     "image": "https://cdn.mos.cms.futurecdn.net/SeB9TjZd9YKNR5bhshrE4j-1280-80.png",
-    "id": 5
+    "id": 9
   },
   {
     "title": "AMD begins production ramp of 256-core EPYC Venice — first 2nm HPC chip claims 70% performance leap",
@@ -58,7 +97,7 @@
     "summary": "AMD has announced that its 6th Gen EPYC processor, codenamed Venice, has entered production ramp on TSMC's N2 process in Taiwan.",
     "category": "hardware",
     "image": "https://cdn.mos.cms.futurecdn.net/4y3WTjM6BqyMGSzbKhXnSi-1280-80.jpg",
-    "id": 6
+    "id": 10
   },
   {
     "title": "Lenovo G02 retro handheld allegedly comes preloaded with thousands of copyrighted games, including Nintendo ROMs — company confirms that it’s an officially white-labeled device meant for the Chinese market",
@@ -68,7 +107,7 @@
     "summary": "Lenovo confirms that it partnered with a third-party manufacturer to build, sell, and market the G02 retro gaming handheld in China. However, it allegedly contained thousands of gaming ROMs, many from...",
     "category": "industry",
     "image": "https://cdn.mos.cms.futurecdn.net/jLHQAoMxtJy4K3wpoVvN45-1280-80.jpg",
-    "id": 7
+    "id": 11
   },
   {
     "title": "Pick up an $1100 discount on this RTX 5080-powered HP Omen Max gaming laptop — 32GB of DDR5 RAM and powerful Intel 275HX CPU help to crush the competition in-game",
@@ -78,7 +117,7 @@
     "summary": "Save $1100 on this HP Omen Max 16 gaming laptop. Powerful Intel CPU and RTX 5080 graphics for dominating the gaming opposition.",
     "category": "hardware",
     "image": "https://cdn.mos.cms.futurecdn.net/ojWeXcoSy6sXjS4ANRFTYN-1280-80.jpg",
-    "id": 8
+    "id": 12
   },
   {
     "title": "Save over $1,120 on this 4K-ready RTX 5070 Ti gaming PC with 32GB DDR5 and a 2TB SSD — score a big discount on this ABS Kaze II rig from Newegg with a 24-core Intel CPU and powerful Nvidia GPU",
@@ -88,7 +127,7 @@
     "summary": "This Newegg deal on an ABS Kaze II Aqua gaming PC drops the price down to just $2,175.49 with discount code ABSGAMER5, netting you a PC with a 24-core Intel Core i9-14900KF CPU, an Nvidia GeForce RTX ...",
     "category": "hardware",
     "image": "https://cdn.mos.cms.futurecdn.net/3vZiLwEjriUb9HBe59TJ6E-1280-80.png",
-    "id": 9
+    "id": 13
   },
   {
     "title": "Intel leans on LPDDR5X to dodge global HBM crisis, leaked Crescent Island AI GPU pics reveal massive Xe3P core — chip sidesteps HBM shortage with 160GB of cheaper memory",
@@ -98,7 +137,7 @@
     "summary": "Images of the PCB Intel will be using with Crescent Island has been published on X, showing a single-GPU design and pads for the graphics card's 20 LPDDR5X modules.",
     "category": "hardware",
     "image": "https://cdn.mos.cms.futurecdn.net/qXjw6K9cVJzeNZurs6CD3H-1280-80.jpg",
-    "id": 10
+    "id": 14
   },
   {
     "title": "ASML CEO says Elon Musk is 'very serious' about TeraFab chipmaking megaproject, confirms direct talks — Musk targets $119 billion Texas semiconductor facility",
@@ -108,7 +147,7 @@
     "summary": "ASML CEO Christophe Fouquet said on Wednesday that he has spoken directly with Elon Musk about the TeraFab semiconductor project.",
     "category": "hardware",
     "image": "https://cdn.mos.cms.futurecdn.net/PoCxHQ8gKEscb2NWQov7wZ-1280-80.png",
-    "id": 11
+    "id": 15
   },
   {
     "title": "China's new homegrown gaming GPU flops in performance and price — flagship $485 LX 7G100 can't keep pace with Nvidia's older RTX 4060",
@@ -118,7 +157,7 @@
     "summary": "Lisuan Tech's LX 7G100 gaming graphics card goes up for preorder at $485, along with reviews from Chinese media outlets.",
     "category": "hardware",
     "image": "https://cdn.mos.cms.futurecdn.net/Bc9xVuJjw9CAAKFWt8CcKf-1280-80.jpg",
-    "id": 12
+    "id": 16
   },
   {
     "title": "Angry tiny Texas town council member proposes total ban on cellular and GPS devices in protest over AI dispute — says 'Let’s take Bandera back to 1880' after town votes to dump AI-powered license plate reader",
@@ -128,7 +167,7 @@
     "summary": "A town councilor proposes banning all technology in a small Texas town after they lose vote on keeping Flock AI cameras running in the area.",
     "category": "industry",
     "image": "https://cdn.mos.cms.futurecdn.net/CeMsRHMDpdmXhCDn3eWKMk-1280-80.png",
-    "id": 13
+    "id": 17
   },
   {
     "title": "Nvidia no longer reports gaming GPU sales as a separate segment — posts eye-watering $81.6 billion Q1 profit thanks to AI boom",
@@ -138,7 +177,7 @@
     "summary": "Nvidia to split its revenue streams based on deployment markets rather than product segments going forward.",
     "category": "industry",
     "image": "https://cdn.mos.cms.futurecdn.net/Kjestg9jiuvnbE868dhwjf-1280-80.jpg",
-    "id": 14
+    "id": 18
   },
   {
     "title": "Korean funeral services company lost $33 million of its customers' money over a bad crypto bet — firm was secretly investing client funds into leveraged crypto ETFs",
@@ -148,7 +187,7 @@
     "summary": "Bumo Sarang, a funeral services company in Korea, lost $33 million after it invested $40 million of its own customers' money into a leveraged crypto ETF. These funds were meant for prepaid funeral ser...",
     "category": "industry",
     "image": "https://cdn.mos.cms.futurecdn.net/VmvsF7iijVYSXdE3Xb5KzL-1280-80.jpg",
-    "id": 15
+    "id": 19
   },
   {
     "title": "AMD Ryzen AI Max 400 ‘Gorgon Halo’ packs up to 192GB of unified memory — refreshed APU uses Zen 5 and RDNA 3.5, and can clock up to 5.2 GHz",
@@ -158,7 +197,37 @@
     "summary": "AMD is refreshing its Ryzen AI Max chips with the new 400 series, known as Gorgon Halo, and they’ll show up in the Ryzen AI Halo development box. That box, with last-gen Strix Halo chips, is going up ...",
     "category": "hardware",
     "image": "https://cdn.mos.cms.futurecdn.net/ssTpUsCMwXHCrNaxPa96oQ-1280-80.jpg",
-    "id": 16
+    "id": 20
+  },
+  {
+    "title": "Spotify and Universal Music strike deal allowing fan-made AI covers and remixes",
+    "url": "https://techcrunch.com/2026/05/21/spotify-and-universal-music-strike-deal-allowing-fan-made-ai-covers-and-remixes/",
+    "source": "TechCrunch",
+    "date": "2026-05-21",
+    "summary": "Spotify is partnering with Universal Music Group￼ to let Premium subscribers create AI-generated song covers and remixes, with participating artists receiving a share of the revenue.",
+    "category": "industry",
+    "image": "https://techcrunch.com/wp-content/uploads/2023/10/spotify-app-GettyImages-1689920063-e1702479483636.jpeg?resize=1200,676",
+    "id": 21
+  },
+  {
+    "title": "Six search engines worth trying now that Google isn’t really Google anymore",
+    "url": "https://techcrunch.com/2026/05/21/six-search-engines-worth-trying-now-that-google-isnt-really-google-anymore/",
+    "source": "TechCrunch",
+    "date": "2026-05-21",
+    "summary": "Google is about to look really different, and if you're not a fan of the AI overview feature, then you're not going to like what's coming.",
+    "category": "industry",
+    "image": "https://techcrunch.com/wp-content/uploads/2026/05/GettyImages-2151663494.jpg?resize=1200,801",
+    "id": 22
+  },
+  {
+    "title": "Trump delays AI security executive order: ‘I don’t want to get in the way of that leading’",
+    "url": "https://techcrunch.com/2026/05/21/trump-delays-ai-security-executive-order-i-dont-want-to-get-in-the-way-of-that-leading/",
+    "source": "TechCrunch",
+    "date": "2026-05-21",
+    "summary": "President Trump delayed signing an executive order that would have required pre-release government security reviews of AI models, citing dissatisfaction with the order's language.",
+    "category": "industry",
+    "image": "https://techcrunch.com/wp-content/uploads/2025/07/GettyImages-2225249178.jpg?w=1024",
+    "id": 23
   },
   {
     "title": "Spotify adds AI-powered Q&A and briefing generation features to podcasts",
@@ -168,27 +237,17 @@
     "summary": "Spotify will let you generate daily or weekly briefs based on your prompts",
     "category": "industry",
     "image": "https://techcrunch.com/wp-content/uploads/2026/05/Screenshot-2026-05-21-at-5.45.05-PM.jpg?resize=1200,675",
-    "id": 17
+    "id": 24
   },
   {
     "title": "Spotify takes on Google’s NotebookLM with its new app",
     "url": "https://techcrunch.com/2026/05/21/spotify-debuts-a-new-desktop-app-for-creating-personal-podcasts/",
     "source": "TechCrunch",
     "date": "2026-05-21",
-    "summary": "Spotify is releasing the new desktop app as a research preview in more than 20 markets",
+    "summary": "Spotify is releasing the new desktop app as a research preview in more than 20 markets.",
     "category": "research",
     "image": "https://techcrunch.com/wp-content/uploads/2026/05/Header.jpeg?resize=1200,675",
-    "id": 18
-  },
-  {
-    "title": "Hark raises $700M Series A for its secretive “universal” AI interface",
-    "url": "https://techcrunch.com/2026/05/21/hark-raises-700m-series-a-for-its-secretive-universal-ai-interface/",
-    "source": "TechCrunch",
-    "date": "2026-05-21",
-    "summary": "Brett Adcock's new AI startup is now valued at $6 billion by its investors.",
-    "category": "industry",
-    "image": "https://techcrunch.com/wp-content/uploads/2026/03/Screenshot-2026-03-24-at-6.20.59-AM.png?w=939",
-    "id": 19
+    "id": 25
   },
   {
     "title": "The Path, founded by Tony Robbins and Calm alums, hopes to offer safer AI therapy",
@@ -198,17 +257,27 @@
     "summary": "The Path says its AI model has scored 95 on the mental health safety AI benchmark, Vera-MH. This compares to a top score of 65 for the consumer bots.",
     "category": "research",
     "image": "https://techcrunch.com/wp-content/uploads/2026/05/GettyImages-2245199304.jpg?resize=1200,800",
-    "id": 20
+    "id": 26
+  },
+  {
+    "title": "Hark raises $700M Series A for its secretive ‘universal’ AI interface",
+    "url": "https://techcrunch.com/2026/05/21/hark-raises-700m-series-a-for-its-secretive-universal-ai-interface/",
+    "source": "TechCrunch",
+    "date": "2026-05-21",
+    "summary": "Hark expects to release its first multimodal models this summer, which it says will power a personal AI platform that works with existing products and services. The company expects to follow that with...",
+    "category": "models",
+    "image": "https://techcrunch.com/wp-content/uploads/2026/03/Screenshot-2026-03-24-at-6.20.59-AM.png?w=939",
+    "id": 27
   },
   {
     "title": "Google is pitching an AI agent ecosystem to consumers who may not buy it",
     "url": "https://techcrunch.com/2026/05/21/google-is-pitching-an-ai-agent-ecosystem-to-consumers-who-may-not-buy-it/",
     "source": "TechCrunch",
     "date": "2026-05-21",
-    "summary": "The AI agents are coming. A lot of them.",
-    "category": "industry",
+    "summary": "One of the most promising introductions at Google’s I/O developer conference on Tuesday was a new way for consumers to use the web: AI agents. Unfortunately, it was also the most confusing.",
+    "category": "tools",
     "image": "https://techcrunch.com/wp-content/uploads/2026/05/ai-agents-GettyImages-2229880232.jpg?resize=1200,675",
-    "id": 21
+    "id": 28
   },
   {
     "title": "With aluminum prices up 20%, recycling startups bet on AI to cash in",
@@ -218,7 +287,7 @@
     "summary": "Recycling startups are using AI to improve the recovery of critical minerals like aluminum, aiming to build a massive source of the metal.",
     "category": "industry",
     "image": "https://techcrunch.com/wp-content/uploads/2023/09/GettyImages-180404126-e1694911368750.jpg?resize=1200,676",
-    "id": 22
+    "id": 29
   },
   {
     "title": "Jensen Huang says he’s found a ‘brand new’ $200B market for Nvidia",
@@ -228,7 +297,7 @@
     "summary": "The next big thing for Nvidia will be CPUs for AI agents, $200 billion worth, CEO Jensen Huang predicts.",
     "category": "industry",
     "image": "https://techcrunch.com/wp-content/uploads/2025/07/GettyImages-2219673294.jpg?resize=1200,750",
-    "id": 23
+    "id": 30
   },
   {
     "title": "Anthropic says it’s about to have its first profitable quarter",
@@ -238,244 +307,187 @@
     "summary": "Anthropic has told its investors that it will more than double revenue to around $10.9 billion in its second quarter.",
     "category": "industry",
     "image": "https://techcrunch.com/wp-content/uploads/2026/02/GettyImages-2261854833.jpg?resize=1200,800",
-    "id": 24
-  },
-  {
-    "title": "Anthropic’s Code with Claude showed off coding’s future—whether you like it or not",
-    "url": "https://www.technologyreview.com/2026/05/21/1137735/anthropics-code-with-claude-showed-off-codings-future-whether-you-like-it-or-not/",
-    "source": "MIT Tech Review",
-    "date": "2026-05-21",
-    "summary": "The vibes were strong at Code with Claude, Anthropic’s two-day event for software developers in London that kicked off on May 19, the same day as Google’s I/O in Palo Alto. (A coincidence, not a flex,...",
-    "category": "models",
-    "image": "https://wp.technologyreview.com/wp-content/uploads/2026/05/Katelyn-Lesse-Anthropic-Head-of-Engineering-Claude-Platform-1.jpg?resize=1200,600",
-    "id": 25
-  },
-  {
-    "title": "The Download: online safety’s future and climate tech’s big pivot",
-    "url": "https://www.technologyreview.com/2026/05/21/1137733/the-download-online-safety-climate-tech-pivot/",
-    "source": "MIT Tech Review",
-    "date": "2026-05-21",
-    "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. Tech researchers are suing the Trump administration over the f...",
-    "category": "research",
-    "image": "https://wp.technologyreview.com/wp-content/uploads/2026/05/knight-case3.jpg?resize=1200,600",
-    "id": 26
-  },
-  {
-    "title": "Tech researchers are suing the Trump administration over the future of online safety",
-    "url": "https://www.technologyreview.com/2026/05/21/1137632/lawsuit-trump-administration-online-safety-coalition-for-independent-technology-research/",
-    "source": "MIT Tech Review",
-    "date": "2026-05-21",
-    "summary": "Since its earliest days back in office, the Trump administration has been going after researchers who study and try to counter hate speech, harassment, propaganda, and disinformation online. Now, some...",
-    "category": "research",
-    "image": "https://wp.technologyreview.com/wp-content/uploads/2026/05/knight-case3.jpg?resize=1200,600",
-    "id": 27
-  },
-  {
-    "title": "SpaceX Listed Grok’s ‘Spicy’ Mode as a Risk in Its IPO Filing",
-    "url": "https://www.wired.com/story/spacex-ipo-grok-spicy-mode-risks/",
-    "source": "Wired",
-    "date": "2026-05-21",
-    "summary": "The rocket company has set aside more than $500 million for potential litigation losses, in part to account for complaints alleging that Grok created sexualized images.",
-    "category": "industry",
-    "image": "https://media.wired.com/photos/6a0e32d330c7f349f26634db/191:100/w_1280,c_limit/Grok-Has-Over-100-Million-Monthly-Users-Business-2255064635.jpg",
-    "id": 28
-  },
-  {
-    "title": "Position: Let's Develop Data Probes to Fundamentally Understand How Data Affects LLM Performance",
-    "url": "https://arxiv.org/abs/2605.18801",
-    "source": "arXiv cs.AI",
-    "date": "2026-05-21",
-    "summary": "Data is fundamental to large language models (LLMs). However, understanding of what makes certain data useful for different stages of an LLM workflow, including training, tuning, alignment, in-context...",
-    "category": "research",
-    "id": 29
-  },
-  {
-    "title": "Operationalizing Document AI: A Microservice Architecture for OCR and LLM Pipelines in Production",
-    "url": "https://arxiv.org/abs/2605.18818",
-    "source": "arXiv cs.AI",
-    "date": "2026-05-21",
-    "summary": "Academic research tends to focus on new models for document understanding creating a wide gap in the literature between model definition and running models at production scale. To close that gap, we p...",
-    "category": "models",
-    "id": 30
-  },
-  {
-    "title": "Evaluating the Utility of Personal Health Records in Personalized Health AI",
-    "url": "https://arxiv.org/abs/2605.18937",
-    "source": "arXiv cs.AI",
-    "date": "2026-05-21",
-    "summary": "Patient-managed Personal Health Records (PHRs) promises to empower patients to better understand their health; but information in the record is complex, potentially hindering insights. In this study, ...",
-    "category": "research",
     "id": 31
   },
   {
-    "title": "Learn-by-Wire Training Control Governance: Bounded Autonomous Training Under Stress for Stability and Efficiency",
-    "url": "https://arxiv.org/abs/2605.19008",
-    "source": "arXiv cs.AI",
+    "title": "Show HN: AI Audiobook Narrator",
+    "url": "https://warblize.com/",
+    "source": "Hacker News",
     "date": "2026-05-21",
-    "summary": "Modern language-model training is increasingly exposed to instability, degraded runs, and wasted compute, especially under aggressive learning-rate, scale, and runtime-stress conditions. This paper in...",
-    "category": "models",
+    "summary": "Article URL: https://warblize.com/ Comments URL: https://news.ycombinator.com/item?id=48227955 Points: 1 # Comments: 0",
+    "category": "industry",
+    "image": "https://warblize.com/static/og-img.jpg",
     "id": 32
   },
   {
-    "title": "AgentNLQ: A General-Purpose Agent for Natural Language to SQL",
-    "url": "https://arxiv.org/abs/2605.19010",
-    "source": "arXiv cs.AI",
+    "title": "Blink – AI Assistant. A Knowledge Destination",
+    "url": "https://blink-oi.vercel.app",
+    "source": "Hacker News",
     "date": "2026-05-21",
-    "summary": "Natural language to SQL (NL2SQL) conversion is an important problem for researchers and enterprises due to the ubiquitous importance of relational databases in broad-ranging practical problems. Despit...",
-    "category": "research",
+    "summary": "Article URL: https://blink-oi.vercel.app Comments URL: https://news.ycombinator.com/item?id=48227907 Points: 1 # Comments: 0",
+    "category": "industry",
     "id": 33
   },
   {
-    "title": "KAN-MLP-Mixer: A comprehensive investigation of the usage of Kolmogorov-Arnold Networks (KANs) for improving IMU-based Human Activity Recognition",
-    "url": "https://arxiv.org/abs/2605.19031",
-    "source": "arXiv cs.AI",
+    "title": "Show HN: Dhrive – Prompt to a native iOS app, built locally with your own AI CLI",
+    "url": "https://www.dhrive.app/",
+    "source": "Hacker News",
     "date": "2026-05-21",
-    "summary": "Kolmogorov-Arnold Networks (KANs) have demonstrated an exceptional ability to learn complex functions on clean, low-dimensional data but struggle to maintain performance on noisy and imperfect real-wo...",
-    "category": "research",
+    "summary": "Article URL: https://www.dhrive.app/ Comments URL: https://news.ycombinator.com/item?id=48227784 Points: 1 # Comments: 0",
+    "category": "industry",
+    "image": "https://dhrive.app/og.jpg",
     "id": 34
   },
   {
-    "title": "Trustworthy Agent Network: Trust in Agent Networks Must Be Baked In, Not Bolted On",
-    "url": "https://arxiv.org/abs/2605.19035",
-    "source": "arXiv cs.AI",
+    "title": "What will better AI mean?",
+    "url": "https://geohot.github.io//blog/jekyll/update/2026/05/20/what-will-better-mean.html",
+    "source": "Hacker News",
     "date": "2026-05-21",
-    "summary": "The rapid advancement of Large Language Models has given rise to autonomous LLM-based agents capable of complex reasoning and execution. As these agents transition from isolated operation to collabora...",
-    "category": "research",
+    "summary": "Article URL: https://geohot.github.io//blog/jekyll/update/2026/05/20/what-will-better-mean.html Comments URL: https://news.ycombinator.com/item?id=48227674 Points: 2 # Comments: 0",
+    "category": "industry",
     "id": 35
   },
   {
-    "title": "Interference-Aware Multi-Task Unlearning",
-    "url": "https://arxiv.org/abs/2605.19042",
-    "source": "arXiv cs.AI",
+    "title": "Show HN: Coherence – drift detector for AI-driven repos",
+    "url": "https://github.com/fireharp/coherence",
+    "source": "Hacker News",
     "date": "2026-05-21",
-    "summary": "Machine unlearning aims to remove the contribution of designated training data from a trained model while preserving performance on the remaining data. Existing work mainly focuses on single-task sett...",
-    "category": "models",
+    "summary": "I’d be interested in feedback on the model, false positives, and whether the examples match drift people are seeing in larger repos. Comments URL: https://news.ycombinator.com/item?id=48227602 Points:...",
+    "category": "industry",
+    "image": "https://opengraph.githubassets.com/84e7eab66ee40be8c599c60dd813d251fec46c91313bde6d1b8721bb3ea1f93d/fireharp/coherence",
     "id": 36
   },
   {
-    "title": "Embedding by Elicitation: Dynamic Representations for Bayesian Optimization of System Prompts",
-    "url": "https://arxiv.org/abs/2605.19093",
-    "source": "arXiv cs.AI",
+    "title": "The AI has come for my code",
+    "url": "https://boston.conman.org/2026/05/19.1",
+    "source": "Hacker News",
     "date": "2026-05-21",
-    "summary": "System prompts are a central control mechanism in modern AI systems, shaping behavior across conversations, tasks, and user populations. Yet they are difficult to tune when feedback is available only ...",
-    "category": "research",
+    "summary": "Article URL: https://boston.conman.org/2026/05/19.1 Comments URL: https://news.ycombinator.com/item?id=48227562 Points: 1 # Comments: 0",
+    "category": "industry",
     "id": 37
   },
   {
-    "title": "DecisionBench: A Benchmark for Emergent Delegation in Long-Horizon Agentic Workflows",
-    "url": "https://arxiv.org/abs/2605.19099",
-    "source": "arXiv cs.AI",
+    "title": "Show HN: Synrix: hardware-verified memory routing for edge AI agents",
+    "url": "https://github.com/AstronomikalOne/synrix-demo",
+    "source": "Hacker News",
     "date": "2026-05-21",
-    "summary": "We introduce DecisionBench, a benchmark substrate for emergent delegation in long-horizon agentic workflows. The substrate fixes a task suite (GAIA, tau-bench, BFCL multi-turn), a peer-model pool (11 ...",
-    "category": "research",
+    "summary": "Article URL: https://github.com/AstronomikalOne/synrix-demo Comments URL: https://news.ycombinator.com/item?id=48227507 Points: 2 # Comments: 0",
+    "category": "hardware",
+    "image": "https://opengraph.githubassets.com/9b0a58660d84c1cccb49227d4975d2b362fa9d3ee86166c4cbdffa6a22c2635c/AstronomikalOne/synrix-demo",
     "id": 38
   },
   {
-    "title": "POLAR-Bench: A Diagnostic Benchmark for Privacy-Utility Trade-offs in LLM Agents",
-    "url": "https://arxiv.org/abs/2605.19127",
-    "source": "arXiv cs.AI",
+    "title": "Starbucks scraps AI inventory tool across North America",
+    "url": "https://www.reuters.com/business/starbucks-scraps-ai-inventory-tool-across-north-america-2026-05-21/",
+    "source": "Hacker News",
     "date": "2026-05-21",
-    "summary": "LLM agents increasingly have access to private user data and act on the user's behalf when interacting with third-party systems. The user defines what may and must not be shared, and the agent must ro...",
-    "category": "models",
+    "summary": "Article URL: https://www.reuters.com/business/starbucks-scraps-ai-inventory-tool-across-north-america-2026-05-21/ Comments URL: https://news.ycombinator.com/item?id=48227487 Points: 8 # Comments: 1",
+    "category": "tools",
     "id": 39
   },
   {
-    "title": "Learning to Hand Off: Provably Convergent Workflow Learning under Interface Constraints",
-    "url": "https://arxiv.org/abs/2605.19140",
-    "source": "arXiv cs.AI",
+    "title": "SpaceX IPO filing lays bare losses and Musk control as it stakes future on AI",
+    "url": "https://www.reuters.com/legal/transactional/bound-mars-elon-musks-spacex-unveils-filing-blockbuster-ipo-2026-05-20/",
+    "source": "Hacker News",
     "date": "2026-05-21",
-    "summary": "We study workflow learning in a setting where specialized agents hand off control through a shared artifact, each agent observes only a local function of that artifact and its own private state, and n...",
-    "category": "research",
+    "summary": "Article URL: https://www.reuters.com/legal/transactional/bound-mars-elon-musks-spacex-unveils-filing-blockbuster-ipo-2026-05-20/ Comments URL: https://news.ycombinator.com/item?id=48227465 Points: 4 #...",
+    "category": "industry",
     "id": 40
   },
   {
-    "title": "Progressive Autonomy as Preference Learning: A Formalization of Trust Calibration for Agentic Tool Use",
-    "url": "https://arxiv.org/abs/2605.19151",
-    "source": "arXiv cs.AI",
+    "title": "Pope Leo launches an AI commission days before he releases a papal letter",
+    "url": "https://fortune.com/2026/05/18/pope-leo-ai-commission-papal-letter-anthropic-co-founder-christopher-olah/",
+    "source": "Hacker News",
     "date": "2026-05-21",
-    "summary": "We formalize trust calibration for agentic tool use (deciding when an automated agent's proposed action may execute autonomously versus require human approval) as a preference-learning problem. A poli...",
-    "category": "tools",
+    "summary": "Article URL: https://fortune.com/2026/05/18/pope-leo-ai-commission-papal-letter-anthropic-co-founder-christopher-olah/ Comments URL: https://news.ycombinator.com/item?id=48227453 Points: 3 # Comments:...",
+    "category": "industry",
+    "image": "https://fortune.com/img-assets/wp-content/uploads/2026/05/GettyImages-2255111774-e1779135322116.jpg?resize=1200,600",
     "id": 41
   },
   {
-    "title": "How Far Are We From True Auto-Research?",
-    "url": "https://arxiv.org/abs/2605.19156",
-    "source": "arXiv cs.AI",
+    "title": "Show HN: AI readiness toolkit: AI two-minute CODE maturity check",
+    "url": "https://github.com/bjcoombs/ai-native-toolkit",
+    "source": "Hacker News",
     "date": "2026-05-21",
-    "summary": "Recent auto-research systems can produce complete papers, but feasibility is not the same as quality, and the field still lacks a systematic study of how good agent-generated papers actually are. We i...",
-    "category": "research",
+    "summary": "I've been using this for a while, and I thought others on HN might find it helpful. You can run it against a local repository, and it uses mostly non-AI tools to make a high-level assessment about how...",
+    "category": "tools",
+    "image": "https://opengraph.githubassets.com/6ac05c7eaaf7ef1cca6829732aa5e3870a7c8317f4ff2df00631aa287b13ba26/bjcoombs/ai-native-toolkit",
     "id": 42
   },
   {
-    "title": "Discoverable Agent Knowledge -- A Formal Framework for Agentic KG Affordances (Extended Version)",
-    "url": "https://arxiv.org/abs/2605.19186",
-    "source": "arXiv cs.AI",
+    "title": "AI token streaming isn't about SSE vs. WebSockets",
+    "url": "https://zknill.io/posts/ai-token-streaming-isnt-about-sse-vs-websockets/",
+    "source": "Hacker News",
     "date": "2026-05-21",
-    "summary": "Two decades ago, the Semantic Web Services community was asked how agents with different ontological commitments could discover, compose, and invoke web services coherently. The response was OWL-S and...",
-    "category": "research",
+    "summary": "Article URL: https://zknill.io/posts/ai-token-streaming-isnt-about-sse-vs-websockets/ Comments URL: https://news.ycombinator.com/item?id=48227190 Points: 1 # Comments: 0",
+    "category": "industry",
+    "image": "https://zknill.io/img/header.png",
     "id": 43
   },
   {
-    "title": "Hallucination as Exploit: Evidence-Carrying Multimodal Agents",
-    "url": "https://arxiv.org/abs/2605.19192",
-    "source": "arXiv cs.AI",
+    "title": "Apple Music's AI stance: \"Technology should amplify artists, not replace them\"",
+    "url": "https://9to5mac.com/2026/05/20/apple-music-shares-what-it-is-doing-to-keep-music-fair-in-an-ai-world/",
+    "source": "Hacker News",
     "date": "2026-05-21",
-    "summary": "Multimodal agents use screenshots, documents, and webpages to choose tool calls. When a false visual claim triggers a click, email, extraction, or transfer, hallucination becomes an authorization fail...",
-    "category": "models",
+    "summary": "Article URL: https://9to5mac.com/2026/05/20/apple-music-shares-what-it-is-doing-to-keep-music-fair-in-an-ai-world/ Comments URL: https://news.ycombinator.com/item?id=48227162 Points: 3 # Comments: 0",
+    "category": "industry",
+    "image": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2026/02/Apple-Music-iOS-26-icon.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
     "id": 44
   },
   {
-    "title": "Not all uncertainty is alike: volatility, stochasticity, and exploration",
-    "url": "https://arxiv.org/abs/2605.19215",
-    "source": "arXiv cs.AI",
+    "title": "Assay – validation layer for AI agents that touch money",
+    "url": "https://github.com/VenturFlow/Assay",
+    "source": "Hacker News",
     "date": "2026-05-21",
-    "summary": "Adaptive decision-making in biological and artificial intelligence requires balancing the exploitation of known outcomes with the exploration of uncertain alternatives. Although prior work suggests th...",
+    "summary": "Article URL: https://github.com/VenturFlow/Assay Comments URL: https://news.ycombinator.com/item?id=48227017 Points: 2 # Comments: 0",
     "category": "industry",
+    "image": "https://opengraph.githubassets.com/86d53a3d445996d8b64ed933e0e8d2509f86b37ff85882e3a42cb261cf9dd0e4/VenturFlow/Assay",
     "id": 45
   },
   {
-    "title": "SimGym: A Framework for A/B Test Simulation in E-Commerce with Traffic-Grounded VLM Agents",
-    "url": "https://arxiv.org/abs/2605.19219",
-    "source": "arXiv cs.AI",
+    "title": "Tanya Janca on AI Slop, Vibe Coding, & the Future of AppSec",
+    "url": "https://redmonk.com/videos/tanya-janca/",
+    "source": "Hacker News",
     "date": "2026-05-21",
-    "summary": "A/B testing remains the gold standard for evaluating modifications to e-commerce storefronts, yet it diverts traffic, requires weeks to reach statistical significance, and risks degrading user experie...",
-    "category": "tools",
+    "summary": "Article URL: https://redmonk.com/videos/tanya-janca/ Comments URL: https://news.ycombinator.com/item?id=48227013 Points: 1 # Comments: 0",
+    "category": "industry",
+    "image": "https://redmonk.com/wp-content/uploads/2026/05/Tanya-Janca-1115x627.png",
     "id": 46
   },
   {
-    "title": "Can Large Language Models Revolutionize Survey Research? Experiments with Disaster Preparedness Responses",
-    "url": "https://arxiv.org/abs/2605.19229",
-    "source": "arXiv cs.AI",
+    "title": "Fixing LLM Writing with Distribution Fine Tuning",
+    "url": "https://rosmine.ai/2026/05/18/fixing-llm-writing-with-distribution-fine-tuning/",
+    "source": "Hacker News",
     "date": "2026-05-21",
-    "summary": "Survey research faces mounting structural challenges: declining response rates, sample bias, block-wise missingness among at-risk respondents, and AI-assisted fraudulent completions in online panels. ...",
-    "category": "research",
+    "summary": "Article URL: https://rosmine.ai/2026/05/18/fixing-llm-writing-with-distribution-fine-tuning/ Comments URL: https://news.ycombinator.com/item?id=48226537 Points: 2 # Comments: 0",
+    "category": "models",
     "id": 47
   },
   {
-    "title": "Causal Evidence for Attention Head Imbalance in Modality Conflict Hallucination",
-    "url": "https://arxiv.org/abs/2605.19250",
-    "source": "arXiv cs.AI",
+    "title": "Ask HN: What is an optimal game theoretic response to AI adoption?",
+    "url": "https://news.ycombinator.com/item?id=48226484",
+    "source": "Hacker News",
     "date": "2026-05-21",
-    "summary": "Modality-conflict hallucination occurs when multimodal large language models (MLLMs) prioritize erroneous textual premises over contradictory visual evidence. To understand why visual evidence fails t...",
+    "summary": "Apologies for the claude dump, but this was too tempting to resist and partly also my context window is too small to generate a long thesis (a.k.a lazy). I wanted to share it with people as a conversa...",
     "category": "models",
     "id": 48
   },
   {
-    "title": "AQuaUI: Visual Token Reduction for GUI Agents with Adaptive Quadtrees",
-    "url": "https://arxiv.org/abs/2605.19260",
-    "source": "arXiv cs.AI",
+    "title": "Ask HN: What AI prompts have you found most reliable for actual work?",
+    "url": "https://news.ycombinator.com/item?id=48226384",
+    "source": "Hacker News",
     "date": "2026-05-21",
-    "summary": "Large Multimodal Models (LMMs) have recently emerged as promising backbones for GUI-agent models, where high-resolution GUI screenshots are introduced to the prompts at each iteration step. However, t...",
-    "category": "research",
+    "summary": "Comments URL: https://news.ycombinator.com/item?id=48226384 Points: 4 # Comments: 4",
+    "category": "industry",
     "id": 49
   },
   {
-    "title": "Swimming with Whales: Analysis of Power Imbalances in Stake-Weighted Governance",
-    "url": "https://arxiv.org/abs/2605.19264",
-    "source": "arXiv cs.AI",
+    "title": "White House postpones AI executive order signing ceremony",
+    "url": "https://www.axios.com/2026/05/21/white-house-postpones-ai-eo-signing",
+    "source": "Hacker News",
     "date": "2026-05-21",
-    "summary": "Voting methods weighted by stakes are the fundamental governance paradigm in Proof-of-Stake (PoS) blockchains. Such a paradigm is known to be prone to power distortions: a few users possessing large s...",
-    "category": "research",
+    "summary": "Article URL: https://www.axios.com/2026/05/21/white-house-postpones-ai-eo-signing Comments URL: https://news.ycombinator.com/item?id=48226127 Points: 3 # Comments: 0",
+    "category": "industry",
     "id": 50
   }
 ]
