@@ -1,5 +1,26 @@
 [
   {
+    "title": "Samsung's $400,000 payout for memory workers sparks revolt as other divisions get only $4,000, fueling intentional production slowdowns — internal resentment disrupts packaging operations, major AI chip project decisions to a complete halt",
+    "url": "https://www.tomshardware.com/tech-industry/samsungs-bonus-dispute-spreads-to-chip-packaging-divisions-threatening-hbm-delivery-schedules",
+    "source": "Tom's Hardware",
+    "date": "2026-05-23",
+    "summary": "It’s understood that meetings are being canceled across Samsung's non-memory and shared business units.",
+    "category": "hardware",
+    "image": "https://cdn.mos.cms.futurecdn.net/tRrvFL7XAZrRiJiCFASp6E-1280-80.jpg",
+    "id": 1,
+    "featured": true
+  },
+  {
+    "title": "AI cost crisis hits tech giants as employee 'tokenmaxxing' backfires, sparking corporate pullback at Microsoft, Meta, and Amazon — agentic AI eats up to 1000x more tokens than standard AI",
+    "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/ai-cost-crisis-hits-tech-giants-as-employee-tokenmaxxing-backfires-agentic-ai-eats-up-to-1000x-more-tokens-than-standard-ai-sparks-corporate-pullback-at-microsoft-meta-and-amazon",
+    "source": "Tom's Hardware",
+    "date": "2026-05-23",
+    "summary": "Agentic AI is consuming so many tokens that it's draining AI budgets way faster than expected. Jevons Paradox rings true 161 years after it was coined.",
+    "category": "industry",
+    "image": "https://cdn.mos.cms.futurecdn.net/iBu6BXKDx9eNtLPFhAZHXh-1280-80.jpg",
+    "id": 2
+  },
+  {
     "title": "$100 CPU Shootout: Comparing the Ryzen 5 5500, Core i3-14100F, and Core i3-12100F to find the top DDR4 CPU",
     "url": "https://www.tomshardware.com/pc-components/cpus/100-budget-cpu-shootout-ddr4",
     "source": "Tom's Hardware",
@@ -7,8 +28,7 @@
     "summary": "As RAM prices continue to climb, budget CPUs are becoming more important. Here, we look at the three leading CPUs around $100 that use DDR4 memory to find which one is right for your next budget PC bu...",
     "category": "hardware",
     "image": "https://cdn.mos.cms.futurecdn.net/KFqm9bvGjLCwaDNADCidee-1280-80.jpg",
-    "id": 1,
-    "featured": true
+    "id": 3
   },
   {
     "title": "Micron's Virginia fab begins producing America's most advanced DRAM memory — fab expansion to quadruple output, easing DDR4 shortage for automotive and defense sectors",
@@ -18,7 +38,7 @@
     "summary": "Micron is scaling up DDR4 production as the supply of the older memory standard has become unexpectedly tight.",
     "category": "hardware",
     "image": "https://cdn.mos.cms.futurecdn.net/MKPAJtT8MT8FuEjoJ2s7Ko-1280-80.jpg",
-    "id": 2
+    "id": 4
   },
   {
     "title": "Huawei develops 122TB SSD with new packaging tech to sidestep US sanctions on 3D NAND chips — Chinese firm develops proprietary tech to cram more NAND dies in a smaller footprint",
@@ -28,7 +48,7 @@
     "summary": "Huawei developed a new die-on-board packaging, which directly mounted NAND dies on the SSD PCB, to get around the sanctions that prevented it from acquiring high-layer-count 3D NAND chips that used Am...",
     "category": "hardware",
     "image": "https://cdn.mos.cms.futurecdn.net/KqsTkijmXtNepKSEWE4XDE-1280-80.jpg",
-    "id": 3
+    "id": 5
   },
   {
     "title": "768GB of cheap Intel Optane DIMM memory sticks used to run 1-trillion-parameter LLM on a system with a single GPU — local Kimi K2.5 install achieved roughly 4 tokens per second",
@@ -38,7 +58,7 @@
     "summary": "A Redditor has caused a stir by coaxing a workstation build using Optane PMem DIMMs as RAM to run a 1-trillion parameter LLM.",
     "category": "hardware",
     "image": "https://cdn.mos.cms.futurecdn.net/pVUBxLhFAMZk48wMsLKcng-1280-80.png",
-    "id": 4
+    "id": 6
   },
   {
     "title": "Wi-Fi controlled hacking USB cable stealthily packs in a microcontroller, microSD storage, and more — cable executes remote payload execution, keystroke injection, and more, but is 'built for makers, developers, enthusiasts, and cybersecurity learners'",
@@ -48,7 +68,17 @@
     "summary": "A device that 'looks like a normal USB cable' but packs in an ESP32-S3 microcontroller, micro SD card storage, and Wi-Fi capabilities has enjoyed great success on Kickstarter.",
     "category": "research",
     "image": "https://cdn.mos.cms.futurecdn.net/HxNXpwsdkKRCeS2U2DffbW-1280-80.jpg",
-    "id": 5
+    "id": 7
+  },
+  {
+    "title": "Ferrari is using IBM’s AI to create F1 superfans",
+    "url": "https://techcrunch.com/2026/05/23/ferrari-is-using-ai-to-create-f1-superfans/",
+    "source": "TechCrunch",
+    "date": "2026-05-23",
+    "summary": "IBM and Scuderia Ferrari HP take TechCrunch inside how they are redefining the fan experience.",
+    "category": "industry",
+    "image": "https://techcrunch.com/wp-content/uploads/2026/05/01-bxd-ferrari-xg-photography-v2.jpg?resize=1200,959",
+    "id": 8
   },
   {
     "title": "Benchmarking and Improving Monitors for Out-Of-Distribution Alignment Failure in LLMs",
@@ -57,7 +87,7 @@
     "date": "2026-05-23",
     "summary": "Many safety and alignment failures of large language models (LLMs) occur due to out-of-distribution (OOD) situations: unusual prompt or response patterns that are unforeseen by model developers. We sy...",
     "category": "models",
-    "id": 6
+    "id": 9
   },
   {
     "title": "TO-Agents: A Multi-Agent AI Pipeline for Preference-Guided Topology Optimization",
@@ -66,7 +96,7 @@
     "date": "2026-05-23",
     "summary": "Topology optimization can generate efficient structures, but designers often must manually translate qualitative intent, such as desired visual style, product experience, or manufacturability into sol...",
     "category": "research",
-    "id": 7
+    "id": 10
   },
   {
     "title": "The Shape of Testimony: A Scalable Framework for Oral History Archive Comparison",
@@ -75,7 +105,7 @@
     "date": "2026-05-23",
     "summary": "Researchers in Holocaust studies have often distinguished between two styles of oral survivor testimony: the USC Shoah Foundation's interviews tend to follow a structured, interviewer-guided format, w...",
     "category": "research",
-    "id": 8
+    "id": 11
   },
   {
     "title": "MindLoom: Composing Thought Modes for Frontier-Level Reasoning Data Synthesis",
@@ -84,7 +114,7 @@
     "date": "2026-05-23",
     "summary": "Although LLMs have made substantial progress in reasoning, systematically producing frontier-level reasoning data remains difficult. Existing synthesis methods often have limited visibility into the s...",
     "category": "models",
-    "id": 9
+    "id": 12
   },
   {
     "title": "AOP-Wiki EMOD 3.0: Data Model Expansions and Content Evaluation Framework for Using Agentic AI to Improve Integration between AOPs and New Approach Methodologies (NAMs)",
@@ -93,7 +123,7 @@
     "date": "2026-05-23",
     "summary": "Adverse Outcome Pathways (AOP) are logic models that causally link biological mechanisms that can be measured in a lab to adverse outcomes, relevant to chemical regulatory endpoints. AOPs contextualiz...",
     "category": "research",
-    "id": 10
+    "id": 13
   },
   {
     "title": "Investigating Concept Alignment Using Implausible Category Members",
@@ -102,7 +132,7 @@
     "date": "2026-05-23",
     "summary": "Developing AI systems with a human-like understanding of everyday concepts is a key step towards developing safe, reliable systems whose behavior makes sense to humans. When probing concept understand...",
     "category": "research",
-    "id": 11
+    "id": 14
   },
   {
     "title": "The Impact of AI Usage and Informativeness on Skill Development in Logical Reasoning",
@@ -111,7 +141,7 @@
     "date": "2026-05-23",
     "summary": "Artificial intelligence (AI) is being increasingly integrated into human problem-solving, yet its effects on individual skill development remain unclear. We examine how both AI usage and informativene...",
     "category": "research",
-    "id": 12
+    "id": 15
   },
   {
     "title": "Latent-space Attacks for Refusal Evasion in Language Models",
@@ -120,7 +150,7 @@
     "date": "2026-05-23",
     "summary": "Safety-aligned language models are trained to refuse harmful requests, yet refusal behavior can be suppressed by steering their internal representations. Existing methods do so by ablating a refusal d...",
     "category": "models",
-    "id": 13
+    "id": 16
   },
   {
     "title": "AttuneBench: A Conversation-Based Benchmark for LLM Emotional Intelligence",
@@ -129,7 +159,7 @@
     "date": "2026-05-23",
     "summary": "Emotional intelligence (EI), the ability to perceive, understand, and respond appropriately to others' emotional states, is central to human communication, and increasingly important to assess as LLMs...",
     "category": "models",
-    "id": 14
+    "id": 17
   },
   {
     "title": "SMDD-Bench: Can LLMs Solve Real-World Small Molecule Drug Design Tasks?",
@@ -138,7 +168,7 @@
     "date": "2026-05-23",
     "summary": "LLM agents have incredible potential for scientific discovery applications. However, the performance of LLM agents on real-world, small molecule drug design (SMDD) tasks across diverse chemistries and...",
     "category": "research",
-    "id": 15
+    "id": 18
   },
   {
     "title": "Who Uses AI? Platforms, Workforce, and AI Exposure",
@@ -147,7 +177,7 @@
     "date": "2026-05-23",
     "summary": "A growing literature uses artificial intelligence platform conversation logs to measure occupation exposure. We show that these scores partly measure platform user base rather than the workforce. Hold...",
     "category": "models",
-    "id": 16
+    "id": 19
   },
   {
     "title": "A Causal Argumentation Method for Explainability of Machine Learning Models",
@@ -156,7 +186,7 @@
     "date": "2026-05-23",
     "summary": "Explainable AI (XAI) methods identify which features are relevant to a model's predictions but often fail to clarify why certain decisions are made. In this work, we present a novel method that integr...",
     "category": "research",
-    "id": 17
+    "id": 20
   },
   {
     "title": "What Counts as AI Sycophancy? A Taxonomy and Expert Survey of a Fragmented Construct",
@@ -165,7 +195,7 @@
     "date": "2026-05-23",
     "summary": "AI sycophancy has become a prominent concern in large language model (LLM) research. Yet the term lacks a consistent definition and has been applied to behaviors ranging from agreeing with a user's fa...",
     "category": "research",
-    "id": 18
+    "id": 21
   },
   {
     "title": "Trace2Skill: Verifier-Guided Skill Evolution for Long-Context EDA Agents",
@@ -174,7 +204,7 @@
     "date": "2026-05-23",
     "summary": "Complex Verilog Design Problems (CVDP) challenge hardware LLM agents because solving them requires localizing verifier-relevant RTL, testbenches, include paths, and build dependencies inside large rep...",
     "category": "models",
-    "id": 19
+    "id": 22
   },
   {
     "title": "Implicit Safety Alignment from Crowd Preferences",
@@ -183,7 +213,7 @@
     "date": "2026-05-23",
     "summary": "Reinforcement Learning from Human Feedback (RLHF) can reveal implicit objectives such as safety considerations that go beyond task completion. In this work, we focus on the common safety criteria embe...",
     "category": "research",
-    "id": 20
+    "id": 23
   },
   {
     "title": "Toward AI VIS Co-Scientists: A General and End-to-End Agent Harness for Solving Complex Data Visualization Tasks",
@@ -192,7 +222,7 @@
     "date": "2026-05-23",
     "summary": "The ability to inspect, interpret, and communicate complex data is crucial for virtually any scientific endeavor, but often requires significant expertise outside the core domain ranging from data man...",
     "category": "models",
-    "id": 21
+    "id": 24
   },
   {
     "title": "FLUID: From Ephemeral IDs to Multimodal Semantic Codes for Industrial-Scale Livestreaming Recommendation",
@@ -201,7 +231,7 @@
     "date": "2026-05-23",
     "summary": "Modern recommender systems rely heavily on ID-based collaborative filtering: each item is represented by a unique ID embedding that accumulates collaborative signals from user interactions. Livestream...",
     "category": "tools",
-    "id": 22
+    "id": 25
   },
   {
     "title": "Planning in the LLM Era: Building for Reliability and Efficiency",
@@ -210,7 +240,7 @@
     "date": "2026-05-23",
     "summary": "Growing attention to intelligent agents has put a spotlight on one of their central capabilities: planning. Early attempts to leverage large language models (LLMs) for planning relied on single-shot p...",
     "category": "research",
-    "id": 23
+    "id": 26
   },
   {
     "title": "AI-Enabled Serious Games: Integrating Intelligence and Adaptivity in Training Systems",
@@ -219,7 +249,7 @@
     "date": "2026-05-23",
     "summary": "Serious games are widely used for learning and training across domains such as healthcare, defense, and education. Persistent challenges remain, however, including static scenario design, authoring bo...",
     "category": "models",
-    "id": 24
+    "id": 27
   },
   {
     "title": "Format-Constraint Coupling in Knowledge Graph Construction from Statistical Tables",
@@ -228,7 +258,7 @@
     "date": "2026-05-23",
     "summary": "An extraction schema should not reduce knowledge graph fidelity. On statistical CSV, however, it can. We study country-by-year time-series matrices, a common layout on open-data portals. In this setti...",
     "category": "research",
-    "id": 25
+    "id": 28
   },
   {
     "title": "Echo: Learning from Experience Data via User-Driven Refinement",
@@ -237,7 +267,7 @@
     "date": "2026-05-23",
     "summary": "Static \"human data\" faces inherent limitations: it is expensive to scale and bounded by the knowledge of its creators. Continuous learning from \"experience data\" - interactions between agents and thei...",
     "category": "tools",
-    "id": 26
+    "id": 29
   },
   {
     "title": "ECPO: Evidence-Coupled Policy Optimization for Evidence-Certified Candidate Ranking",
@@ -246,7 +276,7 @@
     "date": "2026-05-23",
     "summary": "Ranking systems used in decision-support settings should not only order candidates but also expose evidence that can be independently checked. We study evidence-certified candidate ranking: given an i...",
     "category": "research",
-    "id": 27
+    "id": 30
   },
   {
     "title": "The Log is the Agent: Event-Sourced Reactive Graphs for Auditable, Forkable Agentic Systems",
@@ -255,7 +285,7 @@
     "date": "2026-05-23",
     "summary": "Most agent frameworks are built around the language model: a conversation loop comes first, then tools, then rules, and finally a logging layer bolted on for observability, with state persisted as ret...",
     "category": "models",
-    "id": 28
+    "id": 31
   },
   {
     "title": "Active Evidence-Seeking and Diagnostic Reasoning in Large Language Models for Clinical Decision Support",
@@ -264,7 +294,7 @@
     "date": "2026-05-23",
     "summary": "Large language models perform well on static medical examinations, yet clinical diagnosis often requires iterative evidence gathering under uncertainty. Building on prior interactive evaluation effort...",
     "category": "research",
-    "id": 29
+    "id": 32
   },
   {
     "title": "Enhancing Visual Token Representations for Video Large Language Models via Training-Free Spatial-Temporal Pooling and Gridding",
@@ -273,7 +303,7 @@
     "date": "2026-05-23",
     "summary": "Recent advances in Multimodal Large Language Models (MLLMs) have significantly advanced video understanding tasks, yet challenges remain in efficiently compressing visual tokens while preserving spati...",
     "category": "models",
-    "id": 30
+    "id": 33
   },
   {
     "title": "A Camera-Cooperative ISAC Framework for Multimodal Non-Cooperative UAVs Sensing",
@@ -282,7 +312,7 @@
     "date": "2026-05-23",
     "summary": "The detection of non-cooperative unmanned aerial vehicles (UAVs) presents significant challenges for Integrated Sensing and Communication (ISAC) systems due to the inherent limitations of single-modal...",
     "category": "research",
-    "id": 31
+    "id": 34
   },
   {
     "title": "Knowledge Graph Re-engineering Along the Ontological Continuum (extended version)",
@@ -291,7 +321,7 @@
     "date": "2026-05-23",
     "summary": "Knowledge graphs have become the primary vehicle for data integration and are critical to the success of modern AI, but the diversity of KG modelling practices, from lightweight vocabularies to richly...",
     "category": "research",
-    "id": 32
+    "id": 35
   },
   {
     "title": "MPDocBench-Parse: Benchmarking Practical Multi-page Document Parsing",
@@ -300,7 +330,7 @@
     "date": "2026-05-23",
     "summary": "Document parsing converts visually rich documents into machine-readable structured representations, forming a crucial foundation for information systems. Although many benchmarks have been proposed fo...",
     "category": "research",
-    "id": 33
+    "id": 36
   },
   {
     "title": "ExComm: Exploration-Stage Communication for Error-Resilient Agentic Test-Time Scaling",
@@ -309,7 +339,7 @@
     "date": "2026-05-23",
     "summary": "A common failure mode in long-horizon agentic test-time scaling is error propagation, where factual errors or invalid deductions introduced at intermediate steps persist in the agent's belief state an...",
     "category": "models",
-    "id": 34
+    "id": 37
   },
   {
     "title": "ArborKV: Structure-Aware KV Cache Management for Scaling Tree-based LLM Reasoning",
@@ -318,7 +348,7 @@
     "date": "2026-05-23",
     "summary": "Recent progress in LLM reasoning has increasingly shifted from single-pass generation to explicit search over intermediate reasoning states. Tree-of-Thoughts (ToT) organizes inference to tree-structur...",
     "category": "models",
-    "id": 35
+    "id": 38
   },
   {
     "title": "Perception or Prejudice: Can MLLMs Go Beyond First Impressions of Personality?",
@@ -327,7 +357,7 @@
     "date": "2026-05-23",
     "summary": "Multimodal Large Language Models (MLLMs) are increasingly deployed in human-facing roles where personality perception is critical, yet existing benchmarks evaluate this capability solely on numerical ...",
     "category": "models",
-    "id": 36
+    "id": 39
   },
   {
     "title": "Efficient Agentic Reasoning Through Self-Regulated Simulative Planning",
@@ -336,7 +366,7 @@
     "date": "2026-05-23",
     "summary": "How should an agent decide when and how to plan? A dominant approach builds agents as reactive policies with adaptive computation (e.g., chain-of-thought), trained end-to-end expecting planning to eme...",
     "category": "research",
-    "id": 37
+    "id": 40
   },
   {
     "title": "Ratchet: A Minimal Hygiene Recipe for Self-Evolving LLM Agents",
@@ -345,7 +375,7 @@
     "date": "2026-05-23",
     "summary": "Self-evolving skill libraries, pioneered by Voyager, let frozen LLM agents accumulate reusable knowledge without weight updates, yet recent evaluation shows that LLM-authored skills deliver $+0.0$pp o...",
     "category": "models",
-    "id": 38
+    "id": 41
   },
   {
     "title": "IdleSpec: Exploiting Idle Time via Speculative Planning for LLM Agents",
@@ -354,7 +384,7 @@
     "date": "2026-05-23",
     "summary": "Large language model (LLM)-based agents solve complex tasks by leveraging multi-step reasoning with iterative tool calls and environment interactions, which incur idle time while waiting for observati...",
     "category": "models",
-    "id": 39
+    "id": 42
   },
   {
     "title": "ST-SimDiff: Balancing Spatiotemporal Similarity and Difference for Efficient Video Understanding with MLLMs",
@@ -363,7 +393,7 @@
     "date": "2026-05-23",
     "summary": "Multimodal Large Language Models (MLLMs) face significant computational overhead when processing long videos due to the massive number of visual tokens required. To improve efficiency, existing method...",
     "category": "models",
-    "id": 40
+    "id": 43
   },
   {
     "title": "Adapting the Interface, Not the Model: Runtime Harness Adaptation for Deterministic LLM Agents",
@@ -372,7 +402,7 @@
     "date": "2026-05-23",
     "summary": "LLM agents are shaped not only by their language models, but also by the runtime harness that mediates observation, tool use, action execution, feedback interpretation, and trajectory control. While e...",
     "category": "models",
-    "id": 41
+    "id": 44
   },
   {
     "title": "Measuring Cross-Modal Synergy: A Benchmark for VLM Explainability",
@@ -381,7 +411,7 @@
     "date": "2026-05-23",
     "summary": "Vision-Language Models (VLMs) map complex visual inputs to semantic spaces, but interpreting the cross-modal reasoning of VLMs currently relies on post-hoc explainers evaluated via unimodal perturbati...",
     "category": "models",
-    "id": 42
+    "id": 45
   },
   {
     "title": "LLM-Metrics: Measuring Research Impact Through Large Language Model Memory",
@@ -390,7 +420,7 @@
     "date": "2026-05-23",
     "summary": "Citation counts remain the dominant metric for assessing research impact, yet they suffer from well-documented limitations: temporal lag, disciplinary bias, and Matthew effects. Here we propose LLM-Me...",
     "category": "models",
-    "id": 43
+    "id": 46
   },
   {
     "title": "Skill Weaving: Efficient LLM Improvement via Modular Skillpacks",
@@ -399,7 +429,7 @@
     "date": "2026-05-23",
     "summary": "Large language models increasingly require specialization across diverse domains, yet existing approaches struggle to balance multi-domain capacities with strict memory and inference constraints. In t...",
     "category": "models",
-    "id": 44
+    "id": 47
   },
   {
     "title": "CLORE: Content-Level Optimization for Reasoning Efficiency",
@@ -408,7 +438,7 @@
     "date": "2026-05-23",
     "summary": "Reinforcement learning post-training has improved the reasoning ability of large language models, but often produces unnecessarily long, repetitive, or semantically opaque reasoning traces. Existing e...",
     "category": "models",
-    "id": 45
+    "id": 48
   },
   {
     "title": "SGR-Bench: Benchmarking Search Agents on State-Gated Retrieval",
@@ -417,7 +447,7 @@
     "date": "2026-05-23",
     "summary": "Recent advances in large language models and tool-using agents have expanded the range of benchmarked web tasks. Yet an important class of specialized retrieval tasks remains undercharacterized. On ma...",
     "category": "models",
-    "id": 46
+    "id": 49
   },
   {
     "title": "Evaluating Large Language Models as Live Strategic Agents: Provider Performance, Hybrid Decomposition, and Operational Gaps in Timed Risk Play",
@@ -426,33 +456,6 @@
     "date": "2026-05-23",
     "summary": "Static benchmarks capture only part of how large language models behave in practice. Real systems place models inside repeated loops with time limits, formatting constraints, and failure modes. We stu...",
     "category": "models",
-    "id": 47
-  },
-  {
-    "title": "Unlocking Proactivity in Task-Oriented Dialogue",
-    "url": "https://arxiv.org/abs/2605.22240",
-    "source": "arXiv cs.AI",
-    "date": "2026-05-23",
-    "summary": "Proactive task-oriented dialogue (TOD), such as outbound sales, demands a persuasive agent that actively probes the user's concerns and steers the conversation toward acceptance within a bounded numbe...",
-    "category": "models",
-    "id": 48
-  },
-  {
-    "title": "SciCore-Mol: Augmenting Large Language Models with Pluggable Molecular Cognition Modules",
-    "url": "https://arxiv.org/abs/2605.22287",
-    "source": "arXiv cs.AI",
-    "date": "2026-05-23",
-    "summary": "Large Language Models (LLMs) are central to the one-for-all intelligent paradigm, but they face a fundamental challenge when dealing with heterogeneous scientific data such as molecules: the inherent ...",
-    "category": "models",
-    "id": 49
-  },
-  {
-    "title": "Cross-domain benchmarks reveal when coordinated AI agents improve scientific inference from partial evidence",
-    "url": "https://arxiv.org/abs/2605.22300",
-    "source": "arXiv cs.AI",
-    "date": "2026-05-23",
-    "summary": "Scientific evidence often spans instruments, databases, and disciplines, so no single source records the full phenomenon. This makes it difficult to determine when coordinated AI agents add value over...",
-    "category": "research",
     "id": 50
   }
 ]
