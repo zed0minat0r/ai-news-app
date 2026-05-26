@@ -1,5 +1,26 @@
 [
   {
+    "title": "NVIDIA Vera CPU Is ‘Packing a Heavy-Hitting Punch’ Against Competition",
+    "url": "https://blogs.nvidia.com/blog/vera-cpu-phoronix/",
+    "source": "NVIDIA Blog",
+    "date": "2026-05-26",
+    "summary": "The shift to agentic AI creates a new CPU requirement for the AI factory: fast cores, massive memory bandwidth and the ability to sustain high performance when all cores are active. Initial benchmark ...",
+    "category": "hardware",
+    "image": "https://blogs.nvidia.com/wp-content/uploads/2026/05/Vera-CPU_Tray_Open-34_Wide_R6C-FNL-5260651-1.jpg",
+    "id": 1,
+    "featured": true
+  },
+  {
+    "title": "Millions of AI agents imperiled by critical vulnerability in open source package",
+    "url": "https://arstechnica.com/information-technology/2026/05/millions-of-ai-agents-imperiled-by-critical-vulnerability-in-open-source-package/",
+    "source": "Ars Technica",
+    "date": "2026-05-26",
+    "summary": "\"BadHost\" was found in Starlette, a package with 325 million weekly downloads.",
+    "category": "tools",
+    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/02/gatekeeping-ai-agents-1152x648.jpg",
+    "id": 2
+  },
+  {
     "title": "IBM spins off America's first quantum chip foundry with $2 billion in federal and private funding — newly-minted 'Anderon' foundry to offer 300mm quantum wafer fab and manufacturing services",
     "url": "https://www.tomshardware.com/tech-industry/quantum-computing/ibm-spins-off-americas-first-quantum-chip-foundry-with-2-billion-in-federal-and-private-funding",
     "source": "Tom's Hardware",
@@ -7,8 +28,7 @@
     "summary": "Headquartered in Albany, New York, Anderon will operate a 300mm quantum wafer fab and offer its manufacturing services to competing quantum hardware vendors.",
     "category": "industry",
     "image": "https://cdn.mos.cms.futurecdn.net/rcrzQT5uWd5BFVFvP2jzr6-1280-80.jpg",
-    "id": 1,
-    "featured": true
+    "id": 3
   },
   {
     "title": "Nvidia is finally ditching its iconic GPU Control Panel after 20 years — new driver updates only ship in the Nvidia App",
@@ -18,7 +38,7 @@
     "summary": "Nvidia has finally retired its 20-year-old control panel for GeForce GPUs. From now on, new GeForce drivers will only include the Nvidia App.",
     "category": "hardware",
     "image": "https://cdn.mos.cms.futurecdn.net/SJK44CHKacrsa86eCY3ZRC-1280-80.jpg",
-    "id": 2
+    "id": 4
   },
   {
     "title": "Chinese AI experts in private firms now required to secure approval before international travel — Beijing enforces policy to secure top-tier talent, expands measures beyond government",
@@ -28,7 +48,7 @@
     "summary": "The Chinese government has imposed travel restrictions on key AI experts, requiring them to secure an approval before they can leave the country. Beijing is reportedly doing this to secure talent, whi...",
     "category": "industry",
     "image": "https://cdn.mos.cms.futurecdn.net/7zUooah8YoBKzMn8KwtRyf-1280-80.jpg",
-    "id": 3
+    "id": 5
   },
   {
     "title": "Acer is reportedly working on a 'Predator Atlas 8' handheld featuring Intel's Arc G3 chips — Panther Lake-based handhelds expected to be revealed at Computex 2026",
@@ -38,7 +58,7 @@
     "summary": "At Computex next month, Intel is expected to reveal a bunch of handhelds rocking its Arc G3 series of chips, and Acer is now rumored to be one of the manufacturers showing off its devices. New leaks s...",
     "category": "hardware",
     "image": "https://cdn.mos.cms.futurecdn.net/KJPYbEjVE5GMGzfC3x5GuX-1280-80.png",
-    "id": 4
+    "id": 6
   },
   {
     "title": "AMD leaves Linux FPGA users in the lurch with controversial Vivado licensing update — new tier model restricts future free versions to Windows",
@@ -48,7 +68,7 @@
     "summary": "AMD has been accused of 'bait-and-switch' tactics following changes to the licensing of Vivado on Linux.",
     "category": "hardware",
     "image": "https://cdn.mos.cms.futurecdn.net/NF5kfVzvGgYZwftrZoS9SD-1280-80.jpg",
-    "id": 5
+    "id": 7
   },
   {
     "title": "Intel’s new Bartlett Lake flagship loses fight to a four-year-old CPU — Core 9 273PQE has 50% more P-cores but can't surpass Core i9-13900K in games",
@@ -58,7 +78,7 @@
     "summary": "German media outlet PC Games Hardware benchmarks the Core 9 273PQE and compares it to modern mainstream processors.",
     "category": "hardware",
     "image": "https://cdn.mos.cms.futurecdn.net/t4mmgpEghAThoHBtyCjYum-1280-80.jpg",
-    "id": 6
+    "id": 8
   },
   {
     "title": "SK hynix unveils 'iHBM' thermal architecture that cools AI memory at the source — integrated cooling elements inside HBM interface cut thermal resistance by 30%, target next-gen HBM5 accelerators and dense AI data centers",
@@ -68,7 +88,7 @@
     "summary": "SK hynix has unveiled iHBM, a new thermal packaging architecture that embeds cooling elements directly into the HBM interface layer, reducing thermal resistance by 30% and helping future AI accelerato...",
     "category": "hardware",
     "image": "https://cdn.mos.cms.futurecdn.net/fqTti4KdcXiuxcu6QwyyKe-1280-80.jpg",
-    "id": 7
+    "id": 9
   },
   {
     "title": "Uber chief warns no link yet between AI tokenmaxxing and shipping successful products — company pumps the brakes on all-out AI spending",
@@ -78,7 +98,7 @@
     "summary": "Uber might be having a serious rethink about lavishing cash on AI services as management still can't draw a clear link between LLM use and beneficial results.",
     "category": "models",
     "image": "https://cdn.mos.cms.futurecdn.net/hBXjYPMV93iZ5WJrEfkuWM-1280-80.jpg",
-    "id": 8
+    "id": 10
   },
   {
     "title": "Angry TSMC employees considering strikes, unionization over employee bonuses, report claims — company reportedly considering 15% payout cut to fund capex despite record revenues fuelled by AI surge",
@@ -88,7 +108,7 @@
     "summary": "TSMC responded by saying it expects employee profit-sharing bonuses to grow at a faster rate in 2026 than they did in 2025.",
     "category": "industry",
     "image": "https://cdn.mos.cms.futurecdn.net/dPC6mjsAPHZKQApYbCFMRG-1280-80.jpg",
-    "id": 9
+    "id": 11
   },
   {
     "title": "AI shrinks zero-day exploit time from a year to a single day, heading toward one minute — Zero-Day Clock warns security window has collapsed",
@@ -98,7 +118,7 @@
     "summary": "Zero-Day clock visualizes the effect of AI on software security and predicts that exploits will happen one minute after disclosure in 2027.",
     "category": "industry",
     "image": "https://cdn.mos.cms.futurecdn.net/4G5SwapR6Ldgi5PgLpMAjK-1280-80.jpg",
-    "id": 10
+    "id": 12
   },
   {
     "title": "Survey reveals that 99% of CEOs now expect AI-driven layoffs — companies are racing to replace junior workers with AI, even as many executives remain uncertain about the returns on AI investments",
@@ -108,7 +128,7 @@
     "summary": "A new Mercer report reveals that 99% of CEOs expect AI-driven layoffs within two years, with entry-level workers facing the biggest threat as companies slash junior roles despite many executives admit...",
     "category": "industry",
     "image": "https://cdn.mos.cms.futurecdn.net/sRXCycRiDmjzupbguQiUoU-1280-80.jpg",
-    "id": 11
+    "id": 13
   },
   {
     "title": "OpenRouter more than doubles valuation to $1.3B in a year",
@@ -118,7 +138,7 @@
     "summary": "OpenRouter has raised a $113 million Series B led by CapitalG. Its 5x growth in usage over six months indicates the multi-AI-model future is here.",
     "category": "industry",
     "image": "https://techcrunch.com/wp-content/uploads/2026/02/GettyImages-157503102.jpg?resize=1200,776",
-    "id": 12
+    "id": 14
   },
   {
     "title": "This startup is betting India’s gig economy can train the world’s robots",
@@ -128,7 +148,7 @@
     "summary": "Human Archive, a startup founded by UC Berkeley and Stanford researchers, is paying gig workers in India to wear camera-equipped caps and sensor devices to collect the real-world physical training dat...",
     "category": "research",
     "image": "https://techcrunch.com/wp-content/uploads/2026/05/Main-YC-Headshot-all-4-of-us.jpg?resize=1200,800",
-    "id": 13
+    "id": 15
   },
   {
     "title": "Universal Music Group and TikTok renew agreement to combat unauthorized AI music",
@@ -138,200 +158,188 @@
     "summary": "For years, UMG has pushed platforms, streaming services, and AI companies to implement stricter content moderation policies.",
     "category": "tools",
     "image": "https://techcrunch.com/wp-content/uploads/2026/03/tiktok-header.jpg?resize=1200,800",
-    "id": 14
+    "id": 16
+  },
+  {
+    "title": "ByteDance offers AI team special stock to combat poaching",
+    "url": "https://www.ft.com/content/0b05e1dd-04c7-4925-be6f-7dc63717cbce",
+    "source": "Hacker News",
+    "date": "2026-05-26",
+    "summary": "Article URL: https://www.ft.com/content/0b05e1dd-04c7-4925-be6f-7dc63717cbce Comments URL: https://news.ycombinator.com/item?id=48286779 Points: 1 # Comments: 0",
+    "category": "industry",
+    "id": 17
+  },
+  {
+    "title": "Agile V: Turning AI Agents into Verifiable Engineering Systems",
+    "url": "https://github.com/Agile-V/agile_v_skills",
+    "source": "Hacker News",
+    "date": "2026-05-26",
+    "summary": "Article URL: https://github.com/Agile-V/agile_v_skills Comments URL: https://news.ycombinator.com/item?id=48286689 Points: 2 # Comments: 0",
+    "category": "industry",
+    "image": "https://opengraph.githubassets.com/a8098236c9cef9dd2eb5d43a024608f4cb41acf793766b22fbd4178509b0e307/Agile-V/agile_v_skills",
+    "id": 18
+  },
+  {
+    "title": "Investigating the hidden moat behind all the LLM apps",
+    "url": "https://simianwords.bearblog.dev/investigating-the-hidden-moat-behind-all-the-llm-apps/",
+    "source": "Hacker News",
+    "date": "2026-05-26",
+    "summary": "Article URL: https://simianwords.bearblog.dev/investigating-the-hidden-moat-behind-all-the-llm-apps/ Comments URL: https://news.ycombinator.com/item?id=48286682 Points: 1 # Comments: 1",
+    "category": "models",
+    "id": 19
+  },
+  {
+    "title": "The Collaborative Exoskeleton of AI Science",
+    "url": "https://asimovaddendum.substack.com/p/the-collaborative-exoskeleton-of",
+    "source": "Hacker News",
+    "date": "2026-05-26",
+    "summary": "Article URL: https://asimovaddendum.substack.com/p/the-collaborative-exoskeleton-of Comments URL: https://news.ycombinator.com/item?id=48286678 Points: 2 # Comments: 0",
+    "category": "industry",
+    "id": 20
+  },
+  {
+    "title": "Transpiler : The best of every language, in one. And LLM ready",
+    "url": "https://amalgame.me/en/",
+    "source": "Hacker News",
+    "date": "2026-05-26",
+    "summary": "Article URL: https://amalgame.me/en/ Comments URL: https://news.ycombinator.com/item?id=48286555 Points: 1 # Comments: 0",
+    "category": "models",
+    "image": "https://amalgame.me/images/og-image.png",
+    "id": 21
+  },
+  {
+    "title": "Nexus – open-source AI gateway for enterprise LLM traffic",
+    "url": "https://github.com/AlphaBitCore/nexus-gateway",
+    "source": "Hacker News",
+    "date": "2026-05-26",
+    "summary": "Article URL: https://github.com/AlphaBitCore/nexus-gateway Comments URL: https://news.ycombinator.com/item?id=48286488 Points: 3 # Comments: 0",
+    "category": "models",
+    "image": "https://opengraph.githubassets.com/773b3489447f20dc3db56a1d820cb9dbc68c7e69381f715ed4df23eb794274dd/AlphaBitCore/nexus-gateway",
+    "id": 22
+  },
+  {
+    "title": "The Five Pillars of AI Agent Accountability",
+    "url": "https://www.tigera.io/blog/the-five-pillars-of-ai-agent-accountability-a-diagnostic-framework-for-engineering-leaders/",
+    "source": "Hacker News",
+    "date": "2026-05-26",
+    "summary": "Article URL: https://www.tigera.io/blog/the-five-pillars-of-ai-agent-accountability-a-diagnostic-framework-for-engineering-leaders/ Comments URL: https://news.ycombinator.com/item?id=48286385 Points: ...",
+    "category": "tools",
+    "image": "https://www.tigera.io/app/uploads/2026/05/The-Five-Pillars-of-AI-Agent-Accountability-A-Diagnostic-Framework-for-Engineering-Leaders.png",
+    "id": 23
+  },
+  {
+    "title": "The Vibe Coding Era: Why AI Won't Replace Software Engineers [video]",
+    "url": "https://www.youtube.com/watch?v=xYU7zaaRjmE",
+    "source": "Hacker News",
+    "date": "2026-05-26",
+    "summary": "Article URL: https://www.youtube.com/watch?v=xYU7zaaRjmE Comments URL: https://news.ycombinator.com/item?id=48286246 Points: 1 # Comments: 0",
+    "category": "industry",
+    "id": 24
+  },
+  {
+    "title": "AI agents are scrambling power users' brains",
+    "url": "https://www.axios.com/2026/04/04/ai-agents-burnout-addiction-claude-code-openclaw",
+    "source": "Hacker News",
+    "date": "2026-05-26",
+    "summary": "Article URL: https://www.axios.com/2026/04/04/ai-agents-burnout-addiction-claude-code-openclaw Comments URL: https://news.ycombinator.com/item?id=48286123 Points: 3 # Comments: 0",
+    "category": "models",
+    "id": 25
+  },
+  {
+    "title": "Ask HN: Has AI affected negatively the job market for devs?",
+    "url": "https://news.ycombinator.com/item?id=48285923",
+    "source": "Hacker News",
+    "date": "2026-05-26",
+    "summary": "So, not trying to \"flex\" but in the past I've worked on projects even for Microsoft/darpa, won awards, now been developing alternatives to transformers for generative models in C and can't even get an...",
+    "category": "models",
+    "id": 26
+  },
+  {
+    "title": "Show HN: I built a tool to auto-accept AI slop and bigtech devs loves it",
+    "url": "https://github.com/Alcray/SlopeAutoAcceptor",
+    "source": "Hacker News",
+    "date": "2026-05-26",
+    "summary": "So, you know how bigtech gives nearly unlimited credits for coding tools and in the same time put a huge admin whitelist of what commands are allowed? So, instead of becoming a 100x engineers, you (in...",
+    "category": "research",
+    "image": "https://opengraph.githubassets.com/221175d3c1216655db4a58e5b74d10f470b051ced15c009bd8880650d7a03a65/Alcray/SlopeAutoAcceptor",
+    "id": 27
+  },
+  {
+    "title": "OpenAI admits AI hallucinations are mathematically inevitable (Sept. 2025)",
+    "url": "https://www.computerworld.com/article/4059383/openai-admits-ai-hallucinations-are-mathematically-inevitable-not-just-engineering-flaws.html",
+    "source": "Hacker News",
+    "date": "2026-05-26",
+    "summary": "Article URL: https://www.computerworld.com/article/4059383/openai-admits-ai-hallucinations-are-mathematically-inevitable-not-just-engineering-flaws.html Comments URL: https://news.ycombinator.com/item...",
+    "category": "research",
+    "id": 28
+  },
+  {
+    "title": "BadHost: One Char Bypasses Host-Based Security Across the Python AI Stack",
+    "url": "https://www.secwest.net/starlette",
+    "source": "Hacker News",
+    "date": "2026-05-26",
+    "summary": "Article URL: https://www.secwest.net/starlette Comments URL: https://news.ycombinator.com/item?id=48285718 Points: 1 # Comments: 0",
+    "category": "industry",
+    "image": "http://static1.squarespace.com/static/5f3c7479f4b3c702571a047d/t/6a1551cf70b34345038d93c6/1779782095621/starlette1.png?format=1500w",
+    "id": 29
+  },
+  {
+    "title": "Shopify's AI Developer",
+    "url": "https://twitter.com/tobi/status/2053121182044451016",
+    "source": "Hacker News",
+    "date": "2026-05-26",
+    "summary": "Article URL: https://twitter.com/tobi/status/2053121182044451016 Comments URL: https://news.ycombinator.com/item?id=48285660 Points: 1 # Comments: 0",
+    "category": "tools",
+    "id": 30
+  },
+  {
+    "title": "After DeepSeek, Xiaomi cuts AI costs by up to 99%",
+    "url": "https://twitter.com/i/status/2059314052892099070",
+    "source": "Hacker News",
+    "date": "2026-05-26",
+    "summary": "Article URL: https://twitter.com/i/status/2059314052892099070 Comments URL: https://news.ycombinator.com/item?id=48285584 Points: 4 # Comments: 0",
+    "category": "models",
+    "id": 31
+  },
+  {
+    "title": "Robotics giant Figure AI demonstrates its robots to the world",
+    "url": "https://forgeglobal.com/insights/figure-ai-robotics-growth-2026/",
+    "source": "Hacker News",
+    "date": "2026-05-26",
+    "summary": "Article URL: https://forgeglobal.com/insights/figure-ai-robotics-growth-2026/ Comments URL: https://news.ycombinator.com/item?id=48285523 Points: 1 # Comments: 1",
+    "category": "industry",
+    "image": "https://forgeglobal.com/site/assets/files/2115073/ogi_image_-_digest_blog_-_robotic_companies.jpg",
+    "id": 32
+  },
+  {
+    "title": "Bay Area mom out thousands after scammers use AI to mimic daughter's voice",
+    "url": "https://abc7news.com/post/bay-area-mom-thousands-scammers-use-ai-mimic-daughters-voice-fake-kidnapping-part-growing-trend/19154381/",
+    "source": "Hacker News",
+    "date": "2026-05-26",
+    "summary": "Article URL: https://abc7news.com/post/bay-area-mom-thousands-scammers-use-ai-mimic-daughters-voice-fake-kidnapping-part-growing-trend/19154381/ Comments URL: https://news.ycombinator.com/item?id=4828...",
+    "category": "industry",
+    "image": "https://cdn.abcotvs.com/dip/images/19163624_052426-kgo-ai-kidnap-scam-img.jpg?w=1600",
+    "id": 33
+  },
+  {
+    "title": "I'm 19 and built an AI golf swing analyzer with on-device CoreML",
+    "url": "https://apps.apple.com/us/app/the-swing-sensei/id6759412468",
+    "source": "Hacker News",
+    "date": "2026-05-26",
+    "summary": "Article URL: https://apps.apple.com/us/app/the-swing-sensei/id6759412468 Comments URL: https://news.ycombinator.com/item?id=48285375 Points: 1 # Comments: 0",
+    "category": "industry",
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/7a/a1/d0/7aa1d0c3-f730-059b-5df3-1bad14194c55/Placeholder.mill/1200x630wa.jpg",
+    "id": 34
   },
   {
     "title": "6M Fake GitHub Stars: How to Vet Open-Source AI Tools",
     "url": "https://www.chatgpt.ca/blog/github-fake-stars-ai-tool-evaluation",
     "source": "Hacker News",
     "date": "2026-05-26",
-    "summary": "Article URL: https://www.chatgpt.ca/blog/github-fake-stars-ai-tool-evaluation Comments URL: https://news.ycombinator.com/item?id=48285319 Points: 1 # Comments: 0",
+    "summary": "Article URL: https://www.chatgpt.ca/blog/github-fake-stars-ai-tool-evaluation Comments URL: https://news.ycombinator.com/item?id=48285319 Points: 2 # Comments: 0",
     "category": "models",
     "image": "https://chatgpt.ca/og-default.png",
-    "id": 15
-  },
-  {
-    "title": "Does a trusted AI asset marketplace solve this issue?",
-    "url": "https://kimura.yumiwillems.com/p/why-ais-biggest-deals-price-assets",
-    "source": "Hacker News",
-    "date": "2026-05-26",
-    "summary": "Article URL: https://kimura.yumiwillems.com/p/why-ais-biggest-deals-price-assets Comments URL: https://news.ycombinator.com/item?id=48284874 Points: 2 # Comments: 0",
-    "category": "industry",
-    "image": "https://substackcdn.com/image/fetch/$s_!89Jx!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F25278be3-7935-4320-be4e-1f17740383db_1390x1280.png",
-    "id": 16
-  },
-  {
-    "title": "AI chatbots show bias toward Catholicism, researchers say",
-    "url": "https://decrypt.co/369045/ai-chatbots-claude-chatgpt-bias-catholicism-pope-leo",
-    "source": "Hacker News",
-    "date": "2026-05-26",
-    "summary": "Article URL: https://decrypt.co/369045/ai-chatbots-claude-chatgpt-bias-catholicism-pope-leo Comments URL: https://news.ycombinator.com/item?id=48284831 Points: 6 # Comments: 4",
-    "category": "models",
-    "image": "https://cdn.decrypt.co/resize/1024/height/512/wp-content/uploads/2026/05/decrypt-style-pope-leo-2-gID_7.png",
-    "id": 17
-  },
-  {
-    "title": "LMIM OS – an offline AI ecosystem. Voice, RAG, WhatsApp. ++ One file. 0 setup",
-    "url": "https://lmim.tech",
-    "source": "Hacker News",
-    "date": "2026-05-26",
-    "summary": "Article URL: https://lmim.tech Comments URL: https://news.ycombinator.com/item?id=48284742 Points: 1 # Comments: 0",
-    "category": "research",
-    "image": "https://lmim.tech/static/images/og-preview.png",
-    "id": 18
-  },
-  {
-    "title": "Overview and Comments on Pope Leo's Magnifica Humanitas on AI",
-    "url": "https://www.lesswrong.com/posts/RZeg98Tdrq47vbjva/rtmh-pope-leo-s-magnifica-humanitas-on-ai",
-    "source": "Hacker News",
-    "date": "2026-05-26",
-    "summary": "Article URL: https://www.lesswrong.com/posts/RZeg98Tdrq47vbjva/rtmh-pope-leo-s-magnifica-humanitas-on-ai Comments URL: https://news.ycombinator.com/item?id=48284611 Points: 1 # Comments: 1",
-    "category": "industry",
-    "id": 19
-  },
-  {
-    "title": "Show HN: Clark-agent, a Rust library for LLM tool loops",
-    "url": "https://github.com/clark-labs-inc/clark-agent",
-    "source": "Hacker News",
-    "date": "2026-05-26",
-    "summary": "Hi HN, I wrote clark-agent, a small Rust library for running LLM tool loops. The loop is: context -> model -> tool call -> tool result -> repeat The parts I wanted typed were: - transcript messages - ...",
-    "category": "tools",
-    "image": "https://opengraph.githubassets.com/9e8eafee8d8ed4ca1bcc727457f0129fb2927675a32bd8ba8e965a381159d050/clark-labs-inc/clark-agent",
-    "id": 20
-  },
-  {
-    "title": "The AI Superstars Who Say a 'Vibe Slop' Crisis Is Coming",
-    "url": "https://www.wsj.com/tech/ai/vibe-coding-slop-ai-tools-e6a99394",
-    "source": "Hacker News",
-    "date": "2026-05-26",
-    "summary": "Article URL: https://www.wsj.com/tech/ai/vibe-coding-slop-ai-tools-e6a99394 Comments URL: https://news.ycombinator.com/item?id=48284592 Points: 5 # Comments: 0",
-    "category": "tools",
-    "id": 21
-  },
-  {
-    "title": "Authors versus AI and the risks to government public sector push",
-    "url": "https://www.rnz.co.nz/news/political/596437/authors-versus-ai-and-the-risks-to-government-public-sector-push",
-    "source": "Hacker News",
-    "date": "2026-05-26",
-    "summary": "Article URL: https://www.rnz.co.nz/news/political/596437/authors-versus-ai-and-the-risks-to-government-public-sector-push Comments URL: https://news.ycombinator.com/item?id=48284561 Points: 3 # Commen...",
-    "category": "industry",
-    "image": "https://media.rnztools.nz/rnz/image/upload/s--1Z0MSm7e--/t_tohu-badge-facebook/v1779809343/4L3F0S9_Sam_Irvine_jpg?_a=BACCd2AD",
-    "id": 22
-  },
-  {
-    "title": "Twelve Ways to Be Wrong About AI-Assisted Coding",
-    "url": "https://third-bit.com/2026/05/20/twelve-ways-to-be-wrong/",
-    "source": "Hacker News",
-    "date": "2026-05-26",
-    "summary": "Article URL: https://third-bit.com/2026/05/20/twelve-ways-to-be-wrong/ Comments URL: https://news.ycombinator.com/item?id=48284430 Points: 1 # Comments: 0",
-    "category": "industry",
-    "id": 23
-  },
-  {
-    "title": "There's at Least One Job That AI Isn't Killing",
-    "url": "https://gizmodo.com/theres-at-least-one-job-that-ai-isnt-killing-2000763509",
-    "source": "Hacker News",
-    "date": "2026-05-26",
-    "summary": "Article URL: https://gizmodo.com/theres-at-least-one-job-that-ai-isnt-killing-2000763509 Comments URL: https://news.ycombinator.com/item?id=48284412 Points: 2 # Comments: 0",
-    "category": "industry",
-    "id": 24
-  },
-  {
-    "title": "AskMingLi: AI-assisted BaZi chart readings",
-    "url": "https://askmingli.com",
-    "source": "Hacker News",
-    "date": "2026-05-26",
-    "summary": "Article URL: https://askmingli.com Comments URL: https://news.ycombinator.com/item?id=48284189 Points: 1 # Comments: 0",
-    "category": "industry",
-    "id": 25
-  },
-  {
-    "title": "AI Isn't Management. Try Explaining That to Matthew Prince",
-    "url": "https://www.programmablemutter.com/p/ai-isnt-management-try-explaining",
-    "source": "Hacker News",
-    "date": "2026-05-26",
-    "summary": "Article URL: https://www.programmablemutter.com/p/ai-isnt-management-try-explaining Comments URL: https://news.ycombinator.com/item?id=48284036 Points: 3 # Comments: 0",
-    "category": "industry",
-    "image": "https://substackcdn.com/image/fetch/$s_!8Q6T!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F17bf6b6e-7239-4d19-970b-356635b4d217_1536x1024.png",
-    "id": 26
-  },
-  {
-    "title": "Who Wants to Be Hired? (May 2026) – AI Engineer (Python, RAG, Agentic Workflows)",
-    "url": "https://news.ycombinator.com/item?id=48283927",
-    "source": "Hacker News",
-    "date": "2026-05-26",
-    "summary": "About me: I am an AI Product Engineer specializing in building autonomous agentic workflows. Recently, I built 'Jarvis', a multimodal autonomous agent featuring near-zero latency inference using Groq ...",
-    "category": "models",
-    "id": 27
-  },
-  {
-    "title": "Reinventing competitive programming for the AI era",
-    "url": "https://twitter.com/rvivek/status/2058750639556173918",
-    "source": "Hacker News",
-    "date": "2026-05-26",
-    "summary": "Article URL: https://twitter.com/rvivek/status/2058750639556173918 Comments URL: https://news.ycombinator.com/item?id=48283875 Points: 3 # Comments: 2",
-    "category": "industry",
-    "id": 28
-  },
-  {
-    "title": "The AI Industry Just Walked into the Vatican",
-    "url": "https://www.driscollglobe.com/p/the-ai-industry-just-walked-into",
-    "source": "Hacker News",
-    "date": "2026-05-26",
-    "summary": "Article URL: https://www.driscollglobe.com/p/the-ai-industry-just-walked-into Comments URL: https://news.ycombinator.com/item?id=48283830 Points: 5 # Comments: 1",
-    "category": "industry",
-    "image": "https://substackcdn.com/image/fetch/$s_!mX0Y!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fd536d434-d1ce-43c2-933b-88ed2ab04221_1538x1022.png",
-    "id": 29
-  },
-  {
-    "title": "Humanize – two LLM-agnostic skills to rewrite and detect AI text",
-    "url": "https://github.com/harshaneel/humanize",
-    "source": "Hacker News",
-    "date": "2026-05-26",
-    "summary": "Article URL: https://github.com/harshaneel/humanize Comments URL: https://news.ycombinator.com/item?id=48283802 Points: 1 # Comments: 0",
-    "category": "models",
-    "image": "https://opengraph.githubassets.com/f47f8445207e0ca62c9202029576fc56a7143de4d5187cca060dfb7af700aaa5/harshaneel/humanize",
-    "id": 30
-  },
-  {
-    "title": "Show HN: An LLM translator whose source is a single prompt",
-    "url": "https://github.com/hamsterbase/llm-translator",
-    "source": "Hacker News",
-    "date": "2026-05-26",
-    "summary": "Article URL: https://github.com/hamsterbase/llm-translator Comments URL: https://news.ycombinator.com/item?id=48283695 Points: 5 # Comments: 0",
-    "category": "models",
-    "image": "https://opengraph.githubassets.com/9d5d6c06d2bf71e1b788fcc53d5f3e7597fd17929a3b862018829813f6dc54c9/hamsterbase/llm-translator",
-    "id": 31
-  },
-  {
-    "title": "HypeScribe – AI-powered transcription, summaries, and search for any audio/video",
-    "url": "https://www.hypescribe.com",
-    "source": "Hacker News",
-    "date": "2026-05-26",
-    "summary": "Article URL: https://www.hypescribe.com Comments URL: https://news.ycombinator.com/item?id=48283626 Points: 2 # Comments: 0",
-    "category": "industry",
-    "image": "https://cdn.prod.website-files.com/68b022b292dbdf6eae1e8812/68c1df81c9a9c396e2915bd6_Opengraph.png",
-    "id": 32
-  },
-  {
-    "title": "Show HN: InterviewSignal – open-source AI-native technical interviews",
-    "url": "https://github.com/NikhilSKashyap/interviewsignal",
-    "source": "Hacker News",
-    "date": "2026-05-26",
-    "summary": "Article URL: https://github.com/NikhilSKashyap/interviewsignal Comments URL: https://news.ycombinator.com/item?id=48283540 Points: 1 # Comments: 0",
-    "category": "industry",
-    "image": "https://opengraph.githubassets.com/361bc3bc38fd043cda25720f433ec9957e78971ce41743f16d7bce98a88e9f20/NikhilSKashyap/interviewsignal",
-    "id": 33
-  },
-  {
-    "title": "Spotify boss defends move to AI music, saying it is better than 'slop'",
-    "url": "https://www.theguardian.com/technology/2026/may/26/spotify-ai-remix-tool-protects-artists-slop",
-    "source": "Hacker News",
-    "date": "2026-05-26",
-    "summary": "Article URL: https://www.theguardian.com/technology/2026/may/26/spotify-ai-remix-tool-protects-artists-slop Comments URL: https://news.ycombinator.com/item?id=48283457 Points: 6 # Comments: 4",
-    "category": "tools",
-    "image": "https://i.guim.co.uk/img/media/d950e5360d1f85482f2da9d67d66dea5ea23cb64/849_0_5195_4156/master/5195.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=4ea16d0b8968464bc684455c43220d6e",
-    "id": 34
+    "id": 35
   },
   {
     "title": "Rethinking organizational design in the age of agentic AI",
@@ -341,7 +349,7 @@
     "summary": "Amid rapidly growing adoption of enterprise-level AI agents, there’s a disconnect emerging between ambition and execution. Although 85% of organizations say they want to be agentic within the next thr...",
     "category": "tools",
     "image": "https://wp.technologyreview.com/wp-content/uploads/2026/05/MIT-Abstract-Thumbnail-1-_-V2.png?resize=1200,600",
-    "id": 35
+    "id": 36
   },
   {
     "title": "The Download: puncturing the AI jobs panic",
@@ -351,7 +359,7 @@
     "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. A reality check on the AI jobs hysteria Despite the growing hy...",
     "category": "industry",
     "image": "https://wp.technologyreview.com/wp-content/uploads/2026/05/ai-jobs1b.jpg?resize=1200,600",
-    "id": 36
+    "id": 37
   },
   {
     "title": "A reality check on the AI jobs hysteria",
@@ -361,7 +369,7 @@
     "summary": "Haven’t you heard? White-collar jobs are going away, decimated by AI. Waves of layoffs in the tech sector (most recently at Coinbase and Meta and Cisco) are said to presage what will soon come for all...",
     "category": "tools",
     "image": "https://wp.technologyreview.com/wp-content/uploads/2026/05/ai-jobs1b.jpg?resize=1200,600",
-    "id": 37
+    "id": 38
   },
   {
     "title": "It’s time to address the looming crisis in entry-level work.",
@@ -371,7 +379,27 @@
     "summary": "Artificial intelligence has not so far produced a clean story of mass unemployment. Aggregate employment in developed countries remains broadly stable, and recent assessments have found limited eviden...",
     "category": "hardware",
     "image": "https://wp.technologyreview.com/wp-content/uploads/2026/05/ladder3b.jpg?resize=1200,600",
-    "id": 38
+    "id": 39
+  },
+  {
+    "title": "Why the Vatican Invited Anthropic to the Pope’s AI Encyclical Presentation",
+    "url": "https://www.wired.com/story/anthropic-christopher-olah-pope-ai-encyclical/",
+    "source": "Wired",
+    "date": "2026-05-26",
+    "summary": "Pope Leo’s first encyclical marks an unprecedented alliance between the Church and Silicon Valley.",
+    "category": "hardware",
+    "image": "https://media.wired.com/photos/6a15cbcd37553f2c38327fce/191:100/w_1280,c_limit/2278118480",
+    "id": 40
+  },
+  {
+    "title": "What Pope Leo XIV’s First Encyclical Says About the Power of AI",
+    "url": "https://www.wired.com/story/what-pope-leo-xivs-first-encyclical-says-about-the-power-of-ai/",
+    "source": "Wired",
+    "date": "2026-05-26",
+    "summary": "In Magnifica Humanitas, the Pope decries the concentration of technological power in a few global players.",
+    "category": "industry",
+    "image": "https://media.wired.com/photos/6a15ce296bb944abda95a6f4/191:100/w_1280,c_limit/2277573822",
+    "id": 41
   },
   {
     "title": "AI Agents Plunged the Tech World Into Chaos. Here’s Exactly How That Happened",
@@ -381,17 +409,7 @@
     "summary": "The definitive story of how Claude Code and OpenClaw kicked off computing’s biggest transformation possibly ever.",
     "category": "models",
     "image": "https://media.wired.com/photos/69fdc07896ebc549bb094216/191:100/w_1280,c_limit/agents_unleashed_web-1x1.jpg",
-    "id": 39
-  },
-  {
-    "title": "Quiz: Will AI Destroy Your Career?",
-    "url": "https://www.wired.com/story/quiz-will-ai-destroy-your-career/",
-    "source": "Wired",
-    "date": "2026-05-26",
-    "summary": "Some jobs may be toast. Some will survive. Click your answers to learn your fate.",
-    "category": "industry",
-    "image": "https://media.wired.com/photos/6a0b67820ce29a972051a9e8/191:100/w_1280,c_limit/ai_exposed_jobs.jpg",
-    "id": 40
+    "id": 42
   },
   {
     "title": "AI Is Taking Over the Most Cursed Job in the World",
@@ -401,17 +419,17 @@
     "summary": "There’s a mad dash to automate the world’s most hated calls. Have an unpaid bill? You’ll hear from an AI debt collector sometime soon.",
     "category": "industry",
     "image": "https://media.wired.com/photos/6a047c1d138310676483b3fe/191:100/w_1280,c_limit/AIDebtCollectors_v3.1.jpg",
-    "id": 41
+    "id": 43
   },
   {
-    "title": "I’m a Professional Fact-Checker. AI Is Wrong More Often Than You Think",
-    "url": "https://www.wired.com/story/fact-checking-ai/",
+    "title": "Quiz: Will AI Destroy Your Career?",
+    "url": "https://www.wired.com/story/quiz-will-ai-destroy-your-career/",
     "source": "Wired",
     "date": "2026-05-26",
-    "summary": "Can AI do fact-checking? A WIRED fact-checker fact-checks.",
+    "summary": "Some jobs may be toast. Some will survive. Click your answers to learn your fate.",
     "category": "industry",
-    "image": "https://media.wired.com/photos/6a04e6a1d7be752b48cba500/191:100/w_1280,c_limit/AiFactChecking-Final.jpg",
-    "id": 42
+    "image": "https://media.wired.com/photos/6a0b67820ce29a972051a9e8/191:100/w_1280,c_limit/ai_exposed_jobs.jpg",
+    "id": 44
   },
   {
     "title": "To Land a Job in AI, Try Reading Kant",
@@ -421,7 +439,7 @@
     "summary": "The world’s leading AI labs are hiring philosophers to think through ethical edge cases and grand questions of mind and morality. Are they another instrument of hype?",
     "category": "industry",
     "image": "https://media.wired.com/photos/6a0722c3cc137669535c6942/191:100/w_1280,c_limit/AIPhilosophers_v2.jpg",
-    "id": 43
+    "id": 45
   },
   {
     "title": "Take This Mandatory AI Workplace Training Right Now—or Else",
@@ -431,7 +449,17 @@
     "summary": "AI could make you redundant. Here’s what you need to know.",
     "category": "industry",
     "image": "https://media.wired.com/photos/6a104f8cc9c138425f4055c9/191:100/w_1280,c_limit/1-lets%20get%20oriented.jpg",
-    "id": 44
+    "id": 46
+  },
+  {
+    "title": "I’m a Professional Fact-Checker. AI Is Wrong More Often Than You Think",
+    "url": "https://www.wired.com/story/fact-checking-ai/",
+    "source": "Wired",
+    "date": "2026-05-26",
+    "summary": "Can AI do fact-checking? A WIRED fact-checker fact-checks.",
+    "category": "industry",
+    "image": "https://media.wired.com/photos/6a04e6a1d7be752b48cba500/191:100/w_1280,c_limit/AiFactChecking-Final.jpg",
+    "id": 47
   },
   {
     "title": "7 Ways to Get So Good at AI, People Will Think You Are AI",
@@ -441,17 +469,7 @@
     "summary": "From killing your chatbots to optimizing your prompts, here are the best ways to go full AI native and conquer the new world.",
     "category": "industry",
     "image": "https://media.wired.com/photos/6a0df9f99e7a013d4de6fd4e/191:100/w_1280,c_limit/HowToBeANativeWithAI_v2.jpg",
-    "id": 45
-  },
-  {
-    "title": "US Law Enforcement Warns of ‘Anti-Tech Extremism’ as AI Hatred Grows",
-    "url": "https://www.wired.com/story/us-law-enforcement-warns-of-anti-tech-extremism/",
-    "source": "Wired",
-    "date": "2026-05-26",
-    "summary": "As Americans stew over the looming risk of job-stealing AI and data centers in their back yards, the feds are raising the alarm about a new category of threat, documents obtained by WIRED show.",
-    "category": "hardware",
-    "image": "https://media.wired.com/photos/6a10b0246e47ced150ad32d6/191:100/w_1280,c_limit/US-Law-Enforcement-Warns-of-Anti-Tech-Extremism-Security.jpg",
-    "id": 46
+    "id": 48
   },
   {
     "title": "In Search of the Ingredients of Open-Endedness: Replicating Picbreeder with Large Vision-Language Models",
@@ -460,7 +478,7 @@
     "date": "2026-05-26",
     "summary": "We are in the midst of large-scale industrial and academic efforts to automate the processes of scientific, technological and creative production through AI-driven assistants. Historically, a fundamen...",
     "category": "hardware",
-    "id": 47
+    "id": 49
   },
   {
     "title": "Confidence Calibration in Large Language Models",
@@ -469,24 +487,6 @@
     "date": "2026-05-26",
     "summary": "We investigate the calibration of large language models' (LLMs') confidence across diverse tasks. The results of our preregistered study show that the current crop of LLMs are, like people, too sure t...",
     "category": "models",
-    "id": 48
-  },
-  {
-    "title": "How Much Thinking is Enough? Quantifying and Understanding Redundancy in LLM Reasoning",
-    "url": "https://arxiv.org/abs/2605.23926",
-    "source": "arXiv cs.AI",
-    "date": "2026-05-26",
-    "summary": "Reasoning-capable large language models solve hard problems by emitting long chains of thought, paying heavily in latency, GPU time, and energy. Casual inspection of their traces reveals extensive ref...",
-    "category": "research",
-    "id": 49
-  },
-  {
-    "title": "Context: Proactive Goal-Directed Intelligence via Composable Sandboxed Programs, Declarative Wiring, and Structured Interaction",
-    "url": "https://arxiv.org/abs/2605.23928",
-    "source": "arXiv cs.AI",
-    "date": "2026-05-26",
-    "summary": "We present Context, the intelligence layer of the Magarshak Architecture, which replaces reactive query-response chatbots with proactive goal-directed agents that advance shared tasks without waiting ...",
-    "category": "tools",
     "id": 50
   }
 ]
