@@ -11,13 +11,22 @@
     "featured": true
   },
   {
+    "title": "Building self-improving tax agents with Codex",
+    "url": "https://openai.com/index/building-self-improving-tax-agents-with-codex",
+    "source": "OpenAI Blog",
+    "date": "2026-05-27",
+    "summary": "See how OpenAI, Thrive, and Crete built a self-improving tax agent with Codex, automating filings, improving accuracy, and accelerating workflows.",
+    "category": "industry",
+    "id": 2
+  },
+  {
     "title": "Warp’s big bet on building open source with GPT-5.5",
     "url": "https://openai.com/index/warp",
     "source": "OpenAI Blog",
     "date": "2026-05-27",
     "summary": "Warp uses GPT-5.5 and OpenAI models to coordinate coding agents across local, cloud, and open-source development workflows.",
     "category": "models",
-    "id": 2
+    "id": 3
   },
   {
     "title": "Election information and safeguards in 2026",
@@ -26,16 +35,26 @@
     "date": "2026-05-27",
     "summary": "Ahead of global elections, we’re helping people access information, supporting cyber defenders, and increasing AI transparency",
     "category": "industry",
-    "id": 3
+    "id": 4
   },
   {
-    "title": "Building self-improving tax agents with Codex",
-    "url": "https://openai.com/index/building-self-improving-tax-agents-with-codex",
+    "title": "Cisco and OpenAI redefine enterprise engineering with Codex",
+    "url": "https://openai.com/index/cisco",
     "source": "OpenAI Blog",
     "date": "2026-05-27",
-    "summary": "See how OpenAI, Thrive, and Crete built a self-improving tax agent with Codex, automating filings, improving accuracy, and accelerating workflows.",
+    "summary": "Cisco and OpenAI are redefining enterprise engineering with Codex, helping Cisco scale AI-native development, accelerate AI Defense work, and automate defect remediation.",
     "category": "industry",
-    "id": 4
+    "id": 5
+  },
+  {
+    "title": "AI costs begin to bite as agents may increase token demand by 24 times, says Goldman Sachs report — Uber and Microsoft among companies feeling the bite of tokenized billing",
+    "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/ai-costs-begin-to-bite-as-agents-may-increase-token-demand-by-24-times-says-goldman-sachs-report-uber-and-microsoft-among-companies-feeling-the-bite-of-tokenized-billing",
+    "source": "Tom's Hardware",
+    "date": "2026-05-27",
+    "summary": "Major tech companies are considering refining their approaches to AI, as rising token costs and increased token demand from AI agents make the costs harder to justify, with limited return on the inves...",
+    "category": "industry",
+    "image": "https://cdn.mos.cms.futurecdn.net/izGqeAVabXUojLqWse4oWK-1280-80.jpg",
+    "id": 6
   },
   {
     "title": "Nvidia offers restricted access to Vera CPU in first round of Linux benchmarks - 88-core monster competes with or beats Epyc and Xeon in selected tests",
@@ -45,7 +64,7 @@
     "summary": "NVIDIA's new server CPU doesn't win outright in most tests, but it's running very close to AMD's EPYC, which is incredible for a first-generation custom server core from NVIDIA.",
     "category": "hardware",
     "image": "https://cdn.mos.cms.futurecdn.net/stgRwsudP2gsuUobMgFu3b-1280-80.jpg",
-    "id": 5
+    "id": 7
   },
   {
     "title": "Erin Brockovich starts tracking AI data centers, calls on affected communities to submit issues — website shows more than 2,700 reports from across the US raising various concerns",
@@ -55,7 +74,7 @@
     "summary": "Erin Brockovich, who made her name making a case against PG&E in the '90s that resulted in a $333 million settlement, is now looking at the impact of data center developments on communities and is rec...",
     "category": "hardware",
     "image": "https://cdn.mos.cms.futurecdn.net/XpreZBmhbzk49XygenBx24-1280-80.jpg",
-    "id": 6
+    "id": 8
   },
   {
     "title": "China adds homegrown AI chips to 'secure and reliable' procurement list for the first time — nine options added as move away from Nvidia continues",
@@ -65,7 +84,7 @@
     "summary": "The certifications are valid for three years and were issued jointly by the China Information Technology Security Evaluation Centre and the National Secrecy Science and Technology Evaluation Centre.",
     "category": "hardware",
     "image": "https://cdn.mos.cms.futurecdn.net/Jkou5w3ynsSt9QqVKLHK4e-1280-80.jpg",
-    "id": 7
+    "id": 9
   },
   {
     "title": "SpaceX admits it can't find enough chips for orbital AI yet, requires 'significantly more than are currently available to us' — firm's risk factors in IPO paperwork also says ambitious TeraFab project may not be successful",
@@ -75,7 +94,7 @@
     "summary": "SpaceX warns that it may not secure enough AI hardware to achieve its orbital AI ambitions even with supply from TeraFab. Also, Intel and Tesla may leave the TeraFab project.",
     "category": "hardware",
     "image": "https://cdn.mos.cms.futurecdn.net/voDLanHmcp7is6VSiU2Qea-1280-80.png",
-    "id": 8
+    "id": 10
   },
   {
     "title": "Taiwan authorities arrest three on suspicion of smuggling Nvidia chips to China — operation allegedly used Japan as transshipment point before forwarding banned Supermicro servers to Hong Kong",
@@ -85,7 +104,7 @@
     "summary": "Reports say that the three individuals successfully shipped a batch of banned Nvidia AI chips in Super Micro servers to China from Taiwan to Hong Kong via Japan using falsified documentation.",
     "category": "hardware",
     "image": "https://cdn.mos.cms.futurecdn.net/jYawKxvt8GVp68CXLYbZuF-1280-80.jpg",
-    "id": 9
+    "id": 11
   },
   {
     "title": "Samsung chip workers vote to accept $340,000 average bonus, ending months-long strike threat — resentment over deal has slowed down Samsung foundry division",
@@ -95,7 +114,7 @@
     "summary": "The agreement allocates 10.5% of Samsung's semiconductor division operating profit as stock-based bonuses.",
     "category": "hardware",
     "image": "https://cdn.mos.cms.futurecdn.net/YwsH8NY4SuqAmKZWKAJ3Mj-1280-80.jpg",
-    "id": 10
+    "id": 12
   },
   {
     "title": "Microsoft's GitHub bans security researcher who posted zero-day Windows exploits because company 'ruined their life'  — expert claims action is vindictive and promises further retaliation",
@@ -105,7 +124,7 @@
     "summary": "Microsoft's GitHub bans security researcher who posted zero-day Windows exploits",
     "category": "research",
     "image": "https://cdn.mos.cms.futurecdn.net/zoZh7HwdBpq3Rjbh8BwTMJ-1280-80.jpg",
-    "id": 11
+    "id": 13
   },
   {
     "title": "In more good news for Amazon, Snowflake signs $6B deal with AWS for AI CPU chips",
@@ -115,7 +134,7 @@
     "summary": "Snowflake has signed a new, enormous five-year deal with Amazon to secure chips for AI usage. Nvidia is once again being put on notice.",
     "category": "hardware",
     "image": "https://techcrunch.com/wp-content/uploads/2026/04/dollar-signs-data-center.png?w=1024",
-    "id": 12
+    "id": 14
   },
   {
     "title": "Payroll startup Remote says it grew revenue 50% per employee without adding headcount",
@@ -125,7 +144,7 @@
     "summary": "Payroll service provider Remote recently surpassed $300 million in annual recurring revenue (ARR) and became cash-flow positive, thanks to a 50% increase in revenue per employee resulting from AI adop...",
     "category": "industry",
     "image": "https://techcrunch.com/wp-content/uploads/2024/07/money-firehose.jpg?resize=1200,675",
-    "id": 13
+    "id": 15
   },
   {
     "title": "Your SEO strategy is optimized for a search engine that no longer exists.",
@@ -135,7 +154,7 @@
     "summary": "Google I/O made it official: AI-generated answers are now front and center in search, and most brands have almost no visibility into how AI is describing them to their customers. For anyone who has sp...",
     "category": "industry",
     "image": "https://techcrunch.com/wp-content/uploads/2026/05/google-ai-sign-Getty.jpg?resize=1200,800",
-    "id": 14
+    "id": 16
   },
   {
     "title": "Meta launches Instagram, Facebook, and WhatsApp subscriptions, with more to come, including AI plans",
@@ -145,7 +164,7 @@
     "summary": "Meta is rolling out paid subscription plans for Instagram, Facebook, and WhatsApp worldwide, while also testing new AI, creator, and business-focused offerings under its broader “Meta One” subscriptio...",
     "category": "industry",
     "image": "https://techcrunch.com/wp-content/uploads/2026/05/meta-apps-GettyImages-2164040793.jpg?w=1024",
-    "id": 15
+    "id": 17
   },
   {
     "title": "AI coding startup Cognition raises $1B at $25B pre-money valuation",
@@ -155,7 +174,7 @@
     "summary": "As Cognition reaches $492 million in annualized revenue run rate, it more than doubled its valuation in eight months, it says.",
     "category": "industry",
     "image": "https://techcrunch.com/wp-content/uploads/2025/08/Screenshot-2025-08-05-at-11.02.07AM.png?resize=1200,645",
-    "id": 16
+    "id": 18
   },
   {
     "title": "Startup Battlefield 200 applications close today: Nominate a founder or submit your startup",
@@ -165,7 +184,7 @@
     "summary": "Today is the final day to apply or nominate a startup for Startup Battlefield 200. Once the clock strikes 11:59 p.m. PT, the window closes on your chance to compete for $100,000 in equity-free funding...",
     "category": "industry",
     "image": "https://techcrunch.com/wp-content/uploads/2024/11/54105085427_2cae9d0502_o.jpg?resize=1200,800",
-    "id": 17
+    "id": 19
   },
   {
     "title": "China is increasingly keeping its best AI talent to itself",
@@ -175,7 +194,7 @@
     "summary": "China's AI boom is producing world-class talent, and Beijing is increasingly reluctant to let them go elsewhere.",
     "category": "industry",
     "image": "https://techcrunch.com/wp-content/uploads/2026/04/china-flag-shanghai.jpg?resize=1200,801",
-    "id": 18
+    "id": 20
   },
   {
     "title": "ClickHouse triples annualized revenue to $250M, charting a path toward an IPO",
@@ -185,7 +204,7 @@
     "summary": "The database provider is eyeing a public debut within the next few years.",
     "category": "industry",
     "image": "https://techcrunch.com/wp-content/uploads/2026/05/Screenshot-2026-05-27-at-5.53.09-AM.png?resize=1200,788",
-    "id": 19
+    "id": 21
   },
   {
     "title": "YouTube will now automatically label AI videos",
@@ -195,17 +214,17 @@
     "summary": "YouTube will now automatically label videos that use significant photorealistic AI, instead of relying solely on creators to disclose AI-generated content themselves. It's also making AI labels more p...",
     "category": "industry",
     "image": "https://techcrunch.com/wp-content/uploads/2020/06/GettyImages-1149449083.jpg?resize=1200,800",
-    "id": 20
+    "id": 22
   },
   {
     "title": "Robinhood now lets your AI agents trade stocks",
     "url": "https://techcrunch.com/2026/05/27/robinhood-now-lets-your-ai-agents-trade-stocks/",
     "source": "TechCrunch",
     "date": "2026-05-27",
-    "summary": "Robinhood will let users create a separate account with pre-loaded balance that an agent use to trade",
+    "summary": "While these agents would be able to read and analyze users' portfolios to come up with trading strategies and suggest investments, they'll only be able to access the pre-loaded balance in the dedicate...",
     "category": "industry",
     "image": "https://techcrunch.com/wp-content/uploads/2026/05/Agentic-trading-feat.jpg?resize=1200,675",
-    "id": 21
+    "id": 23
   },
   {
     "title": "Tech CEOs are apparently suffering from AI psychosis",
@@ -215,195 +234,168 @@
     "summary": "\"CEOs are uniquely prone to AI psychosis,\" Box CEO Aaron Levie opines. Maybe that explains the almost religious belief in AI productivity gains.",
     "category": "tools",
     "image": "https://techcrunch.com/wp-content/uploads/2022/11/GettyImages-1265000101.jpg?resize=1200,857",
-    "id": 22
+    "id": 24
+  },
+  {
+    "title": "AI Infra Is Nothing Like the \"Classic Cloud Infra\"",
+    "url": "https://ramansharma.substack.com/p/ai-infra-is-nothing-like-the-classic",
+    "source": "Hacker News",
+    "date": "2026-05-27",
+    "summary": "Article URL: https://ramansharma.substack.com/p/ai-infra-is-nothing-like-the-classic Comments URL: https://news.ycombinator.com/item?id=48301506 Points: 3 # Comments: 0",
+    "category": "industry",
+    "id": 25
+  },
+  {
+    "title": "Argonne flexes spare supercompute to build private AI inference service",
+    "url": "https://www.theregister.com/ai-ml/2026/05/27/argonne-flexes-spare-supercompute-to-build-private-ai-inference-servic/5247362",
+    "source": "Hacker News",
+    "date": "2026-05-27",
+    "summary": "Article URL: https://www.theregister.com/ai-ml/2026/05/27/argonne-flexes-spare-supercompute-to-build-private-ai-inference-servic/5247362 Comments URL: https://news.ycombinator.com/item?id=48301437 Poi...",
+    "category": "industry",
+    "image": "https://image.theregister.com/232762.jpg?imageId=232762&x=0&y=0&cropw=100&croph=100&panox=0&panoy=0&panow=100&panoh=100&width=1200&height=683",
+    "id": 26
+  },
+  {
+    "title": "Sam Altman and Dario Amodei are walking back their AI jobs apocalypse prophecies",
+    "url": "https://fortune.com/2026/05/26/sam-altman-dario-amodei-walking-back-ai-jobs-apocalypse-prophecies-ipo/",
+    "source": "Hacker News",
+    "date": "2026-05-27",
+    "summary": "Article URL: https://fortune.com/2026/05/26/sam-altman-dario-amodei-walking-back-ai-jobs-apocalypse-prophecies-ipo/ Comments URL: https://news.ycombinator.com/item?id=48300969 Points: 5 # Comments: 0",
+    "category": "industry",
+    "image": "https://fortune.com/img-assets/wp-content/uploads/2026/05/GettyImages-2265445220-e1779827097282.jpg?resize=1200,600",
+    "id": 27
+  },
+  {
+    "title": "AI Threatens the Giants of Consulting",
+    "url": "https://www.ft.com/content/d82d2a5c-74ab-4eb9-a658-fd5467e71670",
+    "source": "Hacker News",
+    "date": "2026-05-27",
+    "summary": "Article URL: https://www.ft.com/content/d82d2a5c-74ab-4eb9-a658-fd5467e71670 Comments URL: https://news.ycombinator.com/item?id=48300568 Points: 5 # Comments: 0",
+    "category": "industry",
+    "id": 28
+  },
+  {
+    "title": "Show HN: VAEN – Package and import portable AI coding-agent Harnesses",
+    "url": "https://github.com/sjhalani7/vaen",
+    "source": "Hacker News",
+    "date": "2026-05-27",
+    "summary": "Hi HN, I built VAEN (an open source CLI) because I kept running into a boring problem with AI coding-agent workflows: the setup becomes useful, but then it is hard to move. A good, useful agentic harn...",
+    "category": "models",
+    "image": "https://opengraph.githubassets.com/34a15b672b59c0917b98bbd625523f517f0ee413466027fc135c5a032e9d2b48/sjhalani7/vaen",
+    "id": 29
+  },
+  {
+    "title": "Your AI agent can now trade for you on Robinhood",
+    "url": "https://www.cnbc.com/2026/05/27/your-ai-agent-can-now-trade-for-you-on-robinhood-and-buy-stuff-with-your-credit-card-too.html",
+    "source": "Hacker News",
+    "date": "2026-05-27",
+    "summary": "Article URL: https://www.cnbc.com/2026/05/27/your-ai-agent-can-now-trade-for-you-on-robinhood-and-buy-stuff-with-your-credit-card-too.html Comments URL: https://news.ycombinator.com/item?id=48300295 P...",
+    "category": "industry",
+    "image": "https://image.cnbcfm.com/api/v1/image/108274148-17727167412026-03-05t022022z_1094946123_rc20yjac7yfj_rtrmadp_0_robinhood-usa.jpeg?v=1772716767&w=1920&h=1080",
+    "id": 30
+  },
+  {
+    "title": "Show HN: Open-Source AI Racing Harness",
+    "url": "https://www.elodin.systems/post/elodin-ai-grand-prix-race-sim-harness",
+    "source": "Hacker News",
+    "date": "2026-05-27",
+    "summary": "Hi I'm Dan from Elodin, making an open source real-time capable flight software simulation. For AI Grand Prix contestants, the wait for the Round 1 virtual qualifier simulation has been grueling. If y...",
+    "category": "tools",
+    "id": 31
+  },
+  {
+    "title": "From AI Interest to a Working System: How SMBs Can Start with AI",
+    "url": "https://blog.nemausat.com/from-ai-interest-to-a-working-system",
+    "source": "Hacker News",
+    "date": "2026-05-27",
+    "summary": "Article URL: https://blog.nemausat.com/from-ai-interest-to-a-working-system Comments URL: https://news.ycombinator.com/item?id=48300233 Points: 1 # Comments: 0",
+    "category": "industry",
+    "id": 32
+  },
+  {
+    "title": "AgentMRR: A verified revenue leaderboard for AI agents",
+    "url": "https://agentmrr.com/",
+    "source": "Hacker News",
+    "date": "2026-05-27",
+    "summary": "Article URL: https://agentmrr.com/ Comments URL: https://news.ycombinator.com/item?id=48300036 Points: 2 # Comments: 0",
+    "category": "industry",
+    "image": "https://agentmrr.com/og/default.png",
+    "id": 33
+  },
+  {
+    "title": "AI hiring algorithms reject Black, Asian job seekers at higher rates",
+    "url": "https://www.theregister.com/ai-ml/2026/05/27/ai-hiring-algorithms-reject-black-asian-job-seekers-at-higher-rates/5247387",
+    "source": "Hacker News",
+    "date": "2026-05-27",
+    "summary": "Article URL: https://www.theregister.com/ai-ml/2026/05/27/ai-hiring-algorithms-reject-black-asian-job-seekers-at-higher-rates/5247387 Comments URL: https://news.ycombinator.com/item?id=48300024 Points...",
+    "category": "research",
+    "image": "https://image.theregister.com/5247407.jpg?imageId=5247407&x=0&y=0&cropw=100&croph=100&panox=0&panoy=0&panow=100&panoh=100&width=1200&height=683",
+    "id": 34
   },
   {
     "title": "Proton Pass for AI Agents",
     "url": "https://proton.me/blog/pass-access-tokens",
     "source": "Hacker News",
     "date": "2026-05-27",
-    "summary": "Article URL: https://proton.me/blog/pass-access-tokens Comments URL: https://news.ycombinator.com/item?id=48299979 Points: 1 # Comments: 0",
+    "summary": "Article URL: https://proton.me/blog/pass-access-tokens Comments URL: https://news.ycombinator.com/item?id=48299979 Points: 3 # Comments: 0",
     "category": "industry",
     "image": "https://pmecdn.protonweb.com/image-transformation/?s=c&image=images%2Ff_auto%2Cq_auto%2Fv1779096401%2Fwp-pme%2F20260511-pass_ai-agent-token-1%2F20260511-pass_ai-agent-token-1.jpg%3F_i%3DAA",
-    "id": 23
+    "id": 35
   },
   {
     "title": "YouTube to automatically label AI-generated videos",
-    "url": "https://variety.com/2026/digital/news/youtube-ai-video-labels-automatic-detection-1236758865/",
+    "url": "https://blog.youtube/news-and-events/improving-ai-labels-viewers-creators/",
     "source": "Hacker News",
     "date": "2026-05-27",
-    "summary": "Article URL: https://variety.com/2026/digital/news/youtube-ai-video-labels-automatic-detection-1236758865/ Comments URL: https://news.ycombinator.com/item?id=48299753 Points: 46 # Comments: 23",
+    "summary": "https://variety.com/2026/digital/news/youtube-ai-video-label... Comments URL: https://news.ycombinator.com/item?id=48299753 Points: 355 # Comments: 182",
     "category": "industry",
-    "id": 24
+    "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/en_HowThisWasMade_WithPopout.max-1440x810.png",
+    "id": 36
   },
   {
     "title": "I added vi-modal bindings to my blog, a Chinese AI helped me do it",
     "url": "https://gigatexal.blog/",
     "source": "Hacker News",
     "date": "2026-05-27",
-    "summary": "Article URL: https://gigatexal.blog/ Comments URL: https://news.ycombinator.com/item?id=48299752 Points: 1 # Comments: 1",
+    "summary": "Article URL: https://gigatexal.blog/ Comments URL: https://news.ycombinator.com/item?id=48299752 Points: 3 # Comments: 1",
     "category": "industry",
-    "id": 25
+    "id": 37
   },
   {
     "title": "DeepSeek lowers API prices by 75% while other AI labs increase prices 2–3x [video]",
     "url": "https://www.youtube.com/watch?v=HDMqDV7mmGo",
     "source": "Hacker News",
     "date": "2026-05-27",
-    "summary": "Article URL: https://www.youtube.com/watch?v=HDMqDV7mmGo Comments URL: https://news.ycombinator.com/item?id=48299685 Points: 4 # Comments: 0",
+    "summary": "Article URL: https://www.youtube.com/watch?v=HDMqDV7mmGo Comments URL: https://news.ycombinator.com/item?id=48299685 Points: 6 # Comments: 0",
     "category": "models",
-    "id": 26
+    "id": 38
   },
   {
     "title": "Aithos LARA: Leading AI models are consistently breaking the law",
     "url": "https://aithos.org/article/Aithos-LARA/",
     "source": "Hacker News",
     "date": "2026-05-27",
-    "summary": "Article URL: https://aithos.org/article/Aithos-LARA/ Comments URL: https://news.ycombinator.com/item?id=48299609 Points: 1 # Comments: 0",
+    "summary": "Article URL: https://aithos.org/article/Aithos-LARA/ Comments URL: https://news.ycombinator.com/item?id=48299609 Points: 3 # Comments: 0",
     "category": "industry",
-    "id": 27
+    "id": 39
   },
   {
     "title": "What to do when AI is quietly making you worse",
     "url": "https://vtorosyan.gitHub.io/ai-making-worse/",
     "source": "Hacker News",
     "date": "2026-05-27",
-    "summary": "Article URL: https://vtorosyan.gitHub.io/ai-making-worse/ Comments URL: https://news.ycombinator.com/item?id=48299558 Points: 1 # Comments: 0",
+    "summary": "Article URL: https://vtorosyan.gitHub.io/ai-making-worse/ Comments URL: https://news.ycombinator.com/item?id=48299558 Points: 2 # Comments: 0",
     "category": "industry",
-    "id": 28
+    "id": 40
   },
   {
     "title": "AI coding agents are installing packages no one owns",
     "url": "https://thenewstack.io/aikido-ai-agents-security/",
     "source": "Hacker News",
     "date": "2026-05-27",
-    "summary": "Article URL: https://thenewstack.io/aikido-ai-agents-security/ Comments URL: https://news.ycombinator.com/item?id=48299458 Points: 1 # Comments: 0",
+    "summary": "Article URL: https://thenewstack.io/aikido-ai-agents-security/ Comments URL: https://news.ycombinator.com/item?id=48299458 Points: 4 # Comments: 0",
     "category": "industry",
-    "id": 29
-  },
-  {
-    "title": "AI Coding Startup Cognition Raises $1B at $26B Value",
-    "url": "https://www.bloomberg.com/news/articles/2026-05-27/ai-coding-startup-cognition-raises-1-billion-at-26-billion-value",
-    "source": "Hacker News",
-    "date": "2026-05-27",
-    "summary": "Article URL: https://www.bloomberg.com/news/articles/2026-05-27/ai-coding-startup-cognition-raises-1-billion-at-26-billion-value Comments URL: https://news.ycombinator.com/item?id=48299386 Points: 3 #...",
-    "category": "industry",
-    "id": 30
-  },
-  {
-    "title": "Are Vector Databases Enough for Modern AI Workloads? Y/N",
-    "url": "https://zilliz.com/blog/why-we-built-vector-lakebase",
-    "source": "Hacker News",
-    "date": "2026-05-27",
-    "summary": "Article URL: https://zilliz.com/blog/why-we-built-vector-lakebase Comments URL: https://news.ycombinator.com/item?id=48299366 Points: 1 # Comments: 1",
-    "category": "tools",
-    "image": "https://assets.zilliz.com/why_we_built_vector_lakebase_40c6a0f3ec.jpg",
-    "id": 31
-  },
-  {
-    "title": "Lelu – Open-source authorization engine for AI agents",
-    "url": "https://lelu-ai.com",
-    "source": "Hacker News",
-    "date": "2026-05-27",
-    "summary": "Article URL: https://lelu-ai.com Comments URL: https://news.ycombinator.com/item?id=48299318 Points: 1 # Comments: 0",
-    "category": "industry",
-    "id": 32
-  },
-  {
-    "title": "Open-source developers are working themselves sick on AI bugs",
-    "url": "https://www.heise.de/en/opinion/Comment-Open-source-developers-are-working-themselves-sick-on-AI-bugs-11308553.html",
-    "source": "Hacker News",
-    "date": "2026-05-27",
-    "summary": "Article URL: https://www.heise.de/en/opinion/Comment-Open-source-developers-are-working-themselves-sick-on-AI-bugs-11308553.html Comments URL: https://news.ycombinator.com/item?id=48299293 Points: 4 #...",
-    "category": "tools",
-    "image": "https://heise.cloudimg.io/bound/1200x1200/q85.png-lossy-85.webp-lossy-85.foil1/_www-heise-de_/imgs/18/5/0/8/9/8/0/0/signal-2026-05-27-134719_002-e749d6a7e1aa36e7.jpeg",
-    "id": 33
-  },
-  {
-    "title": "US law enforcement warns of \"anti-tech extremism\" as AI hatred grows",
-    "url": "https://arstechnica.com/ai/2026/05/us-law-enforcement-warns-of-anti-tech-extremism-as-ai-hatred-grows/",
-    "source": "Hacker News",
-    "date": "2026-05-27",
-    "summary": "Article URL: https://arstechnica.com/ai/2026/05/us-law-enforcement-warns-of-anti-tech-extremism-as-ai-hatred-grows/ Comments URL: https://news.ycombinator.com/item?id=48299093 Points: 11 # Comments: 3",
-    "category": "industry",
-    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/05/GettyImages-2263649204-2560x1440.jpg",
-    "id": 34
-  },
-  {
-    "title": "Authors Sue Meta's AI Scientists Directly in Llama Copyright Case",
-    "url": "https://www.law.com/corpcounsel/2026/05/26/authors-sue-metas-ai-scientists-directly-in-llama-copyright-case/",
-    "source": "Hacker News",
-    "date": "2026-05-27",
-    "summary": "Article URL: https://www.law.com/corpcounsel/2026/05/26/authors-sue-metas-ai-scientists-directly-in-llama-copyright-case/ Comments URL: https://news.ycombinator.com/item?id=48299018 Points: 7 # Commen...",
-    "category": "models",
-    "id": 35
-  },
-  {
-    "title": "Securing Your AI Agent Infrastructure",
-    "url": "https://teriradichel.substack.com/p/securing-your-ai-agent-infrastructure",
-    "source": "Hacker News",
-    "date": "2026-05-27",
-    "summary": "Article URL: https://teriradichel.substack.com/p/securing-your-ai-agent-infrastructure Comments URL: https://news.ycombinator.com/item?id=48299012 Points: 1 # Comments: 0",
-    "category": "industry",
-    "id": 36
-  },
-  {
-    "title": "The LOGOS Framework: A five-level taxonomy for AI-assisted assessment",
-    "url": "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6749961",
-    "source": "Hacker News",
-    "date": "2026-05-27",
-    "summary": "Article URL: https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6749961 Comments URL: https://news.ycombinator.com/item?id=48298986 Points: 1 # Comments: 0",
-    "category": "research",
-    "id": 37
-  },
-  {
-    "title": "Champion ethical hacker warns AI tools like Mythos will make competing harder",
-    "url": "https://www.bbc.com/news/articles/c3r2zjpryzro",
-    "source": "Hacker News",
-    "date": "2026-05-27",
-    "summary": "Article URL: https://www.bbc.com/news/articles/c3r2zjpryzro Comments URL: https://news.ycombinator.com/item?id=48298915 Points: 4 # Comments: 0",
-    "category": "tools",
-    "image": "https://ichef.bbci.co.uk/news/1024/branded_news/529a/live/5a4cd470-58dc-11f1-a182-6b602140f589.jpg",
-    "id": 38
-  },
-  {
-    "title": "ARN: Local semantic memory server for AI agents (Pi 5, 22ms recall, 10/10 tests)",
-    "url": "https://github.com/tuuhe99-del/ARN-Adaptive-Reasoning-Network",
-    "source": "Hacker News",
-    "date": "2026-05-27",
-    "summary": "Article URL: https://github.com/tuuhe99-del/ARN-Adaptive-Reasoning-Network Comments URL: https://news.ycombinator.com/item?id=48298845 Points: 2 # Comments: 0",
-    "category": "hardware",
-    "image": "https://opengraph.githubassets.com/2f9fc433e9d287e8e554aa11a1e21bdec4dfb63cb339811b36d2b01df7adf67b/tuuhe99-del/ARN-Adaptive-Reasoning-Network",
-    "id": 39
-  },
-  {
-    "title": "Webmaster It's time to serve slop to AI crawlers",
-    "url": "https://iczelia.net/blog/webmaster-it-s-time-to-serve-slop-to-ai-crawlers/",
-    "source": "Hacker News",
-    "date": "2026-05-27",
-    "summary": "Article URL: https://iczelia.net/blog/webmaster-it-s-time-to-serve-slop-to-ai-crawlers/ Comments URL: https://news.ycombinator.com/item?id=48298655 Points: 4 # Comments: 0",
-    "category": "industry",
-    "image": "https://iczelia.net/og/blog/webmaster-it-s-time-to-serve-slop-to-ai-crawlers.png",
-    "id": 40
-  },
-  {
-    "title": "Run your own local LLM with rate limits via API-keys",
-    "url": "https://github.com/skorotkiewicz/llm-rt",
-    "source": "Hacker News",
-    "date": "2026-05-27",
-    "summary": "Article URL: https://github.com/skorotkiewicz/llm-rt Comments URL: https://news.ycombinator.com/item?id=48298553 Points: 1 # Comments: 1",
-    "category": "models",
-    "image": "https://opengraph.githubassets.com/ece41a75de23faec9fdc65cc8f36e5c343eb021e719215b9043ce7d783b5f2ed/skorotkiewicz/llm-rt",
     "id": 41
-  },
-  {
-    "title": "Why Good Engineers Become Worse with AI",
-    "url": "https://nidhish.dev/writing/good-engineers-worse-with-ai/",
-    "source": "Hacker News",
-    "date": "2026-05-27",
-    "summary": "Article URL: https://nidhish.dev/writing/good-engineers-worse-with-ai/ Comments URL: https://news.ycombinator.com/item?id=48298237 Points: 3 # Comments: 0",
-    "category": "industry",
-    "id": 42
   },
   {
     "title": "The Download: keeping up with AI, and the future of IVF",
@@ -413,7 +405,7 @@
     "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. Stay on top of what’s going on in AI this summer Here at MIT T...",
     "category": "hardware",
     "image": "https://wp.technologyreview.com/wp-content/uploads/2026/05/Screenshot-2026-05-27-at-12.49.53.png?resize=1200,600",
-    "id": 43
+    "id": 42
   },
   {
     "title": "Former Google and Apple Researchers Launch a Startup to Build AI’s Missing Feedback Loop",
@@ -423,7 +415,7 @@
     "summary": "Trajectory is betting the rapid iteration cycle that supercharged vibe-coding can help all kinds of companies build AI products that learn continuously.",
     "category": "research",
     "image": "https://media.wired.com/photos/6a15ed31ceac52c54a0384c0/191:100/w_1280,c_limit/Model-Behavior-Ex-Google-Apple-AI-Researchers-Want-to-Make-AI-That-Gets-Smarter-as-You-Use-It-Business.jpg",
-    "id": 44
+    "id": 43
   },
   {
     "title": "BrickAnything: Geometry-Conditioned Buildable Brick Generation with Structure-Aware Tokenization",
@@ -432,7 +424,7 @@
     "date": "2026-05-27",
     "summary": "Generating physically buildable brick structures from 3D shapes requires more than geometric reconstruction: the output must also satisfy discrete part constraints and structural stability. Existing b...",
     "category": "hardware",
-    "id": 45
+    "id": 44
   },
   {
     "title": "Can LLMs Introspect? A Reality Check",
@@ -441,7 +433,7 @@
     "date": "2026-05-27",
     "summary": "Can large language models detect and report their own internal states? A number of studies have argued that the answer to this question is yes. We argue, based on lessons from human metacognition rese...",
     "category": "models",
-    "id": 46
+    "id": 45
   },
   {
     "title": "Is Agent Memory a Database? Rethinking Data Foundations for Long-Term AI Agent Memory",
@@ -450,7 +442,7 @@
     "date": "2026-05-27",
     "summary": "Long-running AI agents need persistent memory. Memory supports learning across sessions, reduces repeated context injection, and enables auditing of past decisions. Current agent memory systems and da...",
     "category": "research",
-    "id": 47
+    "id": 46
   },
   {
     "title": "Personalizing Embodied Multimodal Large Language Model Agents over Long-term User Interactions",
@@ -459,7 +451,7 @@
     "date": "2026-05-27",
     "summary": "Multimodal large language model (MLLM)-based embodied agents have shown strong potential for solving complex tasks in physical environments. However, personalized assistance requires more than followi...",
     "category": "models",
-    "id": 48
+    "id": 47
   },
   {
     "title": "Constraint acquisition needs better benchmarks",
@@ -468,7 +460,7 @@
     "date": "2026-05-27",
     "summary": "Constraint Acquisition (CA) and related research on the validation and enhancement of Mathematical Programming (MP) models from domain knowledge artifacts are currently limited by inadequate benchmark...",
     "category": "research",
-    "id": 49
+    "id": 48
   },
   {
     "title": "Your Agents Are Aging Too: Agent Lifespan Engineering for Deployed Systems",
@@ -477,6 +469,15 @@
     "date": "2026-05-27",
     "summary": "Long-lived AI agents are increasingly deployed as persistent operational systems, yet they are still evaluated like freshly initialized models. Day-one benchmarks miss a basic systems question: how lo...",
     "category": "hardware",
+    "id": 49
+  },
+  {
+    "title": "Experiments in Agentic AI for Science",
+    "url": "https://arxiv.org/abs/2605.26305",
+    "source": "arXiv cs.AI",
+    "date": "2026-05-27",
+    "summary": "This paper details two novel frameworks for developing autonomous, agentic AI in scientific workflows. Both systems leverage a hybrid Local Body, Remote Brain architecture via Google Colab, utilizing ...",
+    "category": "research",
     "id": 50
   }
 ]
