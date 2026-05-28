@@ -1,5 +1,186 @@
 [
   {
+    "title": "Catch up on 12 major I/O 2026 moments",
+    "url": "https://blog.google/innovation-and-ai/technology/ai/io-2026-keynote-moment-videos/",
+    "source": "Google AI Blog",
+    "date": "2026-05-28",
+    "summary": "Here are 12 of the biggest Google I/O 2026 keynote moments, including news about Gemini Omni, Gemini 3.5 Flash and more.",
+    "category": "models",
+    "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/KW_KNH.max-600x600.format-webp.webp",
+    "id": 1,
+    "featured": true
+  },
+  {
+    "title": "NVIDIA Research Advances Robotics From Simulation to the Real World",
+    "url": "https://blogs.nvidia.com/blog/icra-research-robotics-simulation-to-real-world/",
+    "source": "NVIDIA Blog",
+    "date": "2026-05-28",
+    "summary": "Robotics is entering a new phase: moving from controlled demos and scripted automation toward generalizable, reliable embodied autonomy in the real world. At the International Conference on Robotics a...",
+    "category": "research",
+    "image": "https://blogs.nvidia.com/wp-content/uploads/2026/05/ICRA2026Blog-scaled.jpg",
+    "id": 2
+  },
+  {
+    "title": "Leaks reveal US authorities concerned about the rise of ‘anti-tech extremists’ as AI data center issues become increasingly contentious — critics say this could lead to surveillance, criminalization of peaceful opposition",
+    "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/leaks-reveal-us-authorities-concerned-about-the-rise-of-anti-tech-extremists-as-ai-data-center-issues-become-increasingly-contentious-critics-say-this-could-lead-to-surveillance-criminalization-of-peaceful-opposition",
+    "source": "Tom's Hardware",
+    "date": "2026-05-28",
+    "summary": "A leaked report showed the various law enforcement agencies are warning about protests against data centers and AI, saying that these could lead to the rise of \"anti-tech extremists\" and lead to wides...",
+    "category": "hardware",
+    "image": "https://cdn.mos.cms.futurecdn.net/XwthYx5eQhjsRcyx77C5h4-1280-80.png",
+    "id": 3
+  },
+  {
+    "title": "Researchers say they can spy on your browsing by measuring SSD activity through a browser API — claim FROST attack requires no permissions or user interaction to identify which apps and websites you're using",
+    "url": "https://www.tomshardware.com/tech-industry/cyber-security/researchers-say-they-can-spy-on-your-browsing-by-measuring-ssd-activity-through-a-browser-api",
+    "source": "Tom's Hardware",
+    "date": "2026-05-28",
+    "summary": "FROST exploits the Origin Private File System (OPFS), a browser API that lets websites create and store files on a user's local disk.",
+    "category": "research",
+    "image": "https://cdn.mos.cms.futurecdn.net/d8Nwgqa5NTt3kiTbuye8zH-1280-80.jpg",
+    "id": 4
+  },
+  {
+    "title": "Intel challenges AMD’s handheld dominance with new Arc G3 chips — Panther Lake silicon brings up to 14 cores, Arc B390 graphics to handhelds",
+    "url": "https://www.tomshardware.com/video-games/handheld-gaming/intel-challenges-amds-handheld-dominance-with-new-arc-g3-chips-panther-lake-silicon-brings-up-to-14-cores-arc-b390-graphics-to-handhelds",
+    "source": "Tom's Hardware",
+    "date": "2026-05-28",
+    "summary": "Intel has revealed the Arc G3 and G3 Extreme chips, which are built on Panther Lake dies with up to an Arc B390 iGPU. The chips will show up in devices from partners like Acer and OneXPlayer.",
+    "category": "hardware",
+    "image": "https://cdn.mos.cms.futurecdn.net/JcJZGCigYUsWES9KdDz7t9-1280-80.webp",
+    "id": 5
+  },
+  {
+    "title": "Qualcomm announces Snapdragon C Platform for $300 and up laptops — Windows on Arm and NPUs for the budget tier",
+    "url": "https://www.tomshardware.com/laptops/qualcomm-announces-snapdragon-c-platform-for-usd300-and-up-laptops-windows-on-arm-and-npus-for-the-budget-market",
+    "source": "Tom's Hardware",
+    "date": "2026-05-28",
+    "summary": "Qualcomm announced its Snapdragon C Platform today in the runup to Computex 2026. The Snapdragon C (Compute) Platform will power budget laptops designed to compete in the the $300 range, and features ...",
+    "category": "hardware",
+    "image": "https://cdn.mos.cms.futurecdn.net/vyBsbnxU8JeMtkADjrCxbZ-1280-80.png",
+    "id": 6
+  },
+  {
+    "title": "Acer brings Intel Arc B390 graphics to Predator Atlas 8 gaming handheld – G3 Extreme CPU paired with segment-first metal fan for increased airflow",
+    "url": "https://www.tomshardware.com/video-games/handheld-gaming/acer-brings-intel-arc-b390-graphics-to-predator-atlas-8-gaming-handheld-g3-extreme-cpu-paired-with-segment-first-metal-fan-for-increased-airflow",
+    "source": "Tom's Hardware",
+    "date": "2026-05-28",
+    "summary": "Acer's Atlas 8 takes on AMD’s dominance in the space with the new Intel Arc G3 and G3 Extreme processors, packing Arc B370 or B390 iGPUs.",
+    "category": "hardware",
+    "image": "https://cdn.mos.cms.futurecdn.net/f5ECBRfXC3jZ97zGqGJjMf-1280-80.jpg",
+    "id": 7
+  },
+  {
+    "title": "Chinese university builds 3D chip design tool tailored to Huawei's ‘LogicFolding’ architecture — 3D design delivers increased performance and better thermal management",
+    "url": "https://www.tomshardware.com/tech-industry/semiconductors/peking-university-builds-3d-chip-design-tool-tailored-to-huaweis-logicfolding-architecture",
+    "source": "Tom's Hardware",
+    "date": "2026-05-28",
+    "summary": "The announcement came two days after Huawei presented LogicFolding and its accompanying Tau Scaling Law at ISCAS 2026.",
+    "category": "hardware",
+    "image": "https://cdn.mos.cms.futurecdn.net/ZM7QHi9Pi9ZCnNXVYqUb5-1280-80.jpg",
+    "id": 8
+  },
+  {
+    "title": "ASRock BC-250 used for Steam Machine duty gains third-party hack to unlock all 40 CUs — mining board now has more CUs than a base PS5",
+    "url": "https://www.tomshardware.com/video-games/pc-gaming/asrock-bc-250-used-for-steam-machine-duty-gains-third-party-hack-to-unlock-all-40-cus-mining-board-now-has-more-cus-than-a-base-ps5",
+    "source": "Tom's Hardware",
+    "date": "2026-05-28",
+    "summary": "Enthusiasts of ASRock's BC-250 server board have figured out a way to unlock all 40CUs inside the system's PS5-derived SoC, giving it more GPU cores than a base PS5.",
+    "category": "hardware",
+    "image": "https://cdn.mos.cms.futurecdn.net/Z7WVPkYtVAUkTv5pqgpGA4-1280-80.png",
+    "id": 9
+  },
+  {
+    "title": "How long is Anthropic’s lease with SpaceX? Opinions vary.",
+    "url": "https://techcrunch.com/2026/05/28/how-long-is-anthropics-lease-with-spacex-opinions-vary/",
+    "source": "TechCrunch",
+    "date": "2026-05-28",
+    "summary": "Elon Musk is publicly reframing xAI’s massive Anthropic compute deal as short-term and cancellable, despite SpaceX’s own S-1 filing describing payments through May 2029.",
+    "category": "industry",
+    "image": "https://techcrunch.com/wp-content/uploads/2026/04/musk-court-2273245544.jpg?resize=1200,801",
+    "id": 10
+  },
+  {
+    "title": "Sesame, the conversational AI startup from Oculus founders, launches its iOS app",
+    "url": "https://techcrunch.com/2026/05/28/sesame-the-conversational-ai-startup-from-oculus-founders-launches-its-ios-app/",
+    "source": "TechCrunch",
+    "date": "2026-05-28",
+    "summary": "Sesame’s new iOS app brings its conversational AI agents to the public, offering more natural back-and-forth interactions designed to feel less like traditional chatbots and more like talking to a per...",
+    "category": "industry",
+    "image": "https://techcrunch.com/wp-content/uploads/2026/05/crossing-the-uncanny-valley-of-voice-hero.webp?resize=1200,900",
+    "id": 11
+  },
+  {
+    "title": "Sneak peek at new Siri app reveals Apple’s plans to take on ChatGPT and more",
+    "url": "https://techcrunch.com/2026/05/28/sneak-peek-at-new-siri-app-reveals-apples-plans-to-take-on-chatgpt-and-more/",
+    "source": "TechCrunch",
+    "date": "2026-05-28",
+    "summary": "New renders offer a closer look at Apple’s planned AI overhaul for iOS 27, including a redesigned Siri experience powered and standalone Siri app.",
+    "category": "models",
+    "image": "https://techcrunch.com/wp-content/uploads/2026/05/1476x1375.webp?resize=1200,1118",
+    "id": 12
+  },
+  {
+    "title": "RSI is the new AGI — and it’s just as hard to pin down",
+    "url": "https://techcrunch.com/2026/05/28/rsi-is-the-new-agi-and-its-just-as-hard-to-pin-down/",
+    "source": "TechCrunch",
+    "date": "2026-05-28",
+    "summary": "A new crop of AI labs are focused on recursive self-improvement — but the goal is proving elusive.",
+    "category": "industry",
+    "image": "https://techcrunch.com/wp-content/uploads/2022/12/GettyImages-1202271610.jpg?resize=1200,900",
+    "id": 13
+  },
+  {
+    "title": "At TechCrunch Disrupt 2026: Databricks’ co-founder on what kills enterprise AI deals",
+    "url": "https://techcrunch.com/2026/05/28/techcrunch-disrupt-2026-databricks-co-founder-on-what-kills-enterprise-ai-deals/",
+    "source": "TechCrunch",
+    "date": "2026-05-28",
+    "summary": "Enterprise AI is entering a different phase now, one where enterprises are no longer evaluating whether AI is exciting. They are evaluating whether it is safe to deploy broadly.",
+    "category": "industry",
+    "image": "https://techcrunch.com/wp-content/uploads/2026/05/TCD26_1-Arsalan-Tavakoli-Shiraji_Speaker-16x9-Dark.png?resize=1200,675",
+    "id": 14
+  },
+  {
+    "title": "YouTube adds new podcast features, including an AI recommendation tool and ‘Auto speed’",
+    "url": "https://techcrunch.com/2026/05/28/youtube-adds-new-podcast-features-including-an-ai-recommendation-tool-and-auto-speed/",
+    "source": "TechCrunch",
+    "date": "2026-05-28",
+    "summary": "The update signals YouTube's ongoing efforts to compete with other platforms for podcast audiences.",
+    "category": "tools",
+    "image": "https://techcrunch.com/wp-content/uploads/2026/04/GettyImages-2242441443.jpg?resize=1200,800",
+    "id": 15
+  },
+  {
+    "title": "Visa invests in Replit to power agentic payments for developers",
+    "url": "https://techcrunch.com/2026/05/28/visa-invests-in-replit-to-power-agentic-payments-for-developers/",
+    "source": "TechCrunch",
+    "date": "2026-05-28",
+    "summary": "Visa said that over 1,000 employees has been using Replit for prototyping and development",
+    "category": "tools",
+    "image": "https://techcrunch.com/wp-content/uploads/2025/09/Replit-founder-CEO-Amjad-Masad.png?resize=1200,715",
+    "id": 16
+  },
+  {
+    "title": "Has the hunt for AI compute uncovered the next Cerebras?",
+    "url": "https://techcrunch.com/2026/05/28/has-the-hunt-for-ai-compute-uncovered-the-next-cerebras/",
+    "source": "TechCrunch",
+    "date": "2026-05-28",
+    "summary": "General Compute is betting SambaNova will be the next breakout chipmaker.",
+    "category": "hardware",
+    "image": "https://techcrunch.com/wp-content/uploads/2026/05/Data-Center-Visit.jpeg?resize=900,1200",
+    "id": 17
+  },
+  {
+    "title": "Vertu wants CEOs to run companies from an AI foldable starting at $6,880",
+    "url": "https://techcrunch.com/2026/05/28/vertu-wants-ceos-to-run-companies-from-an-ai-foldable-starting-at-6880/",
+    "source": "TechCrunch",
+    "date": "2026-05-28",
+    "summary": "Built on top of the open source Hermes project, Vertu's new foldable combines AI-agent workflows, enterprise integrations, and ultra-premium luxury finishes.",
+    "category": "industry",
+    "image": "https://techcrunch.com/wp-content/uploads/2026/05/vertu-alphafold-foldable.jpg?resize=1200,800",
+    "id": 18
+  },
+  {
     "title": "Why Google’s AI can’t spell Google (or anything else)",
     "url": "https://techcrunch.com/2026/05/27/why-googles-ai-cant-spell-google-or-anything-else/",
     "source": "TechCrunch",
@@ -7,199 +188,67 @@
     "summary": "Google is embarrassing itself, again.",
     "category": "industry",
     "image": "https://techcrunch.com/wp-content/uploads/2026/05/google-two-ps.jpg?resize=1200,675",
-    "id": 1,
-    "featured": true
-  },
-  {
-    "title": "Money Printer Pro – Open-source AI content generator",
-    "url": "https://github.com/office233/MoneyPrinterPro",
-    "source": "Hacker News",
-    "date": "2026-05-28",
-    "summary": "Article URL: https://github.com/office233/MoneyPrinterPro Comments URL: https://news.ycombinator.com/item?id=48306781 Points: 1 # Comments: 0",
-    "category": "industry",
-    "image": "https://opengraph.githubassets.com/e968875b832464fb9caaf8ac5211ae61f3da247a882042e4dcec22adf76e5f28/office233/MoneyPrinterPro",
-    "id": 2
-  },
-  {
-    "title": "Dirk and Linus discuss AI and kernel development",
-    "url": "https://lwn.net/SubscriberLink/1073761/289a4e5513688987/",
-    "source": "Hacker News",
-    "date": "2026-05-28",
-    "summary": "Article URL: https://lwn.net/SubscriberLink/1073761/289a4e5513688987/ Comments URL: https://news.ycombinator.com/item?id=48306705 Points: 2 # Comments: 0",
-    "category": "industry",
-    "id": 3
-  },
-  {
-    "title": "China works on AI token futures market",
-    "url": "https://www.reuters.com/world/china/china-works-ai-token-futures-market-sources-say-race-with-us-2026-05-28/",
-    "source": "Hacker News",
-    "date": "2026-05-28",
-    "summary": "Article URL: https://www.reuters.com/world/china/china-works-ai-token-futures-market-sources-say-race-with-us-2026-05-28/ Comments URL: https://news.ycombinator.com/item?id=48306633 Points: 2 # Commen...",
-    "category": "industry",
-    "id": 4
-  },
-  {
-    "title": "Mistral AI Launches Mistral Vibe",
-    "url": "https://mistral.ai/fr/products/vibe",
-    "source": "Hacker News",
-    "date": "2026-05-28",
-    "summary": "Article URL: https://mistral.ai/fr/products/vibe Comments URL: https://news.ycombinator.com/item?id=48306590 Points: 2 # Comments: 0",
-    "category": "models",
-    "image": "https://mistral.ai/cms-media/api/media/file/OG-Main-1.jpg",
-    "id": 5
-  },
-  {
-    "title": "Superpowers: An Agentic Skills Framework for AI Coding Workflows",
-    "url": "https://github.com/obra/superpowers",
-    "source": "Hacker News",
-    "date": "2026-05-28",
-    "summary": "Article URL: https://github.com/obra/superpowers Comments URL: https://news.ycombinator.com/item?id=48306576 Points: 1 # Comments: 0",
-    "category": "tools",
-    "image": "https://opengraph.githubassets.com/371f9e66645590ee33c18554d7e120ea5161eaf0d48b96c960be9f105f811298/obra/superpowers",
-    "id": 6
-  },
-  {
-    "title": "Validate a physical product idea in 15 minutes with a free GPT",
-    "url": "https://chatgpt.com/g/g-68222a55dd44819190792eabb6b239f2-product-idea-validator-from-concept-to-launch",
-    "source": "Hacker News",
-    "date": "2026-05-28",
-    "summary": "Article URL: https://chatgpt.com/g/g-68222a55dd44819190792eabb6b239f2-product-idea-validator-from-concept-to-launch Comments URL: https://news.ycombinator.com/item?id=48306430 Points: 2 # Comments: 0",
-    "category": "models",
-    "image": "https://chatgpt.com/backend-api/estuary/content?id=file-5dN7gr1C8FeWi1iqKM7xVJ&gizmo_id=g-68222a55dd44819190792eabb6b239f2&ts=494434&p=gpp&cid=1&sig=ce7125f36d2fa18696f7c12b7a39b30c936b4a57556523d098a578719ea6ea4a&v=0",
-    "id": 7
-  },
-  {
-    "title": "Is this sustainable? The senior engineer role after three years of AI",
-    "url": "https://jamiehurst.co.uk/2026-05-24_ai-sustainable",
-    "source": "Hacker News",
-    "date": "2026-05-28",
-    "summary": "Article URL: https://jamiehurst.co.uk/2026-05-24_ai-sustainable Comments URL: https://news.ycombinator.com/item?id=48306398 Points: 2 # Comments: 0",
-    "category": "industry",
-    "id": 8
-  },
-  {
-    "title": "UK spy chief labels AI 'unstoppable force' with off., def. ramifications",
-    "url": "https://cyberscoop.com/gchq-warns-ai-cyber-warfare-threats/",
-    "source": "Hacker News",
-    "date": "2026-05-28",
-    "summary": "Article URL: https://cyberscoop.com/gchq-warns-ai-cyber-warfare-threats/ Comments URL: https://news.ycombinator.com/item?id=48306387 Points: 3 # Comments: 0",
-    "category": "industry",
-    "image": "https://cyberscoop.com/wp-content/uploads/sites/3/2026/05/GettyImages-2152350051.jpg",
-    "id": 9
-  },
-  {
-    "title": "Don't let Big Tech hide ecological cost of AI, environment agency chief tells EU",
-    "url": "https://www.politico.eu/article/big-tech-ecological-cost-ai-environment-agency-chief-eu/",
-    "source": "Hacker News",
-    "date": "2026-05-28",
-    "summary": "Article URL: https://www.politico.eu/article/big-tech-ecological-cost-ai-environment-agency-chief-eu/ Comments URL: https://news.ycombinator.com/item?id=48306344 Points: 2 # Comments: 0",
-    "category": "industry",
-    "id": 10
-  },
-  {
-    "title": "Where I think my career is headed (with AI-assisted dev)",
-    "url": "https://assertchris.dev/articles/2026-05-27-the-future-of-ai-development",
-    "source": "Hacker News",
-    "date": "2026-05-28",
-    "summary": "Article URL: https://assertchris.dev/articles/2026-05-27-the-future-of-ai-development Comments URL: https://news.ycombinator.com/item?id=48306302 Points: 1 # Comments: 0",
-    "category": "industry",
-    "id": 11
-  },
-  {
-    "title": "Use Zite and AI to build an app",
-    "url": "https://www.zite.com/help/platform/getting-started/quickstart",
-    "source": "Hacker News",
-    "date": "2026-05-28",
-    "summary": "Article URL: https://www.zite.com/help/platform/getting-started/quickstart Comments URL: https://news.ycombinator.com/item?id=48306275 Points: 2 # Comments: 0",
-    "category": "tools",
-    "image": "https://zite.mintlify.app/mintlify-assets/_next/image?url=%2F_mintlify%2Fapi%2Fog%3Fdivision%3DGetting%2BStarted%26title%3DQuickstart%26description%3DGetting%2Bstarted%2Bis%2Bas%2Bsimple%2Bas%2Bdescribing%2Byour%2Bapp%2Bidea.%2BZite%2Bhelps%2Bturn%2Bthat%2Bprompt%2Binto%2Ba%2Bworking%2Bapp%2Byou%2Bcan%2Brefine%252C%2Bconnect%2Bto%2Bdata%252C%2Band%2Bshare.%26logoLight%3Dhttps%253A%252F%252Fmintcdn.com%252Fzite%252FiguXXMxNAqjCcaY0%252Fhelp%252Fimages%252Flogo%252Flight.svg%253Ffit%253Dmax%2526auto%253Dformat%2526n%253DiguXXMxNAqjCcaY0%2526q%253D85%2526s%253De223f674c9ab3109a2bfee4e666d6221%26logoDark%3Dhttps%253A%252F%252Fmintcdn.com%252Fzite%252FiguXXMxNAqjCcaY0%252Fhelp%252Fimages%252Flogo%252Fdark.svg%253Ffit%253Dmax%2526auto%253Dformat%2526n%253DiguXXMxNAqjCcaY0%2526q%253D85%2526s%253D1c0e463ce6830ecfcb5905952a14a11b%26primaryColor%3D%2523211C20%26lightColor%3D%2523FFC738%26darkColor%3D%2523071003%26backgroundLight%3D%2523ffffff%26backgroundDark%3D%25230e0d0c&w=1200&q=100",
-    "id": 12
-  },
-  {
-    "title": "An analysis of how internet scanners are targeting AI infrastructure",
-    "url": "https://honeylabs.net/blog/ai-scanning-may-2026",
-    "source": "Hacker News",
-    "date": "2026-05-28",
-    "summary": "Article URL: https://honeylabs.net/blog/ai-scanning-may-2026 Comments URL: https://news.ycombinator.com/item?id=48306271 Points: 3 # Comments: 0",
-    "category": "industry",
-    "id": 13
-  },
-  {
-    "title": "Taste Skill: An Anti-Slop Front End Framework for AI Agents",
-    "url": "https://github.com/Leonxlnx/taste-skill",
-    "source": "Hacker News",
-    "date": "2026-05-28",
-    "summary": "Article URL: https://github.com/Leonxlnx/taste-skill Comments URL: https://news.ycombinator.com/item?id=48306196 Points: 2 # Comments: 0",
-    "category": "tools",
-    "image": "https://repository-images.githubusercontent.com/1162099055/0a968964-fdca-4781-853b-84afc2bc2d31",
-    "id": 14
-  },
-  {
-    "title": "Netflix is building an AI animation studio",
-    "url": "https://www.theverge.com/column/930118/netflix-gen-ai-animation-inkubator",
-    "source": "Hacker News",
-    "date": "2026-05-28",
-    "summary": "Article URL: https://www.theverge.com/column/930118/netflix-gen-ai-animation-inkubator Comments URL: https://news.ycombinator.com/item?id=48306178 Points: 3 # Comments: 0",
-    "category": "industry",
-    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/05/STK072_VRG_Illo_N_Barclay_1_netflix.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-    "id": 15
-  },
-  {
-    "title": "AI orientation before retrieval and action",
-    "url": "https://github.com/SuperHeroesAreReal/AIluminode",
-    "source": "Hacker News",
-    "date": "2026-05-28",
-    "summary": "Article URL: https://github.com/SuperHeroesAreReal/AIluminode Comments URL: https://news.ycombinator.com/item?id=48306173 Points: 1 # Comments: 0",
-    "category": "industry",
-    "image": "https://opengraph.githubassets.com/e603171fd5080d2386fbbd235e456465b66031404ecff2b458319c1b1bb8f100/SuperHeroesAreReal/AIluminode",
-    "id": 16
-  },
-  {
-    "title": "Everyone's building AI agents that remember. I built one that has a body",
-    "url": "https://sbarron.com",
-    "source": "Hacker News",
-    "date": "2026-05-28",
-    "summary": "Article URL: https://sbarron.com Comments URL: https://news.ycombinator.com/item?id=48306140 Points: 1 # Comments: 0",
-    "category": "industry",
-    "id": 17
-  },
-  {
-    "title": "When products think: navigating the AI product shift",
-    "url": "https://www.cesarrg.com/when-products-think-navigating-the-ai-product-shift/",
-    "source": "Hacker News",
-    "date": "2026-05-28",
-    "summary": "Article URL: https://www.cesarrg.com/when-products-think-navigating-the-ai-product-shift/ Comments URL: https://news.ycombinator.com/item?id=48305990 Points: 2 # Comments: 0",
-    "category": "industry",
-    "image": "https://cesarrg.ghost.io/content/images/size/w1200/2025/02/CRG-2-1.png",
-    "id": 18
-  },
-  {
-    "title": "A useful paper on the case for AI data centres in space [pdf]",
-    "url": "https://starcloudinc.github.io/wp.pdf",
-    "source": "Hacker News",
-    "date": "2026-05-28",
-    "summary": "Article URL: https://starcloudinc.github.io/wp.pdf Comments URL: https://news.ycombinator.com/item?id=48305988 Points: 2 # Comments: 0",
-    "category": "research",
     "id": 19
   },
   {
-    "title": "Robinhood Lets Customers Use AI to Trade Stocks, Make Credit-Card Purchases",
-    "url": "https://www.wsj.com/tech/ai/robinhood-lets-customers-use-ai-to-trade-stocks-make-credit-card-purchases-f28467ed",
-    "source": "Hacker News",
+    "title": "The Download: climate tech goes public and the AI Hype Index returns",
+    "url": "https://www.technologyreview.com/2026/05/28/1138085/the-download-climate-tech-ipos-ai-hype-index/",
+    "source": "MIT Tech Review",
     "date": "2026-05-28",
-    "summary": "Article URL: https://www.wsj.com/tech/ai/robinhood-lets-customers-use-ai-to-trade-stocks-make-credit-card-purchases-f28467ed Comments URL: https://news.ycombinator.com/item?id=48305974 Points: 1 # Com...",
+    "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. Climate tech companies are going public. What’s next? Solar an...",
     "category": "industry",
+    "image": "https://wp.technologyreview.com/wp-content/uploads/2026/05/AP24177191447994.jpg?resize=1200,600",
     "id": 20
   },
   {
-    "title": "Seven Ways to Avoid Losing Your Job to AI",
-    "url": "https://www.thefp.com/p/tyler-cowen-seven-ways-to-avoid-losing",
-    "source": "Hacker News",
+    "title": "Climate tech companies are going public. What’s next?",
+    "url": "https://www.technologyreview.com/2026/05/28/1138067/climate-tech-ipos/",
+    "source": "MIT Tech Review",
     "date": "2026-05-28",
-    "summary": "Article URL: https://www.thefp.com/p/tyler-cowen-seven-ways-to-avoid-losing Comments URL: https://news.ycombinator.com/item?id=48305968 Points: 8 # Comments: 5",
+    "summary": "This year, there’s been a wave of notable energy companies going public via IPO in the US. The solar and battery company Solv Energy went public in February, to the tune of $6 billion. X-energy, which...",
     "category": "industry",
-    "image": "https://substackcdn.com/image/fetch/$s_!RnIJ!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fe9840bf3-db13-441c-87c2-6766f9c1db06_575x719.jpeg",
+    "image": "https://wp.technologyreview.com/wp-content/uploads/2026/05/AP24177191447994.jpg?resize=1200,600",
     "id": 21
+  },
+  {
+    "title": "The AI Hype Index: AI gets booed in graduation season",
+    "url": "https://www.technologyreview.com/2026/05/28/1138053/the-ai-hype-index-ai-gets-booed-in-graduation-season/",
+    "source": "MIT Tech Review",
+    "date": "2026-05-28",
+    "summary": "It is one thing to say AI will change the world. It is another to expect the class of 2026 to applaud it. In fact, when former Google CEO Eric Schmidt told University of Arizona graduates that their t...",
+    "category": "industry",
+    "image": "https://wp.technologyreview.com/wp-content/uploads/2026/05/MJ26-Thumb.jpg?resize=1200,600",
+    "id": 22
+  },
+  {
+    "title": "Here Comes Ojai, Waymo’s New Chinese-Made Robotaxi",
+    "url": "https://www.wired.com/story/here-comes-ojai-waymos-new-chinese-made-robotaxi/",
+    "source": "Wired",
+    "date": "2026-05-28",
+    "summary": "The pale-blue Ojai vehicles will start picking up members of the public in California and Arizona today.",
+    "category": "industry",
+    "image": "https://media.wired.com/photos/6a1765da6f62ca56a1fdfc3c/191:100/w_1280,c_limit/OJAI_EXT_Rider_3.jpg",
+    "id": 23
+  },
+  {
+    "title": "New Moms Are Returning to Coding Jobs Radically Reshaped by AI",
+    "url": "https://www.wired.com/story/women-parental-leave-return-office-ai/",
+    "source": "Wired",
+    "date": "2026-05-28",
+    "summary": "New mothers working in software development are staring down an AI-pilled workplace they barely recognize.",
+    "category": "industry",
+    "image": "https://media.wired.com/photos/6a0b7d9d4db62c986283e838/191:100/w_1280,c_limit/Business_TheWomenWhoWentonMaternityLeaveandReturnedtoanOfficeReshapedbyAI_v2.jpg",
+    "id": 24
+  },
+  {
+    "title": "Amazon Thinks the Future of Data Centers Depends on a Technical Problem It Just Solved",
+    "url": "https://www.wired.com/story/amazon-thinks-the-future-of-data-centers-depends-on-a-technical-problem-it-just-solved/",
+    "source": "Wired",
+    "date": "2026-05-28",
+    "summary": "The tech giant says a breakthrough in data center networking has dramatically accelerated the flow of information through its massive cloud infrastructure.",
+    "category": "hardware",
+    "image": "https://media.wired.com/photos/6a173c117ababccb510cce19/191:100/w_1280,c_limit/Amazon-AI-Future-Business-Ratul-Giacomo-Sesh-in-front-of-RNG-racks3.jpg",
+    "id": 25
   },
   {
     "title": "Illinois Lawmakers Just Passed America’s Strongest AI Safety Bill",
@@ -209,7 +258,7 @@
     "summary": "The bill requires companies like OpenAI, Anthropic, and Google to have third parties confirm they’re following safety standards. Illinois governor JB Pritzker says he’ll sign it.",
     "category": "research",
     "image": "https://media.wired.com/photos/6a1769e135f75a644600c4ac/191:100/w_1280,c_limit/Illionois-AI-Safetry-Bill-Business-2270597563.jpg",
-    "id": 22
+    "id": 26
   },
   {
     "title": "Identifying and Understanding Human Values in Text: A Tailorable LLM-based Architecture",
@@ -218,7 +267,7 @@
     "date": "2026-05-28",
     "summary": "As intelligent systems become more autonomous, the scientific community focuses on creating decision-making mechanisms that include ethical and moral considerations, unlike traditional utility-maximis...",
     "category": "models",
-    "id": 23
+    "id": 27
   },
   {
     "title": "Soro: A Lightweight Foundation Model and Chatbot for Tajik",
@@ -227,7 +276,7 @@
     "date": "2026-05-28",
     "summary": "We present Soro, a family of Tajik-specialized conversational large language models (LLMs) designed for real-world deployment under tight compute and connectivity constraints in Tajikistan. Starting f...",
     "category": "models",
-    "id": 24
+    "id": 28
   },
   {
     "title": "On the Origin of Synthetic Information by Means of Steganographic Inheritance",
@@ -236,7 +285,7 @@
     "date": "2026-05-28",
     "summary": "The origin of species has been the mystery of mysteries in natural science. By analogy, the origin of synthetic information, we suggest, is the mystery of mysteries in information science. The questio...",
     "category": "hardware",
-    "id": 25
+    "id": 29
   },
   {
     "title": "DynaSchedBench: Calibrated Dynamic Scheduling Benchmarks and Observability Paradox in LLM-based Scheduling Agents",
@@ -245,7 +294,7 @@
     "date": "2026-05-28",
     "summary": "Progress in neural combinatorial optimization for Dynamic Flexible Job Shop Scheduling Problem (DFJSP) is currently hindered by a methodological tension: static benchmarks encourage benchmark overfitt...",
     "category": "research",
-    "id": 26
+    "id": 30
   },
   {
     "title": "Why LLMs Fail at Causal Discovery and How Interventional Agents Escape",
@@ -254,7 +303,7 @@
     "date": "2026-05-28",
     "summary": "Causal discovery is a cornerstone of scientific reasoning, yet whether large language models can perform it reliably remains an open question. Recent benchmarks show that even fine-tuned models platea...",
     "category": "models",
-    "id": 27
+    "id": 31
   },
   {
     "title": "RULER: Representation-Level Verification of Machine Unlearning",
@@ -263,7 +312,7 @@
     "date": "2026-05-28",
     "summary": "Machine unlearning aims to remove the influence of specific training records from a deployed model without retraining from scratch. Current protocols verify this at the output level through membership...",
     "category": "hardware",
-    "id": 28
+    "id": 32
   },
   {
     "title": "LaneRoPE: Positional Encoding for Collaborative Parallel Reasoning and Generation",
@@ -272,7 +321,7 @@
     "date": "2026-05-28",
     "summary": "Parallel LLM test-time scaling techniques (e.g., best-of-$N$) require drawing $N>1$ sequences conditioned on the same input prompt. These methods boost accuracy while exploiting the computational effi...",
     "category": "research",
-    "id": 29
+    "id": 33
   },
   {
     "title": "Discovery Agents for Real-Time Analytics: Toward Proactive Insight Systems",
@@ -281,7 +330,7 @@
     "date": "2026-05-28",
     "summary": "Modern analytics systems are fundamentally reactive, requiring users to define queries over increasingly complex and continuously evolving data. In real-time streaming environments, this paradigm brea...",
     "category": "models",
-    "id": 30
+    "id": 34
   },
   {
     "title": "Agyn: An Open-Source Platform for AI Agents with Scalable On-Demand Execution, Agent Definition as a Code, and Zero-Trust Access",
@@ -290,7 +339,7 @@
     "date": "2026-05-28",
     "summary": "As organizations move toward production deployments of AI agents, which execute non-deterministic workflows, maintain stateful sessions, and often operate with privileged access to internal services, ...",
     "category": "tools",
-    "id": 31
+    "id": 35
   },
   {
     "title": "You Are in Control of Your State: Why Human Outcomes Are Controllable Through Causal State Intervention",
@@ -299,7 +348,7 @@
     "date": "2026-05-28",
     "summary": "A central puzzle for the behavioural sciences and for human-facing artificial intelligence is the persistence of within-person variability. The same individual, presented with the same observable inpu...",
     "category": "tools",
-    "id": 32
+    "id": 36
   },
   {
     "title": "Cyberbullying Governance on Social Media: A Unified Framework from Content Identification to Intervention",
@@ -308,7 +357,7 @@
     "date": "2026-05-28",
     "summary": "The proliferation of social media platforms and online communities has inadvertently catalyzed the spread of cyberbullying, hate speech, and other forms of online toxicity, making the effective govern...",
     "category": "research",
-    "id": 33
+    "id": 37
   },
   {
     "title": "Voluntary Collusion with Secret Tools in Competing LLM Agents",
@@ -317,7 +366,7 @@
     "date": "2026-05-28",
     "summary": "Even when a tool is explicitly described as unfair and harmful to others, ostensibly safety-aligned LLM agents still voluntarily engage in secret collusion whenever doing so confers a strategic advant...",
     "category": "research",
-    "id": 34
+    "id": 38
   },
   {
     "title": "Laguna M.1/XS.2 Technical Report",
@@ -326,7 +375,7 @@
     "date": "2026-05-28",
     "summary": "We present Laguna M.1 and Laguna XS.2, two Mixture-of-Experts foundation models built for long-horizon, agentic coding: M.1 has $225.8$B total parameters ($23.4$B activated per token) and XS.2 has $33...",
     "category": "models",
-    "id": 35
+    "id": 39
   },
   {
     "title": "Reasoning and Planning with Dynamically Changing Norms",
@@ -335,7 +384,7 @@
     "date": "2026-05-28",
     "summary": "To safely interact with humans, AI agents must both know our norms and consider them during planning. However, such norm-guided planning has been less explored, only within communities of artificial a...",
     "category": "research",
-    "id": 36
+    "id": 40
   },
   {
     "title": "Intelligence as Managed Autonomy: Failure, Escalation, and Governance for Agentic AI Systems",
@@ -344,7 +393,7 @@
     "date": "2026-05-28",
     "summary": "As autonomous and agentic AI systems scale in robotic and human-machine environments, managing hallucination and persistent but unjustified action remains an open challenge. Rather than attributing th...",
     "category": "research",
-    "id": 37
+    "id": 41
   },
   {
     "title": "Behavioural Analysis of Alignment Faking",
@@ -353,7 +402,7 @@
     "date": "2026-05-28",
     "summary": "Alignment faking (AF) refers to a model strategically complying with a training objective to avoid behavioural modification while preserving its deployment preferences. Understanding when and why AF a...",
     "category": "research",
-    "id": 38
+    "id": 42
   },
   {
     "title": "Cross-Entropy Games and Frost Training",
@@ -362,7 +411,7 @@
     "date": "2026-05-28",
     "summary": "We present Frost Training, a method for improving Monte Carlo-based policy optimization for a large family of LLM-as-a-judge tasks called Cross-Entropy Games. The key idea is to exploit the gradient o...",
     "category": "models",
-    "id": 39
+    "id": 43
   },
   {
     "title": "Hierarchical Prompt-Domain Control and Learning for Resource-Constrained Agentic Language Models",
@@ -371,7 +420,7 @@
     "date": "2026-05-28",
     "summary": "Large Language Models are increasingly deployed inside agentic systems, where they must follow structured protocols, adapt to evolving states, and operate under memory, latency, and cost constraints. ...",
     "category": "tools",
-    "id": 40
+    "id": 44
   },
   {
     "title": "DeepSciVerify: Verifying Scientific Claim--Citation Alignment via LLM-Driven Evidence Escalation",
@@ -380,7 +429,7 @@
     "date": "2026-05-28",
     "summary": "Misalignment between claims and their cited evidence is a common failure mode in reports generated by large language models, limiting their reliability in scientific and other high-stakes settings. We...",
     "category": "research",
-    "id": 41
+    "id": 45
   },
   {
     "title": "Prefix-Safe Bayesian Belief Tracking for LLM Reasoning Reliability:Separating Calibration from Ranking",
@@ -389,7 +438,7 @@
     "date": "2026-05-28",
     "summary": "Long reasoning traces need reliability estimates before final answers are known. We study prefix-conditioned eventual-success estimation, $P(y=1 \\mid o_{1:t})$, using prefix-safe observations. Sequent...",
     "category": "models",
-    "id": 42
+    "id": 46
   },
   {
     "title": "A Policy-Driven Runtime Layer for Agentic LLM Serving",
@@ -398,7 +447,7 @@
     "date": "2026-05-28",
     "summary": "Multi-agent LLM systems have become the dominant production workload, but the serving stack was not built for them. The agent framework above knows agent identities, role, schemas, and dispatch struct...",
     "category": "tools",
-    "id": 43
+    "id": 47
   },
   {
     "title": "Asking Is Not Enough: Protocol Sensitivity in LLM Confidence Calibration",
@@ -407,7 +456,7 @@
     "date": "2026-05-28",
     "summary": "LLM confidence calibration is often evaluated by comparing two signals: token-probability scores and verbalized confidence. These signals are sometimes treated as direct readouts of model uncertainty,...",
     "category": "models",
-    "id": 44
+    "id": 48
   },
   {
     "title": "SkillGrad: Optimizing Agent Skills Like Gradient Descent",
@@ -416,7 +465,7 @@
     "date": "2026-05-28",
     "summary": "Agent skills provide a lightweight way to adapt LLM agents to specialized domains by storing reusable procedural knowledge in structured files. However, whether downloaded from third parties or self-g...",
     "category": "research",
-    "id": 45
+    "id": 49
   },
   {
     "title": "PEAM: Parametric Embodied Agent Memory through Contrastive Internalization of Experience in Minecraft",
@@ -425,42 +474,6 @@
     "date": "2026-05-28",
     "summary": "We present PEAM, a Parametric Embodied Agent Memory framework in Minecraft that transforms agent memory from inference-time retrieval into parameter-resident skills internalized through experience. PE...",
     "category": "models",
-    "id": 46
-  },
-  {
-    "title": "Got a Secret? LLM Agents Can't Keep It: Evaluating Privacy in Multi-Agent Systems",
-    "url": "https://arxiv.org/abs/2605.27766",
-    "source": "arXiv cs.AI",
-    "date": "2026-05-28",
-    "summary": "LLM safety evaluations predominantly test models in isolation, yet deployed AI agents increasingly operate within persistent social environments alongside other agents. We introduce a Moltbook-style s...",
-    "category": "models",
-    "id": 47
-  },
-  {
-    "title": "Auditable Decision Models with Learned Abstention and Real-Time Steering",
-    "url": "https://arxiv.org/abs/2605.27768",
-    "source": "arXiv cs.AI",
-    "date": "2026-05-28",
-    "summary": "Production AI systems often operate with incomplete, conflicting, or insufficient evidence. Forced classifiers collapse such cases into action labels, while generative systems can produce outputs that...",
-    "category": "research",
-    "id": 48
-  },
-  {
-    "title": "Diagnosing Live Within-Policy Instruction Conflicts in LLM Agents with Witnessed Resolution Profiles",
-    "url": "https://arxiv.org/abs/2605.27784",
-    "source": "arXiv cs.AI",
-    "date": "2026-05-28",
-    "summary": "LLM agents are governed by long-lived natural-language prompt policies, but individually reasonable standing rules can interact in uninspected ways. We study live intra-policy rule-conflict diagnosis:...",
-    "category": "industry",
-    "id": 49
-  },
-  {
-    "title": "A Query Engine for the Agents",
-    "url": "https://arxiv.org/abs/2605.27785",
-    "source": "arXiv cs.AI",
-    "date": "2026-05-28",
-    "summary": "The fastest-growing data in production today is unstructured text: agent traces, chat logs, reasoning chains, model outputs. People want to analyze it, and the questions worth asking (\"show me where t...",
-    "category": "tools",
     "id": 50
   }
 ]
