@@ -1,41 +1,24 @@
 [
   {
-    "title": "AI Factories: The New Infrastructure of Intelligence",
-    "url": "https://blogs.nvidia.com/blog/ai-factories-the-new-infrastructure-of-intelligence/",
-    "source": "NVIDIA Blog",
-    "date": "2026-05-27",
-    "summary": "AI factories are token factories, converting power into intelligence in real time. And as agentic AI scales and autonomous, always-on special agents are deployed in the enterprise, performance per wat...",
-    "category": "hardware",
-    "image": "https://blogs.nvidia.com/wp-content/uploads/2026/05/AI_v001-scaled.png",
+    "title": "Why Google’s AI can’t spell Google (or anything else)",
+    "url": "https://techcrunch.com/2026/05/27/why-googles-ai-cant-spell-google-or-anything-else/",
+    "source": "TechCrunch",
+    "date": "2026-05-28",
+    "summary": "Google is embarrassing itself, again.",
+    "category": "industry",
+    "image": "https://techcrunch.com/wp-content/uploads/2026/05/google-two-ps.jpg?resize=1200,675",
     "id": 1,
     "featured": true
   },
   {
-    "title": "Building self-improving tax agents with Codex",
-    "url": "https://openai.com/index/building-self-improving-tax-agents-with-codex",
-    "source": "OpenAI Blog",
-    "date": "2026-05-27",
-    "summary": "See how OpenAI, Thrive, and Crete built a self-improving tax agent with Codex, automating filings, improving accuracy, and accelerating workflows.",
-    "category": "industry",
+    "title": "Illinois Lawmakers Just Passed America’s Strongest AI Safety Bill",
+    "url": "https://www.wired.com/story/illinois-pass-major-ai-safety-law-pritzker/",
+    "source": "Wired",
+    "date": "2026-05-28",
+    "summary": "The bill requires companies like OpenAI, Anthropic, and Google to have third parties confirm they’re following safety standards. Illinois governor JB Pritzker says he’ll sign it.",
+    "category": "research",
+    "image": "https://media.wired.com/photos/6a1769e135f75a644600c4ac/191:100/w_1280,c_limit/Illionois-AI-Safetry-Bill-Business-2270597563.jpg",
     "id": 2
-  },
-  {
-    "title": "Warp’s big bet on building open source with GPT-5.5",
-    "url": "https://openai.com/index/warp",
-    "source": "OpenAI Blog",
-    "date": "2026-05-27",
-    "summary": "Warp uses GPT-5.5 and OpenAI models to coordinate coding agents across local, cloud, and open-source development workflows.",
-    "category": "models",
-    "id": 3
-  },
-  {
-    "title": "Election information and safeguards in 2026",
-    "url": "https://openai.com/index/election-safeguards-2026",
-    "source": "OpenAI Blog",
-    "date": "2026-05-27",
-    "summary": "Ahead of global elections, we’re helping people access information, supporting cyber defenders, and increasing AI transparency",
-    "category": "industry",
-    "id": 4
   },
   {
     "title": "Cisco and OpenAI redefine enterprise engineering with Codex",
@@ -44,7 +27,44 @@
     "date": "2026-05-27",
     "summary": "Cisco and OpenAI are redefining enterprise engineering with Codex, helping Cisco scale AI-native development, accelerate AI Defense work, and automate defect remediation.",
     "category": "industry",
+    "id": 3
+  },
+  {
+    "title": "Building self-improving tax agents with Codex",
+    "url": "https://openai.com/index/building-self-improving-tax-agents-with-codex",
+    "source": "OpenAI Blog",
+    "date": "2026-05-27",
+    "summary": "See how OpenAI, Thrive, and Crete built a self-improving tax agent with Codex, automating filings, improving accuracy, and accelerating workflows.",
+    "category": "industry",
+    "id": 4
+  },
+  {
+    "title": "Election information and safeguards in 2026",
+    "url": "https://openai.com/index/election-safeguards-2026",
+    "source": "OpenAI Blog",
+    "date": "2026-05-27",
+    "summary": "Ahead of global elections, we’re helping people access information, supporting cyber defenders, and increasing AI transparency",
+    "category": "industry",
     "id": 5
+  },
+  {
+    "title": "Warp’s big bet on building open source with GPT-5.5",
+    "url": "https://openai.com/index/warp",
+    "source": "OpenAI Blog",
+    "date": "2026-05-27",
+    "summary": "Warp uses GPT-5.5 and OpenAI models to coordinate coding agents across local, cloud, and open-source development workflows.",
+    "category": "models",
+    "id": 6
+  },
+  {
+    "title": "AI Factories: The New Infrastructure of Intelligence",
+    "url": "https://blogs.nvidia.com/blog/ai-factories-the-new-infrastructure-of-intelligence/",
+    "source": "NVIDIA Blog",
+    "date": "2026-05-27",
+    "summary": "AI factories are token factories, converting power into intelligence in real time. And as agentic AI scales and autonomous, always-on special agents are deployed in the enterprise, performance per wat...",
+    "category": "hardware",
+    "image": "https://blogs.nvidia.com/wp-content/uploads/2026/05/AI_v001-scaled.png",
+    "id": 7
   },
   {
     "title": "AI costs begin to bite as agents may increase token demand by 24 times, says Goldman Sachs report — Uber and Microsoft among companies feeling the bite of tokenized billing",
@@ -54,7 +74,7 @@
     "summary": "Major tech companies are considering refining their approaches to AI, as rising token costs and increased token demand from AI agents make the costs harder to justify, with limited return on the inves...",
     "category": "industry",
     "image": "https://cdn.mos.cms.futurecdn.net/izGqeAVabXUojLqWse4oWK-1280-80.jpg",
-    "id": 6
+    "id": 8
   },
   {
     "title": "Nvidia offers restricted access to Vera CPU in first round of Linux benchmarks - 88-core monster competes with or beats Epyc and Xeon in selected tests",
@@ -64,7 +84,7 @@
     "summary": "NVIDIA's new server CPU doesn't win outright in most tests, but it's running very close to AMD's EPYC, which is incredible for a first-generation custom server core from NVIDIA.",
     "category": "hardware",
     "image": "https://cdn.mos.cms.futurecdn.net/stgRwsudP2gsuUobMgFu3b-1280-80.jpg",
-    "id": 7
+    "id": 9
   },
   {
     "title": "Erin Brockovich starts tracking AI data centers, calls on affected communities to submit issues — website shows more than 2,700 reports from across the US raising various concerns",
@@ -74,7 +94,7 @@
     "summary": "Erin Brockovich, who made her name making a case against PG&E in the '90s that resulted in a $333 million settlement, is now looking at the impact of data center developments on communities and is rec...",
     "category": "hardware",
     "image": "https://cdn.mos.cms.futurecdn.net/XpreZBmhbzk49XygenBx24-1280-80.jpg",
-    "id": 8
+    "id": 10
   },
   {
     "title": "China adds homegrown AI chips to 'secure and reliable' procurement list for the first time — nine options added as move away from Nvidia continues",
@@ -84,7 +104,7 @@
     "summary": "The certifications are valid for three years and were issued jointly by the China Information Technology Security Evaluation Centre and the National Secrecy Science and Technology Evaluation Centre.",
     "category": "hardware",
     "image": "https://cdn.mos.cms.futurecdn.net/Jkou5w3ynsSt9QqVKLHK4e-1280-80.jpg",
-    "id": 9
+    "id": 11
   },
   {
     "title": "SpaceX admits it can't find enough chips for orbital AI yet, requires 'significantly more than are currently available to us' — firm's risk factors in IPO paperwork also says ambitious TeraFab project may not be successful",
@@ -94,7 +114,7 @@
     "summary": "SpaceX warns that it may not secure enough AI hardware to achieve its orbital AI ambitions even with supply from TeraFab. Also, Intel and Tesla may leave the TeraFab project.",
     "category": "hardware",
     "image": "https://cdn.mos.cms.futurecdn.net/voDLanHmcp7is6VSiU2Qea-1280-80.png",
-    "id": 10
+    "id": 12
   },
   {
     "title": "Taiwan authorities arrest three on suspicion of smuggling Nvidia chips to China — operation allegedly used Japan as transshipment point before forwarding banned Supermicro servers to Hong Kong",
@@ -104,7 +124,7 @@
     "summary": "Reports say that the three individuals successfully shipped a batch of banned Nvidia AI chips in Super Micro servers to China from Taiwan to Hong Kong via Japan using falsified documentation.",
     "category": "hardware",
     "image": "https://cdn.mos.cms.futurecdn.net/jYawKxvt8GVp68CXLYbZuF-1280-80.jpg",
-    "id": 11
+    "id": 13
   },
   {
     "title": "Samsung chip workers vote to accept $340,000 average bonus, ending months-long strike threat — resentment over deal has slowed down Samsung foundry division",
@@ -114,7 +134,7 @@
     "summary": "The agreement allocates 10.5% of Samsung's semiconductor division operating profit as stock-based bonuses.",
     "category": "hardware",
     "image": "https://cdn.mos.cms.futurecdn.net/YwsH8NY4SuqAmKZWKAJ3Mj-1280-80.jpg",
-    "id": 12
+    "id": 14
   },
   {
     "title": "Microsoft's GitHub bans security researcher who posted zero-day Windows exploits because company 'ruined their life'  — expert claims action is vindictive and promises further retaliation",
@@ -124,7 +144,7 @@
     "summary": "Microsoft's GitHub bans security researcher who posted zero-day Windows exploits",
     "category": "research",
     "image": "https://cdn.mos.cms.futurecdn.net/zoZh7HwdBpq3Rjbh8BwTMJ-1280-80.jpg",
-    "id": 13
+    "id": 15
   },
   {
     "title": "In more good news for Amazon, Snowflake signs $6B deal with AWS for AI CPU chips",
@@ -134,7 +154,7 @@
     "summary": "Snowflake has signed a new, enormous five-year deal with Amazon to secure chips for AI usage. Nvidia is once again being put on notice.",
     "category": "hardware",
     "image": "https://techcrunch.com/wp-content/uploads/2026/04/dollar-signs-data-center.png?w=1024",
-    "id": 14
+    "id": 16
   },
   {
     "title": "Payroll startup Remote says it grew revenue 50% per employee without adding headcount",
@@ -144,7 +164,7 @@
     "summary": "Payroll service provider Remote recently surpassed $300 million in annual recurring revenue (ARR) and became cash-flow positive, thanks to a 50% increase in revenue per employee resulting from AI adop...",
     "category": "industry",
     "image": "https://techcrunch.com/wp-content/uploads/2024/07/money-firehose.jpg?resize=1200,675",
-    "id": 15
+    "id": 17
   },
   {
     "title": "Your SEO strategy is optimized for a search engine that no longer exists.",
@@ -154,7 +174,7 @@
     "summary": "Google I/O made it official: AI-generated answers are now front and center in search, and most brands have almost no visibility into how AI is describing them to their customers. For anyone who has sp...",
     "category": "industry",
     "image": "https://techcrunch.com/wp-content/uploads/2026/05/google-ai-sign-Getty.jpg?resize=1200,800",
-    "id": 16
+    "id": 18
   },
   {
     "title": "Meta launches Instagram, Facebook, and WhatsApp subscriptions, with more to come, including AI plans",
@@ -164,7 +184,7 @@
     "summary": "Meta is rolling out paid subscription plans for Instagram, Facebook, and WhatsApp worldwide, while also testing new AI, creator, and business-focused offerings under its broader “Meta One” subscriptio...",
     "category": "industry",
     "image": "https://techcrunch.com/wp-content/uploads/2026/05/meta-apps-GettyImages-2164040793.jpg?w=1024",
-    "id": 17
+    "id": 19
   },
   {
     "title": "AI coding startup Cognition raises $1B at $25B pre-money valuation",
@@ -174,7 +194,7 @@
     "summary": "As Cognition reaches $492 million in annualized revenue run rate, it more than doubled its valuation in eight months, it says.",
     "category": "industry",
     "image": "https://techcrunch.com/wp-content/uploads/2025/08/Screenshot-2025-08-05-at-11.02.07AM.png?resize=1200,645",
-    "id": 18
+    "id": 20
   },
   {
     "title": "Startup Battlefield 200 applications close today: Nominate a founder or submit your startup",
@@ -184,7 +204,7 @@
     "summary": "Today is the final day to apply or nominate a startup for Startup Battlefield 200. Once the clock strikes 11:59 p.m. PT, the window closes on your chance to compete for $100,000 in equity-free funding...",
     "category": "industry",
     "image": "https://techcrunch.com/wp-content/uploads/2024/11/54105085427_2cae9d0502_o.jpg?resize=1200,800",
-    "id": 19
+    "id": 21
   },
   {
     "title": "China is increasingly keeping its best AI talent to itself",
@@ -194,7 +214,7 @@
     "summary": "China's AI boom is producing world-class talent, and Beijing is increasingly reluctant to let them go elsewhere.",
     "category": "industry",
     "image": "https://techcrunch.com/wp-content/uploads/2026/04/china-flag-shanghai.jpg?resize=1200,801",
-    "id": 20
+    "id": 22
   },
   {
     "title": "ClickHouse triples annualized revenue to $250M, charting a path toward an IPO",
@@ -204,7 +224,7 @@
     "summary": "The database provider is eyeing a public debut within the next few years.",
     "category": "industry",
     "image": "https://techcrunch.com/wp-content/uploads/2026/05/Screenshot-2026-05-27-at-5.53.09-AM.png?resize=1200,788",
-    "id": 21
+    "id": 23
   },
   {
     "title": "YouTube will now automatically label AI videos",
@@ -214,7 +234,7 @@
     "summary": "YouTube will now automatically label videos that use significant photorealistic AI, instead of relying solely on creators to disclose AI-generated content themselves. It's also making AI labels more p...",
     "category": "industry",
     "image": "https://techcrunch.com/wp-content/uploads/2020/06/GettyImages-1149449083.jpg?resize=1200,800",
-    "id": 22
+    "id": 24
   },
   {
     "title": "Robinhood now lets your AI agents trade stocks",
@@ -224,7 +244,7 @@
     "summary": "While these agents would be able to read and analyze users' portfolios to come up with trading strategies and suggest investments, they'll only be able to access the pre-loaded balance in the dedicate...",
     "category": "industry",
     "image": "https://techcrunch.com/wp-content/uploads/2026/05/Agentic-trading-feat.jpg?resize=1200,675",
-    "id": 23
+    "id": 25
   },
   {
     "title": "Tech CEOs are apparently suffering from AI psychosis",
@@ -234,168 +254,7 @@
     "summary": "\"CEOs are uniquely prone to AI psychosis,\" Box CEO Aaron Levie opines. Maybe that explains the almost religious belief in AI productivity gains.",
     "category": "tools",
     "image": "https://techcrunch.com/wp-content/uploads/2022/11/GettyImages-1265000101.jpg?resize=1200,857",
-    "id": 24
-  },
-  {
-    "title": "AI Infra Is Nothing Like the \"Classic Cloud Infra\"",
-    "url": "https://ramansharma.substack.com/p/ai-infra-is-nothing-like-the-classic",
-    "source": "Hacker News",
-    "date": "2026-05-27",
-    "summary": "Article URL: https://ramansharma.substack.com/p/ai-infra-is-nothing-like-the-classic Comments URL: https://news.ycombinator.com/item?id=48301506 Points: 3 # Comments: 0",
-    "category": "industry",
-    "id": 25
-  },
-  {
-    "title": "Argonne flexes spare supercompute to build private AI inference service",
-    "url": "https://www.theregister.com/ai-ml/2026/05/27/argonne-flexes-spare-supercompute-to-build-private-ai-inference-servic/5247362",
-    "source": "Hacker News",
-    "date": "2026-05-27",
-    "summary": "Article URL: https://www.theregister.com/ai-ml/2026/05/27/argonne-flexes-spare-supercompute-to-build-private-ai-inference-servic/5247362 Comments URL: https://news.ycombinator.com/item?id=48301437 Poi...",
-    "category": "industry",
-    "image": "https://image.theregister.com/232762.jpg?imageId=232762&x=0&y=0&cropw=100&croph=100&panox=0&panoy=0&panow=100&panoh=100&width=1200&height=683",
     "id": 26
-  },
-  {
-    "title": "Sam Altman and Dario Amodei are walking back their AI jobs apocalypse prophecies",
-    "url": "https://fortune.com/2026/05/26/sam-altman-dario-amodei-walking-back-ai-jobs-apocalypse-prophecies-ipo/",
-    "source": "Hacker News",
-    "date": "2026-05-27",
-    "summary": "Article URL: https://fortune.com/2026/05/26/sam-altman-dario-amodei-walking-back-ai-jobs-apocalypse-prophecies-ipo/ Comments URL: https://news.ycombinator.com/item?id=48300969 Points: 5 # Comments: 0",
-    "category": "industry",
-    "image": "https://fortune.com/img-assets/wp-content/uploads/2026/05/GettyImages-2265445220-e1779827097282.jpg?resize=1200,600",
-    "id": 27
-  },
-  {
-    "title": "AI Threatens the Giants of Consulting",
-    "url": "https://www.ft.com/content/d82d2a5c-74ab-4eb9-a658-fd5467e71670",
-    "source": "Hacker News",
-    "date": "2026-05-27",
-    "summary": "Article URL: https://www.ft.com/content/d82d2a5c-74ab-4eb9-a658-fd5467e71670 Comments URL: https://news.ycombinator.com/item?id=48300568 Points: 5 # Comments: 0",
-    "category": "industry",
-    "id": 28
-  },
-  {
-    "title": "Show HN: VAEN – Package and import portable AI coding-agent Harnesses",
-    "url": "https://github.com/sjhalani7/vaen",
-    "source": "Hacker News",
-    "date": "2026-05-27",
-    "summary": "Hi HN, I built VAEN (an open source CLI) because I kept running into a boring problem with AI coding-agent workflows: the setup becomes useful, but then it is hard to move. A good, useful agentic harn...",
-    "category": "models",
-    "image": "https://opengraph.githubassets.com/34a15b672b59c0917b98bbd625523f517f0ee413466027fc135c5a032e9d2b48/sjhalani7/vaen",
-    "id": 29
-  },
-  {
-    "title": "Your AI agent can now trade for you on Robinhood",
-    "url": "https://www.cnbc.com/2026/05/27/your-ai-agent-can-now-trade-for-you-on-robinhood-and-buy-stuff-with-your-credit-card-too.html",
-    "source": "Hacker News",
-    "date": "2026-05-27",
-    "summary": "Article URL: https://www.cnbc.com/2026/05/27/your-ai-agent-can-now-trade-for-you-on-robinhood-and-buy-stuff-with-your-credit-card-too.html Comments URL: https://news.ycombinator.com/item?id=48300295 P...",
-    "category": "industry",
-    "image": "https://image.cnbcfm.com/api/v1/image/108274148-17727167412026-03-05t022022z_1094946123_rc20yjac7yfj_rtrmadp_0_robinhood-usa.jpeg?v=1772716767&w=1920&h=1080",
-    "id": 30
-  },
-  {
-    "title": "Show HN: Open-Source AI Racing Harness",
-    "url": "https://www.elodin.systems/post/elodin-ai-grand-prix-race-sim-harness",
-    "source": "Hacker News",
-    "date": "2026-05-27",
-    "summary": "Hi I'm Dan from Elodin, making an open source real-time capable flight software simulation. For AI Grand Prix contestants, the wait for the Round 1 virtual qualifier simulation has been grueling. If y...",
-    "category": "tools",
-    "id": 31
-  },
-  {
-    "title": "From AI Interest to a Working System: How SMBs Can Start with AI",
-    "url": "https://blog.nemausat.com/from-ai-interest-to-a-working-system",
-    "source": "Hacker News",
-    "date": "2026-05-27",
-    "summary": "Article URL: https://blog.nemausat.com/from-ai-interest-to-a-working-system Comments URL: https://news.ycombinator.com/item?id=48300233 Points: 1 # Comments: 0",
-    "category": "industry",
-    "id": 32
-  },
-  {
-    "title": "AgentMRR: A verified revenue leaderboard for AI agents",
-    "url": "https://agentmrr.com/",
-    "source": "Hacker News",
-    "date": "2026-05-27",
-    "summary": "Article URL: https://agentmrr.com/ Comments URL: https://news.ycombinator.com/item?id=48300036 Points: 2 # Comments: 0",
-    "category": "industry",
-    "image": "https://agentmrr.com/og/default.png",
-    "id": 33
-  },
-  {
-    "title": "AI hiring algorithms reject Black, Asian job seekers at higher rates",
-    "url": "https://www.theregister.com/ai-ml/2026/05/27/ai-hiring-algorithms-reject-black-asian-job-seekers-at-higher-rates/5247387",
-    "source": "Hacker News",
-    "date": "2026-05-27",
-    "summary": "Article URL: https://www.theregister.com/ai-ml/2026/05/27/ai-hiring-algorithms-reject-black-asian-job-seekers-at-higher-rates/5247387 Comments URL: https://news.ycombinator.com/item?id=48300024 Points...",
-    "category": "research",
-    "image": "https://image.theregister.com/5247407.jpg?imageId=5247407&x=0&y=0&cropw=100&croph=100&panox=0&panoy=0&panow=100&panoh=100&width=1200&height=683",
-    "id": 34
-  },
-  {
-    "title": "Proton Pass for AI Agents",
-    "url": "https://proton.me/blog/pass-access-tokens",
-    "source": "Hacker News",
-    "date": "2026-05-27",
-    "summary": "Article URL: https://proton.me/blog/pass-access-tokens Comments URL: https://news.ycombinator.com/item?id=48299979 Points: 3 # Comments: 0",
-    "category": "industry",
-    "image": "https://pmecdn.protonweb.com/image-transformation/?s=c&image=images%2Ff_auto%2Cq_auto%2Fv1779096401%2Fwp-pme%2F20260511-pass_ai-agent-token-1%2F20260511-pass_ai-agent-token-1.jpg%3F_i%3DAA",
-    "id": 35
-  },
-  {
-    "title": "YouTube to automatically label AI-generated videos",
-    "url": "https://blog.youtube/news-and-events/improving-ai-labels-viewers-creators/",
-    "source": "Hacker News",
-    "date": "2026-05-27",
-    "summary": "https://variety.com/2026/digital/news/youtube-ai-video-label... Comments URL: https://news.ycombinator.com/item?id=48299753 Points: 355 # Comments: 182",
-    "category": "industry",
-    "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/en_HowThisWasMade_WithPopout.max-1440x810.png",
-    "id": 36
-  },
-  {
-    "title": "I added vi-modal bindings to my blog, a Chinese AI helped me do it",
-    "url": "https://gigatexal.blog/",
-    "source": "Hacker News",
-    "date": "2026-05-27",
-    "summary": "Article URL: https://gigatexal.blog/ Comments URL: https://news.ycombinator.com/item?id=48299752 Points: 3 # Comments: 1",
-    "category": "industry",
-    "id": 37
-  },
-  {
-    "title": "DeepSeek lowers API prices by 75% while other AI labs increase prices 2–3x [video]",
-    "url": "https://www.youtube.com/watch?v=HDMqDV7mmGo",
-    "source": "Hacker News",
-    "date": "2026-05-27",
-    "summary": "Article URL: https://www.youtube.com/watch?v=HDMqDV7mmGo Comments URL: https://news.ycombinator.com/item?id=48299685 Points: 6 # Comments: 0",
-    "category": "models",
-    "id": 38
-  },
-  {
-    "title": "Aithos LARA: Leading AI models are consistently breaking the law",
-    "url": "https://aithos.org/article/Aithos-LARA/",
-    "source": "Hacker News",
-    "date": "2026-05-27",
-    "summary": "Article URL: https://aithos.org/article/Aithos-LARA/ Comments URL: https://news.ycombinator.com/item?id=48299609 Points: 3 # Comments: 0",
-    "category": "industry",
-    "id": 39
-  },
-  {
-    "title": "What to do when AI is quietly making you worse",
-    "url": "https://vtorosyan.gitHub.io/ai-making-worse/",
-    "source": "Hacker News",
-    "date": "2026-05-27",
-    "summary": "Article URL: https://vtorosyan.gitHub.io/ai-making-worse/ Comments URL: https://news.ycombinator.com/item?id=48299558 Points: 2 # Comments: 0",
-    "category": "industry",
-    "id": 40
-  },
-  {
-    "title": "AI coding agents are installing packages no one owns",
-    "url": "https://thenewstack.io/aikido-ai-agents-security/",
-    "source": "Hacker News",
-    "date": "2026-05-27",
-    "summary": "Article URL: https://thenewstack.io/aikido-ai-agents-security/ Comments URL: https://news.ycombinator.com/item?id=48299458 Points: 4 # Comments: 0",
-    "category": "industry",
-    "id": 41
   },
   {
     "title": "The Download: keeping up with AI, and the future of IVF",
@@ -405,7 +264,7 @@
     "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. Stay on top of what’s going on in AI this summer Here at MIT T...",
     "category": "hardware",
     "image": "https://wp.technologyreview.com/wp-content/uploads/2026/05/Screenshot-2026-05-27-at-12.49.53.png?resize=1200,600",
-    "id": 42
+    "id": 27
   },
   {
     "title": "Former Google and Apple Researchers Launch a Startup to Build AI’s Missing Feedback Loop",
@@ -415,7 +274,7 @@
     "summary": "Trajectory is betting the rapid iteration cycle that supercharged vibe-coding can help all kinds of companies build AI products that learn continuously.",
     "category": "research",
     "image": "https://media.wired.com/photos/6a15ed31ceac52c54a0384c0/191:100/w_1280,c_limit/Model-Behavior-Ex-Google-Apple-AI-Researchers-Want-to-Make-AI-That-Gets-Smarter-as-You-Use-It-Business.jpg",
-    "id": 43
+    "id": 28
   },
   {
     "title": "BrickAnything: Geometry-Conditioned Buildable Brick Generation with Structure-Aware Tokenization",
@@ -424,7 +283,7 @@
     "date": "2026-05-27",
     "summary": "Generating physically buildable brick structures from 3D shapes requires more than geometric reconstruction: the output must also satisfy discrete part constraints and structural stability. Existing b...",
     "category": "hardware",
-    "id": 44
+    "id": 29
   },
   {
     "title": "Can LLMs Introspect? A Reality Check",
@@ -433,7 +292,7 @@
     "date": "2026-05-27",
     "summary": "Can large language models detect and report their own internal states? A number of studies have argued that the answer to this question is yes. We argue, based on lessons from human metacognition rese...",
     "category": "models",
-    "id": 45
+    "id": 30
   },
   {
     "title": "Is Agent Memory a Database? Rethinking Data Foundations for Long-Term AI Agent Memory",
@@ -442,7 +301,7 @@
     "date": "2026-05-27",
     "summary": "Long-running AI agents need persistent memory. Memory supports learning across sessions, reduces repeated context injection, and enables auditing of past decisions. Current agent memory systems and da...",
     "category": "research",
-    "id": 46
+    "id": 31
   },
   {
     "title": "Personalizing Embodied Multimodal Large Language Model Agents over Long-term User Interactions",
@@ -451,7 +310,7 @@
     "date": "2026-05-27",
     "summary": "Multimodal large language model (MLLM)-based embodied agents have shown strong potential for solving complex tasks in physical environments. However, personalized assistance requires more than followi...",
     "category": "models",
-    "id": 47
+    "id": 32
   },
   {
     "title": "Constraint acquisition needs better benchmarks",
@@ -460,7 +319,7 @@
     "date": "2026-05-27",
     "summary": "Constraint Acquisition (CA) and related research on the validation and enhancement of Mathematical Programming (MP) models from domain knowledge artifacts are currently limited by inadequate benchmark...",
     "category": "research",
-    "id": 48
+    "id": 33
   },
   {
     "title": "Your Agents Are Aging Too: Agent Lifespan Engineering for Deployed Systems",
@@ -469,7 +328,7 @@
     "date": "2026-05-27",
     "summary": "Long-lived AI agents are increasingly deployed as persistent operational systems, yet they are still evaluated like freshly initialized models. Day-one benchmarks miss a basic systems question: how lo...",
     "category": "hardware",
-    "id": 49
+    "id": 34
   },
   {
     "title": "Experiments in Agentic AI for Science",
@@ -477,6 +336,141 @@
     "source": "arXiv cs.AI",
     "date": "2026-05-27",
     "summary": "This paper details two novel frameworks for developing autonomous, agentic AI in scientific workflows. Both systems leverage a hybrid Local Body, Remote Brain architecture via Google Colab, utilizing ...",
+    "category": "research",
+    "id": 35
+  },
+  {
+    "title": "Anchor: Mitigating Artifact Drift in Agent Benchmark Generation",
+    "url": "https://arxiv.org/abs/2605.26321",
+    "source": "arXiv cs.AI",
+    "date": "2026-05-27",
+    "summary": "AI agents are beginning to complete valuable, long-horizon business operations tasks, but training and evaluation environments for enterprise work still struggle to balance realism, verifiability, and...",
+    "category": "models",
+    "id": 36
+  },
+  {
+    "title": "OmniToM: Benchmarking Theory of Mind in LLMs via Explicit Belief Modeling",
+    "url": "https://arxiv.org/abs/2605.26322",
+    "source": "arXiv cs.AI",
+    "date": "2026-05-27",
+    "summary": "Theory of Mind (ToM), the ability to infer others' knowledge, intentions, and emotions, is commonly evaluated in large language models (LLMs) using end-point question answering, where performance is j...",
+    "category": "research",
+    "id": 37
+  },
+  {
+    "title": "JobBench: Aligning Agent Work With Human Will",
+    "url": "https://arxiv.org/abs/2605.26329",
+    "source": "arXiv cs.AI",
+    "date": "2026-05-27",
+    "summary": "Current benchmarks for occupational AI agents are scoped primarily by economic values, telling a replacement story. We introduce JobBench, which evaluates AI agents on the workflows that experts ident...",
+    "category": "models",
+    "id": 38
+  },
+  {
+    "title": "Managing Uncertainty in LLM-Generated Procedural Knowledge for Virtual Laboratory Planning",
+    "url": "https://arxiv.org/abs/2605.26333",
+    "source": "arXiv cs.AI",
+    "date": "2026-05-27",
+    "summary": "Educational virtual laboratories can make experimental training more scala-ble, adaptive, and accessible, especially when students have limited access to physical laboratory facilities. However, autho...",
+    "category": "models",
+    "id": 39
+  },
+  {
+    "title": "ScientistOne: Towards Human-Level Autonomous Research via Chain-of-Evidence",
+    "url": "https://arxiv.org/abs/2605.26340",
+    "source": "arXiv cs.AI",
+    "date": "2026-05-27",
+    "summary": "Autonomous research agents produce competitive solutions and professional-looking manuscripts, yet their outputs contain verifiability failures undetectable by surface-level evaluation: fabricated cit...",
+    "category": "research",
+    "id": 40
+  },
+  {
+    "title": "Automatic Layer Selection for Hallucination Detection",
+    "url": "https://arxiv.org/abs/2605.26366",
+    "source": "arXiv cs.AI",
+    "date": "2026-05-27",
+    "summary": "Recent studies on hallucination detection have shown that hallucination-related signals are more strongly encoded in intermediate layers than in the final layer of large language models (LLMs). Althou...",
+    "category": "models",
+    "id": 41
+  },
+  {
+    "title": "Exploiting Local Dynamics Regularity for Reusable Skills in Offline Hierarchical RL",
+    "url": "https://arxiv.org/abs/2605.26371",
+    "source": "arXiv cs.AI",
+    "date": "2026-05-27",
+    "summary": "Hierarchical Reinforcement Learning (HRL) promises to solve long-horizon Reinforcement Learning (RL) tasks more efficiently than non-hierarchical counterparts by discovering and reusing temporally-ext...",
+    "category": "research",
+    "id": 42
+  },
+  {
+    "title": "Advancing Creative Physical Intelligence in Large Multimodal Models",
+    "url": "https://arxiv.org/abs/2605.26396",
+    "source": "arXiv cs.AI",
+    "date": "2026-05-27",
+    "summary": "Large multimodal models (LMMs) have rapidly advanced in perception and reasoning; however, it remains unclear whether these capabilities generalize to discovering visually grounded solutions in open-e...",
+    "category": "research",
+    "id": 43
+  },
+  {
+    "title": "From Static Context to Calibrated Interactive RL: Mitigating Distribution Shift in Multi-turn Dialogue with Aligned Simulator",
+    "url": "https://arxiv.org/abs/2605.26403",
+    "source": "arXiv cs.AI",
+    "date": "2026-05-27",
+    "summary": "A long-standing goal of the research community is to develop highly interactive LLM-based dialogue agents. Recent research focuses on optimizing policies based on fixed offline logs (Static Context RL...",
+    "category": "research",
+    "id": 44
+  },
+  {
+    "title": "Reasoning, Code, or Both? How Large Language Models Handle Variations in Math Questions",
+    "url": "https://arxiv.org/abs/2605.26414",
+    "source": "arXiv cs.AI",
+    "date": "2026-05-27",
+    "summary": "Large Language Models (LLMs) achieve impressive accuracy on mathematical reasoning benchmarks, yet their performance drops when problems are modified with simple changes like different names or number...",
+    "category": "models",
+    "id": 45
+  },
+  {
+    "title": "The MiniMax-M2 Series: Mini Activations Unleashing Max Real-World Intelligence",
+    "url": "https://arxiv.org/abs/2605.26494",
+    "source": "arXiv cs.AI",
+    "date": "2026-05-27",
+    "summary": "We introduce the MiniMax-M2 series, a family of Mixture-of-Experts language models built around the principle that mini activations can unleash maximum real-world intelligence. The flagship M2 contain...",
+    "category": "models",
+    "id": 46
+  },
+  {
+    "title": "Which Changes Matter? Towards Trustworthy Legal AI via Relevance-Sensitive Evaluation and Solver-Grounded Reasoning",
+    "url": "https://arxiv.org/abs/2605.26530",
+    "source": "arXiv cs.AI",
+    "date": "2026-05-27",
+    "summary": "Legal reasoning requires distinguishing changes that matter from those that do not. Legal AI should remain stable under legally irrelevant perturbations, but should change when perturbations alter leg...",
+    "category": "research",
+    "id": 47
+  },
+  {
+    "title": "PolyFusionAgent: A Multimodal Foundation Model and Autonomous AI Assistant for Polymer Property Prediction and Inverse Design",
+    "url": "https://arxiv.org/abs/2605.26543",
+    "source": "arXiv cs.AI",
+    "date": "2026-05-27",
+    "summary": "Polymer discovery is central to fields ranging from energy storage to biomedicine, but it is hindered by an astronomically large chemical design space and fragmented representations of structure, prop...",
+    "category": "models",
+    "id": 48
+  },
+  {
+    "title": "MobileExplorer: Accelerating On-Device Inference for Mobile GUI Agents via Online Exploration",
+    "url": "https://arxiv.org/abs/2605.26546",
+    "source": "arXiv cs.AI",
+    "date": "2026-05-27",
+    "summary": "Mobile graphical user interface (GUI) agents enable AI models to autonomously operate smartphones on behalf of users. However, most existing systems focus primarily on optimizing task accuracy and rel...",
+    "category": "research",
+    "id": 49
+  },
+  {
+    "title": "MedGuideX: Internalizing Decision Logic from Executable Guidelines into Large Language Models for Clinical Reasoning",
+    "url": "https://arxiv.org/abs/2605.26567",
+    "source": "arXiv cs.AI",
+    "date": "2026-05-27",
+    "summary": "Clinical practice guidelines (CPGs) encode evidence-based decision logic that clinicians apply by evaluating patient variables, conditional criteria, and recommendation rules. However, existing method...",
     "category": "research",
     "id": 50
   }
