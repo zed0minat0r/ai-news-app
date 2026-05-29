@@ -1,14 +1,23 @@
 [
   {
-    "title": "Check out real-life AI prototypes from the Futures Lab.",
-    "url": "https://blog.google/innovation-and-ai/technology/ai/university-waterloo-labs/",
+    "title": "Take our I/O 2026 quiz, vibe coded in Google AI Studio.",
+    "url": "https://blog.google/innovation-and-ai/technology/ai/io-2026-vibe-coded-quiz/",
     "source": "Google AI Blog",
     "date": "2026-05-29",
-    "summary": "University of Waterloo students develop AI prototypes like sign language tutors to reshape the future of education and work.",
+    "summary": "We used Google AI Studio to vibe code a quiz about our top I/O 2026 announcements.",
     "category": "industry",
-    "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/FutureLabs_social.max-600x600.format-webp.webp",
+    "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/IOQuiz2026_social.max-600x600.format-webp.webp",
     "id": 1,
     "featured": true
+  },
+  {
+    "title": "How Braintrust turns customer requests into code with Codex",
+    "url": "https://openai.com/index/braintrust",
+    "source": "OpenAI Blog",
+    "date": "2026-05-29",
+    "summary": "How Braintrust engineers use Codex with GPT-5.5 to run experiments and code faster.",
+    "category": "models",
+    "id": 2
   },
   {
     "title": "Strengthening societal resilience with Rosalind Biodefense",
@@ -17,7 +26,65 @@
     "date": "2026-05-29",
     "summary": "OpenAI launches Rosalind Biodefense, expanding trusted access to GPT-Rosalind for vetted developers and U.S. government partners advancing biodefense, public health, and pandemic preparedness through ...",
     "category": "models",
-    "id": 2
+    "id": 3
+  },
+  {
+    "title": "A shared playbook for trustworthy third party evaluations",
+    "url": "https://openai.com/index/trustworthy-third-party-evaluations-foundations",
+    "source": "OpenAI Blog",
+    "date": "2026-05-29",
+    "summary": "OpenAI shares guidance on third-party AI evaluations, covering how to assess model capabilities, safeguards, and validity for frontier systems.",
+    "category": "research",
+    "id": 4
+  },
+  {
+    "title": "Boston Children’s uses AI to unlock new diagnoses",
+    "url": "https://openai.com/index/boston-childrens-hospital",
+    "source": "OpenAI Blog",
+    "date": "2026-05-29",
+    "summary": "Boston Children’s Hospital uses OpenAI technology to improve patient care, reduce operational burden, and help diagnose more than 40 rare disease cases.",
+    "category": "industry",
+    "id": 5
+  },
+  {
+    "title": "9 demos of Gemini Omni and Gemini 3.5 in action",
+    "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-omni-3-5-videos/",
+    "source": "Google AI Blog",
+    "date": "2026-05-29",
+    "summary": "Watch 9 videos showing the capabilities of Gemini Omni and Gemini 3.5, announced at Google I/O 2026.",
+    "category": "models",
+    "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Gemini_Omni_and_Gemini_3.5_hero.max-600x600.format-webp.webp",
+    "id": 6
+  },
+  {
+    "title": "Check out real-life AI prototypes from the Futures Lab.",
+    "url": "https://blog.google/innovation-and-ai/technology/ai/university-waterloo-labs/",
+    "source": "Google AI Blog",
+    "date": "2026-05-29",
+    "summary": "University of Waterloo students develop AI prototypes like sign language tutors to reshape the future of education and work.",
+    "category": "industry",
+    "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/FutureLabs_social.max-600x600.format-webp.webp",
+    "id": 7
+  },
+  {
+    "title": "Nvidia and Microsoft tease \"a new era of PC\" ahead of Computex 2026 — coordinated social media posts could indicate that rumored N1X laptops will be Windows on Arm systems",
+    "url": "https://www.tomshardware.com/laptops/nvidia-and-microsoft-tease-a-new-era-of-pc-ahead-of-computex-2026-coordinated-social-media-posts-could-indicate-that-rumored-n1x-laptops-will-be-windows-on-arm-systems",
+    "source": "Tom's Hardware",
+    "date": "2026-05-29",
+    "summary": "An Nvidia-powered Arm PC running Windows could inspire new local AI experiences beyond Copilot+.",
+    "category": "hardware",
+    "image": "https://cdn.mos.cms.futurecdn.net/Cp3pwQj6c3BuvJ3XzYaXQV-1280-80.webp",
+    "id": 8
+  },
+  {
+    "title": "TikTok owner ByteDance is reportedly developing its own custom AI CPUs — company looks to ease China's dependence on US chipmakers",
+    "url": "https://www.tomshardware.com/tech-industry/semiconductors/tiktok-owner-bytedance-is-reportedly-developing-its-own-custom-ai-cpus-company-looks-to-ease-chinas-dependence-on-us-chipmakers",
+    "source": "Tom's Hardware",
+    "date": "2026-05-29",
+    "summary": "TikTok owner Bytedance reportedly developing its own custom CPUs in a bid to reduce costs and dependence from US chipmakers",
+    "category": "hardware",
+    "image": "https://cdn.mos.cms.futurecdn.net/adVwcJnwbx2jdyHWYU4LhZ-1280-80.jpg",
+    "id": 9
   },
   {
     "title": "Cooler Master is bringing active cooling to DDR5 RAM, promising up to 15-degree temperature drops — 'MasterDIMM' combines G.SKILL memory with a built-in fan, kits run up to 128GB",
@@ -27,7 +94,7 @@
     "summary": "Cooler Master and G.Skill are launching \"MasterDIMM\" — a new line of DDR5 memory sticks that comes enveloped in a stylishly-thick black and gold heatsink that features a blower fan. Two RGB stripes ru...",
     "category": "hardware",
     "image": "https://cdn.mos.cms.futurecdn.net/4VqCyCGeRuhr8f5ywohgzR-1280-80.jpg",
-    "id": 3
+    "id": 10
   },
   {
     "title": "Amazon unveils 'Resilient Network Graphs' data center network that cuts hardware by 69% and boosts throughput by 33% — now the default for most AWS workloads",
@@ -37,7 +104,7 @@
     "summary": "AWS has revealed RNG, a new random-graph-based data center network that delivers 33% higher throughput, cuts network power consumption by 40%, uses 69% fewer devices, and is already the default archit...",
     "category": "hardware",
     "image": "https://cdn.mos.cms.futurecdn.net/RSehTW2oDYtFQurj9iJ5cS-1280-80.jpg",
-    "id": 4
+    "id": 11
   },
   {
     "title": "Acer unveils its first Ryzen 9 9955X3D gaming laptop — refreshed Nitro 16 joins new Predator Helios 18 AI and streaming-only Nitro Blaze Link handheld",
@@ -47,7 +114,7 @@
     "summary": "Acer has two new gaming laptops for Computex, including its first laptop with the Ryzen 9 9955HX3D CPU, and a device that sports triple PCIe 5.0 storage.",
     "category": "hardware",
     "image": "https://cdn.mos.cms.futurecdn.net/vPjK9vQ39jUcE7ZU9aCZFj-1280-80.jpg",
-    "id": 5
+    "id": 12
   },
   {
     "title": "Pocket a huge $252 saving on a two-year PIA VPN subscription and score two months for free — 88% discount on no-logs provider with servers in 90 different countries and support for unlimited connections",
@@ -57,7 +124,7 @@
     "summary": "Grab this PIA 2-year VPN deal for only $34.58 and save a massive $252.22 compared to a standard monthly sub, unlocking access to privacy-protecting connections online for the equivalent of just $1.33 ...",
     "category": "hardware",
     "image": "https://cdn.mos.cms.futurecdn.net/bQcQfFU3vPzYhRtcMtBB4m-1280-80.png",
-    "id": 6
+    "id": 13
   },
   {
     "title": "New Silicon Motion SM2524XT chip brings 14 GB/s to mainstream SSDs — 6nm DRAMless controller boasts heavy AI PC optimization and slashes KV cache latency",
@@ -67,7 +134,7 @@
     "summary": "Silicon Motion announces its SM2524XT mainstream SSD controller that promises 14 GB/s read speed, up to 2.5 million random IOPS, and sustained random performance.",
     "category": "hardware",
     "image": "https://cdn.mos.cms.futurecdn.net/TU9EDG87KkSbJVcVsxuFmU-1280-80.jpg",
-    "id": 7
+    "id": 14
   },
   {
     "title": "Independent cyber audit finds zero malware or backdoors in DJI drones — U.S. firm's hardware analysis challenges FCC ban amid ongoing $1.56 billion legal battle",
@@ -77,7 +144,7 @@
     "summary": "DJI has published the results of an independent security assessment by U.S. cybersecurity firm OnDefend.",
     "category": "industry",
     "image": "https://cdn.mos.cms.futurecdn.net/TAcUHzfy8xzPUBAcDy2Df8-1280-80.jpg",
-    "id": 8
+    "id": 15
   },
   {
     "title": "Startup unveils underwater drone designed for protecting undersea cables — small drone dives to 1,640 feet, comes with four-hour battery endurance or unlimited range when tethered to surface power source",
@@ -87,7 +154,7 @@
     "summary": "A British-New Zealand startup revealed an AI-powered undersea drone designed to for patrolling undersea infrastructure. It's powered by an autonomous software stack that allows a single operator to co...",
     "category": "industry",
     "image": "https://cdn.mos.cms.futurecdn.net/SRYiAyMD3KZoShx8QJjJre-1280-80.png",
-    "id": 9
+    "id": 16
   },
   {
     "title": "Mystery company accidentally blew $500 million on Claude AI in a single month — failed to put usage limit on licenses for employees",
@@ -97,7 +164,7 @@
     "summary": "A new report cites an AI consultant claiming a client accidentally spent $500,000,000 on Claude in a single month.",
     "category": "models",
     "image": "https://cdn.mos.cms.futurecdn.net/x6ncGS6uofFfg45ekfiJrc-1280-80.jpg",
-    "id": 10
+    "id": 17
   },
   {
     "title": "Microsoft warns GPU mining malware is being spread to users through SEO poisoning and AI chatbots — cryptojacking campaign targets gamers and high-end PC users with downloads disguised as popular PC utilities",
@@ -107,7 +174,57 @@
     "summary": "Microsoft has uncovered a GPU-focused cryptojacking campaign that used SEO poisoning and, in some cases, AI chatbot software recommendations to spread malware disguised as popular PC utilities like HW...",
     "category": "hardware",
     "image": "https://cdn.mos.cms.futurecdn.net/ESTHX56Yy7gyNJmjbMXDbk-1280-80.jpg",
-    "id": 11
+    "id": 18
+  },
+  {
+    "title": "So you’ve heard these AI terms and nodded along; let’s fix that",
+    "url": "https://techcrunch.com/2026/05/29/artificial-intelligence-definition-glossary-hallucinations-guide-to-common-ai-terms/",
+    "source": "TechCrunch",
+    "date": "2026-05-29",
+    "summary": "The rise of AI has brought an avalanche of new terms and slang. Here is a glossary with definitions of some of the most important words and phrases you might encounter.",
+    "category": "industry",
+    "image": "https://techcrunch.com/wp-content/uploads/2025/03/GettyImages-ai-generated-eb728837-4a65-4ce4-b814-abd0c140d20c.jpg?w=1024",
+    "id": 19
+  },
+  {
+    "title": "What happens when companies become too AI-pilled?",
+    "url": "https://techcrunch.com/video/what-happens-when-companies-become-too-ai-pilled/",
+    "source": "TechCrunch",
+    "date": "2026-05-29",
+    "summary": "The people deciding that AI can replace your job are also the ones least likely to understand what your job truly involves, according to Box founder Aaron Levie, who pointed to this as an example of “...",
+    "category": "industry",
+    "image": "https://techcrunch.com/wp-content/uploads/2025/10/2244026103.jpg?resize=1200,800",
+    "id": 20
+  },
+  {
+    "title": "After Nvidia’s $20B not-aqui-hire, AI chip startup Groq reportedly raising $650M",
+    "url": "https://techcrunch.com/2026/05/29/after-nvidias-20b-not-aqui-hire-ai-chip-startup-groq-reportedly-raising-650m/",
+    "source": "TechCrunch",
+    "date": "2026-05-29",
+    "summary": "Chipmaker Groq is looking to raise $650 million in internal funding as it pivots from hardware to focus more on AI inference, the process of refining the way AI models respond to prompted requests, pe...",
+    "category": "industry",
+    "image": "https://techcrunch.com/wp-content/uploads/2024/03/GettyImages-1502217391.jpg?resize=1200,800",
+    "id": 21
+  },
+  {
+    "title": "Cognition’s Scott Wu says AI coding agents shouldn’t replace humans",
+    "url": "https://techcrunch.com/2026/05/29/cognitions-scott-wu-says-ai-coding-agents-shouldnt-replace-humans/",
+    "source": "TechCrunch",
+    "date": "2026-05-29",
+    "summary": "Cognition makes Devin, the first and arguably most successful AI coding agent. But famed coder Wu says it isn't designed to supplant human programmers.",
+    "category": "industry",
+    "image": "https://techcrunch.com/wp-content/uploads/2026/05/Scott-wu-headshot-e1780070238342.png?resize=1200,1004",
+    "id": 22
+  },
+  {
+    "title": "Kiwibit’s AI-powered bird feeder is my new backyard buddy",
+    "url": "https://techcrunch.com/2026/05/29/kiwibits-ai-powered-bird-feeder-is-my-new-backyard-buddy/",
+    "source": "TechCrunch",
+    "date": "2026-05-29",
+    "summary": "If you're looking for a fun way to connect with nature while collecting bird species on an app like Pokémon, give this smart feeder a try.",
+    "category": "industry",
+    "image": "https://techcrunch.com/wp-content/uploads/2026/05/Solar-Roof-Beako-Lifestyle-Image-3.png?w=1200",
+    "id": 23
   },
   {
     "title": "This chip startup just raised $135M on a bet that AI’s biggest bottleneck isn’t compute — it’s memory",
@@ -117,7 +234,7 @@
     "summary": "South Korean chip startup XCENA is betting that AI's real bottleneck is not compute, but memory.",
     "category": "hardware",
     "image": "https://techcrunch.com/wp-content/uploads/2026/05/MX1P_CSB_REV20_-2_black.jpg?resize=1200,750",
-    "id": 12
+    "id": 24
   },
   {
     "title": "Glean’s top line crosses $300M as AI budget cutting becomes its major selling point",
@@ -127,185 +244,7 @@
     "summary": "The enterprise AI search startup tripled its annual revenue even as tech giants entered the category.",
     "category": "industry",
     "image": "https://techcrunch.com/wp-content/uploads/2026/02/GettyImages-2259183614.jpg?resize=1200,800",
-    "id": 13
-  },
-  {
-    "title": "HTTP Streaming and AI",
-    "url": "https://ably.com/docs/ai-transport/why/http-streaming-and-ai",
-    "source": "Hacker News",
-    "date": "2026-05-29",
-    "summary": "Article URL: https://ably.com/docs/ai-transport/why/http-streaming-and-ai Comments URL: https://news.ycombinator.com/item?id=48324538 Points: 1 # Comments: 0",
-    "category": "industry",
-    "id": 14
-  },
-  {
-    "title": "Show HN: Agent Memory Guard – OWASP defense for AI agent memory poisoning",
-    "url": "https://github.com/OWASP/www-project-agent-memory-guard",
-    "source": "Hacker News",
-    "date": "2026-05-29",
-    "summary": "Article URL: https://github.com/OWASP/www-project-agent-memory-guard Comments URL: https://news.ycombinator.com/item?id=48324512 Points: 1 # Comments: 0",
-    "category": "hardware",
-    "image": "https://opengraph.githubassets.com/72ac3d4a71d7249769a84ef14c5389c832b1e0469d10c139dea9d5040550acad/OWASP/www-project-agent-memory-guard",
-    "id": 15
-  },
-  {
-    "title": "When AI starts writing systems code",
-    "url": "https://www.coreauto.com/blog/when-ai-starts-writing-systems-code",
-    "source": "Hacker News",
-    "date": "2026-05-29",
-    "summary": "Article URL: https://www.coreauto.com/blog/when-ai-starts-writing-systems-code Comments URL: https://news.ycombinator.com/item?id=48324381 Points: 1 # Comments: 0",
-    "category": "industry",
-    "id": 16
-  },
-  {
-    "title": "Brilliant launches AI tutor to get kids to think",
-    "url": "https://twitter.com/suekhim/status/2060378988606878147",
-    "source": "Hacker News",
-    "date": "2026-05-29",
-    "summary": "Article URL: https://twitter.com/suekhim/status/2060378988606878147 Comments URL: https://news.ycombinator.com/item?id=48324357 Points: 10 # Comments: 0",
-    "category": "industry",
-    "id": 17
-  },
-  {
-    "title": "Does AI Make Totalitarianism More Likely?",
-    "url": "https://demonstrandom.com/essays/posts/ai_totalitarianism/",
-    "source": "Hacker News",
-    "date": "2026-05-29",
-    "summary": "Article URL: https://demonstrandom.com/essays/posts/ai_totalitarianism/ Comments URL: https://news.ycombinator.com/item?id=48324319 Points: 2 # Comments: 3",
-    "category": "industry",
-    "id": 18
-  },
-  {
-    "title": "The literary world is sleepwalking into an AI disaster",
-    "url": "https://www.theargumentmag.com/p/the-literary-world-is-sleepwalking",
-    "source": "Hacker News",
-    "date": "2026-05-29",
-    "summary": "Article URL: https://www.theargumentmag.com/p/the-literary-world-is-sleepwalking Comments URL: https://news.ycombinator.com/item?id=48324276 Points: 3 # Comments: 0",
-    "category": "industry",
-    "image": "https://substackcdn.com/image/fetch/$s_!GhxV!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F8bf4c311-a701-4322-9cc4-7ac55789faec_1024x792.jpeg",
-    "id": 19
-  },
-  {
-    "title": "Replacing Employees with AI",
-    "url": "https://twitter.com/EscanorReloaded/status/2059637607403831732",
-    "source": "Hacker News",
-    "date": "2026-05-29",
-    "summary": "Article URL: https://twitter.com/EscanorReloaded/status/2059637607403831732 Comments URL: https://news.ycombinator.com/item?id=48324232 Points: 2 # Comments: 0",
-    "category": "industry",
-    "id": 20
-  },
-  {
-    "title": "The Biggest Tell That Something Was Written by AI",
-    "url": "https://www.theatlantic.com/technology/2026/05/how-to-tell-ai-writing/687345/",
-    "source": "Hacker News",
-    "date": "2026-05-29",
-    "summary": "Article URL: https://www.theatlantic.com/technology/2026/05/how-to-tell-ai-writing/687345/ Comments URL: https://news.ycombinator.com/item?id=48324146 Points: 2 # Comments: 0",
-    "category": "industry",
-    "image": "https://cdn.theatlantic.com/thumbor/KnZwtS1AM5wiLfqgdZjrIP8_hfc=/0x43:2000x1085/1200x625/media/img/mt/2026/05/2026_05_28_Fairbanks_written_by_AI_final/original.gif",
-    "id": 21
-  },
-  {
-    "title": "Resistance Against AI Is Not Futile. A List Is a Good Start",
-    "url": "https://read.misalignedmag.com/resistance-against-ai-is-not-futile-a-list-is-a-good-start-3b8a4d39139e",
-    "source": "Hacker News",
-    "date": "2026-05-29",
-    "summary": "Article URL: https://read.misalignedmag.com/resistance-against-ai-is-not-futile-a-list-is-a-good-start-3b8a4d39139e Comments URL: https://news.ycombinator.com/item?id=48324109 Points: 1 # Comments: 0",
-    "category": "industry",
-    "id": 22
-  },
-  {
-    "title": "AI Content Fatigue",
-    "url": "https://dheer.co/ai-content-fatigue/",
-    "source": "Hacker News",
-    "date": "2026-05-29",
-    "summary": "Article URL: https://dheer.co/ai-content-fatigue/ Comments URL: https://news.ycombinator.com/item?id=48324090 Points: 3 # Comments: 0",
-    "category": "industry",
-    "id": 23
-  },
-  {
-    "title": "Show HN: Tab Council – turn your AI tabs into a model council",
-    "url": "https://github.com/vaddisrinivas/tab-council",
-    "source": "Hacker News",
-    "date": "2026-05-29",
-    "summary": "Article URL: https://github.com/vaddisrinivas/tab-council Comments URL: https://news.ycombinator.com/item?id=48323971 Points: 2 # Comments: 0",
-    "category": "industry",
-    "image": "https://opengraph.githubassets.com/6872e57ca980a99d4a5d7f6b14223f777e727d33e91a2bfa638fd8a543dcef41/vaddisrinivas/tab-council",
-    "id": 24
-  },
-  {
-    "title": "ON1 (G116 V8): 38μs Black-Box AI Memory Retrieval on Virtual Chip ISA",
-    "url": "https://github.com/ON1-Hao/ON1",
-    "source": "Hacker News",
-    "date": "2026-05-29",
-    "summary": "Article URL: https://github.com/ON1-Hao/ON1 Comments URL: https://news.ycombinator.com/item?id=48323932 Points: 2 # Comments: 0",
-    "category": "hardware",
-    "image": "https://opengraph.githubassets.com/533ac72a5ab8d925d79c4d35580a6fae0ec4bd6b6c8270f4b62d90769d641d99/ON1-Hao/ON1",
     "id": 25
-  },
-  {
-    "title": "Ask HN: Made new model type (not LLM) no idea how to sell it",
-    "url": "https://news.ycombinator.com/item?id=48323810",
-    "source": "Hacker News",
-    "date": "2026-05-29",
-    "summary": "Built a new model type (not LLM) that has strong reasoning abilities and runs for less than $10 a month but I have no idea what to do with it. Here’s the catch, it needs to be taught and guided like a...",
-    "category": "models",
-    "id": 26
-  },
-  {
-    "title": "South Africa AI Policy Leverage as Africa's Test Case",
-    "url": "https://spectrum.ieee.org/south-africa-ai-policy",
-    "source": "Hacker News",
-    "date": "2026-05-29",
-    "summary": "Article URL: https://spectrum.ieee.org/south-africa-ai-policy Comments URL: https://news.ycombinator.com/item?id=48323649 Points: 2 # Comments: 0",
-    "category": "research",
-    "image": "https://spectrum.ieee.org/media-library/image.jpg?id=66784951&width=1200&height=600&coordinates=0%2C456%2C0%2C44",
-    "id": 27
-  },
-  {
-    "title": "Selling a House with AI",
-    "url": "https://www.nytimes.com/2026/05/28/technology/sell-house-with-ai-no-realtor.html",
-    "source": "Hacker News",
-    "date": "2026-05-29",
-    "summary": "Article URL: https://www.nytimes.com/2026/05/28/technology/sell-house-with-ai-no-realtor.html Comments URL: https://news.ycombinator.com/item?id=48323618 Points: 4 # Comments: 0",
-    "category": "industry",
-    "id": 28
-  },
-  {
-    "title": "Show HN: OpenHive – AI agents share solutions so other agents dont re-solve them",
-    "url": "https://openhivemind.vercel.app/",
-    "source": "Hacker News",
-    "date": "2026-05-29",
-    "summary": "I kept noticing the same pattern: my AI coding agents solve the same problems over and over across sessions. Coding problems, version specific bugs and general guidelines, solved once through multiple...",
-    "category": "models",
-    "id": 29
-  },
-  {
-    "title": "Show HN: Repolog, website audit for SEO, performance, security, and AI readiness",
-    "url": "https://repolog.io/",
-    "source": "Hacker News",
-    "date": "2026-05-29",
-    "summary": "Article URL: https://repolog.io/ Comments URL: https://news.ycombinator.com/item?id=48323578 Points: 4 # Comments: 0",
-    "category": "industry",
-    "image": "https://repolog.io/og-image.svg",
-    "id": 30
-  },
-  {
-    "title": "A graph-theoretic approach to building reliable LLM judges for retrieval",
-    "url": "https://georgianailab.substack.com/p/evaluating-retrieval-without-ground",
-    "source": "Hacker News",
-    "date": "2026-05-29",
-    "summary": "Article URL: https://georgianailab.substack.com/p/evaluating-retrieval-without-ground Comments URL: https://news.ycombinator.com/item?id=48323562 Points: 3 # Comments: 0",
-    "category": "models",
-    "id": 31
-  },
-  {
-    "title": "Ask HK: How are you building AI apps today?",
-    "url": "https://news.ycombinator.com/item?id=48323554",
-    "source": "Hacker News",
-    "date": "2026-05-29",
-    "summary": "Generally curious how folks are using LLM APIs today. Are folks doing anything bespoke, unique or different? I think we've seen a lot of usage with harnesses, CLIs, Cursor/Windsurf etc which uses the ...",
-    "category": "tools",
-    "id": 32
   },
   {
     "title": "The deadly Ebola outbreak is proving difficult to control",
@@ -315,7 +254,7 @@
     "summary": "The alert was raised on May 5. Four health-care workers in the Ituri Province of the Democratic Republic of the Congo had died from an unknown illness within four days. Rapid response teams were sent ...",
     "category": "research",
     "image": "https://wp.technologyreview.com/wp-content/uploads/2026/05/GettyImages-2277597061.jpg?resize=1200,600",
-    "id": 33
+    "id": 26
   },
   {
     "title": "How the Pope’s Magnifica Humanitas offers a template for individuals to meet the AI moment",
@@ -325,7 +264,27 @@
     "summary": "Pope Leo XIV’s new encyclical on artificial intelligence includes a statement that warrants serious attention from technologists and policymakers: “Technology is never neutral.” Magnifica Humanitas (“...",
     "category": "hardware",
     "image": "https://wp.technologyreview.com/wp-content/uploads/2026/05/AP26148386379363.jpg?resize=1200,600",
-    "id": 34
+    "id": 27
+  },
+  {
+    "title": "Hands-On With Gemini Spark: I Gave It Access to My Life and It Friend-Zoned My Boyfriend",
+    "url": "https://www.wired.com/story/google-gemini-spark-ai-agent-hands-on/",
+    "source": "Wired",
+    "date": "2026-05-29",
+    "summary": "Google’s new AI agent combed through my emails, documents, and calendar to plan a birthday party and still didn’t clock the person most important to me.",
+    "category": "models",
+    "image": "https://media.wired.com/photos/6a19d3576c603cc05220330d/191:100/w_1280,c_limit/Gear_HandsOnWithGeminiSparkGoogle%E2%80%99sAIAgentThatLivesinYourPhone_v1.jpg",
+    "id": 28
+  },
+  {
+    "title": "We Asked the ‘Future of Truth’ Author to Explain How He Used AI. It Didn’t Go Well",
+    "url": "https://www.wired.com/story/future-of-truth-ai-interview/",
+    "source": "Wired",
+    "date": "2026-05-29",
+    "summary": "A book about how AI shapes perceptions of reality came under fire for using AI-generated quotes. Its problems go beyond that.",
+    "category": "industry",
+    "image": "https://media.wired.com/photos/6a173332faa2148b4ab454b6/191:100/w_1280,c_limit/Business_AIBookAuthorUsedAItoWriteHisBook_v1.jpg",
+    "id": 29
   },
   {
     "title": "The Vatican’s Man Inside Anthropic",
@@ -335,7 +294,7 @@
     "summary": "Pope Leo XIV may not be able to disarm AI, but he’s got the attention of the industry.",
     "category": "industry",
     "image": "https://media.wired.com/photos/6a1898e5148c56039b79abe1/191:100/w_1280,c_limit/Backchannel-Pope-Leo-AI-Business-2214167500.jpg",
-    "id": 35
+    "id": 30
   },
   {
     "title": "Behavior-Induced Mirror-Prox Temporal-Difference Learning for Faster Off-Policy Prediction",
@@ -344,7 +303,7 @@
     "date": "2026-05-29",
     "summary": "Gradient temporal-difference methods provide stable off-policy prediction with linear function approximation, but their practical performance is strongly affected by the geometry induced by the auxili...",
     "category": "models",
-    "id": 36
+    "id": 31
   },
   {
     "title": "Behavior-Aware Auxiliary Corrections for Off-Policy Temporal-Difference Prediction",
@@ -353,7 +312,7 @@
     "date": "2026-05-29",
     "summary": "Temporal-difference learning with function approximation can be unstable under off-policy sampling. TDC stabilizes off-policy TD through an auxiliary covariance correction, and TDRC further regularize...",
     "category": "models",
-    "id": 37
+    "id": 32
   },
   {
     "title": "The Cognitive Categorical Transformer: Category-Theoretic Inductive Biases for Language Modeling",
@@ -362,7 +321,7 @@
     "date": "2026-05-29",
     "summary": "The Cognitive Categorical Transformer (CCT) is a 306M-parameter architecture that augments a pretrained GPT-2 Small backbone with cognitively grounded components derived from category theory and sever...",
     "category": "models",
-    "id": 38
+    "id": 33
   },
   {
     "title": "Ultra-Reduced-Impact-Encased-Logging (URIEL): propose a new method for selective sustainable logging and post-harvest silvicultural treatment in tropical forest using airborne robotics systems",
@@ -371,7 +330,7 @@
     "date": "2026-05-29",
     "summary": "Tropical forests worldwide are under intense deforestation pressure driven by economic and political interests, and scientific evidence suggests this deforestation contributes to climate change. This ...",
     "category": "research",
-    "id": 39
+    "id": 34
   },
   {
     "title": "Review Arcade: On the Human Alignment and Gameability of LLM Reviews",
@@ -380,7 +339,7 @@
     "date": "2026-05-29",
     "summary": "LLM-generated reviews for scientific papers are gaining considerable traction and are even being officially piloted by major conferences. We have to assume that not only reviewers are using LLM-assist...",
     "category": "research",
-    "id": 40
+    "id": 35
   },
   {
     "title": "Orthogonal Concept Erasure for Diffusion Models",
@@ -389,7 +348,7 @@
     "date": "2026-05-29",
     "summary": "Concept erasure has emerged as a promising approach to mitigate undesired or unsafe content in diffusion models, yet existing methods still face significant limitations. While training-based methods a...",
     "category": "models",
-    "id": 41
+    "id": 36
   },
   {
     "title": "Frontier LLM-based agents can overcome the ontology curation bottleneck for natural phenotypes",
@@ -398,7 +357,7 @@
     "date": "2026-05-29",
     "summary": "Linking free-text phenotype descriptions to ontology terms, typically referred to as phenotype annotation, is essential for the cross-study integration of comparative morphological data. This labor in...",
     "category": "models",
-    "id": 42
+    "id": 37
   },
   {
     "title": "VFEAgent: A Multimodal Agent Framework for End-to-End Automated Finite Element Analysis",
@@ -407,7 +366,7 @@
     "date": "2026-05-29",
     "summary": "Finite Element Analysis (FEA) serves as the cornerstone of modern engineering design. However, its workflow is inherently complex and relies heavily on domain expertise. Although recent efforts have i...",
     "category": "models",
-    "id": 43
+    "id": 38
   },
   {
     "title": "BEAMS: Benchmarking and Evaluating AI for Modeling and Simulation",
@@ -416,7 +375,7 @@
     "date": "2026-05-29",
     "summary": "AI tools to support real world decision making must be able to build simulation models that inform their recommendations and render them interpretable. Tools that can automate aspects of modeling prac...",
     "category": "research",
-    "id": 44
+    "id": 39
   },
   {
     "title": "Adopt $\\neq$ Adapt: Longitudinal Analyses of LLM Conversations in the Wild",
@@ -425,7 +384,7 @@
     "date": "2026-05-29",
     "summary": "Although a growing body of research has begun to describe user--LLM interactions, the picture it paints is largely static; little is known about how individual users change their behavior over time. T...",
     "category": "models",
-    "id": 45
+    "id": 40
   },
   {
     "title": "When Models Disagree: Rethinking LLM Evaluation for Public Comment Analysis",
@@ -434,7 +393,7 @@
     "date": "2026-05-29",
     "summary": "Federal agencies are deploying large language models (LLMs) to categorize public comment corpora, where the model's organization of the record shapes what policymakers see and which arguments register...",
     "category": "models",
-    "id": 46
+    "id": 41
   },
   {
     "title": "Mind Your Tone: Does Tone Alter LLM Performance?",
@@ -443,7 +402,7 @@
     "date": "2026-05-29",
     "summary": "The use of Large Language Models (LLMs) is proliferating, yet their performance is observed to vary based on prompting styles and tones. In this study, we investigate both whether and how tonal variat...",
     "category": "models",
-    "id": 47
+    "id": 42
   },
   {
     "title": "Practitioner Beliefs and Behaviors in AI-Enhanced Education: DOT Framework Survey Evidence",
@@ -452,7 +411,7 @@
     "date": "2026-05-29",
     "summary": "This study reports findings from a cross-sectional survey (n = 72) of higher education practitioners examining beliefs, behaviors, and institutional conditions related to artificial intelligence (AI) ...",
     "category": "research",
-    "id": 48
+    "id": 43
   },
   {
     "title": "Differentiable Belief-based Opponent Shaping",
@@ -461,7 +420,7 @@
     "date": "2026-05-29",
     "summary": "Human coordination often relies on the ability to influence the beliefs of others through strategic action. In multi-agent reinforcement learning, opponent shaping attempts to replicate this influence...",
     "category": "hardware",
-    "id": 49
+    "id": 44
   },
   {
     "title": "Hallucination Mitigation with Agentic AI, Nested Learning, and AI Sustainability via Semantic Caching",
@@ -470,6 +429,51 @@
     "date": "2026-05-29",
     "summary": "Hallucination remains a major reliability barrier for production LLM systems, particularly in multi-agent pipelines where unsupported claims can propagate unchecked across stages. This paper adapts a ...",
     "category": "research",
+    "id": 45
+  },
+  {
+    "title": "Robust and Efficient Guardrails with Latent Reasoning",
+    "url": "https://arxiv.org/abs/2605.29068",
+    "source": "arXiv cs.AI",
+    "date": "2026-05-29",
+    "summary": "Maintaining the safety of large language models (LLMs) is crucial as they are increasingly deployed in real-world applications. Existing safety guardrails typically rely on single-pass classification ...",
+    "category": "models",
+    "id": 46
+  },
+  {
+    "title": "Bridging the Sim-to-Real Gap in Reinforcement Learning-Based Industrial Dispatching through Execution Semantics",
+    "url": "https://arxiv.org/abs/2605.29078",
+    "source": "arXiv cs.AI",
+    "date": "2026-05-29",
+    "summary": "Event-driven scheduling policies are increasingly deployed in industrial environments, where decisions are made under asynchronous and partially observed system states. As a result, decision states ar...",
+    "category": "research",
+    "id": 47
+  },
+  {
+    "title": "The Importance of Out-of-Band Metadata for Safe Autonomous Agents: The Redpanda Agentic Data Plane",
+    "url": "https://arxiv.org/abs/2605.29082",
+    "source": "arXiv cs.AI",
+    "date": "2026-05-29",
+    "summary": "AI agents are increasingly expected to operate as digital employees: accessing enterprise data, making decisions, and taking actions autonomously. But agents are simultaneously less predictable than h...",
+    "category": "industry",
+    "id": 48
+  },
+  {
+    "title": "The Chain Holds, the Answer Folds: Trace-Answer Dissociation in Reasoning Models Under Adversarial Pressure",
+    "url": "https://arxiv.org/abs/2605.29087",
+    "source": "arXiv cs.AI",
+    "date": "2026-05-29",
+    "summary": "Reasoning models are evaluated on single-turn benchmarks but deployed in multi-turn dialogue, where users push back on correct answers. Under sustained adversarial pressure we find a previously undocu...",
+    "category": "models",
+    "id": 49
+  },
+  {
+    "title": "Trends in AI and Human-AI Interaction in Clinical Trials -- A Hybrid Human-AI Exploration",
+    "url": "https://arxiv.org/abs/2605.29096",
+    "source": "arXiv cs.AI",
+    "date": "2026-05-29",
+    "summary": "This paper examines records retrieved from the ClinicalTrials.gov registry to characterize temporal trends in AI terminology and the geographical distribution of AI trials. The work also reports on an...",
+    "category": "models",
     "id": 50
   }
 ]
