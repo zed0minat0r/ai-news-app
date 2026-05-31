@@ -1,5 +1,36 @@
 [
   {
+    "title": "Nvidia's long-awaited N1/N1X SoC specs leak ahead of Computex launch — N1 to feature up to 20 Arm-based cores, standard N1 equipped with 12- and 10-core configs",
+    "url": "https://www.tomshardware.com/pc-components/cpus/nvidias-long-awaited-n1-n1x-soc-specs-leak-ahead-of-computex-launch-n1-to-feature-up-to-20-arm-based-cores-standard-n1-equipped-with-12-and-10-core-configs",
+    "source": "Tom's Hardware",
+    "date": "2026-05-31",
+    "summary": "The N1X reportedly comes in two SKUs: a top-end 20-core option with 6,144 CUDA cores matching the desktop RTX 5070, and a cut-down 18-core option with 5,120 CUDA cores. The standard N1 also has two co...",
+    "category": "hardware",
+    "image": "https://cdn.mos.cms.futurecdn.net/BTBLXoJ6tF2ZZnoNuABN2F-1280-80.jpg",
+    "id": 1,
+    "featured": true
+  },
+  {
+    "title": "Core i7-14700F gaming PC with RTX 5060, 32GB of RAM, and 1TB of storage gets $470 discount — Newegg's ABS Cyclone Aqua prebuilt is $1,329 with code",
+    "url": "https://www.tomshardware.com/desktops/gaming-pcs/core-i7-14700f-gaming-pc-with-rtx-5060-32gb-of-ram-and-1tb-of-storage-gets-usd470-discount-neweggs-abs-cyclone-aqua-prebuilt-is-usd1-329-with-code",
+    "source": "Tom's Hardware",
+    "date": "2026-05-31",
+    "summary": "Newegg's ABS Cyclone Aqua prebuilt combines Intel's 20-core Core i7-14700F with Nvidia's RTX 5060, and 32GB of DDR5 memory for less than the cost of building a comparable system",
+    "category": "hardware",
+    "image": "https://cdn.mos.cms.futurecdn.net/SJREsDNwD3HY3nFQ9B6i7J-1280-80.jpg",
+    "id": 2
+  },
+  {
+    "title": "SoftBank to spend up to $87 billion on French AI data centers — country offers ample nuclear grid that US sites lack",
+    "url": "https://www.tomshardware.com/tech-industry/softbank-to-spend-up-to-75-billion-on-french-ai-data-centers",
+    "source": "Tom's Hardware",
+    "date": "2026-05-31",
+    "summary": "SoftBank carries over $130 billion in debt and took a $40 billion bridge loan in March to fund its latest OpenAI investment.",
+    "category": "industry",
+    "image": "https://cdn.mos.cms.futurecdn.net/DWK343Hd4XaLdbBxt6uQAW-1280-80.jpg",
+    "id": 3
+  },
+  {
     "title": "New AI-compute cryptocurrency Pearl sparks a GPU mining rush but profitability is already sliding — RTX 5090 daily revenue has halved to $17.19 since April",
     "url": "https://www.tomshardware.com/tech-industry/cryptomining/new-ai-compute-cryptocurrency-pearl-sparks-a-gpu-mining-rush-but-profitability-is-sliding",
     "source": "Tom's Hardware",
@@ -7,8 +38,7 @@
     "summary": "A new cryptocurrency called Pearl has set off a short-lived GPU mining rush.",
     "category": "hardware",
     "image": "https://cdn.mos.cms.futurecdn.net/YjX8TJVFkFDKzjssdLLNod-1280-80.png",
-    "id": 1,
-    "featured": true
+    "id": 4
   },
   {
     "title": "The 'ultimate mosquito killer' uses lasers and AI — custom model trained to detect and lock lasers on these pests",
@@ -18,188 +48,210 @@
     "summary": "A computer vision and robotics expert has created and trained what he boasts is “the ultimate mosquito killer” using machine learning and a laser.",
     "category": "industry",
     "image": "https://cdn.mos.cms.futurecdn.net/JpGBuXBBr3M6EkWbURBm6Y-1280-80.jpg",
-    "id": 2
-  },
-  {
-    "title": "Turn your PC, Mac, or Linux box into an AI server",
-    "url": "https://github.com/Light-Heart-Labs/DreamServer",
-    "source": "Hacker News",
-    "date": "2026-05-31",
-    "summary": "Article URL: https://github.com/Light-Heart-Labs/DreamServer Comments URL: https://news.ycombinator.com/item?id=48345623 Points: 1 # Comments: 0",
-    "category": "hardware",
-    "image": "https://opengraph.githubassets.com/309083d3f814d85255d8ddd7860176d763d8ae900ce9b554f4dd17b62cfd8471/Light-Heart-Labs/DreamServer",
-    "id": 3
-  },
-  {
-    "title": "AiLock: Hide source from AI assistants while tests still run",
-    "url": "https://github.com/lo2589/AILOCK",
-    "source": "Hacker News",
-    "date": "2026-05-31",
-    "summary": "Article URL: https://github.com/lo2589/AILOCK Comments URL: https://news.ycombinator.com/item?id=48345582 Points: 1 # Comments: 0",
-    "category": "industry",
-    "image": "https://opengraph.githubassets.com/3e5ef60a0cadfc04f0b527ac9ad31eec882d3ae569c3e7c9be2fc9f3e9d09dd5/lo2589/AILOCK",
-    "id": 4
-  },
-  {
-    "title": "Vox Dictum, on-device transcription with speaker diarisation and AI summaries",
-    "url": "https://cobaltinfx.com/",
-    "source": "Hacker News",
-    "date": "2026-05-31",
-    "summary": "Article URL: https://cobaltinfx.com/ Comments URL: https://news.ycombinator.com/item?id=48345511 Points: 1 # Comments: 0",
-    "category": "industry",
-    "image": "https://cobaltinfx.com/VoxDictum1024.png",
     "id": 5
   },
   {
-    "title": "Mid-size local models are now competitive for AI Agents",
-    "url": "https://srinathh.medium.com/mid-size-local-models-are-now-competitive-for-ai-agents-7696b2e8b535",
-    "source": "Hacker News",
+    "title": "Making sense of the debate over AI psychosis",
+    "url": "https://techcrunch.com/2026/05/31/making-sense-of-the-debate-over-ai-psychosis/",
+    "source": "TechCrunch",
     "date": "2026-05-31",
-    "summary": "Article URL: https://srinathh.medium.com/mid-size-local-models-are-now-competitive-for-ai-agents-7696b2e8b535 Comments URL: https://news.ycombinator.com/item?id=48345470 Points: 1 # Comments: 0",
+    "summary": "On the latest episode of Equity, we debate whether tech CEOs are \"uniquely prone to AI psychosis.\"",
     "category": "industry",
+    "image": "https://techcrunch.com/wp-content/uploads/2026/03/s.jpg?resize=1200,840",
     "id": 6
   },
   {
-    "title": "AI content is great if you know it's AI",
-    "url": "https://www.geekbeard.dev/p/cosplaying-humans",
+    "title": "DiffLens: Using LangGraph to verify line-range coordinates in LLM code reviews",
+    "url": "https://github.com/ywu593412-afk/difflens",
     "source": "Hacker News",
     "date": "2026-05-31",
-    "summary": "Article URL: https://www.geekbeard.dev/p/cosplaying-humans Comments URL: https://news.ycombinator.com/item?id=48345392 Points: 2 # Comments: 0",
-    "category": "industry",
-    "image": "https://images.unsplash.com/photo-1634910409614-71a507e13588?fm=jpg&q=60&w=3000&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+    "summary": "Article URL: https://github.com/ywu593412-afk/difflens Comments URL: https://news.ycombinator.com/item?id=48346869 Points: 1 # Comments: 0",
+    "category": "models",
+    "image": "https://opengraph.githubassets.com/dc66591b4fba1d8f5ea136248e7e8e0e71a0ac0b4925f7c96344e3a4f51990f6/ywu593412-afk/difflens",
     "id": 7
   },
   {
-    "title": "Ask HN: Anyone missing the human aspect of pre AI?",
-    "url": "https://news.ycombinator.com/item?id=48345371",
+    "title": "Insights on Software Engineering, AI and DevOps Job Openings – June 2026",
+    "url": "https://corvi.careers/blog/global_software-engineering_jobs_june_2026/",
     "source": "Hacker News",
     "date": "2026-05-31",
-    "summary": "Some guy in my city writes poems using a typewriter and his brain. I paid 5 pounds for it and it was one of the best things I’ve read in 2 years. Maybe I’m just burnt out from all this AI hype and fee...",
+    "summary": "Article URL: https://corvi.careers/blog/global_software-engineering_jobs_june_2026/ Comments URL: https://news.ycombinator.com/item?id=48346773 Points: 3 # Comments: 2",
     "category": "industry",
     "id": 8
   },
   {
-    "title": "Show HN: My tiny project MyTube Newsletter – daily AI digest of YouTube subs",
-    "url": "https://news.ycombinator.com/item?id=48345189",
+    "title": "Unlawful by design: Exposing the human rights costs of generative AI",
+    "url": "https://www.amnesty.org/en/documents/pol40/0996/2026/en/",
     "source": "Hacker News",
     "date": "2026-05-31",
-    "summary": "This is technically a Show HN for MyTube Newsletter — an email digest of new videos from the YouTube channels you subscribe to, AI-summarized. But the tech isn't very interesting. I'd rather talk abou...",
-    "category": "models",
+    "summary": "Article URL: https://www.amnesty.org/en/documents/pol40/0996/2026/en/ Comments URL: https://news.ycombinator.com/item?id=48346706 Points: 5 # Comments: 0",
+    "category": "industry",
+    "image": "https://www.amnesty.org/en/documents/pol40/0996/2026/en",
     "id": 9
   },
   {
-    "title": "AI Agents Plunged the Tech World into Chaos",
-    "url": "https://www.wired.com/story/how-ai-agents-plunged-tech-world-into-chaos/",
+    "title": "Odysseus – self-hosted AI workspace",
+    "url": "https://github.com/pewdiepie-archdaemon/odysseus",
     "source": "Hacker News",
     "date": "2026-05-31",
-    "summary": "Article URL: https://www.wired.com/story/how-ai-agents-plunged-tech-world-into-chaos/ Comments URL: https://news.ycombinator.com/item?id=48345185 Points: 1 # Comments: 1",
+    "summary": "Article URL: https://github.com/pewdiepie-archdaemon/odysseus Comments URL: https://news.ycombinator.com/item?id=48346693 Points: 4 # Comments: 2",
     "category": "industry",
-    "image": "https://media.wired.com/photos/69fdc07896ebc549bb094216/191:100/w_1280,c_limit/agents_unleashed_web-1x1.jpg",
+    "image": "https://opengraph.githubassets.com/70435f0c57f07977c19d47263aec0a7ff328d80c1873f829908afa6809396482/pewdiepie-archdaemon/odysseus",
     "id": 10
   },
   {
-    "title": "SpaceX Has Two AI Compute Stories; Only One Generates Revenue",
-    "url": "https://davefriedman.substack.com/p/spacex-has-two-ai-compute-stories",
+    "title": "Remove all LLM generated commits before people get hurt by this nonsense",
+    "url": "https://github.com/RsyncProject/rsync/issues/934",
     "source": "Hacker News",
     "date": "2026-05-31",
-    "summary": "Article URL: https://davefriedman.substack.com/p/spacex-has-two-ai-compute-stories Comments URL: https://news.ycombinator.com/item?id=48345048 Points: 1 # Comments: 0",
-    "category": "industry",
+    "summary": "Article URL: https://github.com/RsyncProject/rsync/issues/934 Comments URL: https://news.ycombinator.com/item?id=48346640 Points: 3 # Comments: 1",
+    "category": "models",
+    "image": "https://opengraph.githubassets.com/1ae3420aac52e1ea95779b9abbadc234f0ef937d78153095cb9f6eb2c76faee8/RsyncProject/rsync/issues/934",
     "id": 11
   },
   {
-    "title": "People Getting Falsely Accused of Using AI to Write",
-    "url": "https://nymag.com/intelligencer/article/the-people-getting-falsely-accused-of-using-ai-to-write.html",
+    "title": "Hypic Online: AI-Powered Photo Editing for Social Media",
+    "url": "https://hypic-online.pages.dev/posts/hypic-online/",
     "source": "Hacker News",
     "date": "2026-05-31",
-    "summary": "Article URL: https://nymag.com/intelligencer/article/the-people-getting-falsely-accused-of-using-ai-to-write.html Comments URL: https://news.ycombinator.com/item?id=48344992 Points: 2 # Comments: 0",
-    "category": "hardware",
-    "image": "https://pyxis.nymag.com/v1/imgs/29a/40b/cd91358eea33d17f837d6eacc5598a2f8e-aiwriters.1x.rsocial.w1200.png",
+    "summary": "Article URL: https://hypic-online.pages.dev/posts/hypic-online/ Comments URL: https://news.ycombinator.com/item?id=48346500 Points: 1 # Comments: 0",
+    "category": "industry",
+    "image": "https://hypic-online.pages.dev/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E",
     "id": 12
   },
   {
-    "title": "The Impact of AI-Assisted Development on Software Security",
-    "url": "https://arxiv.org/abs/2603.15298",
+    "title": "Show HN: Compress your screenshots for AI coding agents",
+    "url": "https://github.com/mgranados/screenshotter",
     "source": "Hacker News",
     "date": "2026-05-31",
-    "summary": "Article URL: https://arxiv.org/abs/2603.15298 Comments URL: https://news.ycombinator.com/item?id=48344963 Points: 1 # Comments: 1",
-    "category": "research",
+    "summary": "Local util (macOS) to compress the screenshots and save some bandwidth before pasting on ai agent interfaces, hopefully this saves some bandwidth and costs. Comments URL: https://news.ycombinator.com/...",
+    "category": "industry",
+    "image": "https://opengraph.githubassets.com/784fc49c78fc97f278f29cce815bb3b5fe89097a7f453a54b01182729247b6d3/mgranados/screenshotter",
     "id": 13
   },
   {
-    "title": "Curated list of AI apps for visual creation",
-    "url": "https://gist.github.com/seinecle/689a53bceca96147a04e93bdc5f83940",
+    "title": "AI models are free, private, and will never say 'no'",
+    "url": "https://www.npr.org/2026/05/31/nx-s1-5816391/ai-safety-concerns-danger-open-weight-models-risks",
     "source": "Hacker News",
     "date": "2026-05-31",
-    "summary": "Article URL: https://gist.github.com/seinecle/689a53bceca96147a04e93bdc5f83940 Comments URL: https://news.ycombinator.com/item?id=48344874 Points: 2 # Comments: 0",
-    "category": "tools",
-    "image": "https://github.githubassets.com/assets/gist-og-image-54fd7dc0713e.png",
+    "summary": "Article URL: https://www.npr.org/2026/05/31/nx-s1-5816391/ai-safety-concerns-danger-open-weight-models-risks Comments URL: https://news.ycombinator.com/item?id=48346452 Points: 3 # Comments: 0",
+    "category": "models",
+    "image": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/6584x3704+0+0/resize/1400/quality/85/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F36%2Fba%2F709658514299a725e00263b30af5%2Fgettyimages-158774123.jpg",
     "id": 14
   },
   {
-    "title": "AI Agent that at inference time updates it's harness and model weights",
-    "url": "https://github.com/hexo-ai/sia",
+    "title": "What Civilization Knows About Compliance That AI Alignment Has Forgotten",
+    "url": "https://www.innerkore.com/blog/civilization-knows-compliance-ai-alignment-forgotten/",
     "source": "Hacker News",
     "date": "2026-05-31",
-    "summary": "Article URL: https://github.com/hexo-ai/sia Comments URL: https://news.ycombinator.com/item?id=48344807 Points: 4 # Comments: 0",
-    "category": "models",
-    "image": "https://opengraph.githubassets.com/da87d1a1df6755231bee05b38bda4b581e2ff08ba5d6e7367ff7abf024890c14/hexo-ai/sia",
+    "summary": "Article URL: https://www.innerkore.com/blog/civilization-knows-compliance-ai-alignment-forgotten/ Comments URL: https://news.ycombinator.com/item?id=48346389 Points: 3 # Comments: 1",
+    "category": "research",
+    "image": "https://innerkore.com/assets/images/logo.jpeg",
     "id": 15
   },
   {
-    "title": "Show HN: Free cloud-based tool for managing AI agents across multiple hosts",
-    "url": "https://nodecartel.com/",
+    "title": "Our tech overlords are planning for conscious AI to conquer the cosmos",
+    "url": "https://www.theguardian.com/us-news/ng-interactive/2026/may/31/transhuman-silicon-valley-ai",
     "source": "Hacker News",
     "date": "2026-05-31",
-    "summary": "Article URL: https://nodecartel.com/ Comments URL: https://news.ycombinator.com/item?id=48344780 Points: 4 # Comments: 0",
-    "category": "tools",
+    "summary": "Article URL: https://www.theguardian.com/us-news/ng-interactive/2026/may/31/transhuman-silicon-valley-ai Comments URL: https://news.ycombinator.com/item?id=48346229 Points: 7 # Comments: 6",
+    "category": "hardware",
+    "image": "https://i.guim.co.uk/img/media/dcb90867e1781366f118492c29268ef4c8fe1ef4/0_0_2400_1919/master/2400.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=3ab89bf6737b294a8a35659723d317b0",
     "id": 16
   },
   {
-    "title": "Unlimited free AI tools and more, live demo. watch now [video]",
-    "url": "https://www.youtube.com/shorts/8HB-VgN3uTE",
+    "title": "Show HN: FuguUX – science-backed, AI user testing to identify key web UX issues",
+    "url": "https://www.fuguux.com",
     "source": "Hacker News",
     "date": "2026-05-31",
-    "summary": "Article URL: https://www.youtube.com/shorts/8HB-VgN3uTE Comments URL: https://news.ycombinator.com/item?id=48344743 Points: 1 # Comments: 0",
-    "category": "tools",
+    "summary": "Article URL: https://www.fuguux.com Comments URL: https://news.ycombinator.com/item?id=48346037 Points: 2 # Comments: 0",
+    "category": "industry",
     "id": 17
   },
   {
-    "title": "Why AI isn't showing up on your bottom line",
-    "url": "https://www.exponentialview.co/p/why-ai-isnt-showing-up-on-your-bottom-line",
+    "title": "Donating AI credits to open source projects",
+    "url": "https://news.ycombinator.com/item?id=48346013",
     "source": "Hacker News",
     "date": "2026-05-31",
-    "summary": "Article URL: https://www.exponentialview.co/p/why-ai-isnt-showing-up-on-your-bottom-line Comments URL: https://news.ycombinator.com/item?id=48344738 Points: 1 # Comments: 0",
-    "category": "industry",
-    "image": "https://substackcdn.com/image/fetch/$s_!bma7!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F2f986f44-6e61-4db7-93af-dd92183f7e07_880x551.jpeg",
+    "summary": "Would love to have a discussion about big companies donating LLM credits to opensource projects that are critical. Would help maintainers build sustainable pipelines for critical code we all use Comme...",
+    "category": "models",
     "id": 18
   },
   {
-    "title": "Unity AI Suite",
-    "url": "https://unity.com/features/ai",
+    "title": "Profile of Tilly Norwood, an AI 'Actress' (Gift Link)",
+    "url": "https://www.nytimes.com/2026/05/31/magazine/ai-actress-tilly-norwood.html",
     "source": "Hacker News",
     "date": "2026-05-31",
-    "summary": "Article URL: https://unity.com/features/ai Comments URL: https://news.ycombinator.com/item?id=48344734 Points: 3 # Comments: 0",
+    "summary": "Article URL: https://www.nytimes.com/2026/05/31/magazine/ai-actress-tilly-norwood.html Comments URL: https://news.ycombinator.com/item?id=48345981 Points: 3 # Comments: 0",
     "category": "industry",
     "id": 19
   },
   {
-    "title": "Claude Agent SDK: Build Your Own AI Terminal in 10 Minutes",
-    "url": "https://www.mager.co/blog/2026-03-14-claude-agent-sdk-tui/",
+    "title": "The solution might be cancelling my AI subscription",
+    "url": "https://thoughts.hmmz.org/2026-05-31.html",
     "source": "Hacker News",
     "date": "2026-05-31",
-    "summary": "Article URL: https://www.mager.co/blog/2026-03-14-claude-agent-sdk-tui/ Comments URL: https://news.ycombinator.com/item?id=48344693 Points: 2 # Comments: 0",
-    "category": "models",
-    "image": "https://lh3.googleusercontent.com/pw/AP1GczMkAoMNzZ5evwXljzJ5Z7TcaPmHmP1OcxQ6lhT1jPqnp4Guwr3xOBLvuB0L8e1vUyXE-GMpb1p-yC4gd13QCVGof_bDKgWobqfrpenI-KJYPhlFsf18z7IvUp_Pu4N2G1P0ofKTnzPl9IxZY0cwLp-7rg=w2322-h1522-s-no-gm",
+    "summary": "Article URL: https://thoughts.hmmz.org/2026-05-31.html Comments URL: https://news.ycombinator.com/item?id=48345896 Points: 119 # Comments: 63",
+    "category": "industry",
     "id": 20
   },
   {
-    "title": "Show HN: Overslash – an auth gateway for AI Agents",
-    "url": "https://www.overslash.com/",
+    "title": "QEMU relaxes policy on AI-generated contributions",
+    "url": "https://lists.nongnu.org/archive/html/qemu-devel/2026-05/msg07614.html",
     "source": "Hacker News",
     "date": "2026-05-31",
-    "summary": "Article URL: https://www.overslash.com/ Comments URL: https://news.ycombinator.com/item?id=48344584 Points: 2 # Comments: 1",
+    "summary": "Article URL: https://lists.nongnu.org/archive/html/qemu-devel/2026-05/msg07614.html Comments URL: https://news.ycombinator.com/item?id=48345891 Points: 3 # Comments: 0",
     "category": "industry",
     "id": 21
+  },
+  {
+    "title": "The people who actually want AI to replace humanity",
+    "url": "https://www.vox.com/future-perfect/489976/ai-successionism-transhumanism-posthumanism",
+    "source": "Hacker News",
+    "date": "2026-05-31",
+    "summary": "Article URL: https://www.vox.com/future-perfect/489976/ai-successionism-transhumanism-posthumanism Comments URL: https://news.ycombinator.com/item?id=48345881 Points: 58 # Comments: 53",
+    "category": "industry",
+    "image": "https://platform.vox.com/wp-content/uploads/sites/2/2026/05/JunCen_Vox_5-27.jpeg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+    "id": 22
+  },
+  {
+    "title": "AI bots ignore evidence. Can we trust them with science?",
+    "url": "https://www.sciencenews.org/article/ai-ignore-evidence-trust-science",
+    "source": "Hacker News",
+    "date": "2026-05-31",
+    "summary": "Article URL: https://www.sciencenews.org/article/ai-ignore-evidence-trust-science Comments URL: https://news.ycombinator.com/item?id=48345857 Points: 7 # Comments: 0",
+    "category": "industry",
+    "id": 23
+  },
+  {
+    "title": "The Problem of AI Builders; Eric Ries Does Not Help",
+    "url": "https://age-of-product.com/ai-builders/",
+    "source": "Hacker News",
+    "date": "2026-05-31",
+    "summary": "Article URL: https://age-of-product.com/ai-builders/ Comments URL: https://news.ycombinator.com/item?id=48345733 Points: 2 # Comments: 0",
+    "category": "industry",
+    "image": "https://age-of-product.com/wp-content/uploads/problem-ai-builders-eric-ries-incorruptable-1200x630-cropped.jpg",
+    "id": 24
+  },
+  {
+    "title": "Why I'm building a runtime governance layer for AI agents and Apps",
+    "url": "https://www.indiehackers.com/post/is-system-prompting-enough-for-production-why-i-m-building-a-runtime-governance-layer-for-ai-agents-2f57424547",
+    "source": "Hacker News",
+    "date": "2026-05-31",
+    "summary": "Article URL: https://www.indiehackers.com/post/is-system-prompting-enough-for-production-why-i-m-building-a-runtime-governance-layer-for-ai-agents-2f57424547 Comments URL: https://news.ycombinator.com...",
+    "category": "industry",
+    "image": "https://storage.googleapis.com/indie-hackers.appspot.com/shareable-images/posts/2f57424547",
+    "id": 25
+  },
+  {
+    "title": "AI is causing a crisis of agency",
+    "url": "https://www.theatlantic.com/technology/2026/05/ai-agents-agency-crisis-humanity/687379/",
+    "source": "Hacker News",
+    "date": "2026-05-31",
+    "summary": "Article URL: https://www.theatlantic.com/technology/2026/05/ai-agents-agency-crisis-humanity/687379/ Comments URL: https://news.ycombinator.com/item?id=48345682 Points: 4 # Comments: 0",
+    "category": "industry",
+    "image": "https://cdn.theatlantic.com/thumbor/0B7n07gfWSPxbpmrpwVj9qLsiLY=/0x0:1917x998/1200x625/media/img/mt/2026/05/202_05_28_AgencyCrisis/original.gif",
+    "id": 26
   },
   {
     "title": "How Turkey Hacked the Hair Transplant Industry",
@@ -209,7 +261,7 @@
     "summary": "From specialized motors to the use of machine learning algorithms, Turkey’s billion-dollar hair-transplant industry is the result of a constant process of innovation.",
     "category": "research",
     "image": "https://media.wired.com/photos/6a15b365e372bcf500f31f9b/191:100/w_1280,c_limit/GettyImages-1280800924.jpg",
-    "id": 22
+    "id": 27
   },
   {
     "title": "A robot startup is wreaking havoc on short-term rentals in San Francisco — Airbnb hosts allege 'guests' secretly tested robots indoors, left the units completely trashed",
@@ -219,7 +271,7 @@
     "summary": "Picture this: you're the owner of a dainty place in San Francisco. You put it up on Airbnb, considering the area is sprawling with AI bros, thinking you'd get a pretty good return on your investment. ...",
     "category": "industry",
     "image": "https://cdn.mos.cms.futurecdn.net/fhJ2wuHBx9aNgN8TVrRc4i-1280-80.jpg",
-    "id": 23
+    "id": 28
   },
   {
     "title": "AMD Ryzen 7 5800X and Nvidia RTX 5060 combo is only $439 — deal includes a free CPU cooler, totaling out to $150 in savings for a great budget setup",
@@ -229,7 +281,7 @@
     "summary": "If you've been looking to upgrade from an older system or just want to build a new one but 2026 prices have stopped you, we've got just the deal. The CPU and GPU are the two most important parts of a ...",
     "category": "hardware",
     "image": "https://cdn.mos.cms.futurecdn.net/3R8ZKZYph6Dh5B5VVd5ze5-1280-80.png",
-    "id": 24
+    "id": 29
   },
   {
     "title": "Nikon weaponizes lower prices to break ASML's lithography monopoly — tech giant leverages in-house manufacturing to slash prices to lure back American chipmakers",
@@ -239,7 +291,7 @@
     "summary": "Nikon will try to claw back lithography customers by selling argon fluoride (ArF) tools for less than the market leader, ASML.",
     "category": "hardware",
     "image": "https://cdn.mos.cms.futurecdn.net/iiBPT3tVuXkSdD4xCKSR9m-1280-80.png",
-    "id": 25
+    "id": 30
   },
   {
     "title": "Kevin O'Leary claims Chinese propaganda is to blame for anti-datacenter backlash, 'hundreds of millions of dollars' being spent to kill US dominance in AI — industry proponents and Trump administration reinforce claims of foreign interference",
@@ -249,7 +301,7 @@
     "summary": "Kevin O'Leary claims Chinese propaganda to blame for anti-datacenter sentiment.",
     "category": "hardware",
     "image": "https://cdn.mos.cms.futurecdn.net/7u3dGR9rDkxP8rzWMmKyE3-1280-80.jpg",
-    "id": 26
+    "id": 31
   },
   {
     "title": "Huawei chairman thanks the US for export restrictions on chips, says it supercharged China’s semiconductor industry — Washington’s export controls encouraged Chinese firms to invest in R&D and build their own tech stack competing with American tech",
@@ -259,7 +311,7 @@
     "summary": "Huawei's current Rotating Chairman thanked the United States for its export bans, which boosted the progress of China's semiconductor industry. He made the comment after unveiling the groundbreaking L...",
     "category": "hardware",
     "image": "https://cdn.mos.cms.futurecdn.net/GgPdYEHgr4MXhF4VFT3HtR-1280-80.png",
-    "id": 27
+    "id": 32
   },
   {
     "title": "Sellers circumvent Lenovo’s retro handheld ban with cheap wholesale storefronts — $41 gray-market G02 units pop up on Alibaba following initial storefront purge, systems were pulled from sale amid copyright drama and regional restrictions",
@@ -269,7 +321,7 @@
     "summary": "Lenovo has pulled the G02 from sale on different Chinese e-commerce platforms after the company discovered that it was being sold outside of China.",
     "category": "industry",
     "image": "https://cdn.mos.cms.futurecdn.net/MnGTq7gv6VYtv9CWS75eDK-1280-80.jpg",
-    "id": 28
+    "id": 33
   },
   {
     "title": "Lucky PC builder snipes $2,000 ROG Astral RTX 5080 on Facebook Marketplace for $500 — gets a nearly 75% discount card that 'works perfectly'",
@@ -279,7 +331,7 @@
     "summary": "A Redditor scored an RTX 5080 for $500 after they found it on Facebook Marketplace while browsing for deals. Another buyer even offered $800 for the GPU as the OP was on the way to pick up the item, b...",
     "category": "hardware",
     "image": "https://cdn.mos.cms.futurecdn.net/YbgFKfdJ7uwkyVZ5ExgFE7-1280-80.jpg",
-    "id": 29
+    "id": 34
   },
   {
     "title": "SoftBank says it will invest up to €75 billion to build French data centers",
@@ -289,7 +341,7 @@
     "summary": "The goal, the firm said, is to develop and operate up to 5 gigawatts of additional data center capacity.",
     "category": "industry",
     "image": "https://techcrunch.com/wp-content/uploads/2025/07/GettyImages-2224533087.jpg?w=1024",
-    "id": 30
+    "id": 35
   },
   {
     "title": "‘What a joke’: Github Copilot’s new token-based billing spurs consternation among devs",
@@ -299,7 +351,7 @@
     "summary": "The golden age of Microsoft's Github Copilot appears to be at an end.",
     "category": "tools",
     "image": "https://techcrunch.com/wp-content/uploads/2023/11/github-copilot-chat-2.webp?w=1200",
-    "id": 31
+    "id": 36
   },
   {
     "title": "Meta is reportedly developing an AI pendant",
@@ -309,7 +361,7 @@
     "summary": "Meta seems to be making big bets on AI-powered hardware.",
     "category": "industry",
     "image": "https://techcrunch.com/wp-content/uploads/2026/05/meta-ai-GettyImages-2264943773.jpg?w=1024",
-    "id": 32
+    "id": 37
   },
   {
     "title": "I put Google’s 24/7 AI assistant Gemini Spark to work, and it’s actually pretty useful",
@@ -319,7 +371,7 @@
     "summary": "Gemini Spark helps automate everyday tasks, from inbox summaries to local event planning, but it’s unclear why Google made it a separate product.",
     "category": "models",
     "image": "https://techcrunch.com/wp-content/uploads/2026/05/gemini-spark-GettyImages-2276583186-1.jpg?w=1024",
-    "id": 33
+    "id": 38
   },
   {
     "title": "Do You Actually Need to Pay for Transcription Software?",
@@ -329,7 +381,7 @@
     "summary": "I tested Wispr Flow and various AI-powered transcription software to see whether you should bother subscribing or stick with free services.",
     "category": "industry",
     "image": "https://media.wired.com/photos/6a16ee1164b9036ecc8e9699/191:100/w_1280,c_limit/GettyImages-1241968547.jpg",
-    "id": 34
+    "id": 39
   },
   {
     "title": "Boston Children’s uses AI to unlock new diagnoses",
@@ -338,7 +390,7 @@
     "date": "2026-05-29",
     "summary": "Boston Children’s Hospital uses OpenAI technology to improve patient care, reduce operational burden, and help diagnose more than 40 rare disease cases.",
     "category": "industry",
-    "id": 35
+    "id": 40
   },
   {
     "title": "How Braintrust turns customer requests into code with Codex",
@@ -347,7 +399,7 @@
     "date": "2026-05-29",
     "summary": "How Braintrust engineers use Codex with GPT-5.5 to run experiments and code faster.",
     "category": "models",
-    "id": 36
+    "id": 41
   },
   {
     "title": "Strengthening societal resilience with Rosalind Biodefense",
@@ -356,7 +408,7 @@
     "date": "2026-05-29",
     "summary": "OpenAI launches Rosalind Biodefense, expanding trusted access to GPT-Rosalind for vetted developers and U.S. government partners advancing biodefense, public health, and pandemic preparedness through ...",
     "category": "models",
-    "id": 37
+    "id": 42
   },
   {
     "title": "A shared playbook for trustworthy third party evaluations",
@@ -365,7 +417,7 @@
     "date": "2026-05-29",
     "summary": "OpenAI shares guidance on third-party AI evaluations, covering how to assess model capabilities, safeguards, and validity for frontier systems.",
     "category": "research",
-    "id": 38
+    "id": 43
   },
   {
     "title": "Take our I/O 2026 quiz, vibe coded in Google AI Studio.",
@@ -375,7 +427,7 @@
     "summary": "We used Google AI Studio to vibe code a quiz about our top I/O 2026 announcements.",
     "category": "industry",
     "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/IOQuiz2026_social.max-600x600.format-webp.webp",
-    "id": 39
+    "id": 44
   },
   {
     "title": "9 demos of Gemini Omni and Gemini 3.5 in action",
@@ -385,7 +437,7 @@
     "summary": "Watch 9 videos showing the capabilities of Gemini Omni and Gemini 3.5, announced at Google I/O 2026.",
     "category": "models",
     "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Gemini_Omni_and_Gemini_3.5_hero.max-600x600.format-webp.webp",
-    "id": 40
+    "id": 45
   },
   {
     "title": "Check out real-life AI prototypes from the Futures Lab.",
@@ -395,7 +447,7 @@
     "summary": "University of Waterloo students develop AI prototypes like sign language tutors to reshape the future of education and work.",
     "category": "industry",
     "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/FutureLabs_social.max-600x600.format-webp.webp",
-    "id": 41
+    "id": 46
   },
   {
     "title": "Nvidia and Microsoft tease \"a new era of PC\" ahead of Computex 2026 — coordinated social media posts could indicate that rumored N1X laptops will be Windows on Arm systems",
@@ -405,7 +457,7 @@
     "summary": "An Nvidia-powered Arm PC running Windows could inspire new local AI experiences beyond Copilot+.",
     "category": "hardware",
     "image": "https://cdn.mos.cms.futurecdn.net/Cp3pwQj6c3BuvJ3XzYaXQV-1280-80.webp",
-    "id": 42
+    "id": 47
   },
   {
     "title": "TikTok owner ByteDance is reportedly developing its own custom AI CPUs — company looks to ease China's dependence on US chipmakers",
@@ -415,7 +467,7 @@
     "summary": "TikTok owner Bytedance reportedly developing its own custom CPUs in a bid to reduce costs and dependence from US chipmakers",
     "category": "hardware",
     "image": "https://cdn.mos.cms.futurecdn.net/adVwcJnwbx2jdyHWYU4LhZ-1280-80.jpg",
-    "id": 43
+    "id": 48
   },
   {
     "title": "Cooler Master is bringing active cooling to DDR5 RAM, promising up to 15-degree temperature drops — 'MasterDIMM' combines G.SKILL memory with a built-in fan, kits run up to 128GB",
@@ -425,7 +477,7 @@
     "summary": "Cooler Master and G.Skill are launching \"MasterDIMM\" — a new line of DDR5 memory sticks that comes enveloped in a stylishly-thick black and gold heatsink that features a blower fan. Two RGB stripes ru...",
     "category": "hardware",
     "image": "https://cdn.mos.cms.futurecdn.net/4VqCyCGeRuhr8f5ywohgzR-1280-80.jpg",
-    "id": 44
+    "id": 49
   },
   {
     "title": "Amazon unveils 'Resilient Network Graphs' data center network that cuts hardware by 69% and boosts throughput by 33% — now the default for most AWS workloads",
@@ -435,56 +487,6 @@
     "summary": "AWS has revealed RNG, a new random-graph-based data center network that delivers 33% higher throughput, cuts network power consumption by 40%, uses 69% fewer devices, and is already the default archit...",
     "category": "hardware",
     "image": "https://cdn.mos.cms.futurecdn.net/RSehTW2oDYtFQurj9iJ5cS-1280-80.jpg",
-    "id": 45
-  },
-  {
-    "title": "Acer unveils its first Ryzen 9 9955X3D gaming laptop — refreshed Nitro 16 joins new Predator Helios 18 AI and streaming-only Nitro Blaze Link handheld",
-    "url": "https://www.tomshardware.com/laptops/gaming-laptops/acer-unveils-first-ryzen-9-9955x3d-gaming-laptop-refreshed-nitro-16-joins-new-predator-helios-18-ai-and-streaming-only-nitro-blaze-link-handheld",
-    "source": "Tom's Hardware",
-    "date": "2026-05-29",
-    "summary": "Acer has two new gaming laptops for Computex, including its first laptop with the Ryzen 9 9955HX3D CPU, and a device that sports triple PCIe 5.0 storage.",
-    "category": "hardware",
-    "image": "https://cdn.mos.cms.futurecdn.net/vPjK9vQ39jUcE7ZU9aCZFj-1280-80.jpg",
-    "id": 46
-  },
-  {
-    "title": "Pocket a huge $252 saving on a two-year PIA VPN subscription and score two months for free — 88% discount on no-logs provider with servers in 90 different countries and support for unlimited connections",
-    "url": "https://www.tomshardware.com/software/vpn/pocket-a-huge-usd252-saving-on-a-two-year-pia-vpn-subscription-and-score-two-months-for-free-88-percent-discount-on-no-logs-provider-with-servers-in-90-different-countries-and-support-for-unlimited-connections",
-    "source": "Tom's Hardware",
-    "date": "2026-05-29",
-    "summary": "Grab this PIA 2-year VPN deal for only $34.58 and save a massive $252.22 compared to a standard monthly sub, unlocking access to privacy-protecting connections online for the equivalent of just $1.33 ...",
-    "category": "hardware",
-    "image": "https://cdn.mos.cms.futurecdn.net/bQcQfFU3vPzYhRtcMtBB4m-1280-80.png",
-    "id": 47
-  },
-  {
-    "title": "New Silicon Motion SM2524XT chip brings 14 GB/s to mainstream SSDs — 6nm DRAMless controller boasts heavy AI PC optimization and slashes KV cache latency",
-    "url": "https://www.tomshardware.com/pc-components/ssds/new-silicon-motion-sm2524xt-chip-brings-14-gb-s-to-mainstream-ssds-6nm-dramless-controller-boasts-heavy-ai-pc-optimization-and-slashes-kv-cache-latency",
-    "source": "Tom's Hardware",
-    "date": "2026-05-29",
-    "summary": "Silicon Motion announces its SM2524XT mainstream SSD controller that promises 14 GB/s read speed, up to 2.5 million random IOPS, and sustained random performance.",
-    "category": "hardware",
-    "image": "https://cdn.mos.cms.futurecdn.net/TU9EDG87KkSbJVcVsxuFmU-1280-80.jpg",
-    "id": 48
-  },
-  {
-    "title": "Independent cyber audit finds zero malware or backdoors in DJI drones — U.S. firm's hardware analysis challenges FCC ban amid ongoing $1.56 billion legal battle",
-    "url": "https://www.tomshardware.com/tech-industry/dji-commissioned-security-audit-finds-no-major-vulnerabilities-in-two-drone-models-as-fcc-lawsuit-continues",
-    "source": "Tom's Hardware",
-    "date": "2026-05-29",
-    "summary": "DJI has published the results of an independent security assessment by U.S. cybersecurity firm OnDefend.",
-    "category": "industry",
-    "image": "https://cdn.mos.cms.futurecdn.net/TAcUHzfy8xzPUBAcDy2Df8-1280-80.jpg",
-    "id": 49
-  },
-  {
-    "title": "Startup unveils underwater drone designed for protecting undersea cables — small drone dives to 1,640 feet, comes with four-hour battery endurance or unlimited range when tethered to surface power source",
-    "url": "https://www.tomshardware.com/tech-industry/startup-unveils-uncrewed-vehicle-designed-for-monitoring-undersea-cables-small-drone-comes-with-four-hour-battery-endurance-or-unlimited-range-when-tethered-to-surface-power-source",
-    "source": "Tom's Hardware",
-    "date": "2026-05-29",
-    "summary": "A British-New Zealand startup revealed an AI-powered undersea drone designed to for patrolling undersea infrastructure. It's powered by an autonomous software stack that allows a single operator to co...",
-    "category": "industry",
-    "image": "https://cdn.mos.cms.futurecdn.net/SRYiAyMD3KZoShx8QJjJre-1280-80.png",
     "id": 50
   }
 ]
