@@ -1,5 +1,16 @@
 [
   {
+    "title": "How we used Gemini to build Google I/O 2026",
+    "url": "https://blog.google/innovation-and-ai/technology/ai/io-2026-google-ai/",
+    "source": "Google AI Blog",
+    "date": "2026-06-01",
+    "summary": "Learn how Googlers used AI to produce Google I/O 2026.",
+    "category": "models",
+    "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/AI_IO.max-600x600.format-webp.webp",
+    "id": 1,
+    "featured": true
+  },
+  {
     "title": "NVIDIA AI Cloud Ecosystem Expands Worldwide to Meet Global AI Compute Demand",
     "url": "https://blogs.nvidia.com/blog/ai-cloud-ecosystem/",
     "source": "NVIDIA Blog",
@@ -7,8 +18,7 @@
     "summary": "The NVIDIA AI Cloud ecosystem is accelerating the global buildout of AI factory infrastructure. Partners are expanding capacity to meet growing demand from enterprises, startups, nations, AI labs and ...",
     "category": "tools",
     "image": "https://blogs.nvidia.com/wp-content/uploads/2026/05/partner-social-ncp-ai-factory-announcement-1920x1080-1.jpg",
-    "id": 1,
-    "featured": true
+    "id": 2
   },
   {
     "title": "NVIDIA Factory Operations Blueprint Gives Factories a New AI Brain",
@@ -18,7 +28,7 @@
     "summary": "As factories move from isolated automation to plant-wide intelligence, manufacturers need AI systems that can connect live machine signals, quality systems, work instructions and operational alerts in...",
     "category": "hardware",
     "image": "https://blogs.nvidia.com/wp-content/uploads/2026/05/robotics-factory-ai-computer-1280x680-5259650.jpg",
-    "id": 2
+    "id": 3
   },
   {
     "title": "Taiwan’s Industry Titans Turbocharge World’s AI Infrastructure Buildout With NVIDIA",
@@ -28,7 +38,7 @@
     "summary": "Taiwan is home to more than 500 NVIDIA ecosystem partners. More than 1 million NVIDIA MGX rack components for NVIDIA Vera Rubin infrastructure come together in Taiwan, from across 25 factory sites. As...",
     "category": "hardware",
     "image": "https://blogs.nvidia.com/wp-content/uploads/2026/05/Taiwan-AI-Infra-blog-KV-still.jpg",
-    "id": 3
+    "id": 4
   },
   {
     "title": "How Cosmos 3 Helps Physical AI Think Before It Acts",
@@ -38,7 +48,7 @@
     "summary": "",
     "category": "industry",
     "image": "https://blogs.nvidia.com/wp-content/uploads/2026/05/Featured-image.png",
-    "id": 4
+    "id": 5
   },
   {
     "title": "NVIDIA Levels Up Local AI Agents Across RTX PCs and DGX Spark",
@@ -48,7 +58,77 @@
     "summary": "Personal agents are exploding in popularity, with open source projects like OpenClaw and Hermes seeing rapid adoption by AI developer communities on GitHub. Built to adapt to individual preferences an...",
     "category": "tools",
     "image": "https://blogs.nvidia.com/wp-content/uploads/2026/05/computex-2026-nv-blog-1280x680-1.jpg",
-    "id": 5
+    "id": 6
+  },
+  {
+    "title": "Anthropic files fro IPO — Claude maker races OpenAI and SpaceX to Wall Street",
+    "url": "https://www.tomshardware.com/tech-industry/anthropic-files-to-go-public-claude-maker-races-openai-and-spacex-to-ipo",
+    "source": "Tom's Hardware",
+    "date": "2026-06-01",
+    "summary": "Anthropic, the AI company that makes Claude, confidentially filed to go public with the U.S. Securities and Exchange Commission.",
+    "category": "models",
+    "image": "https://cdn.mos.cms.futurecdn.net/EZuRVPH6Lz9ExTNXiAWFR9-1280-80.jpg",
+    "id": 7
+  },
+  {
+    "title": "Computex 2026 Day Zero Wrap-Up: Nvidia launches RTX Spark Superchip assault on laptop and desktop markets, Intel readies Xeon 6+",
+    "url": "https://www.tomshardware.com/tech-industry/computex-2026-day-zero-wrap-up-nvidia-launches-rtx-spark-superchip-assault-on-laptop-and-desktop-markets-intel-readies-xeon-6",
+    "source": "Tom's Hardware",
+    "date": "2026-06-01",
+    "summary": "Here's the best of what was announced during the opening hours of Computex 2026",
+    "category": "hardware",
+    "image": "https://cdn.mos.cms.futurecdn.net/52RfJGEnEUPeDsYGpwse2U-1280-80.jpg",
+    "id": 8
+  },
+  {
+    "title": "Nvidia's RTX Spark could caplitalize where Qualcomm's Arm-based efforts have not — following the expiration of Qualcomm's Windows on Arm deal, Nvidia stands poised to pick up the slack",
+    "url": "https://www.tomshardware.com/laptops/nvidia-enters-the-windows-pc-market-with-rtx-spark",
+    "source": "Tom's Hardware",
+    "date": "2026-06-01",
+    "summary": "Nvidia unveiled the RTX Spark superchip on May 31st ahead of its GTC Taipei event, putting a 20-core Arm-based Grace CPU and a Blackwell RTX GPU on a single package.",
+    "category": "hardware",
+    "image": "https://cdn.mos.cms.futurecdn.net/vN58dT2mBzCY6syUcNhM4C-1280-80.jpg",
+    "id": 9
+  },
+  {
+    "title": "Qualcomm aims Snapdragon C laptop chip at the budget laptop segment, as manufacturers feel the DRAM squeeze — analysts warn sub $500 laptop market may disappear before 2028",
+    "url": "https://www.tomshardware.com/laptops/qualcomm-aims-snapdragon-c-at-300-laptops-as-memory-costs-gut-the-budget-segment",
+    "source": "Tom's Hardware",
+    "date": "2026-06-01",
+    "summary": "Qualcomm announced the Snapdragon C Platform on May 28th, ahead of Computex 2026 in Taipei.",
+    "category": "hardware",
+    "image": "https://cdn.mos.cms.futurecdn.net/vyBsbnxU8JeMtkADjrCxbZ-1280-80.png",
+    "id": 10
+  },
+  {
+    "title": "256GB of dual-channel RAM hits mass market  thanks to Origin Code  — quad-rank CUDIMM packs 128GB of DDR5-8000 into a single module",
+    "url": "https://www.tomshardware.com/pc-components/ram/256gb-of-dual-channel-ram-hits-mass-market-thanks-to-origin-code-quad-rank-cudimm-packs-128gb-of-ddr5-8000-into-a-single-module",
+    "source": "Tom's Hardware",
+    "date": "2026-06-01",
+    "summary": "Origin Code reveals the brand's Vortex 4R DDR5-8000 256GB (2x128GB) CUDIMM memory kits at Computex 2025.",
+    "category": "hardware",
+    "image": "https://cdn.mos.cms.futurecdn.net/a9xgGw2r2JhkcBs6A6YmVh-1280-80.jpg",
+    "id": 11
+  },
+  {
+    "title": "Nvidia says RTX Spark chip will support all major anti-cheat and DRM technologies — Fortnite, Valorant, Denuvo, and more to work natively with Windows on Arm",
+    "url": "https://www.tomshardware.com/pc-components/cpus/nvidia-says-rtx-spark-chip-will-support-all-major-anti-cheat-and-drm-technologies-fortnite-valorant-denuvo-and-more-to-work-natively-with-windows-on-arm",
+    "source": "Tom's Hardware",
+    "date": "2026-06-01",
+    "summary": "Microsoft and Nvidia are working together to bring popular anti-cheat software to the new RTX Spark chip, allowing support for all major multiplayer games. So far, Fortnite is the only game that runs ...",
+    "category": "hardware",
+    "image": "https://cdn.mos.cms.futurecdn.net/EzaSfwnXQ9cZe8iMmiCaNT-1280-80.jpg",
+    "id": 12
+  },
+  {
+    "title": "Supermicro shows off Vera Rubin NVL72 rack with all-new type of coolant — company claims coolant offers 1,000 times higher electrical impedance over standard cooling",
+    "url": "https://www.tomshardware.com/desktops/servers/supermicro-shows-off-vera-rubin-nvl72-rack-with-all-new-type-of-coolant-company-claims-coolant-offers-1-000-times-higher-electrical-impedance-over-standard-cooling",
+    "source": "Tom's Hardware",
+    "date": "2026-06-01",
+    "summary": "Supermicro demonstrates upcoming servers based on AMD’s EPYC ‘Venice’ CPUs, MI450 accelerators, and Nvidia’s Vera Rubin-based solutions.",
+    "category": "hardware",
+    "image": "https://cdn.mos.cms.futurecdn.net/Dpt4ueguGzQZdFXE7AzPdP-1280-80.jpg",
+    "id": 13
   },
   {
     "title": "US closes loophole that allowed Chinese-owned subsidiaries located outside China to buy AI chips — report claims that hundreds of thousands of advanced AI chips have been acquired through BIS blind spot",
@@ -58,7 +138,7 @@
     "summary": "The BIS just issued a clarification that Chinese-owned subsidiaries are included in U.S. export controls, even if they're based outside of China. However, one source said that some companies have been...",
     "category": "hardware",
     "image": "https://cdn.mos.cms.futurecdn.net/65KTueABkvd4J4WBitjwX9-1280-80.jpg",
-    "id": 6
+    "id": 14
   },
   {
     "title": "Intel warns it has 'a healthy dose of paranoia' over Nvidia entrance into PC market — company says RTX Spark is 'great for the market' while touting the virtues of x86",
@@ -68,7 +148,7 @@
     "summary": "Intel reacts to Nvidia’s RTX Spark announcement, and says that it’s treating the green giant’s entrance into consumer SoCs with “a healthy dose of skepticism.\"",
     "category": "hardware",
     "image": "https://cdn.mos.cms.futurecdn.net/zJJHTzdkSwJptkeprCr2j3-1280-80.jpg",
-    "id": 7
+    "id": 15
   },
   {
     "title": "AMD promises 13% uplift with new EXPO ‘Ultra Low Latency’ overclocking on DDR5 DIMMs — automatic memory overclocking delivers 4% improvement over standard EXPO, says AMD",
@@ -78,7 +158,7 @@
     "summary": "AMD’s upcoming EXPO ‘Ultra Low Latency’ automatic memory overclocking promises a 13% improvement over standard DDR5 speeds, as well as a 4% jump compared to standard EXPO.",
     "category": "hardware",
     "image": "https://cdn.mos.cms.futurecdn.net/SontLjjLAsAjqbZvrXfiPj-1280-80.jpg",
-    "id": 8
+    "id": 16
   },
   {
     "title": "We went hands-on with Qualcomm's new '$300 and up' ARM laptop platform with mystery eight-core CPU — active-cooled Snapdragon C laptop surfaces in Acer Aspire Go 15",
@@ -88,7 +168,7 @@
     "summary": "We've learned a few new details of the Snapdragon C platform at Computex 2026 by opening up a few Windows utilities on a demo unit.",
     "category": "hardware",
     "image": "https://cdn.mos.cms.futurecdn.net/MWVX86YUo6YYm9QVvd8cpj-1280-80.jpg",
-    "id": 9
+    "id": 17
   },
   {
     "title": "DLSS 4.5 Ray Reconstruction update arrives in August for better ray tracing visuals — broader training data set and second-gen transformer architecture combine for improved image quality",
@@ -98,7 +178,7 @@
     "summary": "At Computex 2026, Nvidia announced DLSS 4.5 Ray Reconstruction, an updated version of its neural RT denoiser with a second-gen transformer architecture and a broader training data set for better outpu...",
     "category": "hardware",
     "image": "https://cdn.mos.cms.futurecdn.net/PZsqFCGm4B3oJBzRLMFFNW-1280-80.jpg",
-    "id": 10
+    "id": 18
   },
   {
     "title": "Microsoft Surface Laptop Ultra weilds Nvidia's RTX Spark superchip with 128GB of RAM, 20 Arm CPU cores, and a Blackwell GPU — 15-inch mini-LED PixelSense Ultra display rounds out the powerful package",
@@ -108,7 +188,7 @@
     "summary": "Powered by Nvidia's RTX Spark Superchip, the Surface Laptop Ultra features 20 Arm CPU cores, 6,144 CUDA cores, and up to 128GB of unified memory",
     "category": "hardware",
     "image": "https://cdn.mos.cms.futurecdn.net/kqqYficBQyDQGGTbwDAEyJ-1280-80.jpg",
-    "id": 11
+    "id": 19
   },
   {
     "title": "Nvidia lays out RTX Spark roadmap for laptops and desktop PCs at Computex 2026 — three generations outlined, Rubin with LPDDR6 memory, followed by Rosa Feynman",
@@ -118,7 +198,7 @@
     "summary": "Along with its first-generation RTX Spark platform for desktop and laptop PCs, Nvidia CEO Jensen Huang revealed the company's commitment to future generations of those platforms on its future roadmaps...",
     "category": "hardware",
     "image": "https://cdn.mos.cms.futurecdn.net/oqQzPxhGwfTqrmjNcKCxaL-1280-80.jpg",
-    "id": 12
+    "id": 20
   },
   {
     "title": "Nvidia unveils RTX Spark Superchip for laptops and desktop PCs at Computex 2026 – new platform promises to turn Windows into an agentic AI OS with Arm CPU, Blackwell GPU, and 128GB unified memory",
@@ -128,27 +208,7 @@
     "summary": "At Computex 2026, Nvidia CEO Jensen Huang unveiled the RTX Spark Superchip, a new Arm laptop and desktop platform that powers agentic AI on Windows with a 20-core Arm CPU, powerful 6144-CUDA-core Blac...",
     "category": "hardware",
     "image": "https://cdn.mos.cms.futurecdn.net/zJJHTzdkSwJptkeprCr2j3-1280-80.jpg",
-    "id": 13
-  },
-  {
-    "title": "Intel Xeon 7 ‘Diamond Rapids’ CPUs officially launching in 2027 on Intel 18A-P — next-gen P-core Xeon features PCIe 6.0, 50% higher core counts, and twice the memory bandwidth",
-    "url": "https://www.tomshardware.com/pc-components/cpus/intel-xeon-7-diamond-rapids-cpus-officially-launching-in-2027-on-intel-18a-p-next-gen-p-core-xeon-features-pcie-6-0-50-percent-higher-core-counts-and-twice-the-memory-bandwidth",
-    "source": "Tom's Hardware",
-    "date": "2026-06-01",
-    "summary": "Intel has officially confirmed its next-gen Xeon 7 Diamond Rapids CPUs are coming in 2027, featuring 50% higher core counts and twice the memory bandwidth of Xeon 6 in a bid to compete against AMD’s u...",
-    "category": "hardware",
-    "image": "https://cdn.mos.cms.futurecdn.net/ahhn4jSgJG4vyoYRpPAEcF-1280-80.jpg",
-    "id": 14
-  },
-  {
-    "title": "Intel details long-awaited Crescent Island AI GPU at Computex, boasts up to 480 GB of LPDDR5X to combat memory shortages — company shares more details of its Xe3P inference accelerator at Computex",
-    "url": "https://www.tomshardware.com/pc-components/gpus/intel-details-long-awaited-crescent-island-ai-gpu-at-computex-boasts-up-to-480-gb-of-lpddr5x-to-combat-memory-shortages-company-shares-more-details-of-its-xe3p-inference-accelerator-at-computex",
-    "source": "Tom's Hardware",
-    "date": "2026-06-01",
-    "summary": "Intel revealed more details of its next-gen Data Center GPU, code-named Crescent Island, at Computex 2026. This inference-optimized chip will feature up to 480GB of LPDDR5X memory for efficient handli...",
-    "category": "hardware",
-    "image": "https://cdn.mos.cms.futurecdn.net/EHBDowzSyUhefjVDkxcdH6-1280-80.jpg",
-    "id": 15
+    "id": 21
   },
   {
     "title": "Intel Xeon 6+ ‘Clearwater Forest’ puts 18A in the data center with up to 288 cores, 576 MB of L3 cache — new Xeon 6990E+ is 30% faster per thread than 192-core AMD Epyc 9965, says Intel",
@@ -158,7 +218,27 @@
     "summary": "Intel is putting its 18A node into the data center with new Xeon 6+ Clearwater Forest CPUs, which pack up to 288 E-cores for dense compute.",
     "category": "hardware",
     "image": "https://cdn.mos.cms.futurecdn.net/LpHrEQEznd4SDT4ZPPADf6-1280-80.jpg",
-    "id": 16
+    "id": 22
+  },
+  {
+    "title": "Intel Xeon 7 ‘Diamond Rapids’ CPUs officially launching in 2027 on Intel 18A-P — next-gen P-core Xeon features PCIe 6.0, 50% higher core counts, and twice the memory bandwidth",
+    "url": "https://www.tomshardware.com/pc-components/cpus/intel-xeon-7-diamond-rapids-cpus-officially-launching-in-2027-on-intel-18a-p-next-gen-p-core-xeon-features-pcie-6-0-50-percent-higher-core-counts-and-twice-the-memory-bandwidth",
+    "source": "Tom's Hardware",
+    "date": "2026-06-01",
+    "summary": "Intel has officially confirmed its next-gen Xeon 7 Diamond Rapids CPUs are coming in 2027, featuring 50% higher core counts and twice the memory bandwidth of Xeon 6 in a bid to compete against AMD’s u...",
+    "category": "hardware",
+    "image": "https://cdn.mos.cms.futurecdn.net/ahhn4jSgJG4vyoYRpPAEcF-1280-80.jpg",
+    "id": 23
+  },
+  {
+    "title": "Intel details long-awaited Crescent Island AI GPU at Computex, boasts up to 480 GB of LPDDR5X to combat memory shortages — company shares more details of its Xe3P inference accelerator at Computex",
+    "url": "https://www.tomshardware.com/pc-components/gpus/intel-details-long-awaited-crescent-island-ai-gpu-at-computex-boasts-up-to-480-gb-of-lpddr5x-to-combat-memory-shortages-company-shares-more-details-of-its-xe3p-inference-accelerator-at-computex",
+    "source": "Tom's Hardware",
+    "date": "2026-06-01",
+    "summary": "Intel revealed more details of its next-gen Data Center GPU, code-named Crescent Island, at Computex 2026. This inference-optimized chip will feature up to 480GB of LPDDR5X memory for efficient handli...",
+    "category": "hardware",
+    "image": "https://cdn.mos.cms.futurecdn.net/EHBDowzSyUhefjVDkxcdH6-1280-80.jpg",
+    "id": 24
   },
   {
     "title": "AMD’s formerly China-exclusive Radeon RX 9070 GRE goes global for $549 on June 2 — RDNA 4 GPU will bridge the gap between RX 9060 XT and RX 9070",
@@ -168,7 +248,7 @@
     "summary": "AMD has officially launched the Radeon RX 9070 GRE for $549, an RDNA 4 graphics card that was previously exclusive to the Chinese market.",
     "category": "hardware",
     "image": "https://cdn.mos.cms.futurecdn.net/jnq9Gbw6TNh7CugEU2Q7rH-1280-80.jpg",
-    "id": 17
+    "id": 25
   },
   {
     "title": "Watch Nvidia's Computex 2026 keynote here — Jensen Huang takes the stage for Computex and GTC Taipei at 8pm PT / 11pm ET on May 31",
@@ -178,7 +258,7 @@
     "summary": "Nvidia CEO Jensen Huang is set to take the stage at Computex 2026 and GTC Taipei. Here's how to watch the keynote address, where we could hear more about the rumored N1X.",
     "category": "hardware",
     "image": "https://cdn.mos.cms.futurecdn.net/s8oZY8R9mUgEH85SaFQLu5-1280-80.png",
-    "id": 18
+    "id": 26
   },
   {
     "title": "AMD confirms AM5 support through 2029 — Zen 4 and 5 platform will likely see two more generations, at least",
@@ -188,7 +268,7 @@
     "summary": "AMD confirmed it will support its current AM5 socket through 2029, extending the timeline by two years and likely lining up at least two more generations on the socket.",
     "category": "hardware",
     "image": "https://cdn.mos.cms.futurecdn.net/wBupe4qhxBjnYPcXa5HU2k-1280-80.jpg",
-    "id": 19
+    "id": 27
   },
   {
     "title": "AMD brings back Ryzen 7 5800X3D, launches Ryzen 7 7700X3D to combat rising component prices — eight-core X3D CPUs arrive under $350 for AM4 or AM5, DDR4 or DDR5",
@@ -198,200 +278,37 @@
     "summary": "AMD is rereleasing the Ryzen 7 5800X3D and introducing the Ryzen 7 7700X3D, both eight-core chips with 3DV-Cache targeting midrange gamers who’ve been under the thumb of rising component prices.",
     "category": "hardware",
     "image": "https://cdn.mos.cms.futurecdn.net/GzEgUMa8S5PrXBdVHc4LWR-1280-80.jpg",
-    "id": 20
-  },
-  {
-    "title": "IEA: About Energy and AI",
-    "url": "https://www.iea.org/reports/key-questions-on-energy-and-ai/executive-summary",
-    "source": "Hacker News",
-    "date": "2026-06-01",
-    "summary": "Article URL: https://www.iea.org/reports/key-questions-on-energy-and-ai/executive-summary Comments URL: https://news.ycombinator.com/item?id=48355510 Points: 1 # Comments: 0",
-    "category": "industry",
-    "id": 21
-  },
-  {
-    "title": "MiniMax debuts AI model built for long and complex coding tasks",
-    "url": "https://www.scmp.com/tech/tech-trends/article/3355529/minimax-debuts-ai-model-built-long-and-complex-coding-tasks",
-    "source": "Hacker News",
-    "date": "2026-06-01",
-    "summary": "Article URL: https://www.scmp.com/tech/tech-trends/article/3355529/minimax-debuts-ai-model-built-long-and-complex-coding-tasks Comments URL: https://news.ycombinator.com/item?id=48355509 Points: 1 # C...",
-    "category": "industry",
-    "image": "https://cdn.i-scmp.com/sites/default/files/styles/og_image_scmp_generic/public/d8/images/canvas/2026/06/01/92f9e232-3c4a-4404-9353-39d1e3bdd3a1_1795f5d9.jpg?itok=WFDfjGjY&v=1780297051",
-    "id": 22
-  },
-  {
-    "title": "Copilot usage metrics API adds cohorts for AI adoption",
-    "url": "https://github.blog/changelog/2026-05-29-copilot-usage-metrics-api-adds-cohorts-for-ai-adoption/",
-    "source": "Hacker News",
-    "date": "2026-06-01",
-    "summary": "Article URL: https://github.blog/changelog/2026-05-29-copilot-usage-metrics-api-adds-cohorts-for-ai-adoption/ Comments URL: https://news.ycombinator.com/item?id=48355451 Points: 1 # Comments: 0",
-    "category": "tools",
-    "image": "https://github.blog/wp-content/uploads/2026/05/599757300-1caf4345-b0bc-430c-8add-a0a6d71bb564.jpeg",
-    "id": 23
-  },
-  {
-    "title": "AI Companies Don't Want Us to Be Token Efficient",
-    "url": "https://prgrmmr.org/posts/ai-companies-dont-want-us-to-be-token-efficient/",
-    "source": "Hacker News",
-    "date": "2026-06-01",
-    "summary": "Article URL: https://prgrmmr.org/posts/ai-companies-dont-want-us-to-be-token-efficient/ Comments URL: https://news.ycombinator.com/item?id=48355440 Points: 3 # Comments: 0",
-    "category": "industry",
-    "id": 24
-  },
-  {
-    "title": "AI was supposed to prevent downtime. Instead, it's creating new kinds of outages",
-    "url": "https://www.fastcompany.com/91549985/ai-outages-splunk-report",
-    "source": "Hacker News",
-    "date": "2026-06-01",
-    "summary": "Article URL: https://www.fastcompany.com/91549985/ai-outages-splunk-report Comments URL: https://news.ycombinator.com/item?id=48355419 Points: 3 # Comments: 0",
-    "category": "industry",
-    "id": 25
-  },
-  {
-    "title": "AI debt sales reshape global corporate bond markets",
-    "url": "https://www.reuters.com/business/finance/ai-debt-sales-reshape-global-corporate-bond-markets-2026-06-01/",
-    "source": "Hacker News",
-    "date": "2026-06-01",
-    "summary": "Article URL: https://www.reuters.com/business/finance/ai-debt-sales-reshape-global-corporate-bond-markets-2026-06-01/ Comments URL: https://news.ycombinator.com/item?id=48355399 Points: 2 # Comments: ...",
-    "category": "industry",
-    "id": 26
-  },
-  {
-    "title": "Show HN: Vmette – hardware-isolated microVM sandbox for local AI agents (macOS)",
-    "url": "https://github.com/chamuka-inc/vmette",
-    "source": "Hacker News",
-    "date": "2026-06-01",
-    "summary": "Article URL: https://github.com/chamuka-inc/vmette Comments URL: https://news.ycombinator.com/item?id=48355282 Points: 2 # Comments: 0",
-    "category": "industry",
-    "image": "https://opengraph.githubassets.com/171687153dbe1ecbe50d6d10954792241673a3541e6b074c07c4d948db344843/chamuka-inc/vmette",
-    "id": 27
-  },
-  {
-    "title": "Show HN: An interactive fiction game about PR reviews, AI agents, team dynamics",
-    "url": "https://themerge.vellandi.net/",
-    "source": "Hacker News",
-    "date": "2026-06-01",
-    "summary": "Article URL: https://themerge.vellandi.net/ Comments URL: https://news.ycombinator.com/item?id=48355216 Points: 2 # Comments: 1",
-    "category": "industry",
-    "image": "https://themerge.vellandi.net/assets/birds-og-1200.webp",
     "id": 28
   },
   {
-    "title": "AI Agent Discovery via DNS",
-    "url": "https://dns-aid.org/",
-    "source": "Hacker News",
+    "title": "Anthropic files to go public",
+    "url": "https://techcrunch.com/2026/06/01/anthropic-files-to-go-public/",
+    "source": "TechCrunch",
     "date": "2026-06-01",
-    "summary": "Article URL: https://dns-aid.org/ Comments URL: https://news.ycombinator.com/item?id=48355160 Points: 1 # Comments: 0",
+    "summary": "The company said Monday it has filed confidentially for an IPO.",
     "category": "industry",
+    "image": "https://techcrunch.com/wp-content/uploads/2026/02/GettyImages-2261854833.jpg?resize=1200,800",
     "id": 29
   },
   {
-    "title": "When Background AI Agents Become a Security Boundary Problem",
-    "url": "https://www.originhq.com/research/background-c2-agent",
-    "source": "Hacker News",
+    "title": "This AI weather startup is out-forecasting government agencies",
+    "url": "https://techcrunch.com/2026/06/01/this-ai-weather-startup-is-out-forecasting-government-agencies/",
+    "source": "TechCrunch",
     "date": "2026-06-01",
-    "summary": "Article URL: https://www.originhq.com/research/background-c2-agent Comments URL: https://news.ycombinator.com/item?id=48354985 Points: 1 # Comments: 0",
-    "category": "research",
-    "image": "https://www.originhq.com/research/background-c2-agent/opengraph-image",
+    "summary": "Windborne Systems' newest weather forecasting model beats the best government predictions by days.",
+    "category": "industry",
+    "image": "https://techcrunch.com/wp-content/uploads/2026/06/Pic-8.jpg?resize=1200,675",
     "id": 30
   },
   {
-    "title": "Nvidia announces new AI chip for personal computers",
-    "url": "https://www.bbc.com/news/articles/crmp9mppvzro",
-    "source": "Hacker News",
+    "title": "Anthropic Confidentially Files for What Could Be the Largest IPO Ever",
+    "url": "https://www.wired.com/story/anthropic-files-s1-ipo-sec/",
+    "source": "Wired",
     "date": "2026-06-01",
-    "summary": "Article URL: https://www.bbc.com/news/articles/crmp9mppvzro Comments URL: https://news.ycombinator.com/item?id=48354967 Points: 2 # Comments: 1",
-    "category": "hardware",
-    "image": "https://ichef.bbci.co.uk/news/1024/branded_news/fd19/live/7becaec0-5d7d-11f1-9ce5-234247f246fc.jpg",
+    "summary": "The AI giant behind Claude submitted paperwork on Monday that would take it public, just a couple of weeks after SpaceX’s splashy IPO announcement.",
+    "category": "models",
+    "image": "https://media.wired.com/photos/6a1db04538f4e0fcb2641f17/191:100/w_1280,c_limit/Anthropic-Goes-Public-Business-2274306161.jpg",
     "id": 31
-  },
-  {
-    "title": "Netflix Wiz creates app to slash AI bills, then open sources it",
-    "url": "https://www.theregister.com/ai-ml/2026/05/31/netflix-wiz-creates-app-to-slash-ai-bills-then-open-sources-it/5248702",
-    "source": "Hacker News",
-    "date": "2026-06-01",
-    "summary": "Article URL: https://www.theregister.com/ai-ml/2026/05/31/netflix-wiz-creates-app-to-slash-ai-bills-then-open-sources-it/5248702 Comments URL: https://news.ycombinator.com/item?id=48354695 Points: 6 #...",
-    "category": "tools",
-    "image": "https://image.theregister.com/5248730.jpg?imageId=5248730&x=0&y=0&cropw=100&croph=100&panox=0&panoy=0&panow=100&panoh=100&width=1200&height=683",
-    "id": 32
-  },
-  {
-    "title": "Are API keys too much friction for AI tools in teams?",
-    "url": "https://intrascope.app/",
-    "source": "Hacker News",
-    "date": "2026-06-01",
-    "summary": "Article URL: https://intrascope.app/ Comments URL: https://news.ycombinator.com/item?id=48354682 Points: 1 # Comments: 0",
-    "category": "tools",
-    "image": "https://intrascope.app/wp-content/uploads/2025/10/OG-Image.png",
-    "id": 33
-  },
-  {
-    "title": "Fine-tuning an LLM to write docs like it's 1995",
-    "url": "https://passo.uno/fine-tuning-docs-llm/",
-    "source": "Hacker News",
-    "date": "2026-06-01",
-    "summary": "Article URL: https://passo.uno/fine-tuning-docs-llm/ Comments URL: https://news.ycombinator.com/item?id=48354674 Points: 1 # Comments: 0",
-    "category": "models",
-    "image": "https://passo.uno/uploads/finetuned.png",
-    "id": 34
-  },
-  {
-    "title": "Proveyouragent: Cryptographic identity for AI agents (Ed25519 and DPoP)",
-    "url": "https://github.com/lujainkhalil/proveyouragent",
-    "source": "Hacker News",
-    "date": "2026-06-01",
-    "summary": "Article URL: https://github.com/lujainkhalil/proveyouragent Comments URL: https://news.ycombinator.com/item?id=48354556 Points: 1 # Comments: 0",
-    "category": "research",
-    "image": "https://opengraph.githubassets.com/bd69ff9057a3f1be5cbcdb55da9ec95a652edbdd823e7c9db2182f2a1ada871e/lujainkhalil/proveyouragent",
-    "id": 35
-  },
-  {
-    "title": "Two LLM UI Patterns That Aren't Chat",
-    "url": "https://poyo.co/note/20260525T094605/",
-    "source": "Hacker News",
-    "date": "2026-06-01",
-    "summary": "Article URL: https://poyo.co/note/20260525T094605/ Comments URL: https://news.ycombinator.com/item?id=48354521 Points: 5 # Comments: 0",
-    "category": "models",
-    "image": "https://poyo.co/.attach/c3/7d6d63-4145-4e9c-940e-f5647cf32563/Screenshot 2026-05-26 at 11.24.00 AM.png",
-    "id": 36
-  },
-  {
-    "title": "AI fiction is the new fast food",
-    "url": "https://www.washingtonpost.com/opinions/2026/05/31/ai-fiction-is-fast-food-human-mind/",
-    "source": "Hacker News",
-    "date": "2026-06-01",
-    "summary": "Article URL: https://www.washingtonpost.com/opinions/2026/05/31/ai-fiction-is-fast-food-human-mind/ Comments URL: https://news.ycombinator.com/item?id=48354447 Points: 3 # Comments: 2",
-    "category": "industry",
-    "id": 37
-  },
-  {
-    "title": "Meta Fixes Instagram AI Flaw Used in Account Takeovers",
-    "url": "https://sqmagazine.co.uk/meta-fixes-instagram-ai-flaw-account-takeovers/",
-    "source": "Hacker News",
-    "date": "2026-06-01",
-    "summary": "Article URL: https://sqmagazine.co.uk/meta-fixes-instagram-ai-flaw-account-takeovers/ Comments URL: https://news.ycombinator.com/item?id=48354400 Points: 1 # Comments: 0",
-    "category": "industry",
-    "id": 38
-  },
-  {
-    "title": "An AI native hedge fund",
-    "url": "https://github.com/achaljhawar/1rok",
-    "source": "Hacker News",
-    "date": "2026-06-01",
-    "summary": "Article URL: https://github.com/achaljhawar/1rok Comments URL: https://news.ycombinator.com/item?id=48354335 Points: 2 # Comments: 0",
-    "category": "industry",
-    "image": "https://opengraph.githubassets.com/45bb222d375b1f31fd458a4561e72265a40f63f06e1f3d958299d8053ac12a1c/achaljhawar/1rok",
-    "id": 39
-  },
-  {
-    "title": "Tech overlords plan for conscious AI to conquer the cosmos. What could go wrong?",
-    "url": "https://www.theguardian.com/us-news/ng-interactive/2026/may/31/transhuman-silicon-valley-ai",
-    "source": "Hacker News",
-    "date": "2026-06-01",
-    "summary": "Article URL: https://www.theguardian.com/us-news/ng-interactive/2026/may/31/transhuman-silicon-valley-ai Comments URL: https://news.ycombinator.com/item?id=48354314 Points: 4 # Comments: 0",
-    "category": "hardware",
-    "image": "https://i.guim.co.uk/img/media/dcb90867e1781366f118492c29268ef4c8fe1ef4/0_0_2400_1919/master/2400.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=3ab89bf6737b294a8a35659723d317b0",
-    "id": 40
   },
   {
     "title": "PhyDrawGen: Physically Grounded Diagram Generation from Natural Language",
@@ -400,7 +317,7 @@
     "date": "2026-06-01",
     "summary": "Generating physics diagrams from text requires strict adherence to physical laws. While current generative models produce visually plausible outputs, they systematically hallucinate force vectors, ign...",
     "category": "models",
-    "id": 41
+    "id": 32
   },
   {
     "title": "Physically Viable World Models: A Case for Query-Conditioned Embodied AI",
@@ -409,7 +326,7 @@
     "date": "2026-06-01",
     "summary": "World models for embodied AI must be physically viable: constructed to answer intervention queries by representing the physical structure governing action outcomes, rather than merely predicting futur...",
     "category": "research",
-    "id": 42
+    "id": 33
   },
   {
     "title": "Procedural Generation of First Person Shooter Maps using Map-Elites",
@@ -418,7 +335,7 @@
     "date": "2026-06-01",
     "summary": "We investigate the application of MAP-Elites (a well-known quality diversity algorithm) to design levels for First-Person Shooter (FPS) games. We consider two well-known map representations (All-Black...",
     "category": "research",
-    "id": 43
+    "id": 34
   },
   {
     "title": "Uncertainty-Aware and Temporally Regulated Expert Advice in Reinforcement Learning for Autonomous Driving",
@@ -427,7 +344,7 @@
     "date": "2026-06-01",
     "summary": "Exploration in reinforcement learning for autonomous driving is inherently unsafe: agents must experience novel behaviors to learn, yet exploration can lead to collisions or off-road driving. We propo...",
     "category": "research",
-    "id": 44
+    "id": 35
   },
   {
     "title": "Harness Updating Is Not Harness Benefit: Disentangling Evolution Capabilities in Self-Evolving LLM Agents",
@@ -436,7 +353,7 @@
     "date": "2026-06-01",
     "summary": "LLM agents are increasingly deployed as systems built around editable external harnesses, including prompts, skills, memories and tools, that shape task execution without changing model parameters. Ha...",
     "category": "models",
-    "id": 45
+    "id": 36
   },
   {
     "title": "EHRBench: An Automated and Reliable EHR-based Benchmark for Clinical Decision Making with LLMs",
@@ -445,7 +362,7 @@
     "date": "2026-06-01",
     "summary": "Clinical decision-making (CDM) is central to real-world clinical workflows, where clinicians infer diagnoses, select treatments, or anticipate future health outcomes under incomplete evidence. LLMs ar...",
     "category": "research",
-    "id": 46
+    "id": 37
   },
   {
     "title": "Structure-Induced Information for Rerooting Levin Tree Search",
@@ -454,7 +371,7 @@
     "date": "2026-06-01",
     "summary": "Subgoal-based policy tree search, which uses a policy to guide search, is effective for complex single-agent deterministic problems but often relies on explicit subgoal generation that can incur subst...",
     "category": "research",
-    "id": 47
+    "id": 38
   },
   {
     "title": "Healthcare Mechanisms from Policy-as-Code Search under Strategic Provider Response",
@@ -463,7 +380,7 @@
     "date": "2026-06-01",
     "summary": "Healthcare mechanisms are inseparable from the strategic provider response they induce: existing healthcare AI benchmarks hold this response fixed and so cannot evaluate mechanisms by the equilibrium ...",
     "category": "models",
-    "id": 48
+    "id": 39
   },
   {
     "title": "MAVEN: Improving Generalization in Agentic Tool Calling",
@@ -472,7 +389,7 @@
     "date": "2026-06-01",
     "summary": "Generalization across agentic tool-calling environments remains a central challenge for reliable agentic reasoning systems. Although large language models achieve strong results on individual benchmar...",
     "category": "models",
-    "id": 49
+    "id": 40
   },
   {
     "title": "Generating Graph-like Rules for Knowledge Graph Reasoning via Diffusion Models",
@@ -481,6 +398,87 @@
     "date": "2026-06-01",
     "summary": "Logical rules constitute a cornerstone of knowledge graph (KG) reasoning, valued for their interpretability and ability to model relational patterns. However, existing rule mining methods predominantl...",
     "category": "models",
+    "id": 41
+  },
+  {
+    "title": "Learning Agent-Compatible Context Management for Long-Horizon Tasks",
+    "url": "https://arxiv.org/abs/2605.30785",
+    "source": "arXiv cs.AI",
+    "date": "2026-06-01",
+    "summary": "LLM agents increasingly face long-horizon tasks such as web search and deep research in real-world applications, where accumulated context can cause long-context degradation and reasoning failures. Pr...",
+    "category": "research",
+    "id": 42
+  },
+  {
+    "title": "PReMISE: Policy Rubrics as Measurement Specifications for LLM Judges",
+    "url": "https://arxiv.org/abs/2605.30803",
+    "source": "arXiv cs.AI",
+    "date": "2026-06-01",
+    "summary": "LLM judges are increasingly used to evaluate open-ended responses, but their scores depend strongly on the rubrics that condition them. A vague rubric asking for a response to be ``helpful and factual...",
+    "category": "models",
+    "id": 43
+  },
+  {
+    "title": "Planner-Centric Reinforcement Learning for Deep Research with Structure-Aware Reward",
+    "url": "https://arxiv.org/abs/2605.30824",
+    "source": "arXiv cs.AI",
+    "date": "2026-06-01",
+    "summary": "Deep research tasks require LLMs to plan what to investigate, retrieve evidence, and synthesize long-form answers across multiple branches of inquiry. Existing training paradigms either rely on short-...",
+    "category": "models",
+    "id": 44
+  },
+  {
+    "title": "SLAT: Segment-Level Adaptive Trimming for Efficient CoT Reasoning",
+    "url": "https://arxiv.org/abs/2605.30832",
+    "source": "arXiv cs.AI",
+    "date": "2026-06-01",
+    "summary": "Recent advances in Large Reasoning Models have significantly improved chain-of-thought (CoT) capabilities via reinforcement learning (RL). However, generated reasoning chains frequently suffer from st...",
+    "category": "research",
+    "id": 45
+  },
+  {
+    "title": "COMPASS: Cognitive MCTS-Guided Process Alignment for Safe Search Agents",
+    "url": "https://arxiv.org/abs/2605.30838",
+    "source": "arXiv cs.AI",
+    "date": "2026-06-01",
+    "summary": "LLM-powered search agents enable multi-step reasoning and tool use. However, these capabilities introduce retrieval-induced safety degradation, as harmful intents may decompose into seemingly innocuou...",
+    "category": "research",
+    "id": 46
+  },
+  {
+    "title": "Distilling LLM Feedback for Lean Theorem Proving",
+    "url": "https://arxiv.org/abs/2605.30861",
+    "source": "arXiv cs.AI",
+    "date": "2026-06-01",
+    "summary": "Post-training for reasoning models typically combines supervised fine-tuning with reinforcement learning from verifiable rewards, most commonly with GRPO. However, this algorithm suffers from sparse r...",
+    "category": "research",
+    "id": 47
+  },
+  {
+    "title": "UniScale: Adaptive Unified Inference Scaling via Online Joint Optimization of Model Routing and Test-Time Scaling",
+    "url": "https://arxiv.org/abs/2605.30898",
+    "source": "arXiv cs.AI",
+    "date": "2026-06-01",
+    "summary": "In real-world deployments of large language models (LLMs), balancing inference quality and computational cost has become a central challenge. Existing approaches tackle this trade-off along two largel...",
+    "category": "models",
+    "id": 48
+  },
+  {
+    "title": "BilliardPhys-Bench: Benchmarking Physical Reasoning and Visual Dynamics of Multimodal LLMs",
+    "url": "https://arxiv.org/abs/2605.30900",
+    "source": "arXiv cs.AI",
+    "date": "2026-06-01",
+    "summary": "Current multimodal models handle static image recognition well, but intuitive physical reasoning remains a weakness. Predicting how objects will move and interact from a single image is still difficul...",
+    "category": "models",
+    "id": 49
+  },
+  {
+    "title": "A Persona-Based Evaluation Framework for Pluralistic Alignment in Generative AI",
+    "url": "https://arxiv.org/abs/2605.31021",
+    "source": "arXiv cs.AI",
+    "date": "2026-06-01",
+    "summary": "Current alignment paradigms for generative artificial intelligence rely predominantly on monolithic benchmarking frameworks that reduce the plurality of human judgment to aggregated statistical baseli...",
+    "category": "research",
     "id": 50
   }
 ]
