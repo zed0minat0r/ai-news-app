@@ -1,5 +1,25 @@
 [
   {
+    "title": "Why Financial Institutions Are Converging on Transaction Foundation Models to Build Their Own Intelligence",
+    "url": "https://blogs.nvidia.com/blog/financial-institutions-transaction-foundation-models/",
+    "source": "NVIDIA Blog",
+    "date": "2026-06-02",
+    "summary": "Financial institutions have spent years building AI: fraud models, credit models, recommendation engines and risk systems. While this sprawl of task-specific models has been effective, it’s also const...",
+    "category": "models",
+    "image": "https://blogs.nvidia.com/wp-content/uploads/2026/06/fsi-press-new-payments-kv-1920x1080-5150250-1.jpg",
+    "id": 1,
+    "featured": true
+  },
+  {
+    "title": "Codex is becoming a productivity tool for everyone",
+    "url": "https://openai.com/index/codex-for-knowledge-work",
+    "source": "OpenAI Blog",
+    "date": "2026-06-02",
+    "summary": "The Next Era of Knowledge Work report explores how Codex is transforming productivity through AI-powered research, data analysis, workflow automation, and content creation.",
+    "category": "tools",
+    "id": 2
+  },
+  {
     "title": "NVIDIA Jetson Brings Agentic AI to the Physical World",
     "url": "https://blogs.nvidia.com/blog/jetson-agentic-ai-physical-world/",
     "source": "NVIDIA Blog",
@@ -7,8 +27,47 @@
     "summary": "Agentic AI is getting physical. At COMPUTEX on Tuesday, NVIDIA announced NVIDIA JetPack 7.2 and NVIDIA NemoClaw support on NVIDIA Jetson. JetPack 7.2 brings agentic AI skills, Yocto project support, N...",
     "category": "hardware",
     "image": "https://blogs.nvidia.com/wp-content/uploads/2026/06/robotics-press-jetson-agentic-ready-cptx26-1920x1080-5180550.jpg",
-    "id": 1,
-    "featured": true
+    "id": 3
+  },
+  {
+    "title": "Intel Arc G3 interview transcript — Intel's Senior Product Director talks new handheld chips, Arrow Lake Refresh, and RTX Spark",
+    "url": "https://www.tomshardware.com/pc-components/cpus/intel-arc-g3-interview-transcript-intels-senior-product-director-talks-new-handheld-chips-arrow-lake-refresh-and-rtx-spark",
+    "source": "Tom's Hardware",
+    "date": "2026-06-02",
+    "summary": "Intel's Nish Neelalojanan spoke to us at Computex 2026 about Intel's new G3 chip line, how it impacts the burgeoning handheld gaming market, and how Intel is responding to rising chip and memory price...",
+    "category": "hardware",
+    "image": "https://cdn.mos.cms.futurecdn.net/FFUarNAEE5G4sZzXrPtJNo-1280-80.jpg",
+    "id": 4
+  },
+  {
+    "title": "Frore System’s solid-state AirJet Mini cools Intel’s Wildcat Lake laptop reference design – 15W of sustained, fanless cooling helps MacBook Neo competitor reach a svelte 11.3 mm, remain silent",
+    "url": "https://www.tomshardware.com/laptops/frore-systems-solid-state-airjet-mini-cools-intels-wildcat-lake-laptop-reference-design-15w-of-sustained-fanless-cooling-helps-macbook-neo-competitor-reach-a-svelte-11-3-mm-remain-silent",
+    "source": "Tom's Hardware",
+    "date": "2026-06-02",
+    "summary": "Frore has worked with Intel to feature its AirJet solid-state cooling chip inside its much-hyped Wildcat Lake reference laptop. These laptops will need to stay slim, quiet, and affordable if they want...",
+    "category": "hardware",
+    "image": "https://cdn.mos.cms.futurecdn.net/UeAqnBQwJEVZ9sG7yvtmET-1280-80.png",
+    "id": 5
+  },
+  {
+    "title": "Intel says 'something has to give' with memory prices — company says it 'will continue to make sure that there are products which can take care of older memory technologies'",
+    "url": "https://www.tomshardware.com/pc-components/cpus/intel-says-something-has-to-give-with-memory-prices-company-says-it-will-continue-to-make-sure-that-there-are-products-which-can-take-care-of-older-memory-technologies",
+    "source": "Tom's Hardware",
+    "date": "2026-06-02",
+    "summary": "Intel sat down with Tom's Hardware at Computex 2026, and the company says it recognizes the importance of Raptor Lake and DDR4 platforms as the memory crunch continues.",
+    "category": "hardware",
+    "image": "https://cdn.mos.cms.futurecdn.net/B5eSTUQDi88b2yTqQZJUcX-1280-80.jpg",
+    "id": 6
+  },
+  {
+    "title": "Chinese military has been acquiring Nvidia chips, even post-Washington export controls, research claims — multiple institutions linked to the PLA asked for Nvidia AI chips, according to publicly available documents",
+    "url": "https://www.tomshardware.com/tech-industry/chinese-military-has-been-acquiring-nvidia-chips-even-post-washington-export-controls-research-claims-multiple-institutions-linked-to-the-pla-asked-for-nvidia-ai-chips-according-to-publicly-available-documents",
+    "source": "Tom's Hardware",
+    "date": "2026-06-02",
+    "summary": "A business-intelligence researcher said that the Chinese military has been actively acquiring Nvidia AI chips, even after the U.S. put export controls on them. Public documents show that some institut...",
+    "category": "hardware",
+    "image": "https://cdn.mos.cms.futurecdn.net/JnFgj2Y4HeKmY254WXX9N7-1280-80.jpg",
+    "id": 7
   },
   {
     "title": "Watch Intel's Computex 2026 keynote here — CEO Lip-Bu Tan takes the stage in Taipei at 10:30pm PT on June 1",
@@ -18,195 +77,207 @@
     "summary": "Intel CEO Lip-Bu Tan is set to take the stage at Computex 2026 for a keynote address at 10:30 pm PT on June 1",
     "category": "hardware",
     "image": "https://cdn.mos.cms.futurecdn.net/h7TMYHpYJx2BNkQdCpHViE-1280-80.jpg",
-    "id": 2
-  },
-  {
-    "title": "When Agentic AI Met the Common Law of Agency [pdf]",
-    "url": "https://download.ssrn.com/2026/5/27/6838660.pdf?response-content-disposition=inline&X-Amz-Security-Token=IQoJb3JpZ2luX2VjEFQaCXVzLWVhc3QtMSJGMEQCIGCqRt3E43JqumYgrLNdiLIHcwl4vS%2F0umJm5fj1DgvqAiAvib35M%2BdXgdaFDsjX4yKd3aeebKQLtbtu3Tt1hk8w0iq9BQgcEAQaDDMwODQ3NTMwMTI1NyIMCfQ8Rd3NIrLXpeB2KpoFBGQlbWI5fPXOWdOpXqA4IhMosTVZpVkxaHnIF%2FofUKhmHLnJ5N7pmpTc90IxtpKjzT%2FHTBXP7X5w7S4ood6VkvpC%2B8w6xfL4qxv85BgxPrUYQHCY4LcF%2FyP1wyhOYGi92R7A3Eb63lD84scBBlqpjX3EwoBslfOjUpL52x8SoCL1VR7ESR18%2B3Jp9ukCCCd%2BMez%2BoycAZMvG9zj5XB2irLTL6GQq%2F%2FGviowJ8TPQfjledMpnufc6jtHqxL2UDOWEBfSskj1fj4El1Z8CR9RMxHuiy%2FQHye2M3Rmte7ClWdCFeaIK7EAKi1uMwc3HTa4qgXkKcUSfs8sFCg6HgjscdO2Ft%2FxeR7MEeJ%2F4DpuvkgMT6JqPNdgyUNdlbjESL0P%2FVShFnySxLItbCIt9gk2BUADmKp0eSsaGakq%2Bsa0ux0ZnhS8O%2BmVg%2FUf%2F2KLx1JZ1yXZbZ0aKw5GaxJGeG7cHg9JrfkbKIZsWpwRfd01y0qmrnvF0RITxVJXxWbcGRPt%2B9juPBM3XLhjfh8agRuX7eOYWVqWKxo0OibuCTkAEF%2B9GumDpfSz0sxy43IAtu1bbHbb%2B9HprtD2J3QVJDpp4mGwKszjfJ%2BzMWjKjOmxTSFtaElhS4XeeZoOzI6zjUyc0ccL5Am3BeAy46d4hmMOBsSr0mYMAyPVHiHJze9fd9On8HeodJl1pV%2Fj%2F9O5dLTxIGGZM2ZMRdU3tgDTony4fN4C%2ByA%2BivgpaCBdy3JWalH1mosRLZkjJw8PYx%2FVtT84%2BROt62AKtszEt0EDdvlo%2FoVyChEKYWvuYTZVZ%2FHIyVqEBD77b0uNHvvYeGIHVklSFIDm%2BLQvckTYFyjIRQa%2BnM7Ih31jCkECto21D0tD1w%2B51oABYYD3JxCAjMPGX%2BdAGOrIBXbgCuhCyivu3m7cX9trkuy5Qime45cpnmPPTspQTVeSYzV1iMw4eHqlgP4%2FhHJhRqBgctBUBmrv8N7ZEXKbH9iRxq2VwMOrKcv23%2BfyJ1XcSEpHPuM7zv1pHeRj6%2FGRo2CQrxfD%2FNZYjw2lxF39YUdE74SblFUoRNxLeDfC9GJZ%2FGU1%2FFbK5qUWcLDajlPBw%2FbK60%2Btw7uLMAE4iojvJqw5jWytKOODyrcWGKiUsI14Tqw%3D%3D&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Date=20260602T035615Z&X-Amz-SignedHeaders=host&X-Amz-Expires=300&X-Amz-Credential=ASIAUPUUPRWE6DHJ6PFC%2F20260602%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Signature=d3bd657ebc4c27abea99e0b6758554cf5465c68cf03dacf601d29cec139cbfbe&abstractId=6838660",
-    "source": "Hacker News",
-    "date": "2026-06-02",
-    "summary": "Article URL: https://download.ssrn.com/2026/5/27/6838660.pdf?response-content-disposition=inline&X-Amz-Security-Token=IQoJb3JpZ2luX2VjEFQaCXVzLWVhc3QtMSJGMEQCIGCqRt3E43JqumYgrLNdiLIHcwl4vS%2F0umJm5fj1...",
-    "category": "research",
-    "id": 3
-  },
-  {
-    "title": "Bloc – Cursor for AI video (a canvas IDE, not a timeline)",
-    "url": "https://vidbloc.com/",
-    "source": "Hacker News",
-    "date": "2026-06-02",
-    "summary": "Article URL: https://vidbloc.com/ Comments URL: https://news.ycombinator.com/item?id=48365802 Points: 1 # Comments: 0",
-    "category": "tools",
-    "image": "https://vidbloc.com/og-image.png",
-    "id": 4
-  },
-  {
-    "title": "AI can chart a course to disaster faster than humans can notice",
-    "url": "https://thebulletin.org/2026/05/ai-can-chart-a-course-to-disaster-faster-than-humans-can-notice/",
-    "source": "Hacker News",
-    "date": "2026-06-02",
-    "summary": "Article URL: https://thebulletin.org/2026/05/ai-can-chart-a-course-to-disaster-faster-than-humans-can-notice/ Comments URL: https://news.ycombinator.com/item?id=48365704 Points: 1 # Comments: 0",
-    "category": "industry",
-    "id": 5
-  },
-  {
-    "title": "Introducing The American AI Sovereign Wealth Fund Act [video]",
-    "url": "https://www.youtube.com/watch?v=VN4b4UCWMKI",
-    "source": "Hacker News",
-    "date": "2026-06-02",
-    "summary": "Article URL: https://www.youtube.com/watch?v=VN4b4UCWMKI Comments URL: https://news.ycombinator.com/item?id=48365681 Points: 1 # Comments: 0",
-    "category": "industry",
-    "id": 6
-  },
-  {
-    "title": "Meta AI Support – full system prompt leaked",
-    "url": "https://github.com/michaelcummings12/meta-ai-support-prompt/blob/main/system-prompt.md",
-    "source": "Hacker News",
-    "date": "2026-06-02",
-    "summary": "Article URL: https://github.com/michaelcummings12/meta-ai-support-prompt/blob/main/system-prompt.md Comments URL: https://news.ycombinator.com/item?id=48365565 Points: 3 # Comments: 0",
-    "category": "industry",
-    "image": "https://opengraph.githubassets.com/6c3db9433abaa9ae8900992abdf8075ea1ba4e151ccbd7a1bdcb3a36d97701c8/michaelcummings12/meta-ai-support-prompt",
-    "id": 7
-  },
-  {
-    "title": "SpaceX Vow to Loft 1M AI Satellites Could Spark Doomsday Dive",
-    "url": "https://www.forbes.com/sites/kevinholdenplatt/2026/05/31/spacex-vow-to-loft-1-million-ai-satellites-could-spark-doomsday-dive/",
-    "source": "Hacker News",
-    "date": "2026-06-02",
-    "summary": "Article URL: https://www.forbes.com/sites/kevinholdenplatt/2026/05/31/spacex-vow-to-loft-1-million-ai-satellites-could-spark-doomsday-dive/ Comments URL: https://news.ycombinator.com/item?id=48365378 ...",
-    "category": "industry",
-    "image": "https://imageio.forbes.com/specials-images/imageserve/6a1ba365dc58bd98aed2cd6a/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
     "id": 8
   },
   {
-    "title": "Show HN: Memex – A local-first AI journal that keeps everything as Markdown",
-    "url": "https://github.com/memex-lab/memex",
+    "title": "HTML Deployer – Publish HTML from AI Chats to a Website",
+    "url": "https://chromewebstore.google.com/detail/html-deployer-1-click-ai/gihmknkabkkghpiocgnoiejagngdegea",
     "source": "Hacker News",
     "date": "2026-06-02",
-    "summary": "Article URL: https://github.com/memex-lab/memex Comments URL: https://news.ycombinator.com/item?id=48365371 Points: 1 # Comments: 0",
+    "summary": "Article URL: https://chromewebstore.google.com/detail/html-deployer-1-click-ai/gihmknkabkkghpiocgnoiejagngdegea Comments URL: https://news.ycombinator.com/item?id=48368347 Points: 1 # Comments: 0",
     "category": "industry",
-    "image": "https://repository-images.githubusercontent.com/1178924852/46e00504-ab35-4016-bcc1-d35eb582a013",
     "id": 9
   },
   {
-    "title": "X.org Server Starts June Nine New Security Vulnerabilities Discovered via AI",
-    "url": "https://www.phoronix.com/news/X.Org-9-Vulnerabilities-AI",
+    "title": "Consolidated AI First Startup Guide",
+    "url": "https://benemson.com/resources/ai-first-startup-guide",
     "source": "Hacker News",
     "date": "2026-06-02",
-    "summary": "Article URL: https://www.phoronix.com/news/X.Org-9-Vulnerabilities-AI Comments URL: https://news.ycombinator.com/item?id=48365188 Points: 2 # Comments: 0",
-    "category": "hardware",
+    "summary": "Article URL: https://benemson.com/resources/ai-first-startup-guide Comments URL: https://news.ycombinator.com/item?id=48368326 Points: 1 # Comments: 1",
+    "category": "industry",
+    "image": "https://benemson.com/og-home.jpg",
     "id": 10
   },
   {
-    "title": "Why Study CS? Thoughts on LLM-assisted software engineering",
-    "url": "https://kmicinski.com/claude-code-and-why-study-cs",
+    "title": "Why AI Makes Us So Angry",
+    "url": "https://medium.com/@livestock.dev/why-ai-makes-us-so-angry-55b4fcb08e3a",
     "source": "Hacker News",
     "date": "2026-06-02",
-    "summary": "Article URL: https://kmicinski.com/claude-code-and-why-study-cs Comments URL: https://news.ycombinator.com/item?id=48365109 Points: 4 # Comments: 0",
-    "category": "models",
+    "summary": "Article URL: https://medium.com/@livestock.dev/why-ai-makes-us-so-angry-55b4fcb08e3a Comments URL: https://news.ycombinator.com/item?id=48368232 Points: 3 # Comments: 2",
+    "category": "industry",
     "id": 11
   },
   {
-    "title": "Starbucks retired its AI agent just months after deployment",
-    "url": "https://finance.yahoo.com/sectors/technology/articles/starbucks-quietly-retired-ai-agent-192259096.html",
+    "title": "A cinematic landing-page hero for 80 cents (GPT Image 2 still and Veo 3.1)",
+    "url": "https://johnkueh.com/articles/veo-cinematic-hero",
     "source": "Hacker News",
     "date": "2026-06-02",
-    "summary": "Article URL: https://finance.yahoo.com/sectors/technology/articles/starbucks-quietly-retired-ai-agent-192259096.html Comments URL: https://news.ycombinator.com/item?id=48364899 Points: 1 # Comments: 2",
-    "category": "tools",
+    "summary": "Article URL: https://johnkueh.com/articles/veo-cinematic-hero Comments URL: https://news.ycombinator.com/item?id=48368211 Points: 1 # Comments: 0",
+    "category": "models",
+    "image": "https://johnkueh.com/articles/veo-cinematic-hero.jpg",
     "id": 12
   },
   {
-    "title": "DeepMind CEO says those cutting jobs because of AI 'lack imagination'",
-    "url": "https://www.inc.com/jessica-stillman/nobel-prize-winner-demis-hassabis-says-ai-job-cuts-are-dumb-research-agrees/91348959",
+    "title": "MDMA – Turn LLM Responses into Interactive UI via MCP",
+    "url": "https://github.com/MobileReality/mdma",
     "source": "Hacker News",
     "date": "2026-06-02",
-    "summary": "Article URL: https://www.inc.com/jessica-stillman/nobel-prize-winner-demis-hassabis-says-ai-job-cuts-are-dumb-research-agrees/91348959 Comments URL: https://news.ycombinator.com/item?id=48364740 Point...",
+    "summary": "Article URL: https://github.com/MobileReality/mdma Comments URL: https://news.ycombinator.com/item?id=48368005 Points: 4 # Comments: 2",
     "category": "models",
+    "image": "https://opengraph.githubassets.com/d348fd02ee5f155acdc9ebdad13f4fe02797b2f2168253cba2559db386273570/MobileReality/mdma",
     "id": 13
   },
   {
-    "title": "AI costs how much? GitHub Copilot users react to new usage-based pricing system",
-    "url": "https://arstechnica.com/ai/2026/06/ai-costs-how-much-github-copilot-users-react-to-new-usage-based-pricing-system/",
+    "title": "Good LLM development and usage patterns",
+    "url": "https://blog.bluebyday.com/posts/good-llm-dev-and-usage/",
     "source": "Hacker News",
     "date": "2026-06-02",
-    "summary": "Article URL: https://arstechnica.com/ai/2026/06/ai-costs-how-much-github-copilot-users-react-to-new-usage-based-pricing-system/ Comments URL: https://news.ycombinator.com/item?id=48364716 Points: 8 # ...",
-    "category": "tools",
-    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/06/GettyImages-2254059922-1152x648.jpg",
+    "summary": "Article URL: https://blog.bluebyday.com/posts/good-llm-dev-and-usage/ Comments URL: https://news.ycombinator.com/item?id=48367934 Points: 2 # Comments: 0",
+    "category": "models",
     "id": 14
   },
   {
-    "title": "Building an Open-Source Verilog Simulator with AI: 580K Lines in 43 Days",
-    "url": "https://normalcomputing.com/blog/building-an-open-source-verilog-simulator-with-ai-580k-lines-in-43-days",
+    "title": "From Specialists to Builders: How AI Agentic Coding Is Reshaping Software Teams",
+    "url": "https://aliparnan.com/blog-specialists-to-builders.html",
     "source": "Hacker News",
     "date": "2026-06-02",
-    "summary": "Article URL: https://normalcomputing.com/blog/building-an-open-source-verilog-simulator-with-ai-580k-lines-in-43-days Comments URL: https://news.ycombinator.com/item?id=48364654 Points: 2 # Comments: ...",
-    "category": "industry",
-    "image": "https://cdn.prod.website-files.com/67ae4a75c083dc1cf3edcec4/69a4e639b87553c5aa306806_image.png",
+    "summary": "Article URL: https://aliparnan.com/blog-specialists-to-builders.html Comments URL: https://news.ycombinator.com/item?id=48367930 Points: 2 # Comments: 0",
+    "category": "tools",
+    "image": "https://aliparnan.com/og-image.jpg",
     "id": 15
   },
   {
-    "title": "Chinese firm developing AI to predict dissent, leaked documents show",
-    "url": "https://www.nytimes.com/2026/06/01/us/politics/china-ai-predicting-dissent.html",
+    "title": "China's lab-grown diamonds emerging as a surprising beneficiary of the AI boom",
+    "url": "https://www.bloomberg.com/news/articles/2026-06-02/china-s-lab-grown-diamonds-emerge-as-unlikely-winner-in-ai-boom",
     "source": "Hacker News",
     "date": "2026-06-02",
-    "summary": "Article URL: https://www.nytimes.com/2026/06/01/us/politics/china-ai-predicting-dissent.html Comments URL: https://news.ycombinator.com/item?id=48364576 Points: 4 # Comments: 2",
+    "summary": "Article URL: https://www.bloomberg.com/news/articles/2026-06-02/china-s-lab-grown-diamonds-emerge-as-unlikely-winner-in-ai-boom Comments URL: https://news.ycombinator.com/item?id=48367910 Points: 2 # ...",
     "category": "industry",
     "id": 16
   },
   {
-    "title": "aweskills: Let Your AI Agent Manage skills for You",
-    "url": "https://aweskill.webioinfo.top/articles/let-your-ai-agent-manage-aweskill-for-you/",
+    "title": "The AI output was 94% accurate",
+    "url": "https://brunelly.com/",
     "source": "Hacker News",
     "date": "2026-06-02",
-    "summary": "Article URL: https://aweskill.webioinfo.top/articles/let-your-ai-agent-manage-aweskill-for-you/ Comments URL: https://news.ycombinator.com/item?id=48364549 Points: 1 # Comments: 0",
-    "category": "industry",
+    "summary": "Article URL: https://brunelly.com/ Comments URL: https://news.ycombinator.com/item?id=48367871 Points: 2 # Comments: 0",
+    "category": "hardware",
+    "image": "https://brunelly.com/og-home.png",
     "id": 17
   },
   {
-    "title": "Colorado Rolls Back Landmark AI Governance Law",
-    "url": "https://www.bankinfosecurity.com/colorado-rolls-back-landmark-ai-governance-law-a-31804",
+    "title": "Lettera – AI Cover Letter Generator (3 Free Uses, No Signup)",
+    "url": "https://lettera-chi.vercel.app/",
     "source": "Hacker News",
     "date": "2026-06-02",
-    "summary": "Article URL: https://www.bankinfosecurity.com/colorado-rolls-back-landmark-ai-governance-law-a-31804 Comments URL: https://news.ycombinator.com/item?id=48364520 Points: 6 # Comments: 0",
+    "summary": "Article URL: https://lettera-chi.vercel.app/ Comments URL: https://news.ycombinator.com/item?id=48367815 Points: 1 # Comments: 1",
     "category": "industry",
-    "image": "https://ismg-cdn.nyc3.cdn.digitaloceanspaces.com/articles/colorado-rolls-back-landmark-ai-governance-law-image_large-2-a-31804.jpg",
     "id": 18
   },
   {
-    "title": "LLM and Clojure",
-    "url": "https://tusshah.codeberg.page/",
+    "title": "Quality in the Age of AI Slop",
+    "url": "https://sinclairtarget.com/blog/2026/06/01/quality-in-the-age-of-slop/",
     "source": "Hacker News",
     "date": "2026-06-02",
-    "summary": "Article URL: https://tusshah.codeberg.page/ Comments URL: https://news.ycombinator.com/item?id=48364415 Points: 1 # Comments: 0",
-    "category": "models",
+    "summary": "Article URL: https://sinclairtarget.com/blog/2026/06/01/quality-in-the-age-of-slop/ Comments URL: https://news.ycombinator.com/item?id=48367782 Points: 2 # Comments: 0",
+    "category": "industry",
     "id": 19
   },
   {
-    "title": "CHSE – Rust LLM compressor: 1.15M lines/s, 69-91% token savings",
-    "url": "https://news.ycombinator.com/item?id=48364338",
+    "title": "The Future of the Website in the AI Age",
+    "url": "https://inkpat.com/volatilecarbon/post/258",
     "source": "Hacker News",
     "date": "2026-06-02",
-    "summary": "Comments URL: https://news.ycombinator.com/item?id=48364338 Points: 1 # Comments: 0",
-    "category": "models",
+    "summary": "Article URL: https://inkpat.com/volatilecarbon/post/258 Comments URL: https://news.ycombinator.com/item?id=48367706 Points: 1 # Comments: 0",
+    "category": "industry",
     "id": 20
   },
   {
-    "title": "Vercel AI Gateway Appears to Block BYOK Requests When Account Balance Reaches $0",
-    "url": "https://github.com/vercel/ai/issues/11280",
+    "title": "Show HN: Review-First AI IDE, Built on Codex and OpenCode",
+    "url": "https://handler.team/",
     "source": "Hacker News",
     "date": "2026-06-02",
-    "summary": "Article URL: https://github.com/vercel/ai/issues/11280 Comments URL: https://news.ycombinator.com/item?id=48364193 Points: 2 # Comments: 1",
-    "category": "industry",
-    "image": "https://opengraph.githubassets.com/a6549a6193b60d41cb8349be0e8d5f996589bcfae75b92e4a5998df08bbcc7c5/vercel/ai/issues/11280",
+    "summary": "Hey HN, I’m Vignesh, solo dev. Handler is a Mac app for Codex and OpenCode that adds a review layer while the agent is generating code. Every edit comes with a short explanation: what changed, why it ...",
+    "category": "hardware",
     "id": 21
   },
   {
-    "title": "Ask HN: Do you give AI agent the specs and have it start building unattended?",
-    "url": "https://news.ycombinator.com/item?id=48364162",
+    "title": "We Asked the Future of Truth Author to Explain How He Used AI. It Didn't Go Well",
+    "url": "https://www.wired.com/story/future-of-truth-ai-interview/",
     "source": "Hacker News",
     "date": "2026-06-02",
-    "summary": "I use Cursor and I usually put it in plan mode and feed it the specs so I can review the plan and make sure the implementation will be done the way I want it to or to make sure the plan \"feels\" right....",
-    "category": "tools",
+    "summary": "Article URL: https://www.wired.com/story/future-of-truth-ai-interview/ Comments URL: https://news.ycombinator.com/item?id=48367671 Points: 4 # Comments: 0",
+    "category": "industry",
+    "image": "https://media.wired.com/photos/6a173332faa2148b4ab454b6/191:100/w_1280,c_limit/Business_AIBookAuthorUsedAItoWriteHisBook_v1.jpg",
     "id": 22
+  },
+  {
+    "title": "Hey London! Making a list of X accounts worth following in the AI scene here",
+    "url": "https://x.com/i/lists/2032117580790468859",
+    "source": "Hacker News",
+    "date": "2026-06-02",
+    "summary": "Article URL: https://x.com/i/lists/2032117580790468859 Comments URL: https://news.ycombinator.com/item?id=48367497 Points: 1 # Comments: 0",
+    "category": "industry",
+    "id": 23
+  },
+  {
+    "title": "EU is set to join US-led chip alliance 'Pax Silica' to counter China's AI race",
+    "url": "https://www.euronews.com/my-europe/2026/06/01/the-eu-is-set-to-join-us-led-chip-alliance-pax-silica-to-counter-chinas-ai-race",
+    "source": "Hacker News",
+    "date": "2026-06-02",
+    "summary": "Article URL: https://www.euronews.com/my-europe/2026/06/01/the-eu-is-set-to-join-us-led-chip-alliance-pax-silica-to-counter-chinas-ai-race Comments URL: https://news.ycombinator.com/item?id=48367491 P...",
+    "category": "hardware",
+    "image": "https://images.euronews.com/articles/stories/09/78/02/79/1200x675_cmsv2_ef7b49a5-34ae-5205-8808-30bcba0d606a-9780279.jpg",
+    "id": 24
+  },
+  {
+    "title": "OpenAIRE AI Hackathon",
+    "url": "https://www.openaire.eu/announcement-openaire-ai-hackathon",
+    "source": "Hacker News",
+    "date": "2026-06-02",
+    "summary": "Article URL: https://www.openaire.eu/announcement-openaire-ai-hackathon Comments URL: https://news.ycombinator.com/item?id=48367388 Points: 1 # Comments: 0",
+    "category": "industry",
+    "image": "https://www.openaire.eu/images/News_Items/2026/06_2026/AI_Hackathon_new.jpg",
+    "id": 25
+  },
+  {
+    "title": "Hackers trick Meta AI support bot to infiltrate Obama White House Instagram",
+    "url": "https://www.theguardian.com/technology/2026/jun/01/meta-ai-hack-obama-sephora-instagram",
+    "source": "Hacker News",
+    "date": "2026-06-02",
+    "summary": "Article URL: https://www.theguardian.com/technology/2026/jun/01/meta-ai-hack-obama-sephora-instagram Comments URL: https://news.ycombinator.com/item?id=48367292 Points: 5 # Comments: 0",
+    "category": "industry",
+    "image": "https://i.guim.co.uk/img/media/0a1521f6c70403081189e0e46a7e802e2737a669/567_0_5665_4534/master/5665.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=2fe06e652d9b354486d3ef440da5595d",
+    "id": 26
+  },
+  {
+    "title": "Version 2.0 of AI laser mosquito defense system is here",
+    "url": "https://twitter.com/stevencheng/status/2059950811954692451",
+    "source": "Hacker News",
+    "date": "2026-06-02",
+    "summary": "Article URL: https://twitter.com/stevencheng/status/2059950811954692451 Comments URL: https://news.ycombinator.com/item?id=48367260 Points: 6 # Comments: 1",
+    "category": "industry",
+    "id": 27
+  },
+  {
+    "title": "How small businesses can leverage AI",
+    "url": "https://www.technologyreview.com/2026/06/02/1138227/how-small-businesses-can-leverage-ai/",
+    "source": "MIT Tech Review",
+    "date": "2026-06-02",
+    "summary": "This article is from Making AI Work, MIT Technology Review’s limited-run newsletter examining how to apply LLMs across industries. To receive it in your inbox,sign up here. From accounting to design t...",
+    "category": "research",
+    "image": "https://wp.technologyreview.com/wp-content/uploads/2026/06/4729b751-06a4-3828-9bb4-1983e460947d.jpg?resize=1200,600",
+    "id": 28
+  },
+  {
+    "title": "The Trump Administration Is at War With Itself Over AI Regulation",
+    "url": "https://www.wired.com/story/the-white-house-is-at-war-with-itself-over-ai-regulation/",
+    "source": "Wired",
+    "date": "2026-06-02",
+    "summary": "Donald Trump killed an executive order to regulate AI. Now, administration officials and AI executives are trying to figure out if there’s anything left to piece back together.",
+    "category": "industry",
+    "image": "https://media.wired.com/photos/6a1a11a6b6c847bce706bb1b/191:100/w_1280,c_limit/pol_AI_GettyImages-2277330455.jpg",
+    "id": 29
   },
   {
     "title": "Position Paper: Post-Solve Robustness in Decision Engines: Feasible Regions and Smoothness Under Perturbations",
@@ -215,7 +286,7 @@
     "date": "2026-06-02",
     "summary": "Mixed-Integer Linear Programming (MILP) decision engines routinely output nominally optimal plans for high-stakes industrial systems. Yet deployment rarely matches solve-time assumptions: small pertur...",
     "category": "research",
-    "id": 23
+    "id": 30
   },
   {
     "title": "Emergent Collaborative Deliberation in Multi-Model AI Systems: A BFT-Derived Protocol for Epistemic Synthesis",
@@ -224,7 +295,7 @@
     "date": "2026-06-02",
     "summary": "We present the Consilium Protocol, a Byzantine Fault Tolerance-derived architecture for structured multi-model AI deliberation that treats inter-model disagreement as epistemic signal rather than erro...",
     "category": "research",
-    "id": 24
+    "id": 31
   },
   {
     "title": "Deliberative Curation: A Protocol for Multi-Agent Knowledge Bases",
@@ -233,7 +304,7 @@
     "date": "2026-06-02",
     "summary": "As AI agents transition from isolated tools to collaborative participants in shared knowledge ecosystems, governing collective knowledge curation becomes a critical challenge. Human platform governanc...",
     "category": "tools",
-    "id": 25
+    "id": 32
   },
   {
     "title": "Agents on a Tree: Pathwise Coordination for Multi-Objective Molecular Optimization",
@@ -242,7 +313,7 @@
     "date": "2026-06-02",
     "summary": "Multi-objective molecular optimization requires searching vast chemical spaces under conflicting objectives, where early design decisions strongly constrain downstream outcomes. Existing methods typic...",
     "category": "research",
-    "id": 26
+    "id": 33
   },
   {
     "title": "MindGames Arena Generalization Track: In2AI Solution with Delayed Per-Step Reward Attribution",
@@ -251,7 +322,7 @@
     "date": "2026-06-02",
     "summary": "Training language model agents for multi-agent strategic interaction presents a core difficulty: the quality of any action may depend on future events that never materialize, on moves that violate gam...",
     "category": "models",
-    "id": 27
+    "id": 34
   },
   {
     "title": "Universal Quantum Transformer",
@@ -260,7 +331,7 @@
     "date": "2026-06-02",
     "summary": "Classical continuous-space neural networks fundamentally struggle to lock into exact mathematical symmetries, such as modular arithmetic and non-commutative algebra. To approximate these discrete logi...",
     "category": "models",
-    "id": 28
+    "id": 35
   },
   {
     "title": "Grokers: Bottom-Up Inductive Comprehension and Write-Time Intelligence over Typed Knowledge Graphs",
@@ -269,7 +340,7 @@
     "date": "2026-06-02",
     "summary": "We present Grokers, an architecture for building persistent, structured comprehension of typed knowledge graphs through bottom-up inductive traversal of dependency subgraphs. Unlike retrieval-augmente...",
     "category": "models",
-    "id": 29
+    "id": 36
   },
   {
     "title": "Product-Aware Deep Autoencoders for Robust Process Monitoring in Multi-Product Cyber-Physical Systems",
@@ -278,7 +349,7 @@
     "date": "2026-06-02",
     "summary": "As Industry 4.0 accelerates the integration of Cyber-Physical Systems (CPS) in manufacturing, robust anomaly detection has become critical for ensuring process safety and security. Current data-driven...",
     "category": "research",
-    "id": 30
+    "id": 37
   },
   {
     "title": "On the evolution of the concept of probability as a mirror of the evolution of reason",
@@ -287,7 +358,7 @@
     "date": "2026-06-02",
     "summary": "Over the centuries, probability theory has grown from the calculus of games of chance into a central framework for reasoning under uncertainty. This article interprets that evolution not merely as a m...",
     "category": "research",
-    "id": 31
+    "id": 38
   },
   {
     "title": "Evaluating Interactive Reasoning in Large Language Models: A Hierarchical Benchmark with Executable Games",
@@ -296,7 +367,7 @@
     "date": "2026-06-02",
     "summary": "We introduce a multi-turn interactive framework for reasoning evaluation that treats reasoning as active evidence acquisition and belief updating. Wherein, LLMs receive only the task rules, must issue...",
     "category": "models",
-    "id": 32
+    "id": 39
   },
   {
     "title": "A Multi-AI-agent Framework Enabling End-to-end Finite Element Analysis for Solid Mechanics Problems",
@@ -305,7 +376,7 @@
     "date": "2026-06-02",
     "summary": "Finite element analysis (FEA) is the most important numerical approach for solid mechanics. Challenges of FEA include a steep learning curve for entry-level users and potential false simulations due t...",
     "category": "models",
-    "id": 33
+    "id": 40
   },
   {
     "title": "CAST: Non-Privileged Clipped Asymmetric Self-Teaching with Advantage Flipping for GRPO",
@@ -314,7 +385,7 @@
     "date": "2026-06-02",
     "summary": "Reinforcement learning with verifiable rewards (RLVR), especially Group Relative Policy Optimization (GRPO), has been widely used to improve reasoning in large language models. However, outcome-level ...",
     "category": "research",
-    "id": 34
+    "id": 41
   },
   {
     "title": "TIGER: Traceable Inference with Graph-Based Evidence Routing for Mitigating Hallucinations in Multimodal Generation",
@@ -323,7 +394,7 @@
     "date": "2026-06-02",
     "summary": "We study fact-level repair for multimodal generation, where a fluent output may contain specific facts that are not supported by the input. Existing inference-time repair methods often generate feedba...",
     "category": "research",
-    "id": 35
+    "id": 42
   },
   {
     "title": "MindZero: Learning Online Mental Reasoning With Zero Annotations",
@@ -332,7 +403,7 @@
     "date": "2026-06-02",
     "summary": "Effective real-world assistance requires AI agents with robust Theory of Mind (ToM): inferring human mental states from their behavior. Despite recent advances, several key challenges remain, includin...",
     "category": "models",
-    "id": 36
+    "id": 43
   },
   {
     "title": "Geodesic Flow Matching for Denoising High-Dimensional Structured Representations",
@@ -341,7 +412,7 @@
     "date": "2026-06-02",
     "summary": "Vector Symbolic Algebras (VSAs) enable robust neurosymbolic reasoning by encoding symbolic information into high-dimensional distributed representations. For continuous domains, Spatial Semantic Point...",
     "category": "hardware",
-    "id": 37
+    "id": 44
   },
   {
     "title": "Capability Self-Assessment: Teaching LLMs to Know Their Limits",
@@ -350,7 +421,7 @@
     "date": "2026-06-02",
     "summary": "The ability to recognize one's own limitations and decide whether to solve a problem or delegate is fundamental for reliable intelligent systems. Yet we show that modern large language models systemat...",
     "category": "models",
-    "id": 38
+    "id": 45
   },
   {
     "title": "Closed-Loop Neural Activation Control in Vision-Language-Action Models",
@@ -359,7 +430,7 @@
     "date": "2026-06-02",
     "summary": "Vision-Language-Action (VLA) models can be steered at test time by intervening on semantically meaningful internal directions, but existing methods use a fixed steering coefficient, effectively operat...",
     "category": "models",
-    "id": 39
+    "id": 46
   },
   {
     "title": "Robust Shielding for Safe Reinforcement Learning",
@@ -368,7 +439,7 @@
     "date": "2026-06-02",
     "summary": "Shielding is an effective approach to formally guarantee the safety of reinforcement learning agents in Markov decision processes (MDPs). However, existing shielding techniques typically assume knowle...",
     "category": "research",
-    "id": 40
+    "id": 47
   },
   {
     "title": "On Wednesdays, We Ask Questions: Optimizing \"Active Listening\" in Automated Legal Triage and Referral",
@@ -377,7 +448,7 @@
     "date": "2026-06-02",
     "summary": "The FETCH classifier generates follow-up questions to help refine the best match for the applicant's legal problem, using a low-cost ensemble of LLMs. In this paper, we describe an expert attorney and...",
     "category": "models",
-    "id": 41
+    "id": 48
   },
   {
     "title": "Evaluating Bivariate Causal Statements Based on Mutual Compatibility",
@@ -386,7 +457,7 @@
     "date": "2026-06-02",
     "summary": "For many real-world systems, causal ground truth is difficult to obtain, making claims about causal effects hard to assess. We develop methods for evaluating collections of $\\binom{n}{2}$ bivariate ca...",
     "category": "models",
-    "id": 42
+    "id": 49
   },
   {
     "title": "Model-Native Computing Architecture: Envisioning Future System Architecture Through the Lens of Computer Architecture",
@@ -395,69 +466,6 @@
     "date": "2026-06-02",
     "summary": "Large language models are undergoing a transition from model technology to system technology. As developers use Codex, Claude Code, AutoGPT, and related agents to write code, manage projects, and exec...",
     "category": "tools",
-    "id": 43
-  },
-  {
-    "title": "Coupling Language Models with Physics-based Simulation for Synthesis of Inorganic Materials",
-    "url": "https://arxiv.org/abs/2606.00315",
-    "source": "arXiv cs.AI",
-    "date": "2026-06-02",
-    "summary": "Modern generative machine learning (ML) models can propose novel inorganic crystalline materials with targeted properties; however, synthesis planning of these materials remains difficult due to the c...",
-    "category": "research",
-    "id": 44
-  },
-  {
-    "title": "From Noise to Control: Parameterized Diffusion Policies",
-    "url": "https://arxiv.org/abs/2606.00336",
-    "source": "arXiv cs.AI",
-    "date": "2026-06-02",
-    "summary": "We propose Parameterized Diffusion Policy (PDP), a framework for learning diffusion policies conditioned on low-dimensional, continuous parameters embedded in a learned behavior manifold. By construct...",
-    "category": "models",
-    "id": 45
-  },
-  {
-    "title": "From \"Weak\" Signals to Strong Models: Preference Delta Aggregation with LoRA Merging",
-    "url": "https://arxiv.org/abs/2606.00357",
-    "source": "arXiv cs.AI",
-    "date": "2026-06-02",
-    "summary": "Training strong large language models (LLMs) requires high-quality supervision, which is often scarce. Recent work shows that paired preference data from weak-weaker model pairs (e.g., Qwen3 4B over 1...",
-    "category": "research",
-    "id": 46
-  },
-  {
-    "title": "The Deterministic Horizon: When Extended Reasoning Fails and Tool Delegation Becomes Necessary",
-    "url": "https://arxiv.org/abs/2606.00376",
-    "source": "arXiv cs.AI",
-    "date": "2026-06-02",
-    "summary": "Extended chain-of-thought reasoning can degrade performance on deterministic state-tracking tasks, not due to preference biases, but limits rooted in the information-theoretic capacity of decoder-only...",
-    "category": "research",
-    "id": 47
-  },
-  {
-    "title": "VESTA: Visual Exploration with Statistical Tool Agents",
-    "url": "https://arxiv.org/abs/2606.00384",
-    "source": "arXiv cs.AI",
-    "date": "2026-06-02",
-    "summary": "Fitting quantitative models to data is a central step in scientific workflows, yet it remains one of the least automated. Recent agent-based systems leverage language and vision-language models (VLMs)...",
-    "category": "research",
-    "id": 48
-  },
-  {
-    "title": "Weak Critics Make Strong Learners: On-Policy Critique Distillation for Scalable Oversight",
-    "url": "https://arxiv.org/abs/2606.00424",
-    "source": "arXiv cs.AI",
-    "date": "2026-06-02",
-    "summary": "As large language models become stronger, weak supervisors may fail to provide reliable labels, preferences, or final judgments for complex outputs, limiting both weak-to-strong generalization and sca...",
-    "category": "research",
-    "id": 49
-  },
-  {
-    "title": "SDR: Set-Distance Rewards for Radiology Report Generation",
-    "url": "https://arxiv.org/abs/2606.00440",
-    "source": "arXiv cs.AI",
-    "date": "2026-06-02",
-    "summary": "Reinforcement learning with verifiable rewards has rapidly advanced reasoning in vision--language models. However, for chest X-ray report generation, the standard rewards (i.e. exact-match accuracy an...",
-    "category": "models",
     "id": 50
   }
 ]
