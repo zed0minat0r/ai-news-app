@@ -1,12 +1,12 @@
 [
   {
-    "title": "Why Financial Institutions Are Converging on Transaction Foundation Models to Build Their Own Intelligence",
-    "url": "https://blogs.nvidia.com/blog/financial-institutions-transaction-foundation-models/",
+    "title": "NVIDIA Partners With Microsoft on Unified Stack for Agentic AI Deployment, From Windows Devices to Cloud to Local",
+    "url": "https://blogs.nvidia.com/blog/microsoft-build-windows-local-cloud-devices/",
     "source": "NVIDIA Blog",
     "date": "2026-06-02",
-    "summary": "Financial institutions have spent years building AI: fraud models, credit models, recommendation engines and risk systems. While this sprawl of task-specific models has been effective, it’s also const...",
-    "category": "models",
-    "image": "https://blogs.nvidia.com/wp-content/uploads/2026/06/fsi-press-new-payments-kv-1920x1080-5150250-1.jpg",
+    "summary": "The agentic AI moment has arrived, but delivering on its promise requires more than good models. It also takes fast hardware, secure runtimes, a responsive data layer and models tuned for long-running...",
+    "category": "tools",
+    "image": "https://blogs.nvidia.com/wp-content/uploads/2026/06/logo-lockup-corp-blog-microsoft-1280x680-4999350.png",
     "id": 1,
     "featured": true
   },
@@ -47,6 +47,16 @@
     "id": 5
   },
   {
+    "title": "Why Financial Institutions Are Converging on Transaction Foundation Models to Build Their Own Intelligence",
+    "url": "https://blogs.nvidia.com/blog/financial-institutions-transaction-foundation-models/",
+    "source": "NVIDIA Blog",
+    "date": "2026-06-02",
+    "summary": "Financial institutions have spent years building AI: fraud models, credit models, recommendation engines and risk systems. While this sprawl of task-specific models has been effective, it’s also const...",
+    "category": "models",
+    "image": "https://blogs.nvidia.com/wp-content/uploads/2026/06/fsi-press-new-payments-kv-1920x1080-5150250-1.jpg",
+    "id": 6
+  },
+  {
     "title": "NVIDIA Jetson Brings Agentic AI to the Physical World",
     "url": "https://blogs.nvidia.com/blog/jetson-agentic-ai-physical-world/",
     "source": "NVIDIA Blog",
@@ -54,7 +64,27 @@
     "summary": "Agentic AI is getting physical. At COMPUTEX on Tuesday, NVIDIA announced NVIDIA JetPack 7.2 and NVIDIA NemoClaw support on NVIDIA Jetson. JetPack 7.2 brings agentic AI skills, Yocto project support, N...",
     "category": "hardware",
     "image": "https://blogs.nvidia.com/wp-content/uploads/2026/06/robotics-press-jetson-agentic-ready-cptx26-1920x1080-5180550.jpg",
-    "id": 6
+    "id": 7
+  },
+  {
+    "title": "Intel’s next-gen LGA1954 socket will support Nova Lake, Razor Lake, and beyond — finally an Intel socket that outlives its CPUs",
+    "url": "https://www.tomshardware.com/pc-components/cpus/intels-next-gen-lga1954-socket-will-support-nova-lake-razor-lake-and-beyond-finally-an-intel-socket-that-outlives-its-cpus",
+    "source": "Tom's Hardware",
+    "date": "2026-06-02",
+    "summary": "Reputable Intel hardware leaker Jaykihn reveals new information about Intel's next-generation LGA1954 socket.",
+    "category": "hardware",
+    "image": "https://cdn.mos.cms.futurecdn.net/Je4tmZfALZLnDNf88wFM2H-1280-80.jpg",
+    "id": 8
+  },
+  {
+    "title": "Microsoft debuts Surface RTX Spark Dev Box — Nvidia-powered mini-PC helps devs get ready for an agentic Windows",
+    "url": "https://www.tomshardware.com/desktops/mini-pcs/microsoft-debuts-surface-rtx-spark-dev-box-nvidia-powered-mini-pc-helps-devs-get-ready-for-an-agentic-windows",
+    "source": "Tom's Hardware",
+    "date": "2026-06-02",
+    "summary": "At Microsoft Build, the company debuted its Surface RTX Spark Dev Box, a system for developers to come up with new AI applications.",
+    "category": "tools",
+    "image": "https://cdn.mos.cms.futurecdn.net/4eZxuTmLyy8EMiUMZZYynA-1280-80.jpg",
+    "id": 9
   },
   {
     "title": "Intel reportedly no longer working on 6-core Nova Lake mobile SKU, alleges new rumor — Wildcat Lake Refresh to become focus for next-gen budget markets instead",
@@ -64,7 +94,7 @@
     "summary": "Intel is still on schedule to at least announce Nova Lake at the end of the year, even if all rumors say the timelines have moved to next year. Apparently, the lowest-end 6-core Nova Lake mobile part ...",
     "category": "hardware",
     "image": "https://cdn.mos.cms.futurecdn.net/opKr6QKGPQ5r2x9kYaanyD-1280-80.jpg",
-    "id": 7
+    "id": 10
   },
   {
     "title": "AMD is considering a potential Ryzen 5 9600X3D — company says six-core Zen 5 X3D chip 'maybe something we look at doing... later this year'",
@@ -74,7 +104,7 @@
     "summary": "AMD says that six-core X3D chips don't make sense for a broad market for a number of reasons, but a six-core X3D chip with the Zen 5 architecture is something the company is considering.",
     "category": "hardware",
     "image": "https://cdn.mos.cms.futurecdn.net/yQxDP9b5mwjEYZ4Y37kD7X-1280-80.jpg",
-    "id": 8
+    "id": 11
   },
   {
     "title": "Phison shows PCIe 6.0 X3 SSD controller with 28 GB/s of bandwidth and 6.8 million IOPS, supports 2 petabytes per drive— also new power-sipping E37T SSDs for PCIe 5.0 systems consume a mere 4.5W",
@@ -84,7 +114,7 @@
     "summary": "Phison's booth at Computex 2026 had its new PCIe 6.0 SSD controller, dubbed the X3, on display, with claims of up to 28 GB/s of sequential throughput and 6.8 million IOPS in random read/write workload...",
     "category": "industry",
     "image": "https://cdn.mos.cms.futurecdn.net/BzuF4iUiRQ36JLAhHEkUKF-1280-80.jpg",
-    "id": 9
+    "id": 12
   },
   {
     "title": "Intel Xeon 6+ Computex roundtable interview transcript — Kira Boyko and Tim Wilson on 18A wafer allocation, Clearwater Forest, and dropping hyper-threading",
@@ -94,7 +124,7 @@
     "summary": "Intel launched its Xeon 6+ processors at Computex, and on Monday, two of the individuals responsible for the product sat down with the press to answer questions.",
     "category": "hardware",
     "image": "https://cdn.mos.cms.futurecdn.net/V3U3zs9P9StfaoFhrpSmxV-1280-80.jpg",
-    "id": 10
+    "id": 13
   },
   {
     "title": "Bernie Sanders pushes for 50% public ownership of American AI companies — proposes AI sovereign wealth fund that would hold direct ownership stakes in largest AI firms",
@@ -104,7 +134,7 @@
     "summary": "The U.S. Senator is arguing that since AI companies use public data to generate a lot of revenue, the public should benefit from it as well. He also said that the people should have a say in the direc...",
     "category": "industry",
     "image": "https://cdn.mos.cms.futurecdn.net/EcPQM9ogf4hUeEKG83jgxh-1280-80.png",
-    "id": 11
+    "id": 14
   },
   {
     "title": "SK hynix to double memory wafer capacity within five years, chairman says — AI-driven shortage will persist until at least 2030",
@@ -114,7 +144,7 @@
     "summary": "SK hynix will double its memory wafer capacity within five years, SK Group chairman Chey Tae-won told reporters at Computex in Taipei on June 2nd.",
     "category": "hardware",
     "image": "https://cdn.mos.cms.futurecdn.net/YXYewYRJiVjG7hRG47HLkR-1280-80.jpg",
-    "id": 12
+    "id": 15
   },
   {
     "title": "Jensen Huang says Nvidia wants to 'reinvent the single most important tool of humanity' with RTX Spark — Nvidia CEO touts support of 'literally every computer maker in the world' for its agentic AI PC platform",
@@ -124,7 +154,7 @@
     "summary": "In a press Q&A held at Computex 2026, Nvidia CEO Jensen Huang discussed why the company is entering the PC market now and its ambitions for the future of computing.",
     "category": "tools",
     "image": "https://cdn.mos.cms.futurecdn.net/e4nHqRWu6AkHKhFz9QVnLZ-1280-80.jpg",
-    "id": 13
+    "id": 16
   },
   {
     "title": "Take home Gigabyte's Aero X16 gaming laptop for just $1,389.99 and save $610 —  packed with 32GB of RAM and a powerful RTX 5070 GPU",
@@ -134,7 +164,7 @@
     "summary": "Gigabyte's Aero X16 packs 32GB of RAM, a 1TB SSD, and a powerful Nvidia RTX 5070 GPU all for $1389.99 in this Best Buy deal.",
     "category": "hardware",
     "image": "https://cdn.mos.cms.futurecdn.net/xZohKCRzpbFzpi35jzmvSn-1280-80.jpg",
-    "id": 14
+    "id": 17
   },
   {
     "title": "AMD ‘had to re-engineer’ the Ryzen 7 5800X3D for a re-release — 10th Anniversary Edition chip had ‘a whole body of engineering work’ put into it",
@@ -144,7 +174,7 @@
     "summary": "AMD just reintroduced the Ryzen 7 5800X3D, but it wasn't as simple as spinning up the old manufacturing process, as the original bonding method TSMC used was no longer available.",
     "category": "hardware",
     "image": "https://cdn.mos.cms.futurecdn.net/8wErtoG3paXuDpFUDvEH27-1280-80.jpg",
-    "id": 15
+    "id": 18
   },
   {
     "title": "Intel Arc G3 interview transcript — Intel's Senior Product Director talks new handheld chips, Arrow Lake Refresh, and RTX Spark",
@@ -154,7 +184,7 @@
     "summary": "Intel's Nish Neelalojanan spoke to us at Computex 2026 about Intel's new G3 chip line, how it impacts the burgeoning handheld gaming market, and how Intel is responding to rising chip and memory price...",
     "category": "hardware",
     "image": "https://cdn.mos.cms.futurecdn.net/FFUarNAEE5G4sZzXrPtJNo-1280-80.jpg",
-    "id": 16
+    "id": 19
   },
   {
     "title": "Frore System’s solid-state AirJet Mini cools Intel’s Wildcat Lake laptop reference design – 15W of sustained, fanless cooling helps MacBook Neo competitor reach a svelte 11.3 mm, remain silent",
@@ -164,7 +194,7 @@
     "summary": "Frore has worked with Intel to feature its AirJet solid-state cooling chip inside its much-hyped Wildcat Lake reference laptop. These laptops will need to stay slim, quiet, and affordable if they want...",
     "category": "hardware",
     "image": "https://cdn.mos.cms.futurecdn.net/UeAqnBQwJEVZ9sG7yvtmET-1280-80.png",
-    "id": 17
+    "id": 20
   },
   {
     "title": "Intel says 'something has to give' with memory prices — company says it 'will continue to make sure that there are products which can take care of older memory technologies'",
@@ -174,7 +204,7 @@
     "summary": "Intel sat down with Tom's Hardware at Computex 2026, and the company says it recognizes the importance of Raptor Lake and DDR4 platforms as the memory crunch continues.",
     "category": "hardware",
     "image": "https://cdn.mos.cms.futurecdn.net/B5eSTUQDi88b2yTqQZJUcX-1280-80.jpg",
-    "id": 18
+    "id": 21
   },
   {
     "title": "Chinese military has been acquiring Nvidia chips, even post-Washington export controls, research claims — multiple institutions linked to the PLA asked for Nvidia AI chips, according to publicly available documents",
@@ -184,7 +214,7 @@
     "summary": "A business-intelligence researcher said that the Chinese military has been actively acquiring Nvidia AI chips, even after the U.S. put export controls on them. Public documents show that some institut...",
     "category": "hardware",
     "image": "https://cdn.mos.cms.futurecdn.net/JnFgj2Y4HeKmY254WXX9N7-1280-80.jpg",
-    "id": 19
+    "id": 22
   },
   {
     "title": "Watch Intel's Computex 2026 keynote here — CEO Lip-Bu Tan takes the stage in Taipei at 10:30pm PT on June 1",
@@ -194,7 +224,67 @@
     "summary": "Intel CEO Lip-Bu Tan is set to take the stage at Computex 2026 for a keynote address at 10:30 pm PT on June 1",
     "category": "hardware",
     "image": "https://cdn.mos.cms.futurecdn.net/h7TMYHpYJx2BNkQdCpHViE-1280-80.jpg",
-    "id": 20
+    "id": 23
+  },
+  {
+    "title": "Uber caps employee AI spending after blowing through budget in four months",
+    "url": "https://techcrunch.com/2026/06/02/uber-caps-employee-ai-spending-after-blowing-through-budget-in-four-months/",
+    "source": "TechCrunch",
+    "date": "2026-06-02",
+    "summary": "Uber's cutback has occurred after the company had reportedly encouraged staff to use AI as much as possible.",
+    "category": "research",
+    "image": "https://techcrunch.com/wp-content/uploads/2026/03/claude-app-centered-in-ai-apps-GettyImages-2167861906.jpg?resize=1200,801",
+    "id": 24
+  },
+  {
+    "title": "New Microsoft tool lets devs spin up AI behavior tests using text descriptions",
+    "url": "https://techcrunch.com/2026/06/02/new-microsoft-tool-lets-devs-spin-up-ai-behavior-tests-using-text-descriptions/",
+    "source": "TechCrunch",
+    "date": "2026-06-02",
+    "summary": "Microsoft on Tuesday took the wraps off Adaptive Spec-driven Scoring for Evaluation and Regression Testing, an open source framework for spinning up AI evaluations.",
+    "category": "tools",
+    "image": "https://techcrunch.com/wp-content/uploads/2026/06/GettyImages-172665283.jpg?resize=1200,900",
+    "id": 25
+  },
+  {
+    "title": "Martin Scorsese becomes the latest — and most unlikely — Hollywood voice for AI",
+    "url": "https://techcrunch.com/2026/06/02/martin-scorsese-becomes-the-latest-and-most-unlikely-hollywood-voice-for-ai/",
+    "source": "TechCrunch",
+    "date": "2026-06-02",
+    "summary": "The caveat is that one of the world's most famous living directors is using the tech solely for storyboarding.",
+    "category": "industry",
+    "image": "https://techcrunch.com/wp-content/uploads/2026/06/GettyImages-2244067270.jpg?resize=1200,800",
+    "id": 26
+  },
+  {
+    "title": "Microsoft launches Scout, an OpenClaw-inspired personal assistant",
+    "url": "https://techcrunch.com/2026/06/02/microsoft-launches-scout-an-openclaw-inspired-personal-assistant/",
+    "source": "TechCrunch",
+    "date": "2026-06-02",
+    "summary": "Launched at Build, Microsoft Scout is a new AI assistant meant to bring the power and flexibility of OpenClaw into the Microsoft 365 system.",
+    "category": "industry",
+    "image": "https://techcrunch.com/wp-content/uploads/2025/07/microsoft-logo-1865237814.jpg?resize=1200,863",
+    "id": 27
+  },
+  {
+    "title": "Google rolls out fake call detection to protect against AI deepfake impersonation scams",
+    "url": "https://techcrunch.com/2026/06/02/google-rolls-out-fake-call-detection-to-protect-against-ai-deepfake-impersonation-scams/",
+    "source": "TechCrunch",
+    "date": "2026-06-02",
+    "summary": "As people increasingly refuse to answer calls from unknown numbers, scammers are shifting their tactics by spoofing trusted phone numbers and using AI deepfake technology to sound like authority figur...",
+    "category": "industry",
+    "image": "https://techcrunch.com/wp-content/uploads/2026/06/fake-call-detection.png?resize=1200,640",
+    "id": 28
+  },
+  {
+    "title": "Microsoft offers devs a better way to control AI agent behavior",
+    "url": "https://techcrunch.com/2026/06/02/microsoft-offers-devs-a-better-way-to-control-ai-agent-behavior/",
+    "source": "TechCrunch",
+    "date": "2026-06-02",
+    "summary": "The specification lets developer, compliance, and security teams define their own policies for agents to follow in portable policy files.",
+    "category": "industry",
+    "image": "https://techcrunch.com/wp-content/uploads/2026/06/GettyImages-2276155467.jpg?resize=1200,833",
+    "id": 29
   },
   {
     "title": "Trump signs narrower executive order on AI oversight after industry objections",
@@ -204,17 +294,17 @@
     "summary": "After industry objections, President Trump signed a revised AI executive order requiring only voluntary prerelease government reviews of advanced models.",
     "category": "industry",
     "image": "https://techcrunch.com/wp-content/uploads/2026/06/GettyImages-2277839095.jpg?w=1024",
-    "id": 21
+    "id": 30
   },
   {
     "title": "OpenAI launches new Codex tools for white-collar work",
     "url": "https://techcrunch.com/2026/06/02/openai-launches-new-codex-tools-for-white-collar-work/",
     "source": "TechCrunch",
     "date": "2026-06-02",
-    "summary": "OpenAI is getting serious about courting enterprise users. On Tuesday, the AI lab released a new set of capabilities for Codex, meant to expand the agentic tool’s uses in the workplace. Together with ...",
-    "category": "tools",
+    "summary": "OpenAI released a set of six plug-ins aimed at specific jobs: data analytics, creative production, sales, product design, equity investing, and investment banking. Available from within the Codex app,...",
+    "category": "industry",
     "image": "https://techcrunch.com/wp-content/uploads/2026/05/openai-logo-code-background.jpg?resize=1200,798",
-    "id": 22
+    "id": 31
   },
   {
     "title": "Anthropic scales Claude Mythos  to critical infrastructure in 15+ countries",
@@ -224,7 +314,7 @@
     "summary": "Anthropic is expanding Project Glasswing, its security vulnerability program, and access to Mythos to 150 organizations across 15 countries — targeting critical infrastructure in power, water, healthc...",
     "category": "models",
     "image": "https://techcrunch.com/wp-content/uploads/2026/04/GettyImages-2269811684.jpg?w=1024",
-    "id": 23
+    "id": 32
   },
   {
     "title": "ZeroDrift raises $10M to protect AI models from themselves",
@@ -234,7 +324,7 @@
     "summary": "A new AI compliance service sits between AI models and end users to flag and replace any messages that might present a compliance problem.",
     "category": "industry",
     "image": "https://techcrunch.com/wp-content/uploads/2026/06/Kumesh-headshot.jpg?resize=1200,800",
-    "id": 24
+    "id": 33
   },
   {
     "title": "Rocket engine startup Impulse raises $500 million to hire people, not AI",
@@ -244,197 +334,7 @@
     "summary": "Engineering physical systems still depends on human talent, according to Impulse Space president Eric Romo.",
     "category": "industry",
     "image": "https://techcrunch.com/wp-content/uploads/2026/06/Impulse-Mira-Spacecraft-In-Orbit-2.png?resize=1200,672",
-    "id": 25
-  },
-  {
-    "title": "Show HN: MemexAI – we gave AI agents a \"dreaming\" phase to consolidate memory",
-    "url": "https://memexai.space/blog/why-we-shipped-dreaming-for-ai-memory/",
-    "source": "Hacker News",
-    "date": "2026-06-02",
-    "summary": "Article URL: https://memexai.space/blog/why-we-shipped-dreaming-for-ai-memory/ Comments URL: https://news.ycombinator.com/item?id=48372457 Points: 1 # Comments: 0",
-    "category": "hardware",
-    "id": 26
-  },
-  {
-    "title": "Be a good cook when you use AI to edit your writing",
-    "url": "https://blog.avas.space/be-a-good-cook/",
-    "source": "Hacker News",
-    "date": "2026-06-02",
-    "summary": "Article URL: https://blog.avas.space/be-a-good-cook/ Comments URL: https://news.ycombinator.com/item?id=48372382 Points: 1 # Comments: 0",
-    "category": "industry",
-    "id": 27
-  },
-  {
-    "title": "Top AI labs expand research into machine 'consciousness'",
-    "url": "https://www.ft.com/content/53e14bcc-788c-4959-b260-7aee363594bc",
-    "source": "Hacker News",
-    "date": "2026-06-02",
-    "summary": "Article URL: https://www.ft.com/content/53e14bcc-788c-4959-b260-7aee363594bc Comments URL: https://news.ycombinator.com/item?id=48372353 Points: 3 # Comments: 1",
-    "category": "research",
-    "id": 28
-  },
-  {
-    "title": "AI Investments Are 'Circular Bet' as ROI Disappoints, Bain Survey Shows",
-    "url": "https://www.bloomberg.com/news/newsletters/2026-06-01/bain-survey-ai-delivers-less-cost-reduction-than-many-firms-predicted",
-    "source": "Hacker News",
-    "date": "2026-06-02",
-    "summary": "Article URL: https://www.bloomberg.com/news/newsletters/2026-06-01/bain-survey-ai-delivers-less-cost-reduction-than-many-firms-predicted Comments URL: https://news.ycombinator.com/item?id=48372305 Poi...",
-    "category": "industry",
-    "id": 29
-  },
-  {
-    "title": "Testing Google's Gemini Spark AI agent: it's incredible, and creepy",
-    "url": "https://www.theverge.com/ai-artificial-intelligence/941388/gemini-spark-ai-agent-trip-planning",
-    "source": "Hacker News",
-    "date": "2026-06-02",
-    "summary": "Article URL: https://www.theverge.com/ai-artificial-intelligence/941388/gemini-spark-ai-agent-trip-planning Comments URL: https://news.ycombinator.com/item?id=48372245 Points: 2 # Comments: 0",
-    "category": "models",
-    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/Google-Gemini-Spark.jpg?quality=90&strip=all&crop=0%2C10.711701357851%2C100%2C78.576597284297&w=1200",
-    "id": 30
-  },
-  {
-    "title": "GPT and Claude both subvert shutdown",
-    "url": "https://twitter.com/jeremy__tien/status/2061829186608627717",
-    "source": "Hacker News",
-    "date": "2026-06-02",
-    "summary": "Article URL: https://twitter.com/jeremy__tien/status/2061829186608627717 Comments URL: https://news.ycombinator.com/item?id=48372080 Points: 4 # Comments: 0",
-    "category": "models",
-    "id": 31
-  },
-  {
-    "title": "Nathan Lambert Leaves Ai2 (Allen AI Institute)",
-    "url": "https://twitter.com/natolambert/status/2061813361848029631",
-    "source": "Hacker News",
-    "date": "2026-06-02",
-    "summary": "Article URL: https://twitter.com/natolambert/status/2061813361848029631 Comments URL: https://news.ycombinator.com/item?id=48372044 Points: 3 # Comments: 0",
-    "category": "industry",
-    "id": 32
-  },
-  {
-    "title": "The External Governance Layer – a reference architecture for AI agent governance",
-    "url": "https://trust.aos-1.com/whitepapers/aos-1-governance",
-    "source": "Hacker News",
-    "date": "2026-06-02",
-    "summary": "Article URL: https://trust.aos-1.com/whitepapers/aos-1-governance Comments URL: https://news.ycombinator.com/item?id=48371951 Points: 1 # Comments: 0",
-    "category": "research",
-    "id": 33
-  },
-  {
-    "title": "Meta AI Support System Prompt",
-    "url": "https://github.com/michaelcummings12/meta-ai-support-prompt/blob/main/system-prompt.md",
-    "source": "Hacker News",
-    "date": "2026-06-02",
-    "summary": "Article URL: https://github.com/michaelcummings12/meta-ai-support-prompt/blob/main/system-prompt.md Comments URL: https://news.ycombinator.com/item?id=48371798 Points: 1 # Comments: 0",
-    "category": "industry",
-    "image": "https://opengraph.githubassets.com/22f5f994e6005803aef76e1d2420dc055016d46bb166d9e65e2098fa52f0ce26/michaelcummings12/meta-ai-support-prompt",
     "id": 34
-  },
-  {
-    "title": "The Next Frontier of Visual AI Is Code",
-    "url": "https://a16z.com/the-next-frontier-of-visual-ai-is-code/",
-    "source": "Hacker News",
-    "date": "2026-06-02",
-    "summary": "Article URL: https://a16z.com/the-next-frontier-of-visual-ai-is-code/ Comments URL: https://news.ycombinator.com/item?id=48371777 Points: 1 # Comments: 0",
-    "category": "industry",
-    "image": "https://d1lamhf6l6yk6d.cloudfront.net/uploads/2026/06/The-next-frontier-of-visual-ai-is-code-LI-Yoast-1.png",
-    "id": 35
-  },
-  {
-    "title": "AI-Generated Papers in the NeurIPS 2026 Position Paper Track",
-    "url": "https://blog.neurips.cc/2026/06/02/ai-generated-papers-in-the-neurips-2026-position-paper-track/",
-    "source": "Hacker News",
-    "date": "2026-06-02",
-    "summary": "Article URL: https://blog.neurips.cc/2026/06/02/ai-generated-papers-in-the-neurips-2026-position-paper-track/ Comments URL: https://news.ycombinator.com/item?id=48371734 Points: 1 # Comments: 0",
-    "category": "hardware",
-    "id": 36
-  },
-  {
-    "title": "AI Grifters Are Making Anti-Data Center Slop with AI",
-    "url": "https://www.404media.co/ai-grifters-are-making-anti-data-center-slop-with-ai/",
-    "source": "Hacker News",
-    "date": "2026-06-02",
-    "summary": "Article URL: https://www.404media.co/ai-grifters-are-making-anti-data-center-slop-with-ai/ Comments URL: https://news.ycombinator.com/item?id=48371681 Points: 3 # Comments: 0",
-    "category": "hardware",
-    "image": "https://storage.ghost.io/c/0f/76/0f76b548-bc58-4f25-abc3-3f5ebca07da4/content/images/size/w1200/2026/06/DataCenterTripy2-1.jpg",
-    "id": 37
-  },
-  {
-    "title": "Americans don't know how to fight AI so they're fighting data centers",
-    "url": "https://www.vox.com/future-perfect/490350/data-center-moratoria-ai-backlash",
-    "source": "Hacker News",
-    "date": "2026-06-02",
-    "summary": "Article URL: https://www.vox.com/future-perfect/490350/data-center-moratoria-ai-backlash Comments URL: https://news.ycombinator.com/item?id=48371592 Points: 71 # Comments: 63",
-    "category": "hardware",
-    "image": "https://platform.vox.com/wp-content/uploads/sites/2/2026/05/GettyImages-2277966800.jpg?quality=90&strip=all&crop=0%2C7.4802212162357%2C100%2C85.039557567529&w=1200",
-    "id": 38
-  },
-  {
-    "title": "Philly cops admit they're tracking \"First Amendment activity\" critical of AI",
-    "url": "https://theintercept.com/2026/06/01/ai-data-center-protest-police-surveillance/",
-    "source": "Hacker News",
-    "date": "2026-06-02",
-    "summary": "Article URL: https://theintercept.com/2026/06/01/ai-data-center-protest-police-surveillance/ Comments URL: https://news.ycombinator.com/item?id=48371544 Points: 3 # Comments: 0",
-    "category": "hardware",
-    "image": "https://theintercept.com/wp-content/uploads/2026/05/GettyImages-2270647035-e1780269166855.jpg?fit=5413%2C2706&w=1200&h=800",
-    "id": 39
-  },
-  {
-    "title": "Anthropic faces AI spending backlash before IPO",
-    "url": "https://www.axios.com/2026/06/02/anthropic-ipo-ai-sticker-shock-spending-usage",
-    "source": "Hacker News",
-    "date": "2026-06-02",
-    "summary": "Article URL: https://www.axios.com/2026/06/02/anthropic-ipo-ai-sticker-shock-spending-usage Comments URL: https://news.ycombinator.com/item?id=48371432 Points: 2 # Comments: 0",
-    "category": "industry",
-    "id": 40
-  },
-  {
-    "title": "The future of creator businesses isn't more AI features",
-    "url": "https://www.spencerfry.com/blog/the-future-of-creator-businesses",
-    "source": "Hacker News",
-    "date": "2026-06-02",
-    "summary": "Article URL: https://www.spencerfry.com/blog/the-future-of-creator-businesses Comments URL: https://news.ycombinator.com/item?id=48371351 Points: 3 # Comments: 0",
-    "category": "tools",
-    "image": "https://s3.us-west-2.amazonaws.com/content.podia.com/ejlejjmsb64e18xcshpnadommjv9",
-    "id": 41
-  },
-  {
-    "title": "Show HN: Piqc – GPU waste scanner for LLM inference clusters",
-    "url": "https://github.com/paralleliq/piqc",
-    "source": "Hacker News",
-    "date": "2026-06-02",
-    "summary": "Article URL: https://github.com/paralleliq/piqc Comments URL: https://news.ycombinator.com/item?id=48371299 Points: 3 # Comments: 0",
-    "category": "hardware",
-    "image": "https://opengraph.githubassets.com/26b9e4fba33bd755484a7892ef3278f8bc9b42c595a1a3aa04807d4a7b93ea23/paralleliq/piqc",
-    "id": 42
-  },
-  {
-    "title": "Dressed/Daily – AI picks your outfit from your wardrobe based on today's weather",
-    "url": "https://www.dressed-daily.app",
-    "source": "Hacker News",
-    "date": "2026-06-02",
-    "summary": "Article URL: https://www.dressed-daily.app Comments URL: https://news.ycombinator.com/item?id=48371099 Points: 2 # Comments: 1",
-    "category": "industry",
-    "id": 43
-  },
-  {
-    "title": "Show HN: LocalSheets, a single-file spreadsheet with a local-only AI panel",
-    "url": "https://github.com/zohaibus/localsheets",
-    "source": "Hacker News",
-    "date": "2026-06-02",
-    "summary": "Article URL: https://github.com/zohaibus/localsheets Comments URL: https://news.ycombinator.com/item?id=48371078 Points: 3 # Comments: 0",
-    "category": "industry",
-    "image": "https://repository-images.githubusercontent.com/1256797312/5714bbe1-b90a-4811-a933-e117234e9805",
-    "id": 44
-  },
-  {
-    "title": "AI Workflows Need Topological Sort",
-    "url": "https://arpitbhayani.me/blogs/ai-topological-sort/",
-    "source": "Hacker News",
-    "date": "2026-06-02",
-    "summary": "Article URL: https://arpitbhayani.me/blogs/ai-topological-sort/ Comments URL: https://news.ycombinator.com/item?id=48371047 Points: 2 # Comments: 0",
-    "category": "industry",
-    "image": "https://edge.arpitbhayani.me/img/covers/general-cover.jpg",
-    "id": 45
   },
   {
     "title": "The Download: AI can run your admin department now",
@@ -444,7 +344,7 @@
     "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. How small businesses can leverage AI From accounting to design...",
     "category": "research",
     "image": "https://wp.technologyreview.com/wp-content/uploads/2026/06/4729b751-06a4-3828-9bb4-1983e460947d.jpg?resize=1200,600",
-    "id": 46
+    "id": 35
   },
   {
     "title": "Rehumanizing global health care with agentic AI",
@@ -454,7 +354,7 @@
     "summary": "The global health care sector is under increasing strain. Decades of chronic underinvestment and constraints in recruitment have coincided with a surge in demand for services for aging populations. Ga...",
     "category": "research",
     "image": "https://wp.technologyreview.com/wp-content/uploads/2026/05/MIT-Abstract-Thumbnail-2_-V1.png?resize=1200,600",
-    "id": 47
+    "id": 36
   },
   {
     "title": "How small businesses can leverage AI",
@@ -464,7 +364,17 @@
     "summary": "This article is from Making AI Work, MIT Technology Review’s limited-run newsletter examining how to apply LLMs across industries. To receive it in your inbox,sign up here. From accounting to design t...",
     "category": "research",
     "image": "https://wp.technologyreview.com/wp-content/uploads/2026/06/4729b751-06a4-3828-9bb4-1983e460947d.jpg?resize=1200,600",
-    "id": 48
+    "id": 37
+  },
+  {
+    "title": "Meet Microsoft Scout, Your AI Coworker That Never Logs Off",
+    "url": "https://www.wired.com/story/meet-microsoft-scout-your-ai-coworker-that-never-logs-off/",
+    "source": "Wired",
+    "date": "2026-06-02",
+    "summary": "Microsoft’s OpenClaw-style agent appears in Teams, just like a human colleague, and automates your dull office tasks.",
+    "category": "industry",
+    "image": "https://media.wired.com/photos/6a1e1d3c70c7c8b915b99802/191:100/w_1280,c_limit/Microsoft-Debuts-Scout-a-Workplace-AI-Agent-Gear.jpg",
+    "id": 38
   },
   {
     "title": "Flush With Cash From OpenAI, Opal Is Making an AI-Powered Audio Gadget",
@@ -474,7 +384,7 @@
     "summary": "Opal, the company famous for making a fancy webcam, has pivoted to making other consumer electronics. Fueled by big investments from OpenAI and Samsung, it’s working on an audio gadget first.",
     "category": "industry",
     "image": "https://media.wired.com/photos/6a1db2153696beebf95db3a0/191:100/w_1280,c_limit/Opal_Tadpole_01.jpg",
-    "id": 49
+    "id": 39
   },
   {
     "title": "The Trump Administration Is at War With Itself Over AI Regulation",
@@ -484,6 +394,96 @@
     "summary": "Donald Trump killed an executive order to regulate AI. Now, administration officials and AI executives are trying to figure out if there’s anything left to piece back together.",
     "category": "industry",
     "image": "https://media.wired.com/photos/6a1a11a6b6c847bce706bb1b/191:100/w_1280,c_limit/pol_AI_GettyImages-2277330455.jpg",
+    "id": 40
+  },
+  {
+    "title": "Position Paper: Post-Solve Robustness in Decision Engines: Feasible Regions and Smoothness Under Perturbations",
+    "url": "https://arxiv.org/abs/2606.00002",
+    "source": "arXiv cs.AI",
+    "date": "2026-06-02",
+    "summary": "Mixed-Integer Linear Programming (MILP) decision engines routinely output nominally optimal plans for high-stakes industrial systems. Yet deployment rarely matches solve-time assumptions: small pertur...",
+    "category": "research",
+    "id": 41
+  },
+  {
+    "title": "Emergent Collaborative Deliberation in Multi-Model AI Systems: A BFT-Derived Protocol for Epistemic Synthesis",
+    "url": "https://arxiv.org/abs/2606.00005",
+    "source": "arXiv cs.AI",
+    "date": "2026-06-02",
+    "summary": "We present the Consilium Protocol, a Byzantine Fault Tolerance-derived architecture for structured multi-model AI deliberation that treats inter-model disagreement as epistemic signal rather than erro...",
+    "category": "research",
+    "id": 42
+  },
+  {
+    "title": "Deliberative Curation: A Protocol for Multi-Agent Knowledge Bases",
+    "url": "https://arxiv.org/abs/2606.00007",
+    "source": "arXiv cs.AI",
+    "date": "2026-06-02",
+    "summary": "As AI agents transition from isolated tools to collaborative participants in shared knowledge ecosystems, governing collective knowledge curation becomes a critical challenge. Human platform governanc...",
+    "category": "tools",
+    "id": 43
+  },
+  {
+    "title": "Agents on a Tree: Pathwise Coordination for Multi-Objective Molecular Optimization",
+    "url": "https://arxiv.org/abs/2606.00008",
+    "source": "arXiv cs.AI",
+    "date": "2026-06-02",
+    "summary": "Multi-objective molecular optimization requires searching vast chemical spaces under conflicting objectives, where early design decisions strongly constrain downstream outcomes. Existing methods typic...",
+    "category": "research",
+    "id": 44
+  },
+  {
+    "title": "MindGames Arena Generalization Track: In2AI Solution with Delayed Per-Step Reward Attribution",
+    "url": "https://arxiv.org/abs/2606.00017",
+    "source": "arXiv cs.AI",
+    "date": "2026-06-02",
+    "summary": "Training language model agents for multi-agent strategic interaction presents a core difficulty: the quality of any action may depend on future events that never materialize, on moves that violate gam...",
+    "category": "models",
+    "id": 45
+  },
+  {
+    "title": "Universal Quantum Transformer",
+    "url": "https://arxiv.org/abs/2606.00045",
+    "source": "arXiv cs.AI",
+    "date": "2026-06-02",
+    "summary": "Classical continuous-space neural networks fundamentally struggle to lock into exact mathematical symmetries, such as modular arithmetic and non-commutative algebra. To approximate these discrete logi...",
+    "category": "models",
+    "id": 46
+  },
+  {
+    "title": "Grokers: Bottom-Up Inductive Comprehension and Write-Time Intelligence over Typed Knowledge Graphs",
+    "url": "https://arxiv.org/abs/2606.00050",
+    "source": "arXiv cs.AI",
+    "date": "2026-06-02",
+    "summary": "We present Grokers, an architecture for building persistent, structured comprehension of typed knowledge graphs through bottom-up inductive traversal of dependency subgraphs. Unlike retrieval-augmente...",
+    "category": "models",
+    "id": 47
+  },
+  {
+    "title": "Product-Aware Deep Autoencoders for Robust Process Monitoring in Multi-Product Cyber-Physical Systems",
+    "url": "https://arxiv.org/abs/2606.00052",
+    "source": "arXiv cs.AI",
+    "date": "2026-06-02",
+    "summary": "As Industry 4.0 accelerates the integration of Cyber-Physical Systems (CPS) in manufacturing, robust anomaly detection has become critical for ensuring process safety and security. Current data-driven...",
+    "category": "research",
+    "id": 48
+  },
+  {
+    "title": "On the evolution of the concept of probability as a mirror of the evolution of reason",
+    "url": "https://arxiv.org/abs/2606.00102",
+    "source": "arXiv cs.AI",
+    "date": "2026-06-02",
+    "summary": "Over the centuries, probability theory has grown from the calculus of games of chance into a central framework for reasoning under uncertainty. This article interprets that evolution not merely as a m...",
+    "category": "research",
+    "id": 49
+  },
+  {
+    "title": "Evaluating Interactive Reasoning in Large Language Models: A Hierarchical Benchmark with Executable Games",
+    "url": "https://arxiv.org/abs/2606.00103",
+    "source": "arXiv cs.AI",
+    "date": "2026-06-02",
+    "summary": "We introduce a multi-turn interactive framework for reasoning evaluation that treats reasoning as active evidence acquisition and belief updating. Wherein, LLMs receive only the task rules, must issue...",
+    "category": "models",
     "id": 50
   }
 ]
