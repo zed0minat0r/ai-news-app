@@ -11,6 +11,15 @@
     "featured": true
   },
   {
+    "title": "Introducing the OpenAI Economic Research Exchange",
+    "url": "https://openai.com/index/economic-research-exchange",
+    "source": "OpenAI Blog",
+    "date": "2026-06-08",
+    "summary": "OpenAI launches the Economic Research Exchange to study AI’s impact on jobs, productivity, and the economy. Applications are now open for selected research projects.",
+    "category": "research",
+    "id": 2
+  },
+  {
     "title": "NVIDIA and LG Group Build an AI Factory to Advance Physical AI, Mobility and AI Infrastructure",
     "url": "https://blogs.nvidia.com/blog/nvidia-and-lg-group-ai-factory/",
     "source": "NVIDIA Blog",
@@ -18,7 +27,77 @@
     "summary": "NVIDIA and LG Group are building an AI factory to accelerate LG Group’s next wave of AI-driven businesses, spanning robotics, autonomous driving, data center technologies and GPU cloud services. The A...",
     "category": "hardware",
     "image": "https://blogs.nvidia.com/wp-content/uploads/2026/06/kr-visit-lg-group-1920x1080-no-credit.png",
-    "id": 2
+    "id": 3
+  },
+  {
+    "title": "For the 2nd time in weeks, Microsoft packages laced with credential stealer",
+    "url": "https://arstechnica.com/security/2026/06/for-the-2nd-time-in-weeks-microsoft-packages-laced-with-credential-stealer/",
+    "source": "Ars Technica",
+    "date": "2026-06-08",
+    "summary": "73 packages run self-replicating stealer as soon as they're opened by an AI agent.",
+    "category": "industry",
+    "image": "https://cdn.arstechnica.net/wp-content/uploads/2025/09/microsoft-logo-1024x648.jpg",
+    "id": 4
+  },
+  {
+    "title": "Levelplay shows off magnetically attached fans that are reversible, connect via pogo pins and USB-C – plus an AIO that trades a screen for a big knob",
+    "url": "https://www.tomshardware.com/pc-components/cooling/levelplay-shows-off-magnetically-attached-fans-that-are-reversible-connect-via-pogo-pins-and-usb-c-plus-an-aio-that-trades-a-screen-for-a-big-knob",
+    "source": "Tom's Hardware",
+    "date": "2026-06-08",
+    "summary": "Levelplay took to Computex with some interesting cooling concepts, like magnetic fans that can be reversed in seconds, and an AIO that puts a big tactile knob for fan control on top of your CPU.",
+    "category": "hardware",
+    "image": "https://cdn.mos.cms.futurecdn.net/hGZDGFCNQ63AGbWqf3F6xF-1280-80.jpg",
+    "id": 5
+  },
+  {
+    "title": "Chinese startup claims photonic chip production without DUV lithography, says nanoimprint process cuts costs by 90% — 8-inch wafers produced without conventional optical lithography",
+    "url": "https://www.tomshardware.com/tech-industry/semiconductors/chinese-startup-claims-photonic-chip-production-without-duv-lithography-says-nanoimprint-process-cuts-costs-by-90-percent-8-inch-wafers-produced-without-conventional-optical-lithography",
+    "source": "Tom's Hardware",
+    "date": "2026-06-08",
+    "summary": "Chinese startup Prinano claims it produced 8-inch photonic chip wafers without DUV lithography, using nanoimprint technology that cuts costs by 90%.",
+    "category": "hardware",
+    "image": "https://cdn.mos.cms.futurecdn.net/ApSKFpQCfh726LpLJTFnaK-1280-80.jpg",
+    "id": 6
+  },
+  {
+    "title": "Apple demonstrates cross-platform Siri upgrades in macOS 27 Golden Gate at WWDC — update brings Liquid Glass improvements and unifies AI strategy",
+    "url": "https://www.tomshardware.com/software/macos/apple-demonstrates-cross-platform-siri-upgrades-in-macos-27-golden-gate-at-wwdc-update-brings-liquid-glass-improvements-and-unifies-ai-strategy",
+    "source": "Tom's Hardware",
+    "date": "2026-06-08",
+    "summary": "At WWDC, Apple revealed its upcoming macOS update, macOS 27 Golden Gate, with a more refined Liquid Glass design and cross-platform Siri and Apple Intelligence features.",
+    "category": "hardware",
+    "image": "https://cdn.mos.cms.futurecdn.net/xNdgYcEkuxfpE9e4wFSDDb-1280-80.jpg",
+    "id": 7
+  },
+  {
+    "title": "Intel expands new game-boosting iBOT software with seven more games, up to a 27% improvement — Team Blue claims 12% average jump in newly-supported titles",
+    "url": "https://www.tomshardware.com/pc-components/cpus/intel-expands-new-game-boosting-ibot-software-with-seven-more-games-up-to-a-27-percent-improvement-team-blue-claims-12-percent-average-jump-in-newly-supported-titles",
+    "source": "Tom's Hardware",
+    "date": "2026-06-08",
+    "summary": "Intel is expanding its performance-boosting iBOT feature with seven new games.",
+    "category": "hardware",
+    "image": "https://cdn.mos.cms.futurecdn.net/aY3JLGxmrfBzWidnrSSRpU-1280-80.jpg",
+    "id": 8
+  },
+  {
+    "title": "Most new U.S. AI data centers are being built in drought zones — two-thirds of 809 planned projects set for areas with water shortages",
+    "url": "https://www.tomshardware.com/tech-industry/most-new-us-ai-data-centers-are-going-up-on-drought-land",
+    "source": "Tom's Hardware",
+    "date": "2026-06-08",
+    "summary": "About two-thirds of the 809 data centers planned across the U.S. are slated for land that has been in drought over the past year.",
+    "category": "hardware",
+    "image": "https://cdn.mos.cms.futurecdn.net/iMHPd97G3qtdyzwF93SKQd-1280-80.jpg",
+    "id": 9
+  },
+  {
+    "title": "Farmer donates land for a park, city sells it for data center development — $10 gift became $10M for city government, with $30M tax expected over next decade",
+    "url": "https://www.tomshardware.com/tech-industry/farmer-donates-land-for-a-park-city-sells-it-for-data-center-development-usd10-gift-became-usd10m-for-city-government-with-usd30m-tax-expected-over-next-decade",
+    "source": "Tom's Hardware",
+    "date": "2026-06-08",
+    "summary": "Texas farmland originally donated in 1999 to be used only as a public park has been sold to a data center developer for $10 million.",
+    "category": "industry",
+    "image": "https://cdn.mos.cms.futurecdn.net/iRypPh9tngoWdjn9byB345-1280-80.jpg",
+    "id": 10
   },
   {
     "title": "Demand for data center CPUs has surged, and AI agents are responsible – why the CPU to GPU ratio is more important than ever for hyperscalers",
@@ -28,7 +107,7 @@
     "summary": "The massive AI gold rush has a new bottleneck set in its sights, CPUs. But what's driving the demand? We interview industry experts to find out.",
     "category": "hardware",
     "image": "https://cdn.mos.cms.futurecdn.net/Ayt7bzBWFvQmWPDUoyjUNh-1280-80.jpg",
-    "id": 3
+    "id": 11
   },
   {
     "title": "Nvidia and SK hynix ink multi-year memory co-development and supply agreement — seeks to address extended development cycles",
@@ -38,7 +117,7 @@
     "summary": "Nvidia and SK hynix have inked a multi-year collaboration agreement under which the companies will co-develop next-generation memory technologies for Nvidia's upcoming platforms and SK hynix will supp...",
     "category": "hardware",
     "image": "https://cdn.mos.cms.futurecdn.net/sTwGjAwyv4JF2J8cALVrvF-1280-80.png",
-    "id": 4
+    "id": 12
   },
   {
     "title": "Intel introduced ‘the first processor in the x86 series and the first 8086 microprocessor’ on this day in 1978 — CPU was designed as a temporary substitute for the delayed iAPX 432 project",
@@ -48,7 +127,7 @@
     "summary": "June 8, 1978, marked the birth of the x86 architecture with the arrival of the 16-bit Intel 8086 CPU.",
     "category": "hardware",
     "image": "https://cdn.mos.cms.futurecdn.net/9wfAmjd4DeVekWfKBqy7MT-1280-80.jpg",
-    "id": 5
+    "id": 13
   },
   {
     "title": "Executives are cutting jobs for an AI future that hasn't fully arrived yet, even as productivity gains remain difficult to prove — data neither confirms nor refutes an AI unemployment apocalypse",
@@ -58,7 +137,7 @@
     "summary": "A growing number of CEOs expect AI-driven layoffs, but economic data paints a more complex picture as companies cut junior roles before proving AI delivers meaningful productivity gains.",
     "category": "industry",
     "image": "https://cdn.mos.cms.futurecdn.net/RuKxLbmpevQWEgBjvLLEzM-1280-80.jpg",
-    "id": 6
+    "id": 14
   },
   {
     "title": "Amazon is offering a $324 Nvidia RTX 5060 GPU deal in a lightning sale, making it the cheapest model available — 1080p gaming on a budget",
@@ -68,7 +147,67 @@
     "summary": "Grab an RTX 5060 GPU deal while you still can. The $324 deal is selling out fast in Amazon's limited-time sale.",
     "category": "hardware",
     "image": "https://cdn.mos.cms.futurecdn.net/24HJj4L8vYFtvBdwhgEZom-1280-80.jpg",
-    "id": 7
+    "id": 15
+  },
+  {
+    "title": "WWDC 2026: Everything announced on Siri AI, iOS 27, Apple Intelligence and more",
+    "url": "https://techcrunch.com/2026/06/08/wwdc-2026-everything-announced-on-siri-ai-os-27-apple-intelligence-and-more/",
+    "source": "TechCrunch",
+    "date": "2026-06-08",
+    "summary": "Apple’s WWDC 2026 event kicked off this morning at 10 a.m. PT at Apple Park, starting a week full of expected announcements around Siri, iOS 27, Apple Intelligence and more, along with developer event...",
+    "category": "hardware",
+    "image": "https://techcrunch.com/wp-content/uploads/2026/06/apple-siri-ai-use-cases.png?w=1186",
+    "id": 16
+  },
+  {
+    "title": "Apple just taught your iPhone to finish your sentences, your photos, and your workflows",
+    "url": "https://techcrunch.com/2026/06/08/apple-just-taught-your-iphone-to-finish-your-sentences-your-photos-and-your-workflows/",
+    "source": "TechCrunch",
+    "date": "2026-06-08",
+    "summary": "Apple is adding new AI-powered features to Safari, Shortcuts, and Password apps.",
+    "category": "industry",
+    "image": "https://techcrunch.com/wp-content/uploads/2026/06/Screenshot-2026-06-08-at-2.02.26-PM.png?resize=1200,663",
+    "id": 17
+  },
+  {
+    "title": "Apple will let you build workflows using AI in its new Shortcuts app",
+    "url": "https://techcrunch.com/2026/06/08/apple-will-let-you-build-workflows-using-ai-in-its-new-shortcuts-app/",
+    "source": "TechCrunch",
+    "date": "2026-06-08",
+    "summary": "Shortcuts gets an AI upgrade, letting you describe the workflow you want in a prompt.",
+    "category": "industry",
+    "image": "https://techcrunch.com/wp-content/uploads/2026/06/shortcuts-at-2.26.16-PM.jpg?resize=1200,666",
+    "id": 18
+  },
+  {
+    "title": "Apple’s Image Playground doesn’t suck anymore",
+    "url": "https://techcrunch.com/2026/06/08/apples-image-playground-doesnt-suck-anymore/",
+    "source": "TechCrunch",
+    "date": "2026-06-08",
+    "summary": "Apple's AI image generator is getting a makeover that could make it more competitive.",
+    "category": "tools",
+    "image": "https://techcrunch.com/wp-content/uploads/2026/06/Screenshot-2026-06-08-at-2.01.54-PM.png?resize=1200,670",
+    "id": 19
+  },
+  {
+    "title": "Apple’s Photos app is getting new AI editing features",
+    "url": "https://techcrunch.com/2026/06/08/apples-photos-app-is-getting-new-ai-editing-features/",
+    "source": "TechCrunch",
+    "date": "2026-06-08",
+    "summary": "A new spatial \"Reframe\" feature will let users use AI to adjust perspectives.",
+    "category": "industry",
+    "image": "https://techcrunch.com/wp-content/uploads/2026/06/Screenshot-2026-06-08-at-2.07.32-PM.jpg?resize=1200,675",
+    "id": 20
+  },
+  {
+    "title": "Apple’s long-awaited AI Siri overhaul is finally here",
+    "url": "https://techcrunch.com/2026/06/08/apples-long-awaited-ai-siri-overhaul-is-finally-here/",
+    "source": "TechCrunch",
+    "date": "2026-06-08",
+    "summary": "The idea behind the new \"Siri AI\" is to turn the assistant from a voice controlled assistant into an AI companion that can do a lot more.",
+    "category": "industry",
+    "image": "https://techcrunch.com/wp-content/uploads/2024/10/apple-siri-header.jpg?resize=1200,800",
+    "id": 21
   },
   {
     "title": "Amazon now lets you design custom merch using AI",
@@ -78,7 +217,191 @@
     "summary": "A new feature in the Amazon Shopping app allows users to generate designs with Alexa, then print them on products like T-shirts, hoodies, and tumblers.",
     "category": "industry",
     "image": "https://techcrunch.com/wp-content/uploads/2026/06/about-amazon-hero-ai-merch-hero-amazon-news-lt-060226.jpg?resize=1200,675",
-    "id": 8
+    "id": 22
+  },
+  {
+    "title": "AI to Pay for All Americans' Content?",
+    "url": "https://ryanspahn.substack.com/p/ai-to-pay-for-all-americans-content",
+    "source": "Hacker News",
+    "date": "2026-06-08",
+    "summary": "Article URL: https://ryanspahn.substack.com/p/ai-to-pay-for-all-americans-content Comments URL: https://news.ycombinator.com/item?id=48451148 Points: 2 # Comments: 0",
+    "category": "industry",
+    "id": 23
+  },
+  {
+    "title": "Lean – Two Claude Code skills that stop the AI from over-engineering",
+    "url": "https://github.com/albertobarnabo/lean",
+    "source": "Hacker News",
+    "date": "2026-06-08",
+    "summary": "Article URL: https://github.com/albertobarnabo/lean Comments URL: https://news.ycombinator.com/item?id=48450852 Points: 1 # Comments: 0",
+    "category": "models",
+    "image": "https://opengraph.githubassets.com/f7171d32142b030700bf76079ed21d5b3baec8c9b44295c0f254b49ec756a73c/albertobarnabo/lean",
+    "id": 24
+  },
+  {
+    "title": "HPE ProLiant Compute DL394 Gen12 Brings Nvidia Vera CPU to Agentic AI",
+    "url": "https://www.storagereview.com/news/hpe-proliant-compute-dl394-gen12-brings-nvidia-vera-cpu-to-agentic-ai",
+    "source": "Hacker News",
+    "date": "2026-06-08",
+    "summary": "Article URL: https://www.storagereview.com/news/hpe-proliant-compute-dl394-gen12-brings-nvidia-vera-cpu-to-agentic-ai Comments URL: https://news.ycombinator.com/item?id=48450838 Points: 1 # Comments: ...",
+    "category": "hardware",
+    "image": "https://www.storagereview.com/wp-content/uploads/2026/06/HPE_DL394_Gen12_Still_Front-Offset.jpeg",
+    "id": 25
+  },
+  {
+    "title": "DebugDuck – A desktop rubber duck with local AI",
+    "url": "https://github.com/CarlosVallejoRuiz/DebugDuck",
+    "source": "Hacker News",
+    "date": "2026-06-08",
+    "summary": "Article URL: https://github.com/CarlosVallejoRuiz/DebugDuck Comments URL: https://news.ycombinator.com/item?id=48450641 Points: 1 # Comments: 0",
+    "category": "industry",
+    "image": "https://opengraph.githubassets.com/c18cf0bf83b0d31adf3196245f618597d1f769c1fe10898eb1321f5d9b1ae3da/CarlosVallejoRuiz/DebugDuck",
+    "id": 26
+  },
+  {
+    "title": "Show HN: I Built an LLM Engine, That Test LLM on Boolean Logic",
+    "url": "https://github.com/Shrivastava-Aditya/boolean-algebra-engine",
+    "source": "Hacker News",
+    "date": "2026-06-08",
+    "summary": "I have built an LLM Engine, That tracks SOTA Models hallucinating over basic Logical Reasoning that can be solved through Quine-McClusky method mathematically. I am using it to build diverse use cases...",
+    "category": "hardware",
+    "image": "https://opengraph.githubassets.com/dfa406187d1dead02298a37c797ce9b1b9a58f991af9db1792d9b03ca6f10097/Shrivastava-Aditya/boolean-algebra-engine",
+    "id": 27
+  },
+  {
+    "title": "Ask HN: Why won't you be replaced by AI?",
+    "url": "https://news.ycombinator.com/item?id=48450261",
+    "source": "Hacker News",
+    "date": "2026-06-08",
+    "summary": "AI models are rapidly getting better. The general public still hasn't seen the capabilities of Anthropic's Mythos model, which is already 4 months old at this point. I've seen many arguments about why...",
+    "category": "models",
+    "id": 28
+  },
+  {
+    "title": "Show HN: Guarden – Authorization for AI agent actions powered by OPA",
+    "url": "https://github.com/las7/Guarden",
+    "source": "Hacker News",
+    "date": "2026-06-08",
+    "summary": "Article URL: https://github.com/las7/Guarden Comments URL: https://news.ycombinator.com/item?id=48450231 Points: 1 # Comments: 0",
+    "category": "industry",
+    "image": "https://opengraph.githubassets.com/ca37019e1ef232051a4b608e635ab197d86f7dfa520fb1d5d49a422ecfbba3a9/las7/Guarden",
+    "id": 29
+  },
+  {
+    "title": "Apple reveals new AI architecture built around Google Gemini models",
+    "url": "https://www.macrumors.com/2026/06/08/apple-reveals-new-ai-architecture/",
+    "source": "Hacker News",
+    "date": "2026-06-08",
+    "summary": "Article URL: https://www.macrumors.com/2026/06/08/apple-reveals-new-ai-architecture/ Comments URL: https://news.ycombinator.com/item?id=48450142 Points: 69 # Comments: 38",
+    "category": "models",
+    "image": "https://images.macrumors.com/t/dUIgpIiBn2wAKhWSl0HDOLdc2LU=/1600x/article-new/2026/06/apple-intelligence-architecture.jpg",
+    "id": 30
+  },
+  {
+    "title": "What Is AI Doing to Math?",
+    "url": "https://www.nytimes.com/2026/06/05/podcasts/hardfork-ipo-math.html",
+    "source": "Hacker News",
+    "date": "2026-06-08",
+    "summary": "Article URL: https://www.nytimes.com/2026/06/05/podcasts/hardfork-ipo-math.html Comments URL: https://news.ycombinator.com/item?id=48450072 Points: 1 # Comments: 0",
+    "category": "industry",
+    "id": 31
+  },
+  {
+    "title": "You are here on the AI change curve",
+    "url": "https://howfastis.ai/",
+    "source": "Hacker News",
+    "date": "2026-06-08",
+    "summary": "Article URL: https://howfastis.ai/ Comments URL: https://news.ycombinator.com/item?id=48450052 Points: 1 # Comments: 0",
+    "category": "industry",
+    "image": "https://howfastis.ai/opengraph-image?0d1d2fad7dd27ccf",
+    "id": 32
+  },
+  {
+    "title": "SlashDB ver. 2.2 /w DuckDB, advanced filter and AI",
+    "url": "https://www.slashdb.com/2026/06/08/slashdb-2-2-release-notes/",
+    "source": "Hacker News",
+    "date": "2026-06-08",
+    "summary": "Article URL: https://www.slashdb.com/2026/06/08/slashdb-2-2-release-notes/ Comments URL: https://news.ycombinator.com/item?id=48450005 Points: 1 # Comments: 0",
+    "category": "industry",
+    "image": "https://www.slashdb.com/wp-content/uploads/2026/06/release-2.2-hero-image.png",
+    "id": 33
+  },
+  {
+    "title": "Apple Core AI Framework",
+    "url": "https://developer.apple.com/documentation/coreai/",
+    "source": "Hacker News",
+    "date": "2026-06-08",
+    "summary": "Article URL: https://developer.apple.com/documentation/coreai/ Comments URL: https://news.ycombinator.com/item?id=48449665 Points: 7 # Comments: 0",
+    "category": "tools",
+    "image": "https://docs.developer.apple.com/tutorials/developer-og.jpg",
+    "id": 34
+  },
+  {
+    "title": "Experience using AI software to prove Euler sum results [pdf]",
+    "url": "https://www.davidhbailey.com/dhbpapers/Chatbots.pdf",
+    "source": "Hacker News",
+    "date": "2026-06-08",
+    "summary": "Article URL: https://www.davidhbailey.com/dhbpapers/Chatbots.pdf Comments URL: https://news.ycombinator.com/item?id=48449567 Points: 1 # Comments: 0",
+    "category": "research",
+    "id": 35
+  },
+  {
+    "title": "Show HN: AST-guard – Fast, zero-cost structural checks for LLM code execution",
+    "url": "https://github.com/Nick-is-building/ast-guard",
+    "source": "Hacker News",
+    "date": "2026-06-08",
+    "summary": "Article URL: https://github.com/Nick-is-building/ast-guard Comments URL: https://news.ycombinator.com/item?id=48449545 Points: 1 # Comments: 0",
+    "category": "models",
+    "image": "https://opengraph.githubassets.com/e415b455e612fdf1525e13a4c2780ae4558c56bfb46c5839347e40c4fe1320bc/Nick-is-building/ast-guard",
+    "id": 36
+  },
+  {
+    "title": "Why Isn't AI Taking Our Jobs?",
+    "url": "https://calnewport.com/why-isnt-ai-taking-our-jobs/",
+    "source": "Hacker News",
+    "date": "2026-06-08",
+    "summary": "Article URL: https://calnewport.com/why-isnt-ai-taking-our-jobs/ Comments URL: https://news.ycombinator.com/item?id=48449531 Points: 4 # Comments: 0",
+    "category": "industry",
+    "image": "https://calnewport.com/wp-content/uploads/2026/06/Screenshot-2026-06-07-at-8.33.25-PM-scaled.png",
+    "id": 37
+  },
+  {
+    "title": "Show HN: AI Pair Programmer for Emacs",
+    "url": "https://github.com/jaketothepast/codetutor",
+    "source": "Hacker News",
+    "date": "2026-06-08",
+    "summary": "I built a pair programmer, using AI, but now am trying to go slow with new languages and paradigms using this package. I have noticed a decline in my programming skills, and wondered why I couldn't us...",
+    "category": "industry",
+    "image": "https://opengraph.githubassets.com/10a18a43e3d44939704b9612593f22a7cc0589a3c3b674fe12d103995d3877b4/jaketothepast/codetutor",
+    "id": 38
+  },
+  {
+    "title": "Client-side PDF audiobook reader with AI voice",
+    "url": "https://audiobook.vedgupta.in/",
+    "source": "Hacker News",
+    "date": "2026-06-08",
+    "summary": "Article URL: https://audiobook.vedgupta.in/ Comments URL: https://news.ycombinator.com/item?id=48449423 Points: 1 # Comments: 0",
+    "category": "industry",
+    "id": 39
+  },
+  {
+    "title": "LLM Are Universal Simulators",
+    "url": "https://invertedpassion.com/llm-are-universal-simulators/",
+    "source": "Hacker News",
+    "date": "2026-06-08",
+    "summary": "Article URL: https://invertedpassion.com/llm-are-universal-simulators/ Comments URL: https://news.ycombinator.com/item?id=48449409 Points: 1 # Comments: 0",
+    "category": "models",
+    "id": 40
+  },
+  {
+    "title": "Show HN: Wallie – Open-source AI streamer that watches and hears your screen",
+    "url": "https://github.com/Alradyin/wallie-V2",
+    "source": "Hacker News",
+    "date": "2026-06-08",
+    "summary": "Article URL: https://github.com/Alradyin/wallie-V2 Comments URL: https://news.ycombinator.com/item?id=48449399 Points: 1 # Comments: 0",
+    "category": "industry",
+    "image": "https://repository-images.githubusercontent.com/1228929191/b8abd942-edb2-4a94-b804-ad01e0600d25",
+    "id": 41
   },
   {
     "title": "The Download: how the World Cup ball will fly and OpenAI’s “super app”",
@@ -88,7 +411,37 @@
     "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. Why this year’s World Cup ball may not fly as far Much is new ...",
     "category": "industry",
     "image": "https://wp.technologyreview.com/wp-content/uploads/2026/06/GettyImages-2238873207.jpg?resize=1200,600",
-    "id": 9
+    "id": 42
+  },
+  {
+    "title": "Apple’s New Siri AI Is Ready to Get Personal",
+    "url": "https://www.wired.com/story/apples-new-siri-ai-is-ready-to-get-personal/",
+    "source": "Wired",
+    "date": "2026-06-08",
+    "summary": "From a stand-alone app to a Google Gemini partnership, here’s everything you need to know from WWDC 2026 about Apple’s upcoming overhaul of Siri.",
+    "category": "models",
+    "image": "https://media.wired.com/photos/6a2710703d01e9a6c2f2cfec/191:100/w_1280,c_limit/Apple-Siri-AI-architecture-diagram-260608.jpg",
+    "id": 43
+  },
+  {
+    "title": "The UK Is Betting on a Billion-Dollar AI Supercomputer to Kick Its Addiction to US Tech",
+    "url": "https://www.wired.com/story/uk-supercomputer-investment-ai-homegrown-semiconductor/",
+    "source": "Wired",
+    "date": "2026-06-08",
+    "summary": "The British government thinks a state-backed infrastructure initiative will help supercharge homegrown chip startups.",
+    "category": "industry",
+    "image": "https://media.wired.com/photos/6a26d742255fdba4ebd668f3/191:100/w_1280,c_limit/GettyImages-2267728396.jpg",
+    "id": 44
+  },
+  {
+    "title": "Meta Deletes Face-Recognition System From Its Smart Glasses App After WIRED Report",
+    "url": "https://www.wired.com/story/meta-removes-face-recognition-code-meta-ai-app-smart-glasses/",
+    "source": "Wired",
+    "date": "2026-06-08",
+    "summary": "The code WIRED identified is gone from the latest version of Meta AI, the companion app for the company’s smart glasses. Meta won’t say why or whether it’s coming back.",
+    "category": "industry",
+    "image": "https://media.wired.com/photos/6a26baa814f2ec6e95bd841b/191:100/w_1280,c_limit/GettyImages-2235451108.jpg",
+    "id": 45
   },
   {
     "title": "Momfluencers Are Pitching AI as a Better ‘Coparent’ Than Men",
@@ -98,7 +451,7 @@
     "summary": "Moms are outsourcing tedious household tasks to ChatGPT and selling courses teaching others to do the same. Where are all the dads?",
     "category": "models",
     "image": "https://media.wired.com/photos/6a2347d049872af07a400381/191:100/w_1280,c_limit/AI-Momfluencers-Culture.jpg",
-    "id": 10
+    "id": 46
   },
   {
     "title": "Detecting and Mitigating Bias by Treating Fairness as a Symmetry Operation",
@@ -107,7 +460,7 @@
     "date": "2026-06-08",
     "summary": "Machine learning systems deployed in high stakes socioeconomic settings routinely display bias. We formalize bias as a symmetry breaking operation: a classifier is fair if its outputs remain invariant...",
     "category": "research",
-    "id": 11
+    "id": 47
   },
   {
     "title": "DiBS: Diffusion-Informed Branch Selection",
@@ -116,7 +469,7 @@
     "date": "2026-06-08",
     "summary": "Sudoku is a representative constraint satisfaction problem that requires global structural reasoning under strict discrete constraints. The existing works of solving Sudoku mainly focus on two dominan...",
     "category": "models",
-    "id": 12
+    "id": 48
   },
   {
     "title": "SafeGene: Reusable Adapters for Transferable Safety Alignment",
@@ -125,7 +478,7 @@
     "date": "2026-06-08",
     "summary": "Open-weight LLMs are increasingly fine-tuned into customized assistants, but downstream fine-tuning can weaken safety alignment and make models more vulnerable to malicious prompts, even when the trai...",
     "category": "models",
-    "id": 13
+    "id": 49
   },
   {
     "title": "Lean4Agent: Formal Modeling and Verification for Agent Workflow and Trajectory",
@@ -133,330 +486,6 @@
     "source": "arXiv cs.AI",
     "date": "2026-06-08",
     "summary": "Equipping Large Language Models (LLMs) to execute reliable multi-step workflows has become a central challenge in artificial intelligence. Despite recent advances in LLMs' agentic capabilities, most a...",
-    "category": "models",
-    "id": 14
-  },
-  {
-    "title": "CrowdMath: A Dataset of Crowdsourced Mathematical Research Discussions",
-    "url": "https://arxiv.org/abs/2606.06526",
-    "source": "arXiv cs.AI",
-    "date": "2026-06-08",
-    "summary": "Large language models have made substantial progress on mathematical reasoning, but existing benchmarks typically evaluate well-specified problems with final answers, step-by-step solutions, or comple...",
-    "category": "research",
-    "id": 15
-  },
-  {
-    "title": "Attack Selection in Agentic AI Control Evaluations Meaningfully Decreases Safety",
-    "url": "https://arxiv.org/abs/2606.06529",
-    "source": "arXiv cs.AI",
-    "date": "2026-06-08",
-    "summary": "An attacker that strategically chooses when to attack is much harder to catch than one that attacks indiscriminately. AI control is a safety framework for deploying capable but untrusted AI agents und...",
-    "category": "research",
-    "id": 16
-  },
-  {
-    "title": "CARVE-Q: Quantum-Proposed, Classically Certified Interactive Driving Repair",
-    "url": "https://arxiv.org/abs/2606.06531",
-    "source": "arXiv cs.AI",
-    "date": "2026-06-08",
-    "summary": "The critical question after a correct driving veto is not only whether a maneuver is unsafe, but whether the blocked interaction admits a lawful, auditable, and responsibility-bounded repair. Predicti...",
-    "category": "research",
-    "id": 17
-  },
-  {
-    "title": "Position: Don't Just \"Fix it in Post\": A Science of AI Must Study Training Dynamics",
-    "url": "https://arxiv.org/abs/2606.06533",
-    "source": "arXiv cs.AI",
-    "date": "2026-06-08",
-    "summary": "What would it mean to have a scientific understanding of AI? Models are not static objects: they are snapshots of time-evolving processes shaped by data, objectives, architectures, and optimization dy...",
-    "category": "research",
-    "id": 18
-  },
-  {
-    "title": "Accelerated Fourier SAT (AFSAT): Fully Realising a GPU-based Symmetric Pseudo-Boolean SAT Solver",
-    "url": "https://arxiv.org/abs/2606.06641",
-    "source": "arXiv cs.AI",
-    "date": "2026-06-08",
-    "summary": "We present Accelerated Fourier SAT (AFSAT), a GPU-accelerated solver for pseudo-Boolean satisfiability based on continuous local search (CLS). AFSAT realises the proof-of-concept approach, FastFourier...",
-    "category": "hardware",
-    "id": 19
-  },
-  {
-    "title": "A Study of Parallel Continuous Local Search",
-    "url": "https://arxiv.org/abs/2606.06656",
-    "source": "arXiv cs.AI",
-    "date": "2026-06-08",
-    "summary": "We study parallel Continuous Local Search (CLS) as a solution approach for Boolean satisfiability problems with symmetric pseudo-Boolean (PB) constraints. Here, the $n$-variable PB-satisfiability prob...",
-    "category": "hardware",
-    "id": 20
-  },
-  {
-    "title": "AEGIS: A Backup Reflex for Physical AI",
-    "url": "https://arxiv.org/abs/2606.06660",
-    "source": "arXiv cs.AI",
-    "date": "2026-06-08",
-    "summary": "Long-horizon robot manipulation tends to fail gradually: one bad step degrades the state, and the policy spirals into a basin from which it cannot recover. The failure is often visible before it happe...",
-    "category": "industry",
-    "id": 21
-  },
-  {
-    "title": "A Geometric Account of Activation Steering through Angle-Norm Decomposition",
-    "url": "https://arxiv.org/abs/2606.06735",
-    "source": "arXiv cs.AI",
-    "date": "2026-06-08",
-    "summary": "Linear activation steering has gained popularity as a simple and empirically effective way to control language model behavior. More recently, spherical steering paradigms have been proposed to address...",
-    "category": "research",
-    "id": 22
-  },
-  {
-    "title": "OpenSkill: Open-World Self-Evolution for LLM Agents",
-    "url": "https://arxiv.org/abs/2606.06741",
-    "source": "arXiv cs.AI",
-    "date": "2026-06-08",
-    "summary": "Self-evolving agents requires adaptation after deployment, but existing approaches assume a usable learning loop, such as curated skills, successful trajectories, or verifier signals. Real open-world ...",
-    "category": "research",
-    "id": 23
-  },
-  {
-    "title": "AdMem: Advanced Memory for Task-solving Agents",
-    "url": "https://arxiv.org/abs/2606.06787",
-    "source": "arXiv cs.AI",
-    "date": "2026-06-08",
-    "summary": "Large Language Models (LLMs) show promise as tool-using agents but remain limited in long-horizon tasks that require remembering, organizing, and reusing knowledge. Prior memory approaches aim to reso...",
-    "category": "models",
-    "id": 24
-  },
-  {
-    "title": "Evidence-Based Intelligent Diagnostic and Therapeutic Visualization System with Large Language Models: Multi-Turn Interaction and Multimodal Treatment Plan Generation",
-    "url": "https://arxiv.org/abs/2606.06869",
-    "source": "arXiv cs.AI",
-    "date": "2026-06-08",
-    "summary": "Aim: Existing AI-assisted traditional Chinese medicine diagnostic tools suffer from opaque reasoning processes, passive interaction, and limited treatment plan presentation. This study proposes a know...",
-    "category": "research",
-    "id": 25
-  },
-  {
-    "title": "Workflow-to-Skill: Skill Creation via Routing-Workflow-Semantics-Attachments Decomposition",
-    "url": "https://arxiv.org/abs/2606.06893",
-    "source": "arXiv cs.AI",
-    "date": "2026-06-08",
-    "summary": "Large language model agents increasingly rely on Skills to encode procedural knowledge, yet high-quality Skills remain costly to hand-write. This paper studies automatic Skill construction from hetero...",
-    "category": "research",
-    "id": 26
-  },
-  {
-    "title": "Declarative Skills for AI Agents in Knowledge-Grounded Tool-Use Workflows",
-    "url": "https://arxiv.org/abs/2606.06923",
-    "source": "arXiv cs.AI",
-    "date": "2026-06-08",
-    "summary": "We study orchestration mechanisms for tool-using AI agents in realistic customer-service workflows over an unstructured knowledge base. We argue that declarative agents -- AI agents equipped with natu...",
-    "category": "models",
-    "id": 27
-  },
-  {
-    "title": "Quantum-Inspired Trace-Augmented Evidence Selection for Reasoning over Structured Hypothesis Spaces",
-    "url": "https://arxiv.org/abs/2606.06941",
-    "source": "arXiv cs.AI",
-    "date": "2026-06-08",
-    "summary": "Large language models (LLMs) now solve a wide range of expert-level exams at or above human level, yet remain brittle on specialised, evidence-intensive domains such as law. On these tasks, errors ari...",
-    "category": "models",
-    "id": 28
-  },
-  {
-    "title": "Accounting for Context: Shaping Moral Credences for Value Alignment",
-    "url": "https://arxiv.org/abs/2606.06972",
-    "source": "arXiv cs.AI",
-    "date": "2026-06-08",
-    "summary": "Ensuring that agent behaviours are aligned with human moral values inevitably raises the problem of how to account for the plurality of moral perspectives that societies -- and even individuals -- typ...",
-    "category": "research",
-    "id": 29
-  },
-  {
-    "title": "Exploring Agentic Tool-Calling Decisions via Uncertainty-Aligned Reinforcement Learning",
-    "url": "https://arxiv.org/abs/2606.06976",
-    "source": "arXiv cs.AI",
-    "date": "2026-06-08",
-    "summary": "Large language model (LLM)-based agents often make suboptimal tool-use decisions, including unsupported tool invocation and hallucinated direct responses, which may accumulate errors throughout multi-...",
-    "category": "models",
-    "id": 30
-  },
-  {
-    "title": "Teaching the Way, Not the Answer: Privileged Tutoring Distillation for Multimodal Policy Optimization",
-    "url": "https://arxiv.org/abs/2606.07000",
-    "source": "arXiv cs.AI",
-    "date": "2026-06-08",
-    "summary": "Recent post-training methods, particularly Reinforcement Learning with Verifiable Rewards (RLVR), have significantly enhanced the reasoning ability of Large Vision-Language Models (LVLMs). However, th...",
-    "category": "research",
-    "id": 31
-  },
-  {
-    "title": "The Sim-to-Real Gap of Foundation Model Agents: A Unified MDP Perspective",
-    "url": "https://arxiv.org/abs/2606.07017",
-    "source": "arXiv cs.AI",
-    "date": "2026-06-08",
-    "summary": "Foundation model agents are increasingly deployed for real-world decision-making, but suffer from the sim-to-real gap. While robotics and classical control have mature frameworks to address this gap, ...",
-    "category": "research",
-    "id": 32
-  },
-  {
-    "title": "StainFlow: Entity-Stain Tracking and Evidence Linking for Process Rewards in GUI Agents",
-    "url": "https://arxiv.org/abs/2606.07027",
-    "source": "arXiv cs.AI",
-    "date": "2026-06-08",
-    "summary": "Reinforcement Learning (RL) has become a promising approach for improving GUI Agents in long-horizon, stochastic digital environments, but trajectory-level success feedback is too sparse to provide re...",
-    "category": "research",
-    "id": 33
-  },
-  {
-    "title": "Hierarchical Semantic-Constrained Heterogeneous Graph for Audio-Visual Event Localization",
-    "url": "https://arxiv.org/abs/2606.07033",
-    "source": "arXiv cs.AI",
-    "date": "2026-06-08",
-    "summary": "Open-vocabulary audio-visual event localization (OV-AVEL) jointly models audio-visual cues to recognize and temporally localize events, including categories unseen during training. Existing methods pr...",
-    "category": "research",
-    "id": 34
-  },
-  {
-    "title": "Front-to-Attractors: Modifying the Front-to-Front Heuristic in Bidirectional Search",
-    "url": "https://arxiv.org/abs/2606.07047",
-    "source": "arXiv cs.AI",
-    "date": "2026-06-08",
-    "summary": "Heuristics play a central role in the performance of bidirectional search algorithms, which commonly rely on two main classes. Front-to-end (F2E) heuristics estimate the distance from a state s to the...",
-    "category": "research",
-    "id": 35
-  },
-  {
-    "title": "DyCon: Dynamic Reasoning Control via Evolving Difficulty Modeling",
-    "url": "https://arxiv.org/abs/2606.07108",
-    "source": "arXiv cs.AI",
-    "date": "2026-06-08",
-    "summary": "Recent advances in Large Reasoning Models (LRMs) demonstrate remarkable performance improvements by iteratively reflecting, exploring, and executing complex tasks, yet suffer from inefficiencies due t...",
-    "category": "research",
-    "id": 36
-  },
-  {
-    "title": "Beyond Post-hoc Explanation: Toward Glassbox AI via Probabilistic Mediation",
-    "url": "https://arxiv.org/abs/2606.07113",
-    "source": "arXiv cs.AI",
-    "date": "2026-06-08",
-    "summary": "Large language models are rapidly becoming infrastructural components in high-stakes institutional settings, including public administration, legal reasoning, and healthcare, where opacity is not mere...",
-    "category": "research",
-    "id": 37
-  },
-  {
-    "title": "Think Fast: Estimating No-CoT Task-Completion Time Horizons of Frontier AI Models",
-    "url": "https://arxiv.org/abs/2606.07157",
-    "source": "arXiv cs.AI",
-    "date": "2026-06-08",
-    "summary": "Many efforts to ensure frontier AI models are safe rely on monitoring their chain-of-thought (CoT) reasoning. If models become able to perform sufficiently complex reasoning internally, without explic...",
-    "category": "research",
-    "id": 38
-  },
-  {
-    "title": "TOPSIS-RAD: Ranking According to Desires",
-    "url": "https://arxiv.org/abs/2606.07253",
-    "source": "arXiv cs.AI",
-    "date": "2026-06-08",
-    "summary": "Traditional TOPSIS derives its reference points -- the Positive Ideal Solution ($PIS$) and Negative Ideal Solution ($NIS$) -- from the observed alternative set, making rankings susceptible to misalign...",
-    "category": "research",
-    "id": 39
-  },
-  {
-    "title": "DuMate-DeepResearch: An Auditable Multi-Agent System with Recursive Search and Rubric-Grounded Reasoning",
-    "url": "https://arxiv.org/abs/2606.07299",
-    "source": "arXiv cs.AI",
-    "date": "2026-06-08",
-    "summary": "Deep Research (DR) has emerged as a new agentic paradigm to tackle complex, open-ended research tasks, demanding systems that can iteratively frame problems, acquire evidence, verify sources, and synt...",
-    "category": "research",
-    "id": 40
-  },
-  {
-    "title": "Off-Policy Evaluation with Strategic Agents via Local Disclosure",
-    "url": "https://arxiv.org/abs/2606.07308",
-    "source": "arXiv cs.AI",
-    "date": "2026-06-08",
-    "summary": "We study off-policy evaluation (OPE) under strategic behavior where decision subjects (or agents) respond to a decision maker's policy by strategically modifying their covariates. Such behavior induce...",
-    "category": "research",
-    "id": 41
-  },
-  {
-    "title": "Online Pandora's Box for Contextual LLM Cascading",
-    "url": "https://arxiv.org/abs/2606.07392",
-    "source": "arXiv cs.AI",
-    "date": "2026-06-08",
-    "summary": "Motivated by Large Language Model (LLM) cascading, we propose an online contextual Pandora's Box model for adaptively querying and selecting LLM APIs. In each period, a decision-maker observes a reque...",
-    "category": "models",
-    "id": 42
-  },
-  {
-    "title": "Act As a Real Researcher: A Suite of Benchmarks Evaluating Frontier LLMs and Agentic Harnesses in Research Lifecycle",
-    "url": "https://arxiv.org/abs/2606.07462",
-    "source": "arXiv cs.AI",
-    "date": "2026-06-08",
-    "summary": "As foundation models advance and agent scaffolding becomes increasingly sophisticated, agents have demonstrated remarkable proficiency in complex, long-horizon coding tasks and even autonomous experim...",
-    "category": "models",
-    "id": 43
-  },
-  {
-    "title": "How AI Agents Reshape Knowledge Work: Autonomy, Efficiency, and Scope",
-    "url": "https://arxiv.org/abs/2606.07489",
-    "source": "arXiv cs.AI",
-    "date": "2026-06-08",
-    "summary": "Frontier AI systems are bridging the gap between intelligence and utility by shifting from conversational assistants to autonomous agents that execute tasks end to end. Using production data from Perp...",
-    "category": "hardware",
-    "id": 44
-  },
-  {
-    "title": "Zero-Shot Embedding Drift Detection: A Lightweight Defense Against Prompt Injections in LLMs",
-    "url": "https://arxiv.org/abs/2601.12359",
-    "source": "arXiv cs.AI",
-    "date": "2026-06-08",
-    "summary": "Prompt injection attacks have become an increasing vulnerability for LLM applications, where adversarial prompts exploit indirect input channels such as emails or user-generated content to circumvent ...",
-    "category": "models",
-    "id": 45
-  },
-  {
-    "title": "When Does Multi-Agent Collaboration Help? An Entropy Perspective",
-    "url": "https://arxiv.org/abs/2602.04234",
-    "source": "arXiv cs.AI",
-    "date": "2026-06-08",
-    "summary": "Multi-agent systems (MAS) have emerged as a prominent paradigm for leveraging large language models (LLMs) to tackle complex tasks. However, the mechanisms governing the effectiveness of MAS built upo...",
-    "category": "research",
-    "id": 46
-  },
-  {
-    "title": "Trading Engagement for Sustainability: Carbon-Aware Re-ranking for E-commerce Recommendations",
-    "url": "https://arxiv.org/abs/2606.04550",
-    "source": "arXiv cs.AI",
-    "date": "2026-06-08",
-    "summary": "E-commerce recommender systems strongly influence which products users consider and purchase, yet sustainability signals such as Product Carbon Footprint (PCF) are almost never available at catalog sc...",
-    "category": "models",
-    "id": 47
-  },
-  {
-    "title": "Autonomous heterogeneous catalyst discovery with a self-evolving multi-agent digital twin",
-    "url": "https://arxiv.org/abs/2606.05050",
-    "source": "arXiv cs.AI",
-    "date": "2026-06-08",
-    "summary": "Theoretical heterogeneous catalysis promises rapid catalyst discovery, yet computational and machine-learning predictions often deviate from experiment and stay confined to narrow material families, f...",
-    "category": "models",
-    "id": 48
-  },
-  {
-    "title": "Human Adults and LLMs as Scientists: Who Benefits from Active Exploration?",
-    "url": "https://arxiv.org/abs/2606.06464",
-    "source": "arXiv cs.AI",
-    "date": "2026-06-08",
-    "summary": "A long-standing finding in the causal learning literature is that adults struggle to identify conjunctive causal rules, where an effect requires the simultaneous presence of multiple causes, while per...",
-    "category": "models",
-    "id": 49
-  },
-  {
-    "title": "A Geometric Gaussian Mixture Representation of Plane Curves",
-    "url": "https://arxiv.org/abs/2606.06505",
-    "source": "arXiv cs.AI",
-    "date": "2026-06-08",
-    "summary": "We introduce a user defined probabilistic polygonal representation for plane curves. Given a curve, we select vertices on the curve and connect consecutive vertices by line segments to obtain a polygo...",
     "category": "models",
     "id": 50
   }
