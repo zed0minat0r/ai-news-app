@@ -11,22 +11,31 @@
     "featured": true
   },
   {
-    "title": "From data to decisions: how LSEG is scaling trusted AI",
-    "url": "https://openai.com/index/lseg",
-    "source": "OpenAI Blog",
-    "date": "2026-06-10",
-    "summary": "See how LSEG uses OpenAI to scale trusted AI across its global business, accelerating insights, shrinking release cycles, and empowering 4,000 employees.",
-    "category": "industry",
-    "id": 2
-  },
-  {
     "title": "PRC-linked influence operations are targeting AI debates in the US",
     "url": "https://openai.com/index/prc-linked-influence-operations-ai-debates",
     "source": "OpenAI Blog",
     "date": "2026-06-10",
     "summary": "A new report from OpenAI details PRC-linked influence operations using AI to target U.S. tech debates, data center narratives, tariffs, and false claims about ChatGPT.",
     "category": "models",
+    "id": 2
+  },
+  {
+    "title": "From data to decisions: how LSEG is scaling trusted AI",
+    "url": "https://openai.com/index/lseg",
+    "source": "OpenAI Blog",
+    "date": "2026-06-10",
+    "summary": "See how LSEG uses OpenAI to scale trusted AI across its global business, accelerating insights, shrinking release cycles, and empowering 4,000 employees.",
+    "category": "industry",
     "id": 3
+  },
+  {
+    "title": "Access OpenAI models and Codex through your Oracle cloud commitment",
+    "url": "https://openai.com/index/openai-on-oracle-cloud",
+    "source": "OpenAI Blog",
+    "date": "2026-06-10",
+    "summary": "Access OpenAI models and Codex through Oracle Cloud, using existing commitments to build and deploy AI with enterprise security and governance.",
+    "category": "industry",
+    "id": 4
   },
   {
     "title": "Intel's upcoming Z970 and Z990 flagship chipsets will reportedly consume up to 14W at peak load, courtesy of more PCIe 5.0 support — Nova Lake motherboards may feature a 22% smaller PCH than Z890",
@@ -36,7 +45,7 @@
     "summary": "The Z990 PCH for Nova Lake motherboards is apparently 22% smaller than Z890, despite featuring a higher power maximum power draw of up to 14W. The leaked picture of the PCH shows a 11.15 x 6.5mm die a...",
     "category": "hardware",
     "image": "https://cdn.mos.cms.futurecdn.net/6dhScSyVh9hBM75rUoJ4qN-1280-80.jpg",
-    "id": 4
+    "id": 5
   },
   {
     "title": "AMD fires back at Nvidia, claiming 256-core Zen 6 'Venice' CPU beats Vera by 3.3x in rack-level performance — company shares first estimated EPYC Venice benchmarks",
@@ -46,7 +55,7 @@
     "summary": "AMD has shared the first official results for its 256-core EPYC Venice CPU, saying it beats Nvidia's Vera by 3.3x in a rack-level deployment.",
     "category": "hardware",
     "image": "https://cdn.mos.cms.futurecdn.net/5tTDkXrKL7AWc9XgiP6EjC-1280-80.jpg",
-    "id": 5
+    "id": 6
   },
   {
     "title": "Google reportedly books Intel for packaging more than 3 million TPUs in 2028 — SK hynix is testing Intel's EMIB packaging for HBM integration",
@@ -56,7 +65,7 @@
     "summary": "Google has placed an order for Intel to build more than 3 million of its TPUs in 2028 after months of testing Intel's advanced packaging.",
     "category": "hardware",
     "image": "https://cdn.mos.cms.futurecdn.net/SJwcUNbmofFcDsiP5VBd6Y-1280-80.png",
-    "id": 6
+    "id": 7
   },
   {
     "title": "Samsung Heavy Industries recruits Greek shipowner and Supermicro to bring 50MW floating AI data centers to market — can be powered by solid oxide fuel cells running on liquefied natural gas",
@@ -66,7 +75,7 @@
     "summary": "Besides Samsung Heavy, Japan’s MOL is also building a 73 MW floating data center with Karpowership for a 2027 deployment.",
     "category": "industry",
     "image": "https://cdn.mos.cms.futurecdn.net/6mthRvyFsvZ4EnjP2fNDsi-1280-80.png",
-    "id": 7
+    "id": 8
   },
   {
     "title": "Analyzing TSMC's fab expansion roadmap — multi-fab N2 ramp, CoWoS, SoIC, and uncorking bottlenecks",
@@ -76,7 +85,7 @@
     "summary": "TSMC is executing the largest manufacturing expansion in semiconductor industry history that combines simultaneous multi-fab N2 ramps, AI-driven manufacturing optimizations, and massive CoWoS/SoIC pac...",
     "category": "hardware",
     "image": "https://cdn.mos.cms.futurecdn.net/gDTavVuxh4BYphSYC6FYy-1280-80.jpg",
-    "id": 8
+    "id": 9
   },
   {
     "title": "Gigabyte's sensational RTX 5070 Ti Aorus Prime 5 gaming PC has had $500 slashed off the list price at Walmart —  32GB of DDR5 RAM, and 2TB of storage for just $1,999",
@@ -86,7 +95,7 @@
     "summary": "A powerful gaming desktop with a 16GB RTX 5070 Ti GPU at its heart, discounted by a massive $500 at Walmart right now.",
     "category": "hardware",
     "image": "https://cdn.mos.cms.futurecdn.net/ftuCP2juzhq5XsckCvFHrd-1280-80.jpg",
-    "id": 9
+    "id": 10
   },
   {
     "title": "China drafts $295 billion plan to build national AI data center grid running on 80% homemade silicon — projected 2028 timeline could run into limits of local chip production",
@@ -96,7 +105,17 @@
     "summary": "China is drafting a plan to spend roughly 2 trillion yuan over five years on a nationwide grid of AI data centers.",
     "category": "hardware",
     "image": "https://cdn.mos.cms.futurecdn.net/GY9AyWXYU7o452oDNiGQGT-1280-80.jpg",
-    "id": 10
+    "id": 11
+  },
+  {
+    "title": "xAI fired an engineer who raised alarms about Grok safety, new lawsuit claims",
+    "url": "https://techcrunch.com/2026/06/10/xai-fired-an-engineer-who-raised-alarms-about-grok-safety-new-lawsuit-claims/",
+    "source": "TechCrunch",
+    "date": "2026-06-10",
+    "summary": "A former xAI engineer is suing the company and SpaceX, alleging he was fired for raising AI safety concerns about Grok days before SpaceX's historic IPO.",
+    "category": "industry",
+    "image": "https://techcrunch.com/wp-content/uploads/2026/03/grok-getty.jpg?resize=1200,800",
+    "id": 12
   },
   {
     "title": "Fresh off bond sale, Amazon borrows $17.5B from banks as AI spending continues",
@@ -106,7 +125,7 @@
     "summary": "Companies are burning through exorbitant sums of money to keep pace in the AI arms race. Debt is climbing.",
     "category": "industry",
     "image": "https://techcrunch.com/wp-content/uploads/2025/06/GettyImages-2217247219.jpg?w=1024",
-    "id": 11
+    "id": 13
   },
   {
     "title": "‘AI-pilled’ firms spend $7,500 per employee each month on AI",
@@ -116,7 +135,7 @@
     "summary": "The most AI-obsessed firms are spending roughly $7,500 monthly per employee on AI, per Ramp AI Index. That's not more than an engineer's salary — yet.",
     "category": "industry",
     "image": "https://techcrunch.com/wp-content/uploads/2026/06/GettyImages-2253659638.jpg?resize=1200,1057",
-    "id": 12
+    "id": 14
   },
   {
     "title": "How memory tools can make AI models worse",
@@ -126,7 +145,7 @@
     "summary": "New research suggests that AI memory systems can degrade model performance and encourage sycophantic tendencies.",
     "category": "research",
     "image": "https://techcrunch.com/wp-content/uploads/2023/02/GettyImages-1240239605.jpg?w=1024",
-    "id": 13
+    "id": 15
   },
   {
     "title": "Cybersecurity researchers aren’t happy about the guardrails on Anthropic’s Fable",
@@ -136,7 +155,7 @@
     "summary": "Cybersecurity researchers are complaining that Anthropic's new model Fable has guardrails that are too strict for any cybersecurity work.",
     "category": "research",
     "image": "https://techcrunch.com/wp-content/uploads/2026/06/anthropic-claude-fable.jpg?resize=1200,798",
-    "id": 14
+    "id": 16
   },
   {
     "title": "Datadog veterans launch AI coding startup Niteshift on a bet against Big AI lock-in",
@@ -146,7 +165,7 @@
     "summary": "AI coding agent startup Niteshift has raised a $7 million seed round from a who's who of angels. It's betting companies will want power over, not lock-in with model makers.",
     "category": "industry",
     "image": "https://techcrunch.com/wp-content/uploads/2026/06/sajid_conor_photo_niteshift_launch.jpg?resize=1200,970",
-    "id": 15
+    "id": 17
   },
   {
     "title": "The three hard-tech moonshots fueling SpaceX’s unbelievable IPO",
@@ -156,7 +175,7 @@
     "summary": "Most of the value in SpaceX's IPO is effectively a call option on the company's ambitious space data center plans.",
     "category": "hardware",
     "image": "https://techcrunch.com/wp-content/uploads/2026/06/SpaceXAIsatrender.jpg?resize=1200,639",
-    "id": 16
+    "id": 18
   },
   {
     "title": "Warner Music acquires AI attribution startup Sureel AI",
@@ -166,7 +185,7 @@
     "summary": "Through the acquisition, WMG aims to better track when its artists' work is used in AI-generated content or for training AI models.",
     "category": "industry",
     "image": "https://techcrunch.com/wp-content/uploads/2026/06/warner-music.jpg?resize=1200,800",
-    "id": 17
+    "id": 19
   },
   {
     "title": "Jedify raises $24M to help companies arm AI agents with context on their business",
@@ -176,7 +195,7 @@
     "summary": "The funding round was led by Norwest, with participation from S Capital VC, Cerca Partners, and Oceans Ventures. Snowflake Ventures also participated as a strategic investor.",
     "category": "tools",
     "image": "https://techcrunch.com/wp-content/uploads/2026/06/Jedify-Co-founders.jpg?resize=1200,800",
-    "id": 18
+    "id": 20
   },
   {
     "title": "Decart’s new world model can simulate hours of photorealistic driving — with some caveats",
@@ -186,7 +205,7 @@
     "summary": "Decart is launching Oasis 3, a real-time world model that generates photorealistic driving environments for autonomous vehicle testing, now available via API for developers to build on.",
     "category": "tools",
     "image": "https://techcrunch.com/wp-content/uploads/2026/06/Oasis-a.png?resize=1200,677",
-    "id": 19
+    "id": 21
   },
   {
     "title": "Meta signs first AI data center deal in India with Reliance",
@@ -196,7 +215,7 @@
     "summary": "The 168-megawatt facility will support Meta's global AI computing needs and can be expanded over time.",
     "category": "hardware",
     "image": "https://techcrunch.com/wp-content/uploads/2024/05/meta-getty.jpg?w=1200",
-    "id": 20
+    "id": 22
   },
   {
     "title": "Google just fired a warning shot in the AI subscription price wars",
@@ -206,17 +225,152 @@
     "summary": "Google just made it significantly cheaper to enjoy its budget AI subscription tier.",
     "category": "industry",
     "image": "https://techcrunch.com/wp-content/uploads/2026/01/ai-mode-google.jpg?resize=1200,800",
-    "id": 21
+    "id": 23
+  },
+  {
+    "title": "Show HN: I let an AI C-suite run my company – starter kit from the inside",
+    "url": "https://thepromptnova.gumroad.com/l/bfixc",
+    "source": "Hacker News",
+    "date": "2026-06-10",
+    "summary": "Article URL: https://thepromptnova.gumroad.com/l/bfixc Comments URL: https://news.ycombinator.com/item?id=48483617 Points: 2 # Comments: 0",
+    "category": "industry",
+    "id": 24
+  },
+  {
+    "title": "Show HN: Llmbuffer – Python library for cache-optimized LLM conversation history",
+    "url": "https://github.com/scottpurdy/llmbuffer",
+    "source": "Hacker News",
+    "date": "2026-06-10",
+    "summary": "I was not getting good cache utilization when including dynamic context in agent threads. After a lot of experimentation, I found a good pattern that minimizes how often long lived conversation histor...",
+    "category": "tools",
+    "image": "https://opengraph.githubassets.com/f07d1ef64d88770abbfcac25cda009308ae1a7108928e33ab71b26bcb43637a3/scottpurdy/llmbuffer",
+    "id": 25
+  },
+  {
+    "title": "WWDC 2026 – On-Device AI Deep Dive",
+    "url": "https://gist.is/docs.google.com/en/deqIp-AK6Oxc",
+    "source": "Hacker News",
+    "date": "2026-06-10",
+    "summary": "Article URL: https://gist.is/docs.google.com/en/deqIp-AK6Oxc Comments URL: https://news.ycombinator.com/item?id=48483410 Points: 1 # Comments: 0",
+    "category": "industry",
+    "image": "https://lh7-us.googleusercontent.com/docs/AHkbwyIfkHl1kacg12E7B2NlE4ZohxbJxkwq09yhf4tryxmvPQ5ZxhGNZsbcPFYNxIYqEKC7taX2JVbpJTzAjF9-nLMEJM8OytpXwHTF9ysk3zhGCnjizM8F=w1200-h630-p",
+    "id": 26
+  },
+  {
+    "title": "OpenAI: PRC-linked influence operations are targeting AI debates in the US",
+    "url": "https://www.businessinsider.com/openai-china-data-centers-influence-campaign-2026-6",
+    "source": "Hacker News",
+    "date": "2026-06-10",
+    "summary": "Article URL: https://www.businessinsider.com/openai-china-data-centers-influence-campaign-2026-6 Comments URL: https://news.ycombinator.com/item?id=48483326 Points: 3 # Comments: 1",
+    "category": "industry",
+    "image": "https://i.insider.com/6a29a87459f798e5451f629a?width=1200&format=jpeg",
+    "id": 27
+  },
+  {
+    "title": "How are you controlling your child's AI usage?",
+    "url": "https://news.ycombinator.com/item?id=48483183",
+    "source": "Hacker News",
+    "date": "2026-06-10",
+    "summary": "Comments URL: https://news.ycombinator.com/item?id=48483183 Points: 1 # Comments: 0",
+    "category": "industry",
+    "id": 28
+  },
+  {
+    "title": "What Is Tokenomics, and Why Your AI Infrastructure Is Now a FinOps Problem",
+    "url": "https://cast.ai/blog/tokenomics-why-your-ai-infrastructure-is-now-a-finops-problem/",
+    "source": "Hacker News",
+    "date": "2026-06-10",
+    "summary": "Article URL: https://cast.ai/blog/tokenomics-why-your-ai-infrastructure-is-now-a-finops-problem/ Comments URL: https://news.ycombinator.com/item?id=48483181 Points: 1 # Comments: 0",
+    "category": "industry",
+    "image": "https://cast.ai/wp-content/uploads/2026/06/Tokenomics-meta-1-1024x536.png",
+    "id": 29
+  },
+  {
+    "title": "I'm simulating the 2026 World Cup with 22 LLM-written agents per match",
+    "url": "https://agentpitch.surge.sh/",
+    "source": "Hacker News",
+    "date": "2026-06-10",
+    "summary": "Article URL: https://agentpitch.surge.sh/ Comments URL: https://news.ycombinator.com/item?id=48483138 Points: 2 # Comments: 0",
+    "category": "models",
+    "id": 30
+  },
+  {
+    "title": "Holster-scan – catch AI-hallucinated package imports before agents run",
+    "url": "https://github.com/nauta-ai/holster-scan",
+    "source": "Hacker News",
+    "date": "2026-06-10",
+    "summary": "Article URL: https://github.com/nauta-ai/holster-scan Comments URL: https://news.ycombinator.com/item?id=48483102 Points: 1 # Comments: 0",
+    "category": "research",
+    "image": "https://opengraph.githubassets.com/6514c040bf23488321ab5b802390544ab06e3d5a00cacb3e70b151057bddc14b/nauta-ai/holster-scan",
+    "id": 31
+  },
+  {
+    "title": "Real-time AI voice bridges language gaps in the moment",
+    "url": "https://manateavagner.com/news/translate-live-spoken-translation",
+    "source": "Hacker News",
+    "date": "2026-06-10",
+    "summary": "Article URL: https://manateavagner.com/news/translate-live-spoken-translation Comments URL: https://news.ycombinator.com/item?id=48482847 Points: 1 # Comments: 0",
+    "category": "industry",
+    "image": "https://manateavagner.com/og/translate-live-spoken-translation.png",
+    "id": 32
+  },
+  {
+    "title": "AI hackathons on Devpost feel repetitive and somewhat random in judging",
+    "url": "https://gemini3.devpost.com",
+    "source": "Hacker News",
+    "date": "2026-06-10",
+    "summary": "Article URL: https://gemini3.devpost.com Comments URL: https://news.ycombinator.com/item?id=48482706 Points: 3 # Comments: 0",
+    "category": "models",
+    "image": "https://d112y698adiu2z.cloudfront.net/photos/production/challenge_thumbnails/004/098/038/datas/original.png",
+    "id": 33
+  },
+  {
+    "title": "China plans to spend $295B on AI buildout",
+    "url": "https://www.bloomberg.com/news/articles/2026-06-09/china-prepares-295-billion-plan-to-fund-nationwide-ai-buildout",
+    "source": "Hacker News",
+    "date": "2026-06-10",
+    "summary": "Article URL: https://www.bloomberg.com/news/articles/2026-06-09/china-prepares-295-billion-plan-to-fund-nationwide-ai-buildout Comments URL: https://news.ycombinator.com/item?id=48482584 Points: 3 # C...",
+    "category": "industry",
+    "id": 34
+  },
+  {
+    "title": "AI-review: reviewing AI code before it lands",
+    "url": "https://www.jackfranklin.co.uk/blog/ai-review-plan/",
+    "source": "Hacker News",
+    "date": "2026-06-10",
+    "summary": "Article URL: https://www.jackfranklin.co.uk/blog/ai-review-plan/ Comments URL: https://news.ycombinator.com/item?id=48482526 Points: 1 # Comments: 0",
+    "category": "industry",
+    "id": 35
+  },
+  {
+    "title": "Show HN: Kctx – A read-only Kubernetes context engine for SREs and AI Agents",
+    "url": "https://github.com/lucasepe/kctx",
+    "source": "Hacker News",
+    "date": "2026-06-10",
+    "summary": "Article URL: https://github.com/lucasepe/kctx Comments URL: https://news.ycombinator.com/item?id=48482439 Points: 4 # Comments: 0",
+    "category": "industry",
+    "image": "https://opengraph.githubassets.com/2c4c0d58885c3ac4f08be5956948e7af7a08fcbdbbe4407d1299ab8c1b8ff90e/lucasepe/kctx",
+    "id": 36
+  },
+  {
+    "title": "Show HN: CtxGov – a local claim firewall for AI memory claims",
+    "url": "https://ctxgov.github.io/ctxgov/try-in-5-minutes.html",
+    "source": "Hacker News",
+    "date": "2026-06-10",
+    "summary": "Article URL: https://ctxgov.github.io/ctxgov/try-in-5-minutes.html Comments URL: https://news.ycombinator.com/item?id=48482262 Points: 1 # Comments: 0",
+    "category": "hardware",
+    "image": "https://ctxgov.github.io/ctxgov/og.png",
+    "id": 37
   },
   {
     "title": "Malware devs added nuclear and bioweapons text to trigger LLM safety refusals",
     "url": "https://twitter.com/jsrailton/status/2064661778978533571",
     "source": "Hacker News",
     "date": "2026-06-10",
-    "summary": "Article URL: https://twitter.com/jsrailton/status/2064661778978533571 Comments URL: https://news.ycombinator.com/item?id=48482039 Points: 1 # Comments: 1",
+    "summary": "Article URL: https://twitter.com/jsrailton/status/2064661778978533571 Comments URL: https://news.ycombinator.com/item?id=48482039 Points: 3 # Comments: 1",
     "category": "models",
     "image": "https://pbs.twimg.com/media/HKclElRWMAATMuP.jpg:large",
-    "id": 22
+    "id": 38
   },
   {
     "title": "An Overview of Modern AI Robotics from First Principles",
@@ -226,7 +380,7 @@
     "summary": "Article URL: https://interlatent.com/blog/interlatent-modern-ai-robotics-first-principles Comments URL: https://news.ycombinator.com/item?id=48481909 Points: 1 # Comments: 0",
     "category": "industry",
     "image": "https://interlatent.com/og.png",
-    "id": 23
+    "id": 39
   },
   {
     "title": "Why would someone want to learn code when AI does it better and faster?",
@@ -235,7 +389,7 @@
     "date": "2026-06-10",
     "summary": "I know it sounds like I'm some sort of self-taught \"prompt engineer\" but actually I spent some time learning to code, and a mistake I made was focusing too much on learning different frameworks and sy...",
     "category": "tools",
-    "id": 24
+    "id": 40
   },
   {
     "title": "What Investment Data Implies about the AI Transition",
@@ -245,140 +399,7 @@
     "summary": "Article URL: https://www.nber.org/papers/w35290 Comments URL: https://news.ycombinator.com/item?id=48481791 Points: 1 # Comments: 0",
     "category": "research",
     "image": "https://www.nber.org/sites/default/files/2022-06/NBER-FB-Share-Tile-1200.jpg",
-    "id": 25
-  },
-  {
-    "title": "AI is eating the AI Engineering Loop",
-    "url": "https://twitter.com/lotte_verheyden/status/2064415370761646410",
-    "source": "Hacker News",
-    "date": "2026-06-10",
-    "summary": "Article URL: https://twitter.com/lotte_verheyden/status/2064415370761646410 Comments URL: https://news.ycombinator.com/item?id=48481789 Points: 1 # Comments: 0",
-    "category": "industry",
-    "image": "https://pbs.twimg.com/profile_images/1994707418790432768/NvTWenyx_200x200.jpg",
-    "id": 26
-  },
-  {
-    "title": "Thrindex – memory OS for AI agents (ranks, compresses and evolves agents memory)",
-    "url": "https://www.thrindex.com/",
-    "source": "Hacker News",
-    "date": "2026-06-10",
-    "summary": "Article URL: https://www.thrindex.com/ Comments URL: https://news.ycombinator.com/item?id=48481780 Points: 1 # Comments: 0",
-    "category": "hardware",
-    "image": "https://framerusercontent.com/assets/SfRo9S3gMudP8iOrTc1lU4znMQ.jpg",
-    "id": 27
-  },
-  {
-    "title": "The Jqwik Anti-AI Affair",
-    "url": "https://blog.johanneslink.net/2026/06/09/the-jqwik-anti-ai-affair/",
-    "source": "Hacker News",
-    "date": "2026-06-10",
-    "summary": "Article URL: https://blog.johanneslink.net/2026/06/09/the-jqwik-anti-ai-affair/ Comments URL: https://news.ycombinator.com/item?id=48481700 Points: 1 # Comments: 0",
-    "category": "industry",
-    "id": 28
-  },
-  {
-    "title": "Quick: An internal hosting platform for the AI era",
-    "url": "https://shopify.engineering/quick",
-    "source": "Hacker News",
-    "date": "2026-06-10",
-    "summary": "Article URL: https://shopify.engineering/quick Comments URL: https://news.ycombinator.com/item?id=48481517 Points: 1 # Comments: 0",
-    "category": "tools",
-    "image": "https://cdn.shopify.com/b/shopify-brochure2-assets/5cd39662ea3befee9661b70b4a25906d.jpg",
-    "id": 29
-  },
-  {
-    "title": "If you build apps with AI tools, this is .uh concerning",
-    "url": "https://substack.com/profile/173863161-dan-cochran/note/c-274040959",
-    "source": "Hacker News",
-    "date": "2026-06-10",
-    "summary": "Article URL: https://substack.com/profile/173863161-dan-cochran/note/c-274040959 Comments URL: https://news.ycombinator.com/item?id=48481349 Points: 2 # Comments: 0",
-    "category": "tools",
-    "id": 30
-  },
-  {
-    "title": "Ring-0 AI Interview Copilot",
-    "url": "https://aceloop.ai/",
-    "source": "Hacker News",
-    "date": "2026-06-10",
-    "summary": "Article URL: https://aceloop.ai/ Comments URL: https://news.ycombinator.com/item?id=48481309 Points: 1 # Comments: 1",
-    "category": "tools",
-    "image": "https://aceloop.ai/og-card.webp",
-    "id": 31
-  },
-  {
-    "title": "PR reviews were broken. AI just made it worse",
-    "url": "https://leaddev.com/ai/pr-reviews-were-already-broken-ai-made-it-worse",
-    "source": "Hacker News",
-    "date": "2026-06-10",
-    "summary": "Article URL: https://leaddev.com/ai/pr-reviews-were-already-broken-ai-made-it-worse Comments URL: https://news.ycombinator.com/item?id=48481306 Points: 2 # Comments: 0",
-    "category": "industry",
-    "id": 32
-  },
-  {
-    "title": "The History of AI and Chatbots with Dr. Richard Wallace [video]",
-    "url": "https://www.youtube.com/watch?v=ENW3PL50yPw",
-    "source": "Hacker News",
-    "date": "2026-06-10",
-    "summary": "Article URL: https://www.youtube.com/watch?v=ENW3PL50yPw Comments URL: https://news.ycombinator.com/item?id=48481288 Points: 1 # Comments: 0",
-    "category": "industry",
-    "id": 33
-  },
-  {
-    "title": "British media will be able to prevent content from feeding Google AI search",
-    "url": "https://voz.us/en/technology/260603/36246/british-media-will-be-able-to-prevent-their-content-from-feeding-google-s-ai-search.html",
-    "source": "Hacker News",
-    "date": "2026-06-10",
-    "summary": "Article URL: https://voz.us/en/technology/260603/36246/british-media-will-be-able-to-prevent-their-content-from-feeding-google-s-ai-search.html Comments URL: https://news.ycombinator.com/item?id=48481...",
-    "category": "industry",
-    "image": "https://imagenes.voz.us/files/og_thumbnail/uploads/2026/04/27/69efaf16a9ec3.jpeg",
-    "id": 34
-  },
-  {
-    "title": "Do AI agents need cryptographically verifiable decision receipts?",
-    "url": "https://signatrust.net",
-    "source": "Hacker News",
-    "date": "2026-06-10",
-    "summary": "Article URL: https://signatrust.net Comments URL: https://news.ycombinator.com/item?id=48481226 Points: 1 # Comments: 1",
-    "category": "industry",
-    "id": 35
-  },
-  {
-    "title": "Humans in the LLM Loop",
-    "url": "https://derickrethans.nl/humans-in-the-llm-loop.html",
-    "source": "Hacker News",
-    "date": "2026-06-10",
-    "summary": "Article URL: https://derickrethans.nl/humans-in-the-llm-loop.html Comments URL: https://news.ycombinator.com/item?id=48481213 Points: 1 # Comments: 0",
-    "category": "models",
-    "id": 36
-  },
-  {
-    "title": "Zero-boilerplate bridge between ML models and AI agents",
-    "url": "https://github.com/Tejas-TA/predikit",
-    "source": "Hacker News",
-    "date": "2026-06-10",
-    "summary": "Article URL: https://github.com/Tejas-TA/predikit Comments URL: https://news.ycombinator.com/item?id=48481122 Points: 1 # Comments: 0",
-    "category": "industry",
-    "image": "https://repository-images.githubusercontent.com/1249550191/b98220e4-53b2-449d-b7a7-3f7755da4aec",
-    "id": 37
-  },
-  {
-    "title": "Apple's interface monopoly wins in consumer AI with competing",
-    "url": "https://www.matteast.io/competition-is-for-losers.html",
-    "source": "Hacker News",
-    "date": "2026-06-10",
-    "summary": "Article URL: https://www.matteast.io/competition-is-for-losers.html Comments URL: https://news.ycombinator.com/item?id=48481057 Points: 3 # Comments: 1",
-    "category": "industry",
-    "id": 38
-  },
-  {
-    "title": "Frontier AI: what you need to know",
-    "url": "https://www.ncsc.gov.uk/frontier-ai",
-    "source": "Hacker News",
-    "date": "2026-06-10",
-    "summary": "Article URL: https://www.ncsc.gov.uk/frontier-ai Comments URL: https://news.ycombinator.com/item?id=48481002 Points: 2 # Comments: 0",
-    "category": "industry",
-    "image": "https://www.ncsc.gov.uk/sites/default/files/styles/uncropped_lg/public/2026-05/Frontier-AI-image.jpg?itok=CnorWyI1",
-    "id": 39
+    "id": 41
   },
   {
     "title": "China Opens World’s First Wind-Powered Underwater Data Center",
@@ -388,7 +409,7 @@
     "summary": "With an initial capacity of 24 megawatts, the innovative data center uses seawater as a natural cooling system.",
     "category": "hardware",
     "image": "https://media.wired.com/photos/68fab92565a13f02607aecfa/191:100/w_1280,c_limit/Screenshot%202025-10-23%20at%2011.33.04%E2%80%AFa.m..png",
-    "id": 40
+    "id": 42
   },
   {
     "title": "Artificial Intelligence Sneaks Into the World Cup Thanks to Google Gemini",
@@ -398,7 +419,7 @@
     "summary": "The Argentine national team will be Google’s test bench and technological showcase during the World Cup.",
     "category": "models",
     "image": "https://media.wired.com/photos/6a26f2821d5621d5724e9dd9/191:100/w_1280,c_limit/Artificial-Intelligence-Sneaks-into-World-Cup-2279691552.jpg",
-    "id": 41
+    "id": 43
   },
   {
     "title": "Business World Model",
@@ -407,7 +428,7 @@
     "date": "2026-06-10",
     "summary": "Businesses are increasingly adopting AI-enabled tools to improve productivity, reduce costs, and enhance products and services. However, the transformative potential of AI extends beyond automating pr...",
     "category": "research",
-    "id": 42
+    "id": 44
   },
   {
     "title": "Deployment-Time Memorization in Foundation-Model Agents",
@@ -416,7 +437,7 @@
     "date": "2026-06-10",
     "summary": "Foundation-model agents are increasingly long-lived systems that remember users across interactions, making memorization an explicit deployment-time function rather than solely a property of model wei...",
     "category": "models",
-    "id": 43
+    "id": 45
   },
   {
     "title": "Exploratory Responsiveness and Adaptive Rigidity under AI-Assisted Optimization",
@@ -425,7 +446,7 @@
     "date": "2026-06-10",
     "summary": "This paper develops a theory of exploratory adaptation under AI-assisted optimization. The central argument is that the long-run adaptive effects of AI systems depend critically on how predictive assi...",
     "category": "research",
-    "id": 44
+    "id": 46
   },
   {
     "title": "Predictive Assistance and the Temporal Dynamics of Exploratory Compression",
@@ -434,7 +455,7 @@
     "date": "2026-06-10",
     "summary": "Classical theories of cognition describe problem solving as exploratory search through structured problem spaces in which repeated interaction gradually compresses search into efficient representation...",
     "category": "hardware",
-    "id": 45
+    "id": 47
   },
   {
     "title": "From Senses to Decisions: The Information Flow of Auditory and Visual Perception in Multimodal LLMs",
@@ -443,7 +464,7 @@
     "date": "2026-06-10",
     "summary": "Multimodal Large Language Models (MLLMs) can listen and see, but how do audio and visual signals actually travel through the network to shape an answer? Despite their growing role in research and real...",
     "category": "models",
-    "id": 46
+    "id": 48
   },
   {
     "title": "Less Context, Better Agents: Efficient Context Engineering for Long-Horizon Tool-Using LLM Agents",
@@ -452,7 +473,7 @@
     "date": "2026-06-10",
     "summary": "Large language models deployed as autonomous agents for enterprise workflows face a key challenge: verbose tool responses from enterprise systems can cause context overflow, stale-state errors, and hi...",
     "category": "models",
-    "id": 47
+    "id": 49
   },
   {
     "title": "Minimalist Genetic Programming",
@@ -460,24 +481,6 @@
     "source": "arXiv cs.AI",
     "date": "2026-06-10",
     "summary": "Genetic programming (GP) is based on two important insights. First, that any learning task can fundamentally be posed as a program induction problem, where the goal is to construct a symbolic hierarch...",
-    "category": "research",
-    "id": 48
-  },
-  {
-    "title": "Regimes: An Auditable, Held-Out-Gated Improvement Loop Demonstrated on LongMemEval with ActiveGraph",
-    "url": "https://arxiv.org/abs/2606.10241",
-    "source": "arXiv cs.AI",
-    "date": "2026-06-10",
-    "summary": "Autonomous improvement loops are hard to trust because the improvement process is usually external scaffolding bolted onto the agent: failures go unlogged, diagnoses cannot be replayed, and promote-or...",
-    "category": "research",
-    "id": 49
-  },
-  {
-    "title": "RealMath-Eval: Why SOTA Judges Struggle with Real Human Reasoning",
-    "url": "https://arxiv.org/abs/2606.10254",
-    "source": "arXiv cs.AI",
-    "date": "2026-06-10",
-    "summary": "While Large Language Models (LLMs) have achieved near-perfect performance in \\emph{solving} high-school mathematics, their ability to \\emph{evaluate} the diverse reasoning processes of real human stud...",
     "category": "research",
     "id": 50
   }
