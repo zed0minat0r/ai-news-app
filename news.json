@@ -148,193 +148,184 @@
     "id": 15
   },
   {
+    "title": "What Would It Look Like If the AI Bubble Popped?",
+    "url": "https://www.thebignewsletter.com/p/what-would-it-look-like-if-the-ai",
+    "source": "Hacker News",
+    "date": "2026-06-11",
+    "summary": "Article URL: https://www.thebignewsletter.com/p/what-would-it-look-like-if-the-ai Comments URL: https://news.ycombinator.com/item?id=48497288 Points: 1 # Comments: 0",
+    "category": "industry",
+    "id": 16
+  },
+  {
+    "title": "Building an AI-Friendly Company, Just in Case AI Takes over the World",
+    "url": "https://www.paxerp.com/blog/ai-friendly-company-docs",
+    "source": "Hacker News",
+    "date": "2026-06-11",
+    "summary": "Article URL: https://www.paxerp.com/blog/ai-friendly-company-docs Comments URL: https://news.ycombinator.com/item?id=48497228 Points: 1 # Comments: 0",
+    "category": "industry",
+    "image": "https://www.paxerp.com/blog/ai-friendly-company-docs.webp",
+    "id": 17
+  },
+  {
+    "title": "Show HN: Vera – open-source tool to self-audit smart contracts with AI",
+    "url": "https://vera.apostro.xyz/",
+    "source": "Hacker News",
+    "date": "2026-06-11",
+    "summary": "Article URL: https://vera.apostro.xyz/ Comments URL: https://news.ycombinator.com/item?id=48497154 Points: 1 # Comments: 0",
+    "category": "tools",
+    "id": 18
+  },
+  {
+    "title": "GEDD – Grounded Eval-Driven Development for AI Agents",
+    "url": "https://github.com/aws-samples/sample-GEDD",
+    "source": "Hacker News",
+    "date": "2026-06-11",
+    "summary": "Article URL: https://github.com/aws-samples/sample-GEDD Comments URL: https://news.ycombinator.com/item?id=48497120 Points: 1 # Comments: 0",
+    "category": "industry",
+    "image": "https://opengraph.githubassets.com/15f58c2efc396d30bba55bdb93d2228a0d05cc45697215198160de51c3036496/aws-samples/sample-GEDD",
+    "id": 19
+  },
+  {
+    "title": "My AI Opinions",
+    "url": "https://www.astralcodexten.com/p/my-ai-opinions",
+    "source": "Hacker News",
+    "date": "2026-06-11",
+    "summary": "Article URL: https://www.astralcodexten.com/p/my-ai-opinions Comments URL: https://news.ycombinator.com/item?id=48497095 Points: 2 # Comments: 0",
+    "category": "industry",
+    "image": "https://substackcdn.com/image/fetch/$s_!Bgjf!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Ff992c3c2-3612-4f14-9002-966015c3bd9c_960x639.webp",
+    "id": 20
+  },
+  {
+    "title": "As a SWE with 10y experience, how long does it take to learn to build AI models",
+    "url": "https://news.ycombinator.com/item?id=48497093",
+    "source": "Hacker News",
+    "date": "2026-06-11",
+    "summary": "Comments URL: https://news.ycombinator.com/item?id=48497093 Points: 1 # Comments: 2",
+    "category": "industry",
+    "id": 21
+  },
+  {
+    "title": "Local AI: 775 tok/s, DiffusionGemma (BF16) on Nvidia RTX 6000 Pro",
+    "url": "https://twitter.com/OrganicGPT/status/2064883777499795716",
+    "source": "Hacker News",
+    "date": "2026-06-11",
+    "summary": "Article URL: https://twitter.com/OrganicGPT/status/2064883777499795716 Comments URL: https://news.ycombinator.com/item?id=48496739 Points: 2 # Comments: 0",
+    "category": "models",
+    "image": "https://pbs.twimg.com/media/HKftgekXYAAuhmO.png:large",
+    "id": 22
+  },
+  {
+    "title": "ORP – Turn AI agent failures into regression tests and tested lessons",
+    "url": "https://github.com/Fujo930/ORP",
+    "source": "Hacker News",
+    "date": "2026-06-11",
+    "summary": "Article URL: https://github.com/Fujo930/ORP Comments URL: https://news.ycombinator.com/item?id=48496737 Points: 1 # Comments: 0",
+    "category": "industry",
+    "image": "https://opengraph.githubassets.com/c552c1f7adc3fdc18f480f770a474b96aea70ec792febbd11102364218582ffb/Fujo930/ORP",
+    "id": 23
+  },
+  {
+    "title": "Tired of AI amnesia, I built a 3-Tier infinite memory LLM in 1 week",
+    "url": "https://dl-chat-49232436682.asia-northeast3.run.app/",
+    "source": "Hacker News",
+    "date": "2026-06-11",
+    "summary": "Article URL: https://dl-chat-49232436682.asia-northeast3.run.app/ Comments URL: https://news.ycombinator.com/item?id=48496730 Points: 2 # Comments: 1",
+    "category": "models",
+    "id": 24
+  },
+  {
+    "title": "Ask HN: Why not compare Fable 5 with GPT \"Pro\"? Why compare with GPT xhigh?",
+    "url": "https://news.ycombinator.com/item?id=48496661",
+    "source": "Hacker News",
+    "date": "2026-06-11",
+    "summary": "Every benchmark I see compares the super model Fable 5 with GPT 5.5 xhigh, but that's not a fair comparison because GPT 5.5 Pro has existed for a while and consistently delivers better results than Op...",
+    "category": "models",
+    "id": 25
+  },
+  {
+    "title": "IndexedAI – Score and fix your site's readability for AI agents",
+    "url": "https://www.indexedai.tech",
+    "source": "Hacker News",
+    "date": "2026-06-11",
+    "summary": "Article URL: https://www.indexedai.tech Comments URL: https://news.ycombinator.com/item?id=48496439 Points: 1 # Comments: 0",
+    "category": "industry",
+    "id": 26
+  },
+  {
+    "title": "So I ran Doom inside Claude.ai",
+    "url": "https://twitter.com/rthiago/status/2065176453042356511",
+    "source": "Hacker News",
+    "date": "2026-06-11",
+    "summary": "Article URL: https://twitter.com/rthiago/status/2065176453042356511 Comments URL: https://news.ycombinator.com/item?id=48496430 Points: 1 # Comments: 0",
+    "category": "models",
+    "image": "https://pbs.twimg.com/media/HKj51gkW0AAyYN4.jpg:large",
+    "id": 27
+  },
+  {
+    "title": "Microsoft says Gen Z's AI backlash should be a wake-up call for Big Tech",
+    "url": "https://www.businessinsider.com/ai-backlash-gen-z-microsoft-president-brad-smith-graduation-speeches-2026-6",
+    "source": "Hacker News",
+    "date": "2026-06-11",
+    "summary": "Article URL: https://www.businessinsider.com/ai-backlash-gen-z-microsoft-president-brad-smith-graduation-speeches-2026-6 Comments URL: https://news.ycombinator.com/item?id=48496402 Points: 5 # Comment...",
+    "category": "industry",
+    "image": "https://i.insider.com/6a29789aa74097c573988c36?width=1200&format=jpeg",
+    "id": 28
+  },
+  {
+    "title": "OpenAI's June 2026 Report on Malicious Uses of AI [pdf]",
+    "url": "https://cdn.openai.com/pdf/96b559fa-c165-4575-805d-e636909e2f78/June-2026-Threat-Report.pdf",
+    "source": "Hacker News",
+    "date": "2026-06-11",
+    "summary": "Article URL: https://cdn.openai.com/pdf/96b559fa-c165-4575-805d-e636909e2f78/June-2026-Threat-Report.pdf Comments URL: https://news.ycombinator.com/item?id=48496332 Points: 5 # Comments: 1",
+    "category": "industry",
+    "id": 29
+  },
+  {
+    "title": "Every LLM Tool Call Needs an Output Budget",
+    "url": "https://www.axamy.com/blog/tool-budget",
+    "source": "Hacker News",
+    "date": "2026-06-11",
+    "summary": "Article URL: https://www.axamy.com/blog/tool-budget Comments URL: https://news.ycombinator.com/item?id=48496230 Points: 2 # Comments: 0",
+    "category": "models",
+    "image": "https://framerusercontent.com/images/ixh8kwhFBeiHc5bZaaNy8SnKreg.png?width=2752&height=1536",
+    "id": 30
+  },
+  {
+    "title": "Superficial Beliefs in LLM Decision-Making",
+    "url": "https://arxiv.org/abs/2606.11016",
+    "source": "Hacker News",
+    "date": "2026-06-11",
+    "summary": "Article URL: https://arxiv.org/abs/2606.11016 Comments URL: https://news.ycombinator.com/item?id=48496180 Points: 3 # Comments: 0",
+    "category": "models",
+    "id": 31
+  },
+  {
+    "title": "He Hacked Teslas for Elon Musk. Now He's Launching a $100M AI Cyber Agent",
+    "url": "https://www.forbes.com/sites/thomasbrewster/2026/06/10/elon-musk-favorite-hacker-launches-100-million-ai-cyber-startup/",
+    "source": "Hacker News",
+    "date": "2026-06-11",
+    "summary": "Article URL: https://www.forbes.com/sites/thomasbrewster/2026/06/10/elon-musk-favorite-hacker-launches-100-million-ai-cyber-startup/ Comments URL: https://news.ycombinator.com/item?id=48496144 Points:...",
+    "category": "industry",
+    "image": "https://imageio.forbes.com/specials-images/imageserve/6a295d2895a497dec531c2c4/0x0.jpg?format=jpg&crop=1252,704,x0,y0,safe&height=900&width=1600&fit=bounds",
+    "id": 32
+  },
+  {
+    "title": "The University in the AI Era",
+    "url": "https://htmx.org/essays/universities-and-ai/",
+    "source": "Hacker News",
+    "date": "2026-06-11",
+    "summary": "Article URL: https://htmx.org/essays/universities-and-ai/ Comments URL: https://news.ycombinator.com/item?id=48496037 Points: 3 # Comments: 2",
+    "category": "industry",
+    "id": 33
+  },
+  {
     "title": "AI Lead Should Be an Engineer",
     "url": "https://presentofcoding.substack.com/p/your-ai-lead-should-be-an-engineer",
     "source": "Hacker News",
     "date": "2026-06-11",
     "summary": "Article URL: https://presentofcoding.substack.com/p/your-ai-lead-should-be-an-engineer Comments URL: https://news.ycombinator.com/item?id=48495713 Points: 3 # Comments: 0",
     "category": "industry",
-    "id": 16
-  },
-  {
-    "title": "AI Learned How the Universe Works and Created Unexpected Problems for Physicists",
-    "url": "https://gizmodo.com/ai-learned-how-the-universe-works-and-that-created-an-unexpected-problem-for-physicists-2000770643",
-    "source": "Hacker News",
-    "date": "2026-06-11",
-    "summary": "Article URL: https://gizmodo.com/ai-learned-how-the-universe-works-and-that-created-an-unexpected-problem-for-physicists-2000770643 Comments URL: https://news.ycombinator.com/item?id=48495527 Points: ...",
-    "category": "industry",
-    "id": 17
-  },
-  {
-    "title": "Powering the next era of Confidential AI",
-    "url": "https://cloud.google.com/blog/products/identity-security/powering-the-next-era-of-confidential-ai",
-    "source": "Hacker News",
-    "date": "2026-06-11",
-    "summary": "Article URL: https://cloud.google.com/blog/products/identity-security/powering-the-next-era-of-confidential-ai Comments URL: https://news.ycombinator.com/item?id=48495455 Points: 4 # Comments: 0",
-    "category": "industry",
-    "id": 18
-  },
-  {
-    "title": "The Great American AI Act (draft) [pdf]",
-    "url": "https://obernolte.house.gov/sites/evo-subsites/obernolte.house.gov/files/evo-media-document/the-great-american-ai-act-discussion-draft-website-compressed-compressed.pdf",
-    "source": "Hacker News",
-    "date": "2026-06-11",
-    "summary": "Article URL: https://obernolte.house.gov/sites/evo-subsites/obernolte.house.gov/files/evo-media-document/the-great-american-ai-act-discussion-draft-website-compressed-compressed.pdf Comments URL: http...",
-    "category": "industry",
-    "id": 19
-  },
-  {
-    "title": "Several things I like about macOS 27 Golden Gate that have nothing to do with AI",
-    "url": "https://arstechnica.com/gadgets/2026/06/five-things-i-like-and-one-thing-i-still-want-in-the-macos-27-golden-gate-beta/",
-    "source": "Hacker News",
-    "date": "2026-06-11",
-    "summary": "Article URL: https://arstechnica.com/gadgets/2026/06/five-things-i-like-and-one-thing-i-still-want-in-the-macos-27-golden-gate-beta/ Comments URL: https://news.ycombinator.com/item?id=48495326 Points:...",
-    "category": "industry",
-    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/06/golden-gate-window-corner-1152x648-1781124749.jpeg",
-    "id": 20
-  },
-  {
-    "title": "Canadian Privacy Commissioner Findings on X.ai/Grok CSAM Deepfake Violations",
-    "url": "https://www.priv.gc.ca/en/opc-actions-and-decisions/investigations/investigations-into-businesses/2026/pipeda-2026-004/",
-    "source": "Hacker News",
-    "date": "2026-06-11",
-    "summary": "Article URL: https://www.priv.gc.ca/en/opc-actions-and-decisions/investigations/investigations-into-businesses/2026/pipeda-2026-004/ Comments URL: https://news.ycombinator.com/item?id=48495207 Points:...",
-    "category": "models",
-    "id": 21
-  },
-  {
-    "title": "Agents-Container Running AI Agents Safely in Docker-in-Docker with GVisor",
-    "url": "https://github.com/gni/agents-container",
-    "source": "Hacker News",
-    "date": "2026-06-11",
-    "summary": "Article URL: https://github.com/gni/agents-container Comments URL: https://news.ycombinator.com/item?id=48495177 Points: 2 # Comments: 0",
-    "category": "industry",
-    "image": "https://opengraph.githubassets.com/8b796b468e24b8a2d73599f18bf8e17b2a9d65212250ce40d5b3cf17e03acaa6/gni/agents-container",
-    "id": 22
-  },
-  {
-    "title": "AI Coding Skill That May Make Your Coding Sessions 44% More Productive",
-    "url": "https://vmysla.substack.com/p/ai-coding-skill-that-may-cut-your-ai-coding-costs-by-30-45-percent",
-    "source": "Hacker News",
-    "date": "2026-06-11",
-    "summary": "Article URL: https://vmysla.substack.com/p/ai-coding-skill-that-may-cut-your-ai-coding-costs-by-30-45-percent Comments URL: https://news.ycombinator.com/item?id=48495166 Points: 2 # Comments: 0",
-    "category": "industry",
-    "id": 23
-  },
-  {
-    "title": "OpenAI could go from AI pioneer to AI's BlackBerry, says Forrester",
-    "url": "https://www.theregister.com/ai-and-ml/2026/06/11/openai-could-go-from-ai-pioneer-to-ais-blackberry-says-forrester/5254120",
-    "source": "Hacker News",
-    "date": "2026-06-11",
-    "summary": "Article URL: https://www.theregister.com/ai-and-ml/2026/06/11/openai-could-go-from-ai-pioneer-to-ais-blackberry-says-forrester/5254120 Comments URL: https://news.ycombinator.com/item?id=48495009 Point...",
-    "category": "industry",
-    "image": "https://image.theregister.com/5254138.jpg?imageId=5254138&x=0&y=0&cropw=100&croph=100&panox=0&panoy=0&panow=100&panoh=100&width=1200&height=683",
-    "id": 24
-  },
-  {
-    "title": "Oracle's AI datacenter splurge gives investors the capex jitters",
-    "url": "https://www.theregister.com/paas-and-iaas/2026/06/11/oracles-ai-datacenter-splurge-gives-investors-the-capex-jitters/5254035",
-    "source": "Hacker News",
-    "date": "2026-06-11",
-    "summary": "Article URL: https://www.theregister.com/paas-and-iaas/2026/06/11/oracles-ai-datacenter-splurge-gives-investors-the-capex-jitters/5254035 Comments URL: https://news.ycombinator.com/item?id=48494992 Po...",
-    "category": "hardware",
-    "image": "https://image.theregister.com/5225242.jpg?imageId=5225242&x=0&y=0&cropw=100&croph=100&panox=0&panoy=0&panow=100&panoh=100&width=1200&height=683",
-    "id": 25
-  },
-  {
-    "title": "Memes > Doom: How TikTokers and YouTubers See AI",
-    "url": "https://freesystems.substack.com/p/memes-doom-how-tiktokers-and-youtubers",
-    "source": "Hacker News",
-    "date": "2026-06-11",
-    "summary": "Article URL: https://freesystems.substack.com/p/memes-doom-how-tiktokers-and-youtubers Comments URL: https://news.ycombinator.com/item?id=48494826 Points: 2 # Comments: 0",
-    "category": "industry",
-    "id": 26
-  },
-  {
-    "title": "I'm creating a free AI comic for Indie Hackers struggling with distribution",
-    "url": "https://www.indiehackers.com/post/im-creating-a-free-ai-comic-for-indie-hackers-struggling-with-distribution-BlVE6dH6CCgygXLu7OGf",
-    "source": "Hacker News",
-    "date": "2026-06-11",
-    "summary": "Article URL: https://www.indiehackers.com/post/im-creating-a-free-ai-comic-for-indie-hackers-struggling-with-distribution-BlVE6dH6CCgygXLu7OGf Comments URL: https://news.ycombinator.com/item?id=484948...",
-    "category": "industry",
-    "image": "https://storage.googleapis.com/indie-hackers.appspot.com/shareable-images/posts/BlVE6dH6CCgygXLu7OGf",
-    "id": 27
-  },
-  {
-    "title": "GitLab building AI scale Git time faster",
-    "url": "https://about.gitlab.com/blog/gitlab-transcend-announcements/",
-    "source": "Hacker News",
-    "date": "2026-06-11",
-    "summary": "Article URL: https://about.gitlab.com/blog/gitlab-transcend-announcements/ Comments URL: https://news.ycombinator.com/item?id=48494762 Points: 3 # Comments: 0",
-    "category": "industry",
-    "id": 28
-  },
-  {
-    "title": "Show HN: Eidentic – TypeScript SDK for AI agents with self-improving memory",
-    "url": "https://github.com/eidentic/eidentic",
-    "source": "Hacker News",
-    "date": "2026-06-11",
-    "summary": "Article URL: https://github.com/eidentic/eidentic Comments URL: https://news.ycombinator.com/item?id=48494704 Points: 4 # Comments: 0",
-    "category": "hardware",
-    "image": "https://opengraph.githubassets.com/f0ceef5fb17c8c0d846f436d6897e6993cdefb7febcfe9abc81b72078f5f7783/eidentic/eidentic",
-    "id": 29
-  },
-  {
-    "title": "AI needs shame, not taste",
-    "url": "https://www.jacquescorbytuech.com/writing/ai-needs-shame-not-taste",
-    "source": "Hacker News",
-    "date": "2026-06-11",
-    "summary": "Article URL: https://www.jacquescorbytuech.com/writing/ai-needs-shame-not-taste Comments URL: https://news.ycombinator.com/item?id=48494560 Points: 3 # Comments: 0",
-    "category": "industry",
-    "image": "http://www.jacquescorbytuech.com/themes/jacques_2026/icons/og-default.png",
-    "id": 30
-  },
-  {
-    "title": "Apollo Is Screening All Software Investments for AI Threat Risk",
-    "url": "https://www.bloomberg.com/news/articles/2026-06-11/apollo-is-screening-all-software-investments-for-ai-threat-risk",
-    "source": "Hacker News",
-    "date": "2026-06-11",
-    "summary": "Article URL: https://www.bloomberg.com/news/articles/2026-06-11/apollo-is-screening-all-software-investments-for-ai-threat-risk Comments URL: https://news.ycombinator.com/item?id=48494478 Points: 4 # ...",
-    "category": "industry",
-    "id": 31
-  },
-  {
-    "title": "4 Signs You Need a Multi-Agent AI System: A Visual Guide",
-    "url": "https://aidoses.substack.com/p/4-signs-you-need-a-multi-agent-ai",
-    "source": "Hacker News",
-    "date": "2026-06-11",
-    "summary": "Article URL: https://aidoses.substack.com/p/4-signs-you-need-a-multi-agent-ai Comments URL: https://news.ycombinator.com/item?id=48494419 Points: 2 # Comments: 0",
-    "category": "industry",
-    "id": 32
-  },
-  {
-    "title": "Ask HN: What's the best LLM model that on a 24 GB VRAM GPU?",
-    "url": "https://news.ycombinator.com/item?id=48494377",
-    "source": "Hacker News",
-    "date": "2026-06-11",
-    "summary": "What’s the best model right now that outperforms Qwopus3.6-27B-v2-MTP-GGUF 8-bit on a 24 GB VRAM GPU? Looking for real reviews. I found 4 bit not usable in production. Comments URL: https://news.ycomb...",
-    "category": "models",
-    "id": 33
-  },
-  {
-    "title": "Researcher made up a disease to test AI. It failed miserably",
-    "url": "https://www.scientificamerican.com/podcast/episode/bixonimania-the-fake-illness-that-ai-fell-for/",
-    "source": "Hacker News",
-    "date": "2026-06-11",
-    "summary": "Article URL: https://www.scientificamerican.com/podcast/episode/bixonimania-the-fake-illness-that-ai-fell-for/ Comments URL: https://news.ycombinator.com/item?id=48494252 Points: 3 # Comments: 0",
-    "category": "research",
-    "image": "https://static.scientificamerican.com/dam/asset/6a58a5d0-14b3-4578-ae09-d10478612c47/2605_SQ_FRI_AI_DISEASE.png?m=1779301200.097&w=1200",
     "id": 34
-  },
-  {
-    "title": "Coinbase launches AI agent accounts that can trade and spend on your behalf",
-    "url": "https://www.coindesk.com/tech/2026/06/11/coinbase-launches-ai-agent-accounts-that-can-trade-and-spend-on-your-behalf",
-    "source": "Hacker News",
-    "date": "2026-06-11",
-    "summary": "Article URL: https://www.coindesk.com/tech/2026/06/11/coinbase-launches-ai-agent-accounts-that-can-trade-and-spend-on-your-behalf Comments URL: https://news.ycombinator.com/item?id=48494193 Points: 2 ...",
-    "category": "industry",
-    "image": "https://cdn.sanity.io/images/s3y3vcno/production/3a9eec4547a8b835a4a4de35dbdd3a67dcaa6b2f-1920x1080.jpg?auto=format&w=960&h=540&crop=focalpoint&fit=clip&q=75&fm=jpg",
-    "id": 35
   },
   {
     "title": "Google DeepMind is worried about what happens when millions of agents start to interact",
@@ -344,6 +335,16 @@
     "summary": "Google DeepMind is funding research into the potential dangers of situations where millions of different AI agents interact with each other online. According to Rohin Shah, who directs the company’s A...",
     "category": "research",
     "image": "https://wp.technologyreview.com/wp-content/uploads/2026/06/corralling-agents.jpg?resize=1200,600",
+    "id": 35
+  },
+  {
+    "title": "Meet the OpenAI Engineer Leading ChatGPT’s Biggest Transformation Yet",
+    "url": "https://www.wired.com/story/model-behavior-interview-with-openai-codex-lead-tibo-sottiaux/",
+    "source": "Wired",
+    "date": "2026-06-11",
+    "summary": "Thibault Sottiaux helped make AI coding one of OpenAI’s fastest-growing businesses. Now he’s overseeing a sweeping overhaul of ChatGPT.",
+    "category": "models",
+    "image": "https://media.wired.com/photos/6a29dcf7d0be49584df640a0/191:100/w_1280,c_limit/Model-Behavior-OpenAI-Codex-Lead-Tibo-Sottiaux-Business.jpg",
     "id": 36
   },
   {
