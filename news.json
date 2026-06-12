@@ -1,5 +1,45 @@
 [
   {
+    "title": "AMD denies researcher a $10,000 bug bounty after fixing critical auto-updater vulnerability — security flaw took 124 days to patch",
+    "url": "https://www.tomshardware.com/tech-industry/cyber-security/amd-denies-researcher-a-usd10-000-bug-bounty-after-fixing-critical-auto-updater-vulnerability-security-flaw-took-124-days-to-patch",
+    "source": "Tom's Hardware",
+    "date": "2026-06-12",
+    "summary": "AMD took over four months to fix a critical security bug in its autoupdater, and the security researcher didn't see a dime for his efforts",
+    "category": "hardware",
+    "image": "https://cdn.mos.cms.futurecdn.net/tsQMpJtLWfM65SXQmxWizQ-1280-80.jpg",
+    "id": 1,
+    "featured": true
+  },
+  {
+    "title": "How Preply combines AI and human tutors to personalize learning",
+    "url": "https://openai.com/index/preply",
+    "source": "OpenAI Blog",
+    "date": "2026-06-12",
+    "summary": "Preply uses OpenAI to launch AI-generated lesson summaries, providing personalised feedback and language learning exercises.",
+    "category": "industry",
+    "id": 2
+  },
+  {
+    "title": "Several police officers arrested for using controversial Flock AI license plate reader system to stalk romantic partners, says report — investigators have unearthed at least 18 such cases in the US over recent years",
+    "url": "https://www.tomshardware.com/software/security-software/several-police-officers-arrested-for-using-controversial-flock-ai-license-plate-reader-system-to-stalk-romantic-partners-says-report-investigators-have-unearthed-at-least-18-such-cases-in-the-us-over-recent-years",
+    "source": "Tom's Hardware",
+    "date": "2026-06-12",
+    "summary": "Tens of officers have been fired, and some even arrested, for abuse of the Flock license plate reader system used by police departments throughout the US, according to a new report.",
+    "category": "industry",
+    "image": "https://cdn.mos.cms.futurecdn.net/juLGVNViiqFeg7rmPKYpkU-1280-80.jpg",
+    "id": 3
+  },
+  {
+    "title": "Cheaper, faster, and culturally aware, Avataar’s video AI is built for India’s scale",
+    "url": "https://techcrunch.com/2026/06/11/cheaper-faster-and-culturally-aware-avataars-video-ai-is-built-for-indias-scale/",
+    "source": "TechCrunch",
+    "date": "2026-06-12",
+    "summary": "Avataar AI's distilled video model is priced at $0.005 for every second of generation",
+    "category": "research",
+    "image": "https://techcrunch.com/wp-content/uploads/2026/06/Screenshot-2026-06-11-at-3.39.00-PM.jpg?resize=1200,685",
+    "id": 4
+  },
+  {
     "title": "Jeff Bezos’s Prometheus raises $12B to build an ‘artificial general engineer’ for the physical world",
     "url": "https://techcrunch.com/2026/06/11/jeff-bezoss-prometheus-raises-12b-to-build-an-artificial-general-engineer-for-the-physical-world/",
     "source": "TechCrunch",
@@ -7,8 +47,7 @@
     "summary": "The new round values the physical AI startup that aims to automate heavy engineering and drug design at $41 billion.",
     "category": "industry",
     "image": "https://techcrunch.com/wp-content/uploads/2025/04/GettyImages-2208733347.jpg?w=1024",
-    "id": 1,
-    "featured": true
+    "id": 5
   },
   {
     "title": "Apple’s Camera Chief Thinks AI Can Give You Superpowers",
@@ -18,7 +57,7 @@
     "summary": "The generative features in iOS 27’s new Photos app will add fake pixels to some of your shots, but Apple’s Jon McCormack says the company isn’t using AI “for the sake of AI.”",
     "category": "industry",
     "image": "https://media.wired.com/photos/6a2991038b88eda4e0bec24e/191:100/w_1280,c_limit/Siri%20AI%20in%20Camera%20SOURCE%20Julian%20Chokkattu%20(1).jpg",
-    "id": 2
+    "id": 6
   },
   {
     "title": "ToolSense: A Diagnostic Framework for Auditing Parametric Tool Knowledge in LLMs",
@@ -27,7 +66,7 @@
     "date": "2026-06-12",
     "summary": "Large language models deployed as agents over large tool catalogs face a critical tool-retrieval bottleneck. As embedding-based retrieval approaches rely on compact encoders that may under-capture spe...",
     "category": "models",
-    "id": 3
+    "id": 7
   },
   {
     "title": "Arbor: Tree Search as a Cognition Layer for Autonomous Agents",
@@ -36,7 +75,7 @@
     "date": "2026-06-12",
     "summary": "Arbor is a multi-agent framework that introduces structured tree search as a cognition layer for autonomous agents operating in large, stateful action spaces. Prior autonomous optimization systems ope...",
     "category": "tools",
-    "id": 4
+    "id": 8
   },
   {
     "title": "Strategic Decision Support for AI Agents",
@@ -45,7 +84,7 @@
     "date": "2026-06-12",
     "summary": "Traditionally, decision support studies how humans use machine learning models to make better decisions. In modern agentic systems, this division of roles is increasingly reversed: AI agents act on be...",
     "category": "hardware",
-    "id": 5
+    "id": 9
   },
   {
     "title": "Pythagoras-Prover: Advancing Efficient Formal Proving via Augmented Lean Formalisation",
@@ -54,7 +93,7 @@
     "date": "2026-06-12",
     "summary": "Modern Lean theorem provers achieve strong performance only with substantial training and inference compute, driven in part by scarce verified proof data and the long reasoning traces of formal proof ...",
     "category": "models",
-    "id": 6
+    "id": 10
   },
   {
     "title": "PersonaDrive: Human-Style Retrieval-Augmented VLA Agents for Closed-Loop Driving Simulation",
@@ -63,7 +102,7 @@
     "date": "2026-06-12",
     "summary": "Closed-loop driving simulators typically populate their environments with non-ego traffic agents that behave largely the same way, produced either by rule-based traffic managers or by learned models t...",
     "category": "models",
-    "id": 7
+    "id": 11
   },
   {
     "title": "\"Did you lie?\" Evaluating Lie Detectors across Model Scale and Belief-Verified Model Organisms",
@@ -72,7 +111,7 @@
     "date": "2026-06-12",
     "summary": "Robust lie detectors for language models could enable powerful techniques for auditing, monitoring, and post-hoc investigation of model behaviour, but evaluating them requires testbeds where models ve...",
     "category": "models",
-    "id": 8
+    "id": 12
   },
   {
     "title": "TrajGenAgent: A Hierarchical LLM Agent for Human Mobility Trajectory Generation",
@@ -81,7 +120,7 @@
     "date": "2026-06-12",
     "summary": "Human mobility data is important for transportation, urban planning, and epidemic control, but large-scale trajectory collection is often costly and privacy-constrained, motivating realistic synthetic...",
     "category": "models",
-    "id": 9
+    "id": 13
   },
   {
     "title": "Evoflux: Inference-Time Evolution of Executable Tool Workflows for Compact Agents",
@@ -90,7 +129,7 @@
     "date": "2026-06-12",
     "summary": "Compact language models (LMs) reduce cost, latency, and deployment risk for tool agents. Yet MCP-style tool use requires more than isolated function calling: an agent must discover tools from live cat...",
     "category": "hardware",
-    "id": 10
+    "id": 14
   },
   {
     "title": "From AGI to ASI",
@@ -99,7 +138,7 @@
     "date": "2026-06-12",
     "summary": "Over the last decade, building human-level artificial general intelligence has moved from far-fetched speculation to being a concrete next-decade target for many of the largest AI organisations. Achie...",
     "category": "research",
-    "id": 11
+    "id": 15
   },
   {
     "title": "Deployment-Centered Evaluation: Predicting Query-Level Rejection Risk in a Clinical LLM System",
@@ -108,7 +147,7 @@
     "date": "2026-06-12",
     "summary": "Large language models (LLMs) are increasingly integrated into clinical systems, making it essential to evaluate the real-world utility of these systems. However, static benchmarks tend to measure corr...",
     "category": "research",
-    "id": 12
+    "id": 16
   },
   {
     "title": "Definitional alignment before capability alignment: a Design-Science framework for adjudicating claims about AGI",
@@ -117,7 +156,7 @@
     "date": "2026-06-12",
     "summary": "Claims that artificial general intelligence has already arrived and claims that it remains decades away are often defended from overlapping evidence. \"AGI\" lacks a single shared and stable referent an...",
     "category": "research",
-    "id": 13
+    "id": 17
   },
   {
     "title": "The Theory of Mind Utility: Formal Specification of a Mentalizing Mechanism",
@@ -126,7 +165,7 @@
     "date": "2026-06-12",
     "summary": "Inferring others' beliefs requires more than reading surface signals; it requires tracking who told them what, in what order, and how credibly. The Theory of Mind Utility (ToM-U) formalizes this epist...",
     "category": "hardware",
-    "id": 14
+    "id": 18
   },
   {
     "title": "Rethinking Psychometric Evaluation of LLMs: When and Why Self-Reports Predict Behavior",
@@ -135,7 +174,7 @@
     "date": "2026-06-12",
     "summary": "Anticipating LLM behavioral tendencies from low-cost psychometric probes is critical for safe deployment, but only if self-reports (SR) reliably predict behavior. Recent work documented substantial SR...",
     "category": "tools",
-    "id": 15
+    "id": 19
   },
   {
     "title": "Benchmarking AI Agents for Addressing Scientific Challenges Across Scales",
@@ -144,7 +183,7 @@
     "date": "2026-06-12",
     "summary": "AI agents are increasingly being developed to accelerate scientific discovery, yet their practical capabilities in real research settings remain poorly understood. Existing benchmarks for AI agents ra...",
     "category": "research",
-    "id": 16
+    "id": 20
   },
   {
     "title": "Reducing the Complexity of Deep Learning Models for EEG Analysis on Wearable Devices",
@@ -153,7 +192,7 @@
     "date": "2026-06-12",
     "summary": "Wearable healthcare devices are the fastest-growing Internet of Things (IoT) sector. Many automated healthcare services rely on two crucial biological signals, namely ECG and EEG, which reflect the ac...",
     "category": "hardware",
-    "id": 17
+    "id": 21
   },
   {
     "title": "Prefill Awareness in Large Language Models",
@@ -162,7 +201,7 @@
     "date": "2026-06-12",
     "summary": "Safety-relevant studies of language models, including alignment and jailbreaking evaluations and AI control protocols, often rely on prefilling model outputs. If AI models can recognize and act on the...",
     "category": "models",
-    "id": 18
+    "id": 22
   },
   {
     "title": "Constructing Evaluation Datasets for Procedural Reasoning: Balancing Naturalness, Grounding, and Multi-Hop Coverage",
@@ -171,7 +210,7 @@
     "date": "2026-06-12",
     "summary": "Evaluating procedural reasoning in AI-supported learning systems requires question-answer datasets that are both learner-like and grounded in the instructional knowledge the system is expected to use....",
     "category": "research",
-    "id": 19
+    "id": 23
   },
   {
     "title": "A Tutorial on World Models and Physical AI",
@@ -180,7 +219,7 @@
     "date": "2026-06-12",
     "summary": "World modeling is emerging as a central principle for building intelligent systems capable of prediction, reasoning, and decision making. A central distinction can be drawn between explicit world mode...",
     "category": "tools",
-    "id": 20
+    "id": 24
   },
   {
     "title": "The Containment Gap: How Deployed Agentic AI Frameworks Fail Public-Facing Safety Requirements",
@@ -189,7 +228,7 @@
     "date": "2026-06-12",
     "summary": "Agentic large language model systems that autonomously invoke tools, maintain persistent memory, and execute multi-step plans are increasingly deployed in public-facing domains, including government s...",
     "category": "tools",
-    "id": 21
+    "id": 25
   },
   {
     "title": "MLUBench: A Benchmark for Lifelong Unlearning Evaluation in MLLMs",
@@ -198,7 +237,7 @@
     "date": "2026-06-12",
     "summary": "Multimodal large language models (MLLMs) are trained on massive multimodal data, making data unlearning increasingly important as data owners may request the removal of specific content. In practice, ...",
     "category": "models",
-    "id": 22
+    "id": 26
   },
   {
     "title": "Teach-and-Repeat: Accurately Extracting Operational Knowledge from Mobile Screen Demonstrations to Empower GUI Agents",
@@ -207,7 +246,7 @@
     "date": "2026-06-12",
     "summary": "Understanding the digital world on mobile devices is shifting from static UI perception to dynamic action comprehension. This capability enables models to convert visual state transitions into operati...",
     "category": "research",
-    "id": 23
+    "id": 27
   },
   {
     "title": "GeoNatureAgent Benchmark: Benchmarking LLM Agents for Environmental Geospatial Analysis Across Frontier and Open-Weight Foundation Models",
@@ -216,7 +255,7 @@
     "date": "2026-06-12",
     "summary": "Environmental scientists spend disproportionate effort on data wrangling rather than analysis, and AI agents that automate geospatial workflows remain unvalidated: no benchmark evaluates agents operat...",
     "category": "models",
-    "id": 24
+    "id": 28
   },
   {
     "title": "Topical Phase Transitions in Artificial Intelligence Research: Large-Scale Evidence and an Early-Warning Signature for Emerging Topics",
@@ -225,7 +264,7 @@
     "date": "2026-06-12",
     "summary": "Do research topics in artificial intelligence grow gradually, or do they advance through abrupt, detectable jumps? Analyzing 80,814 accepted main-track papers from five premier AI conferences (ACL, CV...",
     "category": "models",
-    "id": 25
+    "id": 29
   },
   {
     "title": "Fantastic Scientific Agents and How to Build Them: AgentBuild for Rietveld Refinement",
@@ -234,7 +273,7 @@
     "date": "2026-06-12",
     "summary": "As scientific workflows shift from deterministic executables to LLM-based agents, the development practices on offer, such as fine-tuning, reinforcement learning, and prompt-and-go, bury the scientist...",
     "category": "models",
-    "id": 26
+    "id": 30
   },
   {
     "title": "(Human) Attention Is (Still) All You Need: Human oversight makes AI-assisted social science reliable",
@@ -243,7 +282,7 @@
     "date": "2026-06-12",
     "summary": "Large language models (LLMs) are increasingly used for tasks once reserved for trained researchers, including hypothesis generation, specification choice, and drafting conclusions. We argue that the r...",
     "category": "research",
-    "id": 27
+    "id": 31
   },
   {
     "title": "WISE: A Long-Horizon Agent in Minecraft with Why-Which Reasoning",
@@ -252,7 +291,7 @@
     "date": "2026-06-12",
     "summary": "Rapid advances have been made in developing general-purpose embodied agent in environments like Minecraft through the adoption of LLM-augmented hierarchical approaches. Despite their promise, low-leve...",
     "category": "tools",
-    "id": 28
+    "id": 32
   },
   {
     "title": "DailyReport: An Open-ended Benchmark for Evaluating Search Agents on Daily Search Tasks",
@@ -261,7 +300,7 @@
     "date": "2026-06-12",
     "summary": "Search Agents (SAs) typically leverage large language models (LLMs) to support complex information-seeking tasks by autonomously exploring web sources and synthesizing information into comprehensive r...",
     "category": "research",
-    "id": 29
+    "id": 33
   },
   {
     "title": "HarnessBridge: Learnable Bidirectional Controller for LLM Agent Harness",
@@ -270,7 +309,7 @@
     "date": "2026-06-12",
     "summary": "Large language models are increasingly deployed as agents for long-horizon tasks, yet their performance is shaped not only by model capability and environment design, but also by the harness that medi...",
     "category": "models",
-    "id": 30
+    "id": 34
   },
   {
     "title": "The Hidden Power of Scaling Factor in LoRA Optimization",
@@ -279,7 +318,7 @@
     "date": "2026-06-12",
     "summary": "In Low-Rank Adaptation (LoRA), the scaling factor $\\alpha$ is often treated as a mere complement to the learning rate, yet its role in optimization remains poorly understood. In this paper, we reveal ...",
     "category": "research",
-    "id": 31
+    "id": 35
   },
   {
     "title": "Zero-source LLM Hallucination Detection with Human-like Criteria Probing",
@@ -288,7 +327,7 @@
     "date": "2026-06-12",
     "summary": "Large language models (LLMs) often hallucinate by generating factually incorrect or unfaithful content, posing significant risks to their safe use. Detecting such hallucinations is particularly challe...",
     "category": "research",
-    "id": 32
+    "id": 36
   },
   {
     "title": "MDForge: Agentic Molecular Dynamics Pipeline Design under Sparse Simulator Feedback",
@@ -297,7 +336,7 @@
     "date": "2026-06-12",
     "summary": "Molecular dynamics (MD) is the canonical in-silico method for atomistic molecular science, simulating molecular behavior from first-principle physics. Designing an MD pipeline for a new system require...",
     "category": "models",
-    "id": 33
+    "id": 37
   },
   {
     "title": "Iterating Toward Better Search: A Two-Agent Simulation Framework for Evaluating Agentic Search Architectures in E-Commerce",
@@ -306,7 +345,7 @@
     "date": "2026-06-12",
     "summary": "We present a modular two-agent simulation framework for evaluating conversational shopping assistant architectures. An independent buyer agent, configured with personas, missions, and patience levels,...",
     "category": "models",
-    "id": 34
+    "id": 38
   },
   {
     "title": "MARS: Margin-Adversarial Risk-controlled Stopping for Parallel LLM Test-time Scaling",
@@ -315,7 +354,7 @@
     "date": "2026-06-12",
     "summary": "Parallel test-time scaling samples many reasoning traces and majority-votes their answers, improving LLM accuracy but requiring traces to run to completion, incurring substantial computational overhea...",
     "category": "models",
-    "id": 35
+    "id": 39
   },
   {
     "title": "PRISMR: Overcoming Parse Collapse in Multimodal Listwise Ranking via Parameterized Representation Internalization",
@@ -324,7 +363,7 @@
     "date": "2026-06-12",
     "summary": "Generative listwise ranking with Large Multimodal Models (LMMs) aims to capture global list context in a single forward pass, but its effectiveness degrades in long-context multimodal scenarios. We id...",
     "category": "models",
-    "id": 36
+    "id": 40
   },
   {
     "title": "Learning What to Remember: A Cognitively Grounded Multi-Factor Value Model for Agentic Memory",
@@ -333,7 +372,7 @@
     "date": "2026-06-12",
     "summary": "Long-running LLM agents accumulate interaction histories far larger than any context window, forcing a standing decision: what to encode deeply, what to forget, and what to retrieve under a fixed memo...",
     "category": "models",
-    "id": 37
+    "id": 41
   },
   {
     "title": "OpenMedQ: Broad Open Pretraining for Medical Vision-Language Models",
@@ -342,7 +381,7 @@
     "date": "2026-06-12",
     "summary": "We present OpenMedQ, a medical vision-language model pretrained on the broadest fully-open medical mix to date: 14 datasets totaling ~3.35M pretraining samples spanning pathology, radiology, microscop...",
     "category": "models",
-    "id": 38
+    "id": 42
   },
   {
     "title": "Multi-Modal Agents for Power Distribution Defect Detection: An Evaluation of Foundation Models",
@@ -351,7 +390,7 @@
     "date": "2026-06-12",
     "summary": "The power distribution network is critical to reliable electricity delivery, yet traditional inspection methods face limitations in semantic understanding, generalization, and closed-loop automation. ...",
     "category": "research",
-    "id": 39
+    "id": 43
   },
   {
     "title": "A Mathematical Forum Platform for Collaborative Problem Solving and Dataset Generation for AI Reasoning",
@@ -360,7 +399,7 @@
     "date": "2026-06-12",
     "summary": "Sharing mathematical content in online forums remains a significant friction point for students and educators: writing raw LATEX is error-prone, standalone optical character recognition tools require ...",
     "category": "research",
-    "id": 40
+    "id": 44
   },
   {
     "title": "Structured Testbench Generation for LLM-Driven HDL Design and Verification-Oriented Data Curation",
@@ -369,7 +408,7 @@
     "date": "2026-06-12",
     "summary": "Automated testbench generation has become a critical bottleneck in large language model (LLM)-driven Register Transfer Level (RTL) workflows, where large numbers of candidate designs must be verified ...",
     "category": "research",
-    "id": 41
+    "id": 45
   },
   {
     "title": "APCyc: Property-Informed Design of Cyclic Peptides via Automated Cyclization",
@@ -378,7 +417,7 @@
     "date": "2026-06-12",
     "summary": "Cyclic peptides represent a promising class of therapeutic compounds in modern drug discovery, often offering improved stability and binding affinity. However, the de novo design of cyclic peptides re...",
     "category": "research",
-    "id": 42
+    "id": 46
   },
   {
     "title": "The Illusion of Multi-Agent Advantage",
@@ -387,7 +426,7 @@
     "date": "2026-06-12",
     "summary": "Prevailing wisdom posits that Multi-Agent Systems (MAS) are superior to Single-Agent Systems (SAS), citing advantages like context protection, parallel processing and distributed decision-making. Howe...",
     "category": "research",
-    "id": 43
+    "id": 47
   },
   {
     "title": "Otters++: A Time-to-first-spike Based Energy Efficient Optical Spiking Transformer",
@@ -396,7 +435,7 @@
     "date": "2026-06-12",
     "summary": "Spiking neural networks (SNNs) are promising for energy-efficient inference, and time-to-first-spike (TTFS) coding is especially attractive because each neuron fires at most once. In practice, however...",
     "category": "research",
-    "id": 44
+    "id": 48
   },
   {
     "title": "SciR: A Controllable Benchmark for Scientific Reasoning in LLMs",
@@ -405,7 +444,7 @@
     "date": "2026-06-12",
     "summary": "Three paradigmatic forms of inference recur across scientific reasoning: deduction, induction, and causal abduction. Reliably evaluating LLMs on these in scientific settings is currently out of reach:...",
     "category": "models",
-    "id": 45
+    "id": 49
   },
   {
     "title": "Nous: An Attempt to Extract and Inject the Cognition Behind Prediction-Market Behavior",
@@ -413,42 +452,6 @@
     "source": "arXiv cs.AI",
     "date": "2026-06-12",
     "summary": "As LLM agents proliferate in prediction markets and collective decision-making, they risk a cognitive monoculture: agents built on shared foundation models produce correlated forecasts, and recent mea...",
-    "category": "models",
-    "id": 46
-  },
-  {
-    "title": "Augmentation techniques for video surveillance in the visible and thermal spectral range",
-    "url": "https://arxiv.org/abs/2606.13042",
-    "source": "arXiv cs.AI",
-    "date": "2026-06-12",
-    "summary": "In intelligent video surveillance, cameras record image sequences during day and night. Commonly, this demands different sensors. To achieve a better performance it is not unusual to combine them. We ...",
-    "category": "hardware",
-    "id": 47
-  },
-  {
-    "title": "AAbAAC: An Annotated Corpus for Autoimmunity Information Extraction",
-    "url": "https://arxiv.org/abs/2606.13051",
-    "source": "arXiv cs.AI",
-    "date": "2026-06-12",
-    "summary": "Despite advances in information extraction driven by deep learning and large language models, performance gaps remain in highly specialized biomedical fields, where domainspecific complexity poses cha...",
-    "category": "models",
-    "id": 48
-  },
-  {
-    "title": "Rethinking RAG in Long Videos: What to Retrieve and How to Use It?",
-    "url": "https://arxiv.org/abs/2606.13141",
-    "source": "arXiv cs.AI",
-    "date": "2026-06-12",
-    "summary": "Retrieval-augmented generation is moving beyond text into long, egocentric video, where systems must select query-relevant chunks across multiple modalities and temporal granularities. Yet progress in...",
-    "category": "research",
-    "id": 49
-  },
-  {
-    "title": "TerraBench: Can Agents Reason Over Heterogeneous Earth-System Data?",
-    "url": "https://arxiv.org/abs/2606.13148",
-    "source": "arXiv cs.AI",
-    "date": "2026-06-12",
-    "summary": "Climate and environmental decision-making increasingly requires reasoning across heterogeneous inputs, including gridded physical data, satellite imagery, geospatial context, and simulator outputs. We...",
     "category": "models",
     "id": 50
   }
