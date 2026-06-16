@@ -1,12 +1,12 @@
 [
   {
-    "title": "HPE AI Factory With NVIDIA Expands for the Era of Agents",
-    "url": "https://blogs.nvidia.com/blog/hpe-ai-factory-agentic-enterprise/",
+    "title": "Hands Free, AIs Forward: NVIDIA XR AI Brings Agents to AR Glasses",
+    "url": "https://blogs.nvidia.com/blog/nvidia-xr-ai/",
     "source": "NVIDIA Blog",
     "date": "2026-06-16",
-    "summary": "Enterprises are moving agentic AI from proof of concept to production — and the next generation of AI factories are built for the era of agents. At HPE Discover Las Vegas, running through Thursday, Ju...",
-    "category": "hardware",
-    "image": "https://blogs.nvidia.com/wp-content/uploads/2026/06/logo-lockup-press-hpe-1600x900-4603000.png",
+    "summary": "NVIDIA XR AI is now available in public beta, giving developers a framework for building multimodal AI agents for AR glasses and XR devices.",
+    "category": "tools",
+    "image": "https://blogs.nvidia.com/wp-content/uploads/2026/06/NVIDIA-XR-AI_Featured-Image-Poster-Alt-scaled.png",
     "id": 1,
     "featured": true
   },
@@ -20,6 +20,26 @@
     "id": 2
   },
   {
+    "title": "Coherent Breaks Ground on Expanded Texas Facility, Scaling AI’s Optical Backbone",
+    "url": "https://blogs.nvidia.com/blog/coherent-texas-ai-optical/",
+    "source": "NVIDIA Blog",
+    "date": "2026-06-16",
+    "summary": "AI runs at the speed of light. More and more, that light is made in Texas. Coherent broke ground today on an expanded manufacturing building in Sherman, Texas. The company makes the lasers, optical co...",
+    "category": "hardware",
+    "image": "https://blogs.nvidia.com/wp-content/uploads/2026/06/26tx-coherent-factory-DEB30838-DL-edit-1-scaled.jpg",
+    "id": 3
+  },
+  {
+    "title": "HPE AI Factory With NVIDIA Expands for the Era of Agents",
+    "url": "https://blogs.nvidia.com/blog/hpe-ai-factory-agentic-enterprise/",
+    "source": "NVIDIA Blog",
+    "date": "2026-06-16",
+    "summary": "Enterprises are moving agentic AI from proof of concept to production — and the next generation of AI factories are built for the era of agents. At HPE Discover Las Vegas, running through Thursday, Ju...",
+    "category": "hardware",
+    "image": "https://blogs.nvidia.com/wp-content/uploads/2026/06/logo-lockup-press-hpe-1600x900-4603000.png",
+    "id": 4
+  },
+  {
     "title": "Fastest, Largest, Strongest: NVIDIA Blackwell Sweeps MLPerf Training 6.0",
     "url": "https://blogs.nvidia.com/blog/blackwell-mlperf-training-6-0/",
     "source": "NVIDIA Blog",
@@ -27,7 +47,7 @@
     "summary": "Every breakthrough AI model starts the same way: with a training run. The infrastructure running those training jobs shapes everything: how fast teams can iterate, what scale of model they can build a...",
     "category": "hardware",
     "image": "https://blogs.nvidia.com/wp-content/uploads/2026/06/end-to-end-corp-blog-best-models-trained-1280x680-4660123.jpg",
-    "id": 3
+    "id": 5
   },
   {
     "title": "Critical Copilot vulnerability allowed hackers to steal 2FA code from users",
@@ -37,7 +57,7 @@
     "summary": "SearchLeak exploit shows why the industry's approach to LLM security fails over and over.",
     "category": "models",
     "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/06/GettyImages-2242817595-1152x648.jpg",
-    "id": 4
+    "id": 6
   },
   {
     "title": "Dell's $699 XPS 13 laptop is now available with the MacBook Neo in its sights — entry-level XPS design comes with Wildcat Lake, 8GB of RAM, and a 512GB SSD",
@@ -47,7 +67,7 @@
     "summary": "Dell's $699 XPS 13 laptop ($599 for students) has the MacBook Neo in its sights, and it's now available sporting one of Intel's new entry-level Wildcat Lake CPUs.",
     "category": "hardware",
     "image": "https://cdn.mos.cms.futurecdn.net/QCiW7koqJMqH7mtFgMteAo-1280-80.jpg",
-    "id": 5
+    "id": 7
   },
   {
     "title": "'The retail SSD market has almost disappeared,' says Silicon Motion exec — PC OEMs are buying third-party drives as direct NAND supply dries up",
@@ -57,7 +77,7 @@
     "summary": "Vice president of client storage solutions at Silicon Motion warns that the retail SSD market has almost disappeared as NAND makers prioritize shipments of memory to AI data centers.",
     "category": "hardware",
     "image": "https://cdn.mos.cms.futurecdn.net/w6pZv8RcysP7Syf9sQYFvQ-1280-80.jpg",
-    "id": 6
+    "id": 8
   },
   {
     "title": "Chinese fab SMIC's 7nm metal pitch beats Intel 18A but lags 38% on density, teardown finds — Huawei's sanctions-beating HiSilicon Kirin 9030 is the first subject of SemiAnalysis's new teardown lab",
@@ -67,7 +87,7 @@
     "summary": "SemiAnalysis has published the first teardown from its new in-house lab, focusing on the minimum local metal pitch on SMIC’s third-gen 7nm at 32.5nm.",
     "category": "hardware",
     "image": "https://cdn.mos.cms.futurecdn.net/dCrM2j7xpNLNc3Wa2G2Vka-1280-80.jpg",
-    "id": 7
+    "id": 9
   },
   {
     "title": "SMI's PCIe 6.0 SSD controller for consumer SSDs coming next year, but severe NAND shortages will get even worse in 2027 as AI data centers swallow supply — An interview with Silicon Motion's SVP Nelson Duann",
@@ -77,7 +97,7 @@
     "summary": "Silicon Motion's Nelson Duann discusses NAND supply crisis in the consumer SSD market and the future of consumer storage.",
     "category": "hardware",
     "image": "https://cdn.mos.cms.futurecdn.net/Supp5y35ETsCpZUN5XgUhH-1280-80.jpg",
-    "id": 8
+    "id": 10
   },
   {
     "title": "MSI MPG Coreliquid P22 360 Review: Low noise, strong performance, budget price",
@@ -87,7 +107,7 @@
     "summary": "The MSI MPG Coreliquid P22 360 is a new AIO with a low price tag, strong thermal performance, and a 2.1-inch IPS display. We’ve tested this liquid cooler paired with AMD’s Ryzen 9 9950X3D CPU to bench...",
     "category": "hardware",
     "image": "https://cdn.mos.cms.futurecdn.net/xE8eb8U2Kg2FuhxHDGSuWG-1280-80.jpg",
-    "id": 9
+    "id": 11
   },
   {
     "title": "Microsoft debuts Surface Pro and Surface Laptop with new jade green color and  Qualcomm Snapdragon X2 chips — refreshed devices start at $1,499 with 16GB of RAM",
@@ -97,7 +117,7 @@
     "summary": "Microsoft is updating the Surface Pro and Surface Laptop using the latest Qualcomm Snapdragon X2 chips, along with haptic feedback on the Laptop's touchpad and a new jade color.",
     "category": "hardware",
     "image": "https://cdn.mos.cms.futurecdn.net/rcwroA5t72ewCkNY3M6ach-1280-80.jpg",
-    "id": 10
+    "id": 12
   },
   {
     "title": "Qualcomm mulls taking over Jim Keller's Tenstorrent, report claims — deal for AI chipmaker would value the company at between $8 billion and $10 billion",
@@ -107,7 +127,7 @@
     "summary": "Qualcomm is in talks to buy RISC-V-based AI accelerator and CPU developer Tenstorrent for $8 billion - $10 billion.",
     "category": "hardware",
     "image": "https://cdn.mos.cms.futurecdn.net/9MoRxgJRyxdnL6Lmz2ARc9-1280-80.png",
-    "id": 11
+    "id": 13
   },
   {
     "title": "Intel's one-two punch plan in desktop CPUs is taking shape — Z990 spotted, Nova Lake detailed, ‘Raptor Lake Next’ teased",
@@ -117,7 +137,7 @@
     "summary": "Intel’s next-gen desktop plans are starting to take shape, and Computex entertained a lot of murmurs about what’s coming from Team Blue over the next year at the event.",
     "category": "hardware",
     "image": "https://cdn.mos.cms.futurecdn.net/aty8ui26PjyELNJUhWHoha-1280-80.jpg",
-    "id": 12
+    "id": 14
   },
   {
     "title": "Get an RTX 5090 gaming laptop for less than $3,000 — Acer's 16-inch Predator with 2TB of storage and 32GB of RAM is now $500 off",
@@ -127,7 +147,7 @@
     "summary": "Save $500 on a super-powerful 16-inch gaming laptop with RTX 5090 graphics and a 240Hz OLED screen. Acer's Predator Helios AI falls to just $2,999.",
     "category": "research",
     "image": "https://cdn.mos.cms.futurecdn.net/9sP6epcCB6thiY9bXTbo3f-1280-80.jpg",
-    "id": 13
+    "id": 15
   },
   {
     "title": "AMD’s massive SP7 socket for EPYC Venice and Intel’s gargantuan 9,324-pin socket for Diamond Rapids appear at Computex — SP7 and LGA9324-1 sockets will power the next generation of AI servers",
@@ -137,7 +157,7 @@
     "summary": "Next-generation data center processors from AMD and Intel with 16 DDR5 memory channels are even bigger than today’s designs.",
     "category": "hardware",
     "image": "https://cdn.mos.cms.futurecdn.net/v3UbQnpH5iP9UiLFEt976W-1280-80.jpg",
-    "id": 14
+    "id": 16
   },
   {
     "title": "TSMC says panel packaging won't replace CoWoS anytime soon for the largest future AI processors — wafer-level tech can scale to 58 massive dies in one package",
@@ -147,7 +167,7 @@
     "summary": "TSMC is exploring panel-level packaging and is working on its CoPoS technology, but the company's Kevin Zhang says wafer-level packaging technologies is considerably more advanced than panel-level pac...",
     "category": "hardware",
     "image": "https://cdn.mos.cms.futurecdn.net/LJL9WwiYqqCNroPwUYNwNA-1280-80.jpg",
-    "id": 15
+    "id": 17
   },
   {
     "title": "Intel's long-lost data center prototype 'Arctic Sound' Xe-HP multi-tile GPU surfaces in new engineering sample — Company's cancelled AI processor features 32GB of HBM2E",
@@ -157,7 +177,7 @@
     "summary": "Intel's cancelled \"Arctic Sound\" AI GPU based on the original Xe-HP architecture has been pictured sporting two tiles and 32GB of HBM2E.",
     "category": "hardware",
     "image": "https://cdn.mos.cms.futurecdn.net/uCLnFQBbnt3kUvQ6L6rAxf-1280-80.jpg",
-    "id": 16
+    "id": 18
   },
   {
     "title": "Project Jupiter AI data center build raises concerns about water usage in rural New Mexico desert — Oracle calls water usage 'negligible' for 11 million gallon one-time fill",
@@ -167,7 +187,7 @@
     "summary": "Oracle's Project Jupiter is targeting a New Mexico desert already struggling with water consumption, but the company assures residents that the data center's water usage is \"negligible.\"",
     "category": "hardware",
     "image": "https://cdn.mos.cms.futurecdn.net/Quvj7AHZJZm6vA3FWa5DKZ-1280-80.jpg",
-    "id": 17
+    "id": 19
   },
   {
     "title": "Enthusiast hacks Valve’s AMD-first gaming OS to run on Intel hardware — SteamOS boots on Intel Arc B580 desktop GPU, but it takes a Radeon card, installer workaround, and Resizable BAR fix",
@@ -177,7 +197,17 @@
     "summary": "A Reddit user has shown SteamOS running on an Intel Arc B580 desktop GPU, but the early proof of concept required a Radeon-assisted install workaround and Resizable BAR to recover performance.",
     "category": "hardware",
     "image": "https://cdn.mos.cms.futurecdn.net/B6THDSkbQmcwqisC8cHQof-1280-80.jpg",
-    "id": 18
+    "id": 20
+  },
+  {
+    "title": "Anthropic’s latest feud with the Trump admin may actually help it, sales data suggests",
+    "url": "https://techcrunch.com/2026/06/16/anthropics-latest-feud-with-the-trump-admin-may-actually-help-it-sales-data-suggests/",
+    "source": "TechCrunch",
+    "date": "2026-06-16",
+    "summary": "Anthropic's popularity with business users is growing so well that the latest beef with the government might actually boost it, data from Ramp suggests.",
+    "category": "industry",
+    "image": "https://techcrunch.com/wp-content/uploads/2026/03/Dario-Amodei-Anthropic-viva-tech.jpg?w=1024",
+    "id": 21
   },
   {
     "title": "Android 17 launches with new multitasking tools as Google expands Gemini features",
@@ -187,7 +217,7 @@
     "summary": "Google has released Android 17 and Wear OS 7, introducing new multitasking features, parental controls, security tools, and smartwatch upgrades. The launch is also accompanied by a Pixel Drop that bri...",
     "category": "models",
     "image": "https://techcrunch.com/wp-content/uploads/2026/06/gemini-app-GettyImages-2276204472.jpg?w=1024",
-    "id": 19
+    "id": 22
   },
   {
     "title": "Sixty percent of US consumers say ‘AI’ in brand messaging is a turnoff, survey finds",
@@ -197,7 +227,7 @@
     "summary": "WordPress VIP’s latest survey suggests consumers are wary of AI-generated answers even as companies increasingly view AI search as an important referral channel.",
     "category": "industry",
     "image": "https://techcrunch.com/wp-content/uploads/2024/09/wordpress-v1.jpg?resize=1200,675",
-    "id": 20
+    "id": 23
   },
   {
     "title": "SpaceX is public: Everything you need to know post-IPO",
@@ -207,7 +237,7 @@
     "summary": "TechCrunch has followed SpaceX's start, struggles, and successes from the early days. And we're here for what happens next too. This package of SpaceX IPO coverage includes who stands to win (and mayb...",
     "category": "research",
     "image": "https://techcrunch.com/wp-content/uploads/2026/06/elon-nasdaq-spacex-ipo.jpg?resize=1200,801",
-    "id": 21
+    "id": 24
   },
   {
     "title": "Plaud says its software business topped $100M in ARR after shipping over 2M AI notetakers",
@@ -217,7 +247,7 @@
     "summary": "Plaud is trying to make a mark in a crowded market full of AI-powered meeting notetakers.",
     "category": "industry",
     "image": "https://techcrunch.com/wp-content/uploads/2025/08/SilverBlack-Plaud-Note-Pro.jpeg?resize=1200,675",
-    "id": 22
+    "id": 25
   },
   {
     "title": "Robinhood’s note on 10% layoffs shows blaming AI isn’t cutting it",
@@ -227,7 +257,7 @@
     "summary": "Unlike many of his tech industry peers who have cut thousands of jobs citing the need to restructure to make the most of AI, Robinhood's CEO Vlad Tenev conspicuously made no mention of AI in his note ...",
     "category": "industry",
     "image": "https://techcrunch.com/wp-content/uploads/2021/01/robinhood-volatility.jpg?resize=1200,675",
-    "id": 23
+    "id": 26
   },
   {
     "title": "Probably raises $9M to build a more reliable kind of AI",
@@ -237,7 +267,7 @@
     "summary": "Probably wants to prevent hallucinations and factual errors from reaching users, and achieve accuracy on par with deterministic systems.",
     "category": "research",
     "image": "https://techcrunch.com/wp-content/uploads/2026/06/probably-peter-elias.png?resize=1200,800",
-    "id": 24
+    "id": 27
   },
   {
     "title": "SpaceX to acquire Cursor for $60B in stock, days after blockbuster IPO",
@@ -247,7 +277,7 @@
     "summary": "The deal is supposed to help SpaceX's struggling AI division. The company told IPO investors it sees a $26 trillion addressable market in AI.",
     "category": "industry",
     "image": "https://techcrunch.com/wp-content/uploads/2026/06/elon-nasdaq-spacex-ipo.jpg?resize=1200,801",
-    "id": 25
+    "id": 28
   },
   {
     "title": "ChatGPT’s market share slips below 50% for first time",
@@ -257,7 +287,7 @@
     "summary": "The chatbot still remains the most popular AI assistant worldwide with over 1.1 billion monthly users, followed by Gemini with 662 million and Claude with 245 million.",
     "category": "models",
     "image": "https://techcrunch.com/wp-content/uploads/2025/04/GettyImages-2205105208.jpg?resize=1200,800",
-    "id": 26
+    "id": 29
   },
   {
     "title": "Malaysia’s AI agent-powered messaging app Respond.io raises $62.5M, eyes acquisitions",
@@ -267,7 +297,113 @@
     "summary": "Respond.io, one of Malaysia's startups to watch, uses AI agents to handle high volumes of customer inquiries and charges per convo, not per seat.",
     "category": "industry",
     "image": "https://techcrunch.com/wp-content/uploads/2026/06/respond-team-comp-2.webp?resize=1200,800",
-    "id": 27
+    "id": 30
+  },
+  {
+    "title": "Transfigure αLPHA is live – Yes, moar AI CAD",
+    "url": "http://xfgr.ai",
+    "source": "Hacker News",
+    "date": "2026-06-16",
+    "summary": "Article URL: http://xfgr.ai Comments URL: https://news.ycombinator.com/item?id=48563217 Points: 1 # Comments: 1",
+    "category": "industry",
+    "image": "https://www.xfgr.ai/image4.png",
+    "id": 31
+  },
+  {
+    "title": "Native Coding Agent Optimized for Local LLM and DeepSeek v4 with Vector Memory",
+    "url": "https://code.intellios.ai",
+    "source": "Hacker News",
+    "date": "2026-06-16",
+    "summary": "Article URL: https://code.intellios.ai Comments URL: https://news.ycombinator.com/item?id=48563214 Points: 1 # Comments: 0",
+    "category": "models",
+    "id": 32
+  },
+  {
+    "title": "Show HN: The Ruby AI Newsletter",
+    "url": "https://rubyai.beehiiv.com/p/ruby-ai-news-june-16th-2026",
+    "source": "Hacker News",
+    "date": "2026-06-16",
+    "summary": "Now on its 32nd edition, the Ruby AI Newsletter tracks what’s happening at the intersection of Ruby, Rails, and AI coding agents. YC recommends Rails for new startups, YC’s internal software like Book...",
+    "category": "hardware",
+    "image": "https://beehiiv-images-production.s3.amazonaws.com/uploads/asset/file/352af750-9f60-499b-8791-8cd65add9ddc/ChatGPT_Image_Jun_16__2026__03_39_39_AM.png?t=1781595638",
+    "id": 33
+  },
+  {
+    "title": "Tokdiet a local proxy that cuts LLM token spend ~70% without quality loss",
+    "url": "https://github.com/agiwhitelist/tokdiet",
+    "source": "Hacker News",
+    "date": "2026-06-16",
+    "summary": "Article URL: https://github.com/agiwhitelist/tokdiet Comments URL: https://news.ycombinator.com/item?id=48563156 Points: 1 # Comments: 1",
+    "category": "models",
+    "image": "https://opengraph.githubassets.com/1e59dddb0a99e02ab0160cb6d7ae0a376ed6d20417d2a5e8d5190dbd1fd25b27/agiwhitelist/tokdiet",
+    "id": 34
+  },
+  {
+    "title": "Andrew Ng ships Open CoWorker desktop AI agent",
+    "url": "https://github.com/andrewyng/aisuite",
+    "source": "Hacker News",
+    "date": "2026-06-16",
+    "summary": "Article URL: https://github.com/andrewyng/aisuite Comments URL: https://news.ycombinator.com/item?id=48562975 Points: 4 # Comments: 1",
+    "category": "industry",
+    "image": "https://opengraph.githubassets.com/c0758b622459dd9043de2b61067678ba7a996c9813a35cb5af9b8a9c41022ad7/andrewyng/aisuite",
+    "id": 35
+  },
+  {
+    "title": "Python dev saved from disaster by intuition...and AI",
+    "url": "https://www.theregister.com/ai-and-ml/2026/06/16/python-dev-saved-from-disaster-by-intuitionand-ai/5256632",
+    "source": "Hacker News",
+    "date": "2026-06-16",
+    "summary": "Article URL: https://www.theregister.com/ai-and-ml/2026/06/16/python-dev-saved-from-disaster-by-intuitionand-ai/5256632 Comments URL: https://news.ycombinator.com/item?id=48562954 Points: 2 # Comments...",
+    "category": "industry",
+    "image": "https://image.theregister.com/1683298.jpg?imageId=1683298&x=0&y=0&cropw=100&croph=100&panox=0&panoy=0&panow=100&panoh=100&width=1200&height=683",
+    "id": 36
+  },
+  {
+    "title": "General-purpose large language models outperform specialized clinical AI tools",
+    "url": "https://www.nature.com/articles/s41591-026-04431-5",
+    "source": "Hacker News",
+    "date": "2026-06-16",
+    "summary": "Article URL: https://www.nature.com/articles/s41591-026-04431-5 Comments URL: https://news.ycombinator.com/item?id=48562749 Points: 4 # Comments: 0",
+    "category": "models",
+    "id": 37
+  },
+  {
+    "title": "Show HN: PromptShark – MitM proxy, C++ loop detector and replay for AI agents",
+    "url": "https://github.com/apvcode/PromptShark",
+    "source": "Hacker News",
+    "date": "2026-06-16",
+    "summary": "Article URL: https://github.com/apvcode/PromptShark Comments URL: https://news.ycombinator.com/item?id=48562707 Points: 1 # Comments: 0",
+    "category": "industry",
+    "image": "https://opengraph.githubassets.com/76d2e9b35d03b7ef4cd1ff869f20564032376189f88e76ed4e8e12530c994d50/apvcode/PromptShark",
+    "id": 38
+  },
+  {
+    "title": "I built a fail-closed execution gate for AI agents",
+    "url": "https://kronyqldemo.netlify.app/demo/ase-proof",
+    "source": "Hacker News",
+    "date": "2026-06-16",
+    "summary": "Article URL: https://kronyqldemo.netlify.app/demo/ase-proof Comments URL: https://news.ycombinator.com/item?id=48562293 Points: 1 # Comments: 0",
+    "category": "industry",
+    "id": 39
+  },
+  {
+    "title": "Qode – The first AI agent that can generate 50k line codebases in one prompt",
+    "url": "https://github.com/akshaylakkur/Q",
+    "source": "Hacker News",
+    "date": "2026-06-16",
+    "summary": "Article URL: https://github.com/akshaylakkur/Q Comments URL: https://news.ycombinator.com/item?id=48562253 Points: 1 # Comments: 2",
+    "category": "industry",
+    "image": "https://opengraph.githubassets.com/7a5cd9217ca3878a43f7c65cd1dae40f8a10d8877955d77e6074977483cb9b71/akshaylakkur/Q",
+    "id": 40
+  },
+  {
+    "title": "Guardrails for Reuse in AI from ClimateSOS Foundational Charter",
+    "url": "https://news.ycombinator.com/item?id=48562178",
+    "source": "Hacker News",
+    "date": "2026-06-16",
+    "summary": "Discuss: https://github.com/hsbay/ClimateSOS/blob/main/docs/foundationalcharter.md I wrote this as part of ClimateSOS, an open-source project for inspecting net-zero transition pathways. The Charter i...",
+    "category": "models",
+    "id": 41
   },
   {
     "title": "Use AI without compromising data security or privacy",
@@ -276,7 +412,7 @@
     "date": "2026-06-16",
     "summary": "Article URL: https://www.privatemode.ai/ Comments URL: https://news.ycombinator.com/item?id=48561896 Points: 1 # Comments: 0",
     "category": "industry",
-    "id": 28
+    "id": 42
   },
   {
     "title": "SAMF- Deterministic Moscow guardrails for LLM multi-agent loops",
@@ -286,16 +422,16 @@
     "summary": "Article URL: https://github.com/NanoPrompt/samf-framework Comments URL: https://news.ycombinator.com/item?id=48561613 Points: 1 # Comments: 0",
     "category": "models",
     "image": "https://opengraph.githubassets.com/d2a885b2276a3d2d336a448c2215f31d51b9eeaeeb418bad8de5fd1500a3d874/NanoPrompt/samf-framework",
-    "id": 29
+    "id": 43
   },
   {
     "title": "Did AI write this article?",
     "url": "https://www.economist.com/graphic-detail/2026/06/16/did-ai-write-this-article",
     "source": "Hacker News",
     "date": "2026-06-16",
-    "summary": "Article URL: https://www.economist.com/graphic-detail/2026/06/16/did-ai-write-this-article Comments URL: https://news.ycombinator.com/item?id=48561511 Points: 2 # Comments: 2",
+    "summary": "Article URL: https://www.economist.com/graphic-detail/2026/06/16/did-ai-write-this-article Comments URL: https://news.ycombinator.com/item?id=48561511 Points: 3 # Comments: 2",
     "category": "industry",
-    "id": 30
+    "id": 44
   },
   {
     "title": "Lexar Wants to Offload Local AI Models to SSD Amid the RAMpocalypse",
@@ -305,7 +441,7 @@
     "summary": "Article URL: https://www.techpowerup.com/350009/lexar-wants-to-offload-local-ai-models-to-ssd-amid-the-rampocalypse Comments URL: https://news.ycombinator.com/item?id=48561278 Points: 3 # Comments: 2",
     "category": "industry",
     "image": "https://www.techpowerup.com/img/RmqTaRzfxqqqY3BF.jpg",
-    "id": 31
+    "id": 45
   },
   {
     "title": "Optimizing a C collision detection 100x with an LLM",
@@ -314,28 +450,27 @@
     "date": "2026-06-16",
     "summary": "Article URL: https://twitter.com/mike_acton/status/2066778535902298405 Comments URL: https://news.ycombinator.com/item?id=48561089 Points: 1 # Comments: 0",
     "category": "models",
-    "image": "https://pbs.twimg.com/profile_images/2787582218/bd05b74f56c9d20fac9ca8bcecb43323_200x200.png",
-    "id": 32
+    "id": 46
   },
   {
     "title": "Show HN: I'm 15, built an AI that watches your screen and acts before you ask",
     "url": "https://github.com/Helmus101/weave",
     "source": "Hacker News",
     "date": "2026-06-16",
-    "summary": "Can I have some feedback? Comments URL: https://news.ycombinator.com/item?id=48561017 Points: 2 # Comments: 0",
+    "summary": "Can I have some feedback? Comments URL: https://news.ycombinator.com/item?id=48561017 Points: 5 # Comments: 1",
     "category": "industry",
     "image": "https://opengraph.githubassets.com/7bfa2a5e42595fb42396096b749ab803116a0f262ef986889702374a3de5c4c9/Helmus101/weave",
-    "id": 33
+    "id": 47
   },
   {
     "title": "AI is potentially a Dunning-Kruger effect amplifier",
     "url": "https://twitter.com/i/status/2066825204207091926",
     "source": "Hacker News",
     "date": "2026-06-16",
-    "summary": "Article URL: https://twitter.com/i/status/2066825204207091926 Comments URL: https://news.ycombinator.com/item?id=48560913 Points: 25 # Comments: 5",
+    "summary": "Article URL: https://twitter.com/i/status/2066825204207091926 Comments URL: https://news.ycombinator.com/item?id=48560913 Points: 41 # Comments: 15",
     "category": "industry",
     "image": "https://pbs.twimg.com/profile_images/1364645619705511936/IGTT_tnL_200x200.jpg",
-    "id": 34
+    "id": 48
   },
   {
     "title": "We built an agent that runs our AI data platform",
@@ -345,113 +480,7 @@
     "summary": "Article URL: https://encord.com/blog/merlin-encord-mcp-agentic-intelligence/ Comments URL: https://news.ycombinator.com/item?id=48560889 Points: 6 # Comments: 0",
     "category": "hardware",
     "image": "https://images.prismic.io/encord/ajFt1Y1P9HI4UlKJ_image-3-.avif?auto=format%2Ccompress&fit=max",
-    "id": 35
-  },
-  {
-    "title": "Tyler Cowen: A Dangerous Turn in AI Regulation",
-    "url": "https://www.thefp.com/p/tyler-cowen-a-dangerous-turn-in-ai",
-    "source": "Hacker News",
-    "date": "2026-06-16",
-    "summary": "Article URL: https://www.thefp.com/p/tyler-cowen-a-dangerous-turn-in-ai Comments URL: https://news.ycombinator.com/item?id=48560807 Points: 1 # Comments: 0",
-    "category": "industry",
-    "image": "https://substackcdn.com/image/fetch/$s_!NGkP!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fd072d7e5-535f-49b0-982c-1c11b8e45802_2470x1389.jpeg",
-    "id": 36
-  },
-  {
-    "title": "AI Consciousness:The Delusionals and the Philosopher's Bench",
-    "url": "https://www.avidfayaz.com/writings/delusionals/the-delusionals-and-the-philosophers-bench",
-    "source": "Hacker News",
-    "date": "2026-06-16",
-    "summary": "Article URL: https://www.avidfayaz.com/writings/delusionals/the-delusionals-and-the-philosophers-bench Comments URL: https://news.ycombinator.com/item?id=48560752 Points: 8 # Comments: 1",
-    "category": "industry",
-    "image": "https://www.avidfayaz.com/og/delusionals.jpg",
-    "id": 37
-  },
-  {
-    "title": "Lutnick's Letter to Anthropic Warned of Curbs on Top AI Models",
-    "url": "https://www.bloomberg.com/news/articles/2026-06-16/lutnick-s-letter-to-anthropic-warned-of-curbs-on-top-ai-models",
-    "source": "Hacker News",
-    "date": "2026-06-16",
-    "summary": "Article URL: https://www.bloomberg.com/news/articles/2026-06-16/lutnick-s-letter-to-anthropic-warned-of-curbs-on-top-ai-models Comments URL: https://news.ycombinator.com/item?id=48560498 Points: 4 # C...",
-    "category": "industry",
-    "id": 38
-  },
-  {
-    "title": "Hillock – Local, brain-inspired AI memory using SQLite and HDC",
-    "url": "https://github.com/roandejager/Hillock",
-    "source": "Hacker News",
-    "date": "2026-06-16",
-    "summary": "Article URL: https://github.com/roandejager/Hillock Comments URL: https://news.ycombinator.com/item?id=48560483 Points: 1 # Comments: 1",
-    "category": "hardware",
-    "image": "https://opengraph.githubassets.com/9383089ac779e5727deca871e3e5ef51ea6cfc6617f2f584da64342470e8389a/roandejager/Hillock",
-    "id": 39
-  },
-  {
-    "title": "OpalAI Got Two NASA Contracts to Build AI for Wildfire Intelligence",
-    "url": "https://www.opal-ai.com",
-    "source": "Hacker News",
-    "date": "2026-06-16",
-    "summary": "Article URL: https://www.opal-ai.com Comments URL: https://news.ycombinator.com/item?id=48560372 Points: 3 # Comments: 0",
-    "category": "hardware",
-    "id": 40
-  },
-  {
-    "title": "Leviathan Waking – On Anthropic/USG, and a new era in AI governance",
-    "url": "https://www.hyperdimensional.co/p/leviathan-waking",
-    "source": "Hacker News",
-    "date": "2026-06-16",
-    "summary": "Article URL: https://www.hyperdimensional.co/p/leviathan-waking Comments URL: https://news.ycombinator.com/item?id=48560301 Points: 4 # Comments: 0",
-    "category": "industry",
-    "image": "https://substackcdn.com/image/fetch/$s_!kZjN!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F8f70956b-24b6-432b-81c4-dcfa4095ead7_1024x1024.png",
-    "id": 41
-  },
-  {
-    "title": "AI and brain-computer interface allow speechless ALS patient to work full-time",
-    "url": "https://www.theregister.com/science/2026/06/16/ai-and-brain-computer-interface-allow-speechless-als-patient-to-work-a-full-time-job/5256492",
-    "source": "Hacker News",
-    "date": "2026-06-16",
-    "summary": "Article URL: https://www.theregister.com/science/2026/06/16/ai-and-brain-computer-interface-allow-speechless-als-patient-to-work-a-full-time-job/5256492 Comments URL: https://news.ycombinator.com/item...",
-    "category": "industry",
-    "image": "https://image.theregister.com/5256515.jpg?imageId=5256515&x=0&y=0&cropw=100&croph=100&panox=0&panoy=0&panow=100&panoh=100&width=1200&height=683",
-    "id": 42
-  },
-  {
-    "title": "The Anthropic Fable saga proves: we have opened the AI Pandora's box. What now?",
-    "url": "https://www.theguardian.com/commentisfree/2026/jun/16/anthropic-fable-ai",
-    "source": "Hacker News",
-    "date": "2026-06-16",
-    "summary": "Article URL: https://www.theguardian.com/commentisfree/2026/jun/16/anthropic-fable-ai Comments URL: https://news.ycombinator.com/item?id=48560032 Points: 3 # Comments: 0",
-    "category": "industry",
-    "image": "https://i.guim.co.uk/img/media/28edf8430703ef36bd4b040dcaf655545b4d57fb/0_0_5033_4024/master/5033.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctb3BpbmlvbnMucG5n&enable=upscale&s=38775f03d84479981c3f30bc707548a2",
-    "id": 43
-  },
-  {
-    "title": "I took the le chaton fat AI model meme a step further by making a model",
-    "url": "https://github.com/princezuda/lechatonfat",
-    "source": "Hacker News",
-    "date": "2026-06-16",
-    "summary": "Article URL: https://github.com/princezuda/lechatonfat Comments URL: https://news.ycombinator.com/item?id=48560020 Points: 2 # Comments: 1",
-    "category": "industry",
-    "image": "https://opengraph.githubassets.com/548a01194585228f30dbe653fa149f8e24fcbd0998ed113a0d47c34c879289c4/princezuda/lechatonfat",
-    "id": 44
-  },
-  {
-    "title": "Ask HN: How do you make LLM generated text believable?",
-    "url": "https://news.ycombinator.com/item?id=48559823",
-    "source": "Hacker News",
-    "date": "2026-06-16",
-    "summary": "As a graudate student who just working as management & IR, I use LLM to do daily jobs , including weekly briefing and But AI generated report looks too good to be checked, and hallucination can't be t...",
-    "category": "models",
-    "id": 45
-  },
-  {
-    "title": "Will AI End the Open Internet? [Wading Through AI – Episode 6] [video]",
-    "url": "https://www.youtube.com/watch?v=gR2T1uxHG7o",
-    "source": "Hacker News",
-    "date": "2026-06-16",
-    "summary": "Article URL: https://www.youtube.com/watch?v=gR2T1uxHG7o Comments URL: https://news.ycombinator.com/item?id=48559743 Points: 2 # Comments: 0",
-    "category": "industry",
-    "id": 46
+    "id": 49
   },
   {
     "title": "Exclusive eBook: How AI is becoming the next military advisor",
@@ -461,36 +490,6 @@
     "summary": "A collection of stories about how militaries are using AI models to make decisions. This subscriber-only eBook is a package of six stories that were originally published in MIT Technology Review betwe...",
     "category": "industry",
     "image": "https://wp.technologyreview.com/wp-content/uploads/2026/06/military-ai.png?resize=1200,600",
-    "id": 47
-  },
-  {
-    "title": "The Download: the first brain implant power user and South Korea’s AI obsession",
-    "url": "https://www.technologyreview.com/2026/06/16/1139010/the-download-brain-implant-power-user-bci-south-korea-ai-obsession/",
-    "source": "MIT Tech Review",
-    "date": "2026-06-16",
-    "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. This man with ALS is the first “power user” of a brain implant...",
-    "category": "industry",
-    "image": "https://wp.technologyreview.com/wp-content/uploads/2026/06/h_16269933.jpg?resize=1200,600",
-    "id": 48
-  },
-  {
-    "title": "Want to get a data center online quickly? Give it some flex.",
-    "url": "https://www.technologyreview.com/2026/06/16/1138591/data-center-online-quickly-electric-grid-flex/",
-    "source": "MIT Tech Review",
-    "date": "2026-06-16",
-    "summary": "At the end of a tense and scoreless first half of a soccer match between the English men’s team and rival Germany, millions of Brits let out a collective sigh and did what they so often do in moments ...",
-    "category": "hardware",
-    "image": "https://wp.technologyreview.com/wp-content/uploads/2026/06/26-05-25-MIT-TECH-01-Interior-2-thumb.jpg?resize=1200,600",
-    "id": 49
-  },
-  {
-    "title": "‘Dangerous’ AI Models Are Coming No Matter What",
-    "url": "https://www.wired.com/story/dangerous-ai-models-are-coming-no-matter-what/",
-    "source": "Wired",
-    "date": "2026-06-16",
-    "summary": "The US government crackdown on Anthropic’s Claude Fable 5 and Mythos 5 hides a glaring truth: AI models with advanced hacking capabilities will soon be the norm.",
-    "category": "models",
-    "image": "https://media.wired.com/photos/6a30202e9402edb0adc1701d/191:100/w_1280,c_limit/GettyImages-2280291188.jpg",
     "id": 50
   }
 ]
