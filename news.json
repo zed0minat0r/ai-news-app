@@ -1,14 +1,23 @@
 [
   {
-    "title": "At Cannes Lions, NVIDIA Partners Reshape Advertising and Marketing With AI",
-    "url": "https://blogs.nvidia.com/blog/nvidia-ai-marketing-advertising-cannes-lions/",
+    "title": "How FERC’s Large-Load Interconnection Actions Help Address Grid Stress, Improve Affordability",
+    "url": "https://blogs.nvidia.com/blog/ferc-large-load-interconnection/",
     "source": "NVIDIA Blog",
     "date": "2026-06-18",
-    "summary": "The digital era gave the advertising and marketing industry speed; the AI era is giving it autonomous operations. For companies building next-generation technologies for advertising and marketing, the...",
+    "summary": "In a consequential grid infrastructure decision, the Federal Energy Regulatory Commission (FERC) today issued a major milestone on large-load interconnection impacting how those building AI factories,...",
     "category": "hardware",
-    "image": "https://blogs.nvidia.com/wp-content/uploads/2026/06/cannes-lions-featured-visual-still-1920x1080-1.jpg",
+    "image": "https://blogs.nvidia.com/wp-content/uploads/2025/09/nvidiaheadquarters.jpg",
     "id": 1,
     "featured": true
+  },
+  {
+    "title": "Improving health intelligence in ChatGPT",
+    "url": "https://openai.com/index/improving-health-intelligence-in-chatgpt",
+    "source": "OpenAI Blog",
+    "date": "2026-06-18",
+    "summary": "Learn how GPT-5.5 Instant improves ChatGPT’s health and wellness responses with stronger reasoning, better context, clearer communication, and physician-informed evaluations.",
+    "category": "research",
+    "id": 2
   },
   {
     "title": "Using AI to help physicians diagnose rare genetic diseases affecting children",
@@ -17,7 +26,26 @@
     "date": "2026-06-18",
     "summary": "Researchers used an OpenAI reasoning model to help diagnose rare diseases, identifying 18 new diagnoses in previously unsolved cases.",
     "category": "research",
-    "id": 2
+    "id": 3
+  },
+  {
+    "title": "New usage analytics and updated spend controls for enterprises",
+    "url": "https://openai.com/index/chatgpt-enterprise-spend-controls",
+    "source": "OpenAI Blog",
+    "date": "2026-06-18",
+    "summary": "OpenAI introduces new spend controls and usage analytics for ChatGPT Enterprise, helping organizations manage costs and scale AI with confidence.",
+    "category": "models",
+    "id": 4
+  },
+  {
+    "title": "At Cannes Lions, NVIDIA Partners Reshape Advertising and Marketing With AI",
+    "url": "https://blogs.nvidia.com/blog/nvidia-ai-marketing-advertising-cannes-lions/",
+    "source": "NVIDIA Blog",
+    "date": "2026-06-18",
+    "summary": "The digital era gave the advertising and marketing industry speed; the AI era is giving it autonomous operations. For companies building next-generation technologies for advertising and marketing, the...",
+    "category": "hardware",
+    "image": "https://blogs.nvidia.com/wp-content/uploads/2026/06/cannes-lions-featured-visual-still-1920x1080-1.jpg",
+    "id": 5
   },
   {
     "title": "France Advances Europe’s AI Future With NVIDIA Technologies",
@@ -27,7 +55,7 @@
     "summary": "A year ago at NVIDIA GTC Paris at VivaTech, France laid out plans to advance local AI — from new AI factories and national compute capacity to open frontier models and industrial platforms. Now, that ...",
     "category": "hardware",
     "image": "https://blogs.nvidia.com/wp-content/uploads/2026/06/5383050-vivatech26-digital-nv-blog-image-1920x1080-1.jpg",
-    "id": 3
+    "id": 6
   },
   {
     "title": "Ditching the cloud for local AI — how I use two mini PCs to process millions of tokens a day and save money on costly API fees",
@@ -37,7 +65,7 @@
     "summary": "As new data center buildouts hit planning walls and AI inference providers hike costs, is the future of AI to roll your own models?",
     "category": "hardware",
     "image": "https://cdn.mos.cms.futurecdn.net/wva6SjYfLsmCS2ZhttQnuP-1280-80.jpg",
-    "id": 4
+    "id": 7
   },
   {
     "title": "Apple CEO Tim Cook warns AI-driven price increases are unavoidable — says company is trying its best but 'the situation has become unsustainable'",
@@ -47,7 +75,7 @@
     "summary": "Apple's Tim Cook says that Apple can no longer 'shield' its customers from increased prices of DRAM and NAND memory.",
     "category": "hardware",
     "image": "https://cdn.mos.cms.futurecdn.net/cG6RmZdrzuSQqcdbAX7iLo-1280-80.jpg",
-    "id": 5
+    "id": 8
   },
   {
     "title": "Bosch to pay $36 million penalty for $72 million in ‘illicit’ sales to Huawei — German company sold export-controlled goods and software to banned Chinese firm between 2020 and 2024",
@@ -57,7 +85,7 @@
     "summary": "The U.S. fined Bosch $36 million for selling export-controlled product to Huawei, including software and MEMS sensors. The German company agreed to pay the penalty, as well as disgorging part of the p...",
     "category": "industry",
     "image": "https://cdn.mos.cms.futurecdn.net/2i3wKU2vM23CBehCxaEsX4-1280-80.png",
-    "id": 6
+    "id": 9
   },
   {
     "title": "Trump says Apple has agreed to 'build' chips with Intel — neither company confirms deal as Intel share price rockets",
@@ -67,7 +95,7 @@
     "summary": "President Donald Trump said on Thursday that Apple has agreed to work with Intel to “design and build” chips in the United States.",
     "category": "hardware",
     "image": "https://cdn.mos.cms.futurecdn.net/CE7jy4kPNufexFwSNmQXVZ-1280-80.jpg",
-    "id": 7
+    "id": 10
   },
   {
     "title": "Chinese makers of DRAM modules, SSDs have a serious advantage over American and Taiwanese suppliers, says SMI SVP — state guidance secures local DRAM and SSD supply while the Big Three chase AI margins",
@@ -77,17 +105,67 @@
     "summary": "CCP directives can be lifebuoy for Chinese producers of DRAM modules and solid-state drives as domestic memory makers may be obliged to support the module industry.",
     "category": "hardware",
     "image": "https://cdn.mos.cms.futurecdn.net/afv3vEtUQwLuesvTSHKbiP-1280-80.jpg",
-    "id": 8
+    "id": 11
+  },
+  {
+    "title": "OpenAI is bringing on some big guns in the lead-up to its IPO",
+    "url": "https://techcrunch.com/2026/06/18/openai-is-bringing-on-some-big-guns-in-the-lead-up-to-its-ipo/",
+    "source": "TechCrunch",
+    "date": "2026-06-18",
+    "summary": "OpenAI is bulking up before its IPO, landing Transformer co-inventor Noam Shazeer from Google DeepMind and former Trump AI policy official Dean Ball in the same week.",
+    "category": "industry",
+    "image": "https://techcrunch.com/wp-content/uploads/2026/06/noam-shazeer-deal-ball.png?resize=1200,800",
+    "id": 12
+  },
+  {
+    "title": "Almost half of U.S. singles feel negatively about AI in dating, Match says",
+    "url": "https://techcrunch.com/2026/06/18/almost-half-of-u-s-singles-feel-negatively-about-ai-in-dating-match-says/",
+    "source": "TechCrunch",
+    "date": "2026-06-18",
+    "summary": "About 47% of singles look negatively at the use of AI in dating -- but, many dating app users are open to AI helping with profile punch-ups and conversation starters.",
+    "category": "industry",
+    "image": "https://techcrunch.com/wp-content/uploads/2023/05/GettyImages-1131615694.jpg?resize=1200,800",
+    "id": 13
+  },
+  {
+    "title": "Amazon hopes to challenge Nvidia more directly by selling its AI chips",
+    "url": "https://techcrunch.com/2026/06/18/amazon-hopes-to-challenge-nvidia-more-directly-by-selling-its-ai-chips/",
+    "source": "TechCrunch",
+    "date": "2026-06-18",
+    "summary": "AWS is in talks to sell its chips to other data centers. CEO Andy Jassy has said this represents a $50 billion opportunity for the company.",
+    "category": "hardware",
+    "image": "https://techcrunch.com/wp-content/uploads/2022/11/GettyImages-1421680585.jpg?resize=1200,675",
+    "id": 14
+  },
+  {
+    "title": "AI data centers just got a government-mandated fast lane to the grid",
+    "url": "https://techcrunch.com/2026/06/18/ai-data-centers-just-got-a-government-mandated-fast-lane-to-the-grid/",
+    "source": "TechCrunch",
+    "date": "2026-06-18",
+    "summary": "FERC told grid operators to give data centers a fast lane for interconnections, but it failed to address electricity supply shortages.",
+    "category": "hardware",
+    "image": "https://techcrunch.com/wp-content/uploads/2024/12/Energy-sector-Getty.jpg?resize=1200,801",
+    "id": 15
+  },
+  {
+    "title": "‘Queer Eye’s’ life coach Karamo Brown launches Kē, a wellness app featuring his AI digital clone",
+    "url": "https://techcrunch.com/2026/06/18/queer-eyes-life-coach-karamo-brown-launches-ke-a-wellness-app-featuring-his-ai-digital-clone/",
+    "source": "TechCrunch",
+    "date": "2026-06-18",
+    "summary": "Karamo Brown, famous for his pep talks on Netflix’s “Queer Eye,” has jumped into the wellness and AI space with his new app, Kē. After spending a year and a half focusing on his own journey—from fitne...",
+    "category": "industry",
+    "image": "https://techcrunch.com/wp-content/uploads/2026/06/KaramoBrown-Ke.jpg?resize=1200,800",
+    "id": 16
   },
   {
     "title": "General Intuition in talks to raise $300M at around $2B valuation",
     "url": "https://techcrunch.com/2026/06/18/general-intuition-in-talks-to-raise-300m-at-around-2b-valuation/",
     "source": "TechCrunch",
     "date": "2026-06-18",
-    "summary": "General Intuition is in talks to raise around $300 million at a roughly $2 billion valuation from backers including Jeff Bezos. The startup trains AI agents on spatial-temporal reasoning.",
+    "summary": "The startup trains embodied AI and world models using Medal’s dataset of 2 billion videos per year from 10 million monthly active users.",
     "category": "industry",
     "image": "https://techcrunch.com/wp-content/uploads/2026/06/General-intuition.png?w=880",
-    "id": 9
+    "id": 17
   },
   {
     "title": "A tech worker-backed PAC is bringing a $5M knife to Big Tech’s $100M gunfight",
@@ -97,202 +175,209 @@
     "summary": "Guardrails positions itself as a populist political movement that runs on small donations from people in the trenches of the AI boom.",
     "category": "industry",
     "image": "https://techcrunch.com/wp-content/uploads/2026/06/GettyImages-2264911748.jpg?resize=1200,705",
-    "id": 10
-  },
-  {
-    "title": "Show HN: 10x better performance from the Coding Harnesses with LLM-wiki",
-    "url": "https://llm-wiki.net/",
-    "source": "Hacker News",
-    "date": "2026-06-18",
-    "summary": "Article URL: https://llm-wiki.net/ Comments URL: https://news.ycombinator.com/item?id=48586811 Points: 1 # Comments: 0",
-    "category": "models",
-    "image": "https://opengraph.githubassets.com/1/nvk/llm-wiki",
-    "id": 11
-  },
-  {
-    "title": "Markup – A private cross-service home for AI-generated HTML",
-    "url": "https://sproutmarkup.com/",
-    "source": "Hacker News",
-    "date": "2026-06-18",
-    "summary": "Article URL: https://sproutmarkup.com/ Comments URL: https://news.ycombinator.com/item?id=48586779 Points: 1 # Comments: 0",
-    "category": "industry",
-    "image": "https://sproutmarkup.com/static/og-image.png?v=2",
-    "id": 12
-  },
-  {
-    "title": "Athena, a local command room for AI coding agents",
-    "url": "https://github.com/luckeyfaraday/Athena",
-    "source": "Hacker News",
-    "date": "2026-06-18",
-    "summary": "Article URL: https://github.com/luckeyfaraday/Athena Comments URL: https://news.ycombinator.com/item?id=48586771 Points: 1 # Comments: 0",
-    "category": "industry",
-    "image": "https://opengraph.githubassets.com/7b8a10ae53dfdcd277c35011f0fa75fadf8f0a1cc5df33175cb2a45020a1e88e/luckeyfaraday/Athena",
-    "id": 13
-  },
-  {
-    "title": "Pixel Screenshots no longer exclusively uses on-device AI",
-    "url": "https://9to5google.com/2026/06/17/pixel-screenshots-cloud-ai/",
-    "source": "Hacker News",
-    "date": "2026-06-18",
-    "summary": "Article URL: https://9to5google.com/2026/06/17/pixel-screenshots-cloud-ai/ Comments URL: https://news.ycombinator.com/item?id=48586630 Points: 1 # Comments: 0",
-    "category": "industry",
-    "image": "https://i0.wp.com/9to5google.com/wp-content/uploads/sites/4/2025/01/Pixel-Screenshots-app-icon.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
-    "id": 14
-  },
-  {
-    "title": "Show HN: Modelparams.dev: AI Model Parameters Database (UI, API, NPM)",
-    "url": "https://modelparams.dev/",
-    "source": "Hacker News",
-    "date": "2026-06-18",
-    "summary": "Article URL: https://modelparams.dev/ Comments URL: https://news.ycombinator.com/item?id=48586555 Points: 2 # Comments: 0",
-    "category": "models",
-    "image": "https://modelparams.dev/assets/og.png",
-    "id": 15
-  },
-  {
-    "title": "Tracecraft: Multi-agent AI coordination in a bucket you own",
-    "url": "https://news.ycombinator.com/item?id=48586547",
-    "source": "Hacker News",
-    "date": "2026-06-18",
-    "summary": "Comments URL: https://news.ycombinator.com/item?id=48586547 Points: 1 # Comments: 0",
-    "category": "industry",
-    "id": 16
-  },
-  {
-    "title": "Botpool – 20k+ AI Freelancers Available for Hire",
-    "url": "https://www.botpool.ai",
-    "source": "Hacker News",
-    "date": "2026-06-18",
-    "summary": "Article URL: https://www.botpool.ai Comments URL: https://news.ycombinator.com/item?id=48586542 Points: 1 # Comments: 0",
-    "category": "industry",
-    "image": "https://www.botpool.ai/appicons/default_image.jpg",
-    "id": 17
-  },
-  {
-    "title": "Free eBook: Building Pragmatic AI Agents That Use Tools and APIs",
-    "url": "https://leanpub.com/buildingpragmaticaiagentsthatusetoolsandapis",
-    "source": "Hacker News",
-    "date": "2026-06-18",
-    "summary": "Article URL: https://leanpub.com/buildingpragmaticaiagentsthatusetoolsandapis Comments URL: https://news.ycombinator.com/item?id=48586478 Points: 1 # Comments: 0",
-    "category": "tools",
-    "image": "https://d2sofvawe08yqg.cloudfront.net/buildingpragmaticaiagentsthatusetoolsandapis/s_hero2x?1781695985&1781695985",
     "id": 18
   },
   {
-    "title": "Show HN: The AI assistant I could give my non-technical friends",
-    "url": "https://team0.ai",
+    "title": "Show HN: Open-source back end for multi-user AI agents with shared memory",
+    "url": "https://github.com/lobu-ai/lobu",
     "source": "Hacker News",
     "date": "2026-06-18",
-    "summary": "Article URL: https://team0.ai Comments URL: https://news.ycombinator.com/item?id=48586464 Points: 1 # Comments: 0",
-    "category": "industry",
-    "image": "https://team0.ai/og/team0-social-card.jpg",
+    "summary": "Article URL: https://github.com/lobu-ai/lobu Comments URL: https://news.ycombinator.com/item?id=48590973 Points: 1 # Comments: 0",
+    "category": "hardware",
+    "image": "https://opengraph.githubassets.com/a3b92e9b27a2cef8070cfaa72efc0e55a0170d6bd2c2c15de196fc5a04144ceb/lobu-ai/lobu",
     "id": 19
   },
   {
-    "title": "Multilingual websites done right: what a CMS needs for AI visibility",
-    "url": "https://old.reddit.com/r/cms_tips/comments/1u94t8d/multilingual_websites_done_right_what_a_cms_needs/",
+    "title": "Co/Core: An AI Cooperative",
+    "url": "https://console.cocore.dev/",
     "source": "Hacker News",
     "date": "2026-06-18",
-    "summary": "Article URL: https://old.reddit.com/r/cms_tips/comments/1u94t8d/multilingual_websites_done_right_what_a_cms_needs/ Comments URL: https://news.ycombinator.com/item?id=48586418 Points: 1 # Comments: 0",
+    "summary": "Article URL: https://console.cocore.dev/ Comments URL: https://news.ycombinator.com/item?id=48590929 Points: 2 # Comments: 0",
     "category": "industry",
+    "image": "https://console.cocore.dev/og.png",
     "id": 20
   },
   {
-    "title": "Who decides when AI is too dangerous?",
-    "url": "https://www.theverge.com/podcast/951542/anthropic-claude-fable-5-mythos-ban-pentagon-ai-regulation-trump",
+    "title": "AI #173: AI Pauses",
+    "url": "https://thezvi.substack.com/p/ai-173-ai-pauses",
     "source": "Hacker News",
     "date": "2026-06-18",
-    "summary": "Article URL: https://www.theverge.com/podcast/951542/anthropic-claude-fable-5-mythos-ban-pentagon-ai-regulation-trump Comments URL: https://news.ycombinator.com/item?id=48586359 Points: 2 # Comments: ...",
+    "summary": "Article URL: https://thezvi.substack.com/p/ai-173-ai-pauses Comments URL: https://news.ycombinator.com/item?id=48590910 Points: 4 # Comments: 0",
     "category": "industry",
-    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/DCD_0617_Fable5.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
     "id": 21
   },
   {
-    "title": "If AI is sentient, then so is \"Age of Empires II\"",
-    "url": "https://www.404media.co/if-ai-is-sentient-then-so-is-age-of-empires-ii/",
+    "title": "Amazon investigating engineers who criticized AI data center expansion",
+    "url": "https://www.cnbc.com/2026/06/18/amazon-engineers-ai-data-center-opposition.html",
     "source": "Hacker News",
     "date": "2026-06-18",
-    "summary": "Article URL: https://www.404media.co/if-ai-is-sentient-then-so-is-age-of-empires-ii/ Comments URL: https://news.ycombinator.com/item?id=48586304 Points: 2 # Comments: 1",
-    "category": "industry",
-    "image": "https://storage.ghost.io/c/0f/76/0f76b548-bc58-4f25-abc3-3f5ebca07da4/content/images/size/w1200/2026/06/Screenshot-2026-06-17-103735-1.png",
+    "summary": "Article URL: https://www.cnbc.com/2026/06/18/amazon-engineers-ai-data-center-opposition.html Comments URL: https://news.ycombinator.com/item?id=48590891 Points: 3 # Comments: 0",
+    "category": "hardware",
+    "image": "https://image.cnbcfm.com/api/v1/image/108217469-1761596968439-gettyimages-2221389323-AFP_63TY9KL.jpeg?v=1761597002&w=1920&h=1080",
     "id": 22
   },
   {
-    "title": "Show HN: Language1 – Benchmarking LLM comprehension of vague prompts via Taboo",
-    "url": "https://language1.app/",
+    "title": "AI that represents you can't be neutral",
+    "url": "https://www.lesswrong.com/posts/MSRgFmTyRY2jQ52db/ai-that-represents-you-can-t-be-neutral",
     "source": "Hacker News",
     "date": "2026-06-18",
-    "summary": "Hi HN, I built Language1 ( https://language1.app ), a word game where you play \"reverse Taboo\" against an LLM. How it works: You are given a target word (e.g., \"Apple\") and a list of forbidden \"taboo\"...",
-    "category": "models",
+    "summary": "Article URL: https://www.lesswrong.com/posts/MSRgFmTyRY2jQ52db/ai-that-represents-you-can-t-be-neutral Comments URL: https://news.ycombinator.com/item?id=48590854 Points: 1 # Comments: 0",
+    "category": "industry",
     "id": 23
   },
   {
-    "title": "Sentinel- map any codebase for AI agents in 55s, no cloud, zero deps",
-    "url": "https://github.com/Ntooxx/Sentinel",
+    "title": "As Anthropic suspends access to new models, India debates its AI future",
+    "url": "https://techcrunch.com/2026/06/13/as-anthropic-suspends-access-to-new-models-india-debates-its-ai-future/",
     "source": "Hacker News",
     "date": "2026-06-18",
-    "summary": "Article URL: https://github.com/Ntooxx/Sentinel Comments URL: https://news.ycombinator.com/item?id=48586242 Points: 1 # Comments: 0",
+    "summary": "Article URL: https://techcrunch.com/2026/06/13/as-anthropic-suspends-access-to-new-models-india-debates-its-ai-future/ Comments URL: https://news.ycombinator.com/item?id=48590798 Points: 2 # Comments:...",
     "category": "industry",
-    "image": "https://opengraph.githubassets.com/bb794d423d97c20ae99c5c21ad02a10986426ef58d63de1bdccf65daface5ca0/Ntooxx/Sentinel",
+    "image": "https://techcrunch.com/wp-content/uploads/2026/06/Claude-photo.jpg?w=1024",
     "id": 24
   },
   {
-    "title": "Annotate Git diff with explanation generated by AI for easier reviews",
-    "url": "https://github.com/kooskoos20/git-diff-ai-explainer-interactive-filter",
+    "title": "Fine Tuning a Tiny Local LLM to Categorize Questions",
+    "url": "https://www.teachmecoolstuff.com/viewarticle/fine-tuning-a-local-llm-to-categorize-questions",
     "source": "Hacker News",
     "date": "2026-06-18",
-    "summary": "Article URL: https://github.com/kooskoos20/git-diff-ai-explainer-interactive-filter Comments URL: https://news.ycombinator.com/item?id=48586207 Points: 2 # Comments: 1",
-    "category": "industry",
-    "image": "https://opengraph.githubassets.com/0e90de1bde134060e345d089ee2e49820120548099c38802970366acb00a8327/kooskoos20/git-diff-ai-explainer-interactive-filter",
+    "summary": "Article URL: https://www.teachmecoolstuff.com/viewarticle/fine-tuning-a-local-llm-to-categorize-questions Comments URL: https://news.ycombinator.com/item?id=48590771 Points: 1 # Comments: 0",
+    "category": "models",
+    "image": "https://www.teachmecoolstuff.com/img/tor.jpg",
     "id": 25
   },
   {
-    "title": "Layr – a modular UX and product constraint system for AI-built interfaces",
-    "url": "https://github.com/layr-hq/layr",
+    "title": "Show HN: The AI App That Does the Work",
+    "url": "https://runner.now/download/",
     "source": "Hacker News",
     "date": "2026-06-18",
-    "summary": "Article URL: https://github.com/layr-hq/layr Comments URL: https://news.ycombinator.com/item?id=48586133 Points: 8 # Comments: 0",
-    "category": "industry",
-    "image": "https://repository-images.githubusercontent.com/1223781441/71d477d3-c295-45b8-b317-bcb2d378071d",
+    "summary": "Article URL: https://runner.now/download/ Comments URL: https://news.ycombinator.com/item?id=48590691 Points: 1 # Comments: 0",
+    "category": "tools",
+    "image": "https://runner.now/og-image-v2.png",
     "id": 26
   },
   {
-    "title": "Show HN: Gorchestra – resume local AI coding sessions from your phone",
-    "url": "https://github.com/jgennari/gorchestra",
+    "title": "Agentbrowse: Drive any website from the terminal, built for AI coding agents",
+    "url": "https://www.npmjs.com/package/agentbrowse",
     "source": "Hacker News",
     "date": "2026-06-18",
-    "summary": "i've been dogfooding some version of this idea for a few weeks now and i'd thought i'd share my re-implementation from this weekend. basically it's a webserver that controls and unlimited amount of co...",
-    "category": "models",
-    "image": "https://opengraph.githubassets.com/8e4fcdf644d76ade4f0ddd6d98968878efb205346028ee6c82a32b417c663b51/jgennari/gorchestra",
+    "summary": "Article URL: https://www.npmjs.com/package/agentbrowse Comments URL: https://news.ycombinator.com/item?id=48590629 Points: 1 # Comments: 0",
+    "category": "industry",
     "id": 27
   },
   {
-    "title": "Social media menagement tool with API for AI agents",
-    "url": "https://schedpilot.com/",
+    "title": "Ask HN: Languages in the Age of AI",
+    "url": "https://news.ycombinator.com/item?id=48590626",
     "source": "Hacker News",
     "date": "2026-06-18",
-    "summary": "Article URL: https://schedpilot.com/ Comments URL: https://news.ycombinator.com/item?id=48585348 Points: 2 # Comments: 1",
-    "category": "tools",
-    "image": "https://schedpilot.com/wp-content/uploads/2026/03/og123.png",
+    "summary": "Most of my professional work is in embedded systems, typically using C++. I've been doing more of my hobby work in Python (MicroPython/CircuitPython) and was thinking of investigating Rust. But then i...",
+    "category": "industry",
     "id": 28
   },
   {
-    "title": "Manus original investors plan to buy back AI firm from Meta for $2B",
-    "url": "https://www.reuters.com/world/asia-pacific/manus-original-investors-plan-buy-back-ai-firm-meta-2-billion-information-2026-06-18/",
+    "title": "Medical AI scores high on exams but stumbles on real patient care",
+    "url": "https://www.medicaleconomics.com/view/medical-ai-scores-high-on-exams-but-stumbles-on-real-patient-care-new-benchmark-finds",
     "source": "Hacker News",
     "date": "2026-06-18",
-    "summary": "Article URL: https://www.reuters.com/world/asia-pacific/manus-original-investors-plan-buy-back-ai-firm-meta-2-billion-information-2026-06-18/ Comments URL: https://news.ycombinator.com/item?id=4858511...",
-    "category": "industry",
+    "summary": "Article URL: https://www.medicaleconomics.com/view/medical-ai-scores-high-on-exams-but-stumbles-on-real-patient-care-new-benchmark-finds Comments URL: https://news.ycombinator.com/item?id=48590590 Poi...",
+    "category": "models",
     "id": 29
   },
   {
-    "title": "Agentic AI Comes to Medicine",
-    "url": "https://erictopol.substack.com/p/agentic-ai-comes-to-medicine",
+    "title": "Show HN: In-Browser FAQ LLM",
+    "url": "https://fred-terzi.github.io/totem-preview/",
     "source": "Hacker News",
     "date": "2026-06-18",
-    "summary": "Article URL: https://erictopol.substack.com/p/agentic-ai-comes-to-medicine Comments URL: https://news.ycombinator.com/item?id=48585019 Points: 3 # Comments: 0",
-    "category": "industry",
+    "summary": "I am building a platform that allows users to create their own FAQ AI with their own FAQ data. It runs in a static site that can be embedded into a website. Link is to the GitHub pages site! Comments ...",
+    "category": "models",
     "id": 30
+  },
+  {
+    "title": "Show HN: AI Commander – TeamViewer for AI Agents, No VPN or SSH",
+    "url": "https://aicommander.dev/",
+    "source": "Hacker News",
+    "date": "2026-06-18",
+    "summary": "I built a platform allowing for instant access to remote computers from CLI tools like Claude, Codex, Opencode, or any other AI chat. There are mini apps for Windows (tray), Mac (menu bar), and Linux ...",
+    "category": "tools",
+    "image": "https://aicommander.dev/og-image.png",
+    "id": 31
+  },
+  {
+    "title": "From Minutes to Seconds: LLM-Guided Autotuning for Helion Kernels",
+    "url": "https://pytorch.org/blog/from-minutes-to-seconds-llm-guided-autotuning-for-helion-kernels/",
+    "source": "Hacker News",
+    "date": "2026-06-18",
+    "summary": "Article URL: https://pytorch.org/blog/from-minutes-to-seconds-llm-guided-autotuning-for-helion-kernels/ Comments URL: https://news.ycombinator.com/item?id=48590151 Points: 3 # Comments: 0",
+    "category": "models",
+    "id": 32
+  },
+  {
+    "title": "Gig workers are endlessly exploited. AI could make more of us share their fate",
+    "url": "https://www.theguardian.com/technology/2026/jun/18/ai-threatens-gig-work-rise",
+    "source": "Hacker News",
+    "date": "2026-06-18",
+    "summary": "Article URL: https://www.theguardian.com/technology/2026/jun/18/ai-threatens-gig-work-rise Comments URL: https://news.ycombinator.com/item?id=48590139 Points: 6 # Comments: 1",
+    "category": "industry",
+    "image": "https://i.guim.co.uk/img/media/c155ea35b992f33994c7c0d6f6700ac4e7ecbbf1/3_0_2763_2210/master/2763.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=72568c94c740f6910612eed82dc42665",
+    "id": 33
+  },
+  {
+    "title": "AI Regulation Should Be Rational, Not Retaliatory",
+    "url": "https://www.eff.org/deeplinks/2026/06/ai-regulation-should-be-rational-not-retaliatory",
+    "source": "Hacker News",
+    "date": "2026-06-18",
+    "summary": "Article URL: https://www.eff.org/deeplinks/2026/06/ai-regulation-should-be-rational-not-retaliatory Comments URL: https://news.ycombinator.com/item?id=48590109 Points: 9 # Comments: 0",
+    "category": "industry",
+    "image": "https://www.eff.org/files/banner_library/ai-brain-surgery-banner.jpg",
+    "id": 34
+  },
+  {
+    "title": "AI digital sovereignty risk doesn't exist",
+    "url": "https://pluralistic.net/2026/06/18/their-trillions-our-billions/",
+    "source": "Hacker News",
+    "date": "2026-06-18",
+    "summary": "Article URL: https://pluralistic.net/2026/06/18/their-trillions-our-billions/ Comments URL: https://news.ycombinator.com/item?id=48590063 Points: 3 # Comments: 0",
+    "category": "industry",
+    "id": 35
+  },
+  {
+    "title": "The AI subsidy is ending, and waste is about to become a line item",
+    "url": "https://www.speakeasy.com/blog/rising-price-of-ai",
+    "source": "Hacker News",
+    "date": "2026-06-18",
+    "summary": "Article URL: https://www.speakeasy.com/blog/rising-price-of-ai Comments URL: https://news.ycombinator.com/item?id=48589930 Points: 2 # Comments: 0",
+    "category": "industry",
+    "image": "https://www.speakeasy.com/api/og?title=The%20AI%20subsidy%20is%20ending%2C%20and%20waste%20is%20about%20to%20become%20a%20line%20item",
+    "id": 36
+  },
+  {
+    "title": "Physical AI lab automation investment thesis",
+    "url": "https://skydeckconnect.com/telescope-innovations-telif",
+    "source": "Hacker News",
+    "date": "2026-06-18",
+    "summary": "Article URL: https://skydeckconnect.com/telescope-innovations-telif Comments URL: https://news.ycombinator.com/item?id=48589831 Points: 2 # Comments: 0",
+    "category": "industry",
+    "image": "https://skydeckconnect.com/og-image.png",
+    "id": 37
+  },
+  {
+    "title": "Show HN: A website to understand and study AI papers",
+    "url": "https://intuitivepapers.ai/",
+    "source": "Hacker News",
+    "date": "2026-06-18",
+    "summary": "Hi all, I recently built (and am continuing to improve) intuitivepapers.ai to help me study and understand AI research papers. For me, it's important to build intuition for concepts, and when reading ...",
+    "category": "research",
+    "image": "https://intuitivepapers.ai/opengraph-image?917eca9dbec0a2ce",
+    "id": 38
+  },
+  {
+    "title": "Meta’s AI Workers Are Revolting, Peter Thiel’s Secret Society, and SBF’s Plea to Trump",
+    "url": "https://www.wired.com/story/uncanny-valley-podcast-meta-ai-workers-revolting-peter-thiel-secret-society-sbf-plea-to-trump/",
+    "source": "Wired",
+    "date": "2026-06-18",
+    "summary": "On today’s Uncanny Valley, we dive into the dysfunction in Meta’s newly formed AI unit and why it’s been driving already-low employee morale even further into the ground.",
+    "category": "industry",
+    "image": "https://media.wired.com/photos/6a3308960b213b93014c14d7/191:100/w_1280,c_limit/Uncanny-Valley-Meta%E2%80%99s%20Internal%20Unit%20Spiral-v1.jpg",
+    "id": 39
   },
   {
     "title": "Beyond Parallel Sampling: Diverse Query Initialization for Agentic Search",
@@ -301,7 +386,7 @@
     "date": "2026-06-18",
     "summary": "Test-time scaling for agentic search typically increases depth (i.e., more turns and tokens per trajectory) or breadth (i.e., more parallel rollouts). Here we focus on breadth scaling, showing that st...",
     "category": "models",
-    "id": 31
+    "id": 40
   },
   {
     "title": "When Rules Learn: A Self-Evolving Agent for Legal Case Retrieval",
@@ -310,7 +395,7 @@
     "date": "2026-06-18",
     "summary": "Legal case retrieval remains challenging due to the complexity of legal language and the need for precise lexical alignment between queries and relevant cases. Although dense retrieval models have ach...",
     "category": "research",
-    "id": 32
+    "id": 41
   },
   {
     "title": "SkillChain-Gym: A Benchmark for Reskilling-Aware Production-Inventory Control under Disruptions",
@@ -319,7 +404,7 @@
     "date": "2026-06-18",
     "summary": "Production planning increasingly has to treat workforce capability as a decision variable: certifications lapse when skills are not maintained, new products require skills the current workforce does n...",
     "category": "models",
-    "id": 33
+    "id": 42
   },
   {
     "title": "Skill-Constrained Model Predictive Control for Resilient Manufacturing Supply Chains",
@@ -328,7 +413,7 @@
     "date": "2026-06-18",
     "summary": "In skill-constrained production-inventory systems, the qualified human capacity available tomorrow depends on training decisions made today: production requires certified workers, certifications decay...",
     "category": "research",
-    "id": 34
+    "id": 43
   },
   {
     "title": "Nothing from Something: Can a Language Model Discover 0?",
@@ -337,7 +422,7 @@
     "date": "2026-06-18",
     "summary": "AI systems based on artificial neural networks are being developed with aspirations of pushing the boundary of human mathematical knowledge. A key question for these systems is how much they can reach...",
     "category": "models",
-    "id": 35
+    "id": 44
   },
   {
     "title": "Quantifying Consistency in LLM Logical Reasoning via Structural Uncertainty",
@@ -346,7 +431,7 @@
     "date": "2026-06-18",
     "summary": "Large language models can arrive at the same answer through reasoning paths that are unstable, contradictory, or difficult to rank consistently -- a failure mode especially prevalent in multi-step ded...",
     "category": "models",
-    "id": 36
+    "id": 45
   },
   {
     "title": "MemTrace: Probing What Final Accuracy Misses in Long-Term Memory",
@@ -355,7 +440,7 @@
     "date": "2026-06-18",
     "summary": "LLM agents increasingly maintain long-term memory of user facts across sessions. Yet such memory is usually evaluated by aggregating accuracy over question rows or episodes. Because this approach scor...",
     "category": "models",
-    "id": 37
+    "id": 46
   },
   {
     "title": "SpeechDx: A Multi-Task Benchmark for Clinical Speech AI",
@@ -364,7 +449,7 @@
     "date": "2026-06-18",
     "summary": "Speech offers a uniquely informative window into health by simultaneously engaging neurological, motor, respiratory, and vocal systems. Current clinical speech AI methods have largely progressed throu...",
     "category": "research",
-    "id": 38
+    "id": 47
   },
   {
     "title": "Distributed General-Purpose Agent Networks: Architecture, Key Mechanisms, and Prototypes",
@@ -373,7 +458,7 @@
     "date": "2026-06-18",
     "summary": "Large language models have accelerated the transition from passive conversational assistants to autonomous agents that can understand goals, plan actions, invoke tools, and execute multi-step tasks. Y...",
     "category": "tools",
-    "id": 39
+    "id": 48
   },
   {
     "title": "Treatment Response Optimized Clinical Decision Support AI System via Digital Twin Simulation",
@@ -382,7 +467,7 @@
     "date": "2026-06-18",
     "summary": "Clinical decision support AI systems (CDSASs) must adapt to evolving patient conditions in real-time while adhering to strict safety constraints. We present an online adaptive framework that integrate...",
     "category": "research",
-    "id": 40
+    "id": 49
   },
   {
     "title": "Incumbent Advantage: Brand Bias and Cognitive Manipulation Dynamics in LLM Recommendation Systems",
@@ -391,87 +476,6 @@
     "date": "2026-06-18",
     "summary": "Large language models (LLMs) are becoming a major way for consumers to find products, but we do not yet understand how brands compete in this new channel. We study brand dynamics in LLM recommendation...",
     "category": "models",
-    "id": 41
-  },
-  {
-    "title": "A Machine-Learned Comorbidity Index",
-    "url": "https://arxiv.org/abs/2606.17450",
-    "source": "arXiv cs.AI",
-    "date": "2026-06-18",
-    "summary": "Traditional comorbidity scores (e.g., Charlson and Elixhauser) are widely used for risk adjustment and patient stratification, but they have two key limitations: (i) they are largely mortality-centric...",
-    "category": "research",
-    "id": 42
-  },
-  {
-    "title": "MapSatisfyBench: Benchmarking Satisfaction-Aware Map Agents through Behavior-Grounded Implicit Decision Factors",
-    "url": "https://arxiv.org/abs/2606.17453",
-    "source": "arXiv cs.AI",
-    "date": "2026-06-18",
-    "summary": "Large language model agents are increasingly integrated into map services. Since map services are embedded in everyday-life scenarios rather than professional task settings, users often express their ...",
-    "category": "models",
-    "id": 43
-  },
-  {
-    "title": "Dissecting model behavior through agent trajectories",
-    "url": "https://arxiv.org/abs/2606.17454",
-    "source": "arXiv cs.AI",
-    "date": "2026-06-18",
-    "summary": "AI agent performance is not just a modeling problem, it is fundamentally a systems problem. The advanced capabilities of models are realized through agent harnesses. Therefore, a gap between model ass...",
-    "category": "models",
-    "id": 44
-  },
-  {
-    "title": "Can LLMs Be CEOs? Benchmarking Strategic Resource Reallocation with Multi-Role Agent Simulation",
-    "url": "https://arxiv.org/abs/2606.17459",
-    "source": "arXiv cs.AI",
-    "date": "2026-06-18",
-    "summary": "Evaluating the decision-making capabilities of large language models (LLMs) is a growing research priority, yet existing benchmarks focus on isolated cognitive tasks such as reasoning, knowledge retri...",
-    "category": "research",
-    "id": 45
-  },
-  {
-    "title": "LLM-as-Judge in Education: A Curriculum-Grounded Marking Pipeline",
-    "url": "https://arxiv.org/abs/2606.17507",
-    "source": "arXiv cs.AI",
-    "date": "2026-06-18",
-    "summary": "Generative AI and large language models (LLMs) are increasingly applied to question generation and automated assessment. However, deploying LLMs in preparation for high-stakes exams requires more than...",
-    "category": "research",
-    "id": 46
-  },
-  {
-    "title": "SEAGym: An Evaluation Environment for Self-Evolving LLM Agents",
-    "url": "https://arxiv.org/abs/2606.17546",
-    "source": "arXiv cs.AI",
-    "date": "2026-06-18",
-    "summary": "Self-evolving LLM-based agents improve mainly by changing their agent harness: the structured execution layer around a base model, including prompts, memory, tools, middleware, runtime state, and the ...",
-    "category": "models",
-    "id": 47
-  },
-  {
-    "title": "DeepInsight: A Unified Evaluation Infrastructure Across the Physical AI Stack",
-    "url": "https://arxiv.org/abs/2606.17574",
-    "source": "arXiv cs.AI",
-    "date": "2026-06-18",
-    "summary": "Evaluating a Physical AI stack spans operators that differ by more than three orders of magnitude -- from a single foundation-model decoding step to thousands of physics ticks of whole-body control --...",
-    "category": "models",
-    "id": 48
-  },
-  {
-    "title": "Surrogate Assisted Pedestrian Protection Design via a Foundation Model Orchestrated Workflow",
-    "url": "https://arxiv.org/abs/2606.17577",
-    "source": "arXiv cs.AI",
-    "date": "2026-06-18",
-    "summary": "AI-driven engineering workflows face particular challenges in crash safety design: unlike aerodynamics, crash events involve highly nonlinear contact dynamics, material nonlinearity, and discrete stat...",
-    "category": "models",
-    "id": 49
-  },
-  {
-    "title": "Closing the Feedback Loop: From Experience Extraction to Insight Governance in Verbal Reinforcement Learning",
-    "url": "https://arxiv.org/abs/2606.17591",
-    "source": "arXiv cs.AI",
-    "date": "2026-06-18",
-    "summary": "Training-free verbal reinforcement learning enables LLM agents to learn from world feedback -- objective signals such as dynamic task outcomes, market returns, or demand forecasts -- by extracting ver...",
-    "category": "research",
     "id": 50
   }
 ]
