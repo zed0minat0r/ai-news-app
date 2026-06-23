@@ -1,14 +1,195 @@
 [
   {
-    "title": "At ISC, JUPITER Shows What Exascale Science Looks Like",
-    "url": "https://blogs.nvidia.com/blog/jupiter-exascale-supercomputing-science/",
-    "source": "NVIDIA Blog",
-    "date": "2026-06-22",
-    "summary": "JUPITER, Europe’s first exascale supercomputer at Germany’s Forschungszentrum Jülich, runs on NVIDIA Grace Hopper Superchips and NVIDIA Quantum-X800 InfiniBand networking — and it’s had a busy year. A...",
-    "category": "hardware",
-    "image": "https://blogs.nvidia.com/wp-content/uploads/2026/06/hpc-corp-blog-isc26-julich-supercomputer-1280x680-5359150.png",
+    "title": "The running list: major tech layoffs in 2026 where employers cited AI",
+    "url": "https://techcrunch.com/2026/06/22/the-running-list-major-tech-layoffs-in-2026-where-employers-cited-ai/",
+    "source": "TechCrunch",
+    "date": "2026-06-23",
+    "summary": "A running look — in reverse chronological order — at the bigger tech companies that have announced significant layoffs this year with AI as a stated factor.",
+    "category": "industry",
+    "image": "https://techcrunch.com/wp-content/uploads/2026/06/Robot-hand.png?resize=1200,800",
     "id": 1,
     "featured": true
+  },
+  {
+    "title": "OpenAI launches new initiative to help find and patch open-source bugs",
+    "url": "https://techcrunch.com/2026/06/22/openai-launches-new-initiative-to-help-find-and-patch-open-source-bugs/",
+    "source": "TechCrunch",
+    "date": "2026-06-23",
+    "summary": "OpenAI is attempting to tackle the security issues of the open source software community.",
+    "category": "tools",
+    "image": "https://techcrunch.com/wp-content/uploads/2025/09/GettyImages-2214107176.jpg?resize=1200,800",
+    "id": 2
+  },
+  {
+    "title": "Discussion – has anyone build a firewall for AI models yet?",
+    "url": "https://news.ycombinator.com/item?id=48640044",
+    "source": "Hacker News",
+    "date": "2026-06-23",
+    "summary": "Trying to figure out if there are already companies that have build firewall like products for AI models. Assuming everyone will now start hosting open source models to control their destiny, I wonder...",
+    "category": "industry",
+    "id": 3
+  },
+  {
+    "title": "Show HN: LoomStack – Helping engineering orgs scale AI-driven development",
+    "url": "https://loomstack.co/",
+    "source": "Hacker News",
+    "date": "2026-06-23",
+    "summary": "Article URL: https://loomstack.co/ Comments URL: https://news.ycombinator.com/item?id=48639993 Points: 1 # Comments: 0",
+    "category": "industry",
+    "id": 4
+  },
+  {
+    "title": "No AI data centres in my backyard, please",
+    "url": "https://hey.paris/posts/ai-data-centres-tasmania/",
+    "source": "Hacker News",
+    "date": "2026-06-23",
+    "summary": "Article URL: https://hey.paris/posts/ai-data-centres-tasmania/ Comments URL: https://news.ycombinator.com/item?id=48639963 Points: 2 # Comments: 0",
+    "category": "industry",
+    "image": "https://hey.paris/posts/ai-data-centres-tasmania/cover_hu_3bf2ab3255326123.jpg",
+    "id": 5
+  },
+  {
+    "title": "The AI Tarpit: Why You Can't Stop Reading Your Code",
+    "url": "https://www.williamangel.net/blog/2026/06/22/The-AI-Tarpit-Why-You-Cant-Stop-Reading-Your-Code.html",
+    "source": "Hacker News",
+    "date": "2026-06-23",
+    "summary": "Article URL: https://www.williamangel.net/blog/2026/06/22/The-AI-Tarpit-Why-You-Cant-Stop-Reading-Your-Code.html Comments URL: https://news.ycombinator.com/item?id=48639685 Points: 1 # Comments: 0",
+    "category": "industry",
+    "image": "https://www.williamangel.net/blog/2026/06/22/tarpit.png",
+    "id": 6
+  },
+  {
+    "title": "King's study finds AI chose nuclear signalling in 95% of simulated crises",
+    "url": "https://www.kcl.ac.uk/news/artificial-intelligence-under-nuclear-pressure-first-large-scale-kings-study-reveals-how-ai-models-reason-and-escalate-under-crisis",
+    "source": "Hacker News",
+    "date": "2026-06-23",
+    "summary": "Article URL: https://www.kcl.ac.uk/news/artificial-intelligence-under-nuclear-pressure-first-large-scale-kings-study-reveals-how-ai-models-reason-and-escalate-under-crisis Comments URL: https://news.y...",
+    "category": "hardware",
+    "image": "https://www.kcl.ac.uk/newimages/sspp/Security/dsd/hero/post-apocalyptic-city.xc9ee8191.png",
+    "id": 7
+  },
+  {
+    "title": "Prompt Preflight – catch vague AI-agent prompts before they burn tokens",
+    "url": "https://github.com/akg268/prompt-preflight/",
+    "source": "Hacker News",
+    "date": "2026-06-23",
+    "summary": "Article URL: https://github.com/akg268/prompt-preflight/ Comments URL: https://news.ycombinator.com/item?id=48639577 Points: 2 # Comments: 0",
+    "category": "industry",
+    "image": "https://repository-images.githubusercontent.com/1277544462/f4caa1eb-20ca-45bb-a455-61da59e87150",
+    "id": 8
+  },
+  {
+    "title": "Chain-of-Trust with AI",
+    "url": "https://marirs.net.in/cot/",
+    "source": "Hacker News",
+    "date": "2026-06-23",
+    "summary": "Article URL: https://marirs.net.in/cot/ Comments URL: https://news.ycombinator.com/item?id=48639567 Points: 2 # Comments: 1",
+    "category": "industry",
+    "id": 9
+  },
+  {
+    "title": "Show HN: I scanned every YC Spring 2026 startup for what AI crawlers see",
+    "url": "https://potatometer.com/blog/yc-spring-2026-ai-reach-vs-readability",
+    "source": "Hacker News",
+    "date": "2026-06-23",
+    "summary": "Used 'potatometer.com' to scan and analyze all All 197 YC Spring 2026 startups on their SEO / GEO / AEO technical setup. I scanned the URL each startup lists in YC's directory. Most are readable by AI...",
+    "category": "industry",
+    "image": "https://potatometer.com/og-image.png",
+    "id": 10
+  },
+  {
+    "title": "AWS Lambda MicroVMs for isolated execution of user and AI-generated code",
+    "url": "https://aws.amazon.com/about-aws/whats-new/2026/06/aws-lambda-microvms/",
+    "source": "Hacker News",
+    "date": "2026-06-23",
+    "summary": "Article URL: https://aws.amazon.com/about-aws/whats-new/2026/06/aws-lambda-microvms/ Comments URL: https://news.ycombinator.com/item?id=48639498 Points: 16 # Comments: 3",
+    "category": "industry",
+    "id": 11
+  },
+  {
+    "title": "HR consultant wins English court case using AI lawyer in apparent legal first",
+    "url": "https://www.theguardian.com/technology/2026/jun/22/artificial-intelligence-law-firm-wins-court-case-in-england-for-first-time",
+    "source": "Hacker News",
+    "date": "2026-06-23",
+    "summary": "Article URL: https://www.theguardian.com/technology/2026/jun/22/artificial-intelligence-law-firm-wins-court-case-in-england-for-first-time Comments URL: https://news.ycombinator.com/item?id=48639488 P...",
+    "category": "hardware",
+    "image": "https://i.guim.co.uk/img/media/470afbbf9084ad8b092331924ab34ec009a91270/0_1062_5790_4631/master/5790.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=a51232ad426a8abf09c0a7532eb80eb6",
+    "id": 12
+  },
+  {
+    "title": "Zhipu AI Surges Past Trillion Yuan Market Cap in China's AI Boom",
+    "url": "https://asiaai.fyi/zhipu-ai-surges-past-trillion-yuan-market-cap-in-chinas-ai-boom/",
+    "source": "Hacker News",
+    "date": "2026-06-23",
+    "summary": "Article URL: https://asiaai.fyi/zhipu-ai-surges-past-trillion-yuan-market-cap-in-chinas-ai-boom/ Comments URL: https://news.ycombinator.com/item?id=48639465 Points: 6 # Comments: 0",
+    "category": "industry",
+    "image": "https://asiaai.fyi/wp-content/uploads/2026/06/asiaai-header-11.jpg",
+    "id": 13
+  },
+  {
+    "title": "DeepSeek Just Solved AI's Billion Dollar Problem [video]",
+    "url": "https://www.youtube.com/watch?v=mG4SmhWyeFA",
+    "source": "Hacker News",
+    "date": "2026-06-23",
+    "summary": "Article URL: https://www.youtube.com/watch?v=mG4SmhWyeFA Comments URL: https://news.ycombinator.com/item?id=48639426 Points: 3 # Comments: 1",
+    "category": "models",
+    "id": 14
+  },
+  {
+    "title": "Show HN: Sonic AI – We made the market's highest-signal audio searchable",
+    "url": "https://usesonicai.com",
+    "source": "Hacker News",
+    "date": "2026-06-23",
+    "summary": "Article URL: https://usesonicai.com Comments URL: https://news.ycombinator.com/item?id=48639277 Points: 3 # Comments: 0",
+    "category": "industry",
+    "image": "https://usesonicai.com/og-image.png",
+    "id": 15
+  },
+  {
+    "title": "I designed an AI fact-checker agent (Turing). To prevent hallucinations [video]",
+    "url": "https://www.youtube.com/watch?v=CUj75OcdPrA",
+    "source": "Hacker News",
+    "date": "2026-06-23",
+    "summary": "Article URL: https://www.youtube.com/watch?v=CUj75OcdPrA Comments URL: https://news.ycombinator.com/item?id=48639217 Points: 2 # Comments: 1",
+    "category": "research",
+    "id": 16
+  },
+  {
+    "title": "Show HN: ExplainNotice: AI summary for bills, notices, and letters",
+    "url": "https://explainnotice.com",
+    "source": "Hacker News",
+    "date": "2026-06-23",
+    "summary": "Founder here. I built this because many everyday notices are hard to understand: utility bills, medical bills, insurance letters, landlord notices, government letters, etc. The app extracts a few prac...",
+    "category": "industry",
+    "id": 17
+  },
+  {
+    "title": "Palmier Pro: macOS video editor built for AI",
+    "url": "https://github.com/palmier-io/palmier-pro",
+    "source": "Hacker News",
+    "date": "2026-06-23",
+    "summary": "Article URL: https://github.com/palmier-io/palmier-pro Comments URL: https://news.ycombinator.com/item?id=48638808 Points: 4 # Comments: 0",
+    "category": "industry",
+    "image": "https://opengraph.githubassets.com/e9fda385ef696316d30a648f3469c28a8fff1f3e28103c1e4ae8f2c470a8e4d7/palmier-io/palmier-pro",
+    "id": 18
+  },
+  {
+    "title": "Show HN: DELN – An interactive atlas of AI training datasets",
+    "url": "https://deln.ai/atlas",
+    "source": "Hacker News",
+    "date": "2026-06-23",
+    "summary": "This is a map of major web crawl datasets. You can see how they relate and influence one another. Play with the dropdown to see new relationships. Comments URL: https://news.ycombinator.com/item?id=48...",
+    "category": "industry",
+    "id": 19
+  },
+  {
+    "title": "AI is changing biological and nuclear risks; governance must change accordingly",
+    "url": "https://thebulletin.org/2026/06/ai-is-changing-biological-and-nuclear-risks-governance-must-change-accordingly/",
+    "source": "Hacker News",
+    "date": "2026-06-23",
+    "summary": "Article URL: https://thebulletin.org/2026/06/ai-is-changing-biological-and-nuclear-risks-governance-must-change-accordingly/ Comments URL: https://news.ycombinator.com/item?id=48638501 Points: 4 # Com...",
+    "category": "industry",
+    "id": 20
   },
   {
     "title": "Patch the Planet: a Daybreak initiative to support open source maintainers",
@@ -17,7 +198,7 @@
     "date": "2026-06-22",
     "summary": "OpenAI introduces Patch the Planet, a Daybreak initiative helping open-source maintainers find, validate, and fix vulnerabilities with AI and expert review.",
     "category": "tools",
-    "id": 2
+    "id": 21
   },
   {
     "title": "Daybreak: Tools for securing every organization in the world",
@@ -26,7 +207,17 @@
     "date": "2026-06-22",
     "summary": "OpenAI introduces new Daybreak tools, including Codex Security and GPT-5.5-Cyber, to help organizations find, validate, and patch vulnerabilities at scale.",
     "category": "models",
-    "id": 3
+    "id": 22
+  },
+  {
+    "title": "At ISC, JUPITER Shows What Exascale Science Looks Like",
+    "url": "https://blogs.nvidia.com/blog/jupiter-exascale-supercomputing-science/",
+    "source": "NVIDIA Blog",
+    "date": "2026-06-22",
+    "summary": "JUPITER, Europe’s first exascale supercomputer at Germany’s Forschungszentrum Jülich, runs on NVIDIA Grace Hopper Superchips and NVIDIA Quantum-X800 InfiniBand networking — and it’s had a busy year. A...",
+    "category": "hardware",
+    "image": "https://blogs.nvidia.com/wp-content/uploads/2026/06/hpc-corp-blog-isc26-julich-supercomputer-1280x680-5359150.png",
+    "id": 23
   },
   {
     "title": "NAIRR Science Program Reshapes Scientific Research, Powered by NVIDIA AI Infrastructure",
@@ -36,7 +227,7 @@
     "summary": "For the past two years, the U.S. National Science Foundation’s National Artificial Intelligence Research Resource (NAIRR) pilot program has driven innovative research across the U.S. for over 700 proj...",
     "category": "hardware",
     "image": "https://blogs.nvidia.com/wp-content/uploads/2026/06/nairr.png",
-    "id": 4
+    "id": 24
   },
   {
     "title": "NVIDIA Vera CPU Opens the Way for Agentic Scientific AI at Los Alamos National Laboratory",
@@ -46,7 +237,7 @@
     "summary": "Mission, Vision and Veritas — new Los Alamos National Laboratory (LANL) supercomputers to be built with HPE and NVIDIA — are tapping NVIDIA Vera CPUs to accelerate scientific discovery, unlocking agen...",
     "category": "hardware",
     "image": "https://blogs.nvidia.com/wp-content/uploads/2026/06/vera-cpu-lanl-1920x1080-1.jpg",
-    "id": 5
+    "id": 25
   },
   {
     "title": "From Materials Simulation to Experimental Astronomy, New NVIDIA AI Software Unlocks Scientific Discoveries",
@@ -56,7 +247,7 @@
     "summary": "At the ISC conference running in Hamburg this week, NVIDIA is introducing new software that speeds AI for science, from chemistry and materials discovery to the search for dark matter. The NVIDIA DAQI...",
     "category": "hardware",
     "image": "https://blogs.nvidia.com/wp-content/uploads/2026/06/cuda-press-corp-blog-isc26-1920x1080-1.jpg",
-    "id": 6
+    "id": 26
   },
   {
     "title": "Eco Wave Power Turns Waves Into Watts With NVIDIA AI Infrastructure and Digital Twins",
@@ -66,7 +257,7 @@
     "summary": "The next era of AI will not be defined by compute alone. Its growth will be determined by energy. As accelerated computing scales across AI factories, agentic AI, industrial AI, edge computing and phy...",
     "category": "hardware",
     "image": "https://blogs.nvidia.com/wp-content/uploads/2026/06/eco-wave-1920x1080-1.jpg",
-    "id": 7
+    "id": 27
   },
   {
     "title": "Hotter Than a Hot Tub: The 45°C Breakthrough to Cool AI’s Biggest Machines",
@@ -76,7 +267,7 @@
     "summary": "Hot tubs sit at about 38 to 40 degrees Celsius, warm enough that most people can only soak for about 15 minutes. NVIDIA’s newest AI servers can run their cooling liquid even hotter — up to 45 degrees ...",
     "category": "hardware",
     "image": "https://blogs.nvidia.com/wp-content/uploads/2026/06/45CLiquidCooling.jpg",
-    "id": 8
+    "id": 28
   },
   {
     "title": "Following user outcry, AMD reinstates memory encryption in consumer CPUs",
@@ -86,7 +277,7 @@
     "summary": "Critics saw the move as an underhanded way to steer them toward more costly chips.",
     "category": "hardware",
     "image": "https://cdn.arstechnica.net/wp-content/uploads/2025/07/GettyImages-1952157610-1152x648-1753386930.jpg",
-    "id": 9
+    "id": 29
   },
   {
     "title": "Arm servers capture over 45% of data center market revenue — GPU clusters and high-end AI infrastructure fuel a tectonic shift away from x86",
@@ -96,7 +287,7 @@
     "summary": "Arm-based servers accounted for nearly half of server revenue in Q1 2026, challenging x86. But in the coming years, they might catch up unit wise as well.",
     "category": "hardware",
     "image": "https://cdn.mos.cms.futurecdn.net/EtP9xHD6entYPYdsDr4LzH-1280-80.jpg",
-    "id": 10
+    "id": 30
   },
   {
     "title": "Anthropic’s powerful Mythos AI reportedly breached ‘almost all’ NSA classified systems within a few hours during red-team test — report sheds more light on the U.S. government's sudden ban on the flagship models",
@@ -106,7 +297,7 @@
     "summary": "Anthropic’s Mythos AI reportedly breached nearly all NSA classified systems during a controlled red-team test, according to a quote cited by The Economist. The report adds context to the U.S. governme...",
     "category": "industry",
     "image": "https://cdn.mos.cms.futurecdn.net/DiLYqkpohGBb9mtNBGrpCC-1280-80.jpg",
-    "id": 11
+    "id": 31
   },
   {
     "title": "AMD brings official FSR 4.1 support to RX 7000 series GPUs — INT8 model now available in 300+ games, RDNA 3 APUs also getting FSR 4.1 soon",
@@ -116,7 +307,7 @@
     "summary": "If you own an RX 7000 series GPU, you can update your graphics driver today and enjoy native FSR 4.1 in over 300 games thanks to INT8 fallback.",
     "category": "hardware",
     "image": "https://cdn.mos.cms.futurecdn.net/sqBJe69q8iHjtHHaBL2NCG-1280-80.jpg",
-    "id": 12
+    "id": 32
   },
   {
     "title": "2003-era DDR2 memory prices jump up to 60% — AI-driven DRAM shortage reaches the oldest standard still in production",
@@ -126,7 +317,7 @@
     "summary": "DDR2 contract prices rose 55% to 60% in the second quarter of the year and are projected to climb another 35% to 40% in the third.",
     "category": "hardware",
     "image": "https://cdn.mos.cms.futurecdn.net/vnqdtRupVqWHAik43ZWctH-1280-80.jpg",
-    "id": 13
+    "id": 33
   },
   {
     "title": "Get a 4TB SSD for $399 this Prime Day — 9.7 cents per GB is as good as it gets thanks to the AI pricing crisis",
@@ -136,7 +327,7 @@
     "summary": "Get a 4TB SSD for $399 ahead of Prime Day, the cheapest one you can buy.",
     "category": "industry",
     "image": "https://cdn.mos.cms.futurecdn.net/yLUrxHQ67efWAAH6AL8wX8-1280-80.jpg",
-    "id": 14
+    "id": 34
   },
   {
     "title": "Powerhouse AMD Ryzen 7 9800X3D hits record-low price at Amazon UK, now just £339.99 — get one of our favourite gaming CPUs with its game-changing AMD 3D V-cache technology",
@@ -146,17 +337,17 @@
     "summary": "The AMD Ryzen 7 9800X3D has hit a record low Amazon UK price of £339.99, making it a must-buy option for any gaming PC build or upgrade.",
     "category": "hardware",
     "image": "https://cdn.mos.cms.futurecdn.net/JK4cx33ccJVeqD29yCUSBS-1280-80.png",
-    "id": 15
+    "id": 35
   },
   {
-    "title": "Best Amazon Prime Day tech deals live — PC hardware deals on SSDs, RAM, GPUs, CPUs, gaming laptops, and more",
+    "title": "Best Amazon Prime Day tech deals live — PC hardware deals on GPUs, CPUs, SSDs, and more",
     "url": "https://www.tomshardware.com/live/news/amazon-prime-day-2026",
     "source": "Tom's Hardware",
     "date": "2026-06-22",
     "summary": "Find the very best PC hardware deals during Amazon Prime Day.",
     "category": "hardware",
     "image": "https://cdn.mos.cms.futurecdn.net/xFXLXJrYz6cD9EZTkf7n45-1280-80.jpg",
-    "id": 16
+    "id": 36
   },
   {
     "title": "The AI world is getting ‘loopy’",
@@ -166,7 +357,7 @@
     "summary": "The loop takes agentic AI a step further by authorizing a swarm of agents to work continuously in the background, endlessly.",
     "category": "industry",
     "image": "https://techcrunch.com/wp-content/uploads/2026/06/Screenshot-2026-06-22-at-3.44.39-PM.jpg?resize=1200,676",
-    "id": 17
+    "id": 37
   },
   {
     "title": "AI chipmaker Groq confirms $650M raise, re-staffs after Nvidia’s $20B not-acqui-hire deal",
@@ -176,7 +367,7 @@
     "summary": "What does an AI company do after one of those not-acqui-hire deals? Groq raised money, is leaning into its neocloud business, and is hiring new execs.",
     "category": "hardware",
     "image": "https://techcrunch.com/wp-content/uploads/2018/08/safetynet.jpg?resize=1200,1058",
-    "id": 18
+    "id": 38
   },
   {
     "title": "Nvidia wants to cut data center water use, but that’s not the same as fixing AI’s water problem",
@@ -186,7 +377,7 @@
     "summary": "Nvidia announced a new cooling system that cuts water use inside the data center. But it does nothing to address AI's biggest water use — fossil fuel power plants.",
     "category": "hardware",
     "image": "https://techcrunch.com/wp-content/uploads/2024/12/GettyImages-155376474.jpeg?resize=1200,800",
-    "id": 19
+    "id": 39
   },
   {
     "title": "Google DeepMind bets $75M on AI’s future in Hollywood with A24 deal",
@@ -196,7 +387,7 @@
     "summary": "Google DeepMind and A24 are teaming up to build AI filmmaking tools.",
     "category": "tools",
     "image": "https://techcrunch.com/wp-content/uploads/2026/06/GettyImages-2252299302.jpg?w=1024",
-    "id": 20
+    "id": 40
   },
   {
     "title": "Amazon is testing Alexa+ in India with Hindi support",
@@ -206,7 +397,7 @@
     "summary": "Amazon is planning to increase the footprint of its new conversational AI assistant Alexa+ to India and is inviting users in the country to test out a Hindi-language version.",
     "category": "industry",
     "image": "https://techcrunch.com/wp-content/uploads/2025/08/alexa-plus-event.png?resize=1200,675",
-    "id": 21
+    "id": 41
   },
   {
     "title": "SpaceX inks compute deal with Reflection AI, an open source AI lab",
@@ -216,196 +407,6 @@
     "summary": "Reflection AI will pay $150 million a month beginning July 1, 2026 through 2029 for immediate access to Nvidia's latest GB300 AI chips and supporting hardware across SpaceX's Colossus 2 data center ne...",
     "category": "hardware",
     "image": "https://techcrunch.com/wp-content/uploads/2026/05/GettyImages-2259661359.jpg?w=1024",
-    "id": 22
-  },
-  {
-    "title": "PsychAdapter: Personality in LLM output via trait-language patterns, not prompts",
-    "url": "https://github.com/humanlab/psychadapter",
-    "source": "Hacker News",
-    "date": "2026-06-22",
-    "summary": "Article URL: https://github.com/humanlab/psychadapter Comments URL: https://news.ycombinator.com/item?id=48637279 Points: 1 # Comments: 0",
-    "category": "models",
-    "image": "https://opengraph.githubassets.com/0bb040c90b7ece61e0fbdef221613f2326e05cc203e917da3fde0477c5e4cb16/humanlab/psychadapter",
-    "id": 23
-  },
-  {
-    "title": "Show HN: WorldOS – A fully customizable AI simulation sandbox game",
-    "url": "https://worldos.cc/",
-    "source": "Hacker News",
-    "date": "2026-06-22",
-    "summary": "Article URL: https://worldos.cc/ Comments URL: https://news.ycombinator.com/item?id=48637202 Points: 5 # Comments: 2",
-    "category": "industry",
-    "id": 24
-  },
-  {
-    "title": "AI Pauses",
-    "url": "https://thezvi.substack.com/p/ai-173-ai-pauses",
-    "source": "Hacker News",
-    "date": "2026-06-22",
-    "summary": "Article URL: https://thezvi.substack.com/p/ai-173-ai-pauses Comments URL: https://news.ycombinator.com/item?id=48637061 Points: 1 # Comments: 0",
-    "category": "industry",
-    "id": 25
-  },
-  {
-    "title": "Software Engineers Face an AI 'Identity Crisis,' VC Partner Says",
-    "url": "https://www.businessinsider.com/software-engineers-face-an-ai-identity-crisis-vc-partner-says-2026-6",
-    "source": "Hacker News",
-    "date": "2026-06-22",
-    "summary": "Article URL: https://www.businessinsider.com/software-engineers-face-an-ai-identity-crisis-vc-partner-says-2026-6 Comments URL: https://news.ycombinator.com/item?id=48636741 Points: 1 # Comments: 2",
-    "category": "industry",
-    "image": "https://i.insider.com/6a390cb8c7a58f814f0d4e4f?width=1200&format=jpeg",
-    "id": 26
-  },
-  {
-    "title": "Why most AI evals would miss the Linear sales email failure",
-    "url": "https://tenureai.dev/writing/why-most-ai-evals-would-miss-the-linear-sales-email-failure/",
-    "source": "Hacker News",
-    "date": "2026-06-22",
-    "summary": "Article URL: https://tenureai.dev/writing/why-most-ai-evals-would-miss-the-linear-sales-email-failure/ Comments URL: https://news.ycombinator.com/item?id=48636731 Points: 4 # Comments: 1",
-    "category": "industry",
-    "image": "https://tenureai.dev/og-image.png",
-    "id": 27
-  },
-  {
-    "title": "The Market's AI Fanfare Is Running into a Harsh Political Reality",
-    "url": "https://www.wsj.com/tech/ai/the-markets-ai-fanfare-is-running-into-a-harsh-political-reality-b919829b",
-    "source": "Hacker News",
-    "date": "2026-06-22",
-    "summary": "Article URL: https://www.wsj.com/tech/ai/the-markets-ai-fanfare-is-running-into-a-harsh-political-reality-b919829b Comments URL: https://news.ycombinator.com/item?id=48636674 Points: 3 # Comments: 0",
-    "category": "industry",
-    "id": 28
-  },
-  {
-    "title": "Meta pauses AI training program tracking employee keystrokes after internal leak",
-    "url": "https://www.businessinsider.com/meta-ai-training-data-leak-exposed-employee-activity-across-company-2026-6",
-    "source": "Hacker News",
-    "date": "2026-06-22",
-    "summary": "Article URL: https://www.businessinsider.com/meta-ai-training-data-leak-exposed-employee-activity-across-company-2026-6 Comments URL: https://news.ycombinator.com/item?id=48636632 Points: 12 # Comment...",
-    "category": "hardware",
-    "image": "https://i.insider.com/6a39921e36d7e6f260b7815c?width=1200&format=jpeg",
-    "id": 29
-  },
-  {
-    "title": "Five Eyes joint statement on AI models taking down governments and businesses",
-    "url": "https://www.cisa.gov/news-events/news/five-eyes-cyber-security-agencies-statement",
-    "source": "Hacker News",
-    "date": "2026-06-22",
-    "summary": "Article URL: https://www.cisa.gov/news-events/news/five-eyes-cyber-security-agencies-statement Comments URL: https://news.ycombinator.com/item?id=48636626 Points: 1 # Comments: 0",
-    "category": "industry",
-    "id": 30
-  },
-  {
-    "title": "Oracle workforce shrinks by about 21,000 employees amid AI adoption",
-    "url": "https://www.reuters.com/business/world-at-work/oracle-workforce-shrinks-by-about-13-2026-06-22/",
-    "source": "Hacker News",
-    "date": "2026-06-22",
-    "summary": "Article URL: https://www.reuters.com/business/world-at-work/oracle-workforce-shrinks-by-about-13-2026-06-22/ Comments URL: https://news.ycombinator.com/item?id=48636590 Points: 11 # Comments: 1",
-    "category": "industry",
-    "id": 31
-  },
-  {
-    "title": "California admits using high-risk AI – including systems it failed to report",
-    "url": "https://calmatters.org/politics/2026/06/california-admits-government-ai-risk-after-denying/",
-    "source": "Hacker News",
-    "date": "2026-06-22",
-    "summary": "Article URL: https://calmatters.org/politics/2026/06/california-admits-government-ai-risk-after-denying/ Comments URL: https://news.ycombinator.com/item?id=48636517 Points: 3 # Comments: 0",
-    "category": "industry",
-    "image": "https://calmatters.org/wp-content/uploads/2026/06/012822-California-Seal-MHN-CM-02-1.jpg",
-    "id": 32
-  },
-  {
-    "title": "Publishing AI Write-Ups to a URL – Without Leaking the Client Ones",
-    "url": "https://bradystroud.dev/blogs/private-docs-vault",
-    "source": "Hacker News",
-    "date": "2026-06-22",
-    "summary": "Article URL: https://bradystroud.dev/blogs/private-docs-vault Comments URL: https://news.ycombinator.com/item?id=48636487 Points: 1 # Comments: 0",
-    "category": "industry",
-    "image": "https://bradystroud.dev/api/og?title=Publishing+AI+Write-ups+to+a+URL+-+Without+Leaking+the+Client+Ones&description=My+work+throws+off+short-lived+write-ups+-+investigations%2C+plans%2C+reports+-+and+an+AI+agent+turns+each+into+an+HTML+page+I+publish+with+one+command.+Then+I+realised+some+were+client+work+sitting+on+public+URLs%2C+so+I+rebuilt+it+into+a+private-by-default+vault+with+passkeys+and+expiring+share+links.&coverImage=https%3A%2F%2Fassets.tina.io%2F959bdc4a-1b17-45d9-bb5a-4e091d0a7f52%2Fprivate-docs-vault%2Fcover-landscape.png",
-    "id": 33
-  },
-  {
-    "title": "Code Smells when you get AI to write your Front end Tests",
-    "url": "https://howtotestfrontend.com/resources/frontend-ai-generated-test-code-smells",
-    "source": "Hacker News",
-    "date": "2026-06-22",
-    "summary": "Article URL: https://howtotestfrontend.com/resources/frontend-ai-generated-test-code-smells Comments URL: https://news.ycombinator.com/item?id=48636394 Points: 2 # Comments: 0",
-    "category": "industry",
-    "id": 34
-  },
-  {
-    "title": "Sakana AI Ships Fugu, an Orchestration Model Claiming Fable 5 Performance",
-    "url": "https://pokee.ai/blog/pokee-ai-daily-2026-06-22",
-    "source": "Hacker News",
-    "date": "2026-06-22",
-    "summary": "Article URL: https://pokee.ai/blog/pokee-ai-daily-2026-06-22 Comments URL: https://news.ycombinator.com/item?id=48636012 Points: 5 # Comments: 1",
-    "category": "industry",
-    "id": 35
-  },
-  {
-    "title": "Show HN: Git Issues – versioned task management for AI agents",
-    "url": "https://steviee.github.io/git-issues/",
-    "source": "Hacker News",
-    "date": "2026-06-22",
-    "summary": "Article URL: https://steviee.github.io/git-issues/ Comments URL: https://news.ycombinator.com/item?id=48635995 Points: 1 # Comments: 0",
-    "category": "industry",
-    "image": "https://steviee.github.io/git-issues/og-image.png",
-    "id": 36
-  },
-  {
-    "title": "Japan's 'Sakana Fugu' multiagent AI scores well against Fable 5, GPT 5.5",
-    "url": "https://asia.nikkei.com/business/technology/artificial-intelligence/japan-s-sakana-fugu-multiagent-ai-scores-well-against-fable-5-gpt-5.5",
-    "source": "Hacker News",
-    "date": "2026-06-22",
-    "summary": "Article URL: https://asia.nikkei.com/business/technology/artificial-intelligence/japan-s-sakana-fugu-multiagent-ai-scores-well-against-fable-5-gpt-5.5 Comments URL: https://news.ycombinator.com/item?i...",
-    "category": "models",
-    "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fcms-image-bucket-productionv3-ap-northeast-1-a7d2.s3.ap-northeast-1.amazonaws.com%2Fimages%2F7%2F5%2F1%2F8%2F12638157-2-eng-GB%2F6f97e949b2b7-photo_SXM2026062200011216.png?fit=cover&gravity=faces&dpr=2&quality=medium&source=nar-cms&format=auto&width=1260&height=630",
-    "id": 37
-  },
-  {
-    "title": "Who's Suing Whom in AI?",
-    "url": "https://informationisbeautiful.net/visualizations/the-rise-of-generative-ai-large-language-models-llms-like-chatgpt/#suing",
-    "source": "Hacker News",
-    "date": "2026-06-22",
-    "summary": "Article URL: https://informationisbeautiful.net/visualizations/the-rise-of-generative-ai-large-language-models-llms-like-chatgpt/#suing Comments URL: https://news.ycombinator.com/item?id=48635890 Poin...",
-    "category": "models",
-    "image": "https://infobeautiful4.s3.amazonaws.com/2023/05/IIB-LLMs2-decorative-1030x520-1-960x485.png",
-    "id": 38
-  },
-  {
-    "title": "The comment paradox: clean code in age of AI agents",
-    "url": "https://www.uyar.design/writing/the-comment-paradox",
-    "source": "Hacker News",
-    "date": "2026-06-22",
-    "summary": "Article URL: https://www.uyar.design/writing/the-comment-paradox Comments URL: https://news.ycombinator.com/item?id=48635802 Points: 2 # Comments: 0",
-    "category": "industry",
-    "id": 39
-  },
-  {
-    "title": "Show HN: A 100% AI-generated 3D voxel game I built with my 10yo son",
-    "url": "https://github.com/marceld23/BlocksBeyondTheStars",
-    "source": "Hacker News",
-    "date": "2026-06-22",
-    "summary": "Article URL: https://github.com/marceld23/BlocksBeyondTheStars Comments URL: https://news.ycombinator.com/item?id=48635731 Points: 1 # Comments: 0",
-    "category": "industry",
-    "image": "https://repository-images.githubusercontent.com/1254699739/ccdfb188-bad6-46d6-bb09-2f11fb340d53",
-    "id": 40
-  },
-  {
-    "title": "AI and the Job Market for Philosophers",
-    "url": "https://www.natemeyvis.com/ai-and-the-job-market-for-philosophers/",
-    "source": "Hacker News",
-    "date": "2026-06-22",
-    "summary": "Article URL: https://www.natemeyvis.com/ai-and-the-job-market-for-philosophers/ Comments URL: https://news.ycombinator.com/item?id=48635683 Points: 1 # Comments: 0",
-    "category": "industry",
-    "id": 41
-  },
-  {
-    "title": "AI and tech are trying to influence the midterm elections",
-    "url": "https://text.npr.org/nx-s1-5856359",
-    "source": "Hacker News",
-    "date": "2026-06-22",
-    "summary": "Article URL: https://text.npr.org/nx-s1-5856359 Comments URL: https://news.ycombinator.com/item?id=48635327 Points: 13 # Comments: 0",
-    "category": "industry",
     "id": 42
   },
   {
