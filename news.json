@@ -1,32 +1,14 @@
 [
   {
-    "title": "How Businesses Are Building Specialized AI They Can Trust",
-    "url": "https://blogs.nvidia.com/blog/nvidia-agent-toolkit-open-models-tools-skills-secure-runtime-ai-agents/",
+    "title": "NVIDIA and AWS Collaborate to Bring AI to Production at Scale",
+    "url": "https://blogs.nvidia.com/blog/nvidia-aws-ai-production-scale/",
     "source": "NVIDIA Blog",
-    "date": "2026-06-23",
-    "summary": "Companies are asking how to build specialized AI that fits with the way their workflows actually run. The first wave of enterprise AI was about access. Companies experimented with new frontier and ope...",
-    "category": "tools",
-    "image": "https://blogs.nvidia.com/wp-content/uploads/2026/06/agentic-ai-agent-toolkit-kv-r3b-1920x1080-2.png",
+    "date": "2026-06-24",
+    "summary": "Building AI systems at scale is demanding, requiring low-latency inference, fast vector search, strong GPU price-performance and infrastructure that can grow without multiplying operational complexity...",
+    "category": "hardware",
+    "image": "https://blogs.nvidia.com/wp-content/uploads/2026/06/logo-lockup-tech-blog-aws-1920x1080-2.jpg",
     "id": 1,
     "featured": true
-  },
-  {
-    "title": "How GPT-5 helped immunologist Derya Unutmaz solve a 3-year-old mystery",
-    "url": "https://openai.com/index/gpt-5-immunology-mystery",
-    "source": "OpenAI Blog",
-    "date": "2026-06-23",
-    "summary": "GPT-5 Pro helped solve a 3-year-old immunology mystery, offering insights into T cell behavior. The breakthrough could support cancer and autoimmune research.",
-    "category": "research",
-    "id": 2
-  },
-  {
-    "title": "How Omio is building the future of conversational travel",
-    "url": "https://openai.com/index/omio",
-    "source": "OpenAI Blog",
-    "date": "2026-06-23",
-    "summary": "Discover how Omio uses OpenAI to power conversational travel experiences, accelerate product development, and transform into an AI-native company.",
-    "category": "industry",
-    "id": 3
   },
   {
     "title": "Helping build shared standards for advanced AI",
@@ -35,17 +17,45 @@
     "date": "2026-06-23",
     "summary": "OpenAI helps build shared standards for advanced AI, supporting evaluation frameworks, safety practices, and global cooperation through the Appia Foundation.",
     "category": "research",
+    "id": 2
+  },
+  {
+    "title": "How GPT-5 helped immunologist Derya Unutmaz solve a 3-year-old mystery",
+    "url": "https://openai.com/index/gpt-5-immunology-mystery",
+    "source": "OpenAI Blog",
+    "date": "2026-06-23",
+    "summary": "GPT-5 Pro helped solve a 3-year-old immunology mystery, offering insights into T cell behavior. The breakthrough could support cancer and autoimmune research.",
+    "category": "research",
+    "id": 3
+  },
+  {
+    "title": "How Omio is building the future of conversational travel",
+    "url": "https://openai.com/index/omio",
+    "source": "OpenAI Blog",
+    "date": "2026-06-23",
+    "summary": "Discover how Omio uses OpenAI to power conversational travel experiences, accelerate product development, and transform into an AI-native company.",
+    "category": "industry",
     "id": 4
+  },
+  {
+    "title": "How Businesses Are Building Specialized AI They Can Trust",
+    "url": "https://blogs.nvidia.com/blog/nvidia-agent-toolkit-open-models-tools-skills-secure-runtime-ai-agents/",
+    "source": "NVIDIA Blog",
+    "date": "2026-06-23",
+    "summary": "Companies are asking how to build specialized AI that fits with the way their workflows actually run. The first wave of enterprise AI was about access. Companies experimented with new frontier and ope...",
+    "category": "tools",
+    "image": "https://blogs.nvidia.com/wp-content/uploads/2026/06/agentic-ai-agent-toolkit-kv-r3b-1920x1080-2.png",
+    "id": 5
   },
   {
     "title": "NVIDIA Powers Over 400 of the World’s 500 Fastest Supercomputers",
     "url": "https://blogs.nvidia.com/blog/top500-green500-supercomputers-isc-2026/",
     "source": "NVIDIA Blog",
     "date": "2026-06-23",
-    "summary": "News Highlights: NVIDIA technology runs 81% of the TOP500 and 90% of the systems new to the list. 26 systems on the TOP500 adopted the NVIDIA Grace CPU, up eight from the previous list. The top eight ...",
+    "summary": "NVIDIA technologies power more than 400 of the world’s 500 fastest supercomputers — 81% of the TOP500 — according to the latest rankings released this week at the ISC High Performance conference in Ha...",
     "category": "hardware",
     "image": "https://blogs.nvidia.com/wp-content/uploads/2026/06/hpc-corp-blog-isc26-wrap-up-blog-1280x680-5375050.png",
-    "id": 5
+    "id": 6
   },
   {
     "title": "NVIDIA Brings Trusted, 24/7 AI Agents to Telecom Operations",
@@ -55,7 +65,7 @@
     "summary": "Telecom operators have seen remarkable returns from using generative AI to automate network management, customer care and back-office operations. Most of that impact has been task‑based: automation th...",
     "category": "hardware",
     "image": "https://blogs.nvidia.com/wp-content/uploads/2026/06/telco-tm-forum-1920x1080-1.jpg",
-    "id": 6
+    "id": 7
   },
   {
     "title": "Oracle’s 21,000 layoffs help drive its debt-fueled AI investments",
@@ -65,7 +75,7 @@
     "summary": "Oracle is spending billions on data center infrastructure to support AI.",
     "category": "industry",
     "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/06/GettyImages-2212917669-1152x648.jpg",
-    "id": 7
+    "id": 8
   },
   {
     "title": "Grab this Creality 3D Printer tool kit for all-time low $25.49 for Prime Day — 74-piece set includes everything that you need for 3D printer maintenance and comes in a neat organizer for storage and transport",
@@ -75,7 +85,7 @@
     "summary": "The Creality 3D Printer Tool Kit is on sale at 15% of for Prime Day 2026. This brings the price down to $25.49, helping you save some cash if you want to complete your 3D printing setup.",
     "category": "research",
     "image": "https://cdn.mos.cms.futurecdn.net/kPy4JLbuaRoM5bSgqtjdvA-1280-80.png",
-    "id": 8
+    "id": 9
   },
   {
     "title": "Save $250 on the cheapest RTX 5080 around this Prime Day — Gigabyte Gaming OC GeForce RTX 5080 at stellar pricing on Newegg",
@@ -85,7 +95,7 @@
     "summary": "The Gigabyte Gaming OC GeForce RTX 5080 pairs factory overclocking, triple-fan cooling, and support for DLSS 4.5 with a $250 discount, bringing one of Nvidia's fastest gaming GPUs closer to its intend...",
     "category": "hardware",
     "image": "https://cdn.mos.cms.futurecdn.net/z5S6Med9eeuq5kfXtDxnG3-1280-80.jpg",
-    "id": 9
+    "id": 10
   },
   {
     "title": "Best Prime Day SSD deals 2026 — savings on Samsung, WD, Crucial, and other SSDs at Amazon, Newegg, and others",
@@ -95,7 +105,7 @@
     "summary": "We've rounded up the best SSD deals to help you expand your PC's storage without breaking the bank during Amazon Prime Day 2026. We're constantly updating this list with the best deals across all reta...",
     "category": "research",
     "image": "https://cdn.mos.cms.futurecdn.net/zBdkNix6XskNQbjBFzB2c6-1280-80.jpg",
-    "id": 10
+    "id": 11
   },
   {
     "title": "Geekom launches Mini PC Prime Day offers with up to 34% off, also an exclusive 8% discount code — oodles of sleek mini PC choices packing AMD Ryzen and Intel Core Ultra chips",
@@ -105,7 +115,7 @@
     "summary": "Mini PC specialist Geekom has stuffed its Amazon webstore with a multitude of diminutive computers with discounts as deep as 34% off.",
     "category": "hardware",
     "image": "https://cdn.mos.cms.futurecdn.net/frbcPojzrPKbJWhD66aW48-1280-80.jpg",
-    "id": 11
+    "id": 12
   },
   {
     "title": "Nvidia announces liquid cooling system that runs ‘hotter than a hot tub’ — promises to reduce electricity consumption and cut water use by up to 100%, but sustainability challenges remain",
@@ -115,7 +125,7 @@
     "summary": "This system raises the base coolant temperature to 113 degrees F (45 degrees C) to save on electricity costs and reduce water consumption to basically zero.",
     "category": "hardware",
     "image": "https://cdn.mos.cms.futurecdn.net/HyEbsFcbcXaPqMNXiRvz7-1280-80.png",
-    "id": 12
+    "id": 13
   },
   {
     "title": "China's LineShine supercomputer dethrones US' El Capitan, secures first place in Top 500 list — first machine in the rankings to sustain more than 2 ExaFLOPS of double-precision performance using only CPUs",
@@ -125,7 +135,7 @@
     "summary": "China's LineShine supercomputer is now officially the world's fastest FP64 machine, but its mixed-precision results are behind those of El Capitan, Frontier, and Aurora.",
     "category": "hardware",
     "image": "https://cdn.mos.cms.futurecdn.net/NfewTvfPRYhC2zviMEwqjC-1280-80.jpg",
-    "id": 13
+    "id": 14
   },
   {
     "title": "California drivers accuse gas station operators of using AI to boost pump prices — lawsuit seeks damages for antitrust violations",
@@ -135,7 +145,7 @@
     "summary": "Californians pay the highest gas prices in the U.S. and a proposed class action says that the issue has been exacerbated by an AI-tool that smartly squeezes customers for the best profits.",
     "category": "industry",
     "image": "https://cdn.mos.cms.futurecdn.net/asijjSPf6kg5Lz5jvz8CYP-1280-80.jpg",
-    "id": 14
+    "id": 15
   },
   {
     "title": "Oracle lays off 21,000 employees in just 12 months due to AI adoption and costly AI infrastructure ambitions — says layoffs will continue as internal AI deployment grows",
@@ -145,7 +155,7 @@
     "summary": "Oracle cut 21,000 jobs in fiscal year 2026 as AI automation and AI cloud expansions reshape its workforce and spending strategy.",
     "category": "tools",
     "image": "https://cdn.mos.cms.futurecdn.net/2LF7btnC9R8ogfeK4zPH86-1280-80.jpg",
-    "id": 15
+    "id": 16
   },
   {
     "title": "Valve working on SteamOS for general release — company collaborating with Nvidia to ensure compatibility, hints at dual-boot capabilities in the future",
@@ -155,7 +165,7 @@
     "summary": "Valve engineer Pierre-Loup Griffais says that the company is working on expanding SteamOS compatibility with Nvidia and other hardware platforms. This should make it easier for users to install the ga...",
     "category": "hardware",
     "image": "https://cdn.mos.cms.futurecdn.net/zsmz9cC6yRWVFB7BoFuEYY-1280-80.jpg",
-    "id": 16
+    "id": 17
   },
   {
     "title": "SK hynix passes Samsung as South Korea's most valuable company — memory company surpasses valuation milestone on the back of HBM",
@@ -165,7 +175,17 @@
     "summary": "SK hynix overtook Samsung Electronics on Monday to become South Korea’s most valuable listed company.",
     "category": "hardware",
     "image": "https://cdn.mos.cms.futurecdn.net/XopxE5t95FhftH8Ppr6ySU-1280-80.jpg",
-    "id": 17
+    "id": 18
+  },
+  {
+    "title": "India’s MoEngage bets that the future of marketing is millions of AI agents",
+    "url": "https://techcrunch.com/2026/06/23/indias-moengage-bets-marketings-future-on-millions-of-ai-agents/",
+    "source": "TechCrunch",
+    "date": "2026-06-23",
+    "summary": "The all-cash deal gives MoEngage access to technology that assigns AI agents to individual customers.",
+    "category": "industry",
+    "image": "https://techcrunch.com/wp-content/uploads/2026/03/ai-bots-agents-GettyImages-2230799616.jpg?resize=1200,800",
+    "id": 19
   },
   {
     "title": "Anthropic’s Claude Tag is learning your company, one Slack message at a time",
@@ -175,7 +195,7 @@
     "summary": "Anthropic’s new Claude Tag brings an always-on AI teammate to Slack. But beyond productivity, the feature is a strategic play to capture organizational context, institutional knowledge, and enterprise...",
     "category": "models",
     "image": "https://techcrunch.com/wp-content/uploads/2026/06/Claude-Tag.png?resize=1200,687",
-    "id": 18
+    "id": 20
   },
   {
     "title": "Fika Jobs raises $4M to build a video-first hiring platform where AI agents interview candidates",
@@ -185,7 +205,7 @@
     "summary": "Stockholm-based startup Fika Jobs is building a video-first hiring platform that combines AI interview agents with short-form video profiles, creating something that feels like a cross between LinkedI...",
     "category": "industry",
     "image": "https://techcrunch.com/wp-content/uploads/2026/06/Torleif_Svensson-FikaJobsAI.jpeg?w=1200",
-    "id": 19
+    "id": 21
   },
   {
     "title": "The running list: major tech layoffs in 2026 where employers cited AI",
@@ -195,7 +215,7 @@
     "summary": "A running look — in reverse chronological order — at the bigger tech companies that have announced significant layoffs this year with AI as a stated factor.",
     "category": "industry",
     "image": "https://techcrunch.com/wp-content/uploads/2026/06/Robot-hand.png?resize=1200,800",
-    "id": 20
+    "id": 22
   },
   {
     "title": "OpenAI launches new initiative to help find and patch open source bugs",
@@ -205,179 +225,7 @@
     "summary": "OpenAI is using AI to help the open source community better protect itself.",
     "category": "tools",
     "image": "https://techcrunch.com/wp-content/uploads/2025/09/GettyImages-2214107176.jpg?resize=1200,800",
-    "id": 21
-  },
-  {
-    "title": "Ask HN: Why do AI video platforms keep generating foreign language text",
-    "url": "https://news.ycombinator.com/item?id=48651941",
-    "source": "Hacker News",
-    "date": "2026-06-23",
-    "summary": "in videos despite English-only prompts? Comments URL: https://news.ycombinator.com/item?id=48651941 Points: 2 # Comments: 0",
-    "category": "tools",
-    "id": 22
-  },
-  {
-    "title": "Linux Foundation Is Pursuing Trusted Identity Infrastructure for AI Agents",
-    "url": "https://www.linuxfoundation.org/press/linux-foundation-announces-intent-to-launch-agent-name-service-to-establish-trusted-identity-infrastructure-for-ai-agents",
-    "source": "Hacker News",
-    "date": "2026-06-23",
-    "summary": "Article URL: https://www.linuxfoundation.org/press/linux-foundation-announces-intent-to-launch-agent-name-service-to-establish-trusted-identity-infrastructure-for-ai-agents Comments URL: https://news....",
-    "category": "industry",
-    "image": "https://www.linuxfoundation.org/hubfs/Press%20Release%20Images%20-%20GL%20(8).png",
     "id": 23
-  },
-  {
-    "title": "How to find AI-conservative companies to work for?",
-    "url": "https://news.ycombinator.com/item?id=48651675",
-    "source": "Hacker News",
-    "date": "2026-06-23",
-    "summary": "Is it even possible? I don't completely hate AI, and leverage it to make things better but I don't like to use it for EVERYTHING. At my current job we have outsourced our thinking, our design, our doc...",
-    "category": "hardware",
-    "id": 24
-  },
-  {
-    "title": "Lobu: Build AI teammates that watch and act",
-    "url": "https://lobu.ai/",
-    "source": "Hacker News",
-    "date": "2026-06-23",
-    "summary": "Article URL: https://lobu.ai/ Comments URL: https://news.ycombinator.com/item?id=48651524 Points: 2 # Comments: 0",
-    "category": "industry",
-    "image": "https://lobu.ai/lobu-og.png",
-    "id": 25
-  },
-  {
-    "title": "No AI Co-Authors. A Manifesto",
-    "url": "https://no-ai-coauthors.dev",
-    "source": "Hacker News",
-    "date": "2026-06-23",
-    "summary": "Article URL: https://no-ai-coauthors.dev Comments URL: https://news.ycombinator.com/item?id=48651494 Points: 10 # Comments: 7",
-    "category": "industry",
-    "id": 26
-  },
-  {
-    "title": "4 years of working with AI as content writer",
-    "url": "https://www.getibex.com/blog/4-years-as-a-content-writer-working-with-ai",
-    "source": "Hacker News",
-    "date": "2026-06-23",
-    "summary": "Article URL: https://www.getibex.com/blog/4-years-as-a-content-writer-working-with-ai Comments URL: https://news.ycombinator.com/item?id=48651380 Points: 2 # Comments: 1",
-    "category": "industry",
-    "id": 27
-  },
-  {
-    "title": "When is an AI agent's approval prompt a security boundary?",
-    "url": "https://gist.github.com/NikosRig/b4330ceb780fe22bf3c14f38d7d90795",
-    "source": "Hacker News",
-    "date": "2026-06-23",
-    "summary": "Article URL: https://gist.github.com/NikosRig/b4330ceb780fe22bf3c14f38d7d90795 Comments URL: https://news.ycombinator.com/item?id=48651375 Points: 2 # Comments: 0",
-    "category": "industry",
-    "image": "https://github.githubassets.com/assets/gist-og-image-54fd7dc0713e.png",
-    "id": 28
-  },
-  {
-    "title": "Show HN: AI Torah Chervuta",
-    "url": "https://www.yochai.wiki/chat",
-    "source": "Hacker News",
-    "date": "2026-06-23",
-    "summary": "Article URL: https://www.yochai.wiki/chat Comments URL: https://news.ycombinator.com/item?id=48651236 Points: 7 # Comments: 1",
-    "category": "industry",
-    "image": "https://yochai.wiki/yochai-og.png",
-    "id": 29
-  },
-  {
-    "title": "Aside: The AI Browser",
-    "url": "https://aside.com",
-    "source": "Hacker News",
-    "date": "2026-06-23",
-    "summary": "Article URL: https://aside.com Comments URL: https://news.ycombinator.com/item?id=48651217 Points: 2 # Comments: 0",
-    "category": "tools",
-    "image": "https://aside.com/opengraph-image.png?opengraph-image.22u2ka3hybz6_.png?dpl=dpl_Hau51k5ycCenoQi6sWgU8Hyhx6Lg",
-    "id": 30
-  },
-  {
-    "title": "The Agent-Buyer Thesis – What Happens When AI Agents Are the Buyers",
-    "url": "https://agentbuyer.gumroad.com/l/agent-buyer-thesis",
-    "source": "Hacker News",
-    "date": "2026-06-23",
-    "summary": "Article URL: https://agentbuyer.gumroad.com/l/agent-buyer-thesis Comments URL: https://news.ycombinator.com/item?id=48651087 Points: 2 # Comments: 1",
-    "category": "industry",
-    "id": 31
-  },
-  {
-    "title": "We've seen AI hype cycles before. They didn't end well",
-    "url": "https://www.narracomm.com/weve-seen-ai-hype-cycles-before-they-didnt-end-well/",
-    "source": "Hacker News",
-    "date": "2026-06-23",
-    "summary": "Article URL: https://www.narracomm.com/weve-seen-ai-hype-cycles-before-they-didnt-end-well/ Comments URL: https://news.ycombinator.com/item?id=48650962 Points: 3 # Comments: 3",
-    "category": "industry",
-    "id": 32
-  },
-  {
-    "title": "Doesitstillwork.ai – community-verified status for AI tool features",
-    "url": "https://doesitstillwork.ai",
-    "source": "Hacker News",
-    "date": "2026-06-23",
-    "summary": "Article URL: https://doesitstillwork.ai Comments URL: https://news.ycombinator.com/item?id=48650935 Points: 2 # Comments: 1",
-    "category": "tools",
-    "image": "https://bolt.new/static/og_default.png",
-    "id": 33
-  },
-  {
-    "title": "Flight Recorder for AI Agents",
-    "url": "https://stordai.com/",
-    "source": "Hacker News",
-    "date": "2026-06-23",
-    "summary": "Article URL: https://stordai.com/ Comments URL: https://news.ycombinator.com/item?id=48650789 Points: 2 # Comments: 1",
-    "category": "industry",
-    "image": "https://stordai.com/demo.gif",
-    "id": 34
-  },
-  {
-    "title": "Show HN: Proctor – signed isolation bundles for AI coding-agent benchmarks",
-    "url": "https://github.com/dylanp12/proctor",
-    "source": "Hacker News",
-    "date": "2026-06-23",
-    "summary": "Article URL: https://github.com/dylanp12/proctor Comments URL: https://news.ycombinator.com/item?id=48650355 Points: 3 # Comments: 0",
-    "category": "models",
-    "image": "https://opengraph.githubassets.com/574685527badce8577bc0e8e2702391c118a113dc763b764a39d654908d207b0/dylanp12/proctor",
-    "id": 35
-  },
-  {
-    "title": "Show HN: Persist OS – Durable decisions for AI code",
-    "url": "https://github.com/Karthick-Ramachandran/persist-os",
-    "source": "Hacker News",
-    "date": "2026-06-23",
-    "summary": "In the past few months, I’ve been building and shipping things extremely fast. Some of the MVPs that I built for my friends were completely vibe-coded and shipped within a day to show a demo. While it...",
-    "category": "hardware",
-    "image": "https://opengraph.githubassets.com/72f1df11743453d5030032e3f3337b042f3de1b80282808e2e99658a6b2584c9/Karthick-Ramachandran/persist-os",
-    "id": 36
-  },
-  {
-    "title": "Does AI Adoption Improve Productivity? Effects over the First Three Years",
-    "url": "https://www.bok.or.kr/eng/bbs/B0000354/view.do?nttId=10098400&menuNo=400409",
-    "source": "Hacker News",
-    "date": "2026-06-23",
-    "summary": "Article URL: https://www.bok.or.kr/eng/bbs/B0000354/view.do?nttId=10098400&menuNo=400409 Comments URL: https://news.ycombinator.com/item?id=48650242 Points: 1 # Comments: 0",
-    "category": "industry",
-    "image": "https://static-cdn.bok.or.kr/static/eng/img/main/bokOgImg.png",
-    "id": 37
-  },
-  {
-    "title": "Why smarter models won't lead to AI co-workers",
-    "url": "https://usize.github.io/blog/2026/april/why-no-ai-coworkers.html",
-    "source": "Hacker News",
-    "date": "2026-06-23",
-    "summary": "Article URL: https://usize.github.io/blog/2026/april/why-no-ai-coworkers.html Comments URL: https://news.ycombinator.com/item?id=48650166 Points: 1 # Comments: 0",
-    "category": "industry",
-    "id": 38
-  },
-  {
-    "title": "Sakana AI Releases 'Fugu Ultra' to Match Frontier Performance",
-    "url": "https://sakana.ai/fugu-release/",
-    "source": "Hacker News",
-    "date": "2026-06-23",
-    "summary": "Article URL: https://sakana.ai/fugu-release/ Comments URL: https://news.ycombinator.com/item?id=48650106 Points: 2 # Comments: 0",
-    "category": "industry",
-    "id": 39
   },
   {
     "title": "Sharing a love for calculus",
@@ -387,7 +235,7 @@
     "summary": "The national conversation about the value of education is currently dominated by speculation about the risks and positive potential of AI. Whatever your own perspective on that debate, I hope you’ll b...",
     "category": "industry",
     "image": "https://wp.technologyreview.com/wp-content/uploads/2025/08/MIT_Sally_Kornbluth_034.jpeg?resize=1200,600",
-    "id": 40
+    "id": 24
   },
   {
     "title": "Reinventing the zipper",
@@ -397,7 +245,7 @@
     "summary": "With an adaptable fastener designed at CSAIL, pitching a tent or adjusting the cast for a broken bone could be almost as easy as zipping your coat. The researchers, led by associate professor Stefanie...",
     "category": "research",
     "image": "https://wp.technologyreview.com/wp-content/uploads/2026/06/MIT-News-YZipper.png?resize=1200,600",
-    "id": 41
+    "id": 25
   },
   {
     "title": "Beyond Fixed Budgets: Characterizing the Inelasticity and Limitations of Tree-of-Thought Reasoning Strategies",
@@ -406,7 +254,7 @@
     "date": "2026-06-23",
     "summary": "Tree of Thought (ToT) search has become a promising direction for improving the reasoning capabilities of large language models, but deploying these methods in practice raises a question that has rece...",
     "category": "models",
-    "id": 42
+    "id": 26
   },
   {
     "title": "The New Associationism: Lessons from Deep Learning",
@@ -415,7 +263,7 @@
     "date": "2026-06-23",
     "summary": "What can the success of modern AI tell us about how humans learn? This paper argues that taking AI seriously as a model of human learning supports a modest but genuine associationism. The central find...",
     "category": "models",
-    "id": 43
+    "id": 27
   },
   {
     "title": "Specifying AI-SDLC Processes: A Protocol Language for Human-Agent Boundaries",
@@ -424,7 +272,7 @@
     "date": "2026-06-23",
     "summary": "AI agents now participate as first-class team members across the software development lifecycle, yet no specification language exists for expressing the human-agent responsibility boundaries, approval...",
     "category": "tools",
-    "id": 44
+    "id": 28
   },
   {
     "title": "PEAR: Permutation-Equivariant Adaptive Routing Multi-Agent Debate",
@@ -433,7 +281,7 @@
     "date": "2026-06-23",
     "summary": "Multi-agent debate improves the reliability of large language models (LLMs) through iterative peer critiques. However, fixed topologies often introduce persistent positional biases, amplify unreliable...",
     "category": "research",
-    "id": 45
+    "id": 29
   },
   {
     "title": "Darwin Mobile Agent: A Roadmap for Self-Evolution",
@@ -442,7 +290,7 @@
     "date": "2026-06-23",
     "summary": "The goal of artificial intelligence is to create agents capable of general, adaptive behaviour in open-ended environments. Guided by the \"Bitter Lesson\", we argue that the most effective path toward t...",
     "category": "hardware",
-    "id": 46
+    "id": 30
   },
   {
     "title": "In LLM Reasoning, there is Irrationality on top of Value Misalignment",
@@ -451,7 +299,7 @@
     "date": "2026-06-23",
     "summary": "Significant progress has been made in aligning LLMs with target value functions. We argue that, even when an LLM has been well aligned in (post-)training, it may still fail to maximise the aligned val...",
     "category": "models",
-    "id": 47
+    "id": 31
   },
   {
     "title": "AlphaMemo: Structured Search-Process Memory for Self-Evolving Alpha Mining Agents",
@@ -460,7 +308,7 @@
     "date": "2026-06-23",
     "summary": "LLM agents are promising for alpha mining via combining financial priors, symbolic reasoning, executable factor generation, and feedback-driven refinement. Yet, they face a combinatorial search space,...",
     "category": "models",
-    "id": 48
+    "id": 32
   },
   {
     "title": "Latent Goal Prediction from Language for Model-Based Planning",
@@ -469,7 +317,7 @@
     "date": "2026-06-23",
     "summary": "Planning with world models is bottlenecked by compounding prediction errors and the difficulty of defining optimizable goals. Visual targets provide precise local gradients but poor distant guidance, ...",
     "category": "research",
-    "id": 49
+    "id": 33
   },
   {
     "title": "Human Decision-Making with AI Assistance under Correlated Features",
@@ -477,6 +325,150 @@
     "source": "arXiv cs.AI",
     "date": "2026-06-23",
     "summary": "Humans increasingly make decisions with AI assistance; for example, doctors may follow AI-recommended diagnostic tests and base their diagnoses on the results. A natural question is which tests should...",
+    "category": "research",
+    "id": 34
+  },
+  {
+    "title": "Harnessing Agent Skills: Architectural Patterns and a Reference Architecture for Skill-Mediated LLM Agents",
+    "url": "https://arxiv.org/abs/2606.20631",
+    "source": "arXiv cs.AI",
+    "date": "2026-06-23",
+    "summary": "Agent skills externalise reusable agent-facing behavioural knowledge and guidance as persistent artefacts that can be discovered, activated, and interpreted by LLM agents. Although a skill artefact is...",
+    "category": "models",
+    "id": 35
+  },
+  {
+    "title": "DEMM-Bench: A Cross-Regime Benchmark for Agent-Runtime Governance-Evidence Sufficiency",
+    "url": "https://arxiv.org/abs/2606.20634",
+    "source": "arXiv cs.AI",
+    "date": "2026-06-23",
+    "summary": "Agent-runtime systems emit traces, ledgers, provenance graphs, policy logs, delegation tokens, cache events, and tool-firewall records, but those containers do not necessarily answer governance questi...",
+    "category": "research",
+    "id": 36
+  },
+  {
+    "title": "SkillHarness: Harnessing Safe Skills for Computer-Use Agents",
+    "url": "https://arxiv.org/abs/2606.20636",
+    "source": "arXiv cs.AI",
+    "date": "2026-06-23",
+    "summary": "Computer-Use Agents (CUAs) are increasingly deployed in dynamic interactive environments, creating a growing need for continual skill learning during interaction. Recent approaches address this challe...",
+    "category": "research",
+    "id": 37
+  },
+  {
+    "title": "Constituency Optimisation Through Hamiltonian Representation Of Mandates (COTHROM): Algorithmic Redistricting of Irish Election Boundaries",
+    "url": "https://arxiv.org/abs/2606.20637",
+    "source": "arXiv cs.AI",
+    "date": "2026-06-23",
+    "summary": "Electoral redistricting in Ireland's Proportional Representation Single Transferable Vote (PR-STV) system faces the challenge of selecting an optimally representative set of electoral boundaries from ...",
+    "category": "research",
+    "id": 38
+  },
+  {
+    "title": "RIZZ: Routing Interactions to Near Zero-Interference Zones for Continual Adaptation of Black-Box Agents",
+    "url": "https://arxiv.org/abs/2606.20638",
+    "source": "arXiv cs.AI",
+    "date": "2026-06-23",
+    "summary": "Large language models are increasingly deployed as long-lived agents that must adapt across users, tasks, domains, modalities, and feedback regimes without access to model weights. Existing black-box ...",
+    "category": "models",
+    "id": 39
+  },
+  {
+    "title": "An LLM-Explainable DRL Framework for Passenger-Directed Autonomous Driving",
+    "url": "https://arxiv.org/abs/2606.20640",
+    "source": "arXiv cs.AI",
+    "date": "2026-06-23",
+    "summary": "Autonomous vehicles offer the potential for safer and more efficient mobility, yet public trust remains limited due to the lack of transparency in their decision-making. This work addresses this issue...",
+    "category": "models",
+    "id": 40
+  },
+  {
+    "title": "Hypothesis-Disciplined Multi-Agent Automated Formalization of Asymptotic Statistical Theory",
+    "url": "https://arxiv.org/abs/2606.20642",
+    "source": "arXiv cs.AI",
+    "date": "2026-06-23",
+    "summary": "Asymptotic statistical theory is a challenging domain for AI-assisted formalization: its central results mix convergence statements, asymptotic expansions, functional analysis, and regularity conditio...",
+    "category": "industry",
+    "id": 41
+  },
+  {
+    "title": "SPARC: A Multi-Agent System for Electrical Circuit Question Answering",
+    "url": "https://arxiv.org/abs/2606.20643",
+    "source": "arXiv cs.AI",
+    "date": "2026-06-23",
+    "summary": "Electrical circuit diagram QA tasks require complex mathematical reasoning, which remains challenging for multimodal LLMs. We present SPARC, a multi-agent system that answers questions over circuit di...",
+    "category": "models",
+    "id": 42
+  },
+  {
+    "title": "Bridging Multi-Valued Heuristics and Dimensionality Reduction in Multi-Objective Search",
+    "url": "https://arxiv.org/abs/2606.20644",
+    "source": "arXiv cs.AI",
+    "date": "2026-06-23",
+    "summary": "Multi-objective shortest-path (MOSP) algorithms traditionally rely on single-valued heuristics (SVHs), which associate each state with a single admissible cost vector. While SVHs provide safe lower bo...",
+    "category": "research",
+    "id": 43
+  },
+  {
+    "title": "Learning Splitting Heuristics for Parallel String Solvers",
+    "url": "https://arxiv.org/abs/2606.20656",
+    "source": "arXiv cs.AI",
+    "date": "2026-06-23",
+    "summary": "String constraint solvers are crucial for reasoning about string-manipulating programs. However, many practical string constraints are undecidable, and real-world applications often present complex co...",
+    "category": "research",
+    "id": 44
+  },
+  {
+    "title": "A-Evolve-Training: Autonomous Post-Training of a 30B Model",
+    "url": "https://arxiv.org/abs/2606.20657",
+    "source": "arXiv cs.AI",
+    "date": "2026-06-23",
+    "summary": "Post-training a frontier model is normally weeks of human work: proposing data and recipe changes, launching runs, reading evals, deciding what to keep. We report an autonomous system that runs this l...",
+    "category": "hardware",
+    "id": 45
+  },
+  {
+    "title": "Expected Free Energy-based Planning as Variational Inference",
+    "url": "https://arxiv.org/abs/2606.20658",
+    "source": "arXiv cs.AI",
+    "date": "2026-06-23",
+    "summary": "Planning under uncertainty requires agents to balance goal achievement with information gathering. Active inference addresses this through the Expected Free Energy (EFE), a cost function that unifies ...",
+    "category": "research",
+    "id": 46
+  },
+  {
+    "title": "Skill Coverage: A Test Adequacy Metric for Agent Skills",
+    "url": "https://arxiv.org/abs/2606.20659",
+    "source": "arXiv cs.AI",
+    "date": "2026-06-23",
+    "summary": "Agent skills encode reusable procedural knowledge that guides large language model agents across tasks and execution contexts. Existing evaluations primarily assess skills through task level outcomes,...",
+    "category": "research",
+    "id": 47
+  },
+  {
+    "title": "From Knowing to Acting: Benchmarking Self-Awareness Capability of LLM Agents",
+    "url": "https://arxiv.org/abs/2606.20661",
+    "source": "arXiv cs.AI",
+    "date": "2026-06-23",
+    "summary": "The integration of external tools has transitioned LLM agents from passive responders to autonomous systems. However, current benchmarks prioritize execution success, neglecting self-awareness capabil...",
+    "category": "models",
+    "id": 48
+  },
+  {
+    "title": "DrugBench: Evaluating AI Control Protocols for Medication Harm Mitigation",
+    "url": "https://arxiv.org/abs/2606.20663",
+    "source": "arXiv cs.AI",
+    "date": "2026-06-23",
+    "summary": "Large Language Models have the potential to expand and improve the access to clinical information by enabling new ways of interacting with medical knowledge in natural language. However, their deploym...",
+    "category": "research",
+    "id": 49
+  },
+  {
+    "title": "A Quantum-Assisted Agentic Distributed Artificial Intelligence Framework for Deadline-Bounded Orchestration of Hybrid Renewable Microgrids",
+    "url": "https://arxiv.org/abs/2606.20667",
+    "source": "arXiv cs.AI",
+    "date": "2026-06-23",
+    "summary": "The real-time orchestration of microgrids that combine fluctuating renewable sources, dispatchable units, storage and curtailable consumers requires the repeated solution of combinatorial dispatch and...",
     "category": "research",
     "id": 50
   }
