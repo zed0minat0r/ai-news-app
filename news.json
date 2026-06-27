@@ -51,6 +51,16 @@
     "id": 5
   },
   {
+    "title": "Apple Vision Pro exec is reportedly leaving for OpenAI",
+    "url": "https://techcrunch.com/2026/06/27/apple-vision-pro-exec-is-reportedly-leaving-for-openai/",
+    "source": "TechCrunch",
+    "date": "2026-06-27",
+    "summary": "Paul Meade, the Apple vice president in charge of the Vision Pro headset, is reportedly leaving the company to join OpenAI’s hardware team.",
+    "category": "industry",
+    "image": "https://techcrunch.com/wp-content/uploads/2023/06/Vision-Pro-IMG-3.jpeg?resize=1200,800",
+    "id": 6
+  },
+  {
     "title": "The fittest founder in the room got cancer. Here’s how he used AI to fight back.",
     "url": "https://techcrunch.com/2026/06/27/the-fittest-founder-in-the-room-got-cancer-heres-how-he-used-ai-to-fight-back/",
     "source": "TechCrunch",
@@ -58,7 +68,7 @@
     "summary": "When confronted with cancer, Connor Christou fed everything tied tied to his regime — blood results, scan data, wearable output, journal entries — into Claude.",
     "category": "models",
     "image": "https://techcrunch.com/wp-content/uploads/2026/06/Screenshot-2026-06-26-at-10.22.24-AM.png?resize=1200,683",
-    "id": 6
+    "id": 7
   },
   {
     "title": "Asian AI startups launch Mythos-like  models as Anthropic’s export ban drags on",
@@ -68,7 +78,7 @@
     "summary": "New models are launching in Asia that promise Mythos-like capabilities without fear of an export ban. U.S. AI labs may never recover this enormous market.",
     "category": "industry",
     "image": "https://techcrunch.com/wp-content/uploads/2026/06/GettyImages-2278736523.jpeg?resize=1200,798",
-    "id": 7
+    "id": 8
   },
   {
     "title": "Trump Admin releases Anthropic  Mythos to be used by more than 100 US companies, agencies",
@@ -78,7 +88,114 @@
     "summary": "Over 100 companies and government agencies are reportedly authorized to use Mythos 5, including their non-American employees.",
     "category": "industry",
     "image": "https://techcrunch.com/wp-content/uploads/2026/06/GettyImages-2279025960.jpg?w=1024",
-    "id": 8
+    "id": 9
+  },
+  {
+    "title": "Riskratchet: Stop AI-generated code from rotting your codebase",
+    "url": "https://github.com/KayhanB21/riskratchet",
+    "source": "Hacker News",
+    "date": "2026-06-27",
+    "summary": "Article URL: https://github.com/KayhanB21/riskratchet Comments URL: https://news.ycombinator.com/item?id=48700587 Points: 2 # Comments: 0",
+    "category": "industry",
+    "image": "https://opengraph.githubassets.com/c6b02048e058ee100a1c1a137a230c5d774dbe593544e99d36fef3971909779b/KayhanB21/riskratchet",
+    "id": 10
+  },
+  {
+    "title": "Show HN: OpenOrb – I built a transparent multi-agent AI tool",
+    "url": "https://openorb.onrender.com",
+    "source": "Hacker News",
+    "date": "2026-06-27",
+    "summary": "Article URL: https://openorb.onrender.com Comments URL: https://news.ycombinator.com/item?id=48700557 Points: 1 # Comments: 0",
+    "category": "tools",
+    "id": 11
+  },
+  {
+    "title": "Koreeda's 'Sheep in the Box': The ethics of AI resurrection in film",
+    "url": "https://www.nippon.com/en/japan-topics/c030329/",
+    "source": "Hacker News",
+    "date": "2026-06-27",
+    "summary": "Article URL: https://www.nippon.com/en/japan-topics/c030329/ Comments URL: https://news.ycombinator.com/item?id=48700324 Points: 1 # Comments: 0",
+    "category": "industry",
+    "image": "https://www.nippon.com/en/ncommon/contents/japan-topics/3025205/3025205.jpg",
+    "id": 12
+  },
+  {
+    "title": "Chinese Hedge Funds Warn the AI 'Super Bubble' Is Ready to Burst",
+    "url": "https://www.bloomberg.com/news/articles/2026-06-26/chinese-hedge-funds-warn-the-ai-super-bubble-is-ready-to-burst",
+    "source": "Hacker News",
+    "date": "2026-06-27",
+    "summary": "Article URL: https://www.bloomberg.com/news/articles/2026-06-26/chinese-hedge-funds-warn-the-ai-super-bubble-is-ready-to-burst Comments URL: https://news.ycombinator.com/item?id=48700240 Points: 5 # C...",
+    "category": "industry",
+    "image": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iTxtYGezbwYg/v1/1200x800.jpg",
+    "id": 13
+  },
+  {
+    "title": "Napster is now \"AI agents you can see, talk to, and create with.\"",
+    "url": "https://www.napster.com",
+    "source": "Hacker News",
+    "date": "2026-06-27",
+    "summary": "Article URL: https://www.napster.com Comments URL: https://news.ycombinator.com/item?id=48700041 Points: 2 # Comments: 2",
+    "category": "industry",
+    "image": "https://cdn.prod.website-files.com/69ae6251111a514c4038172a/69ae7637393b1f52d86dd343_opengraph.png",
+    "id": 14
+  },
+  {
+    "title": "Show HN: Humans Constructively Roasting AI Coded B2B SaaS",
+    "url": "https://www.hyoomn.com/?0",
+    "source": "Hacker News",
+    "date": "2026-06-27",
+    "summary": "Article URL: https://www.hyoomn.com/?0 Comments URL: https://news.ycombinator.com/item?id=48699960 Points: 1 # Comments: 1",
+    "category": "industry",
+    "image": "https://hyoomn.com/og-image.jpg",
+    "id": 15
+  },
+  {
+    "title": "Clean GitHub repo tricks AI coding agents into running malware",
+    "url": "https://www.bleepingcomputer.com/news/security/clean-github-repo-tricks-ai-coding-agents-into-running-malware/",
+    "source": "Hacker News",
+    "date": "2026-06-27",
+    "summary": "Article URL: https://www.bleepingcomputer.com/news/security/clean-github-repo-tricks-ai-coding-agents-into-running-malware/ Comments URL: https://news.ycombinator.com/item?id=48699886 Points: 3 # Comm...",
+    "category": "industry",
+    "image": "https://www.bleepstatic.com/content/hl-images/2025/10/23/ai-1.jpg",
+    "id": 16
+  },
+  {
+    "title": "AI-Powered Public Comments Are Entering US Climate Politics",
+    "url": "https://www.bloomberg.com/news/newsletters/2026-06-27/how-ai-powered-public-comments-could-impact-us-climate-politics",
+    "source": "Hacker News",
+    "date": "2026-06-27",
+    "summary": "Article URL: https://www.bloomberg.com/news/newsletters/2026-06-27/how-ai-powered-public-comments-could-impact-us-climate-politics Comments URL: https://news.ycombinator.com/item?id=48699641 Points: 3...",
+    "category": "industry",
+    "image": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iWqMOeTcvSvg/v1/1200x1200.jpg",
+    "id": 17
+  },
+  {
+    "title": "NASA tests AI medic for astronauts too far from Earth to call a doctor",
+    "url": "https://www.theregister.com/ai-and-ml/2026/06/27/nasa-tests-ai-medic-for-astronauts-too-far-from-earth-to-call-a-doctor/5262828",
+    "source": "Hacker News",
+    "date": "2026-06-27",
+    "summary": "Article URL: https://www.theregister.com/ai-and-ml/2026/06/27/nasa-tests-ai-medic-for-astronauts-too-far-from-earth-to-call-a-doctor/5262828 Comments URL: https://news.ycombinator.com/item?id=48699623...",
+    "category": "industry",
+    "image": "https://image.theregister.com/5240526.jpg?imageId=5240526&x=0&y=0&cropw=100&croph=100&panox=0&panoy=0&panow=100&panoh=100&width=1200&height=683",
+    "id": 18
+  },
+  {
+    "title": "Australian rescue team uses AI-powered drone to find lost hikers [video]",
+    "url": "https://www.youtube.com/watch?v=bUjteM5NwuY",
+    "source": "Hacker News",
+    "date": "2026-06-27",
+    "summary": "Article URL: https://www.youtube.com/watch?v=bUjteM5NwuY Comments URL: https://news.ycombinator.com/item?id=48699433 Points: 2 # Comments: 0",
+    "category": "industry",
+    "id": 19
+  },
+  {
+    "title": "Native Hacker News TUI client with AI comments summary written in Golang",
+    "url": "https://code.intellios.ai/cwnews/",
+    "source": "Hacker News",
+    "date": "2026-06-27",
+    "summary": "Article URL: https://code.intellios.ai/cwnews/ Comments URL: https://news.ycombinator.com/item?id=48699403 Points: 1 # Comments: 0",
+    "category": "hardware",
+    "id": 20
   },
   {
     "title": "The PM's Guide to Managing AI Debt",
@@ -88,7 +205,7 @@
     "summary": "Article URL: https://newsletter.artofsaience.com/p/the-pms-guide-to-managing-ai-debt Comments URL: https://news.ycombinator.com/item?id=48699231 Points: 2 # Comments: 0",
     "category": "industry",
     "image": "https://substackcdn.com/image/fetch/$s_!sYra!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fa78ca4d3-47ed-40e4-abf0-9ed8d3a70198_1080x813.jpeg",
-    "id": 9
+    "id": 21
   },
   {
     "title": "Show HN: Ocarina – Automate and test MCP servers from YAML, no LLM",
@@ -97,8 +214,8 @@
     "date": "2026-06-27",
     "summary": "Hi all. As someone who has spent years working with Ansible and other automation frameworks, the recent MCP boom has me fascinated. People are creating nice, typed, LLM-readable (and thus human-readab...",
     "category": "tools",
-    "image": "https://opengraph.githubassets.com/caabc5a27761747ec82ccbb55af572f5df1ea2621fe1b8fbbee9d4fe28fceffe/msradam/ocarina",
-    "id": 10
+    "image": "https://opengraph.githubassets.com/92984c9d399bfdb0f13aa20e1ecd52731532d82beffad6e9070447681083af9d/msradam/ocarina",
+    "id": 22
   },
   {
     "title": "Distributed LLM Inference with LLM-d",
@@ -108,17 +225,17 @@
     "summary": "Article URL: https://cefboud.com/posts/llm-d/ Comments URL: https://news.ycombinator.com/item?id=48699083 Points: 3 # Comments: 0",
     "category": "models",
     "image": "https://cefboud.com/assets/img/favicons/og.png",
-    "id": 11
+    "id": 23
   },
   {
     "title": "Show HN: AI-whisper – Claude works better when Codex watches its back",
     "url": "https://ai-creed.dev/projects/ai-whisper/",
     "source": "Hacker News",
     "date": "2026-06-27",
-    "summary": "Article URL: https://ai-creed.dev/projects/ai-whisper/ Comments URL: https://news.ycombinator.com/item?id=48698924 Points: 3 # Comments: 1",
+    "summary": "Article URL: https://ai-creed.dev/projects/ai-whisper/ Comments URL: https://news.ycombinator.com/item?id=48698924 Points: 3 # Comments: 2",
     "category": "models",
     "image": "https://ai-creed.dev/og.png",
-    "id": 12
+    "id": 24
   },
   {
     "title": "Show HN: Apex-1-flash, 4B LLM finetuned on RTX 5070",
@@ -128,7 +245,7 @@
     "summary": "The goal was to create a highly efficient, small-scale model that can perform reasoning tasks while remaining lightweight enough to run easily on consumer hardware. Technical Stack: Base: Qwen3:4B Tra...",
     "category": "models",
     "image": "https://cdn-thumbnails.huggingface.co/social-thumbnails/models/OrbitAIEU/Apex-1-flash.png",
-    "id": 13
+    "id": 25
   },
   {
     "title": "AI: The Falsity of Comparison",
@@ -138,7 +255,7 @@
     "summary": "Article URL: https://syntheticauth.ai/posts/ai-the-falsity-of-comparison Comments URL: https://news.ycombinator.com/item?id=48698885 Points: 2 # Comments: 0",
     "category": "industry",
     "image": "https://embed.filekitcdn.com/e/wNGx93wWNxx21jy685aeV5/htWJGNMw4ifcbXmfVDNPd3",
-    "id": 14
+    "id": 26
   },
   {
     "title": "Corv: An SSH client for AI agents (and humans)",
@@ -147,8 +264,8 @@
     "date": "2026-06-27",
     "summary": "Article URL: https://github.com/khalid-src/corv-client Comments URL: https://news.ycombinator.com/item?id=48698681 Points: 3 # Comments: 1",
     "category": "industry",
-    "image": "https://opengraph.githubassets.com/34e62e79662f1c72d57497745a31df15d0ac48a997ffec2f355a17519c9c4574/khalid-src/corv-client",
-    "id": 15
+    "image": "https://opengraph.githubassets.com/19e668ae4ff799425ec6dbd361697a6c93a66c0c40aa4f558c41931d54dcc3e5/khalid-src/corv-client",
+    "id": 27
   },
   {
     "title": "AI Anxiety Is Fueling Burnout Across Silicon Valley's Tech Workers",
@@ -157,7 +274,8 @@
     "date": "2026-06-27",
     "summary": "Article URL: https://www.bloomberg.com/news/articles/2026-06-26/ai-anxiety-is-fueling-burnout-across-silicon-valley-s-tech-workers Comments URL: https://news.ycombinator.com/item?id=48698657 Points: 5...",
     "category": "hardware",
-    "id": 16
+    "image": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iFvcFRHhjPhQ/v0/1200x800.jpg",
+    "id": 28
   },
   {
     "title": "Autonomous AI Software Development: Good Idea, or Bad Idea?",
@@ -167,101 +285,7 @@
     "summary": "Article URL: https://adrianavillela.com/post/the-great-autonomous-ai-experiment/ Comments URL: https://news.ycombinator.com/item?id=48698552 Points: 3 # Comments: 0",
     "category": "industry",
     "image": "https://adrianavillela.netlify.app/home-blog-card.png",
-    "id": 17
-  },
-  {
-    "title": "Stop wasting your LLM context window on standard JSON and YAML",
-    "url": "https://www.npmjs.com/package/mason-parser",
-    "source": "Hacker News",
-    "date": "2026-06-27",
-    "summary": "Article URL: https://www.npmjs.com/package/mason-parser Comments URL: https://news.ycombinator.com/item?id=48698444 Points: 2 # Comments: 0",
-    "category": "models",
-    "id": 18
-  },
-  {
-    "title": "AI Ticket and Article Summarization Package for Otobo ITSM",
-    "url": "https://github.com/imAbdelhadi/AISummaryPackage",
-    "source": "Hacker News",
-    "date": "2026-06-27",
-    "summary": "Article URL: https://github.com/imAbdelhadi/AISummaryPackage Comments URL: https://news.ycombinator.com/item?id=48698296 Points: 2 # Comments: 1",
-    "category": "industry",
-    "image": "https://opengraph.githubassets.com/c7e573eb59336220e2d34605f382bb6f1606e9144b4018f099ca9551595b8b01/imAbdelhadi/AISummaryPackage",
-    "id": 19
-  },
-  {
-    "title": "Adobe Generative AI User Guidelines (2026)",
-    "url": "https://www.adobe.com/legal/licenses-terms/adobe-gen-ai-user-guidelines.html",
-    "source": "Hacker News",
-    "date": "2026-06-27",
-    "summary": "Article URL: https://www.adobe.com/legal/licenses-terms/adobe-gen-ai-user-guidelines.html Comments URL: https://news.ycombinator.com/item?id=48698263 Points: 2 # Comments: 1",
-    "category": "industry",
-    "id": 20
-  },
-  {
-    "title": "Show HN: Hyoomn – We'll constructively roast your AI coded B2B SaaS",
-    "url": "https://hyoomn.com/",
-    "source": "Hacker News",
-    "date": "2026-06-27",
-    "summary": "Article URL: https://hyoomn.com/ Comments URL: https://news.ycombinator.com/item?id=48698115 Points: 2 # Comments: 0",
-    "category": "industry",
-    "image": "https://hyoomn.com/og-image.jpg",
-    "id": 21
-  },
-  {
-    "title": "GPT-5.6 Sol: ~20 US govt-approved orgs only. What about non-US businesses?",
-    "url": "https://nexusfoundation.substack.com/p/digital-segregation-how-bigtech-and",
-    "source": "Hacker News",
-    "date": "2026-06-27",
-    "summary": "Article URL: https://nexusfoundation.substack.com/p/digital-segregation-how-bigtech-and Comments URL: https://news.ycombinator.com/item?id=48698110 Points: 3 # Comments: 0",
-    "category": "models",
-    "id": 22
-  },
-  {
-    "title": "It's 11:00 pm. Do you know where your AI agent is?",
-    "url": "https://www.aiweirdness.com/its-11-00-pm-do-you-know-where-your-ai-agent-is/",
-    "source": "Hacker News",
-    "date": "2026-06-27",
-    "summary": "Article URL: https://www.aiweirdness.com/its-11-00-pm-do-you-know-where-your-ai-agent-is/ Comments URL: https://news.ycombinator.com/item?id=48697978 Points: 2 # Comments: 0",
-    "category": "industry",
-    "image": "https://storage.ghost.io/c/88/01/8801c921-e9ec-4479-88c3-381d53470eca/content/images/size/w1200/2026/06/do-you-know-where-your-ai-agent-is.png",
-    "id": 23
-  },
-  {
-    "title": "BlueBookOS: An LLM microkernel and language for specifying apps",
-    "url": "https://bluebookos.com/",
-    "source": "Hacker News",
-    "date": "2026-06-27",
-    "summary": "Article URL: https://bluebookos.com/ Comments URL: https://news.ycombinator.com/item?id=48697658 Points: 2 # Comments: 0",
-    "category": "models",
-    "id": 24
-  },
-  {
-    "title": "Show HN: Nirnam – a browser-native message bus and AI agent framework for MFEs",
-    "url": "https://github.com/shaurcasm/nirnam",
-    "source": "Hacker News",
-    "date": "2026-06-27",
-    "summary": "Communication hub to make communication easier for MFEs, Browser Worker threads, Browser-native Agents. And an Agent framework to make it easier to build browser native multi-agent system. Comments UR...",
-    "category": "tools",
-    "image": "https://opengraph.githubassets.com/adf15f356b43f080f68c96d511879fda8704abf9d1d64fe766e228900c04d781/shaurcasm/nirnam",
-    "id": 25
-  },
-  {
-    "title": "Ask HN: Is there a quiet market for 'no enforced AI' dev jobs?",
-    "url": "https://news.ycombinator.com/item?id=48697527",
-    "source": "Hacker News",
-    "date": "2026-06-27",
-    "summary": "It seems to me that the dissenting voices from software engineers burned out after having the AI hype shoved down their throats have been growing louder lately. Just this week I read several posts bot...",
-    "category": "research",
-    "id": 26
-  },
-  {
-    "title": "Gnome AI Assistant Adds Image Generation Support",
-    "url": "https://www.phoronix.com/news/GNOME-Newelle-Image-Gen",
-    "source": "Hacker News",
-    "date": "2026-06-27",
-    "summary": "Article URL: https://www.phoronix.com/news/GNOME-Newelle-Image-Gen Comments URL: https://news.ycombinator.com/item?id=48697487 Points: 1 # Comments: 0",
-    "category": "industry",
-    "id": 27
+    "id": 29
   },
   {
     "title": "Trump Administration Allows Anthropic to Release  Mythos to Select US Organizations",
@@ -271,7 +295,7 @@
     "summary": "After weeks of negotiations, the White House permitted Anthropic to grant access to its most advanced AI model to a select group of US companies and government agencies.",
     "category": "industry",
     "image": "https://media.wired.com/photos/6a31dd3da349dd0edc2c4b26/191:100/w_1280,c_limit/Anthropic-Restores-Fable-Access-Business.jpg",
-    "id": 28
+    "id": 30
   },
   {
     "title": "Previewing GPT-5.6 Sol: a next-generation model",
@@ -280,7 +304,7 @@
     "date": "2026-06-26",
     "summary": "OpenAI previews GPT-5.6 Sol, a next-generation model with stronger capabilities in coding, science, and cybersecurity, paired with its most advanced safety stack.",
     "category": "models",
-    "id": 29
+    "id": 31
   },
   {
     "title": "Incredible Ryzen 7 9800X3D prebuilt deal comes with an RX 9070 XT and 32GB of DDR5 for $750 off — get a prime iBuyPower 4K gaming rig for just $1,749",
@@ -290,7 +314,7 @@
     "summary": "The iBuyPower Y40 PC is on an incredible sale, offering a Ryzen 7 9800X3D, RX 9070 XT, 1TB of storage, and 32GB of memory for $750 off.",
     "category": "hardware",
     "image": "https://cdn.mos.cms.futurecdn.net/8XsdQqW3MUMZ4ZFdyXtSS6-1280-80.jpg",
-    "id": 30
+    "id": 32
   },
   {
     "title": "Gigabyte Aero X16 gaming laptop delivers RTX 5060, 32GB RAM, and a 16-inch 165Hz 1600p display for 21% off",
@@ -300,7 +324,7 @@
     "summary": "The Gigabyte Aero 16X packs a Ryzen AI 7 350 CPU, 32GB of RAM, and an RTX 5060",
     "category": "hardware",
     "image": "https://cdn.mos.cms.futurecdn.net/HbJ8W9SUkAbSAAHUxU5UBR-1280-80.jpg",
-    "id": 31
+    "id": 33
   },
   {
     "title": "Save $250 on this AMD AM5 bundle, get Samsung 990 Pro SSD for basically free — grab the AMD Ryzen 5 9600X, Gigabyte B850 Aorus Elite motherboard, and 990 Pro 1TB SSD for 36% off",
@@ -310,7 +334,7 @@
     "summary": "Save nearly $250 on three essential PC components with this Newegg bundle featuring AMD's Ryzen 5 9600X, a Gigabyte B850 motherboard, and Samsung's flagship PCIe 4.0 SSD.",
     "category": "hardware",
     "image": "https://cdn.mos.cms.futurecdn.net/4jk99LtvcGooD6AWz7bwBa-1280-80.jpg",
-    "id": 32
+    "id": 34
   },
   {
     "title": "Meta Quest 3S drops to pre-RAMpocalypse prices for a Prime Day — wireless VR headset goes on sale for a limited time, get 15% off and save more than $50 if you get it right now",
@@ -320,7 +344,7 @@
     "summary": "The Meta Quest 3S is one sale at $296.79, saving you $53.20 from its original price of $349.99, making it more affordable than its pre-memory chip shortage price of $300.",
     "category": "hardware",
     "image": "https://cdn.mos.cms.futurecdn.net/8jb8xofZp3qCG63mzwMz3D-1280-80.png",
-    "id": 33
+    "id": 35
   },
   {
     "title": "Asus' ROG Zephyrus G16 with an RTX 5070 & 240Hz OLED display is on sale for just $1,575 — Save $575 on an excellent gaming laptop with a 16-core flagship CPU & top-tier build quality",
@@ -330,7 +354,7 @@
     "summary": "Best Buy is slashing almost $600 off a fantastic gaming laptop that basically has no compromises. It delivers solid performance across a wide variety of workloads and rocks a stunning 16-inch 240Hz OL...",
     "category": "hardware",
     "image": "https://cdn.mos.cms.futurecdn.net/KmHJRqosbHM3SRkMWVuYie-1280-80.jpg",
-    "id": 34
+    "id": 36
   },
   {
     "title": "Onsemi buying cash-strapped Synaptics in $7 billion all-stock deal — smart power meets edge AI hardware",
@@ -340,7 +364,7 @@
     "summary": "Onsemi and Synaptics to merge in a bid to build comprehensive platforms for robotics, physical AI applications.",
     "category": "tools",
     "image": "https://cdn.mos.cms.futurecdn.net/FhnDs282pZ4xS7pLgnhCV-1280-80.jpg",
-    "id": 35
+    "id": 37
   },
   {
     "title": "The Ryzen 7 5800X3D is tough to find, but these Prime Day CPUs with DDR5 are cheaper — offset the cost of a DDR5 upgrade with a CPU discount",
@@ -350,7 +374,7 @@
     "summary": "AMD's re-released Ryzen 7 5800X3D sold out almost immediately when it launched, but if you're tired of waiting, you can easily upgrade to a DDR5 platform with these Prime Day CPUs deals, all of which ...",
     "category": "hardware",
     "image": "https://cdn.mos.cms.futurecdn.net/XLxPhaBMw2Dc2sHuFk5ag8-1280-80.jpg",
-    "id": 36
+    "id": 38
   },
   {
     "title": "OpenAI's ChatGPT-5.6 gets the same banhammer treatment as Anthropic’s Mythos from the federal government — source says that Washington cautioned OpenAI against releasing the model without receiving approval",
@@ -360,7 +384,7 @@
     "summary": "The U.S. government wants dibs on U.S. AI labs' most powerful models, asking for access 30 days before they go public. OpenAI is voluntarily complying with the President's executive order but wants 't...",
     "category": "industry",
     "image": "https://cdn.mos.cms.futurecdn.net/Ca5PyjuvZ3LWsXhiopVth9-1280-80.jpg",
-    "id": 37
+    "id": 39
   },
   {
     "title": "Framework's Laptop 13 Pro DIY Edition now costs less than before, but a CPU price hike might be coming — Cheaper PCIe 5.0 drives from Adata upgrade customers from 500GB to 1TB for free",
@@ -370,7 +394,7 @@
     "summary": "Framework has secured cheaper PCIe 5.0 SSDs for the DIY Edition of its Laptop 13 Pro, upgrading existing customers from 500GB to 1TB drives for free. Unfortunately, it seems like CPU prices are about ...",
     "category": "hardware",
     "image": "https://cdn.mos.cms.futurecdn.net/8YA5Bk4TVZ4pPzfjjdY4wF-1280-80.jpg",
-    "id": 38
+    "id": 40
   },
   {
     "title": "Apple will skip its high-end M6 Mac chips and fast-track an AI-focused M7 generation for 2027, report claims — may release a base M6 chip for entry-level Macs this year",
@@ -380,7 +404,7 @@
     "summary": "Apple will release a base M6 chip for entry-level Macs this year but skip the Pro and Max versions of that generation, jumping instead to an accelerated M7 family.",
     "category": "hardware",
     "image": "https://cdn.mos.cms.futurecdn.net/nN9B34iLQ7hZALdk2wZ5Ek-1280-80.jpg",
-    "id": 39
+    "id": 41
   },
   {
     "title": "Solidigm VP talks PCIe 6.0 SSDs, next-gen floating gate NAND, liquid cooled storage and more —  Avi Shetty, VP of AI, Solutions & Market Enablement discusses the future of enterprise storage tech",
@@ -390,7 +414,7 @@
     "summary": "In an interview with Tom’s Hardware Premium, Solidigm's Avi Shetty discusses the future of high-capacity SSDs, Floating-Gate NAND, PLC memory, PCIe 6.0 storage, liquid-cooled SSDs, Nvidia's Storage Ne...",
     "category": "hardware",
     "image": "https://cdn.mos.cms.futurecdn.net/stfNxWCyfRuKMHjeGPreHg-1280-80.jpg",
-    "id": 40
+    "id": 42
   },
   {
     "title": "AMD Ryzen 7 5800X3D vs Intel Core i7-14700K faceoff — A new battle for DDR4 supremacy in 2026",
@@ -400,7 +424,7 @@
     "summary": "We tested both CPUs across gaming, rendering, encoding, efficiency, and pricing to see if the Ryzen 7 5800X3D can keep up with the newer Core i7-14700K with DDR4.",
     "category": "hardware",
     "image": "https://cdn.mos.cms.futurecdn.net/Kgst7737CmYGScupZMDa3F-1280-80.jpg",
-    "id": 41
+    "id": 43
   },
   {
     "title": "AMD's new 10th Anniversary Ryzen 7 5800X3D CPU back in stock — Here's where to buy the revamped processor that's the fastest gaming chip available for AM4 platforms [Updated]",
@@ -410,7 +434,7 @@
     "summary": "AMD's new 10th-anniversary Ryzen 7 5800X3D is now available for purchase at B&H Photo at MSRP, a welcome relief for those who have been searching for the chip, only to find it being scalped at twice t...",
     "category": "hardware",
     "image": "https://cdn.mos.cms.futurecdn.net/8wErtoG3paXuDpFUDvEH27-1280-80.jpg",
-    "id": 42
+    "id": 44
   },
   {
     "title": "OpenAI limits GPT-5.6 rollout after government request, says restrictions shouldn’t be the norm",
@@ -420,7 +444,7 @@
     "summary": "“We don’t believe this kind of government access process should become the long-term default,” says OpenAI. “It keeps the best tools from users, developers, enterprises, cyber defenders, and global pa...",
     "category": "tools",
     "image": "https://techcrunch.com/wp-content/uploads/2026/05/GettyImages-2273245180.jpg?resize=1200,800",
-    "id": 43
+    "id": 45
   },
   {
     "title": "OpenAI poaches Uber India chief to lead its biggest market outside the US",
@@ -430,7 +454,7 @@
     "summary": "The hire marks OpenAI's latest push into India, expanding offices, partnerships and hiring.",
     "category": "industry",
     "image": "https://techcrunch.com/wp-content/uploads/2025/08/openai-india.jpg?resize=1200,800",
-    "id": 44
+    "id": 46
   },
   {
     "title": "Why everyone from OpenAI to SpaceX is building their own chips (and turning up the heat on Nvidia)",
@@ -440,7 +464,7 @@
     "summary": "Nvidia has dominated the AI chip market for years, but the era of total dependence might be ending. OpenAI just shared its plans to spice things up with Jalapeño, its custom inference chip built with ...",
     "category": "hardware",
     "image": "https://techcrunch.com/wp-content/uploads/2025/07/GettyImages-2219673294.jpg?resize=1200,750",
-    "id": 45
+    "id": 47
   },
   {
     "title": "It’s not about Anthropic vs. OpenAI anymore",
@@ -450,7 +474,7 @@
     "summary": "AI models have progressed to the point where their capabilities have real political consequences. Dealing with those consequences will require collective action.",
     "category": "industry",
     "image": "https://techcrunch.com/wp-content/uploads/2026/06/white-house-conklin.jpg?w=1024",
-    "id": 46
+    "id": 48
   },
   {
     "title": "OpenAI’s Jalapeño chip is Big Tech’s spiciest move away from Nvidia",
@@ -460,7 +484,7 @@
     "summary": "Nvidia has dominated the AI chip market for years, but the era of total dependence might be ending. OpenAI just shared its plans to spice things up with Jalapeño, its custom inference chip built with ...",
     "category": "hardware",
     "image": "https://techcrunch.com/wp-content/uploads/2025/09/GettyImages-2214107176.jpg?resize=1200,800",
-    "id": 47
+    "id": 49
   },
   {
     "title": "The Download: brain-melting heatwaves and unprecedented OpenAI restrictions",
@@ -470,26 +494,6 @@
     "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. Heat waves mess with your brain. Scientists are trying to figu...",
     "category": "industry",
     "image": "https://wp.technologyreview.com/wp-content/uploads/2026/06/260623_checkup_hotbrains.jpg?resize=1200,600",
-    "id": 48
-  },
-  {
-    "title": "OpenAI Has New AI Models. Here’s Why You Can’t Use Them",
-    "url": "https://www.wired.com/story/openai-gpt-56-model-release-trump-admin-approval/",
-    "source": "Wired",
-    "date": "2026-06-26",
-    "summary": "The White House asked OpenAI to delay the rollout of its GPT-5.6 AI models, two weeks after Anthropic had to take its most advanced AI models offline.",
-    "category": "models",
-    "image": "https://media.wired.com/photos/6a3ea08bf7f42d4ea1deffa3/191:100/w_1280,c_limit/GettyImages-2281424331.jpg",
-    "id": 49
-  },
-  {
-    "title": "Europe Is Fed Up and Wants Its Own AI",
-    "url": "https://www.wired.com/story/europe-is-fed-up-and-wants-its-own-ai/",
-    "source": "Wired",
-    "date": "2026-06-26",
-    "summary": "It's a stretch to think that the continent can build a top-tier model, but it has an advantage: Donald Trump.",
-    "category": "industry",
-    "image": "https://media.wired.com/photos/6a3d7dcc9d8ba41349d50023/191:100/w_1280,c_limit/Backchannel-Macron-G7-2282316572.jpg",
     "id": 50
   }
 ]
