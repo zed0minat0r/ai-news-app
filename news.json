@@ -1,5 +1,36 @@
 [
   {
+    "title": "Lenovo says the 'RAMageddon' is the new normal, outlines survival guide — at ISC 2026 an exec said 'it will never be like it was last year'",
+    "url": "https://www.tomshardware.com/pc-components/ram/lenovo-says-the-ramageddon-is-the-new-normal-outlines-survival-guide-at-isc-2026-an-exec-said-it-will-never-be-like-it-was-last-year",
+    "source": "Tom's Hardware",
+    "date": "2026-06-28",
+    "summary": "At the International Supercomputing Conference this past week, Lenovo reportedly said the memory market 'it will never be like it was last year.'",
+    "category": "hardware",
+    "image": "https://cdn.mos.cms.futurecdn.net/EtP9xHD6entYPYdsDr4LzH-1280-80.jpg",
+    "id": 1,
+    "featured": true
+  },
+  {
+    "title": "China’s Loongson launches homegrown 16-core server CPU built on LoongArch architecture — 40W chip with DDR4 ECC and 32 PCIe lanes targets cheap SMB file, database, and web servers",
+    "url": "https://www.tomshardware.com/pc-components/cpus/chinas-loongson-launches-homegrown-16-core-server-cpu-built-on-loongarch-architecture-40w-chip-with-ddr4-ecc-and-32-pcie-lanes-targets-cheap-smb-file-database-and-web-servers",
+    "source": "Tom's Hardware",
+    "date": "2026-06-28",
+    "summary": "Loongson has announced the 3C3000, a 16-core LoongArch server CPU with DDR4 ECC, 32 PCIe lanes, 40W typical power, and performance claimed to match the earlier 3C5000.",
+    "category": "hardware",
+    "image": "https://cdn.mos.cms.futurecdn.net/bGRpAscqyHMhWFDYf2s4eb-1280-80.webp",
+    "id": 2
+  },
+  {
+    "title": "AI coding agents can be tricked into installing malware via 'clean' GitHub repositories — Mozilla's 0din team shows how Claude Code can be exploited by its own helpfulness",
+    "url": "https://www.tomshardware.com/tech-industry/cyber-security/ai-coding-agents-can-be-tricked-into-installing-malware-via-clean-github-repositories-mozillas-0din-team-shows-how-claude-code-can-be-exploited-by-its-own-helpfulness",
+    "source": "Tom's Hardware",
+    "date": "2026-06-28",
+    "summary": "Claude and other AI agents fooled into running malware with just a minimal GitHub repository — ask the bot to initialize the project and you get hacked",
+    "category": "models",
+    "image": "https://cdn.mos.cms.futurecdn.net/ScT7C9WsuqruarWf3kSRRG-1280-80.jpg",
+    "id": 3
+  },
+  {
     "title": "Japanese firm launches hyper-realistic capsule toy PC parts ‘you can assemble and play with’ — tiny motherboards, cases, and CPUs are coming after Tarlin inks collab with the ‘big four’ PC parts makers",
     "url": "https://www.tomshardware.com/desktops/pc-building/japanese-firm-launches-hyper-realistic-capsule-toy-pc-parts-you-can-assemble-and-play-with-tiny-motherboards-cases-and-cpus-are-coming-after-tarlin-inks-collab-with-the-big-four-pc-parts-makers",
     "source": "Tom's Hardware",
@@ -7,8 +38,111 @@
     "summary": "A Japanese capsule toy maker has announced an official collaboration with ASRock, Gigabyte, MSI, and Intel to make tiny PC components that buyers 'can assemble and play with.'",
     "category": "hardware",
     "image": "https://cdn.mos.cms.futurecdn.net/FqqVQ2hhNVVFT8RXxxK7FV-1280-80.jpg",
-    "id": 1,
-    "featured": true
+    "id": 4
+  },
+  {
+    "title": "Hestia – a local-first Home Assistant that trusts timers over the LLM",
+    "url": "https://github.com/thefullnacho/hestia",
+    "source": "Hacker News",
+    "date": "2026-06-28",
+    "summary": "Article URL: https://github.com/thefullnacho/hestia Comments URL: https://news.ycombinator.com/item?id=48707227 Points: 1 # Comments: 0",
+    "category": "models",
+    "image": "https://opengraph.githubassets.com/653a7e8572526b856d1e13039306d7fcb7b13336a616bb1261bc15bb123cf8dd/thefullnacho/hestia",
+    "id": 5
+  },
+  {
+    "title": "Google limits Meta's use of its Gemini AI models",
+    "url": "https://www.cnbc.com/2026/06/28/google-limits-metas-use-of-its-gemini-ai-models-ft-reports.html",
+    "source": "Hacker News",
+    "date": "2026-06-28",
+    "summary": "Article URL: https://www.cnbc.com/2026/06/28/google-limits-metas-use-of-its-gemini-ai-models-ft-reports.html Comments URL: https://news.ycombinator.com/item?id=48707103 Points: 2 # Comments: 0",
+    "category": "models",
+    "image": "https://image.cnbcfm.com/api/v1/image/108194138-1756981037270-gettyimages-2214393202-avdtnmymay25lot2jj.jpeg?v=1761941786&w=1920&h=1080",
+    "id": 6
+  },
+  {
+    "title": "China companies Z.Ai,China 360 claim having cybersec AI models to match Mythos",
+    "url": "https://www.reuters.com/legal/litigation/chinas-360-says-it-has-developed-tools-match-anthropics-mythos-2026-06-24/",
+    "source": "Hacker News",
+    "date": "2026-06-28",
+    "summary": "Article URL: https://www.reuters.com/legal/litigation/chinas-360-says-it-has-developed-tools-match-anthropics-mythos-2026-06-24/ Comments URL: https://news.ycombinator.com/item?id=48707090 Points: 5 #...",
+    "category": "tools",
+    "id": 7
+  },
+  {
+    "title": "Ask HN: Impact on LLM development after the USA policy of preliminary vetting",
+    "url": "https://news.ycombinator.com/item?id=48707008",
+    "source": "Hacker News",
+    "date": "2026-06-28",
+    "summary": "Sorry, I just realized, and I ask for your opinion: if now the policy of the administration at the USA is to mandate a staggered, conditional, restricted (\"to trusted parties\") release of the forthcom...",
+    "category": "industry",
+    "id": 8
+  },
+  {
+    "title": "Revenue at Risk from AI Displacement",
+    "url": "https://zenodo.org/records/20999945",
+    "source": "Hacker News",
+    "date": "2026-06-28",
+    "summary": "Article URL: https://zenodo.org/records/20999945 Comments URL: https://news.ycombinator.com/item?id=48706896 Points: 1 # Comments: 0",
+    "category": "industry",
+    "id": 9
+  },
+  {
+    "title": "After the AI Hype – What's Real, and What's Next – Richard Campbell – 2026",
+    "url": "https://www.youtube.com/watch?v=uWnUnMphmPM",
+    "source": "Hacker News",
+    "date": "2026-06-28",
+    "summary": "Article URL: https://www.youtube.com/watch?v=uWnUnMphmPM Comments URL: https://news.ycombinator.com/item?id=48706777 Points: 1 # Comments: 0",
+    "category": "industry",
+    "id": 10
+  },
+  {
+    "title": "Guy in his basement creates a drug to treat Alzheimer's disease using AI",
+    "url": "https://twitter.com/DouglasYaoDY/status/2070904914050797582",
+    "source": "Hacker News",
+    "date": "2026-06-28",
+    "summary": "Article URL: https://twitter.com/DouglasYaoDY/status/2070904914050797582 Comments URL: https://news.ycombinator.com/item?id=48706690 Points: 18 # Comments: 21",
+    "category": "industry",
+    "image": "https://pbs.twimg.com/media/HLzqFAabQAA5Zz8.jpg:large",
+    "id": 11
+  },
+  {
+    "title": "NASA tests AI medic for astronauts too far from Earth to call a doctor",
+    "url": "https://www.theregister.com/ai-and-ml/2026/06/27/nasa-tests-ai-medic-for-astronauts-too-far-from-earth-to-call-a-doctor/5262828",
+    "source": "Hacker News",
+    "date": "2026-06-28",
+    "summary": "Article URL: https://www.theregister.com/ai-and-ml/2026/06/27/nasa-tests-ai-medic-for-astronauts-too-far-from-earth-to-call-a-doctor/5262828 Comments URL: https://news.ycombinator.com/item?id=48706688...",
+    "category": "industry",
+    "image": "https://image.theregister.com/5240526.jpg?imageId=5240526&x=0&y=0&cropw=100&croph=100&panox=0&panoy=0&panow=100&panoh=100&width=1200&height=683",
+    "id": 12
+  },
+  {
+    "title": "Nearly Three-Quarters of Dutch Responses to EU Tobacco Rules Were AI-Generated",
+    "url": "https://pointer.kro-ncrv.nl/meerderheid-nederlandse-inspraak-op-strengere-eu-tabakswet-afkomstig-van-ai-tool-philip-morris",
+    "source": "Hacker News",
+    "date": "2026-06-28",
+    "summary": "Article URL: https://pointer.kro-ncrv.nl/meerderheid-nederlandse-inspraak-op-strengere-eu-tabakswet-afkomstig-van-ai-tool-philip-morris Comments URL: https://news.ycombinator.com/item?id=48706616 Poin...",
+    "category": "tools",
+    "image": "https://assets-pointer.kro-ncrv.nl/public/styles/social_lg/public/media/images/260624-AI-tabakslobby-Header.png?VersionId=kJlTg3-HJiOKulzgLInhLudOM98PGUi&itok=MfOvCxV7",
+    "id": 13
+  },
+  {
+    "title": "Show HN: Genius AI Detector",
+    "url": "https://geniusaidetector.com/",
+    "source": "Hacker News",
+    "date": "2026-06-28",
+    "summary": "Article URL: https://geniusaidetector.com/ Comments URL: https://news.ycombinator.com/item?id=48706490 Points: 2 # Comments: 0",
+    "category": "industry",
+    "id": 14
+  },
+  {
+    "title": "Pelican playing a violin. How to create SVGs with AI",
+    "url": "https://furstenheim.substack.com/p/creating-svgs-with-ai",
+    "source": "Hacker News",
+    "date": "2026-06-28",
+    "summary": "Article URL: https://furstenheim.substack.com/p/creating-svgs-with-ai Comments URL: https://news.ycombinator.com/item?id=48706394 Points: 2 # Comments: 0",
+    "category": "industry",
+    "id": 15
   },
   {
     "title": "Cate Blanchett is taking on AI",
@@ -18,7 +152,7 @@
     "summary": "Article URL: https://www.euronews.com/culture/2026/06/24/cate-blanchett-launches-free-tool-to-help-people-protect-identity-from-ai Comments URL: https://news.ycombinator.com/item?id=48706321 Points: 1...",
     "category": "tools",
     "image": "https://images.euronews.com/articles/stories/09/81/14/57/1200x675_cmsv2_7f0c4820-3556-5b43-a8e8-6be1031c453e-9811457.jpg",
-    "id": 2
+    "id": 16
   },
   {
     "title": "Show HN: AgentWatch – Prevent runaway AI agents with runtime budget enforcement",
@@ -27,17 +161,17 @@
     "date": "2026-06-28",
     "summary": "Hi HN, I’m a solo developer and built AgentWatch to solve a problem I kept running into while building AI agents: preventing runaway loops and unexpected LLM spend before requests reach the model. Age...",
     "category": "models",
-    "id": 3
+    "id": 17
   },
   {
     "title": "GPT-5.6 family added to codex",
     "url": "https://github.com/openai/codex/compare/rust-v0.142.2...rust-v0.142.3",
     "source": "Hacker News",
     "date": "2026-06-28",
-    "summary": "Article URL: https://github.com/openai/codex/compare/rust-v0.142.2...rust-v0.142.3 Comments URL: https://news.ycombinator.com/item?id=48706240 Points: 2 # Comments: 1",
+    "summary": "Article URL: https://github.com/openai/codex/compare/rust-v0.142.2...rust-v0.142.3 Comments URL: https://news.ycombinator.com/item?id=48706240 Points: 2 # Comments: 2",
     "category": "models",
-    "image": "https://opengraph.githubassets.com/a93542bd542d80d112a68877d1feb4255cac0cb29d0b9cd809796bb51a5a7ad1/openai/codex",
-    "id": 4
+    "image": "https://opengraph.githubassets.com/f685478d44aa660825054863e64372d874fce98c1538db8561da210a7a29d832/openai/codex",
+    "id": 18
   },
   {
     "title": "YC AI Investment Trends 2026: Where the US AI Market Is Heading",
@@ -46,7 +180,7 @@
     "date": "2026-06-28",
     "summary": "Article URL: https://medium.com/@aishwaryaadyanthaya1994/yc-ai-investment-trends-2026-where-the-us-ai-market-is-heading-07ea828cecf8 Comments URL: https://news.ycombinator.com/item?id=48706228 Points:...",
     "category": "industry",
-    "id": 5
+    "id": 19
   },
   {
     "title": "Show HN: role-model, a router for hybrid local/cloud AI",
@@ -55,8 +189,8 @@
     "date": "2026-06-28",
     "summary": "Hey everyone, I'm launching role-model today: a routing protocol, a reference router runtime, and an extension for Pi that allows for better informed routing decisions. role-model is mostly determinis...",
     "category": "models",
-    "image": "https://opengraph.githubassets.com/dd107bdbd93a454a6bd4d92697f3c7b4ec55258c65e3ae9fffa7fbcb8cc5f6a6/try-works/role-model",
-    "id": 6
+    "image": "https://opengraph.githubassets.com/b89363562ee1207d091f69bf493c2929dc1b21c5d144120a3d27b8c8f852695a/try-works/role-model",
+    "id": 20
   },
   {
     "title": "Cambium AI",
@@ -66,16 +200,16 @@
     "summary": "Article URL: https://github.com/pkjaslam/Cambium_AI Comments URL: https://news.ycombinator.com/item?id=48706088 Points: 1 # Comments: 0",
     "category": "industry",
     "image": "https://repository-images.githubusercontent.com/1280833453/0d7b6f37-2321-4eb3-9b44-776df68c8ca5",
-    "id": 7
+    "id": 21
   },
   {
     "title": "China Has Matched Anthropic in Cybersecurity, Resetting AI Race",
     "url": "https://www.wsj.com/tech/ai/chinese-ai-anthropic-mythos-cybersecurity-574b02c2",
     "source": "Hacker News",
     "date": "2026-06-28",
-    "summary": "Article URL: https://www.wsj.com/tech/ai/chinese-ai-anthropic-mythos-cybersecurity-574b02c2 Comments URL: https://news.ycombinator.com/item?id=48706080 Points: 2 # Comments: 0",
+    "summary": "Article URL: https://www.wsj.com/tech/ai/chinese-ai-anthropic-mythos-cybersecurity-574b02c2 Comments URL: https://news.ycombinator.com/item?id=48706080 Points: 5 # Comments: 0",
     "category": "industry",
-    "id": 8
+    "id": 22
   },
   {
     "title": "Software Taste vs. Slop in the Age of AI – TWSoftwareDev26",
@@ -84,7 +218,7 @@
     "date": "2026-06-28",
     "summary": "Article URL: https://blog.herlein.com/post/wisdom-in-specs/ Comments URL: https://news.ycombinator.com/item?id=48705898 Points: 2 # Comments: 1",
     "category": "industry",
-    "id": 9
+    "id": 23
   },
   {
     "title": "Tiny LLM Benchmark: Jetson Orin Nano Super 8GB",
@@ -94,113 +228,7 @@
     "summary": "Article URL: https://www.smolhub.com/posts/jetson-nano-super-benchmark-non-reasoning/ Comments URL: https://news.ycombinator.com/item?id=48705815 Points: 1 # Comments: 0",
     "category": "models",
     "image": "https://www.smolhub.com/images//images/blogs/jetson-nano-super-benchmark/jetson-setup.jpg",
-    "id": 10
-  },
-  {
-    "title": "If You Can Facilitate a Retrospective, You Can Audit Your AI",
-    "url": "https://age-of-product.com/ai-delegation-audit/",
-    "source": "Hacker News",
-    "date": "2026-06-28",
-    "summary": "Article URL: https://age-of-product.com/ai-delegation-audit/ Comments URL: https://news.ycombinator.com/item?id=48705737 Points: 2 # Comments: 0",
-    "category": "industry",
-    "image": "https://age-of-product.com/wp-content/uploads/Delegation-Audit-Check-Cards-Berlin-Product-People-com_klein-1200x630-cropped.jpg",
-    "id": 11
-  },
-  {
-    "title": "Hermes MoA virtual models:8% higher than Opus 4.8, 11% higher than GPT 5.5",
-    "url": "https://twitter.com/NousResearch/status/2070610321278988385",
-    "source": "Hacker News",
-    "date": "2026-06-28",
-    "summary": "Article URL: https://twitter.com/NousResearch/status/2070610321278988385 Comments URL: https://news.ycombinator.com/item?id=48705599 Points: 4 # Comments: 0",
-    "category": "models",
-    "image": "https://pbs.twimg.com/profile_images/1816254738234761216/TX7TW-Mp_200x200.jpg",
-    "id": 12
-  },
-  {
-    "title": "You can now run Max AI models on Apple Silicon",
-    "url": "https://forum.modular.com/t/max-models-can-now-run-on-apple-silicon-gpus/3283",
-    "source": "Hacker News",
-    "date": "2026-06-28",
-    "summary": "Article URL: https://forum.modular.com/t/max-models-can-now-run-on-apple-silicon-gpus/3283 Comments URL: https://news.ycombinator.com/item?id=48705585 Points: 1 # Comments: 0",
-    "category": "hardware",
-    "image": "https://us1.discourse-cdn.com/flex001/uploads/modular/original/1X/2751e0fbdc595a99718b216730957e9db4448cfd.jpeg",
-    "id": 13
-  },
-  {
-    "title": "Google rejects claims of AI in Search hurting web traffic",
-    "url": "https://indianexpress.com/article/technology/artificial-intelligence/google-denies-ai-search-hurting-web-traffic-quality-clicks-10174967/",
-    "source": "Hacker News",
-    "date": "2026-06-28",
-    "summary": "Article URL: https://indianexpress.com/article/technology/artificial-intelligence/google-denies-ai-search-hurting-web-traffic-quality-clicks-10174967/ Comments URL: https://news.ycombinator.com/item?i...",
-    "category": "hardware",
-    "image": "https://images.indianexpress.com/2025/08/Tech-feature-images34.jpg",
-    "id": 14
-  },
-  {
-    "title": "The Real Cost of Using AI in 2026",
-    "url": "https://adlrocha.substack.com/p/adlrocha-the-real-cost-of-using-ai",
-    "source": "Hacker News",
-    "date": "2026-06-28",
-    "summary": "Article URL: https://adlrocha.substack.com/p/adlrocha-the-real-cost-of-using-ai Comments URL: https://news.ycombinator.com/item?id=48705401 Points: 2 # Comments: 0",
-    "category": "industry",
-    "id": 15
-  },
-  {
-    "title": "A Transformer Becomes an LLM",
-    "url": "https://bharad.dev/blog/from-transformer-to-llm",
-    "source": "Hacker News",
-    "date": "2026-06-28",
-    "summary": "Article URL: https://bharad.dev/blog/from-transformer-to-llm Comments URL: https://news.ycombinator.com/item?id=48705350 Points: 1 # Comments: 0",
-    "category": "models",
-    "image": "https://bharad.dev/blog/from-transformer-to-llm/opengraph-image",
-    "id": 16
-  },
-  {
-    "title": "Policymakers can prep for a potential AI job apocalypse",
-    "url": "https://www.wordsinsearchlight.org/p/how-policymakers-can-prep-for-a-potential",
-    "source": "Hacker News",
-    "date": "2026-06-28",
-    "summary": "Article URL: https://www.wordsinsearchlight.org/p/how-policymakers-can-prep-for-a-potential Comments URL: https://news.ycombinator.com/item?id=48705339 Points: 1 # Comments: 0",
-    "category": "industry",
-    "image": "https://substackcdn.com/image/fetch/$s_!8Lr3!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fdb17cc91-a8d1-4ef5-9d75-e3d6927ab5cc_1920x1080.jpeg",
-    "id": 17
-  },
-  {
-    "title": "AI Is the Best Thing to Happen to Security",
-    "url": "https://badshah.io/blog/ai-is-the-best-thing-to-happen-to-security/",
-    "source": "Hacker News",
-    "date": "2026-06-28",
-    "summary": "Article URL: https://badshah.io/blog/ai-is-the-best-thing-to-happen-to-security/ Comments URL: https://news.ycombinator.com/item?id=48705198 Points: 2 # Comments: 0",
-    "category": "industry",
-    "image": "https://badshah.io/images/blog/2026-06-28-AI-Security.webp",
-    "id": 18
-  },
-  {
-    "title": "Pentagon Sees Bigger Role for AI in Setting Military Targets",
-    "url": "https://www.bloomberg.com/news/articles/2026-06-25/pentagon-sees-broader-role-for-ai-in-setting-military-targets",
-    "source": "Hacker News",
-    "date": "2026-06-28",
-    "summary": "Article URL: https://www.bloomberg.com/news/articles/2026-06-25/pentagon-sees-broader-role-for-ai-in-setting-military-targets Comments URL: https://news.ycombinator.com/item?id=48704962 Points: 3 # Co...",
-    "category": "industry",
-    "id": 19
-  },
-  {
-    "title": "AI Assistant for Amazon",
-    "url": "https://chromewebstore.google.com/detail/ai-assistant-for-amazon/ohpekhndmbmkpdoikmphbmdpailacjeo",
-    "source": "Hacker News",
-    "date": "2026-06-28",
-    "summary": "Article URL: https://chromewebstore.google.com/detail/ai-assistant-for-amazon/ohpekhndmbmkpdoikmphbmdpailacjeo Comments URL: https://news.ycombinator.com/item?id=48704938 Points: 2 # Comments: 1",
-    "category": "hardware",
-    "id": 20
-  },
-  {
-    "title": "Aileadgenr.com – AI lead generation tool for finding potential B2B customers",
-    "url": "https://aileadgenr.com/en",
-    "source": "Hacker News",
-    "date": "2026-06-28",
-    "summary": "Article URL: https://aileadgenr.com/en Comments URL: https://news.ycombinator.com/item?id=48704870 Points: 2 # Comments: 0",
-    "category": "tools",
-    "id": 21
+    "id": 24
   },
   {
     "title": "Apple reportedly lobbies Uncle Sam for access to Chinese memory chips — tech giant allegedly wants to buy from blacklisted CXMT",
@@ -210,7 +238,7 @@
     "summary": "Following a historic price hike, the Financial Times reports that Apple is lobbying in Washington to secure approval to buy cheaper RAM from CXMT. The manufacturer is currently designated as a Chinese...",
     "category": "hardware",
     "image": "https://cdn.mos.cms.futurecdn.net/Zo2LfoYeC8NenQ7Kr9hmzJ-1280-80.jpg",
-    "id": 22
+    "id": 25
   },
   {
     "title": "Intel's next-gen 52-core Nova Lake CPU could pull up to 474W — high-end LGA1954 motherboards may need three 8-pin power connectors to feed the monster",
@@ -220,7 +248,7 @@
     "summary": "Intel's flagship 52-core Nova Lake processor could feature a 474W PL2 power limit. At the same time, the new LGA1954 platform may introduce motherboard tiers for up to 175W CPUs and optional triple EP...",
     "category": "hardware",
     "image": "https://cdn.mos.cms.futurecdn.net/wUsSLzuor4dtkrjsTZUnB3-1280-80.jpg",
-    "id": 23
+    "id": 26
   },
   {
     "title": "Best Amazon Prime Day tech deals you can still get LIVE, last chance for hot deals — PC hardware deals on GPUs, CPUs, SSDs, and more",
@@ -230,7 +258,7 @@
     "summary": "Find the very best PC hardware deals during Amazon Prime Day.",
     "category": "hardware",
     "image": "https://cdn.mos.cms.futurecdn.net/BP7ioxRiGpxEZY6CEZtvL-1280-80.jpg",
-    "id": 24
+    "id": 27
   },
   {
     "title": "Modded Steam Controller can automatically charge itself like a robot vacuum — enthusiast creates GitHub program that uses the vibration motor to walk it back to its docking station",
@@ -240,7 +268,7 @@
     "summary": "Ray Foss built this program that uses computer vision to let your Steam Controller slide back towards its charging puck by just using its built-in haptic motors. You can also try it for yourself by vi...",
     "category": "industry",
     "image": "https://cdn.mos.cms.futurecdn.net/36BZ8tAWCQtaJDjEoKPRY9-1280-80.png",
-    "id": 25
+    "id": 28
   },
   {
     "title": "Commodore drops Callback flip phone by $100 by defaulting to recycled memory chips and unbundling the earphones — Callback 8020 drops to $399 as skyrocketing memory prices punish smartphone buyers",
@@ -250,7 +278,7 @@
     "summary": "Commodore has slashed the starting price of its Callback 8020 flip phone to $399, down from $499.",
     "category": "hardware",
     "image": "https://cdn.mos.cms.futurecdn.net/m8DVMuXiyoC3U9zNPiYWmn-1280-80.jpg",
-    "id": 26
+    "id": 29
   },
   {
     "title": "SoftBank’s CEO isn’t the only one with questions about Elon Musk’s orbital data center hype",
@@ -260,7 +288,7 @@
     "summary": "Not everyone is buying Elon Musk’s vision for orbital data centers.",
     "category": "industry",
     "image": "https://techcrunch.com/wp-content/uploads/2021/02/GettyImages-1160112941.jpg?resize=1200,800",
-    "id": 27
+    "id": 30
   },
   {
     "title": "Apple Vision Pro exec is reportedly leaving for OpenAI",
@@ -270,7 +298,7 @@
     "summary": "Paul Meade, the Apple vice president in charge of the Vision Pro headset, is reportedly leaving the company to join OpenAI’s hardware team.",
     "category": "industry",
     "image": "https://techcrunch.com/wp-content/uploads/2023/06/Vision-Pro-IMG-3.jpeg?resize=1200,800",
-    "id": 28
+    "id": 31
   },
   {
     "title": "The fittest founder in the room got cancer. Here’s how he used AI to fight back.",
@@ -280,7 +308,7 @@
     "summary": "When confronted with cancer, Connor Christou fed everything tied tied to his regime — blood results, scan data, wearable output, journal entries — into Claude.",
     "category": "models",
     "image": "https://techcrunch.com/wp-content/uploads/2026/06/Screenshot-2026-06-26-at-10.22.24-AM-e1782596077369.png?w=1103",
-    "id": 29
+    "id": 32
   },
   {
     "title": "Asian AI startups launch Mythos-like  models as Anthropic’s export ban drags on",
@@ -290,7 +318,7 @@
     "summary": "New models are launching in Asia that promise Mythos-like capabilities without fear of an export ban. U.S. AI labs may never recover this enormous market.",
     "category": "industry",
     "image": "https://techcrunch.com/wp-content/uploads/2026/06/GettyImages-2278736523.jpeg?resize=1200,798",
-    "id": 30
+    "id": 33
   },
   {
     "title": "Trump Admin releases Anthropic Mythos to be used by more than 100 US companies, agencies",
@@ -300,7 +328,7 @@
     "summary": "Over 100 companies and government agencies are reportedly authorized to use Mythos 5, including their non-American employees.",
     "category": "industry",
     "image": "https://techcrunch.com/wp-content/uploads/2026/06/GettyImages-2279025960.jpg?w=1024",
-    "id": 31
+    "id": 34
   },
   {
     "title": "Trump Administration Allows Anthropic to Release  Mythos to Select US Organizations",
@@ -310,7 +338,7 @@
     "summary": "After weeks of negotiations, the White House permitted Anthropic to grant access to its most advanced AI model to a select group of US companies and government agencies.",
     "category": "industry",
     "image": "https://media.wired.com/photos/6a31dd3da349dd0edc2c4b26/191:100/w_1280,c_limit/Anthropic-Restores-Fable-Access-Business.jpg",
-    "id": 32
+    "id": 35
   },
   {
     "title": "Previewing GPT-5.6 Sol: a next-generation model",
@@ -319,7 +347,7 @@
     "date": "2026-06-26",
     "summary": "OpenAI previews GPT-5.6 Sol, a next-generation model with stronger capabilities in coding, science, and cybersecurity, paired with its most advanced safety stack.",
     "category": "models",
-    "id": 33
+    "id": 36
   },
   {
     "title": "Incredible Ryzen 7 9800X3D prebuilt deal comes with an RX 9070 XT and 32GB of DDR5 for $750 off — get a prime iBuyPower 4K gaming rig for just $1,749",
@@ -329,7 +357,7 @@
     "summary": "The iBuyPower Y40 PC is on an incredible sale, offering a Ryzen 7 9800X3D, RX 9070 XT, 1TB of storage, and 32GB of memory for $750 off.",
     "category": "hardware",
     "image": "https://cdn.mos.cms.futurecdn.net/8XsdQqW3MUMZ4ZFdyXtSS6-1280-80.jpg",
-    "id": 34
+    "id": 37
   },
   {
     "title": "Gigabyte Aero X16 gaming laptop delivers RTX 5060, 32GB RAM, and a 16-inch 165Hz 1600p display for 21% off",
@@ -339,7 +367,7 @@
     "summary": "The Gigabyte Aero 16X packs a Ryzen AI 7 350 CPU, 32GB of RAM, and an RTX 5060",
     "category": "hardware",
     "image": "https://cdn.mos.cms.futurecdn.net/HbJ8W9SUkAbSAAHUxU5UBR-1280-80.jpg",
-    "id": 35
+    "id": 38
   },
   {
     "title": "Save $250 on this AMD AM5 bundle, get Samsung 990 Pro SSD for basically free — grab the AMD Ryzen 5 9600X, Gigabyte B850 Aorus Elite motherboard, and 990 Pro 1TB SSD for 36% off",
@@ -349,7 +377,7 @@
     "summary": "Save nearly $250 on three essential PC components with this Newegg bundle featuring AMD's Ryzen 5 9600X, a Gigabyte B850 motherboard, and Samsung's flagship PCIe 4.0 SSD.",
     "category": "hardware",
     "image": "https://cdn.mos.cms.futurecdn.net/4jk99LtvcGooD6AWz7bwBa-1280-80.jpg",
-    "id": 36
+    "id": 39
   },
   {
     "title": "Meta Quest 3S drops to pre-RAMpocalypse prices for a Prime Day — wireless VR headset goes on sale for a limited time, get 15% off and save more than $50 if you get it right now",
@@ -359,7 +387,7 @@
     "summary": "The Meta Quest 3S is one sale at $296.79, saving you $53.20 from its original price of $349.99, making it more affordable than its pre-memory chip shortage price of $300.",
     "category": "hardware",
     "image": "https://cdn.mos.cms.futurecdn.net/8jb8xofZp3qCG63mzwMz3D-1280-80.png",
-    "id": 37
+    "id": 40
   },
   {
     "title": "Asus' ROG Zephyrus G16 with an RTX 5070 & 240Hz OLED display is on sale for just $1,575 — Save $575 on an excellent gaming laptop with a 16-core flagship CPU & top-tier build quality",
@@ -369,7 +397,7 @@
     "summary": "Best Buy is slashing almost $600 off a fantastic gaming laptop that basically has no compromises. It delivers solid performance across a wide variety of workloads and rocks a stunning 16-inch 240Hz OL...",
     "category": "hardware",
     "image": "https://cdn.mos.cms.futurecdn.net/KmHJRqosbHM3SRkMWVuYie-1280-80.jpg",
-    "id": 38
+    "id": 41
   },
   {
     "title": "Onsemi buying cash-strapped Synaptics in $7 billion all-stock deal — smart power meets edge AI hardware",
@@ -379,7 +407,7 @@
     "summary": "Onsemi and Synaptics to merge in a bid to build comprehensive platforms for robotics, physical AI applications.",
     "category": "tools",
     "image": "https://cdn.mos.cms.futurecdn.net/FhnDs282pZ4xS7pLgnhCV-1280-80.jpg",
-    "id": 39
+    "id": 42
   },
   {
     "title": "The Ryzen 7 5800X3D is tough to find, but these Prime Day CPUs with DDR5 are cheaper — offset the cost of a DDR5 upgrade with a CPU discount",
@@ -389,7 +417,7 @@
     "summary": "AMD's re-released Ryzen 7 5800X3D sold out almost immediately when it launched, but if you're tired of waiting, you can easily upgrade to a DDR5 platform with these Prime Day CPUs deals, all of which ...",
     "category": "hardware",
     "image": "https://cdn.mos.cms.futurecdn.net/XLxPhaBMw2Dc2sHuFk5ag8-1280-80.jpg",
-    "id": 40
+    "id": 43
   },
   {
     "title": "OpenAI's ChatGPT-5.6 gets the same banhammer treatment as Anthropic’s Mythos from the federal government — source says that Washington cautioned OpenAI against releasing the model without receiving approval",
@@ -399,7 +427,7 @@
     "summary": "The U.S. government wants dibs on U.S. AI labs' most powerful models, asking for access 30 days before they go public. OpenAI is voluntarily complying with the President's executive order but wants 't...",
     "category": "industry",
     "image": "https://cdn.mos.cms.futurecdn.net/Ca5PyjuvZ3LWsXhiopVth9-1280-80.jpg",
-    "id": 41
+    "id": 44
   },
   {
     "title": "Framework's Laptop 13 Pro DIY Edition now costs less than before, but a CPU price hike might be coming — Cheaper PCIe 5.0 drives from Adata upgrade customers from 500GB to 1TB for free",
@@ -409,7 +437,7 @@
     "summary": "Framework has secured cheaper PCIe 5.0 SSDs for the DIY Edition of its Laptop 13 Pro, upgrading existing customers from 500GB to 1TB drives for free. Unfortunately, it seems like CPU prices are about ...",
     "category": "hardware",
     "image": "https://cdn.mos.cms.futurecdn.net/8YA5Bk4TVZ4pPzfjjdY4wF-1280-80.jpg",
-    "id": 42
+    "id": 45
   },
   {
     "title": "Apple will skip its high-end M6 Mac chips and fast-track an AI-focused M7 generation for 2027, report claims — may release a base M6 chip for entry-level Macs this year",
@@ -419,7 +447,7 @@
     "summary": "Apple will release a base M6 chip for entry-level Macs this year but skip the Pro and Max versions of that generation, jumping instead to an accelerated M7 family.",
     "category": "hardware",
     "image": "https://cdn.mos.cms.futurecdn.net/nN9B34iLQ7hZALdk2wZ5Ek-1280-80.jpg",
-    "id": 43
+    "id": 46
   },
   {
     "title": "Solidigm VP talks PCIe 6.0 SSDs, next-gen floating gate NAND, liquid cooled storage and more —  Avi Shetty, VP of AI, Solutions & Market Enablement discusses the future of enterprise storage tech",
@@ -429,7 +457,7 @@
     "summary": "In an interview with Tom’s Hardware Premium, Solidigm's Avi Shetty discusses the future of high-capacity SSDs, Floating-Gate NAND, PLC memory, PCIe 6.0 storage, liquid-cooled SSDs, Nvidia's Storage Ne...",
     "category": "hardware",
     "image": "https://cdn.mos.cms.futurecdn.net/stfNxWCyfRuKMHjeGPreHg-1280-80.jpg",
-    "id": 44
+    "id": 47
   },
   {
     "title": "AMD Ryzen 7 5800X3D vs Intel Core i7-14700K faceoff — A new battle for DDR4 supremacy in 2026",
@@ -439,7 +467,7 @@
     "summary": "We tested both CPUs across gaming, rendering, encoding, efficiency, and pricing to see if the Ryzen 7 5800X3D can keep up with the newer Core i7-14700K with DDR4.",
     "category": "hardware",
     "image": "https://cdn.mos.cms.futurecdn.net/Kgst7737CmYGScupZMDa3F-1280-80.jpg",
-    "id": 45
+    "id": 48
   },
   {
     "title": "AMD's new 10th Anniversary Ryzen 7 5800X3D CPU back in stock — Here's where to buy the revamped processor that's the fastest gaming chip available for AM4 platforms [Updated]",
@@ -449,7 +477,7 @@
     "summary": "AMD's new 10th-anniversary Ryzen 7 5800X3D is now available for purchase at B&H Photo at MSRP, a welcome relief for those who have been searching for the chip, only to find it being scalped at twice t...",
     "category": "hardware",
     "image": "https://cdn.mos.cms.futurecdn.net/8wErtoG3paXuDpFUDvEH27-1280-80.jpg",
-    "id": 46
+    "id": 49
   },
   {
     "title": "OpenAI limits GPT-5.6 rollout after government request, says restrictions shouldn’t be the norm",
@@ -459,36 +487,6 @@
     "summary": "“We don’t believe this kind of government access process should become the long-term default,” says OpenAI. “It keeps the best tools from users, developers, enterprises, cyber defenders, and global pa...",
     "category": "tools",
     "image": "https://techcrunch.com/wp-content/uploads/2026/05/GettyImages-2273245180.jpg?resize=1200,800",
-    "id": 47
-  },
-  {
-    "title": "OpenAI poaches Uber India chief to lead its biggest market outside the US",
-    "url": "https://techcrunch.com/2026/06/26/openai-poaches-uber-india-chief-to-lead-its-biggest-market-outside-the-u-s/",
-    "source": "TechCrunch",
-    "date": "2026-06-26",
-    "summary": "The hire marks OpenAI's latest push into India, expanding offices, partnerships and hiring.",
-    "category": "industry",
-    "image": "https://techcrunch.com/wp-content/uploads/2025/08/openai-india.jpg?resize=1200,800",
-    "id": 48
-  },
-  {
-    "title": "Why everyone from OpenAI to SpaceX is building their own chips (and turning up the heat on Nvidia)",
-    "url": "https://techcrunch.com/video/why-everyone-from-openai-to-spacex-is-building-their-own-chips-and-turning-up-the-heat-on-nvidia/",
-    "source": "TechCrunch",
-    "date": "2026-06-26",
-    "summary": "Nvidia has dominated the AI chip market for years, but the era of total dependence might be ending. OpenAI just shared its plans to spice things up with Jalapeño, its custom inference chip built with ...",
-    "category": "hardware",
-    "image": "https://techcrunch.com/wp-content/uploads/2025/07/GettyImages-2219673294.jpg?resize=1200,750",
-    "id": 49
-  },
-  {
-    "title": "It’s not about Anthropic vs. OpenAI anymore",
-    "url": "https://techcrunch.com/2026/06/26/its-not-about-anthropic-vs-openai-anymore/",
-    "source": "TechCrunch",
-    "date": "2026-06-26",
-    "summary": "AI models have progressed to the point where their capabilities have real political consequences. Dealing with those consequences will require collective action.",
-    "category": "industry",
-    "image": "https://techcrunch.com/wp-content/uploads/2026/06/white-house-conklin.jpg?w=1024",
     "id": 50
   }
 ]
