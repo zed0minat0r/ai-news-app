@@ -1,5 +1,74 @@
 [
   {
+    "title": "Show HN: Open-source phone calling infra for AI agents",
+    "url": "https://github.com/AgentLineHQ/AgentLine",
+    "source": "Hacker News",
+    "date": "2026-07-05",
+    "summary": "Article URL: https://github.com/AgentLineHQ/AgentLine Comments URL: https://news.ycombinator.com/item?id=48793076 Points: 1 # Comments: 0",
+    "category": "industry",
+    "image": "https://opengraph.githubassets.com/e53a96f7c0658ce5b0065400cd31888844b1e1332622b30fdb1d295f3c2af8cc/AgentLineHQ/AgentLine",
+    "id": 1,
+    "featured": true
+  },
+  {
+    "title": "Ford rehires human engineers after AI fails to match quality checks",
+    "url": "https://www.bbc.com/news/articles/cgrkd41n2v9o",
+    "source": "Hacker News",
+    "date": "2026-07-05",
+    "summary": "Article URL: https://www.bbc.com/news/articles/cgrkd41n2v9o Comments URL: https://news.ycombinator.com/item?id=48793020 Points: 1 # Comments: 0",
+    "category": "industry",
+    "image": "https://ichef.bbci.co.uk/news/1024/branded_news/ad26/live/e5db0a70-73ad-11f1-9da1-db101e3ae6ed.jpg",
+    "id": 2
+  },
+  {
+    "title": "Show HN: Design Patterns for AI",
+    "url": "https://verificationdesign.com/",
+    "source": "Hacker News",
+    "date": "2026-07-05",
+    "summary": "Design Patterns by Gang of Four is one of my favorite books. It was well structured and easy to read and reference. I remember when copied each pattern manually to learn them and reference into a patt...",
+    "category": "research",
+    "image": "https://verificationdesign.com/og.png",
+    "id": 3
+  },
+  {
+    "title": "If You Can Write Acceptance Criteria, You Can Write an AI Routing Policy",
+    "url": "https://age-of-product.com/ai-routing-policy/",
+    "source": "Hacker News",
+    "date": "2026-07-05",
+    "summary": "Article URL: https://age-of-product.com/ai-routing-policy/ Comments URL: https://news.ycombinator.com/item?id=48792841 Points: 2 # Comments: 0",
+    "category": "industry",
+    "image": "https://age-of-product.com/wp-content/uploads/Routing-Policy-Berlin-Product-People-com_klein-1200x630-cropped.jpg",
+    "id": 4
+  },
+  {
+    "title": "Harvey AI started with a Reddit thread. Now it's worth $11B",
+    "url": "https://freemalta.com/hub/library/they-named-a-11-billion-company-after-harvey-specter-then-they-hired-the-actor-who-played-him",
+    "source": "Hacker News",
+    "date": "2026-07-05",
+    "summary": "Article URL: https://freemalta.com/hub/library/they-named-a-11-billion-company-after-harvey-specter-then-they-hired-the-actor-who-played-him Comments URL: https://news.ycombinator.com/item?id=48792799...",
+    "category": "industry",
+    "image": "https://onofaminwhtdmelmbkmp.supabase.co/storage/v1/object/public/article-covers/covers/6a4a26c90ad03_1783244489.webp",
+    "id": 5
+  },
+  {
+    "title": "U.S. Policies Unintentionally Accelerated China's Open AI Ecosystems",
+    "url": "https://arxiv.org/abs/2606.15999",
+    "source": "Hacker News",
+    "date": "2026-07-05",
+    "summary": "Article URL: https://arxiv.org/abs/2606.15999 Comments URL: https://news.ycombinator.com/item?id=48792735 Points: 3 # Comments: 0",
+    "category": "research",
+    "id": 6
+  },
+  {
+    "title": "Concentration of power in AI is a risk, by Andy Konwinski",
+    "url": "https://xcancel.com/i/article/2072830533739192560",
+    "source": "Hacker News",
+    "date": "2026-07-05",
+    "summary": "Article URL: https://xcancel.com/i/article/2072830533739192560 Comments URL: https://news.ycombinator.com/item?id=48792463 Points: 5 # Comments: 0",
+    "category": "industry",
+    "id": 7
+  },
+  {
     "title": "A Postmortem of an LLM Social Network",
     "url": "https://armx64.medium.com/emergence-without-understanding-a-postmortem-of-an-llm-social-network-96c855f49287",
     "source": "Hacker News",
@@ -7,17 +76,7 @@
     "summary": "Article URL: https://armx64.medium.com/emergence-without-understanding-a-postmortem-of-an-llm-social-network-96c855f49287 Comments URL: https://news.ycombinator.com/item?id=48792307 Points: 1 # Commen...",
     "category": "models",
     "image": "https://miro.medium.com/v2/resize:fit:1200/1*9N9yKkyy3i1eOdY1yUUPGg.png",
-    "id": 1,
-    "featured": true
-  },
-  {
-    "title": "Concentration of power in AI is a risk, by Andy Konwinski",
-    "url": "https://xcancel.com/i/article/2072830533739192560",
-    "source": "Hacker News",
-    "date": "2026-07-05",
-    "summary": "Article URL: https://xcancel.com/i/article/2072830533739192560 Comments URL: https://news.ycombinator.com/item?id=48792463 Points: 1 # Comments: 0",
-    "category": "industry",
-    "id": 2
+    "id": 8
   },
   {
     "title": "SigMap: 97% token reduction for AI coding sessions",
@@ -27,7 +86,7 @@
     "summary": "Article URL: https://sigmap.io/ Comments URL: https://news.ycombinator.com/item?id=48792152 Points: 3 # Comments: 0",
     "category": "industry",
     "image": "https://sigmap.io/sigmap-banner.png",
-    "id": 3
+    "id": 9
   },
   {
     "title": "code-on-incus: Give each AI agent its own isolated machine with root",
@@ -37,7 +96,7 @@
     "summary": "Article URL: https://github.com/mensfeld/code-on-incus Comments URL: https://news.ycombinator.com/item?id=48792094 Points: 1 # Comments: 0",
     "category": "industry",
     "image": "https://repository-images.githubusercontent.com/1129585228/dc97449c-2918-4f3d-9eff-0cf10fc60012",
-    "id": 4
+    "id": 10
   },
   {
     "title": "Hunch – a Git-native decision graph your AI assistant obeys",
@@ -47,7 +106,7 @@
     "summary": "Article URL: https://hunch-pi.vercel.app Comments URL: https://news.ycombinator.com/item?id=48791919 Points: 1 # Comments: 0",
     "category": "industry",
     "image": "https://hunch-pi.vercel.app/hunch-og.png",
-    "id": 5
+    "id": 11
   },
   {
     "title": "Agentsnap – find which config change broke your AI agent",
@@ -56,7 +115,7 @@
     "date": "2026-07-05",
     "summary": "Article URL: https://drive.google.com/file/d/1oPTmOOkBtE0IRV4oy0K4NuuLxYBezXRc/view?usp=sharing Comments URL: https://news.ycombinator.com/item?id=48791885 Points: 1 # Comments: 0",
     "category": "industry",
-    "id": 6
+    "id": 12
   },
   {
     "title": "Fidx – local semantic search in one SQLite file, no LLM at query",
@@ -66,16 +125,16 @@
     "summary": "Article URL: https://github.com/williamliu-ai/fidx Comments URL: https://news.ycombinator.com/item?id=48791740 Points: 1 # Comments: 0",
     "category": "models",
     "image": "https://opengraph.githubassets.com/a7157b9cc3eaad78def3b917a7d1fd277252dcbf3a6bdb5b204ac0bdbbeeec0d/williamliu-ai/fidx",
-    "id": 7
+    "id": 13
   },
   {
     "title": "LLM's as a Different Kind of Intelligence",
     "url": "https://handmadeoasis.com/llms-as-a-different-kind-of-intelligence/",
     "source": "Hacker News",
     "date": "2026-07-05",
-    "summary": "Article URL: https://handmadeoasis.com/llms-as-a-different-kind-of-intelligence/ Comments URL: https://news.ycombinator.com/item?id=48791650 Points: 2 # Comments: 0",
+    "summary": "Article URL: https://handmadeoasis.com/llms-as-a-different-kind-of-intelligence/ Comments URL: https://news.ycombinator.com/item?id=48791650 Points: 3 # Comments: 0",
     "category": "models",
-    "id": 8
+    "id": 14
   },
   {
     "title": "New California study finds highly educated workers most harmed by AI",
@@ -84,27 +143,27 @@
     "date": "2026-07-05",
     "summary": "Article URL: https://www.sfgate.com/politics/article/california-ai-study-22321472.php Comments URL: https://news.ycombinator.com/item?id=48791406 Points: 3 # Comments: 0",
     "category": "research",
-    "id": 9
+    "id": 15
   },
   {
     "title": "US and Chinese companies train almost all of the most-used AI models",
     "url": "https://ourworldindata.org/data-insights/us-and-chinese-companies-train-almost-all-of-the-worlds-most-used-ai-models",
     "source": "Hacker News",
     "date": "2026-07-05",
-    "summary": "Article URL: https://ourworldindata.org/data-insights/us-and-chinese-companies-train-almost-all-of-the-worlds-most-used-ai-models Comments URL: https://news.ycombinator.com/item?id=48791385 Points: 3 ...",
+    "summary": "Article URL: https://ourworldindata.org/data-insights/us-and-chinese-companies-train-almost-all-of-the-worlds-most-used-ai-models Comments URL: https://news.ycombinator.com/item?id=48791385 Points: 4 ...",
     "category": "industry",
     "image": "https://ourworldindata.org/cdn-cgi/imagedelivery/qLq-8BTgXU8yG0N6HnOy8g/8a752728-35b2-4ec5-7b3b-ef5be7af5100/public",
-    "id": 10
+    "id": 16
   },
   {
     "title": "Mouse: Precision Editing Tools for AI Coding Agents",
     "url": "https://hic-ai.com",
     "source": "Hacker News",
     "date": "2026-07-05",
-    "summary": "Article URL: https://hic-ai.com Comments URL: https://news.ycombinator.com/item?id=48791380 Points: 32 # Comments: 37",
+    "summary": "Article URL: https://hic-ai.com Comments URL: https://news.ycombinator.com/item?id=48791380 Points: 33 # Comments: 37",
     "category": "tools",
     "image": "https://hic-ai.com/opengraph-image?0965d50c6d8fc51d",
-    "id": 11
+    "id": 17
   },
   {
     "title": "Meituan Trained a 1.6T-Parameter AI Model Without Nvidia GPUs",
@@ -113,7 +172,7 @@
     "date": "2026-07-05",
     "summary": "Article URL: https://xyzlabs.substack.com/p/meituan-trained-a-16t-parameter-ai Comments URL: https://news.ycombinator.com/item?id=48791366 Points: 3 # Comments: 1",
     "category": "hardware",
-    "id": 12
+    "id": 18
   },
   {
     "title": "China's LongCat-2.0 Becomes the Biggest AI Model Without Nvidia Chips",
@@ -123,65 +182,6 @@
     "summary": "Article URL: https://tech.yahoo.com/ai/articles/china-longcat-2-0-becomes-134258951.html Comments URL: https://news.ycombinator.com/item?id=48791362 Points: 6 # Comments: 1",
     "category": "hardware",
     "image": "https://s.yimg.com/lo/mysterio/api/61ec0933138f70914de120f3b3755e1b86123f71216e03a484715edd9ddfee83/lightyear_networkapi/resizefill_w1200;quality_80;format_webp/https:%2F%2Fmedia.zenfs.com%2Fen%2Fbeincrypto_us_662%2F023b1cfb25b7537e236025c6279e1536",
-    "id": 13
-  },
-  {
-    "title": "In AI-exposed jobs, the youngest workers are losing ground",
-    "url": "https://www.randalolson.com/2026/06/22/ai-jobs-hit-youngest-workers/",
-    "source": "Hacker News",
-    "date": "2026-07-05",
-    "summary": "Article URL: https://www.randalolson.com/2026/06/22/ai-jobs-hit-youngest-workers/ Comments URL: https://news.ycombinator.com/item?id=48790966 Points: 3 # Comments: 1",
-    "category": "industry",
-    "image": "https://www.randalolson.com/assets/2026/06/ai-jobs-hit-youngest-workers.png",
-    "id": 14
-  },
-  {
-    "title": "The tool layer for developers and AI agents",
-    "url": "https://www.utilix.tech/",
-    "source": "Hacker News",
-    "date": "2026-07-05",
-    "summary": "Article URL: https://www.utilix.tech/ Comments URL: https://news.ycombinator.com/item?id=48790934 Points: 2 # Comments: 1",
-    "category": "tools",
-    "image": "https://www.utilix.tech/opengraph-image?53008e014cc2ee92",
-    "id": 15
-  },
-  {
-    "title": "Deterministic AI Auditing",
-    "url": "https://claude.ai/new",
-    "source": "Hacker News",
-    "date": "2026-07-05",
-    "summary": "Article URL: https://claude.ai/new Comments URL: https://news.ycombinator.com/item?id=48790577 Points: 2 # Comments: 0",
-    "category": "models",
-    "id": 16
-  },
-  {
-    "title": "AI CLI that fixes broken dev tool installs",
-    "url": "https://murderszn.github.io/sprout/",
-    "source": "Hacker News",
-    "date": "2026-07-05",
-    "summary": "Article URL: https://murderszn.github.io/sprout/ Comments URL: https://news.ycombinator.com/item?id=48790523 Points: 2 # Comments: 0",
-    "category": "tools",
-    "image": "https://murderszn.github.io/sprout/public/og-image.png",
-    "id": 17
-  },
-  {
-    "title": "Show HN: Two-tier-memory – queryable long-term memory for AI coding agents",
-    "url": "https://github.com/tadelstein9/two-tier-memory",
-    "source": "Hacker News",
-    "date": "2026-07-05",
-    "summary": "Article URL: https://github.com/tadelstein9/two-tier-memory Comments URL: https://news.ycombinator.com/item?id=48790505 Points: 2 # Comments: 0",
-    "category": "hardware",
-    "image": "https://opengraph.githubassets.com/67b500fd2a1f5551d0ff8fb630c41c61d84bef7ecf1d053d243d61d70b5361ec/tadelstein9/two-tier-memory",
-    "id": 18
-  },
-  {
-    "title": "Obsidian AI Setup – Bootstrap a Personalized Obsidian Vault with AI",
-    "url": "https://github.com/anliberant/obsidian-ai-setup",
-    "source": "Hacker News",
-    "date": "2026-07-05",
-    "summary": "Article URL: https://github.com/anliberant/obsidian-ai-setup Comments URL: https://news.ycombinator.com/item?id=48790230 Points: 3 # Comments: 0",
-    "category": "industry",
-    "image": "https://opengraph.githubassets.com/cbbee3f5136d31f0ac702fe895bffbd0aeb1afe1e69c4fffda561723fc8b8b20/anliberant/obsidian-ai-setup",
     "id": 19
   },
   {
