@@ -1,5 +1,16 @@
 [
   {
+    "title": "How Open Models Are Driving AI Research",
+    "url": "https://blogs.nvidia.com/blog/open-models-icml-2026/",
+    "source": "NVIDIA Blog",
+    "date": "2026-07-06",
+    "summary": "Every year, the International Conference on Machine Learning (ICML) reveals where thousands of AI researchers have decided to put their work. This year’s accepted papers reveal a clear direction: open...",
+    "category": "research",
+    "image": "https://blogs.nvidia.com/wp-content/uploads/2026/07/ICML-Blog-Featured-Image.jpg",
+    "id": 1,
+    "featured": true
+  },
+  {
     "title": "How Nations Are Deploying AI for Strategic Priorities",
     "url": "https://blogs.nvidia.com/blog/nations-deploy-ai-strategic-priorities/",
     "source": "NVIDIA Blog",
@@ -7,8 +18,27 @@
     "summary": "Nations have long invested in domestic infrastructure to advance their economies, protect and use their data, and take advantage of technology opportunities in areas such as transportation, communicat...",
     "category": "industry",
     "image": "https://blogs.nvidia.com/wp-content/uploads/2025/06/llm-blog-gtc-25-paris-3945665-1280x680-1.jpg",
-    "id": 1,
-    "featured": true
+    "id": 2
+  },
+  {
+    "title": "China-made CXMT memory now supports faster speeds on MSI's AMD motherboards — new BIOS adds DDR5-8200 validation on dual-DIMM, DDR5-7200 on quad-DIMM models",
+    "url": "https://www.tomshardware.com/pc-components/ddr5/china-made-cxmt-memory-now-supports-faster-speeds-on-msis-amd-motherboards-new-bios-adds-ddr5-8200-validation-on-dual-dimm-ddr5-7200-on-quad-dimm-models",
+    "source": "Tom's Hardware",
+    "date": "2026-07-06",
+    "summary": "MSI has officially validated region-bound Chinese RAM using CXMT modules to run at up to 8,200 MT/s on its AM5 motherboards. Models with two RAM slots can handle these high frequencies a bit better th...",
+    "category": "hardware",
+    "image": "https://cdn.mos.cms.futurecdn.net/nnkvWRAwHdH8xCQXAJiweE-1280-80.jpg",
+    "id": 3
+  },
+  {
+    "title": "Microsoft 'resets' Xbox by cutting 3,200 jobs this year, divesting five game studios — firm cites 'margins that are 3-10x lower than comparable platform and publishing businesses'",
+    "url": "https://www.tomshardware.com/video-games/xbox/microsoft-resets-xbox-by-cutting-3-200-jobs-this-year-divesting-five-game-studios-firm-cites-margins-that-are-3-10x-lower-than-comparable-platform-and-publishing-businesses",
+    "source": "Tom's Hardware",
+    "date": "2026-07-06",
+    "summary": "Xbox CEO Asha Sharma announced that Microsoft's gaming division will cut 3,200 jobs throughout FY27 and is spinning out studios but not canceling any games.",
+    "category": "tools",
+    "image": "https://cdn.mos.cms.futurecdn.net/mFKpufMPUKRTroyPTjZEZA-1280-80.png",
+    "id": 4
   },
   {
     "title": "Working prototype of open-source printer that promises user-repairability and no subscriptions appears in first video — DRM-free 'Open Printer' inkjet still has no announced price, ship date, or print speed, nine months after it first appeared",
@@ -18,7 +48,7 @@
     "summary": "Open Tools, a Paris-based startup, has announced that its Open Printer has been nominated for two French Design Awards.",
     "category": "tools",
     "image": "https://cdn.mos.cms.futurecdn.net/tSdc6WL7nF5y2UHwrBZTkW-1280-80.png",
-    "id": 2
+    "id": 5
   },
   {
     "title": "AMD Ryzen AI Halo review: AMD builds a DGX Spark of its own",
@@ -28,7 +58,7 @@
     "summary": "The Ryzen AI Halo is a turn-key AMD local AI box that’s backed up with first-party software support, handy utilities, and plenty of documentation for local AI explorers. But the performance and applic...",
     "category": "hardware",
     "image": "https://cdn.mos.cms.futurecdn.net/U4dRfzkc648p9XKZePXFv-1280-80.jpg",
-    "id": 3
+    "id": 6
   },
   {
     "title": "Nvidia's Kyber rack for Rubin Ultra reportedly delayed to 2028, stopgap solution also axed due to customer pushback — Analyst firm SemiAnalysis says PCB midplane problems led to the delay",
@@ -38,7 +68,7 @@
     "summary": "Nvidia reportedly won't ship its Kyber NVL144 rack until 2028, a delay of more than 12 months.",
     "category": "hardware",
     "image": "https://cdn.mos.cms.futurecdn.net/qH9XqmnqHfwSwBhpoXCho6-1280-80.jpg",
-    "id": 4
+    "id": 7
   },
   {
     "title": "Nvidia and Intel tout homegrown American chip supply chain prowess as country bolsters local production, but gaps remain — crucial Blackwell packaging steps remain offshore as projects grow in scope and scale",
@@ -48,7 +78,7 @@
     "summary": "America's AI supply chain now starts and ends in the U.S., while its most valuable middle steps remain entirely offshore until at least 2028.",
     "category": "hardware",
     "image": "https://cdn.mos.cms.futurecdn.net/EYMn2KePtE4e2hVbbVa8FY-1280-80.jpg",
-    "id": 5
+    "id": 8
   },
   {
     "title": "China’s Huawei to enter South Korean AI chip market with new Atlas SuperPods, clusters pack 8,192 Ascend 950 accelerators per deployment — reportedly challenges Nvidia dominance with 'tripled inference performance' of H20 at one-quarter the cost",
@@ -58,7 +88,7 @@
     "summary": "Huawei is reportedly preparing to enter South Korea's AI accelerator market with its Ascend 950 chips and Atlas 950 SuperPod, challenging Nvidia through aggressive pricing, amid a broader push to expa...",
     "category": "hardware",
     "image": "https://cdn.mos.cms.futurecdn.net/7ySoKU5NBfJsfZCYicJR83-1280-80.jpg",
-    "id": 6
+    "id": 9
   },
   {
     "title": "Wisconsin residents file class-action lawsuit against Microsoft's 'world's most powerful AI data center' due to data center noise — plaintiffs also mention construction noise and extreme light pollution from $7.3 billion facility",
@@ -68,7 +98,47 @@
     "summary": "Wisconsin residents file class-action lawsuit against Microsoft due to data center noise — plaintiffs also mention construction noise and extreme light pollution",
     "category": "industry",
     "image": "https://cdn.mos.cms.futurecdn.net/8K8xkKj7a9LFdAhMdjyXTc-1280-80.jpg",
-    "id": 7
+    "id": 10
+  },
+  {
+    "title": "You can now customize Siri’s pace and expressivity in the latest iOS 27 beta",
+    "url": "https://techcrunch.com/2026/07/06/you-can-now-customize-siris-pace-and-expressivity-in-the-latest-ios-27-beta/",
+    "source": "TechCrunch",
+    "date": "2026-07-06",
+    "summary": "The update is part of Apple's broader effort to make Siri feel more natural and personal, as it rebuilds the assistant around generative AI.",
+    "category": "industry",
+    "image": "https://techcrunch.com/wp-content/uploads/2024/10/apple-siri-header.jpg?resize=1200,800",
+    "id": 11
+  },
+  {
+    "title": "Every major tech layoff in 2026 that has name-checked AI",
+    "url": "https://techcrunch.com/2026/07/06/the-running-list-major-tech-layoffs-in-2026-where-employers-cited-ai/",
+    "source": "TechCrunch",
+    "date": "2026-07-06",
+    "summary": "A running look — in reverse chronological order — at the bigger tech companies that have announced significant layoffs this year with AI as a stated factor.",
+    "category": "industry",
+    "image": "https://techcrunch.com/wp-content/uploads/2026/06/AI-layoffs-picture.png?resize=1200,800",
+    "id": 12
+  },
+  {
+    "title": "If you use Google, you’re training its AI. Here’s how to opt out.",
+    "url": "https://techcrunch.com/2026/07/06/if-you-use-google-youre-training-its-ai-heres-how-to-opt-out/",
+    "source": "TechCrunch",
+    "date": "2026-07-06",
+    "summary": "PSA: A change to Google's privacy settings let it train its AI on more of your data. Here's how to opt out.",
+    "category": "industry",
+    "image": "https://techcrunch.com/wp-content/uploads/2019/10/google-search-app-ios.jpg?resize=1200,644",
+    "id": 13
+  },
+  {
+    "title": "Reddit is using LLMs to solve a problem LLMs largely created",
+    "url": "https://techcrunch.com/2026/07/06/reddit-is-using-llms-to-solve-a-problem-llms-largely-created/",
+    "source": "TechCrunch",
+    "date": "2026-07-06",
+    "summary": "In the AI era, platforms have no choice but to fight fire with fire to cull spam.",
+    "category": "models",
+    "image": "https://techcrunch.com/wp-content/uploads/2023/06/reddit-glitch-1.jpg?resize=1200,675",
+    "id": 14
   },
   {
     "title": "Station F ramps up as a launchpad for Europe’s hottest AI startups",
@@ -78,201 +148,202 @@
     "summary": "Station F, a Paris-based startup hub founded by French billionaire Xavier Niel, is gearing up for a new edition of its F/ai accelerator program in a bid to strengthen its positioning as a stepping sto...",
     "category": "industry",
     "image": "https://techcrunch.com/wp-content/uploads/2026/07/STATION-F-Master-stage-_-Credits-Patrick-Tourneboeuf.jpg?resize=1200,800",
-    "id": 8
-  },
-  {
-    "title": "Show HN: Causari – Content-addressable ledger for AI agent code edits",
-    "url": "https://causari.dev/#quickstart",
-    "source": "Hacker News",
-    "date": "2026-07-06",
-    "summary": "Article URL: https://causari.dev/#quickstart Comments URL: https://news.ycombinator.com/item?id=48806031 Points: 1 # Comments: 0",
-    "category": "industry",
-    "image": "https://causari.dev/assets/og-card.png",
-    "id": 9
-  },
-  {
-    "title": "How the AI bubble could pop and take down the global economy, according to BIS",
-    "url": "https://www.theregister.com/ai-and-ml/2026/06/29/how-the-ai-bubble-could-pop-and-take-down-the-global-economy-according-to-the-bis/5263793",
-    "source": "Hacker News",
-    "date": "2026-07-06",
-    "summary": "Article URL: https://www.theregister.com/ai-and-ml/2026/06/29/how-the-ai-bubble-could-pop-and-take-down-the-global-economy-according-to-the-bis/5263793 Comments URL: https://news.ycombinator.com/item?...",
-    "category": "industry",
-    "image": "https://image.theregister.com/5252428.jpg?imageId=5252428&x=0&y=0&cropw=100&croph=100&panox=0&panoy=0&panow=100&panoh=100&width=1200&height=683",
-    "id": 10
-  },
-  {
-    "title": "Show HN: Keyhole – Share secrets with your AI agents",
-    "url": "https://keyhole.maferland.com",
-    "source": "Hacker News",
-    "date": "2026-07-06",
-    "summary": "I had the idea for Keyhole while bootstrapping a bunch of small services and apps. I'm trying to prototype fast, and sometimes these need a variety of secrets. I use Doppler to remove myself from the ...",
-    "category": "models",
-    "id": 11
-  },
-  {
-    "title": "You Don't Own Your .io or .ai. You Rent a Country's Politics",
-    "url": "https://webhosting.today/2026/07/02/you-dont-own-your-io-or-ai-you-rent-a-countrys-politics/",
-    "source": "Hacker News",
-    "date": "2026-07-06",
-    "summary": "Article URL: https://webhosting.today/2026/07/02/you-dont-own-your-io-or-ai-you-rent-a-countrys-politics/ Comments URL: https://news.ycombinator.com/item?id=48805715 Points: 3 # Comments: 0",
-    "category": "industry",
-    "image": "https://webhosting.today/wp-content/uploads/2026/07/ai-io-domains.jpg",
-    "id": 12
-  },
-  {
-    "title": "Ask HN: Why submit your AI-written article?",
-    "url": "https://news.ycombinator.com/item?id=48805703",
-    "source": "Hacker News",
-    "date": "2026-07-06",
-    "summary": "genuinely, who do you think wants to read it? why do some of you wait to disclose that it's AI-written until the footer? what kind of internet are you interested in creating or experiencing, or do you...",
-    "category": "industry",
-    "id": 13
-  },
-  {
-    "title": "Google Chrome Installed a 4GB AI Model on Your PC",
-    "url": "https://oztalking.com/en/issues/hidden-4gb-ai-model",
-    "source": "Hacker News",
-    "date": "2026-07-06",
-    "summary": "Article URL: https://oztalking.com/en/issues/hidden-4gb-ai-model Comments URL: https://news.ycombinator.com/item?id=48805627 Points: 2 # Comments: 2",
-    "category": "industry",
-    "image": "https://oztalking.com/og/en/hidden-4gb-ai-model.jpg",
-    "id": 14
-  },
-  {
-    "title": "AMD Ryzen AI Halo – $4k AI Dev Kit",
-    "url": "https://www.lttlabs.com/articles/2026/07/06/amd-ryzen-ai-halo",
-    "source": "Hacker News",
-    "date": "2026-07-06",
-    "summary": "Article URL: https://www.lttlabs.com/articles/2026/07/06/amd-ryzen-ai-halo Comments URL: https://news.ycombinator.com/item?id=48805624 Points: 15 # Comments: 15",
-    "category": "hardware",
     "id": 15
   },
   {
-    "title": "AI gave you a promotion: Why AI isn't replacing jobs [video]",
-    "url": "https://www.youtube.com/watch?v=1ItQnh3LWeg",
+    "title": "NHS accelerates AI rollout to cut waiting times and improve care for millions",
+    "url": "https://www.england.nhs.uk/2026/07/nhs-accelerates-artificial-intelligence-rollout-to-cut-waiting-times-and-improve-care-for-millions/",
     "source": "Hacker News",
     "date": "2026-07-06",
-    "summary": "Article URL: https://www.youtube.com/watch?v=1ItQnh3LWeg Comments URL: https://news.ycombinator.com/item?id=48805602 Points: 2 # Comments: 0",
-    "category": "industry",
+    "summary": "Article URL: https://www.england.nhs.uk/2026/07/nhs-accelerates-artificial-intelligence-rollout-to-cut-waiting-times-and-improve-care-for-millions/ Comments URL: https://news.ycombinator.com/item?id=4...",
+    "category": "hardware",
+    "image": "https://www.england.nhs.uk/wp-content/themes/nhsengland/static/img/nhs-england-logo-export.png",
     "id": 16
   },
   {
-    "title": "Apple Silicon Exec Explains Mac Mini AI Demand and On-Device Future",
-    "url": "https://www.macrumors.com/2026/07/06/apple-silicon-exec-explains-mac-mini-ai-demand/",
+    "title": "Gartner saw AI 2017 on the peak of its hype",
+    "url": "https://www.researchgate.net/figure/Gartner-Hype-Cycle-2017-11_fig1_322215706",
     "source": "Hacker News",
     "date": "2026-07-06",
-    "summary": "Article URL: https://www.macrumors.com/2026/07/06/apple-silicon-exec-explains-mac-mini-ai-demand/ Comments URL: https://news.ycombinator.com/item?id=48805598 Points: 2 # Comments: 0",
-    "category": "hardware",
-    "image": "https://images.macrumors.com/t/J46PnqFon6uZq7AZIAThCrBf36g=/2500x/article-new/2024/04/apple-silicon-feature-joeblue.jpg",
+    "summary": "Article URL: https://www.researchgate.net/figure/Gartner-Hype-Cycle-2017-11_fig1_322215706 Comments URL: https://news.ycombinator.com/item?id=48809439 Points: 1 # Comments: 0",
+    "category": "research",
     "id": 17
   },
   {
-    "title": "Treasury Has an Internal Report Warning About the Dangers of an AI Bubble",
-    "url": "https://www.notus.org/economy/treasury-internal-report-warning-dangers-ai-bubble",
+    "title": "Groundtruth – checks your AI coding agent's claims against the Git diff",
+    "url": "https://github.com/akahkhanna/groundtruth",
     "source": "Hacker News",
     "date": "2026-07-06",
-    "summary": "Article URL: https://www.notus.org/economy/treasury-internal-report-warning-dangers-ai-bubble Comments URL: https://news.ycombinator.com/item?id=48805549 Points: 3 # Comments: 0",
+    "summary": "Article URL: https://github.com/akahkhanna/groundtruth Comments URL: https://news.ycombinator.com/item?id=48809364 Points: 1 # Comments: 0",
     "category": "industry",
-    "image": "https://static.notus.org/dims4/default/c8d6e28/2147483647/strip/true/crop/8137x4577+0+424/resize/1440x810!/quality/90/?url=https%3A%2F%2Fk2-prod-aji.s3.us-east-1.amazonaws.com%2Fbrightspot%2F71%2Fcc%2Fecde1ee14c318d9cc49738da9ae1%2Fap25016601836741.jpg",
+    "image": "https://opengraph.githubassets.com/6b75522c6b98859e411cf5bdbc5d4430d3bc936e4bbd2e418e08f999dc7b4878/akahkhanna/groundtruth",
     "id": 18
   },
   {
-    "title": "A Meditation on AI Identity",
-    "url": "https://soul.md",
+    "title": "We taught a small LLM to throw away 68% of our RAG context",
+    "url": "https://www.kapa.ai/blog/how-we-prune-rag-context",
     "source": "Hacker News",
     "date": "2026-07-06",
-    "summary": "Article URL: https://soul.md Comments URL: https://news.ycombinator.com/item?id=48805470 Points: 2 # Comments: 1",
-    "category": "industry",
-    "image": "https://soul.md/og-image.png",
+    "summary": "Article URL: https://www.kapa.ai/blog/how-we-prune-rag-context Comments URL: https://news.ycombinator.com/item?id=48809354 Points: 2 # Comments: 0",
+    "category": "models",
+    "image": "https://framerusercontent.com/images/6GxuXM90o1IK62mxhycPvoG2M.png?width=1267&height=654",
     "id": 19
   },
   {
-    "title": "Show HN: Xalgorix – Autonomous AI Pentesting Agent",
-    "url": "https://github.com/xalgord/xalgorix",
+    "title": "What's slowing down the AI buildout",
+    "url": "https://www.worksinprogress.news/p/ai-is-bottlenecked-by-the-grid",
     "source": "Hacker News",
     "date": "2026-07-06",
-    "summary": "Self-hosted AI security testing with a local Web UI, live agent telemetry, verified findings, and branded PDF reports. Comments URL: https://news.ycombinator.com/item?id=48805464 Points: 4 # Comments:...",
+    "summary": "Article URL: https://www.worksinprogress.news/p/ai-is-bottlenecked-by-the-grid Comments URL: https://news.ycombinator.com/item?id=48809084 Points: 2 # Comments: 0",
     "category": "industry",
-    "image": "https://repository-images.githubusercontent.com/1180642359/a320b528-700e-46f1-b19e-386bfd213b87",
+    "image": "https://substackcdn.com/image/fetch/$s_!K2fi!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F30156c47-e47a-443c-9f87-47070ad2ce75_2640x1760.jpeg",
     "id": 20
   },
   {
-    "title": "Ten Takeaways from the AI Engineering Report 2026: The Acceleration Whiplash",
-    "url": "https://www.faros.ai/blog/ai-acceleration-whiplash-takeaways",
+    "title": "Show HN:I built a safety shield for AI agents that intercepts dangerous commands",
+    "url": "https://github.com/Thomaszhou22/danger-guard-skill",
     "source": "Hacker News",
     "date": "2026-07-06",
-    "summary": "Article URL: https://www.faros.ai/blog/ai-acceleration-whiplash-takeaways Comments URL: https://news.ycombinator.com/item?id=48805424 Points: 2 # Comments: 0",
-    "category": "industry",
-    "image": "https://cdn.prod.website-files.com/695be6d603b11be779b0b9b2/69d79a350fb460c1cbcfe675_10%20takeaways%20from%20the%20Acceleration%20Whiplash%20report.webp",
+    "summary": "Article URL: https://github.com/Thomaszhou22/danger-guard-skill Comments URL: https://news.ycombinator.com/item?id=48809001 Points: 1 # Comments: 0",
+    "category": "research",
+    "image": "https://opengraph.githubassets.com/d1f0ea497a3133d4d9afad1e19e2599f55a2aae2c3bf98e76b64b89e97c117d2/Thomaszhou22/danger-guard-skill",
     "id": 21
   },
   {
-    "title": "Self-Service Ransomware as Security Against Local AI Tools",
-    "url": "https://blog.brendankeaton.com/self-service-ransomware-as-security-against-local-ai-tools",
+    "title": "Revieve – AI Product Engineer",
+    "url": "https://www.revieve.com/job-board",
     "source": "Hacker News",
     "date": "2026-07-06",
-    "summary": "Article URL: https://blog.brendankeaton.com/self-service-ransomware-as-security-against-local-ai-tools Comments URL: https://news.ycombinator.com/item?id=48805363 Points: 2 # Comments: 0",
-    "category": "tools",
-    "image": "https://blog.brendankeaton.com/self-service-ransomware-as-security-against-local-ai-tools/opengraph-image.png?opengraph-image.1p4u2jd4c47rt.png?dpl=dpl_JAVB6wnEDMxnHjFEcibjpFvApa4n",
+    "summary": "Article URL: https://www.revieve.com/job-board Comments URL: https://news.ycombinator.com/item?id=48808974 Points: 2 # Comments: 1",
+    "category": "industry",
     "id": 22
   },
   {
-    "title": "Show HN: AI harness for C/C++ with GDB, sanitizers, perf and compile tools",
-    "url": "https://byteask.ai/",
+    "title": "Simple AI agent in POSIX shell",
+    "url": "https://github.com/patrickjh/ssa",
     "source": "Hacker News",
     "date": "2026-07-06",
-    "summary": "hey guys, i wanted to show one of my side projects. The idea is a coding harness (independent of models) natively designed for C/C++ developer workflows. I'm a C++ dev and do not find claude code work...",
-    "category": "tools",
-    "image": "https://byteask.ai/og-assets/og-code-home.png",
+    "summary": "Article URL: https://github.com/patrickjh/ssa Comments URL: https://news.ycombinator.com/item?id=48808667 Points: 1 # Comments: 1",
+    "category": "industry",
+    "image": "https://opengraph.githubassets.com/4fe6b2425f46bb7811dfb882a69a4e79934f5595d86d32454bb59c28ea5ad036/patrickjh/ssa",
     "id": 23
   },
   {
-    "title": "Agent Infra: curated resources for production AI agent infrastructure",
-    "url": "https://github.com/shenli/awesome-agent-infra",
+    "title": "Show HN: Grinta –local-first AI coding agent that passed 106-minute stress test",
+    "url": "https://github.com/josephsenior/Grinta-Coding-Agent",
     "source": "Hacker News",
     "date": "2026-07-06",
-    "summary": "Article URL: https://github.com/shenli/awesome-agent-infra Comments URL: https://news.ycombinator.com/item?id=48805260 Points: 3 # Comments: 0",
+    "summary": "Article URL: https://github.com/josephsenior/Grinta-Coding-Agent Comments URL: https://news.ycombinator.com/item?id=48808609 Points: 1 # Comments: 0",
     "category": "industry",
-    "image": "https://opengraph.githubassets.com/15ab6d168fc6192d3c7a02fdfeaeec334eb71c727ec8a138abdfaa1e4965722e/shenli/awesome-agent-infra",
+    "image": "https://opengraph.githubassets.com/4f25315fea64af7c077e92fe23a1d4b42df2520ac46ddf298b253c617d862bd9/josephsenior/Grinta-Coding-Agent",
     "id": 24
   },
   {
-    "title": "'It's just his AI and my AI going back and forth'",
-    "url": "https://fortune.com/article/ai-communication-undermining-human-relationships-middle-management/",
+    "title": "Companies hire more after AI adoption",
+    "url": "https://ramp.com/data/heavy-ai-adopters-hire-more",
     "source": "Hacker News",
     "date": "2026-07-06",
-    "summary": "Article URL: https://fortune.com/article/ai-communication-undermining-human-relationships-middle-management/ Comments URL: https://news.ycombinator.com/item?id=48805032 Points: 1 # Comments: 1",
+    "summary": "Article URL: https://ramp.com/data/heavy-ai-adopters-hire-more Comments URL: https://news.ycombinator.com/item?id=48808498 Points: 2 # Comments: 0",
     "category": "industry",
-    "image": "https://fortune.com/img-assets/wp-content/uploads/2026/03/GettyImages-466925597-e1774653109205.jpg?resize=1200,600",
+    "image": "https://cdn.sanity.io/images/6jz6vxxd/production/ba04e6dda0169531a9311efac2d79cdf71e1b01e-2624x1322.jpg?rect=47,0,2530,1322&w=1200&h=627&fit=crop",
     "id": 25
   },
   {
-    "title": "AI Short Video Generator Website for Sale",
-    "url": "https://flippa.com/13365327-ai-powered-video-generation-platform-for-creating-viral-short-form-content-tiktok-reels-scalable-saas-with-strong-demand-and-monetization-potential",
+    "title": "Beyond Prediction: Tail-Aware Scheduling for LLM Inference",
+    "url": "https://yl3469.github.io/uniboost-icml26/",
     "source": "Hacker News",
     "date": "2026-07-06",
-    "summary": "Article URL: https://flippa.com/13365327-ai-powered-video-generation-platform-for-creating-viral-short-form-content-tiktok-reels-scalable-saas-with-strong-demand-and-monetization-potential Comments UR...",
-    "category": "tools",
+    "summary": "Article URL: https://yl3469.github.io/uniboost-icml26/ Comments URL: https://news.ycombinator.com/item?id=48808378 Points: 2 # Comments: 0",
+    "category": "models",
     "id": 26
   },
   {
-    "title": "EU startup built an AI system that matches Mythos on zero-day discovery",
-    "url": "https://aisle.com/blog/mythos-at-home-and-its-called-aisle",
+    "title": "SOTA genome interpretation with agentic AI: Interstitial lung disease case study",
+    "url": "https://gamowlabs.com/sota-genome-interpretation-with-agentic-ai.html",
     "source": "Hacker News",
     "date": "2026-07-06",
-    "summary": "Article URL: https://aisle.com/blog/mythos-at-home-and-its-called-aisle Comments URL: https://news.ycombinator.com/item?id=48805007 Points: 1 # Comments: 0",
-    "category": "industry",
+    "summary": "Article URL: https://gamowlabs.com/sota-genome-interpretation-with-agentic-ai.html Comments URL: https://news.ycombinator.com/item?id=48808099 Points: 9 # Comments: 1",
+    "category": "research",
+    "image": "https://gamowlabs.com/assets/acd-benchmark.png",
     "id": 27
   },
   {
-    "title": "GitHub & other LLM-gen-AI Cos Urge You to Misdirect California on FOSS Licensing",
-    "url": "https://sfconservancy.org/blog/2026/jul/03/github-gen-ai-california-22757-ok-for-foss-license/",
+    "title": "Botfluencerz – a social network where every user is an autonomous AI agent",
+    "url": "https://www.botfluencerz.com/",
     "source": "Hacker News",
     "date": "2026-07-06",
-    "summary": "Article URL: https://sfconservancy.org/blog/2026/jul/03/github-gen-ai-california-22757-ok-for-foss-license/ Comments URL: https://news.ycombinator.com/item?id=48804983 Points: 1 # Comments: 1",
-    "category": "models",
-    "image": "https://sfconservancy.org/static/img/conservancy-logo.png",
+    "summary": "Article URL: https://www.botfluencerz.com/ Comments URL: https://news.ycombinator.com/item?id=48808061 Points: 2 # Comments: 0",
+    "category": "industry",
+    "image": "https://www.botfluencerz.com/api/og",
     "id": 28
+  },
+  {
+    "title": "Free Robot Labour – Marx, Automation, and the Future of AI",
+    "url": "https://link.springer.com/book/10.1007/978-3-032-26782-5",
+    "source": "Hacker News",
+    "date": "2026-07-06",
+    "summary": "Article URL: https://link.springer.com/book/10.1007/978-3-032-26782-5 Comments URL: https://news.ycombinator.com/item?id=48807971 Points: 2 # Comments: 0",
+    "category": "industry",
+    "image": "https://media.springernature.com/w153/springer-static/cover/book/978-3-032-26782-5.jpg",
+    "id": 29
+  },
+  {
+    "title": "Pyforge-memory – three-tier memory for AI agents that works",
+    "url": "https://github.com/forgedlogicdev/pyforge-memory",
+    "source": "Hacker News",
+    "date": "2026-07-06",
+    "summary": "Article URL: https://github.com/forgedlogicdev/pyforge-memory Comments URL: https://news.ycombinator.com/item?id=48807937 Points: 3 # Comments: 0",
+    "category": "hardware",
+    "image": "https://opengraph.githubassets.com/57b93c7d01863abcc86f60ddf087a536ff27ca8429e104b6e583138a31a02ce4/forgedlogicdev/pyforge-memory",
+    "id": 30
+  },
+  {
+    "title": "Show HN: Record, replay, and improve AI agents in production",
+    "url": "https://github.com/zenml-io/kitaru",
+    "source": "Hacker News",
+    "date": "2026-07-06",
+    "summary": "At the AI Engineering World's Fair a big part of the conversation was to nail the self improvement loop. Our take on this is to record state of the agent execution with a durable runtime, then allow u...",
+    "category": "industry",
+    "image": "https://opengraph.githubassets.com/e51d5f5a23ef508a28970de0f1c804197dd338826c16383538f45748eeeb2829/zenml-io/kitaru",
+    "id": 31
+  },
+  {
+    "title": "(NEW) Game engine built with AI (4x11Engine) as an experiment",
+    "url": "https://github.com/rwusmm-dc/4x11Engine",
+    "source": "Hacker News",
+    "date": "2026-07-06",
+    "summary": "Article URL: https://github.com/rwusmm-dc/4x11Engine Comments URL: https://news.ycombinator.com/item?id=48807757 Points: 2 # Comments: 1",
+    "category": "industry",
+    "image": "https://opengraph.githubassets.com/b283e002e76428c8e57b7d15fcb06dbf9d6fb2eef953c69fcdc0723a094544a4/rwusmm-dc/4x11Engine",
+    "id": 32
+  },
+  {
+    "title": "Big Tech Has Suddenly Flipped on the AI Jobs Wipeout Scenario",
+    "url": "https://www.wsj.com/tech/ai/ai-workers-tech-ceos-job-losses-afc71e15",
+    "source": "Hacker News",
+    "date": "2026-07-06",
+    "summary": "Article URL: https://www.wsj.com/tech/ai/ai-workers-tech-ceos-job-losses-afc71e15 Comments URL: https://news.ycombinator.com/item?id=48807651 Points: 76 # Comments: 82",
+    "category": "industry",
+    "id": 33
+  },
+  {
+    "title": "Apple Predicted Siri AI in 1987",
+    "url": "https://www.youtube.com/watch?v=ForO33IynkA",
+    "source": "Hacker News",
+    "date": "2026-07-06",
+    "summary": "Article URL: https://www.youtube.com/watch?v=ForO33IynkA Comments URL: https://news.ycombinator.com/item?id=48807601 Points: 2 # Comments: 0",
+    "category": "industry",
+    "id": 34
+  },
+  {
+    "title": "Your family’s $300 stake in OpenAI",
+    "url": "https://www.technologyreview.com/2026/07/06/1140176/your-familys-300-stake-in-openai/",
+    "source": "MIT Tech Review",
+    "date": "2026-07-06",
+    "summary": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. OpenAI CEO Sam Altman’s oft-discussed promise that Americans w...",
+    "category": "research",
+    "image": "https://wp.technologyreview.com/wp-content/uploads/2026/07/openai-money.jpg?resize=1200,600",
+    "id": 35
   },
   {
     "title": "The Download: South Korea’s hottest bachelors, and advancing eye transplants",
@@ -282,7 +353,7 @@
     "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. South Korea’s hottest new bachelors are chip workers Baek, a 3...",
     "category": "hardware",
     "image": "https://wp.technologyreview.com/wp-content/uploads/2026/06/260623_chipmarriage.jpg?resize=1200,600",
-    "id": 29
+    "id": 36
   },
   {
     "title": "South Korea’s hottest new bachelors are chip workers",
@@ -292,7 +363,7 @@
     "summary": "Baek, a 35-year-old manager at the South Korean semiconductor titan SK Hynix, was enrolled in Sunoo, a matchmaking company based in Seoul, a year ago. In a move typical of anxious South Korean parents...",
     "category": "hardware",
     "image": "https://wp.technologyreview.com/wp-content/uploads/2026/06/260623_chipmarriage.jpg?resize=1200,600",
-    "id": 30
+    "id": 37
   },
   {
     "title": "SpaceX vaporizes 260 Starlink satellites in six months using Earth's atmosphere — new environmental concerns emerge over burning 2,700-pound orbital data centers, FCC seeks to exempt satellites from regulations",
@@ -302,7 +373,7 @@
     "summary": "SpaceX retired 260 Starlink satellites in six months, with hundreds more to follow, as debate grows over the atmospheric impact of satellite burn-ups.",
     "category": "hardware",
     "image": "https://cdn.mos.cms.futurecdn.net/weuJYZ7wRLJCvauEdrFjPP-1280-80.jpg",
-    "id": 31
+    "id": 38
   },
   {
     "title": "RAMpocalyse pricing prompts maker to construct his own memory using ancient Apollo-era tech — USB drive resurrects hand-threaded magnetic core memory using salvaged Russian computer parts",
@@ -312,7 +383,7 @@
     "summary": "DIYer shows how they made a handsome magnetic core memory USB drive using home CNC and 3D printing equipment. However, it isn't a homebrew answer to the AI-induced memory crisis with only 64 bits of d...",
     "category": "hardware",
     "image": "https://cdn.mos.cms.futurecdn.net/nJWGLDoa47mPF24CtJTXu6-1280-80.jpg",
-    "id": 32
+    "id": 39
   },
   {
     "title": "Germany's massive 60,000-game preservation project collapses after €1.5 million funding dries up — world's largest game archive was entirely publicly available, now abandoned just as Sony kills physical media",
@@ -322,7 +393,7 @@
     "summary": "A German effort to assemble the world's largest publicly accessible video game archive is being wound down after roughly €1.5 million in public funding expired.",
     "category": "industry",
     "image": "https://cdn.mos.cms.futurecdn.net/a8gGudRCCXZ9hkes3bZPNT-1280-80.jpg",
-    "id": 33
+    "id": 40
   },
   {
     "title": "Reviewer tests 'RTX 4080M' desktop graphics card powered by salvaged laptop silicon — performs worse than slightly more expensive RX 9070 GRE but draws only 100W in games",
@@ -332,7 +403,7 @@
     "summary": "Turns out, a modded RTX 4080M desktop GPU performs worse than similarly-priced official options. It currently costs roughly $400 in China and compared to the RX 9070 GRE, this custom card loses in eve...",
     "category": "hardware",
     "image": "https://cdn.mos.cms.futurecdn.net/hJxwicRSD7T933qqLCofqR-1280-80.jpg",
-    "id": 34
+    "id": 41
   },
   {
     "title": "Hannah Montana Linux gets modern remaster after nearly two decades — ‘Sweet niblets,’ new v26 is built on Debian with a re-skin of KDE Plasma",
@@ -342,7 +413,7 @@
     "summary": "Say whaaaat? Hannah Montana Linux is back. Basically abandonware since 2009, the distro has returned with a modern kernel and about 18 years worth of patches.",
     "category": "hardware",
     "image": "https://cdn.mos.cms.futurecdn.net/AXLJKMiDYjcAXHGRqptntT-1280-80.jpg",
-    "id": 35
+    "id": 42
   },
   {
     "title": "F1 25: 2026 Season Edition GPU benchmarks – From Pole Position to the Back of the Grid",
@@ -352,7 +423,7 @@
     "summary": "With a year of updates behind it and a major overhaul now in place, this is the perfect opportunity to revisit F1 25 and see where performance stands in 2026 with a selection of both Nvidia and AMD GP...",
     "category": "hardware",
     "image": "https://cdn.mos.cms.futurecdn.net/ascKeGFQyoCJY3N9ShKXFU-1280-80.jpg",
-    "id": 36
+    "id": 43
   },
   {
     "title": "Jim Keller's startup is building a factory to mass-produce small semiconductor fabs —Atomic Semi rebrands as 'Fab2' underlining intended role as a 'fab fab'",
@@ -362,7 +433,7 @@
     "summary": "Atomic Semi, the semiconductor tooling startup founded by chip architect Jim Keller and DIY fabrication pioneer Sam Zeloof, has rebranded as Fab2.",
     "category": "hardware",
     "image": "https://cdn.mos.cms.futurecdn.net/groRd4wteVARFynpqoPiqc-1280-80.png",
-    "id": 37
+    "id": 44
   },
   {
     "title": "Grab this RTX 5070 Ti OLED gaming laptop at $300 off — Acer Predator Helios Neo 16S AI drops to $1,899.99",
@@ -372,7 +443,7 @@
     "summary": "The Acer Predator Helios Neo 16S AI combines an OLED 240 Hz display, Intel's Core Ultra 9 275HX, RTX 5070 Ti graphics, and 32GB of DDR5 memory, all while saving you $300 off its regular price.",
     "category": "hardware",
     "image": "https://cdn.mos.cms.futurecdn.net/RcdEvT7RdgN8B36M58cu3d-1280-80.jpg",
-    "id": 38
+    "id": 45
   },
   {
     "title": "Alibaba bans Anthropic's Claude Code after an alleged hidden China-detection backdoor is uncovered — employees told to switch to Qoder as the rift between the firms widens",
@@ -382,7 +453,7 @@
     "summary": "Alibaba banned Claude Code after an alleged hidden China-detection code was found, prompting staff to switch to Qoder as its feud with Anthropic deepens.",
     "category": "models",
     "image": "https://cdn.mos.cms.futurecdn.net/LyXhaFLnFmGeSh8PqYKPuh-1280-80.jpg",
-    "id": 39
+    "id": 46
   },
   {
     "title": "Chinese YMTC SSDs make their way into retail Lenovo laptops — media outlet slams YMTC PCIe 4.0 drive for 'below average for an SSD in an office laptop' in review",
@@ -392,7 +463,7 @@
     "summary": "Lenovo has seemingly begun using YMTC SSDs in some of its laptop models, allowing the Chinese storage chip company to gain a foothold in the U.S. This is despite its inclusion on the U.S. Department o...",
     "category": "hardware",
     "image": "https://cdn.mos.cms.futurecdn.net/VrXjDyQMaSxhKxnMGKrZoT-1280-80.png",
-    "id": 40
+    "id": 47
   },
   {
     "title": "Meta data center water discharges suspended after contaminating the city's reclamation water supply with bacterium — system offline for months for cleaning, closed-loop cooling system purge spread rare metal-resistant bacteria in Cheyenne’s water system",
@@ -402,7 +473,7 @@
     "summary": "Fill-and-flush is a commissioning step whereby crews fill a cooling loop's piping with water and flush it to clear debris before the system is run.",
     "category": "hardware",
     "image": "https://cdn.mos.cms.futurecdn.net/5DrUKzfgk2vDQzjnVtVpkJ-1280-80.jpg",
-    "id": 41
+    "id": 48
   },
   {
     "title": "Memory price surge begins to cool as consumers hit affordability limit — AI demand still keeps DRAM and NAND prices climbing through Q3 2026",
@@ -412,7 +483,7 @@
     "summary": "TrendForce says DRAM and NAND prices will continue to rise through Q3 2026, but AI-driven gains are slowing as PC and smartphone makers reach their affordability limits.",
     "category": "hardware",
     "image": "https://cdn.mos.cms.futurecdn.net/nZwytLfsByvped6J8HtRKP-1280-80.jpg",
-    "id": 42
+    "id": 49
   },
   {
     "title": "Windows guru uses 19th-century Stirling Engine tech for auxiliary cooling on AMD Threadripper 3970X system — waste heat energy spins the $40 engine's flywheel",
@@ -422,76 +493,6 @@
     "summary": "Windows development guru Dave W. Plummer shared a brief video demonstrating a novel Stirling Engine powered cooling solution for his AMD Threadripper chipset.",
     "category": "hardware",
     "image": "https://cdn.mos.cms.futurecdn.net/5ERbDoEZVjoPz5Jv3s3PEh-1280-80.jpg",
-    "id": 43
-  },
-  {
-    "title": "Startup unveils 3D-printed nuclear reactor module to power AI data centers —touted as ‘the world’s first subcritical, solid-state, factory-built thorium nuclear reactor’",
-    "url": "https://www.tomshardware.com/3d-printing/startup-unveils-3d-printed-nuclear-reactor-module-to-power-ai-data-centers-touted-as-the-worlds-first-subcritical-solid-state-factory-built-thorium-nuclear-reactor",
-    "source": "Tom's Hardware",
-    "date": "2026-07-04",
-    "summary": "Nuclear tech startup Ampera revealed a small modular reactor manufactured using 3D printing techniques. The company says that it expects to be the first one to mass produce these power sources for dat...",
-    "category": "hardware",
-    "image": "https://cdn.mos.cms.futurecdn.net/JBwe5tYq5MsT2GxEcvNJTZ-1280-80.png",
-    "id": 44
-  },
-  {
-    "title": "New Google commercial imagines a Declaration of Independence written with help from AI",
-    "url": "https://techcrunch.com/2026/07/04/new-google-commercial-imagines-a-declaration-of-independence-written-with-help-from-ai/",
-    "source": "TechCrunch",
-    "date": "2026-07-04",
-    "summary": "Two hundred and fifty years after the signing of the Declaration of Independence, a new commercial asks: What if the Founding Fathers had access to Google Workspace?",
-    "category": "industry",
-    "image": "https://techcrunch.com/wp-content/uploads/2026/07/google-declaration-of-independence.jpg?w=1200",
-    "id": 45
-  },
-  {
-    "title": "Midjourney wants Hollywood studios to reveal the details of their AI usage",
-    "url": "https://techcrunch.com/2026/07/04/midjourney-wants-hollywood-studios-to-reveal-the-details-of-their-ai-usage/",
-    "source": "TechCrunch",
-    "date": "2026-07-04",
-    "summary": "As part of an ongoing legal dispute with three Hollywood studios, Midjourney is seeking to compel those studios to reveal how they use AI themselves.",
-    "category": "industry",
-    "image": "https://techcrunch.com/wp-content/uploads/2025/10/GettyImages-1387623215.jpg?resize=1200,900",
-    "id": 46
-  },
-  {
-    "title": "Alibaba reportedly bans employees from using Claude Code",
-    "url": "https://techcrunch.com/2026/07/04/alibaba-reportedly-bans-employees-from-using-claude-code/",
-    "source": "TechCrunch",
-    "date": "2026-07-04",
-    "summary": "Alibaba has reportedly classified Claude Code as high-risk software.",
-    "category": "models",
-    "image": "https://techcrunch.com/wp-content/uploads/2026/04/GettyImages-2269811684.jpg?w=1024",
-    "id": 47
-  },
-  {
-    "title": "What is Mistral AI? Everything to know about the OpenAI competitor",
-    "url": "https://techcrunch.com/2026/07/04/what-is-mistral-ai-everything-to-know-about-the-openai-competitor/",
-    "source": "TechCrunch",
-    "date": "2026-07-04",
-    "summary": "Mistral AI, which offers some open source AI models, has raised significant funding since its creation in 2023, with the ambition to “put frontier AI in the hands of everyone.”",
-    "category": "models",
-    "image": "https://techcrunch.com/wp-content/uploads/2025/07/GettyImages-2219786590.jpg?w=1024",
-    "id": 48
-  },
-  {
-    "title": "Intel confirms price hikes on select consumer and server CPUs citing supply costs and demand — select Xeon processors now over $1,000 more expensive",
-    "url": "https://www.tomshardware.com/pc-components/cpus/intel-confirms-price-hikes-on-select-consumer-and-server-cpus-citing-supply-costs-and-demand-select-xeon-processors-now-over-usd1-000-more-expensive",
-    "source": "Tom's Hardware",
-    "date": "2026-07-03",
-    "summary": "Intel confirms price increases for Core Ultra 200S Plus, Xeon 6 processors, cites market dynamics, rising costs, soaring demand.",
-    "category": "hardware",
-    "image": "https://cdn.mos.cms.futurecdn.net/wUsSLzuor4dtkrjsTZUnB3-1280-80.jpg",
-    "id": 49
-  },
-  {
-    "title": "Inside the history of DRAM price-fixing lawsuits — how HBM allocations could make a difference after two decades of failed cases",
-    "url": "https://www.tomshardware.com/pc-components/dram/samsung-sk-hynix-and-micron-face-a-third-dram-price-fixing-lawsuit",
-    "source": "Tom's Hardware",
-    "date": "2026-07-03",
-    "summary": "17 plaintiffs sued Samsung, SK hynix, and Micron in the U.S. District Court for the Northern District of California in late June.",
-    "category": "hardware",
-    "image": "https://cdn.mos.cms.futurecdn.net/82L7i84TosbQSQDKVLcj2G-1280-80.jpg",
     "id": 50
   }
 ]
