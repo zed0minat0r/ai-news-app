@@ -11,12 +11,12 @@
     "featured": true
   },
   {
-    "title": "Introducing GPT-Live",
-    "url": "https://openai.com/index/introducing-gpt-live",
+    "title": "Separating signal from noise in coding evaluations",
+    "url": "https://openai.com/index/separating-signal-from-noise-coding-evaluations",
     "source": "OpenAI Blog",
     "date": "2026-07-08",
-    "summary": "A new generation of voice models for natural human-AI interaction, now powering ChatGPT Voice.",
-    "category": "models",
+    "summary": "A new analysis from OpenAI reveals issues in SWE-Bench Pro, a popular coding benchmark, raising concerns about reliability and accuracy in evaluating AI models.",
+    "category": "research",
     "id": 2
   },
   {
@@ -29,6 +29,24 @@
     "id": 3
   },
   {
+    "title": "Introducing GPT-Live",
+    "url": "https://openai.com/index/introducing-gpt-live",
+    "source": "OpenAI Blog",
+    "date": "2026-07-08",
+    "summary": "A new generation of voice models for natural human-AI interaction, now powering ChatGPT Voice.",
+    "category": "models",
+    "id": 4
+  },
+  {
+    "title": "Our approach to government and national security partnerships",
+    "url": "https://openai.com/index/government-national-security-partnerships",
+    "source": "OpenAI Blog",
+    "date": "2026-07-08",
+    "summary": "Learn how OpenAI approaches government and national security partnerships, with principles for responsible AI use, democratic accountability, and public safety.",
+    "category": "industry",
+    "id": 5
+  },
+  {
     "title": "Hackers can use 9 of the most popular AI tools to assemble massive botnets",
     "url": "https://arstechnica.com/security/2026/07/hackers-can-use-9-of-the-most-popular-ai-tools-to-assemble-massive-botnets/",
     "source": "Ars Technica",
@@ -36,7 +54,7 @@
     "summary": "\"HalluSquatting\" weaponizes LLMs' inability to say \"I don't know.\"",
     "category": "models",
     "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/07/rogue-ai-agent-1152x648.jpg",
-    "id": 4
+    "id": 6
   },
   {
     "title": "Rapidus fab roadmap examined — first new leading-edge chipmaker in decades has one Hokkaido fab, a 2027 deadline, and 60 potential customers",
@@ -46,7 +64,7 @@
     "summary": "Rapidus is building Japan's entire return to leading-edge logic on one fab in Chitose, Hokkaido.",
     "category": "hardware",
     "image": "https://cdn.mos.cms.futurecdn.net/xP8jJdjYzY5MsDdvR7cV6h-1280-80.jpg",
-    "id": 5
+    "id": 7
   },
   {
     "title": "China alleges that Claude Code contains backdoors, calls mechanism 'a serious threat' — Gov't claims Claude sends sensitive information to remote servers without consent",
@@ -56,7 +74,7 @@
     "summary": "China is warning against the use of Claude Code versions released between April and June 2026 after it's revealed that hidden code is sending sensitive user information to remote servers. The governme...",
     "category": "tools",
     "image": "https://cdn.mos.cms.futurecdn.net/ScT7C9WsuqruarWf3kSRRG-1280-80.jpg",
-    "id": 6
+    "id": 8
   },
   {
     "title": "Hidden backdoor in Tenda routers goes unpatched as company ignores warnings from cybersecurity researchers — Chinese company's firmware allows admin access without a password",
@@ -66,7 +84,7 @@
     "summary": "CERT/CC has disclosed a critical authentication backdoor affecting multiple Tenda router firmware versions. Tracked as CVE-2026-11405, the flaw grants full administrator access without valid credentia...",
     "category": "hardware",
     "image": "https://cdn.mos.cms.futurecdn.net/uX8ghCJT8DyjkPQPLQVehC-1280-80.jpg",
-    "id": 7
+    "id": 9
   },
   {
     "title": "Budget smartphone market collapses under the weight of memory shortages, sales expected to drop 22% — memory alone now comprises up to 64% of the total cost of lower-tier smartphones",
@@ -76,7 +94,7 @@
     "summary": "The global AI memory squeeze is pricing cheap phones out of existence and forcing mid-range devices to compromise on hardware.",
     "category": "hardware",
     "image": "https://cdn.mos.cms.futurecdn.net/n2zquDeZTzsf5MTjgwrqJc-1280-80.jpg",
-    "id": 8
+    "id": 10
   },
   {
     "title": "JEDEC releases new SPHBM4 standard to slash AI memory costs — Narrow 512-bit interface enables dropping expensive interposers for organic substrates",
@@ -86,7 +104,7 @@
     "summary": "SPHBM4 promises HBM4-class bandwidth without usage of silicon interposer and CoWoS-like packaging.",
     "category": "hardware",
     "image": "https://cdn.mos.cms.futurecdn.net/vnqdtRupVqWHAik43ZWctH-1280-80.jpg",
-    "id": 9
+    "id": 11
   },
   {
     "title": "SiPearl's long-awaited Rhea CPU finally gets in the lab, opening the door for Europe's first sovereign HPC CPU — 'availability of Rhea1 is scheduled for end of 2026' SiPearl VP says, following long development process",
@@ -96,7 +114,7 @@
     "summary": "How a limited run CPU could open the right doors for Europe's first HPC processors on markets its developers barely hoped to address any time soon.",
     "category": "hardware",
     "image": "https://cdn.mos.cms.futurecdn.net/VGJhvQT8RdNLDCTZLToTUK-1280-80.jpg",
-    "id": 10
+    "id": 12
   },
   {
     "title": "Power company hikes data center bills by 30%, cuts residential electricity costs by 1.3% — Oregon approves change through POWER Act, pushes developments using more than 20 Megawatts of power to pay their fair share",
@@ -106,7 +124,7 @@
     "summary": "Oregon approves the 29.7% price hike that Portland General Electric (PGE), the state's largest power provider, will impose on users that consume 20MW or more. This move is backed by Oregon's POWER Act...",
     "category": "hardware",
     "image": "https://cdn.mos.cms.futurecdn.net/KHUetaXQbsmm6z9m5g5Pne-1280-80.jpg",
-    "id": 11
+    "id": 13
   },
   {
     "title": "'Slopfix' software team charges $10,000 a week to delete AI-generated code bloat — ironically, the team uses AI agents to trim messy repositories by up to 65%",
@@ -116,7 +134,7 @@
     "summary": "A software house known as 'Slopfix' has launched a fixed-price service that refactors AI-generated codebases, charging $10,000 for one week of work.",
     "category": "industry",
     "image": "https://cdn.mos.cms.futurecdn.net/Kc5XZJfVxj3uECzne3uBJ3-1280-80.jpg",
-    "id": 12
+    "id": 14
   },
   {
     "title": "Save $527 on this 1440p gaming PC from Newegg with a 16GB RTX 5060 Ti right now — huge discount for high-end performance rig with an Intel Core i7-14700F, 32GB DDR5, and a 1TB SSD",
@@ -126,7 +144,7 @@
     "summary": "This great value gaming PC from Newegg's ABS brand features a 16GB RTX 5060 Ti GPU and 32GB of DDR5-6400 RAM, giving you a rig ready for 1440p gaming.",
     "category": "hardware",
     "image": "https://cdn.mos.cms.futurecdn.net/kGgHTNakXcPKEdYfyEaQgA-1280-80.png",
-    "id": 13
+    "id": 15
   },
   {
     "title": "Nvidia touts Vera CPU's single-threaded performance as its agentic AI advantage, reveals next-gen 'Rigel' Arm CPU cores — frames chip as a 'max single-threaded CPU at scale,' not a parallel monster",
@@ -136,7 +154,17 @@
     "summary": "Nvidia lifts the veil a little bit more on its Vera CPU and reveals a single-thread performance monster — company claims a 1.8x uplift versus x86 competition in agentic workloads and 1.5x in coding.",
     "category": "hardware",
     "image": "https://cdn.mos.cms.futurecdn.net/JUMzzHeBHtq9q5mBczXBWb-1280-80.jpg",
-    "id": 14
+    "id": 16
+  },
+  {
+    "title": "Google’s deepfake detector system used to debunk McConnell hoax pic",
+    "url": "https://techcrunch.com/2026/07/08/googles-deepfake-detector-system-used-to-debunk-mcconnell-hoax-pic/",
+    "source": "TechCrunch",
+    "date": "2026-07-08",
+    "summary": "Earlier this week, a picture seemed to show Kentucky Senator Mitch McConnell covered in tubes in a hospital bed in a state of extreme distress. It turned out to be an AI-generated fake.",
+    "category": "industry",
+    "image": "https://techcrunch.com/wp-content/uploads/2023/05/google-io-2023-watermarking.jpg?resize=1200,675",
+    "id": 17
   },
   {
     "title": "SpaceXAI releases Grok 4.5, which Elon describes as an ‘Opus-class model’",
@@ -145,8 +173,8 @@
     "date": "2026-07-08",
     "summary": "Elon Musk's tech company released the newest version of Grok on Wednesday, promising a cheaper, more efficient alternative to other powerful AI models.",
     "category": "models",
-    "image": "https://techcrunch.com/wp-content/uploads/2026/06/elon-nasdaq-spacex-ipo.jpg?resize=1200,801",
-    "id": 15
+    "image": "https://techcrunch.com/wp-content/uploads/2026/05/GettyImages-2259661359.jpg?w=1024",
+    "id": 18
   },
   {
     "title": "This startup thinks robotics is about to have its ChatGPT moment",
@@ -156,7 +184,7 @@
     "summary": "General Intuition is betting millions of hours of video game data can train the foundation models for physical AI, making it easier to build smarter robots with minimal real-world data.",
     "category": "models",
     "image": "https://techcrunch.com/wp-content/uploads/2026/06/pic_Pim_CEO.jpg?resize=1200,800",
-    "id": 16
+    "id": 19
   },
   {
     "title": "Google Photos adds a new AI ‘Video Remix’ tool",
@@ -166,7 +194,7 @@
     "summary": "The feature can do things like apply cinematic relighting to brighten up a dark clip, swap out a plain background for something fun, or add artistic styles to videos.",
     "category": "tools",
     "image": "https://techcrunch.com/wp-content/uploads/2026/04/GettyImages-2249181820.jpg?resize=1200,800",
-    "id": 17
+    "id": 20
   },
   {
     "title": "Why this CEO thinks video games make better training data than the internet",
@@ -176,7 +204,7 @@
     "summary": "When it comes to achieving artificial general intelligence (AGI), large language models just don’t have what it takes. Models like ChatGPT and Claude are great at text, but they’re less skilled at und...",
     "category": "models",
     "image": "https://techcrunch.com/wp-content/uploads/2025/10/general_intuition_ceo_pim_de_witte.png?w=1024",
-    "id": 18
+    "id": 21
   },
   {
     "title": "Meta wants its AI glasses to seem less creepy. Its AI strategy says otherwise.",
@@ -186,7 +214,7 @@
     "summary": "Meta is adding a new safeguard to stop people from secretly recording others with its AI glasses. But the update comes as the company continues to expand how much personal data its AI products collect...",
     "category": "industry",
     "image": "https://techcrunch.com/wp-content/uploads/2026/07/kylie-jenner-meta-ai-glasses.jpeg?resize=1200,750",
-    "id": 19
+    "id": 22
   },
   {
     "title": "OpenAI releases new voice models for more natural live conversations",
@@ -196,7 +224,7 @@
     "summary": "OpenAI says its new voice mode can speak and listen at the same time, a key ability for live translation.",
     "category": "industry",
     "image": "https://techcrunch.com/wp-content/uploads/2026/07/Press-Static-Hero-16x9-1.jpg?resize=1200,675",
-    "id": 20
+    "id": 23
   },
   {
     "title": "Prime Intellect raises $130M Series A to help enterprises build their own AI agents",
@@ -206,7 +234,7 @@
     "summary": "Founded in 2024, Prime Intellect’s goal is to give organizations capabilities to train their own agentic systems without relying on frontier AI labs.",
     "category": "hardware",
     "image": "https://techcrunch.com/wp-content/uploads/2026/07/PE4252-2.jpg?resize=1200,800",
-    "id": 21
+    "id": 24
   },
   {
     "title": "These AI startups are growing  revenue at faster and faster rates",
@@ -216,7 +244,7 @@
     "summary": "There are a lot of fast-growing AI startups, but some are growing even faster, they say.",
     "category": "industry",
     "image": "https://techcrunch.com/wp-content/uploads/2022/04/GettyImages-177218217.jpg?resize=1200,776",
-    "id": 22
+    "id": 25
   },
   {
     "title": "Your gaming data could be the secret to AGI, according to this Bezos-backed startup",
@@ -226,7 +254,7 @@
     "summary": "When it comes to achieving artificial general intelligence (AGI), large language models just don’t have what it takes. Models like ChatGPT and Claude are great at text, but they’re less skilled at und...",
     "category": "models",
     "image": "https://techcrunch.com/wp-content/uploads/2025/10/general_intuition_announcement_hero.png?resize=1200,982",
-    "id": 23
+    "id": 26
   },
   {
     "title": "Former OpenAI exec Kevin Weil is now on the board of Stoke Space",
@@ -236,7 +264,7 @@
     "summary": "Kevin Weil's new role at Stoke Space suggests reusable rockets are the next hot thing in Silicon Valley.",
     "category": "hardware",
     "image": "https://techcrunch.com/wp-content/uploads/2026/07/kw_2019-1.jpg?resize=1198,1200",
-    "id": 24
+    "id": 27
   },
   {
     "title": "Hot French startup ZML releases free product to speed inference across lots of AI chips",
@@ -246,7 +274,7 @@
     "summary": "ZML, a hot French AI startup endorsed by Turing Award winner Yann LeCun, has now released ZML/LLMD, software that could make running AI less costly.",
     "category": "models",
     "image": "https://techcrunch.com/wp-content/uploads/2026/07/ZML-founder-Steeve-Morin.jpg?resize=1200,800",
-    "id": 25
+    "id": 28
   },
   {
     "title": "AI chip maker SambaNova raises $1B at $11B valuation, 5 months after last mega round",
@@ -256,17 +284,182 @@
     "summary": "AI chip maker SambaNova has raised at an $11 billion valuation months after Intel was rumored to be trying to buy it for about $1.6 billion.",
     "category": "industry",
     "image": "https://techcrunch.com/wp-content/uploads/2026/07/chip__1_.png?w=940",
-    "id": 26
+    "id": 29
+  },
+  {
+    "title": "The neutral proof standard for consequential AI-agent actions",
+    "url": "https://github.com/Actenon",
+    "source": "Hacker News",
+    "date": "2026-07-08",
+    "summary": "Article URL: https://github.com/Actenon Comments URL: https://news.ycombinator.com/item?id=48837953 Points: 1 # Comments: 0",
+    "category": "industry",
+    "image": "https://avatars.githubusercontent.com/u/290948712?s=280&v=4",
+    "id": 30
+  },
+  {
+    "title": "Nika – Intent as Code for AI Workflows",
+    "url": "https://github.com/supernovae-st/nika",
+    "source": "Hacker News",
+    "date": "2026-07-08",
+    "summary": "Article URL: https://github.com/supernovae-st/nika Comments URL: https://news.ycombinator.com/item?id=48837692 Points: 1 # Comments: 0",
+    "category": "industry",
+    "image": "https://opengraph.githubassets.com/30c041bdbbb2f3f66cb82a216a8e6caf9ed5968d51a78a7b3f4b62fb5fdc9df9/supernovae-st/nika",
+    "id": 31
+  },
+  {
+    "title": "Show HN: Mtok.market – a non-custodial spot market for AI inference tokens",
+    "url": "https://mtok.market/",
+    "source": "Hacker News",
+    "date": "2026-07-08",
+    "summary": "Article URL: https://mtok.market/ Comments URL: https://news.ycombinator.com/item?id=48837658 Points: 1 # Comments: 0",
+    "category": "industry",
+    "id": 32
+  },
+  {
+    "title": "Istota, a multi-user AI agent and personal operating system",
+    "url": "https://istota.cynium.com/",
+    "source": "Hacker News",
+    "date": "2026-07-08",
+    "summary": "Article URL: https://istota.cynium.com/ Comments URL: https://news.ycombinator.com/item?id=48837553 Points: 3 # Comments: 0",
+    "category": "industry",
+    "image": "https://istota.static.cynium.com/Screenshot-2026-07-01-at-19.25.39.jpg",
+    "id": 33
+  },
+  {
+    "title": "ShevtoneAudio – AI that turns piano MIDI into cinematic trailer music",
+    "url": "https://app.shevtoneaudio.com/",
+    "source": "Hacker News",
+    "date": "2026-07-08",
+    "summary": "Article URL: https://app.shevtoneaudio.com/ Comments URL: https://news.ycombinator.com/item?id=48837380 Points: 1 # Comments: 1",
+    "category": "industry",
+    "id": 34
+  },
+  {
+    "title": "Ask HN: Why is not using AI considered a form of arrogance?",
+    "url": "https://news.ycombinator.com/item?id=48837332",
+    "source": "Hacker News",
+    "date": "2026-07-08",
+    "summary": "You would expect only people who have a very high opinion of themselves to not feel the need to use AI. Comments URL: https://news.ycombinator.com/item?id=48837332 Points: 5 # Comments: 9",
+    "category": "industry",
+    "id": 35
+  },
+  {
+    "title": "Most nurses say AI isn't good enough to trust with patient care, survey finds",
+    "url": "https://www.washingtonpost.com/technology/2026/07/07/most-nurses-say-ai-isnt-good-enough-trust-with-patient-care-survey/",
+    "source": "Hacker News",
+    "date": "2026-07-08",
+    "summary": "Article URL: https://www.washingtonpost.com/technology/2026/07/07/most-nurses-say-ai-isnt-good-enough-trust-with-patient-care-survey/ Comments URL: https://news.ycombinator.com/item?id=48837096 Points...",
+    "category": "industry",
+    "id": 36
+  },
+  {
+    "title": "Show HN: Nully – FOSS AI chat without the bloat",
+    "url": "https://nully.chat/",
+    "source": "Hacker News",
+    "date": "2026-07-08",
+    "summary": "As someone who doesn't use any of the more \"advanced\" features on sites like ChatGPT or Claude (agentic mode, memory, image generation, deep research, etc), I found the bloat of these services, both i...",
+    "category": "models",
+    "image": "https://nully.chat/img/og.313f92ddc3a45c31.png",
+    "id": 37
+  },
+  {
+    "title": "GitOps in the Age of AI",
+    "url": "https://confighub.com/blog/gitops-in-the-age-of-ai-c73d0bd506ba",
+    "source": "Hacker News",
+    "date": "2026-07-08",
+    "summary": "Article URL: https://confighub.com/blog/gitops-in-the-age-of-ai-c73d0bd506ba Comments URL: https://news.ycombinator.com/item?id=48836971 Points: 3 # Comments: 1",
+    "category": "industry",
+    "image": "https://confighub.com/blog/media/gitops-in-the-age-of-ai/img0.jpg",
+    "id": 38
+  },
+  {
+    "title": "Agentic test processes, LLM benchmarks, and other notes on agentic coding fr",
+    "url": "https://danluu.com/ai-coding/#llm-variance",
+    "source": "Hacker News",
+    "date": "2026-07-08",
+    "summary": "Article URL: https://danluu.com/ai-coding/#llm-variance Comments URL: https://news.ycombinator.com/item?id=48836951 Points: 10 # Comments: 1",
+    "category": "models",
+    "id": 39
+  },
+  {
+    "title": "China Is Abusing AI",
+    "url": "https://www.theatlantic.com/international/2026/07/xi-jinping-censorship-ai-training/687696/",
+    "source": "Hacker News",
+    "date": "2026-07-08",
+    "summary": "Article URL: https://www.theatlantic.com/international/2026/07/xi-jinping-censorship-ai-training/687696/ Comments URL: https://news.ycombinator.com/item?id=48836825 Points: 5 # Comments: 3",
+    "category": "industry",
+    "image": "https://cdn.theatlantic.com/thumbor/HWydn0Y7GXzKe9BjvrtcRGFsJO8=/0x83:2000x1125/1200x625/media/img/mt/2026/07/2026_07_06_China_is_Abusing_AI/original.jpg",
+    "id": 40
+  },
+  {
+    "title": "Show HN: Onboard-CLI, a LLM powered and AST-based tool to visualize codebase",
+    "url": "https://github.com/animesh-94/Onboard-CLI",
+    "source": "Hacker News",
+    "date": "2026-07-08",
+    "summary": "Article URL: https://github.com/animesh-94/Onboard-CLI Comments URL: https://news.ycombinator.com/item?id=48836813 Points: 11 # Comments: 2",
+    "category": "models",
+    "image": "https://opengraph.githubassets.com/226472aaee500405ae06d63ca356a63eb6e2e7be357d2288861665c8cfe4c300/animesh-94/Onboard-CLI",
+    "id": 41
+  },
+  {
+    "title": "Dibi8 – Open-source AI tools directory, 4 languages",
+    "url": "https://dibi8.com",
+    "source": "Hacker News",
+    "date": "2026-07-08",
+    "summary": "Article URL: https://dibi8.com Comments URL: https://news.ycombinator.com/item?id=48836687 Points: 2 # Comments: 0",
+    "category": "tools",
+    "image": "https://dibi8.com/images/articles/3ab00a72-dibi-source-code-hub.png",
+    "id": 42
+  },
+  {
+    "title": "Startup Spotlight: Sourcerer wants to turn AI procurement into a supplier",
+    "url": "https://runtimewire.com/article/startup-spotlight-sourcerer-wants-to-turn-ai-procurement-into-a-supplier-not-saa",
+    "source": "Hacker News",
+    "date": "2026-07-08",
+    "summary": "Article URL: https://runtimewire.com/article/startup-spotlight-sourcerer-wants-to-turn-ai-procurement-into-a-supplier-not-saa Comments URL: https://news.ycombinator.com/item?id=48836477 Points: 3 # Co...",
+    "category": "industry",
+    "image": "https://runtimewire.com/og/startup-spotlight-sourcerer-wants-to-turn-ai-procurement-into-a-supplier-not-saa.jpg",
+    "id": 43
+  },
+  {
+    "title": "AI is starting to replace humans in operations, analyst jobs",
+    "url": "https://www.americanbanker.com/news/ai-is-starting-to-replace-humans-in-operations-analyst-jobs",
+    "source": "Hacker News",
+    "date": "2026-07-08",
+    "summary": "Article URL: https://www.americanbanker.com/news/ai-is-starting-to-replace-humans-in-operations-analyst-jobs Comments URL: https://news.ycombinator.com/item?id=48836460 Points: 2 # Comments: 0",
+    "category": "industry",
+    "image": "https://arizent.brightspotcdn.com/dims4/default/132b5c5/2147483647/strip/true/crop/8000x4200+0+567/resize/1200x630!/quality/90/?url=https%3A%2F%2Fsource-media-brightspot.s3.us-east-1.amazonaws.com%2F5d%2F39%2Ffc16fdf34ad88f65aeacc1a40f48%2Fadobestock-2018326793.jpeg",
+    "id": 44
+  },
+  {
+    "title": "Preventing LLM unit test spam",
+    "url": "https://blog.larah.me/test-slop/",
+    "source": "Hacker News",
+    "date": "2026-07-08",
+    "summary": "Article URL: https://blog.larah.me/test-slop/ Comments URL: https://news.ycombinator.com/item?id=48836454 Points: 2 # Comments: 0",
+    "category": "models",
+    "image": "https://blog.larah.me/_astro/default-share-card.BLry4v82.png",
+    "id": 45
+  },
+  {
+    "title": "The Winning Essays for the Big Questions About AI",
+    "url": "https://www.dwarkesh.com/p/blog-prize-winners",
+    "source": "Hacker News",
+    "date": "2026-07-08",
+    "summary": "Article URL: https://www.dwarkesh.com/p/blog-prize-winners Comments URL: https://news.ycombinator.com/item?id=48836384 Points: 2 # Comments: 0",
+    "category": "industry",
+    "image": "https://substackcdn.com/image/fetch/$s_!m6JB!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F38961b9e-fc04-435d-a44b-7e72b0819d86_554x554.jpeg",
+    "id": 46
   },
   {
     "title": "TaxCalcBench: An open source eval for testing if AI can file taxes",
     "url": "https://github.com/column-tax/tax-calc-bench",
     "source": "Hacker News",
     "date": "2026-07-08",
-    "summary": "Article URL: https://github.com/column-tax/tax-calc-bench Comments URL: https://news.ycombinator.com/item?id=48836352 Points: 1 # Comments: 0",
+    "summary": "Article URL: https://github.com/column-tax/tax-calc-bench Comments URL: https://news.ycombinator.com/item?id=48836352 Points: 2 # Comments: 0",
     "category": "tools",
-    "image": "https://opengraph.githubassets.com/70158b3e2ffd5d649a843ecb343b0df976281d47706c1369e239e92b4028aded/column-tax/tax-calc-bench",
-    "id": 27
+    "image": "https://opengraph.githubassets.com/76ca50344f72d0f7125d9c8e575f3410af26a63e2f883cd7127f343ec84c4da9/column-tax/tax-calc-bench",
+    "id": 47
   },
   {
     "title": "Ask HN: How you manage local long lived research projects and LLM's?",
@@ -275,151 +468,7 @@
     "date": "2026-07-08",
     "summary": "TLDR: Do you have a pattern or structure for doing long-lived research or non-coding projects using LLMs? I was kind of inspired by this hacker news article where someone collected data to solve their...",
     "category": "models",
-    "id": 28
-  },
-  {
-    "title": "Pro Max Ultra Fable Sol: AI Model Names Have Escaped Containment",
-    "url": "https://techstackups.com/articles/ai-model-naming-is-a-mess/",
-    "source": "Hacker News",
-    "date": "2026-07-08",
-    "summary": "Article URL: https://techstackups.com/articles/ai-model-naming-is-a-mess/ Comments URL: https://news.ycombinator.com/item?id=48836200 Points: 1 # Comments: 0",
-    "category": "industry",
-    "image": "https://techstackups.com/img/articles/ai-model-naming-is-a-mess/cover.jpg",
-    "id": 29
-  },
-  {
-    "title": "Show HN: Nino – a dedicated CFP/CPA team and AI to manage your financial life",
-    "url": "https://www.usenino.com/",
-    "source": "Hacker News",
-    "date": "2026-07-08",
-    "summary": "Nino is a dedicated CFP and CPA team, backed by an AI platform that connects your taxes, equity, investments, cash, and real estate into one always-current plan. In 2014, I pitched YC partners on an i...",
-    "category": "tools",
-    "image": "https://www.usenino.com/images/og-default.jpg",
-    "id": 30
-  },
-  {
-    "title": "Claude Fable 5: Why Anthropic's Most Powerful AI Was Suspended?",
-    "url": "https://news.ycombinator.com/item?id=48836009",
-    "source": "Hacker News",
-    "date": "2026-07-08",
-    "summary": "Why it was suspended? can Claude Mythos and Fable 5 create what we have in imagination? I believe Security, Firewall is the issues. Because it can breach these two things, then i can guess that anyone...",
-    "category": "models",
-    "id": 31
-  },
-  {
-    "title": "Open Source AI Gap Map",
-    "url": "https://map.currentai.org/",
-    "source": "Hacker News",
-    "date": "2026-07-08",
-    "summary": "Article URL: https://map.currentai.org/ Comments URL: https://news.ycombinator.com/item?id=48835998 Points: 1 # Comments: 0",
-    "category": "tools",
-    "image": "https://map.currentai.org/current-ai-og.png",
-    "id": 32
-  },
-  {
-    "title": "Show HN: Genbuzz – An agent-driven news aggregator for AI filmmaking",
-    "url": "https://genbuzz.news",
-    "source": "Hacker News",
-    "date": "2026-07-08",
-    "summary": "This is a site for anyone interested in keeping track of what's happening in AI Filmmaking and other forms of generative production. You can sign up for the weekly newsletter if you like or just visit...",
-    "category": "hardware",
-    "image": "https://genbuzz.news/android-chrome-512x512.png",
-    "id": 33
-  },
-  {
-    "title": "AI Slop as a Social Immune Response",
-    "url": "https://thepatrickglenn.substack.com/p/on-ai-slop",
-    "source": "Hacker News",
-    "date": "2026-07-08",
-    "summary": "Article URL: https://thepatrickglenn.substack.com/p/on-ai-slop Comments URL: https://news.ycombinator.com/item?id=48835831 Points: 3 # Comments: 0",
-    "category": "industry",
-    "id": 34
-  },
-  {
-    "title": "What is wrong with AI services businesses",
-    "url": "https://news.ycombinator.com/item?id=48835673",
-    "source": "Hacker News",
-    "date": "2026-07-08",
-    "summary": "AI services businesses do not feel durable, what are they doing wrong? Comments URL: https://news.ycombinator.com/item?id=48835673 Points: 1 # Comments: 0",
-    "category": "industry",
-    "id": 35
-  },
-  {
-    "title": "Miles: A PyTorch-Native Stack for Large-Scale LLM RL Post-Training",
-    "url": "https://pytorch.org/blog/miles-a-pytorch-native-stack-for-large-scale-llm-rl-post-training/",
-    "source": "Hacker News",
-    "date": "2026-07-08",
-    "summary": "Article URL: https://pytorch.org/blog/miles-a-pytorch-native-stack-for-large-scale-llm-rl-post-training/ Comments URL: https://news.ycombinator.com/item?id=48835609 Points: 1 # Comments: 0",
-    "category": "models",
-    "id": 36
-  },
-  {
-    "title": "Meta tests 'super sensing' AI glasses that can capture every moment",
-    "url": "https://www.ft.com/content/ac282450-91a8-4597-8f60-9e6ef416865a",
-    "source": "Hacker News",
-    "date": "2026-07-08",
-    "summary": "Article URL: https://www.ft.com/content/ac282450-91a8-4597-8f60-9e6ef416865a Comments URL: https://news.ycombinator.com/item?id=48835525 Points: 1 # Comments: 0",
-    "category": "industry",
-    "id": 37
-  },
-  {
-    "title": "AI-Enhanced Writing",
-    "url": "https://enocc.com/blog/2026-04-09-on-ai-enhanced-writing.html",
-    "source": "Hacker News",
-    "date": "2026-07-08",
-    "summary": "Article URL: https://enocc.com/blog/2026-04-09-on-ai-enhanced-writing.html Comments URL: https://news.ycombinator.com/item?id=48835482 Points: 1 # Comments: 0",
-    "category": "industry",
-    "id": 38
-  },
-  {
-    "title": "Cursorbench: Grok 4.5 better than GPT-5.5, at ~half the cost",
-    "url": "https://cursor.com/cursorbench",
-    "source": "Hacker News",
-    "date": "2026-07-08",
-    "summary": "Article URL: https://cursor.com/cursorbench Comments URL: https://news.ycombinator.com/item?id=48835476 Points: 1 # Comments: 0",
-    "category": "models",
-    "image": "https://ptht05hbb1ssoooe.public.blob.vercel-storage.com/assets/blog/og/cb-07-08.png",
-    "id": 39
-  },
-  {
-    "title": "Show HN: Makoto – blocks AI agent claims that contradict its logged actions",
-    "url": "https://github.com/Clear-Sights/Makoto",
-    "source": "Hacker News",
-    "date": "2026-07-08",
-    "summary": "Article URL: https://github.com/Clear-Sights/Makoto Comments URL: https://news.ycombinator.com/item?id=48835278 Points: 1 # Comments: 0",
-    "category": "industry",
-    "image": "https://opengraph.githubassets.com/3efbce43ffd6802ea288a378d78352de1d53794e5886a8ad4e4005566e1e885c/Clear-Sights/Makoto",
-    "id": 40
-  },
-  {
-    "title": "IBM and Red Hat launch Lightwell to defend open-source code from AI attacks",
-    "url": "https://www.zdnet.com/article/ibm-and-red-hat-have-moved-project-lightwell-from-vision-to-product/",
-    "source": "Hacker News",
-    "date": "2026-07-08",
-    "summary": "Article URL: https://www.zdnet.com/article/ibm-and-red-hat-have-moved-project-lightwell-from-vision-to-product/ Comments URL: https://news.ycombinator.com/item?id=48835195 Points: 4 # Comments: 0",
-    "category": "industry",
-    "image": "https://www.zdnet.com/a/img/resize/3856ab06c48ad0a9924575db3cdfba436b509e18/2026/07/08/7ab078c3-d78e-4111-a95c-ab99319833bc/ibm-and-red-hat-have-moved-project-lightwell-from-vision-to-product.jpg?auto=webp&fit=crop&height=675&width=1200",
-    "id": 41
-  },
-  {
-    "title": "Show HN: Foreman, a self-hosted LLM gateway for cost aware model routing",
-    "url": "https://github.com/Northwood-Systems/foreman",
-    "source": "Hacker News",
-    "date": "2026-07-08",
-    "summary": "Article URL: https://github.com/Northwood-Systems/foreman Comments URL: https://news.ycombinator.com/item?id=48835063 Points: 2 # Comments: 0",
-    "category": "models",
-    "image": "https://opengraph.githubassets.com/a914717a872aae4fd175c41e1b186744b3c78a03c1b245b5574721cdab2444b8/Northwood-Systems/foreman",
-    "id": 42
-  },
-  {
-    "title": "Show HN: Monogram, AI app with on the fly generation",
-    "url": "https://www.monogram.ai/",
-    "source": "Hacker News",
-    "date": "2026-07-08",
-    "summary": "Article URL: https://www.monogram.ai/ Comments URL: https://news.ycombinator.com/item?id=48835018 Points: 8 # Comments: 3",
-    "category": "tools",
-    "image": "https://monogram.ai/opengraph-image.png?opengraph-image.04n~eoog5bz8_.png",
-    "id": 43
+    "id": 48
   },
   {
     "title": "EmTech AI 2026: The Rise of the AI Platform",
@@ -428,62 +477,16 @@
     "date": "2026-07-08",
     "summary": "",
     "category": "tools",
-    "id": 44
-  },
-  {
-    "title": "Pickup Artist Mystery Has an AI Girlfriend",
-    "url": "https://www.wired.com/story/pickup-artist-mystery-has-an-ai-girlfriend/",
-    "source": "Wired",
-    "date": "2026-07-08",
-    "summary": "A new book claims that Mystery, who teaches awkward men how to hit on women, had sex and smoked weed with an AI chatbot named Miss Shira Always.",
-    "category": "industry",
-    "image": "https://media.wired.com/photos/6a4d726369eabca8afcd5361/191:100/w_1280,c_limit/Original-Pickup-Artist-AI-Girlfriend-Culture-76938494.jpg",
-    "id": 45
-  },
-  {
-    "title": "This Former DeepMind Exec Thinks the AI Arms Race Could End in Disaster",
-    "url": "https://www.wired.com/story/verity-harding-ai-arms-race-dangers-anthology/",
-    "source": "Wired",
-    "date": "2026-07-08",
-    "summary": "Verity Harding tells WIRED that the US government’s nationalistic attitude toward AI is evidence that a worst-case scenario is taking shape.",
-    "category": "industry",
-    "image": "https://media.wired.com/photos/6a4be55744dc79c43267387c/191:100/w_1280,c_limit/DeepMind-Alum-QandA-Verity-Harding-Business.jpg",
-    "id": 46
-  },
-  {
-    "title": "Prompt-to-Paper: Agentic AI System for Bioinformatics",
-    "url": "https://arxiv.org/abs/2607.05456",
-    "source": "arXiv cs.AI",
-    "date": "2026-07-08",
-    "summary": "While recent advances in large language models have enabled end-to-end automated manuscript generation, existing systems suffer from three critical deficiencies: (i) generated claims are not determini...",
-    "category": "research",
-    "id": 47
-  },
-  {
-    "title": "From Graphs to Gradients: Physics-Inspired Structural Attribution for Cyber-Physical IoT Systems and Beyond",
-    "url": "https://arxiv.org/abs/2607.05563",
-    "source": "arXiv cs.AI",
-    "date": "2026-07-08",
-    "summary": "Interpretable explanation methods in Artificial Intelligence aim to uncover the underlying causes and their effects, enabling a deeper understanding of why a system behaves in a certain way under diff...",
-    "category": "research",
-    "id": 48
-  },
-  {
-    "title": "CSTutorBench: Benchmarking Small Language Models as Tutors for Block-Based Programming",
-    "url": "https://arxiv.org/abs/2607.05571",
-    "source": "arXiv cs.AI",
-    "date": "2026-07-08",
-    "summary": "Large language models are increasingly explored as AI tutors, yet deploying them in K-12 settings raises concerns around privacy, cost, and reliance on proprietary models. Small language models (SLMs)...",
-    "category": "models",
     "id": 49
   },
   {
-    "title": "Foundation Models for Automatic CAD Generation",
-    "url": "https://arxiv.org/abs/2607.05573",
-    "source": "arXiv cs.AI",
+    "title": "Messi and Ronaldo Are Building Tech Portfolios. Mo Salah Is Playing a Different Game",
+    "url": "https://www.wired.com/story/messi-ronaldo-tech-portfolios-salah-playing-a-different-game/",
+    "source": "Wired",
     "date": "2026-07-08",
-    "summary": "Recent advances in Large Language Models (LLMs) and Vision-Language Models (VLMs) enable the automatic generation of parametric 3D designs from natural-language specifications. This chapter presents a...",
-    "category": "models",
+    "summary": "Lionel Messi and Cristiano Ronaldo are betting on AI, health tech, and startups. Mohamed Salah is taking a more traditional route beyond football.",
+    "category": "industry",
+    "image": "https://media.wired.com/photos/6a4d0ba71ec7b7e789dcf997/191:100/w_1280,c_limit/InvestmentFoot_Lead.jpg",
     "id": 50
   }
 ]
