@@ -129,7 +129,7 @@
     "id": 13
   },
   {
-    "title": "Roblox launches an AI-powered game creation feature in its mobile app",
+    "title": "Roblox launches an AI-powered game-creation feature in its mobile app",
     "url": "https://techcrunch.com/2026/07/16/roblox-launches-an-ai-powered-game-creation-feature-in-its-mobile-app/",
     "source": "TechCrunch",
     "date": "2026-07-16",
@@ -219,6 +219,16 @@
     "id": 22
   },
   {
+    "title": "The AI compute gap: Enterprises are buying infrastructure faster than they can measure what it costs",
+    "url": "https://venturebeat.com/ai/the-ai-compute-gap-enterprises-are-buying-infrastructure-faster-than-they-can-measure-what-it-costs",
+    "source": "VentureBeat",
+    "date": "2026-07-16",
+    "summary": "Across 107 enterprises, AI infrastructure spending is accelerating well ahead of the ability to see or steer its economics. Most organizations run their AI on a familiar base of hyperscalers and model...",
+    "category": "hardware",
+    "image": "https://images.ctfassets.net/jdtwqhzvc2n1/65A33lcUi9p0nBSloUI1Wo/5e5d26295bc879f0ea8845cecac65504/VentureBeat-Research.png?w=300&q=30",
+    "id": 23
+  },
+  {
     "title": "The agent security gap: 54% of enterprises have already had an AI agent incident, and most still let agents share credentials",
     "url": "https://venturebeat.com/ai/the-agent-security-gap-54-of-enterprises-have-already-had-an-ai-agent-incident-and-most-still-let-agents-share-credentials",
     "source": "VentureBeat",
@@ -226,7 +236,7 @@
     "summary": "Across 107 enterprises, AI agents are being given real access to systems and data while the controls meant to contain them lag behind. More than half have already had a confirmed agent security incide...",
     "category": "industry",
     "image": "https://images.ctfassets.net/jdtwqhzvc2n1/3YcL8Sbx04RQsgnRvbYfs5/0567154029abc3d37ccfad9b6cc5f370/VentureBeat-Research-1.png?w=300&q=30",
-    "id": 23
+    "id": 24
   },
   {
     "title": "The AI context gap: Enterprise AI organizations have a trust problem, not a retrieval problem — and most are still building the fix",
@@ -236,7 +246,7 @@
     "summary": "Across 101 enterprises, the infrastructure that feeds AI agents their business context is being built faster than it can be trusted. Retrieval-augmented generation is already the default context sourc...",
     "category": "research",
     "image": "https://images.ctfassets.net/jdtwqhzvc2n1/65A33lcUi9p0nBSloUI1Wo/5e5d26295bc879f0ea8845cecac65504/VentureBeat-Research.png?w=300&q=30",
-    "id": 24
+    "id": 25
   },
   {
     "title": "The agent evaluation gap: Enterprise AI organizations have a reality-alignment problem, not a coverage problem — and most are shipping to production anyway",
@@ -246,180 +256,197 @@
     "summary": "Across 157 enterprises, organizations are granting AI agents more autonomy while trusting the evaluations meant to gate that autonomy less. Half have already shipped an agent that passed their interna...",
     "category": "industry",
     "image": "https://images.ctfassets.net/jdtwqhzvc2n1/3YcL8Sbx04RQsgnRvbYfs5/0567154029abc3d37ccfad9b6cc5f370/VentureBeat-Research-1.png?w=300&q=30",
-    "id": 25
-  },
-  {
-    "title": "Older adults know AI is slop. They just like it",
-    "url": "https://restofworld.org/2026/china-seniors-ai-slop/",
-    "source": "Hacker News",
-    "date": "2026-07-16",
-    "summary": "Article URL: https://restofworld.org/2026/china-seniors-ai-slop/ Comments URL: https://news.ycombinator.com/item?id=48938803 Points: 1 # Comments: 0",
-    "category": "industry",
-    "image": "https://restofworld.org/wp-content/uploads/2026/07/illo_dispatch_july10_sketch_v3-1600x900.jpg",
     "id": 26
   },
   {
-    "title": "How do you stay familiar with the code when it's written by an LLM?",
-    "url": "https://www.aha.io/engineering/articles/staying-familiar-with-the-code-when-its-written-by-an-llm",
+    "title": "Show HN: Vektorgeist- A platform for AI operators and their agent's",
+    "url": "https://vektorgeist.com/",
     "source": "Hacker News",
     "date": "2026-07-16",
-    "summary": "Article URL: https://www.aha.io/engineering/articles/staying-familiar-with-the-code-when-its-written-by-an-llm Comments URL: https://news.ycombinator.com/item?id=48938749 Points: 2 # Comments: 0",
-    "category": "models",
-    "image": "https://www.aha.io/aha-logo-2x.png",
+    "summary": "VektorGeist is a platform designed for AI operators to discover, share, and distribute AI resources in one place. The platform brings together: AI tools MCP servers Prompts Workflows Templates Agents ...",
+    "category": "tools",
+    "image": "https://vektorgeist.com/vg-logo.png",
     "id": 27
   },
   {
-    "title": "AI enthusiasts are in race against time, AI skeptics are in race against entropy",
-    "url": "https://charity.wtf/p/ai-enthusiasts-are-in-a-race-against",
+    "title": "What Doom taught us about AI-assisted incident response",
+    "url": "https://rootly.com/blog/what-doom-taught-us-about-ai-assisted-incident-response",
     "source": "Hacker News",
     "date": "2026-07-16",
-    "summary": "Article URL: https://charity.wtf/p/ai-enthusiasts-are-in-a-race-against Comments URL: https://news.ycombinator.com/item?id=48938701 Points: 1 # Comments: 0",
+    "summary": "Article URL: https://rootly.com/blog/what-doom-taught-us-about-ai-assisted-incident-response Comments URL: https://news.ycombinator.com/item?id=48940764 Points: 1 # Comments: 0",
     "category": "industry",
-    "image": "https://substackcdn.com/image/fetch/$s_!2AXu!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F591006fc-dcda-4be5-982e-312139d562e9_1425x507.png",
+    "image": "https://cdn.prod.website-files.com/65eead4fb17e4a53aebb2a91/6a57b53f9608080a86f7cd2e_the-role-of-sres-in-observability.webp",
     "id": 28
   },
   {
-    "title": "Hiring - Software Engineer (AI-Native WMS) Bilingual (ENG.KOR) Carson, CA",
-    "url": "https://app.notion.com/p/wooltari/Software-Engineer-AI-native-WMS-372c2cf4d496805b8080c067d6161834?source=copy_link",
+    "title": "Show HN: HW/SW co-design blueprint for fault recovery in LLM training",
+    "url": "https://github.com/PJHkorea/pim-hbm-bypass",
     "source": "Hacker News",
     "date": "2026-07-16",
-    "summary": "Article URL: https://app.notion.com/p/wooltari/Software-Engineer-AI-native-WMS-372c2cf4d496805b8080c067d6161834?source=copy_link Comments URL: https://news.ycombinator.com/item?id=48938231 Points: 1 #...",
-    "category": "industry",
-    "image": "https://app.notion.com/images/meta/default.png",
+    "summary": "Article URL: https://github.com/PJHkorea/pim-hbm-bypass Comments URL: https://news.ycombinator.com/item?id=48940625 Points: 2 # Comments: 1",
+    "category": "models",
+    "image": "https://opengraph.githubassets.com/065f86d00ed7062ac4e78c425343f67225a461e18e7dd74aa331932374ab0756/PJHkorea/pim-hbm-bypass",
     "id": 29
   },
   {
-    "title": "AI disruption in private credit: exposure to software firms in BDCs (BIS)",
-    "url": "https://www.bis.org/publ/bisbull128.htm",
+    "title": "Your AI agent doesn't know when its memory is gone",
+    "url": "https://arxiv.org/abs/2607.10582",
     "source": "Hacker News",
     "date": "2026-07-16",
-    "summary": "Article URL: https://www.bis.org/publ/bisbull128.htm Comments URL: https://news.ycombinator.com/item?id=48938068 Points: 1 # Comments: 1",
-    "category": "industry",
-    "image": "https://www.bis.org/img/bislogo_og.jpg",
+    "summary": "Article URL: https://arxiv.org/abs/2607.10582 Comments URL: https://news.ycombinator.com/item?id=48940594 Points: 1 # Comments: 0",
+    "category": "hardware",
     "id": 30
   },
   {
-    "title": "Please Stop Making Me Opt Out of AI",
-    "url": "https://www.wired.com/story/please-stop-making-me-opt-out-of-ai/",
+    "title": "GPT 5.6 solved all 6 problems from IMO 2026",
+    "url": "https://old.reddit.com/r/ChatGPT/comments/1uyerah/gpt_56_solved_all_6_problems_from_imo_2026/",
     "source": "Hacker News",
     "date": "2026-07-16",
-    "summary": "Article URL: https://www.wired.com/story/please-stop-making-me-opt-out-of-ai/ Comments URL: https://news.ycombinator.com/item?id=48938026 Points: 3 # Comments: 0",
-    "category": "industry",
-    "image": "https://media.wired.com/photos/6a581a134de2a00b6b98c804/191:100/w_1280,c_limit/Stop-Making-Me-Opt-Out-Gear.jpg",
+    "summary": "Article URL: https://old.reddit.com/r/ChatGPT/comments/1uyerah/gpt_56_solved_all_6_problems_from_imo_2026/ Comments URL: https://news.ycombinator.com/item?id=48940524 Points: 2 # Comments: 0",
+    "category": "models",
     "id": 31
   },
   {
-    "title": "Can AI reliably generate dashboards from Excel or CSV files?",
-    "url": "https://dashboardbuilder.net/ai-generated-dashboard",
+    "title": "Show HN: Darby, a Hugo docs theme with in-browser AI Q&A (no back end, no keys)",
+    "url": "https://iamit.in/darby/",
     "source": "Hacker News",
     "date": "2026-07-16",
-    "summary": "Article URL: https://dashboardbuilder.net/ai-generated-dashboard Comments URL: https://news.ycombinator.com/item?id=48937848 Points: 1 # Comments: 0",
-    "category": "industry",
+    "summary": "Darby is an open source Hugo docs theme with the polish of the paid docs platforms: clean typography, dark mode, full-text search, code blocks with copy and filename tabs, callouts, tabs, beautifully ...",
+    "category": "tools",
+    "image": "http://iamit.in/sample-image.png",
     "id": 32
   },
   {
-    "title": "Choosing GPT-5.6 Sol, Terra, or Luna in Codex",
-    "url": "https://twitter.com/pvncher/status/2077708372363624894",
+    "title": "Ask HN: Has anyone built \"HN front page, with all AI stories filtrered out\"?",
+    "url": "https://news.ycombinator.com/item?id=48940479",
     "source": "Hacker News",
     "date": "2026-07-16",
-    "summary": "Article URL: https://twitter.com/pvncher/status/2077708372363624894 Comments URL: https://news.ycombinator.com/item?id=48937846 Points: 1 # Comments: 0",
-    "category": "models",
-    "image": "https://pbs.twimg.com/profile_images/1904963988590411776/khTUwno4_200x200.jpg",
+    "summary": "They just annoy me and provide very little value. The non-AI gems in between however are very much still worth reading. Has anybody built that already? Comments URL: https://news.ycombinator.com/item?...",
+    "category": "industry",
     "id": 33
   },
   {
-    "title": "Show HN: Pagora AI, WordPress AI page builder that outputs plain HTML/CSS/JS",
-    "url": "https://wordpress.org/plugins/pagora-ai/",
+    "title": "Why AI Amplifies Wherever You Are",
+    "url": "https://khalilstemmler.com/articles/the-phases-of-craftship/the-5-phases/",
     "source": "Hacker News",
     "date": "2026-07-16",
-    "summary": "Article URL: https://wordpress.org/plugins/pagora-ai/ Comments URL: https://news.ycombinator.com/item?id=48937838 Points: 1 # Comments: 0",
-    "category": "hardware",
+    "summary": "Article URL: https://khalilstemmler.com/articles/the-phases-of-craftship/the-5-phases/ Comments URL: https://news.ycombinator.com/item?id=48940435 Points: 1 # Comments: 0",
+    "category": "industry",
     "id": 34
   },
   {
-    "title": "AI chatbots are at risk of spreading government restrictions on online speech",
-    "url": "https://www.msn.com/en-us/news/world/ai-chatbots-are-at-risk-of-spreading-government-restrictions-on-online-speech-a-new-study-says/ar-AA281O6G",
+    "title": "Skyportal SRE – an open-source AI infrastructure engineer",
+    "url": "https://github.com/SkyportalAi/skyportalai",
     "source": "Hacker News",
     "date": "2026-07-16",
-    "summary": "Article URL: https://www.msn.com/en-us/news/world/ai-chatbots-are-at-risk-of-spreading-government-restrictions-on-online-speech-a-new-study-says/ar-AA281O6G Comments URL: https://news.ycombinator.com/...",
-    "category": "research",
+    "summary": "Article URL: https://github.com/SkyportalAi/skyportalai Comments URL: https://news.ycombinator.com/item?id=48940335 Points: 3 # Comments: 1",
+    "category": "industry",
+    "image": "https://opengraph.githubassets.com/97ed27220a86c2d2c56b510d6135347d9a0578bea68e92f6a13c1049f3d0f69c/SkyportalAi/skyportalai",
     "id": 35
   },
   {
-    "title": "German AI consortium releases Soofi S, an open 30B model that tops benchmarks",
-    "url": "https://the-decoder.com/german-ai-consortium-releases-soofi-s-an-open-30b-model-that-tops-benchmarks-in-both-english-and-german/",
+    "title": "Show HN: SeekinWeb – Check if AI agents can read your website",
+    "url": "https://seekinweb.com/",
     "source": "Hacker News",
     "date": "2026-07-16",
-    "summary": "Article URL: https://the-decoder.com/german-ai-consortium-releases-soofi-s-an-open-30b-model-that-tops-benchmarks-in-both-english-and-german/ Comments URL: https://news.ycombinator.com/item?id=4893775...",
-    "category": "models",
-    "image": "https://the-decoder.com/wp-content/uploads/2026/07/soofi-s-german-llm-nano-banana-pro.jpg",
+    "summary": "Article URL: https://seekinweb.com/ Comments URL: https://news.ycombinator.com/item?id=48940331 Points: 2 # Comments: 0",
+    "category": "industry",
     "id": 36
   },
   {
-    "title": "What can we learn from Bun's rapid Rust rewrite with AI?",
-    "url": "https://newsletter.pragmaticengineer.com/p/the-pulse-what-can-we-learn-from-07f",
+    "title": "The AI Backlash Has Tech Executives Fearing for Their Lives",
+    "url": "https://www.wsj.com/us-news/the-ai-backlash-has-tech-executives-fearing-for-their-lives-30c43972",
     "source": "Hacker News",
     "date": "2026-07-16",
-    "summary": "Article URL: https://newsletter.pragmaticengineer.com/p/the-pulse-what-can-we-learn-from-07f Comments URL: https://news.ycombinator.com/item?id=48937681 Points: 5 # Comments: 0",
-    "category": "research",
-    "image": "https://substackcdn.com/image/fetch/$s_!QJQi!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fb5ab56f7-62fb-45ea-a522-4617130a3f61_2048x1379.png",
+    "summary": "Article URL: https://www.wsj.com/us-news/the-ai-backlash-has-tech-executives-fearing-for-their-lives-30c43972 Comments URL: https://news.ycombinator.com/item?id=48940303 Points: 2 # Comments: 0",
+    "category": "industry",
     "id": 37
   },
   {
-    "title": "For Software Engineers, the AI Reckoning Is Here",
-    "url": "https://www.bloomberg.com/news/features/2026-07-16/anthropic-and-openai-tools-transform-the-profession-of-coding",
+    "title": "GPT 5.6 Solves all IMO 2026 questions with no human steering [pdf]",
+    "url": "https://github.com/SignalPilot-Labs/AutoFyn/blob/production/results/imo-2026/pdfs/IMO_performance_by_GPT_5_6_sol.pdf",
     "source": "Hacker News",
     "date": "2026-07-16",
-    "summary": "Article URL: https://www.bloomberg.com/news/features/2026-07-16/anthropic-and-openai-tools-transform-the-profession-of-coding Comments URL: https://news.ycombinator.com/item?id=48937592 Points: 1 # Co...",
-    "category": "tools",
+    "summary": "Article URL: https://github.com/SignalPilot-Labs/AutoFyn/blob/production/results/imo-2026/pdfs/IMO_performance_by_GPT_5_6_sol.pdf Comments URL: https://news.ycombinator.com/item?id=48940297 Points: 2 ...",
+    "category": "models",
+    "image": "https://opengraph.githubassets.com/6e4d1f4101091c4e134604bc8f8147668f6a5ebb9f6365eb2293f2d405e010ba/SignalPilot-Labs/AutoFyn",
     "id": 38
   },
   {
-    "title": "Anthropic CEO gives $1M to super PAC amid battle of AI big-money groups",
-    "url": "https://www.politico.com/news/2026/07/16/anthropics-ceo-gives-1-million-to-super-pac-amid-feud-of-ai-big-money-groups-01000461",
+    "title": "Responding to AI Distillation Without Panic",
+    "url": "https://www.lawfaremedia.org/article/responding-to-ai-distillation-without-panic",
     "source": "Hacker News",
     "date": "2026-07-16",
-    "summary": "Article URL: https://www.politico.com/news/2026/07/16/anthropics-ceo-gives-1-million-to-super-pac-amid-feud-of-ai-big-money-groups-01000461 Comments URL: https://news.ycombinator.com/item?id=48937138 ...",
-    "category": "industry",
+    "summary": "Article URL: https://www.lawfaremedia.org/article/responding-to-ai-distillation-without-panic Comments URL: https://news.ycombinator.com/item?id=48940278 Points: 2 # Comments: 0",
+    "category": "research",
+    "image": "https://lawfare-assets-new.azureedge.net/assets/images/default-source/article-images/tech-ai-globe.png?sfvrsn=7c2eff15_5",
     "id": 39
   },
   {
-    "title": "VarAlign – catch the duplicate variables AI agents scatter across sessions",
-    "url": "https://github.com/greenyogainc/varalign",
+    "title": "Bank of AI",
+    "url": "https://docs.bankofai.io/",
     "source": "Hacker News",
     "date": "2026-07-16",
-    "summary": "Article URL: https://github.com/greenyogainc/varalign Comments URL: https://news.ycombinator.com/item?id=48937123 Points: 1 # Comments: 0",
+    "summary": "Article URL: https://docs.bankofai.io/ Comments URL: https://news.ycombinator.com/item?id=48940276 Points: 1 # Comments: 0",
     "category": "industry",
-    "image": "https://opengraph.githubassets.com/5b897a94b0254efdd0c2e8e2a7f026bacbe1579deff3775f212802b18fcf86f6/greenyogainc/varalign",
+    "image": "https://docs.bankofai.io/img/logo.png",
     "id": 40
   },
   {
-    "title": "Launch HN: Traceforce (YC S26) – Company-wide security monitoring for AI apps",
-    "url": "https://news.ycombinator.com/item?id=48937020",
+    "title": "Companies turn to Chinese AI models to cut costs",
+    "url": "https://www.ft.com/content/9c8ff45b-7c20-4c2e-93c9-c52339ffdcee",
     "source": "Hacker News",
     "date": "2026-07-16",
-    "summary": "Hey HN, we’re Xia and Varun, the founders of Traceforce ( https://www.traceforce.ai/ ). Traceforce provides visibility and control over AI apps such as ChatGPT, Claude etc directly on all devices (lap...",
-    "category": "tools",
+    "summary": "Article URL: https://www.ft.com/content/9c8ff45b-7c20-4c2e-93c9-c52339ffdcee Comments URL: https://news.ycombinator.com/item?id=48940256 Points: 2 # Comments: 1",
+    "category": "industry",
     "id": 41
   },
   {
-    "title": "Someone Used AI to Write an Unauthorized Biography of Me",
-    "url": "https://www.nytimes.com/2026/07/16/technology/ai-slop-books-biography-amazon.html",
+    "title": "Netflix says around 300 titles used generative AI",
+    "url": "https://www.theverge.com/streaming/966633/netflix-ai-titles-q2-2026-earnings",
     "source": "Hacker News",
     "date": "2026-07-16",
-    "summary": "Article URL: https://www.nytimes.com/2026/07/16/technology/ai-slop-books-biography-amazon.html Comments URL: https://news.ycombinator.com/item?id=48937007 Points: 33 # Comments: 47",
+    "summary": "Article URL: https://www.theverge.com/streaming/966633/netflix-ai-titles-q2-2026-earnings Comments URL: https://news.ycombinator.com/item?id=48940237 Points: 1 # Comments: 2",
     "category": "industry",
+    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/american-experiment.jpg?quality=90&strip=all&crop=10.208333333333,0,79.583333333333,100",
     "id": 42
   },
   {
-    "title": "1-Bit LLM in the Browser",
-    "url": "https://huggingface.co/spaces/webml-community/bonsai-webgpu",
+    "title": "EU orders Google to share search data, open Android to AI rivals competitors",
+    "url": "https://www.euronews.com/my-europe/2026/07/16/eu-orders-google-to-share-search-data-open-android-to-ai-rivals-competitors",
     "source": "Hacker News",
     "date": "2026-07-16",
-    "summary": "Article URL: https://huggingface.co/spaces/webml-community/bonsai-webgpu Comments URL: https://news.ycombinator.com/item?id=48936994 Points: 5 # Comments: 0",
-    "category": "models",
-    "image": "https://cdn-uploads.huggingface.co/production/uploads/61b253b7ac5ecaae3d1efe0c/L3a8EbjXSSJX_cJvRl6S3.png",
+    "summary": "Article URL: https://www.euronews.com/my-europe/2026/07/16/eu-orders-google-to-share-search-data-open-android-to-ai-rivals-competitors Comments URL: https://news.ycombinator.com/item?id=48940164 Point...",
+    "category": "industry",
     "id": 43
+  },
+  {
+    "title": "Evolving Windows vulnerability management to meet speed of AI-powered discovery",
+    "url": "https://blogs.windows.com/windowsexperience/2026/07/09/evolving-windows-vulnerability-management-to-meet-the-speed-of-ai-powered-discovery/",
+    "source": "Hacker News",
+    "date": "2026-07-16",
+    "summary": "Article URL: https://blogs.windows.com/windowsexperience/2026/07/09/evolving-windows-vulnerability-management-to-meet-the-speed-of-ai-powered-discovery/ Comments URL: https://news.ycombinator.com/item...",
+    "category": "industry",
+    "id": 44
+  },
+  {
+    "title": "GPT-5.6 Sol Pro solves open problem in convex optimization",
+    "url": "https://medium.com/@kerger.p/an-ai-assisted-breakthrough-in-convex-optimization-an-optimization-problem-dating-back-30-years-a-db5c631119de",
+    "source": "Hacker News",
+    "date": "2026-07-16",
+    "summary": "Article URL: https://medium.com/@kerger.p/an-ai-assisted-breakthrough-in-convex-optimization-an-optimization-problem-dating-back-30-years-a-db5c631119de Comments URL: https://news.ycombinator.com/item...",
+    "category": "models",
+    "id": 45
+  },
+  {
+    "title": "Timeline Scan – AI fixes the dates on your scanned photos",
+    "url": "https://timelinescan.com/",
+    "source": "Hacker News",
+    "date": "2026-07-16",
+    "summary": "Article URL: https://timelinescan.com/ Comments URL: https://news.ycombinator.com/item?id=48939764 Points: 8 # Comments: 15",
+    "category": "industry",
+    "image": "https://timelinescan.com/images/logo/light_1200x630.png",
+    "id": 46
   },
   {
     "title": "The Download: OpenAI unveils GPT-Red and heat pumps rise in the US",
@@ -429,7 +456,7 @@
     "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. Meet GPT-Red: an LLM super-hacker OpenAI built to make its mod...",
     "category": "models",
     "image": "https://wp.technologyreview.com/wp-content/uploads/2026/07/spar-red.jpg?resize=1200,600",
-    "id": 44
+    "id": 47
   },
   {
     "title": "Here’s Why Anthropic Is Pushing States to Regulate AI Faster",
@@ -439,7 +466,17 @@
     "summary": "The company endorsed landmark AI transparency laws in California and New York last year, but its head of US state and local policy says they may already be outdated.",
     "category": "industry",
     "image": "https://media.wired.com/photos/6a591d287083bdea755df740/191:100/w_1280,c_limit/Model-Behavior-Cesar-Anthropic-Business.jpg",
-    "id": 45
+    "id": 48
+  },
+  {
+    "title": "Please Stop Making Me Opt Out of AI",
+    "url": "https://www.wired.com/story/please-stop-making-me-opt-out-of-ai/",
+    "source": "Wired",
+    "date": "2026-07-16",
+    "summary": "I’m sick of “opt-out” toggles for automatically enabled generative AI features. It’s past time to make “opt in” the default setting for sensitive features.",
+    "category": "tools",
+    "image": "https://media.wired.com/photos/6a581a134de2a00b6b98c804/191:100/w_1280,c_limit/Stop-Making-Me-Opt-Out-Gear.jpg",
+    "id": 49
   },
   {
     "title": "OriginBlame: Record- and Token-Level Data Provenance for AI Training Datasets",
@@ -448,42 +485,6 @@
     "date": "2026-07-16",
     "summary": "When a data contributor requests removal, model trainers face a practical gap: unlearning algorithms require a forget set, yet no tool can locate which training records belong to a given author. Exist...",
     "category": "research",
-    "id": 46
-  },
-  {
-    "title": "SPINE: Bridging the Cyber-Physical Gap with Agentic AI",
-    "url": "https://arxiv.org/abs/2607.13049",
-    "source": "arXiv cs.AI",
-    "date": "2026-07-16",
-    "summary": "Foundation models have given robots a sophisticated brain for complex decision-making, yet deploying that intelligence into a physical platform still demands tedious, expert-driven calibration. This d...",
-    "category": "tools",
-    "id": 47
-  },
-  {
-    "title": "Interventional Grounding Audits: Black-Box Premise-Dependency Tests for LLM Chain-of-Thought via Predicate Substitution",
-    "url": "https://arxiv.org/abs/2607.13069",
-    "source": "arXiv cs.AI",
-    "date": "2026-07-16",
-    "summary": "Large language models produce chain-of-thought (CoT) reasoning that appears logically sound yet may not genuinely depend on its stated premises. We introduce interventional grounding audits, a black-b...",
-    "category": "models",
-    "id": 48
-  },
-  {
-    "title": "Probabilistic Extension of Neuro-Symbolic AGI Robots based on Belnap's Typed Intensional FOL",
-    "url": "https://arxiv.org/abs/2607.13073",
-    "source": "arXiv cs.AI",
-    "date": "2026-07-16",
-    "summary": "Neuro-symbolic AI based on $IFOL_B$ is a way to combine neural learning and symbolic reasoning to overcome limitations of purely neural systems (like lack of interpretability and logical structure) wi...",
-    "category": "research",
-    "id": 49
-  },
-  {
-    "title": "Self-Improvements in Modern Agentic Systems: A Survey",
-    "url": "https://arxiv.org/abs/2607.13104",
-    "source": "arXiv cs.AI",
-    "date": "2026-07-16",
-    "summary": "Self-improving autonomous agents are moving from research prototypes to deployed systems. The primary goal is controllable evolution, or adaptation, from experience with minimal or even no human input...",
-    "category": "models",
     "id": 50
   }
 ]
