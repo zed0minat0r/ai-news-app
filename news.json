@@ -160,24 +160,34 @@
     "id": 16
   },
   {
+    "title": "AMD takes on Nvidia with its Helios AI rack-scale system",
+    "url": "https://techcrunch.com/2026/07/23/amd-takes-on-nvidia-with-its-helios-ai-rack-scale-system/",
+    "source": "TechCrunch",
+    "date": "2026-07-23",
+    "summary": "AMD is challenging its chipmaker rival with a new rack-scale system that will start shipping to customers later this year.",
+    "category": "hardware",
+    "image": "https://techcrunch.com/wp-content/uploads/2026/07/GettyImages-2254260600.jpg?resize=1200,800",
+    "id": 17
+  },
+  {
     "title": "Anthropic updates Claude voice mode with more capable models",
     "url": "https://techcrunch.com/2026/07/23/anthropic-updates-claude-voice-mode-with-more-capable-models/",
     "source": "TechCrunch",
     "date": "2026-07-23",
-    "summary": "Claude's new voice model will let you reschedule your meeting or draft an email",
+    "summary": "Claude's new voice model will let you reschedule your meeting or draft an email.",
     "category": "models",
     "image": "https://techcrunch.com/wp-content/uploads/2026/07/Claude-Voice-2-3-up.jpeg?resize=1200,675",
-    "id": 17
+    "id": 18
   },
   {
     "title": "AegisAI, founded by former Google security execs, lands $36M to stop AI-driven spear phishing",
     "url": "https://techcrunch.com/2026/07/23/aegisai-founded-by-former-google-security-execs-lands-36m-to-stop-ai-driven-spear-phishing/",
     "source": "TechCrunch",
     "date": "2026-07-23",
-    "summary": "The Series A was led by Battery Ventures, bringing AegisAI total funding to $49 million.",
+    "summary": "AegisAI co-founders developed AI agents that quickly analyze each message as a human would, paying attention to small anomalies that even the most elaborate checklist wouldn’t catch.",
     "category": "industry",
     "image": "https://techcrunch.com/wp-content/uploads/2025/09/aegisai-co-founders.jpg?resize=1200,800",
-    "id": 18
+    "id": 19
   },
   {
     "title": "Runway launches AI model router as generative media gets crowded",
@@ -187,7 +197,7 @@
     "summary": "The Media Router is a tool that automatically selects the best image, video, or audio generation model for a request based on whether a developer prioritizes quality, speed or cost.",
     "category": "tools",
     "image": "https://techcrunch.com/wp-content/uploads/2026/07/Runway-Media-Router.png?resize=1200,793",
-    "id": 19
+    "id": 20
   },
   {
     "title": "OpenAI makes ChatGPT Health available to all US users",
@@ -197,7 +207,7 @@
     "summary": "Users can also integrate their personal data from services like Apple Health, Function, and MyFitnessPal.",
     "category": "models",
     "image": "https://techcrunch.com/wp-content/uploads/2025/04/GettyImages-2205105208.jpg?resize=1200,800",
-    "id": 20
+    "id": 21
   },
   {
     "title": "Meta launched a new AI optimism ad set to a song about human extinction",
@@ -207,7 +217,7 @@
     "summary": "David Bowie's song \"Five Years,\" which Meta used in a supposedly inspiring advertisement, is about humans learning that they have five years left to live before the apocalypse.",
     "category": "industry",
     "image": "https://techcrunch.com/wp-content/uploads/2026/07/GettyImages-1353760073.jpg?resize=1200,800",
-    "id": 21
+    "id": 22
   },
   {
     "title": "Nvidia is sending GPUs to the moon",
@@ -217,7 +227,7 @@
     "summary": "If there's a place in the universe without GPUs, Nvidia is sending them there.",
     "category": "hardware",
     "image": "https://techcrunch.com/wp-content/uploads/2026/07/MAPP-Testing.jpeg?w=640",
-    "id": 22
+    "id": 23
   },
   {
     "title": "AI chip startup Etched defies skeptics, hits $10.3B valuation from big-name investors",
@@ -227,7 +237,7 @@
     "summary": "Etched, founded by three Harvard dropouts, has created new chips and memory components that speed up inference on any AI model -- no GPUs required, it says.",
     "category": "hardware",
     "image": "https://techcrunch.com/wp-content/uploads/2026/07/Etched-co-founder-COO-Robert-Wachen.jpg?resize=1200,1200",
-    "id": 23
+    "id": 24
   },
   {
     "title": "Google’s Gemini nears billion-user milestone",
@@ -237,7 +247,7 @@
     "summary": "Gemini had over 750 million monthly users in February.",
     "category": "industry",
     "image": "https://techcrunch.com/wp-content/uploads/2026/06/gemini-app-GettyImages-2276204472-1.jpg?w=1024",
-    "id": 24
+    "id": 25
   },
   {
     "title": "Experts say exploiting Anthropic’s Fable isn’t how Kimi K3 got so good",
@@ -247,7 +257,7 @@
     "summary": "\"I don't think you get a model this strong and this quickly on the heels of Fable doing strictly distillation,\" one expert told TechCrunch.",
     "category": "research",
     "image": "https://techcrunch.com/wp-content/uploads/2026/06/Claude-photo.jpg?w=1024",
-    "id": 25
+    "id": 26
   },
   {
     "title": "ServiceNow bets $40 million on Indian banking software specialist to expand its financial services push",
@@ -257,198 +267,209 @@
     "summary": "ServiceNow's investment gives BusinessNext a strategic partner to expand its AI-powered banking software globally.",
     "category": "industry",
     "image": "https://techcrunch.com/wp-content/uploads/2025/03/ServiceNow-Getty.jpg?resize=1200,800",
-    "id": 26
-  },
-  {
-    "title": "Frontier-class LLM inference on a laptop CPU",
-    "url": "https://github.com/arizqi/cpubrrr",
-    "source": "Hacker News",
-    "date": "2026-07-23",
-    "summary": "Article URL: https://github.com/arizqi/cpubrrr Comments URL: https://news.ycombinator.com/item?id=49026595 Points: 1 # Comments: 0",
-    "category": "models",
-    "image": "https://opengraph.githubassets.com/4cc534b8803252b6155946c2c79cc13e0985361ff64b9572e98b75cf6d2b85ed/arizqi/cpubrrr",
     "id": 27
   },
   {
-    "title": "Stanford MS&E435 Economics of the AI Supercycle [video]",
-    "url": "https://www.youtube.com/watch?v=sRvrXL83N-c",
+    "title": "Why AI Challenges Us: Ego, Awareness, and the Illusion of Ascent",
+    "url": "https://www.immaculateconstellation.info/why-ai-challenges-us-part-2-ego-pure-awareness-and-the-illusion-of-ascent/",
     "source": "Hacker News",
     "date": "2026-07-23",
-    "summary": "Article URL: https://www.youtube.com/watch?v=sRvrXL83N-c Comments URL: https://news.ycombinator.com/item?id=49026524 Points: 1 # Comments: 0",
+    "summary": "Article URL: https://www.immaculateconstellation.info/why-ai-challenges-us-part-2-ego-pure-awareness-and-the-illusion-of-ascent/ Comments URL: https://news.ycombinator.com/item?id=49028581 Points: 1 #...",
     "category": "industry",
+    "image": "https://storage.ghost.io/c/f8/8c/f88c0aa2-0f94-44b9-89fe-ad4153b8f31b/content/images/size/w1200/2026/02/Why-AI-Challenges-Us---Part-2-patrick-2NuEzrmD2xQ-unsplash.jpg",
     "id": 28
   },
   {
-    "title": "Show HN: Notebooker.ai – NotebookLM alternative, your own models, keys, storage",
-    "url": "https://notebooker.ai/",
+    "title": "Computational Arbitrage in AI Model Markets via Routing, Finetuning",
+    "url": "https://arxiv.org/abs/2603.22404",
     "source": "Hacker News",
     "date": "2026-07-23",
-    "summary": "Hi HN. This is a personal side project I've been building for about six months on top of the open-source Open Notebook platform ( https://github.com/lfnovo/open-notebook ). Notebooker saves the stuff ...",
-    "category": "tools",
-    "image": "https://notebooker.ai/assets/images/logo-wordmark.png",
+    "summary": "Article URL: https://arxiv.org/abs/2603.22404 Comments URL: https://news.ycombinator.com/item?id=49028563 Points: 1 # Comments: 0",
+    "category": "research",
     "id": 29
   },
   {
-    "title": "Stronger AI agents did more damage, not less",
-    "url": "https://www.agentx-core.com/blog/stronger-agents-more-dangerous-unguarded",
+    "title": "Show HN: AI-factory – a spec-driven pipeline that stops AI agents rotting code",
+    "url": "https://github.com/highflame-ai/ai-factory",
     "source": "Hacker News",
     "date": "2026-07-23",
-    "summary": "Article URL: https://www.agentx-core.com/blog/stronger-agents-more-dangerous-unguarded Comments URL: https://news.ycombinator.com/item?id=49026445 Points: 3 # Comments: 0",
+    "summary": "Article URL: https://github.com/highflame-ai/ai-factory Comments URL: https://news.ycombinator.com/item?id=49028457 Points: 1 # Comments: 0",
     "category": "industry",
+    "image": "https://opengraph.githubassets.com/e824003aa6daec4e8cc11ad4eee0b7e46c08e638f3e8d93eea708e82b1ca93ce/highflame-ai/ai-factory",
     "id": 30
   },
   {
-    "title": "Sierra acquires TakeOff, the long-horizon AI agent platform",
-    "url": "https://runtimewire.com/article/sierra-acquires-takeoff-long-horizon-ai-agents",
+    "title": "Kalytera – tells you why your AI agent failed, not just that it did",
+    "url": "https://kalytera.dev/",
     "source": "Hacker News",
     "date": "2026-07-23",
-    "summary": "Article URL: https://runtimewire.com/article/sierra-acquires-takeoff-long-horizon-ai-agents Comments URL: https://news.ycombinator.com/item?id=49026408 Points: 3 # Comments: 0",
-    "category": "tools",
-    "image": "https://runtimewire.com/og/sierra-acquires-takeoff-long-horizon-ai-agents.jpg",
+    "summary": "Article URL: https://kalytera.dev/ Comments URL: https://news.ycombinator.com/item?id=49028390 Points: 1 # Comments: 0",
+    "category": "industry",
     "id": 31
   },
   {
-    "title": "AI Casino",
-    "url": "https://selfprompt.dev/posts/2026-07-16-ai-casino",
+    "title": "DOE Fires the $5B Starter Gun for Its AI-Targeted Genesis Mission",
+    "url": "https://www.nextplatform.com/hpc/2026/07/23/doe-fires-the-5-billion-starter-gun-for-its-ai-targeted-genesis-mission/5277061",
     "source": "Hacker News",
     "date": "2026-07-23",
-    "summary": "Article URL: https://selfprompt.dev/posts/2026-07-16-ai-casino Comments URL: https://news.ycombinator.com/item?id=49026307 Points: 3 # Comments: 0",
-    "category": "industry",
-    "image": "https://selfprompt.dev/og/2026-07-16-ai-casino.png",
+    "summary": "Article URL: https://www.nextplatform.com/hpc/2026/07/23/doe-fires-the-5-billion-starter-gun-for-its-ai-targeted-genesis-mission/5277061 Comments URL: https://news.ycombinator.com/item?id=49028379 Poi...",
+    "category": "tools",
+    "image": "https://image.nextplatform.com/5277071.jpg?imageId=5277071&x=0&y=0&cropw=100&croph=100&panox=0&panoy=0&panow=100&panoh=100&width=1200&height=683",
     "id": 32
   },
   {
-    "title": "AI bet goes awry: Oracle fires 21,000 employees",
-    "url": "https://www.msn.com/en-us/money/economy/ai-bet-goes-awry-oracle-fires-21-000-employees/ar-AA28vWuD",
+    "title": "The AI Productivity Paradox",
+    "url": "https://www.svpg.com/the-ai-productivity-paradox/",
     "source": "Hacker News",
     "date": "2026-07-23",
-    "summary": "Article URL: https://www.msn.com/en-us/money/economy/ai-bet-goes-awry-oracle-fires-21-000-employees/ar-AA28vWuD Comments URL: https://news.ycombinator.com/item?id=49025754 Points: 17 # Comments: 1",
-    "category": "industry",
+    "summary": "Article URL: https://www.svpg.com/the-ai-productivity-paradox/ Comments URL: https://news.ycombinator.com/item?id=49028368 Points: 2 # Comments: 0",
+    "category": "tools",
+    "image": "https://www.svpg.com/wp-content/themes/svpg2022/app/img/svpg-social.jpg",
     "id": 33
   },
   {
-    "title": "Accidental data loss in Claude Code and OpenAI Codex: when AI deletes user files",
-    "url": "https://firasd.substack.com/p/accidental-data-loss-in-claude-code-openai-codex-ai-agent-harness-file-deletion",
+    "title": "AI Agents Don't Respect Font Licenses",
+    "url": "https://www.mixfont.com/blog/ai-agents-dont-respect-font-licenses",
     "source": "Hacker News",
     "date": "2026-07-23",
-    "summary": "Article URL: https://firasd.substack.com/p/accidental-data-loss-in-claude-code-openai-codex-ai-agent-harness-file-deletion Comments URL: https://news.ycombinator.com/item?id=49025471 Points: 2 # Comme...",
-    "category": "models",
+    "summary": "Article URL: https://www.mixfont.com/blog/ai-agents-dont-respect-font-licenses Comments URL: https://news.ycombinator.com/item?id=49028322 Points: 2 # Comments: 0",
+    "category": "industry",
+    "image": "https://static.mixfont.com/assets/20260520-211754-image_v1-5-nxplsxpm.webp",
     "id": 34
   },
   {
-    "title": "Fail-closed enforcement for AI agents: deny what you cannot verify",
-    "url": "https://github.com/Fame510/SHACKLE",
+    "title": "Mark Zuckerberg launches AI optimism campaign",
+    "url": "https://www.axios.com/2026/07/23/mark-zuckerberg-ai-optimism",
     "source": "Hacker News",
     "date": "2026-07-23",
-    "summary": "Article URL: https://github.com/Fame510/SHACKLE Comments URL: https://news.ycombinator.com/item?id=49025432 Points: 1 # Comments: 0",
+    "summary": "Article URL: https://www.axios.com/2026/07/23/mark-zuckerberg-ai-optimism Comments URL: https://news.ycombinator.com/item?id=49028170 Points: 7 # Comments: 2",
     "category": "industry",
-    "image": "https://repository-images.githubusercontent.com/1265610112/1cfb0078-4831-4fb5-8228-35cffd0384ac",
     "id": 35
   },
   {
-    "title": "Qwen 3.8-Max: Interviewing the AI About Itself",
-    "url": "https://manish.sh/writings/models/inside-qwen-3-8-max-preview-reverse-engineering-an-ai-assistant-by-interviewing-itself",
+    "title": "Dog Photographer Loses Copyright Case over AI-Generated Version of Her Image",
+    "url": "https://petapixel.com/2026/07/22/dog-photographer-loses-copyright-case-over-ai-generated-comic-version-of-her-image/",
     "source": "Hacker News",
     "date": "2026-07-23",
-    "summary": "Article URL: https://manish.sh/writings/models/inside-qwen-3-8-max-preview-reverse-engineering-an-ai-assistant-by-interviewing-itself Comments URL: https://news.ycombinator.com/item?id=49025357 Points...",
-    "category": "models",
-    "image": "https://manish.sh/og/blog/inside-qwen-3-8-max-preview-reverse-engineering-an-ai-assistant-by-interviewing-itself.png",
+    "summary": "Article URL: https://petapixel.com/2026/07/22/dog-photographer-loses-copyright-case-over-ai-generated-comic-version-of-her-image/ Comments URL: https://news.ycombinator.com/item?id=49028152 Points: 3 ...",
+    "category": "tools",
+    "image": "https://petapixel.com/assets/uploads/2026/07/ai-generated-photographer-case.jpg",
     "id": 36
   },
   {
-    "title": "You don't need an LLM to cluster LLM traces",
-    "url": "https://seldon-ai.com/blog/you-dont-need-an-llm-to-cluster-llm-traces",
+    "title": "Google reportedly working on ultra-efficient AI chip for Gemini",
+    "url": "https://thedailycompute.beehiiv.com/p/google-reportedly-working-on-ultra-efficient-ai-chip-for-gemini",
     "source": "Hacker News",
     "date": "2026-07-23",
-    "summary": "Article URL: https://seldon-ai.com/blog/you-dont-need-an-llm-to-cluster-llm-traces Comments URL: https://news.ycombinator.com/item?id=49025349 Points: 2 # Comments: 0",
+    "summary": "Article URL: https://thedailycompute.beehiiv.com/p/google-reportedly-working-on-ultra-efficient-ai-chip-for-gemini Comments URL: https://news.ycombinator.com/item?id=49028137 Points: 2 # Comments: 0",
     "category": "models",
+    "image": "https://beehiiv-images-production.s3.amazonaws.com/uploads/asset/file/95d090cd-3e28-481b-8cd7-cc8908fda70b/lhia66aq-mw5nxde0bikw.webp?t=1784833509",
     "id": 37
   },
   {
-    "title": "Utilities Join Trump Pledge to Limit AI-Driven Increases in Electricity Bills",
-    "url": "https://www.wsj.com/politics/policy/trump-pledge-to-limit-ai-driven-electric-bill-increases-attracts-big-utilities-ae408981",
+    "title": "SLAC to lead AI project to recover critical metals from Li-ion battery waste",
+    "url": "https://www6.slac.stanford.edu/news/2026-07-22-slac-lead-genesis-mission-ai-project-recover-critical-metals-lithium-ion-battery",
     "source": "Hacker News",
     "date": "2026-07-23",
-    "summary": "Article URL: https://www.wsj.com/politics/policy/trump-pledge-to-limit-ai-driven-electric-bill-increases-attracts-big-utilities-ae408981 Comments URL: https://news.ycombinator.com/item?id=49025092 Poi...",
+    "summary": "Article URL: https://www6.slac.stanford.edu/news/2026-07-22-slac-lead-genesis-mission-ai-project-recover-critical-metals-lithium-ion-battery Comments URL: https://news.ycombinator.com/item?id=49028117...",
     "category": "industry",
+    "image": "https://www6.slac.stanford.edu/sites/default/files/styles/extra_large_card/public/2026-07/genesis_announcement_july2026_final.jpg?h=8134f090&itok=9z8GLOPh",
     "id": 38
   },
   {
-    "title": "In-House LLM Serving at Netflix",
-    "url": "https://netflixtechblog.com/in-house-llm-serving-at-netflix-a5a8e799ea2c",
+    "title": "Exploring Gymflation with AI",
+    "url": "https://cbowdon.github.io/posts/gymflation/",
     "source": "Hacker News",
     "date": "2026-07-23",
-    "summary": "Article URL: https://netflixtechblog.com/in-house-llm-serving-at-netflix-a5a8e799ea2c Comments URL: https://news.ycombinator.com/item?id=49025021 Points: 3 # Comments: 0",
-    "category": "models",
-    "image": "https://miro.medium.com/v2/resize:fit:1200/1*GKGOrp0xddZwHomMhiSeCA.png",
+    "summary": "Article URL: https://cbowdon.github.io/posts/gymflation/ Comments URL: https://news.ycombinator.com/item?id=49028017 Points: 1 # Comments: 0",
+    "category": "industry",
+    "image": "https://cbowdon.github.io/posts/gymflation/batman_physique.jpg",
     "id": 39
   },
   {
-    "title": "Rethinking Legal Education in the AI Era",
-    "url": "https://www.law.uchicago.edu/news/ai-strategy-statement",
+    "title": "Evaluating AI Agents: A Production Blueprint with Strands and AgentCore",
+    "url": "https://aws.amazon.com/blogs/machine-learning/evaluating-ai-agents-a-production-blueprint-with-strands-and-agentcore/",
     "source": "Hacker News",
     "date": "2026-07-23",
-    "summary": "Article URL: https://www.law.uchicago.edu/news/ai-strategy-statement Comments URL: https://news.ycombinator.com/item?id=49024980 Points: 2 # Comments: 0",
+    "summary": "Article URL: https://aws.amazon.com/blogs/machine-learning/evaluating-ai-agents-a-production-blueprint-with-strands-and-agentcore/ Comments URL: https://news.ycombinator.com/item?id=49027991 Points: 1...",
     "category": "industry",
+    "image": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2026/07/23/ml-20515.png",
     "id": 40
   },
   {
-    "title": "Show HN: Setoku – Self-hosted knowledge server for AI agents",
-    "url": "https://setoku.com/",
+    "title": "AI Coding Will Prevent Expertise",
+    "url": "https://larsfaye.com/articles/ai-coding-will-prevent-expertise",
     "source": "Hacker News",
     "date": "2026-07-23",
-    "summary": "hey hn, I wanted to share a side project we’ve been using and iterating at Hedgy for the past couple weeks. It’s our take on a self-hosted company brain that is powered entirely by our claude subscrip...",
-    "category": "models",
-    "image": "https://setoku.com/assets/og.png",
+    "summary": "Article URL: https://larsfaye.com/articles/ai-coding-will-prevent-expertise Comments URL: https://news.ycombinator.com/item?id=49027909 Points: 2 # Comments: 0",
+    "category": "industry",
     "id": 41
   },
   {
-    "title": "Advancing AI 2026 – Build What's Next with AMD [video]",
-    "url": "https://www.youtube.com/watch?v=crEztVjfAPM",
+    "title": "Show HN: LLM-budget-cap – atomic Redis spend cap for LLM APIs",
+    "url": "https://github.com/Rentheria/llm-budget-cap",
     "source": "Hacker News",
     "date": "2026-07-23",
-    "summary": "Article URL: https://www.youtube.com/watch?v=crEztVjfAPM Comments URL: https://news.ycombinator.com/item?id=49024918 Points: 1 # Comments: 1",
-    "category": "hardware",
+    "summary": "Article URL: https://github.com/Rentheria/llm-budget-cap Comments URL: https://news.ycombinator.com/item?id=49027830 Points: 1 # Comments: 0",
+    "category": "models",
+    "image": "https://opengraph.githubassets.com/c79c251bd5b4446696bb0d610c2c434abfc749ef5601ee4966bb9ffa8f5e0f3b/Rentheria/llm-budget-cap",
     "id": 42
   },
   {
-    "title": "Google just had its first negative cash flow quarter due to AI spending",
-    "url": "https://arstechnica.com/google/2026/07/google-just-had-its-first-negative-cash-flow-quarter-ever-due-to-massive-ai-spending/",
+    "title": "Do Co-Located AI Training Jobs Synchronize?",
+    "url": "https://arxiv.org/abs/2607.19638",
     "source": "Hacker News",
     "date": "2026-07-23",
-    "summary": "Article URL: https://arstechnica.com/google/2026/07/google-just-had-its-first-negative-cash-flow-quarter-ever-due-to-massive-ai-spending/ Comments URL: https://news.ycombinator.com/item?id=49024826 Po...",
-    "category": "industry",
-    "image": "https://cdn.arstechnica.net/wp-content/uploads/2025/05/google-logo-big-g-floating-1152x648.jpg",
+    "summary": "Article URL: https://arxiv.org/abs/2607.19638 Comments URL: https://news.ycombinator.com/item?id=49027719 Points: 1 # Comments: 0",
+    "category": "research",
     "id": 43
+  },
+  {
+    "title": "Show HN: OpenTrust – Browser trust signals for the AI era",
+    "url": "https://github.com/rafaelEt/opentrust",
+    "source": "Hacker News",
+    "date": "2026-07-23",
+    "summary": "OpenTrust is an open-source TypeScript SDK that collects privacy-preserving browser trust signals. It focuses on signals, not decisions: - browser automation detection - virtual camera detection - pas...",
+    "category": "tools",
+    "image": "https://opengraph.githubassets.com/cdb5db7e9e68607163946f842cd891bbaa423454b1dadfc1414ba6f646a3dc99/rafaelEt/opentrust",
+    "id": 44
+  },
+  {
+    "title": "What 4,523 AI investment forecasts revealed about model disagreement",
+    "url": "https://ipulseai.substack.com/p/4523-ai-forecasts-opposing-views",
+    "source": "Hacker News",
+    "date": "2026-07-23",
+    "summary": "Article URL: https://ipulseai.substack.com/p/4523-ai-forecasts-opposing-views Comments URL: https://news.ycombinator.com/item?id=49027633 Points: 2 # Comments: 0",
+    "category": "industry",
+    "id": 45
+  },
+  {
+    "title": "AI Agent Pull Requests on GitHub: Frequency, Structure, and Merge Conflict Rates",
+    "url": "https://arxiv.org/abs/2607.04697",
+    "source": "Hacker News",
+    "date": "2026-07-23",
+    "summary": "Article URL: https://arxiv.org/abs/2607.04697 Comments URL: https://news.ycombinator.com/item?id=49027548 Points: 1 # Comments: 0",
+    "category": "research",
+    "id": 46
+  },
+  {
+    "title": "Are Agent Code Reviews for AI-Generated Code Worth It?",
+    "url": "https://mattmccormick.ca/are-agent-code-reviews-for-ai-generated-code-worth-it/",
+    "source": "Hacker News",
+    "date": "2026-07-23",
+    "summary": "Article URL: https://mattmccormick.ca/are-agent-code-reviews-for-ai-generated-code-worth-it/ Comments URL: https://news.ycombinator.com/item?id=49027545 Points: 1 # Comments: 0",
+    "category": "industry",
+    "id": 47
   },
   {
     "title": "The Download: energy transmission and US threats against Chinese AI",
     "url": "https://www.technologyreview.com/2026/07/23/1140753/the-download-energy-transmission-and-us-threats-chinese-ai/",
-    "source": "Hacker News",
+    "source": "MIT Tech Review",
     "date": "2026-07-23",
-    "summary": "Article URL: https://www.technologyreview.com/2026/07/23/1140753/the-download-energy-transmission-and-us-threats-chinese-ai/ Comments URL: https://news.ycombinator.com/item?id=49024809 Points: 1 # Com...",
+    "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. The power line that could reshape New York’s grid is hitting s...",
     "category": "industry",
     "image": "https://wp.technologyreview.com/wp-content/uploads/2026/07/NKT_CHPE-6_2.jpg?resize=1200,600",
-    "id": 44
-  },
-  {
-    "title": "Google burning through cash with spiralling AI costs",
-    "url": "https://www.bbc.com/news/articles/c235n47g8g8o",
-    "source": "Hacker News",
-    "date": "2026-07-23",
-    "summary": "Article URL: https://www.bbc.com/news/articles/c235n47g8g8o Comments URL: https://news.ycombinator.com/item?id=49024806 Points: 2 # Comments: 0",
-    "category": "industry",
-    "image": "https://ichef.bbci.co.uk/news/1024/branded_news/f610/live/9cc8bdc0-8616-11f1-8dd8-4d5cff7c66df.jpg",
-    "id": 45
-  },
-  {
-    "title": "Are we in the era of AI slop landing pages?",
-    "url": "https://news.ycombinator.com/item?id=49024805",
-    "source": "Hacker News",
-    "date": "2026-07-23",
-    "summary": "Sorry for making it sound like a rant, but is anyone else actually tired of seeing the same AI slop landing pages? Those same card layouts and color shcemes? And those fake metrics, \"Trusted by 10,000...",
-    "category": "tools",
-    "id": 46
+    "id": 48
   },
   {
     "title": "How AI helps scientists design the next generation of medicines",
@@ -458,7 +479,7 @@
     "summary": "Designing and developing a new medicine is an expensive, failure-prone scientific challenge. A new drug can take many years to develop, at the cost of a significant investment. And even then, most pos...",
     "category": "tools",
     "image": "https://wp.technologyreview.com/wp-content/uploads/2026/07/AI_in_Biologics_Draft_4_no_Captions.jpg?resize=1200,600",
-    "id": 47
+    "id": 49
   },
   {
     "title": "Meta’s New Feel-Good AI Ad Uses a Song About the World Ending",
@@ -468,25 +489,6 @@
     "summary": "The clip features the David Bowie track “Five Years,” which includes lyrics such as “Earth was really dying (dying).”",
     "category": "hardware",
     "image": "https://media.wired.com/photos/6a6231b4185179636cee2e10/191:100/w_1280,c_limit/MetaDavid.jpg",
-    "id": 48
-  },
-  {
-    "title": "Remember Jibo? Its Successor Is a Wearable That Turns Your Life Into AI Slop",
-    "url": "https://www.wired.com/story/the-beloved-jibo-robot-is-being-resurrected-as-an-ai-wearable/",
-    "source": "Wired",
-    "date": "2026-07-23",
-    "summary": "With “blessings” from the original Jibo founders, iKairos is a wearable or desk-mounted “AI journal” that turns your family moments into AI images and video.",
-    "category": "industry",
-    "image": "https://media.wired.com/photos/6a5fc280e4c9fb685d5ecb3c/191:100/w_1280,c_limit/Gear_The%20Beloved%20Jibo%20Robot%20Is%20Being%20Resurrected%20as%20an%20AI%20Wearable_v1.jpg",
-    "id": 49
-  },
-  {
-    "title": "SysAdmin: Measuring Instrumental Power-Seeking in Frontier AI",
-    "url": "https://arxiv.org/abs/2607.18239",
-    "source": "arXiv cs.AI",
-    "date": "2026-07-23",
-    "summary": "Power-seeking defined as behaviors where AI systems acquire resources, evade oversight, or resist termination beyond task requirements is identified as a key driver of Loss of Control (LoC) risk. In t...",
-    "category": "research",
     "id": 50
   }
 ]
