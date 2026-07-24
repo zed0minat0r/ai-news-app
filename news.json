@@ -1,14 +1,24 @@
 [
   {
-    "title": "At AI Summit, South Korea Outlines Its AI Future With NVIDIA and Partners",
-    "url": "https://blogs.nvidia.com/blog/ai-summit-korea-partners-and-nvidia/",
-    "source": "NVIDIA Blog",
+    "title": "AMD confirmed $5.4 billion ATI acquisition 20 years ago today — deal to 'reinvent our industry' paved the way for Radeon GPU innovation, APUs, and games console domination",
+    "url": "https://www.tomshardware.com/pc-components/gpus/amd-confirmed-usd5-4-billion-ati-acquisition-20-years-ago-today-deal-to-reinvent-our-industry-paved-the-way-for-radeon-gpu-innovation-apus-and-games-console-domination",
+    "source": "Tom's Hardware",
     "date": "2026-07-24",
-    "summary": "At this week’s AI Summit in San Francisco, South Korean President Jae Myung Lee and some of the country’s top business leaders and researchers are meeting with NVIDIA and ecosystem partners to chart K...",
+    "summary": "On this day in 2006, AMD confirmed its acquisition of graphics chip firm ATI. AMD stumped up a cash-and-stock deal worth a total of $5.4B for the Canadian PC graphics innovators.",
     "category": "hardware",
-    "image": "https://blogs.nvidia.com/wp-content/uploads/2026/07/jhh-k-ai-summit-1920x1080-2.jpg",
+    "image": "https://cdn.mos.cms.futurecdn.net/vz8mVNd5YzgtY3APMJukfP-1280-80.jpg",
     "id": 1,
     "featured": true
+  },
+  {
+    "title": "AMD reveals CPU architecture roadmap through 2028, following Zen 6 'Venice' launch — Zen 7 'Florence' to debut in 2028 alongside diversified product family, confirms Zen 8 'Ravenna' in development",
+    "url": "https://www.tomshardware.com/pc-components/cpus/amd-reveals-cpu-architecture-roadmap-through-2028-following-zen-6-venice-launch-zen-7-florence-to-debut-in-2028-alongside-diversified-product-family-confirms-zen-8-ravenna-in-development",
+    "source": "Tom's Hardware",
+    "date": "2026-07-24",
+    "summary": "AMD's Lisa Su shows off the company's roadmap through 2030, including teases of Zen 7 and Zen 8 CPUs.",
+    "category": "hardware",
+    "image": "https://cdn.mos.cms.futurecdn.net/b6AWuqaDHTv9ZS4ZpfqZNV-1280-80.png",
+    "id": 2
   },
   {
     "title": "How AI guardrails are impeding the work of offensive cybersecurity researchers",
@@ -18,187 +28,196 @@
     "summary": "We spoke with several cybersecurity researchers, who look for unknown vulnerabilities and develop tools to exploit them, about how OpenAI’s and Anthropic’s guardrails affect their work.",
     "category": "research",
     "image": "https://techcrunch.com/wp-content/uploads/2026/06/claude-mythos-logo.jpg?resize=1200,800",
-    "id": 2
+    "id": 3
+  },
+  {
+    "title": "Show HN: SaveAnswer – a local Chrome extension for keeping AI answers searchable",
+    "url": "https://chromewebstore.google.com/detail/saveanswer-save-ai-answer/iminapemlncanmmaadedieifgkaeoljm",
+    "source": "Hacker News",
+    "date": "2026-07-24",
+    "summary": "Article URL: https://chromewebstore.google.com/detail/saveanswer-save-ai-answer/iminapemlncanmmaadedieifgkaeoljm Comments URL: https://news.ycombinator.com/item?id=49033633 Points: 1 # Comments: 0",
+    "category": "tools",
+    "id": 4
+  },
+  {
+    "title": "Show HN: LLM Proxy - Python with SSE stream aggregation and timeout prevention",
+    "url": "https://github.com/lordraw77/llmproxy",
+    "source": "Hacker News",
+    "date": "2026-07-24",
+    "summary": "Article URL: https://github.com/lordraw77/llmproxy Comments URL: https://news.ycombinator.com/item?id=49033596 Points: 1 # Comments: 0",
+    "category": "models",
+    "image": "https://opengraph.githubassets.com/7f7e6cb212bcd6d4415fa1758fb38837dd334962daa40d2f65bc6b2a3744d7b5/lordraw77/llmproxy",
+    "id": 5
+  },
+  {
+    "title": "AI Kill Switch Act would let Trump admin order shutdown of rogue AI systems",
+    "url": "https://arstechnica.com/tech-policy/2026/07/ai-kill-switch-act-would-let-trump-admin-order-shutdown-of-rogue-ai-systems/",
+    "source": "Hacker News",
+    "date": "2026-07-24",
+    "summary": "Article URL: https://arstechnica.com/tech-policy/2026/07/ai-kill-switch-act-would-let-trump-admin-order-shutdown-of-rogue-ai-systems/ Comments URL: https://news.ycombinator.com/item?id=49033461 Points...",
+    "category": "industry",
+    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/07/openai-logo-1152x648-1784833184.jpg",
+    "id": 6
+  },
+  {
+    "title": "Round-Trip Correctness: A New Metric for Generative AI-Based Process Modeling",
+    "url": "https://community.sap.com/t5/technology-blog-posts-by-sap/round-trip-correctness-a-new-metric-for-generative-ai-based-process/ba-p/14091979",
+    "source": "Hacker News",
+    "date": "2026-07-24",
+    "summary": "Article URL: https://community.sap.com/t5/technology-blog-posts-by-sap/round-trip-correctness-a-new-metric-for-generative-ai-based-process/ba-p/14091979 Comments URL: https://news.ycombinator.com/item...",
+    "category": "industry",
+    "id": 7
+  },
+  {
+    "title": "Show HN: Transept: AI translation workspace that puts humans first",
+    "url": "https://transept.ai",
+    "source": "Hacker News",
+    "date": "2026-07-24",
+    "summary": "Article URL: https://transept.ai Comments URL: https://news.ycombinator.com/item?id=49033237 Points: 3 # Comments: 0",
+    "category": "industry",
+    "image": "https://transept.ai/images/og-literess-2026-05.png",
+    "id": 8
+  },
+  {
+    "title": "Hetzner is working on LLM Inference",
+    "url": "https://sliplane.io/blog/hetzner-inference",
+    "source": "Hacker News",
+    "date": "2026-07-24",
+    "summary": "Article URL: https://sliplane.io/blog/hetzner-inference Comments URL: https://news.ycombinator.com/item?id=49033087 Points: 15 # Comments: 4",
+    "category": "models",
+    "id": 9
+  },
+  {
+    "title": "Grok muscles into Excel with an AI add-in of its own",
+    "url": "https://www.theregister.com/ai-and-ml/2026/07/22/grok-muscles-into-excel-with-an-ai-add-in-of-its-own/5276138",
+    "source": "Hacker News",
+    "date": "2026-07-24",
+    "summary": "Article URL: https://www.theregister.com/ai-and-ml/2026/07/22/grok-muscles-into-excel-with-an-ai-add-in-of-its-own/5276138 Comments URL: https://news.ycombinator.com/item?id=49033015 Points: 3 # Comme...",
+    "category": "models",
+    "image": "https://image.theregister.com/4093846.jpg?imageId=4093846&x=0&y=0&cropw=100&croph=100&panox=0&panoy=0&panow=100&panoh=100&width=1200&height=683",
+    "id": 10
+  },
+  {
+    "title": "Kitboga manipulates AI scam call into hallucination",
+    "url": "https://www.youtube.com/watch?v=lk3jCuITwcE",
+    "source": "Hacker News",
+    "date": "2026-07-24",
+    "summary": "Article URL: https://www.youtube.com/watch?v=lk3jCuITwcE Comments URL: https://news.ycombinator.com/item?id=49032875 Points: 3 # Comments: 0",
+    "category": "research",
+    "id": 11
+  },
+  {
+    "title": "AI-first development: Stories as a source of truth - by toby [video]",
+    "url": "https://www.youtube.com/watch?v=1YoP7u_rqgQ",
+    "source": "Hacker News",
+    "date": "2026-07-24",
+    "summary": "Article URL: https://www.youtube.com/watch?v=1YoP7u_rqgQ Comments URL: https://news.ycombinator.com/item?id=49032792 Points: 3 # Comments: 1",
+    "category": "industry",
+    "id": 12
+  },
+  {
+    "title": "Hive_review: Multi-agent AI code-review loop",
+    "url": "https://github.com/metacircu1ar/hive_review",
+    "source": "Hacker News",
+    "date": "2026-07-24",
+    "summary": "Article URL: https://github.com/metacircu1ar/hive_review Comments URL: https://news.ycombinator.com/item?id=49032722 Points: 2 # Comments: 1",
+    "category": "industry",
+    "image": "https://opengraph.githubassets.com/b3e95eb38bd3e777a2f63e1be4257fb3a71f22d41a99d0c85dd6f293db493ffd/metacircu1ar/hive_review",
+    "id": 13
   },
   {
     "title": "AI, Rockets, and the Return of Hard Contracts (Part I)",
     "url": "https://noumena.com/essays/the-engine-shop-part-1/",
     "source": "Hacker News",
     "date": "2026-07-24",
-    "summary": "Article URL: https://noumena.com/essays/the-engine-shop-part-1/ Comments URL: https://news.ycombinator.com/item?id=49032658 Points: 1 # Comments: 0",
+    "summary": "Article URL: https://noumena.com/essays/the-engine-shop-part-1/ Comments URL: https://news.ycombinator.com/item?id=49032658 Points: 2 # Comments: 0",
     "category": "industry",
-    "id": 3
+    "id": 14
   },
   {
     "title": "Naming a pattern in AI-generated code: Modular Mirage",
     "url": "https://news.ycombinator.com/item?id=49032468",
     "source": "Hacker News",
     "date": "2026-07-24",
-    "summary": "Comments URL: https://news.ycombinator.com/item?id=49032468 Points: 1 # Comments: 0",
+    "summary": "Comments URL: https://news.ycombinator.com/item?id=49032468 Points: 2 # Comments: 0",
     "category": "research",
-    "id": 4
+    "id": 15
   },
   {
     "title": "Oracle severed 21,000 employees during an AI spending spree",
     "url": "https://finance.yahoo.com/technology/ai/articles/oracle-severed-21-000-employees-114500493.html",
     "source": "Hacker News",
     "date": "2026-07-24",
-    "summary": "Article URL: https://finance.yahoo.com/technology/ai/articles/oracle-severed-21-000-employees-114500493.html Comments URL: https://news.ycombinator.com/item?id=49032388 Points: 3 # Comments: 0",
+    "summary": "Article URL: https://finance.yahoo.com/technology/ai/articles/oracle-severed-21-000-employees-114500493.html Comments URL: https://news.ycombinator.com/item?id=49032388 Points: 4 # Comments: 0",
     "category": "industry",
-    "id": 5
+    "id": 16
   },
   {
     "title": "Beyond Static Summarization: Proactive Memory Extraction for LLM Agents",
     "url": "https://arxiv.org/abs/2601.04463",
     "source": "Hacker News",
     "date": "2026-07-24",
-    "summary": "Article URL: https://arxiv.org/abs/2601.04463 Comments URL: https://news.ycombinator.com/item?id=49032350 Points: 1 # Comments: 0",
+    "summary": "Article URL: https://arxiv.org/abs/2601.04463 Comments URL: https://news.ycombinator.com/item?id=49032350 Points: 2 # Comments: 0",
     "category": "models",
-    "id": 6
+    "id": 17
   },
   {
     "title": "HN: FlowShelf –free,native macOS shelf/clipboard/screenshot app,on-device AI",
     "url": "https://flowshelf.app/",
     "source": "Hacker News",
     "date": "2026-07-24",
-    "summary": "Article URL: https://flowshelf.app/ Comments URL: https://news.ycombinator.com/item?id=49032306 Points: 1 # Comments: 0",
+    "summary": "Article URL: https://flowshelf.app/ Comments URL: https://news.ycombinator.com/item?id=49032306 Points: 2 # Comments: 0",
     "category": "industry",
     "image": "https://flowshelf.app/assets/og-image.png",
-    "id": 7
+    "id": 18
   },
   {
     "title": "AI coding agents should optimize for less owned code",
     "url": "https://www.openenergytransition.org/posts/ai-coding-agents-should-optimize-for-less-owned-code",
     "source": "Hacker News",
     "date": "2026-07-24",
-    "summary": "Article URL: https://www.openenergytransition.org/posts/ai-coding-agents-should-optimize-for-less-owned-code Comments URL: https://news.ycombinator.com/item?id=49032279 Points: 1 # Comments: 0",
+    "summary": "Article URL: https://www.openenergytransition.org/posts/ai-coding-agents-should-optimize-for-less-owned-code Comments URL: https://news.ycombinator.com/item?id=49032279 Points: 2 # Comments: 0",
     "category": "industry",
-    "id": 8
+    "id": 19
   },
   {
     "title": "AI Overviews could push Reddit to end its $60M-a-year deal with Google",
     "url": "https://www.neowin.net/news/ai-overviews-could-push-reddit-to-end-its-60-million-a-year-deal-with-google/",
     "source": "Hacker News",
     "date": "2026-07-24",
-    "summary": "Article URL: https://www.neowin.net/news/ai-overviews-could-push-reddit-to-end-its-60-million-a-year-deal-with-google/ Comments URL: https://news.ycombinator.com/item?id=49032246 Points: 4 # Comments:...",
+    "summary": "Article URL: https://www.neowin.net/news/ai-overviews-could-push-reddit-to-end-its-60-million-a-year-deal-with-google/ Comments URL: https://news.ycombinator.com/item?id=49032246 Points: 7 # Comments:...",
     "category": "industry",
     "image": "https://cdn.neowin.com/news/images/uploaded/2025/06/1749067276_reddit-claude_story.webp",
-    "id": 9
+    "id": 20
   },
   {
     "title": "Show HN: Jharu – Open-Source AI and Dev Junk Cleaner for Mac and PC",
     "url": "https://github.com/riponcm/Jharu",
     "source": "Hacker News",
     "date": "2026-07-24",
-    "summary": "Article URL: https://github.com/riponcm/Jharu Comments URL: https://news.ycombinator.com/item?id=49032227 Points: 1 # Comments: 0",
+    "summary": "Article URL: https://github.com/riponcm/Jharu Comments URL: https://news.ycombinator.com/item?id=49032227 Points: 2 # Comments: 0",
     "category": "industry",
-    "image": "https://opengraph.githubassets.com/d3ce448b150c8353e3eb6ac3ae81eac01bafe1fc48606ec4db67288678d96953/riponcm/Jharu",
-    "id": 10
+    "image": "https://opengraph.githubassets.com/04b909b296afd82af037477f38faf78cfd2567debd16ae545a12b5673b13ad27/riponcm/Jharu",
+    "id": 21
   },
   {
     "title": "On AI",
     "url": "https://jcs.org/2026/07/23/ai",
     "source": "Hacker News",
     "date": "2026-07-24",
-    "summary": "Article URL: https://jcs.org/2026/07/23/ai Comments URL: https://news.ycombinator.com/item?id=49032212 Points: 3 # Comments: 1",
+    "summary": "Article URL: https://jcs.org/2026/07/23/ai Comments URL: https://news.ycombinator.com/item?id=49032212 Points: 5 # Comments: 2",
     "category": "industry",
-    "id": 11
+    "id": 22
   },
   {
-    "title": "Show HN: Continuum – switch AI coding agents without re-explaining your project",
-    "url": "https://github.com/AnasNafees1802/continuum",
-    "source": "Hacker News",
+    "title": "Some Kids Will Never Think AI Is Cool",
+    "url": "https://www.wired.com/story/some-kids-will-never-think-ai-is-cool/",
+    "source": "Wired",
     "date": "2026-07-24",
-    "summary": "Article URL: https://github.com/AnasNafees1802/continuum Comments URL: https://news.ycombinator.com/item?id=49032115 Points: 1 # Comments: 0",
+    "summary": "“I think it should stand for artificial idiot,” one 9-year-old says. Here’s why kids of all ages are calling AI “disgusting” and “creepy.”",
     "category": "industry",
-    "image": "https://repository-images.githubusercontent.com/1284074123/20e5aaab-ee12-4f19-938d-7be74519a92a",
-    "id": 12
-  },
-  {
-    "title": "Open Erdos problems solved with the help of GPT-5.6 Sol",
-    "url": "https://twitter.com/qiaoqiao2001/status/2080003441821163958",
-    "source": "Hacker News",
-    "date": "2026-07-24",
-    "summary": "Article URL: https://twitter.com/qiaoqiao2001/status/2080003441821163958 Comments URL: https://news.ycombinator.com/item?id=49032013 Points: 2 # Comments: 0",
-    "category": "models",
-    "image": "https://pbs.twimg.com/profile_images/1823182344766836736/5YwQsWZb_200x200.jpg",
-    "id": 13
-  },
-  {
-    "title": "The Effect of AI on Dunning Kruger",
-    "url": "https://blog.zoller.lu/2026/07/dunning-kruger-after-ai-gap-that-no.html",
-    "source": "Hacker News",
-    "date": "2026-07-24",
-    "summary": "Article URL: https://blog.zoller.lu/2026/07/dunning-kruger-after-ai-gap-that-no.html Comments URL: https://news.ycombinator.com/item?id=49031973 Points: 4 # Comments: 1",
-    "category": "industry",
-    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiyWManUOnAeKvhXEfFTJ5SxOlrZUgjxiPoyXKsl2ZmG7P_J6glshxwj73IFCBuLbRLX021t_mv2iYIy9AlPv-Qve58gdoVMIF_Cz7GZArjT4jJ7qx9FEFsk9YD8C_ibfATe-cI-QGRIZT14WuXKC4G5ehw6jlGTkbpG1hPyJlKvfOjXk3Ni-5xaLQBdMM/w1200-h630-p-k-no-nu/dunning_kruger_loop.png",
-    "id": 14
-  },
-  {
-    "title": "Japanese AI Robots Used to Replicate Skilled Confectioners' Abilities",
-    "url": "https://japannews.yomiuri.co.jp/science-nature/technology/20260719-338181/",
-    "source": "Hacker News",
-    "date": "2026-07-24",
-    "summary": "Article URL: https://japannews.yomiuri.co.jp/science-nature/technology/20260719-338181/ Comments URL: https://news.ycombinator.com/item?id=49031963 Points: 2 # Comments: 0",
-    "category": "industry",
-    "id": 15
-  },
-  {
-    "title": "Codex Slides: open-source AI slide studio powered by Codex. Prompt, repo to deck",
-    "url": "https://github.com/nexu-io/codex-slides",
-    "source": "Hacker News",
-    "date": "2026-07-24",
-    "summary": "Article URL: https://github.com/nexu-io/codex-slides Comments URL: https://news.ycombinator.com/item?id=49031776 Points: 2 # Comments: 0",
-    "category": "industry",
-    "image": "https://opengraph.githubassets.com/9ce728de035863bf309103cdf00a81fa08b715c615a1ce5b39e1d23cc1cc0d4f/nexu-io/codex-slides",
-    "id": 16
-  },
-  {
-    "title": "China's All-Out Push to Catch Up with American AI Chips",
-    "url": "https://www.wsj.com/world/china/china-ai-chips-race-949050d0",
-    "source": "Hacker News",
-    "date": "2026-07-24",
-    "summary": "Article URL: https://www.wsj.com/world/china/china-ai-chips-race-949050d0 Comments URL: https://news.ycombinator.com/item?id=49031362 Points: 2 # Comments: 0",
-    "category": "hardware",
-    "id": 17
-  },
-  {
-    "title": "The Sad Wives of AI",
-    "url": "https://www.wired.com/story/meet-the-sad-wives-of-ai/",
-    "source": "Hacker News",
-    "date": "2026-07-24",
-    "summary": "Article URL: https://www.wired.com/story/meet-the-sad-wives-of-ai/ Comments URL: https://news.ycombinator.com/item?id=49031294 Points: 2 # Comments: 1",
-    "category": "industry",
-    "image": "https://media.wired.com/photos/69f3fa0d219771de40b4163d/191:100/w_1280,c_limit/Wired_Main_FINAL_WEB.jpg",
-    "id": 18
-  },
-  {
-    "title": "Show HN: Generous free tier for SERP and AI web scraping",
-    "url": "https://cloro.dev/",
-    "source": "Hacker News",
-    "date": "2026-07-24",
-    "summary": "Hackers, We wanted to share our newly-added recurring Free tier for cloro.dev, the leading AI UI scraping platform in the world. We extract structured data from ChatGPT, Perplexity, Grok, Gemini, Goog...",
-    "category": "tools",
-    "image": "https://cloro.dev/opengraph.jpg",
-    "id": 19
-  },
-  {
-    "title": "Google's slump in AI race driven in part by low morale",
-    "url": "https://www.axios.com/2026/07/23/googles-deep-mind-ai-model-race",
-    "source": "Hacker News",
-    "date": "2026-07-24",
-    "summary": "Article URL: https://www.axios.com/2026/07/23/googles-deep-mind-ai-model-race Comments URL: https://news.ycombinator.com/item?id=49031227 Points: 3 # Comments: 1",
-    "category": "industry",
-    "id": 20
-  },
-  {
-    "title": "AI will not trigger employment collapse, staffing company Adecco Group says",
-    "url": "https://www.reuters.com/business/ai-will-not-trigger-employment-collapse-staffing-company-adecco-group-says-2026-07-23/",
-    "source": "Hacker News",
-    "date": "2026-07-24",
-    "summary": "Article URL: https://www.reuters.com/business/ai-will-not-trigger-employment-collapse-staffing-company-adecco-group-says-2026-07-23/ Comments URL: https://news.ycombinator.com/item?id=49031153 Points:...",
-    "category": "industry",
-    "id": 21
+    "image": "https://media.wired.com/photos/6a54d4fa2f80ee666004c193/191:100/w_1280,c_limit/071326_9-Reasons-Kids-Hate-AI-01.jpg",
+    "id": 23
   },
   {
     "title": "AINTMA: Agentic AI Architecture for Autonomous Test Management with Generative Intelligence, Secure Cloud Communication and Adaptive Quality Analytics",
@@ -207,7 +226,7 @@
     "date": "2026-07-24",
     "summary": "Modern software quality assurance demands intelligent, autonomous systems capable of adaptive decision-making across distributed cloud environments. This paper presents AINTMA (Agentic Intelligent Tes...",
     "category": "research",
-    "id": 22
+    "id": 24
   },
   {
     "title": "Marking the Wrong Symptoms: Evaluating LLM Watermarks in Medical Texts",
@@ -216,7 +235,7 @@
     "date": "2026-07-24",
     "summary": "Large language models (LLMs) are increasingly integrated into clinical workflows, stressing the need for reliable traceability of model-generated output with watermarking. Yet, most watermarks are eva...",
     "category": "research",
-    "id": 23
+    "id": 25
   },
   {
     "title": "ClickGuard: Detecting and Spoiling Clickbait News with Informativeness Measures and Large Language Models",
@@ -225,7 +244,7 @@
     "date": "2026-07-24",
     "summary": "This paper presents an AI-driven browser extension that identifies clickbait to help users avoid misleading Internet articles. Moving beyond traditional detection, the application employs a hybrid mac...",
     "category": "models",
-    "id": 24
+    "id": 26
   },
   {
     "title": "Stochastic Sampling is Epistemically Shallow: The Dimensionality Gap Between Temperature Variation and Model Diversity in LLMs",
@@ -234,7 +253,7 @@
     "date": "2026-07-24",
     "summary": "When a language model gives different answers on repeated runs, does that variation reveal what it does not know? Self-consistency turns the variation into a per-question uncertainty estimate via majo...",
     "category": "models",
-    "id": 25
+    "id": 27
   },
   {
     "title": "JAXBench: Benchmarking Autonomous TPU Kernel Optimization",
@@ -243,7 +262,7 @@
     "date": "2026-07-24",
     "summary": "Rigorous benchmarks have driven progress in autonomous GPU kernel performance optimization by establishing a shared target to hillclimb on, but no equivalent exists for TPUs. We present JAXBench, a TP...",
     "category": "models",
-    "id": 26
+    "id": 28
   },
   {
     "title": "DC-Leap: Training-Free Acceleration of dLLMs via Draft-Guided Contiguous Leaping Decoding",
@@ -252,7 +271,7 @@
     "date": "2026-07-24",
     "summary": "While parallel decoding is central to the efficiency of Diffusion Large Language Models (dLLMs), current strategies are often hindered by overly conservative confidence thresholds. These thresholds, n...",
     "category": "models",
-    "id": 27
+    "id": 29
   },
   {
     "title": "InferenceBench: A Benchmark for Open-Ended LLM Inference Optimization by AI Agents",
@@ -261,7 +280,7 @@
     "date": "2026-07-24",
     "summary": "AI agents are increasingly used to automate research and development tasks, yet existing benchmarks typically evaluate them on prescribed workflows or narrow action spaces. Even nominally open-ended t...",
     "category": "models",
-    "id": 28
+    "id": 30
   },
   {
     "title": "DecodeShare: Tracing the Shared Subspace of LLM Decode-Time Decisions",
@@ -270,7 +289,7 @@
     "date": "2026-07-24",
     "summary": "Large language models (LLMs) handle many tasks with one set of parameters, but under KV-cached inference it is unclear what task-general structure, if any, is used at decode time rather than during pr...",
     "category": "models",
-    "id": 29
+    "id": 31
   },
   {
     "title": "PlanE: Meta Planning of Data, Tuning, and Inference for Extractive-based LLMs",
@@ -279,7 +298,7 @@
     "date": "2026-07-24",
     "summary": "Enhancing the task-specific capabilities of Large Language Models (LLMs) primarily requires substantial instruction-tuning datasets. However, the sheer volume of such data imposes a considerable annot...",
     "category": "models",
-    "id": 30
+    "id": 32
   },
   {
     "title": "Benchmarking the Personalization Capabilities of Large Language Models",
@@ -288,7 +307,7 @@
     "date": "2026-07-24",
     "summary": "Personalization, the act of varying a message to induce action from a specific receiver while keeping sender, channel, and time fixed, has a long tradition in psychology and marketing as a two-party p...",
     "category": "models",
-    "id": 31
+    "id": 33
   },
   {
     "title": "Robust Critics: Defending LLMs Against Multi-Turn Attacks",
@@ -297,7 +316,7 @@
     "date": "2026-07-24",
     "summary": "When a user asks a language model something harmful, is it a genuine attack or a misunderstood but well-meaning question? This ambiguity is one of the central challenges of LLM safety. A model that as...",
     "category": "models",
-    "id": 32
+    "id": 34
   },
   {
     "title": "Incomplete Prompt Jailbreaks in Large Language Models",
@@ -306,7 +325,7 @@
     "date": "2026-07-24",
     "summary": "Large language models (LLMs) are increasingly released as open-weight models with safeguards against harmful requests. Nevertheless, sentence completion remains vulnerable to incomplete harmful prompt...",
     "category": "models",
-    "id": 33
+    "id": 35
   },
   {
     "title": "VeriSimpl: Robust Optimization Modeling from Natural Language using Simplification-based Verification",
@@ -315,7 +334,7 @@
     "date": "2026-07-24",
     "summary": "Natural language interfaces can greatly benefit the accessibility and usability of optimization modeling, and recent advances in large language models (LLMs) show promise in automatically translating ...",
     "category": "models",
-    "id": 34
+    "id": 36
   },
   {
     "title": "SonicSampler: Unified Tile-Aware Kernels for LLM Sampling and Speculative Verification",
@@ -324,7 +343,7 @@
     "date": "2026-07-24",
     "summary": "Sampling in LLM inference comprises a combinatorial set of logit processing, token selection, and verification operations for speculative decoding. However, existing implementations either accelerate ...",
     "category": "models",
-    "id": 35
+    "id": 37
   },
   {
     "title": "Benchmarking Large Language Models on Multi-Sensor Physical Hazard Assessment",
@@ -333,7 +352,7 @@
     "date": "2026-07-24",
     "summary": "We present an empirical benchmark evaluating how five large language models assess multisensor physical hazard data. Testing 60 scenarios across three categories - multi-sensor joint assessment, respo...",
     "category": "models",
-    "id": 36
+    "id": 38
   },
   {
     "title": "Semi-Supervised Text-Attributed Graph Distillation",
@@ -342,7 +361,7 @@
     "date": "2026-07-24",
     "summary": "{\\em Text-Attributed Graphs} (TAGs) have emerged as an expressive data model for integrating graph topology with rich textual semantics. Existing representation learning methods over TAGs suffer from ...",
     "category": "research",
-    "id": 37
+    "id": 39
   },
   {
     "title": "Beyond Liars' Bench: The Impact of Lie Typology, Depth, and Sparsity on Deception Detection in LLMs",
@@ -351,7 +370,7 @@
     "date": "2026-07-24",
     "summary": "Training probes to detect deceptive outputs from large language models is still an open problem. Recent work has demonstrated that detection probes fail especially in out-of-domain scenarios -- traini...",
     "category": "models",
-    "id": 38
+    "id": 40
   },
   {
     "title": "Enabling Scalable Topology Inference in Distribution Systems via Constrained Multi-Source Inference",
@@ -360,7 +379,7 @@
     "date": "2026-07-24",
     "summary": "Accurate distribution system topology is essential for outage localization, voltage analytics, and operation of distribution grids, yet maintaining reliable connectivity records remains challenging in...",
     "category": "research",
-    "id": 39
+    "id": 41
   },
   {
     "title": "Routing Without Training: Controllable-Ratio LLM Offloading via Reliability Gating",
@@ -369,7 +388,7 @@
     "date": "2026-07-24",
     "summary": "Local-cloud collaboration is a practical way to deploy large language models under resource constraints, but existing methods often rely on trained routers or collaboration-aware finetuning that tie r...",
     "category": "models",
-    "id": 40
+    "id": 42
   },
   {
     "title": "PersonaTrail: Benchmarking Personalized Web Agents through Browsing Trails",
@@ -378,7 +397,7 @@
     "date": "2026-07-24",
     "summary": "Recent advances in large language models have enabled web agents to autonomously execute complex tasks. In practice, users frequently provide underspecified instructions, requiring agents to infer the...",
     "category": "models",
-    "id": 41
+    "id": 43
   },
   {
     "title": "Tractable Hierarchical Control of Autoregressive Language Models",
@@ -387,7 +406,7 @@
     "date": "2026-07-24",
     "summary": "Constraining the generation of autoregressive large language models (LLMs) is an important component of integrating language models into formal systems. In the generation of code and data for tasks li...",
     "category": "models",
-    "id": 42
+    "id": 44
   },
   {
     "title": "The Devil is in the Spectrum: Mitigating Representation Collapse in LLMs via Topologically Regularized Side-Path",
@@ -396,7 +415,7 @@
     "date": "2026-07-24",
     "summary": "Large Language Models (LLMs) are fundamentally limited by representation collapse, a bottleneck that severely degrades long-context performance. We identify that existing approaches risk drifting into...",
     "category": "models",
-    "id": 43
+    "id": 45
   },
   {
     "title": "Expectation Alignment of Language Models for Real-World User Expectations",
@@ -405,7 +424,7 @@
     "date": "2026-07-24",
     "summary": "Large language models (LLMs) have demonstrated remarkable performance on standard benchmarks, yet it remains largely unexplored whether they truly meet user expectations. Existing evaluation approache...",
     "category": "research",
-    "id": 44
+    "id": 46
   },
   {
     "title": "OPTScientist: Multi-Agent Discovery of Typed Optimizer Programs for Transformer Pretraining",
@@ -414,7 +433,7 @@
     "date": "2026-07-24",
     "summary": "Designing optimizers for modern deep learning remains a challenging scientific problem, requiring the joint consideration of optimization geometry, state dynamics, numerical stability, implementation ...",
     "category": "tools",
-    "id": 45
+    "id": 47
   },
   {
     "title": "Directional Hallucinations: Ideological Drift in News-Grounded LLM Question Answering",
@@ -423,7 +442,7 @@
     "date": "2026-07-24",
     "summary": "Large language models (LLMs) are increasingly used to answer questions about political information, including in election-adjacent information settings where factual errors and ideological distortions...",
     "category": "models",
-    "id": 46
+    "id": 48
   },
   {
     "title": "Autonomous Topology Mutation: Safe Runtime Restructuring for Multi-Agent LLM Systems with Capability, State, and Shadow Invariants",
@@ -432,7 +451,7 @@
     "date": "2026-07-24",
     "summary": "Multi-agent LLM frameworks typically fix their team topology at boot time. When an individual agent becomes overloaded at runtime, for example by mixing too many action categories, accumulating tool e...",
     "category": "models",
-    "id": 47
+    "id": 49
   },
   {
     "title": "EvoSQL: Memory-Augmented Critic-Generator Co-Evolution for Text-to-SQL",
@@ -441,24 +460,6 @@
     "date": "2026-07-24",
     "summary": "Text-to-SQL has advanced rapidly with large language models, but complex database queries still require reasoning beyond one-shot generation, including multi-step decomposition, execution-based diagno...",
     "category": "models",
-    "id": 48
-  },
-  {
-    "title": "CRAWO: Custom Resources for Adaptive Workload Orchestration",
-    "url": "https://arxiv.org/abs/2607.20490",
-    "source": "arXiv cs.AI",
-    "date": "2026-07-24",
-    "summary": "Edge Intelligence has emerged as a key paradigm for enabling real-time applications in smart cities by shifting computation from centralized cloud data centers to the network edge, thereby reducing la...",
-    "category": "hardware",
-    "id": 49
-  },
-  {
-    "title": "DFAH-Bench: Benchmarking Observable Agent Instability in Financial Decision-Making",
-    "url": "https://arxiv.org/abs/2607.20491",
-    "source": "arXiv cs.AI",
-    "date": "2026-07-24",
-    "summary": "Standard evaluation benchmarks measure what a tool-using agent decides, not whether it arrives at that decision through the same process each time. We introduce DFAH-Bench, a replay benchmark that mea...",
-    "category": "research",
     "id": 50
   }
 ]
