@@ -51,6 +51,16 @@
     "id": 5
   },
   {
+    "title": "Hugging Face CEO calls for ‘radical transparency’ after ‘unprecedented’ OpenAI hack",
+    "url": "https://techcrunch.com/2026/07/26/hugging-face-ceo-calls-for-radical-transparency-after-unprecedented-openai-hack/",
+    "source": "TechCrunch",
+    "date": "2026-07-26",
+    "summary": "\"The first autonomous agent cyberattack is an unprecedented event. It deserves an unprecedented response!\"",
+    "category": "tools",
+    "image": "https://techcrunch.com/wp-content/uploads/2026/07/hugging-face-openai-logos-split-screen.jpg?resize=1200,799",
+    "id": 6
+  },
+  {
     "title": "Monday.com is the latest tech company to blame AI for layoffs — here are 20 others",
     "url": "https://techcrunch.com/2026/07/25/the-running-list-major-tech-layoffs-in-2026-where-employers-cited-ai/",
     "source": "TechCrunch",
@@ -58,36 +68,162 @@
     "summary": "A running look — in reverse chronological order — at the bigger tech companies that have announced significant layoffs this year with AI as a stated factor.",
     "category": "industry",
     "image": "https://techcrunch.com/wp-content/uploads/2026/07/robot-at-desk.png?resize=1200,800",
-    "id": 6
+    "id": 7
+  },
+  {
+    "title": "What Americans Think About the Global AI Race",
+    "url": "https://www.pewresearch.org/short-reads/2026/07/23/what-americans-think-about-the-global-ai-race/",
+    "source": "Hacker News",
+    "date": "2026-07-26",
+    "summary": "Article URL: https://www.pewresearch.org/short-reads/2026/07/23/what-americans-think-about-the-global-ai-race/ Comments URL: https://news.ycombinator.com/item?id=49061089 Points: 1 # Comments: 0",
+    "category": "research",
+    "image": "https://www.pewresearch.org/wp-content/uploads/sites/20/2026/07/SR_26.07.23_ai-leader_featured.png?w=1200&h=628&crop=1",
+    "id": 8
+  },
+  {
+    "title": "Show HN: HART OS – an open-source AI OS built so frontier AI needs no datacenter",
+    "url": "https://github.com/hertz-ai/HARTOS",
+    "source": "Hacker News",
+    "date": "2026-07-26",
+    "summary": "Article URL: https://github.com/hertz-ai/HARTOS Comments URL: https://news.ycombinator.com/item?id=49061015 Points: 3 # Comments: 0",
+    "category": "hardware",
+    "image": "https://opengraph.githubassets.com/cc6bbeb55c5849bf9ceff05c320a3d421dab49f25b1309ffcdd611d85ae0bc26/hertz-ai/HARTOS",
+    "id": 9
+  },
+  {
+    "title": "Show HN: ModelFuzz – Open-source runtime guardrails for AI agents",
+    "url": "https://www.modelfuzz.com/",
+    "source": "Hacker News",
+    "date": "2026-07-26",
+    "summary": "Article URL: https://www.modelfuzz.com/ Comments URL: https://news.ycombinator.com/item?id=49060845 Points: 2 # Comments: 1",
+    "category": "industry",
+    "image": "https://www.modelfuzz.com/og-image.png",
+    "id": 10
+  },
+  {
+    "title": "Narcissism, Machiavellianism, and AI Use",
+    "url": "https://thenextweb.com/news/dark-traits-problematic-ai-use-psychology",
+    "source": "Hacker News",
+    "date": "2026-07-26",
+    "summary": "Article URL: https://thenextweb.com/news/dark-traits-problematic-ai-use-psychology Comments URL: https://news.ycombinator.com/item?id=49060815 Points: 5 # Comments: 0",
+    "category": "industry",
+    "image": "https://media.thenextweb.com/2026/07/Narcissism.avif",
+    "id": 11
+  },
+  {
+    "title": "Show HN: Readability for web and PDFs with TTS and local AI summary",
+    "url": "https://github.com/ldenoue/readability-read-aloud-web-pdf-ai-summary",
+    "source": "Hacker News",
+    "date": "2026-07-26",
+    "summary": "Article URL: https://github.com/ldenoue/readability-read-aloud-web-pdf-ai-summary Comments URL: https://news.ycombinator.com/item?id=49060794 Points: 3 # Comments: 2",
+    "category": "industry",
+    "image": "https://opengraph.githubassets.com/8fc087e0fde26cdf8d9d7b6dbe37aa8e0aff13ce7fffa018ed7f84f42b7bdf69/ldenoue/readability-read-aloud-web-pdf-ai-summary",
+    "id": 12
+  },
+  {
+    "title": "Show HN: An interactive way to exploit an LLM without going to jail",
+    "url": "https://github.com/joshfischer1108/jailbreak-lab",
+    "source": "Hacker News",
+    "date": "2026-07-26",
+    "summary": "Article URL: https://github.com/joshfischer1108/jailbreak-lab Comments URL: https://news.ycombinator.com/item?id=49060776 Points: 2 # Comments: 0",
+    "category": "models",
+    "image": "https://opengraph.githubassets.com/2fd39a2a4a7895d510cc54c375640eb02726b68dd289c2fead61d7f9f1626781/joshfischer1108/jailbreak-lab",
+    "id": 13
+  },
+  {
+    "title": "SP/1.0: deterministic, reproducible verdicts for AI-agent decisions",
+    "url": "https://github.com/Fame510/SHACKLE/blob/master/SP-1.0-SPECIFICATION.md",
+    "source": "Hacker News",
+    "date": "2026-07-26",
+    "summary": "Article URL: https://github.com/Fame510/SHACKLE/blob/master/SP-1.0-SPECIFICATION.md Comments URL: https://news.ycombinator.com/item?id=49060407 Points: 2 # Comments: 0",
+    "category": "industry",
+    "image": "https://repository-images.githubusercontent.com/1265610112/1cfb0078-4831-4fb5-8228-35cffd0384ac",
+    "id": 14
+  },
+  {
+    "title": "Show HN: Boffin – Staff-engineer layer for AI coding agents",
+    "url": "https://github.com/MicSm/boffin",
+    "source": "Hacker News",
+    "date": "2026-07-26",
+    "summary": "Staff-engineer layer for AI coding agents: routes per-edit architectural constraints for AI coding agents Comments URL: https://news.ycombinator.com/item?id=49060279 Points: 15 # Comments: 5",
+    "category": "industry",
+    "image": "https://opengraph.githubassets.com/eeb0dcc46761f5ad3ecd992aef6d25a4411fb4c6b02d4f81bb38c9af93e15033/MicSm/boffin",
+    "id": 15
+  },
+  {
+    "title": "Karen Hao: AI Doesn't Have to Be Built This Way",
+    "url": "https://www.bloomberg.com/features/2026-karen-hao-weekend-interview/",
+    "source": "Hacker News",
+    "date": "2026-07-26",
+    "summary": "Article URL: https://www.bloomberg.com/features/2026-karen-hao-weekend-interview/ Comments URL: https://news.ycombinator.com/item?id=49059995 Points: 5 # Comments: 2",
+    "category": "industry",
+    "id": 16
+  },
+  {
+    "title": "Prompt: The Next AI Challenge Isn't the Model. It's the Organization",
+    "url": "https://aibusiness.com/agentic-ai/next-challenge-scaling-ai",
+    "source": "Hacker News",
+    "date": "2026-07-26",
+    "summary": "Article URL: https://aibusiness.com/agentic-ai/next-challenge-scaling-ai Comments URL: https://news.ycombinator.com/item?id=49059970 Points: 2 # Comments: 1",
+    "category": "industry",
+    "id": 17
+  },
+  {
+    "title": "AI use policy for my essay writing",
+    "url": "https://www.lesswrong.com/posts/tgigHkZoYrJEGe4tP/ai-use-policy-for-my-essay-writing",
+    "source": "Hacker News",
+    "date": "2026-07-26",
+    "summary": "Article URL: https://www.lesswrong.com/posts/tgigHkZoYrJEGe4tP/ai-use-policy-for-my-essay-writing Comments URL: https://news.ycombinator.com/item?id=49059689 Points: 1 # Comments: 0",
+    "category": "industry",
+    "id": 18
+  },
+  {
+    "title": "This July I Was Fired from Simple AI (A Deeply YC Company)",
+    "url": "https://andys.blog/this-july-i-was-fired-from-simple-ai/",
+    "source": "Hacker News",
+    "date": "2026-07-26",
+    "summary": "Article URL: https://andys.blog/this-july-i-was-fired-from-simple-ai/ Comments URL: https://news.ycombinator.com/item?id=49059587 Points: 45 # Comments: 57",
+    "category": "industry",
+    "image": "https://trattner.github.io/img/icon/x-tile.png",
+    "id": 19
+  },
+  {
+    "title": "Ask HN:Anyone know a good AI slop detection service.",
+    "url": "https://news.ycombinator.com/item?id=49059537",
+    "source": "Hacker News",
+    "date": "2026-07-26",
+    "summary": "I tried a couple of those services, not impressed at all. Comments URL: https://news.ycombinator.com/item?id=49059537 Points: 2 # Comments: 0",
+    "category": "industry",
+    "id": 20
   },
   {
     "title": "DROS-VEP – A <1μs C-ABI binary circuit breaker for AI agents",
     "url": "https://github.com/Top-Celestial-Company-Ltd/DROS-VEP-lite",
     "source": "Hacker News",
     "date": "2026-07-26",
-    "summary": "Article URL: https://github.com/Top-Celestial-Company-Ltd/DROS-VEP-lite Comments URL: https://news.ycombinator.com/item?id=49059322 Points: 2 # Comments: 0",
+    "summary": "Article URL: https://github.com/Top-Celestial-Company-Ltd/DROS-VEP-lite Comments URL: https://news.ycombinator.com/item?id=49059322 Points: 3 # Comments: 0",
     "category": "industry",
     "image": "https://opengraph.githubassets.com/e5cea87520df9b4f41ef409fdb922d2156b9711b4ab40bda557ee34afa0c2b5e/Top-Celestial-Company-Ltd/DROS-VEP-lite",
-    "id": 7
+    "id": 21
   },
   {
     "title": "AI agents are eating the Web, growing by 8,000% and rewiring business models",
     "url": "https://fortune.com/2026/07/23/dead-internet-theory-bots-agents-majority-web-traffic/",
     "source": "Hacker News",
     "date": "2026-07-26",
-    "summary": "Article URL: https://fortune.com/2026/07/23/dead-internet-theory-bots-agents-majority-web-traffic/ Comments URL: https://news.ycombinator.com/item?id=49059143 Points: 2 # Comments: 0",
+    "summary": "Article URL: https://fortune.com/2026/07/23/dead-internet-theory-bots-agents-majority-web-traffic/ Comments URL: https://news.ycombinator.com/item?id=49059143 Points: 3 # Comments: 0",
     "category": "industry",
     "image": "https://fortune.com/img-assets/wp-content/uploads/2026/07/GettyImages-2031368235-e1784837395991.jpg?resize=1200,600",
-    "id": 8
+    "id": 22
   },
   {
     "title": "Reviewing AI Code Is Not a Viable Argument",
     "url": "https://www.softwaremaxims.com/blog/reviewing-ai-code",
     "source": "Hacker News",
     "date": "2026-07-26",
-    "summary": "Article URL: https://www.softwaremaxims.com/blog/reviewing-ai-code Comments URL: https://news.ycombinator.com/item?id=49059064 Points: 2 # Comments: 0",
+    "summary": "Article URL: https://www.softwaremaxims.com/blog/reviewing-ai-code Comments URL: https://news.ycombinator.com/item?id=49059064 Points: 4 # Comments: 0",
     "category": "industry",
-    "id": 9
+    "id": 23
   },
   {
     "title": "China considers tighter export controls on AI models and chips",
@@ -96,143 +232,16 @@
     "date": "2026-07-26",
     "summary": "Article URL: https://www.reuters.com/world/asia-pacific/china-considers-tighter-export-controls-ai-models-chips-ft-reports-2026-07-21/ Comments URL: https://news.ycombinator.com/item?id=49059043 Point...",
     "category": "hardware",
-    "id": 10
+    "id": 24
   },
   {
-    "title": "International Olympiad in AI opens an official medal track for AI systems",
+    "title": "AI Scientists will win official olympiad medals at IOAI 2026",
     "url": "https://ioai-official.org/ai-model-track/",
     "source": "Hacker News",
     "date": "2026-07-26",
-    "summary": "Article URL: https://ioai-official.org/ai-model-track/ Comments URL: https://news.ycombinator.com/item?id=49058900 Points: 2 # Comments: 1",
+    "summary": "Article URL: https://ioai-official.org/ai-model-track/ Comments URL: https://news.ycombinator.com/item?id=49058900 Points: 3 # Comments: 1",
     "category": "hardware",
-    "id": 11
-  },
-  {
-    "title": "Show HN: I built a transparent terminal wrapper for unobtrusive AI",
-    "url": "https://github.com/emosenkis/terminai",
-    "source": "Hacker News",
-    "date": "2026-07-26",
-    "summary": "I wanted a way to use my existing AI subscriptions as a terminal assistant to analyze shell output or help me with a complicated awk incantation from time to time without getting in my way the rest of...",
-    "category": "models",
-    "image": "https://opengraph.githubassets.com/77f4c4164cf2eb221770eb9019a2f5c3f34ee7a22258b2aaa8f244bacd85d4c1/emosenkis/terminai",
-    "id": 12
-  },
-  {
-    "title": "Show HN: CMEM – Persistent Memory for AI Coding Agents",
-    "url": "https://cmem.ai",
-    "source": "Hacker News",
-    "date": "2026-07-26",
-    "summary": "Article URL: https://cmem.ai Comments URL: https://news.ycombinator.com/item?id=49058789 Points: 1 # Comments: 0",
-    "category": "hardware",
-    "image": "https://cmem.ai/assets/cmem/og-cmem-logo.png",
-    "id": 13
-  },
-  {
-    "title": "Show HN: OpenSmith – Trace LLM pipelines locally with trace, no cloud",
-    "url": "https://github.com/shivnathtathe/opensmith",
-    "source": "Hacker News",
-    "date": "2026-07-26",
-    "summary": "Article URL: https://github.com/shivnathtathe/opensmith Comments URL: https://news.ycombinator.com/item?id=49058643 Points: 1 # Comments: 1",
-    "category": "models",
-    "image": "https://opengraph.githubassets.com/6fd9337ff78083fe9a2cae5a356d4b31a99e7eb969c4d50ba8bd49442b160956/shivnathtathe/opensmith",
-    "id": 14
-  },
-  {
-    "title": "Hallmark – Anti-AI-Slop Design Skill for Claude Code, Cursor, and Codex",
-    "url": "https://github.com/Nutlope/hallmark",
-    "source": "Hacker News",
-    "date": "2026-07-26",
-    "summary": "Article URL: https://github.com/Nutlope/hallmark Comments URL: https://news.ycombinator.com/item?id=49058547 Points: 4 # Comments: 6",
-    "category": "models",
-    "image": "https://opengraph.githubassets.com/bad9b0a1dca0cb7af9073deb04e553d243d79519f7fccd71530df0da15905419/Nutlope/hallmark",
-    "id": 15
-  },
-  {
-    "title": "MCP Code Review Server – AI code review in your editor",
-    "url": "https://github.com/GoodJobwilliam/aicraft/tree/main/products/mcp-code-review",
-    "source": "Hacker News",
-    "date": "2026-07-26",
-    "summary": "Article URL: https://github.com/GoodJobwilliam/aicraft/tree/main/products/mcp-code-review Comments URL: https://news.ycombinator.com/item?id=49058442 Points: 1 # Comments: 0",
-    "category": "hardware",
-    "image": "https://opengraph.githubassets.com/a24aabf39dc99e4676aeda8d83d60ff908e0347f3ae3e1b3adab41b972ed0a1d/GoodJobwilliam/aicraft",
-    "id": 16
-  },
-  {
-    "title": "Data loss in Claude Code and OpenAI Codex: when AI deletes user files",
-    "url": "https://firasd.substack.com/p/accidental-data-loss-in-claude-code-openai-codex-ai-agent-harness-file-deletion",
-    "source": "Hacker News",
-    "date": "2026-07-26",
-    "summary": "Article URL: https://firasd.substack.com/p/accidental-data-loss-in-claude-code-openai-codex-ai-agent-harness-file-deletion Comments URL: https://news.ycombinator.com/item?id=49058441 Points: 2 # Comme...",
-    "category": "models",
-    "id": 17
-  },
-  {
-    "title": "How to Give Away Your AI Money",
-    "url": "https://also.roybahat.com/how-to-actually-give-away-your-ai-money-01f2c411abde",
-    "source": "Hacker News",
-    "date": "2026-07-26",
-    "summary": "Article URL: https://also.roybahat.com/how-to-actually-give-away-your-ai-money-01f2c411abde Comments URL: https://news.ycombinator.com/item?id=49058298 Points: 1 # Comments: 0",
-    "category": "industry",
-    "image": "https://miro.medium.com/v2/resize:fill:1200:632/g:fp:0.34:0.5/1*gpSisNaBHvRPQgb4CspZvw.png",
-    "id": 18
-  },
-  {
-    "title": "Show HN: I built Gnoseed – free flahscards to learn K8s, DevOps, AI and more",
-    "url": "https://gnoseed.com",
-    "source": "Hacker News",
-    "date": "2026-07-26",
-    "summary": "Hi everybody, I created my personal weekend project Gnoseed to learn more about Kubernetes with spaced repetition. Very soon it evolved into a small library of various topics about modern tech stack -...",
-    "category": "research",
-    "image": "https://gnoseed.com/gnoseed-seo-image.png",
-    "id": 19
-  },
-  {
-    "title": "AI and Human Collaboration via Human Tool Mediated Loop",
-    "url": "https://blog.codesolvent.com/2026/07/ai-human-collaboration-via-human-tool.html",
-    "source": "Hacker News",
-    "date": "2026-07-26",
-    "summary": "Article URL: https://blog.codesolvent.com/2026/07/ai-human-collaboration-via-human-tool.html Comments URL: https://news.ycombinator.com/item?id=49058165 Points: 1 # Comments: 0",
-    "category": "tools",
-    "image": "https://lh3.googleusercontent.com/blogger_img_proxy/AEn0k_toA4hDk3c3QMQIWwogAEjadKm7aGqxy2l_WCFn7YwzzNczJ5gcML-FbiZInLp2wULCYAj9MmY0bbukesqG7k_S4oV4_BdVxvjUZN2XKITpHFlwUw=w1200-h630-n-k-no-nu",
-    "id": 20
-  },
-  {
-    "title": "Deadly storm in Chile disrupts copper mines and raises AI supply concerns",
-    "url": "https://www.ft.com/content/cd0b6148-a9a7-4763-b6d3-bb33e10b9899",
-    "source": "Hacker News",
-    "date": "2026-07-26",
-    "summary": "Article URL: https://www.ft.com/content/cd0b6148-a9a7-4763-b6d3-bb33e10b9899 Comments URL: https://news.ycombinator.com/item?id=49058109 Points: 3 # Comments: 0",
-    "category": "industry",
-    "id": 21
-  },
-  {
-    "title": "Should AI Take the Wheel? (2025)",
-    "url": "https://www.lepekhin.com/2025/03/24/Should-AI-Take-the-Wheel",
-    "source": "Hacker News",
-    "date": "2026-07-26",
-    "summary": "Article URL: https://www.lepekhin.com/2025/03/24/Should-AI-Take-the-Wheel Comments URL: https://news.ycombinator.com/item?id=49058059 Points: 1 # Comments: 1",
-    "category": "industry",
-    "id": 22
-  },
-  {
-    "title": "Avoiding AI Debt with the A3 Delegation System",
-    "url": "https://age-of-product.com/a3-delegation-system-agile-artifacts/",
-    "source": "Hacker News",
-    "date": "2026-07-26",
-    "summary": "Article URL: https://age-of-product.com/a3-delegation-system-agile-artifacts/ Comments URL: https://news.ycombinator.com/item?id=49058047 Points: 1 # Comments: 0",
-    "category": "industry",
-    "image": "https://age-of-product.com/wp-content/uploads/a3-delegation-system-to-avoid-ai-debt-age-of-product-com-1200x630-cropped.jpg",
-    "id": 23
-  },
-  {
-    "title": "Show HN: Health context/timeline builder for AI (mobile app)",
-    "url": "https://apps.apple.com/us/app/kurozu-ai-health-context/id6788347862",
-    "source": "Hacker News",
-    "date": "2026-07-26",
-    "summary": "Working on a mobile app for making reusable AI-ready health context - Simply a timeline of events/facts - Events are natural language, with fuzzy dates - Simple Apple Health insight extraction - Expor...",
-    "category": "industry",
-    "image": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/cb/09/c3/cb09c3a0-811e-b909-7650-09658fc1f8dc/Placeholder.mill/1200x630wa.jpg",
-    "id": 24
+    "id": 25
   },
   {
     "title": "OpenAI agent goes rogue and hacks popular AI community — left escape plans for future models inside the company's infrastructure",
@@ -242,7 +251,7 @@
     "summary": "OpenAI tests multiple autonomous AI agents at once and has difficulty identifying the threats each of them represents, if a new report from Reuters is accurate.",
     "category": "industry",
     "image": "https://cdn.mos.cms.futurecdn.net/G7BaZjAqNWQWRRqpKKv8QG-1280-80.jpg",
-    "id": 25
+    "id": 26
   },
   {
     "title": "'RAM Machine' case probably costs more than the entire build — Nvidia RTX 5060, Core Ultra 5 CPU, and 32GB DDR5-8200 RAM are hiding inside",
@@ -252,7 +261,7 @@
     "summary": "A Redditor is giving away an RTX 5060 gaming PC that's covered by RAM on the outside and has 32GB of RAM on the inside. You can join the sweepstakes simply by leaving a comment on the post.",
     "category": "hardware",
     "image": "https://cdn.mos.cms.futurecdn.net/6HnMBrG6vPR3EXQ7mBZWy6-1280-80.png",
-    "id": 26
+    "id": 27
   },
   {
     "title": "Grab an Nvidia RTX 5060 Ti gaming PC with Core Ultra 7 CPU and 32GB RAM for under $1,200 — Thermaltake's View u2660T-170 slashed by 33%",
@@ -262,7 +271,7 @@
     "summary": "Thermaltake has a no-brainer deal up on Woot right now where it'll let you have an $1,800 PC for as little as 1,177. For that price, you're getting an RTX 5060 Ti (8GB), a Core Ultra 7 265KF, 32GB of ...",
     "category": "hardware",
     "image": "https://cdn.mos.cms.futurecdn.net/YCD6vXEaxZmUtf4U2bhHSY-1280-80.png",
-    "id": 27
+    "id": 28
   },
   {
     "title": "Nvidia and SK Group enter $500 billion AI partnership — plan to supercharge AI infrastructure with next-gen memory and massive AI factories",
@@ -272,7 +281,7 @@
     "summary": "Nvidia and SK Group enter $500 billion strategic partnership focused on long-term memory supply, 2 GW AI data center, and future AI infrastructure",
     "category": "hardware",
     "image": "https://cdn.mos.cms.futurecdn.net/ibEpXbFzhNegj42rkqPzgZ-1280-80.jpg",
-    "id": 28
+    "id": 29
   },
   {
     "title": "Game Compressor can save you hundreds of GB across your game library — as storage prices remain high, utility leverages Windows' built-in LZX compression for substantial space savings",
@@ -282,7 +291,7 @@
     "summary": "Game Compressor leverages Windows' built-in LZX compression for substantial space savings and can save you hundreds of gigs across your game library.",
     "category": "research",
     "image": "https://cdn.mos.cms.futurecdn.net/Sa3JjkGH2ibKFh5khdocHo-1280-80.png",
-    "id": 29
+    "id": 30
   },
   {
     "title": "One fallen power line exposed a growing AI data center problem. Here’s how to fix it.",
@@ -292,7 +301,7 @@
     "summary": "A close call in Northern Virginia revealed just how poorly data centers respond to grid disruptions. Here's how to fix the problem.",
     "category": "hardware",
     "image": "https://techcrunch.com/wp-content/uploads/2024/12/Energy-sector-Getty.jpg?resize=1200,801",
-    "id": 30
+    "id": 31
   },
   {
     "title": "I tried out OpenAI’s new AI keypad — which will be fun for some coders and slightly mystifying to everyone else",
@@ -302,7 +311,7 @@
     "summary": "OpenAI's fancy new AI keypad will be a lot of fun for some, while many others are probably not going to touch it.",
     "category": "industry",
     "image": "https://techcrunch.com/wp-content/uploads/2026/07/Micro.webp?resize=1200,800",
-    "id": 31
+    "id": 32
   },
   {
     "title": "The OpenAI Models That Hacked Hugging Face Were ‘Active on the Internet’ for Days",
@@ -312,7 +321,7 @@
     "summary": "Plus: Russian hackers are trying to steal US nuclear scientists’ emails, the State Department bans known scammers from entering the United States, and more.",
     "category": "tools",
     "image": "https://media.wired.com/photos/6a639d3adc5893971a3d0afd/191:100/w_1280,c_limit/GettyImages-2278950606.jpg",
-    "id": 32
+    "id": 33
   },
   {
     "title": "At AI Summit, South Korea Outlines Its AI Future With NVIDIA and Partners",
@@ -322,7 +331,7 @@
     "summary": "At this week’s AI Summit in San Francisco, South Korean President Jae Myung Lee and some of the country’s top business leaders and researchers are meeting with NVIDIA and ecosystem partners to chart K...",
     "category": "hardware",
     "image": "https://blogs.nvidia.com/wp-content/uploads/2026/07/nvidia-korea-ai-1920x1080-1.png",
-    "id": 33
+    "id": 34
   },
   {
     "title": "Nvidia and 24 other companies sign open-weights letter as Washington weighs Chinese AI model ban — OpenAI, Anthropic, and Google absent from the list",
@@ -332,7 +341,7 @@
     "summary": "Signatories include chipmakers, server vendors, cloud operators, enterprise software firms, security companies, and venture funds",
     "category": "hardware",
     "image": "https://cdn.mos.cms.futurecdn.net/Hdv8mZ6kFHJcQnFcDeqwqR-1280-80.jpg",
-    "id": 34
+    "id": 35
   },
   {
     "title": "Intel commits to 14A mass production in 2028 as its sales rise 25% year-over-year",
@@ -342,7 +351,7 @@
     "summary": "Intel posts 25% higher year-over-year sales and above-the-guidance earnings, and confirms that its 14A technology is on-track to start high volume ramp in 2028.",
     "category": "hardware",
     "image": "https://cdn.mos.cms.futurecdn.net/KiJGR8WJv72p6G8Qcysneb-1280-80.jpg",
-    "id": 35
+    "id": 36
   },
   {
     "title": "Geekom A9 Max 2026 review: Gorgon Point in a compact Mini PC",
@@ -352,7 +361,7 @@
     "summary": "Mini PC specialist Geekom has updated its A9 Max design with AMD’s latest mobile silicon. The incremental improvements of the AMD Ryzen AI 9 HX470 are supported by a revamped Ice Blast 3.0 cooling sol...",
     "category": "hardware",
     "image": "https://cdn.mos.cms.futurecdn.net/z35K3byjsP6G8JjC4FxAQU-1280-80.jpg",
-    "id": 36
+    "id": 37
   },
   {
     "title": "OpenAI's HuggingFace breach heralds an unprecedented age of AI cyber warfare — contemporary LLMs have caused massive upheaval in cybersecurity, and it's only going to get worse",
@@ -362,7 +371,7 @@
     "summary": "Contemporary AI bots are far too competent at cybersecurity, and humanity may have reached a tipping point where it's hard to keep up.",
     "category": "models",
     "image": "https://cdn.mos.cms.futurecdn.net/kPxCHxxwzziH8ZDLc52RCX-1280-80.jpg",
-    "id": 37
+    "id": 38
   },
   {
     "title": "AMD working on new X3D V-cache mobile chip for gaming laptops, leaker claims — Ryzen 7 9800HX3D could launch with 8 cores, 16 threads, and 96MB cache",
@@ -372,7 +381,7 @@
     "summary": "A fresh leak suggests AMD is preparing an 8-core, 16-thread Zen 5 mobile processor with 96MB of L3 cache, potentially bringing the desktop Ryzen 7 9800X3D experience to gaming laptops.",
     "category": "hardware",
     "image": "https://cdn.mos.cms.futurecdn.net/f8AyhDNXnTrbqs3gb8DMMF-1280-80.jpg",
-    "id": 38
+    "id": 39
   },
   {
     "title": "South Korean memory giants Samsung and SK Hynix are set to announce massive deals with leading U.S. tech firms, report claims — Korean president arrives in Silicon Valley for meetings and high-profile AI summit",
@@ -382,7 +391,7 @@
     "summary": "Samsung and SK Hynix are expected to unveil multibillion-dollar memory-chip partnerships with major U.S. technology companies during South Korean President Lee Jae Myung’s visit to San Francisco",
     "category": "hardware",
     "image": "https://cdn.mos.cms.futurecdn.net/LpTR47Bpqx3T8yBbi3Ztoh-1280-80.jpg",
-    "id": 39
+    "id": 40
   },
   {
     "title": "AMD exec was ‘very happy’ to see Nvidia‘s Vera performance results – ‘I actually thought we were beating them by smaller numbers’",
@@ -392,7 +401,7 @@
     "summary": "Nvidia took the first stab with its Vera results earlier this week, and now AMD is biting back with SPEC results for its Zen 6 ‘Venice’ CPUs, as well.",
     "category": "hardware",
     "image": "https://cdn.mos.cms.futurecdn.net/GgKtqC6WfyG7GUmJoH4H7o-1280-80.jpg",
-    "id": 40
+    "id": 41
   },
   {
     "title": "OpenAI took ten days to tell Hugging Face its models were behind the July 11 weekend hack, report claims — rogue AI agents reportedly active on the open Internet for several days",
@@ -402,7 +411,7 @@
     "summary": "OpenAI confirmed to Hugging Face only this week that models it was testing carried out the July 11 attack on the AI platform's production infrastructure.",
     "category": "tools",
     "image": "https://cdn.mos.cms.futurecdn.net/32WYcyu4rFmvpTh9AxGNmD-1280-80.jpg",
-    "id": 41
+    "id": 42
   },
   {
     "title": "President Trump expands AI data center ‘ratepayer protection pledge’ to include state governors and utility companies — White House claims this will make electricity more affordable",
@@ -412,7 +421,7 @@
     "summary": "U.S. President Donald Trump expands the 'ratepayer protection pledge' to include states, utility companies, and data center developers. He claims that the pledge will help electricity costs go down, e...",
     "category": "hardware",
     "image": "https://cdn.mos.cms.futurecdn.net/fCxnrqrg8tExrom6XgEARX-1280-80.png",
-    "id": 42
+    "id": 43
   },
   {
     "title": "AMD confirmed $5.4 billion ATI acquisition 20 years ago today — deal to 'reinvent our industry' paved the way for Radeon GPU innovation, APUs, and games console domination",
@@ -422,7 +431,7 @@
     "summary": "On this day in 2006, AMD confirmed its acquisition of graphics chip firm ATI. AMD stumped up a cash-and-stock deal worth a total of $5.4B for the Canadian PC graphics innovators.",
     "category": "hardware",
     "image": "https://cdn.mos.cms.futurecdn.net/vz8mVNd5YzgtY3APMJukfP-1280-80.jpg",
-    "id": 43
+    "id": 44
   },
   {
     "title": "AMD reveals CPU architecture roadmap through 2028, following Zen 6 'Venice' launch — Zen 7 'Florence' to debut in 2028 alongside diversified product family, confirms Zen 8 'Ravenna' in development",
@@ -432,7 +441,7 @@
     "summary": "AMD's Lisa Su shows off the company's roadmap through 2030, including teases of Zen 7 and Zen 8 CPUs.",
     "category": "hardware",
     "image": "https://cdn.mos.cms.futurecdn.net/b6AWuqaDHTv9ZS4ZpfqZNV-1280-80.png",
-    "id": 44
+    "id": 45
   },
   {
     "title": "Prentis, new AI lab co-founded by Reid Hoffman, Mark Pincus in talks to raise $100M",
@@ -442,7 +451,7 @@
     "summary": "The neolab is betting that automating routine computer tasks will soon outpace coding as AI's biggest use case.",
     "category": "industry",
     "image": "https://techcrunch.com/wp-content/uploads/2024/11/GettyImages-1258942056.jpg?resize=1200,799",
-    "id": 45
+    "id": 46
   },
   {
     "title": "Why Cognition bought Poke: AI personality is becoming a competitive advantage",
@@ -452,7 +461,7 @@
     "summary": "The acquisition brings Poke’s conversational style and interaction model to Cognition’s coding agent Devin, reflecting a growing belief that how AI assistants interact with users is as important as th...",
     "category": "industry",
     "image": "https://techcrunch.com/wp-content/uploads/2026/04/Poke-at-3.56.23-PM.jpg?resize=1200,610",
-    "id": 46
+    "id": 47
   },
   {
     "title": "Anthropic launches Opus 5",
@@ -462,7 +471,7 @@
     "summary": "Opus 5 will be both cheaper and less restrictive than Fable, likely making it preferable in most use cases.",
     "category": "models",
     "image": "https://techcrunch.com/wp-content/uploads/2026/07/Screenshot-2026-07-24-at-12.47.38-PM.jpg?w=1166",
-    "id": 47
+    "id": 48
   },
   {
     "title": "As US weighs response to Chinese AI, industry urges against broad open-weight restrictions",
@@ -472,7 +481,7 @@
     "summary": "AI companies, including Nvidia and Mistral, urge policymakers to avoid broad restrictions on open-weight AI models as Washington debates responses to Chinese AI and alleged model distillation.",
     "category": "models",
     "image": "https://techcrunch.com/wp-content/uploads/2025/03/GettyImages-2205211212-1.jpg?resize=1200,800",
-    "id": 48
+    "id": 49
   },
   {
     "title": "Bluesky’s AI assistant Attie expands into an open social research tool",
@@ -482,16 +491,6 @@
     "summary": "Users can now ask Attie questions about news, trends, and conversations on Bluesky and other apps on the AT Protocol.",
     "category": "research",
     "image": "https://techcrunch.com/wp-content/uploads/2026/07/attie-logo.webp?w=1200",
-    "id": 49
-  },
-  {
-    "title": "Midjourney acquired the astrology app Co-Star",
-    "url": "https://techcrunch.com/2026/07/24/midjourney-acquired-the-astrology-app-co-star/",
-    "source": "TechCrunch",
-    "date": "2026-07-24",
-    "summary": "The AI lab Midjourney continues to expand its purview beyond image and video generation.",
-    "category": "industry",
-    "image": "https://techcrunch.com/wp-content/uploads/2026/07/GettyImages-149418827.jpg?resize=1200,837",
     "id": 50
   }
 ]
