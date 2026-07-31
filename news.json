@@ -1,23 +1,14 @@
 [
   {
-    "title": "Big tech spends more than $1 trillion on AI infrastructure — additional $745 billion expected to be added to the figure in 2026 alone",
-    "url": "https://www.tomshardware.com/tech-industry/big-tech/big-tech-spends-more-than-usd1-trillion-on-ai-infrastructure-additional-usd745-billion-expected-to-be-added-to-the-figure-in-2026-alone",
-    "source": "Tom's Hardware",
+    "title": "Claude published malicious code to the Internet and attacked 3 real companies",
+    "url": "https://arstechnica.com/security/2026/07/likely-illegally-claude-gained-access-to-3-networks-will-anthropic-be-held-to-account/",
+    "source": "Ars Technica",
     "date": "2026-07-31",
-    "summary": "Amazon, Google, Meta, and Microsoft have collectively spent more than $1 trillion on AI investments since the rush started in 2023. However, the big four are planning to spend more on AI CAPEX, with b...",
-    "category": "industry",
-    "image": "https://cdn.mos.cms.futurecdn.net/8q7pqQ9jbcKJsrQtT9jUBT-1280-80.png",
+    "summary": "Had the hacks used conventional methods, someone would likely go to prison.",
+    "category": "models",
+    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/07/robot-in-handcuffs-1152x648.jpg",
     "id": 1,
     "featured": true
-  },
-  {
-    "title": "Advancing responsible AI across Europe",
-    "url": "https://openai.com/index/advancing-responsible-ai-across-europe",
-    "source": "OpenAI Blog",
-    "date": "2026-07-31",
-    "summary": "OpenAI shares how its safety, security, transparency, and provenance practices support responsible AI governance in Europe. The work will continue as the EU AI Act advances.",
-    "category": "research",
-    "id": 2
   },
   {
     "title": "Building abundant intelligence",
@@ -26,7 +17,7 @@
     "date": "2026-07-31",
     "summary": "A full-stack approach to making advanced AI more capable, more affordable, and more widely useful.",
     "category": "hardware",
-    "id": 3
+    "id": 2
   },
   {
     "title": "Univé builds an AI-ready workforce",
@@ -35,16 +26,35 @@
     "date": "2026-07-31",
     "summary": "See how Univé built an AI-ready workforce with ChatGPT Enterprise by combining leadership, responsible governance, and employee-led innovation to transform work at scale.",
     "category": "models",
-    "id": 4
+    "id": 3
   },
   {
     "title": "Disrupting a Criminal Scam Operation",
     "url": "https://openai.com/index/disrupting-malicious-uses-of-ai-criminal-scam-operation",
     "source": "OpenAI Blog",
-    "date": "2026-08-04",
+    "date": "2026-07-31",
     "summary": "OpenAI disrupted a Cambodia-based scam operation using ChatGPT to support investment, romance, gambling, and impersonation schemes.",
     "category": "models",
+    "id": 4
+  },
+  {
+    "title": "Advancing responsible AI across Europe",
+    "url": "https://openai.com/index/advancing-responsible-ai-across-europe",
+    "source": "OpenAI Blog",
+    "date": "2026-07-31",
+    "summary": "OpenAI shares how its safety, security, transparency, and provenance practices support responsible AI governance in Europe. The work will continue as the EU AI Act advances.",
+    "category": "research",
     "id": 5
+  },
+  {
+    "title": "Big tech spends more than $1 trillion on AI infrastructure — additional $745 billion expected to be added to the figure in 2026 alone",
+    "url": "https://www.tomshardware.com/tech-industry/big-tech/big-tech-spends-more-than-usd1-trillion-on-ai-infrastructure-additional-usd745-billion-expected-to-be-added-to-the-figure-in-2026-alone",
+    "source": "Tom's Hardware",
+    "date": "2026-07-31",
+    "summary": "Amazon, Google, Meta, and Microsoft have collectively spent more than $1 trillion on AI investments since the rush started in 2023. However, the big four are planning to spend more on AI CAPEX, with b...",
+    "category": "industry",
+    "image": "https://cdn.mos.cms.futurecdn.net/8q7pqQ9jbcKJsrQtT9jUBT-1280-80.png",
+    "id": 6
   },
   {
     "title": "30 years of CPUs at Tom’s Hardware — looking back on three decades of processors, from the Pentium II to Ryzen 9 9950X3D2",
@@ -54,7 +64,7 @@
     "summary": "Tom’s Hardware has been covering CPUs for 30 years, and to celebrate, we’re looking back on the last three decades of CPU reviews and how the dynamics between Intel and AMD have shifted in that time.",
     "category": "hardware",
     "image": "https://cdn.mos.cms.futurecdn.net/BE3Vh87CAywNp3czX6dQ7B-1280-80.jpg",
-    "id": 6
+    "id": 7
   },
   {
     "title": "Apple CEO Tim Cook says the company is fighting 'a hundred-year flood' on memory pricing — expects to pay even more for memory in September following recent price hikes",
@@ -64,7 +74,7 @@
     "summary": "Apple will pay even more for memory in the September quarter than it did in the June quarter, CEO Tim Cook told analysts on the company's earnings call.",
     "category": "hardware",
     "image": "https://cdn.mos.cms.futurecdn.net/8XSAZ6pdxjopuA2MrsvENQ-1280-80.jpg",
-    "id": 7
+    "id": 8
   },
   {
     "title": "Beat the AI price surge on PC hardware — leverage Newegg combo deals, track Amazon prices, and shop refurb outlets like Woot",
@@ -74,7 +84,7 @@
     "summary": "With prices skyrocketing, it’s more important than ever to follow these guidelines to help you find great deals on PC hardware.",
     "category": "hardware",
     "image": "https://cdn.mos.cms.futurecdn.net/nB35huSw9Z32UsHeSkreN3-1280-80.jpg",
-    "id": 8
+    "id": 9
   },
   {
     "title": "Lumentum CEO warns of impending bottleneck on critical material used for silicon photonics  — fab and material shortfall already lags 30% below customer needs as co-packaged optics demand skyrockets",
@@ -84,7 +94,7 @@
     "summary": "Lumentum CEO Michael Hurlston told an audience at the RAISE Summit that indium phosphide is heading into a squeeze worse than the one in memory.",
     "category": "hardware",
     "image": "https://cdn.mos.cms.futurecdn.net/ibEpXbFzhNegj42rkqPzgZ-1280-80.jpg",
-    "id": 9
+    "id": 10
   },
   {
     "title": "Valve funding port of Linux RADV Radeon Vulkan driver to Windows — cross-platform effort already runs 'Counter-Strike 2'",
@@ -94,7 +104,7 @@
     "summary": "Valve funding port of Linux RADV Radeon Vulkan driver to Windows — cross-platform effort already runs Counter-Strike 2",
     "category": "tools",
     "image": "https://cdn.mos.cms.futurecdn.net/d9sMHtzKwoKRrKJSznzoAT-1280-80.jpg",
-    "id": 10
+    "id": 11
   },
   {
     "title": "Setting up OpenClaw isn’t as straightforward as the internet wants you to think – running local AI on humble hardware",
@@ -104,7 +114,7 @@
     "summary": "How realistic is it to run a local AI model and have it automate tasks for you using hardware that doesn’t cost the Earth? We gave it a shot with a Gorgon Point-powered Mini PC, with mixed results.",
     "category": "industry",
     "image": "https://cdn.mos.cms.futurecdn.net/WZEQZhhmWUU6DvnnYh7p9G-1280-80.png",
-    "id": 11
+    "id": 12
   },
   {
     "title": "New open source printer has 7 toolheads that swap in 5 seconds for fast, zero-waste multi-color 3D printing — Sovol M1D 3D printer is the first open-source IDEX design with an integrated tool-changer",
@@ -114,7 +124,7 @@
     "summary": "Sovol M1D 3D printer is the first open-source IDEX design with an integrated tool-changer — seven heads for quick-swapping materials with two fully independent nozzles, with 300x300x350mm print volume...",
     "category": "tools",
     "image": "https://cdn.mos.cms.futurecdn.net/5fME9aGE3UvfdjaMqcYTzf-1280-80.png",
-    "id": 12
+    "id": 13
   },
   {
     "title": "Single-DIMM DDR5 gaming works better than you probably think — one DDR5 DIMM beats dual-channel DDR4 RAM, AMD's 3D V-Cache chips drop less than 3% with single stick",
@@ -124,7 +134,7 @@
     "summary": "To avoid rising RAM costs, some PC builders and OEMs have shifted toward using a single DDR5 module for gaming PCs. We test how much of a performance loss that actually represents.",
     "category": "hardware",
     "image": "https://cdn.mos.cms.futurecdn.net/AB9Ms6eJKvqs9YfWhb4D4f-1280-80.png",
-    "id": 13
+    "id": 14
   },
   {
     "title": "AMD's new Radeon RX 9050 is roughly 30% slower than the RTX 5050 in games, early testing shows — the cheapest 8GB RDNA 4 GPU comfortably handles 1080p gaming but doesn't impress",
@@ -134,7 +144,7 @@
     "summary": "The RX 9050 is slower than the RTX 5050 in every conceivable way except when the latter is constrained in some way. It performs worse in synthetic benchmarks and games but has more efficient power con...",
     "category": "hardware",
     "image": "https://cdn.mos.cms.futurecdn.net/e3aZ4gaUfwqRCa2fRXdMEC-1280-80.png",
-    "id": 14
+    "id": 15
   },
   {
     "title": "MSI promises an EXPO ULL-like boost for your existing DDR5 memory — High-Efficiency Mode brings low-latency tuning to older RAM",
@@ -144,7 +154,7 @@
     "summary": "A new firmware update for MSI motherboards features High-Efficiency Mode, which offers latency tuning similar to AMD's EXPO ULL on regular memory kits.",
     "category": "hardware",
     "image": "https://cdn.mos.cms.futurecdn.net/oYf3Dku7drE8HbPSz8Ko3F-1280-80.jpg",
-    "id": 15
+    "id": 16
   },
   {
     "title": "Save $900 on this RTX 5070 gaming PC from MSI in this limited-time Woot deal, now $1,399 — grab a huge saving on this Codex R2 rig with a 10-core Intel CPU, 32GB DDR5, and a 1TB SSD",
@@ -154,7 +164,7 @@
     "summary": "This MSI Codex R2 gaming PC is on sale at Woot for $1,399.99 right now, delivering you a rig with a 10-core Intel Core i5-14400F, Nvidia GeForce RTX 5070, 32GB of DDR5 RAM, and a 1TB SSD.",
     "category": "hardware",
     "image": "https://cdn.mos.cms.futurecdn.net/bX5euheCUQjX5myM75Lq5B-1280-80.png",
-    "id": 16
+    "id": 17
   },
   {
     "title": "If You Own a 3D Printer, You Absolutely Need to Try Hi3D",
@@ -164,7 +174,7 @@
     "summary": "Let AI Handle Every Tedious Slicing Step in One Click",
     "category": "industry",
     "image": "https://cdn.mos.cms.futurecdn.net/SXUNdwDjVqpYgFhDksUbn5-1280-80.png",
-    "id": 17
+    "id": 18
   },
   {
     "title": "Startup plans to put nuclear-powered data centers in the sea — modular units could be much faster to deploy, but questions about reliability and longevity remain",
@@ -174,7 +184,27 @@
     "summary": "Atomarine wants to put data centers on modular barges for ocean-based deployments. The firm says these can be powered by LNG-powered ships and seamlessly swap to ship-based SMRs when they become avail...",
     "category": "hardware",
     "image": "https://cdn.mos.cms.futurecdn.net/X42FQK7y2fDXhn4Mg3NVzJ-1280-80.png",
-    "id": 18
+    "id": 19
+  },
+  {
+    "title": "India is starting to pay for apps, not just download them",
+    "url": "https://techcrunch.com/2026/07/31/india-is-starting-to-pay-for-apps-not-just-download-them/",
+    "source": "TechCrunch",
+    "date": "2026-07-31",
+    "summary": "India's app market generated a record $345 million in Q2.",
+    "category": "industry",
+    "image": "https://techcrunch.com/wp-content/uploads/2023/10/india-internet-users-getty.jpg?w=1200",
+    "id": 20
+  },
+  {
+    "title": "Google nixes its Earth AI feature one day after launch, amid criticism it would spread misinformation",
+    "url": "https://techcrunch.com/2026/07/31/google-nixes-its-earth-ai-feature-one-day-after-launch-amid-criticism-it-would-spread-misinformation/",
+    "source": "TechCrunch",
+    "date": "2026-07-31",
+    "summary": "A tool that allowed anyone to generate fake AI-generated imagery and superimpose it over real Google Earth maps quickly spurred backlash.",
+    "category": "tools",
+    "image": "https://techcrunch.com/wp-content/uploads/2026/07/Screenshot-2026-07-31-at-12.31.10-PM.png?resize=1200,670",
+    "id": 21
   },
   {
     "title": "Sam Altman isn’t the only one who wants to pump the brakes on AI",
@@ -184,7 +214,7 @@
     "summary": "After years of pushing full speed ahead on AI, OpenAI CEO Sam Altman says maybe it’s time for the AI industry to “pace” itself. The comments came just days after one of OpenAI’s own models broke out o...",
     "category": "tools",
     "image": "https://techcrunch.com/wp-content/uploads/2026/07/OpenAI-logo-in-Seoul.jpg?w=1024",
-    "id": 19
+    "id": 22
   },
   {
     "title": "Snapchat no longer rewards fully AI-generated Spotlight content",
@@ -194,7 +224,7 @@
     "summary": "Snapchat has adjusted its recommendation systems to ensure that only videos created by real people are eligible for Spotlight recommendations, taking a stance against AI slop.",
     "category": "industry",
     "image": "https://techcrunch.com/wp-content/uploads/2024/06/snapchat-getty.jpg?w=1200",
-    "id": 20
+    "id": 23
   },
   {
     "title": "Siri AI could come with a paywall for power users",
@@ -204,7 +234,7 @@
     "summary": "Apple CEO Tim Cook envisions users being able to buy more compute for Siri AI via Apple's existing iCloud+ subscriptions.",
     "category": "industry",
     "image": "https://techcrunch.com/wp-content/uploads/2026/06/Screenshot-2026-06-08-at-1.42.13-PM.png?w=808",
-    "id": 21
+    "id": 24
   },
   {
     "title": "Smallest.ai raises $13M to build ultra-fast voice AI that sounds genuinely human",
@@ -214,7 +244,7 @@
     "summary": "The startup is building voice models designed to make AI phone calls pass the Turing test.",
     "category": "industry",
     "image": "https://techcrunch.com/wp-content/uploads/2026/07/Smallest-AI-Founders.jpg?resize=1200,927",
-    "id": 22
+    "id": 25
   },
   {
     "title": "AI labs want to pump the brakes, but Amazon and SpaceX are still blasting off",
@@ -224,7 +254,7 @@
     "summary": "After years of pushing full speed ahead on AI, OpenAI CEO Sam Altman says maybe it’s time for the AI industry to “pace” itself. The comments came just days after one of OpenAI’s own models broke out o...",
     "category": "tools",
     "image": "https://techcrunch.com/wp-content/uploads/2025/02/GettyImages-2198164456.jpg?resize=1200,801",
-    "id": 23
+    "id": 26
   },
   {
     "title": "Anthropic says its own AI models breached three companies during security tests",
@@ -234,200 +264,200 @@
     "summary": "After OpenAI's models broke into Hugging Face, Anthropic checked its own history and found three similar incidents.",
     "category": "tools",
     "image": "https://techcrunch.com/wp-content/uploads/2026/06/GettyImages-2278736523.jpeg?resize=1200,798",
-    "id": 24
-  },
-  {
-    "title": "MCP is going stateless: What the new spec means for AI agents",
-    "url": "https://newrelic.com/blog/ai/mcp-is-going-stateless",
-    "source": "Hacker News",
-    "date": "2026-07-31",
-    "summary": "Article URL: https://newrelic.com/blog/ai/mcp-is-going-stateless Comments URL: https://news.ycombinator.com/item?id=49127559 Points: 1 # Comments: 0",
-    "category": "industry",
-    "image": "https://newrelic.com/sites/default/files/styles/og_image/public/2026-07/NewRelic_Brand_Imagery_Enhanced_00032.png?h=7afb1587&itok=fvx35F2V",
-    "id": 25
-  },
-  {
-    "title": "AI Dominates the Microsoft Conversation, but Not the Company's Business",
-    "url": "https://www.nextplatform.com/cloud/2026/07/31/ai-dominates-the-microsoft-conversation-but-not-the-companys-business/5281992",
-    "source": "Hacker News",
-    "date": "2026-07-31",
-    "summary": "Article URL: https://www.nextplatform.com/cloud/2026/07/31/ai-dominates-the-microsoft-conversation-but-not-the-companys-business/5281992 Comments URL: https://news.ycombinator.com/item?id=49127557 Poi...",
-    "category": "tools",
-    "image": "https://image.nextplatform.com/4092396.jpg?imageId=4092396&x=0&y=0&cropw=100&croph=100&panox=0&panoy=0&panow=100&panoh=100&width=1200&height=683",
-    "id": 26
-  },
-  {
-    "title": "Claude vs. ChatGPT: Which AI Security Incident Was Worse",
-    "url": "https://industrycontents.com/claude-vs-chatgpt-ai-security-incident-worse/",
-    "source": "Hacker News",
-    "date": "2026-07-31",
-    "summary": "Article URL: https://industrycontents.com/claude-vs-chatgpt-ai-security-incident-worse/ Comments URL: https://news.ycombinator.com/item?id=49127551 Points: 1 # Comments: 0",
-    "category": "models",
-    "image": "https://i0.wp.com/industrycontents.com/wp-content/uploads/2026/07/aww-1.jpg",
     "id": 27
   },
   {
-    "title": "AI firms must answer for rogue bots, says boss of hacked company",
-    "url": "https://www.bbc.co.uk/news/articles/cr7k49xjzzeo",
+    "title": "The Obligatory AI Post",
+    "url": "https://lapcatsoftware.com/articles/2026/7/15.html",
     "source": "Hacker News",
     "date": "2026-07-31",
-    "summary": "Article URL: https://www.bbc.co.uk/news/articles/cr7k49xjzzeo Comments URL: https://news.ycombinator.com/item?id=49127520 Points: 2 # Comments: 0",
+    "summary": "Article URL: https://lapcatsoftware.com/articles/2026/7/15.html Comments URL: https://news.ycombinator.com/item?id=49128971 Points: 1 # Comments: 0",
     "category": "industry",
-    "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/9b89/live/5e05acf0-8d01-11f1-9a29-416a24547568.jpg",
     "id": 28
   },
   {
-    "title": "Would you get tattooed just to interview at a 7-days-a-week AI startup?",
-    "url": "https://arstechnica.com/culture/2026/07/ai-startup-admits-tattoo-for-interview-stunt-was-reckless/",
+    "title": "AI in the Classroom, Part 3: Where It Earns Its Place",
+    "url": "https://forta.com/blog/ai-in-the-classroom-part-3-where-it-actually-earns-its-place",
     "source": "Hacker News",
     "date": "2026-07-31",
-    "summary": "Article URL: https://arstechnica.com/culture/2026/07/ai-startup-admits-tattoo-for-interview-stunt-was-reckless/ Comments URL: https://news.ycombinator.com/item?id=49127469 Points: 2 # Comments: 0",
+    "summary": "Article URL: https://forta.com/blog/ai-in-the-classroom-part-3-where-it-actually-earns-its-place Comments URL: https://news.ycombinator.com/item?id=49128928 Points: 2 # Comments: 0",
     "category": "industry",
-    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/07/GettyImages-2277100086-1152x648.jpg",
+    "image": "https://assets.forta.com/images/about/BenForta_C4.jpg",
     "id": 29
   },
   {
-    "title": "World Models Are AI's Next Frontier",
-    "url": "https://time.com/article/2026/07/15/world-models-are-ai-s-next-frontier/",
+    "title": "Start at the end: learning full stack development with AI",
+    "url": "https://geosona.com/software/2026/07/31/start-at-the-end/",
     "source": "Hacker News",
     "date": "2026-07-31",
-    "summary": "Article URL: https://time.com/article/2026/07/15/world-models-are-ai-s-next-frontier/ Comments URL: https://news.ycombinator.com/item?id=49127378 Points: 2 # Comments: 0",
+    "summary": "Article URL: https://geosona.com/software/2026/07/31/start-at-the-end/ Comments URL: https://news.ycombinator.com/item?id=49128870 Points: 1 # Comments: 0",
     "category": "industry",
+    "image": "https://geosona.com/img/posts/bestbooksguide.webp",
     "id": 30
   },
   {
-    "title": "Coal back in favour as US plant bidding war highlights rising demand to power AI",
-    "url": "https://www.ft.com/content/babf4c89-1a6f-447f-a17e-7e3e48f359b8",
+    "title": "Can AMD Break the CUDA Moat? AMD Advancing AI 2026",
+    "url": "https://newsletter.semianalysis.com/p/can-amd-break-the-cuda-moat-amd-advancing",
     "source": "Hacker News",
     "date": "2026-07-31",
-    "summary": "Article URL: https://www.ft.com/content/babf4c89-1a6f-447f-a17e-7e3e48f359b8 Comments URL: https://news.ycombinator.com/item?id=49127377 Points: 3 # Comments: 0",
-    "category": "industry",
+    "summary": "Article URL: https://newsletter.semianalysis.com/p/can-amd-break-the-cuda-moat-amd-advancing Comments URL: https://news.ycombinator.com/item?id=49128814 Points: 2 # Comments: 0",
+    "category": "hardware",
+    "image": "https://substackcdn.com/image/fetch/$s_!uQbO!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F063138e3-7270-4e4a-9127-49175f68c3f6_1668x898.png",
     "id": 31
   },
   {
-    "title": "AI companies destroy rare and non recoverable physical books",
-    "url": "https://www.heraldscotland.com/opinion/26422014.library-alexandria-burns-ai-companies-destroying-books-bulk/",
+    "title": "Thomson Reuters built its own AI model that now ranks among the best",
+    "url": "https://www.thomsonreuters.com/en-us/posts/innovation/thomson-reuters-built-its-own-ai-model-that-now-ranks-among-the-worlds-best/",
     "source": "Hacker News",
     "date": "2026-07-31",
-    "summary": "Article URL: https://www.heraldscotland.com/opinion/26422014.library-alexandria-burns-ai-companies-destroying-books-bulk/ Comments URL: https://news.ycombinator.com/item?id=49127284 Points: 21 # Comme...",
-    "category": "tools",
+    "summary": "Article URL: https://www.thomsonreuters.com/en-us/posts/innovation/thomson-reuters-built-its-own-ai-model-that-now-ranks-among-the-worlds-best/ Comments URL: https://news.ycombinator.com/item?id=49128...",
+    "category": "industry",
+    "image": "https://www.thomsonreuters.com/en-us/posts/wp-content/uploads/sites/20/2026/07/249731_267918076.jpeg",
     "id": 32
   },
   {
-    "title": "The icons that might solve Hollywood's AI problem [video]",
-    "url": "https://www.youtube.com/shorts/SsK4ILb3j5I",
+    "title": "AI Valuation Math",
+    "url": "https://twitter.com/47fucb4r8c69323/status/2082802410616217798",
     "source": "Hacker News",
     "date": "2026-07-31",
-    "summary": "Article URL: https://www.youtube.com/shorts/SsK4ILb3j5I Comments URL: https://news.ycombinator.com/item?id=49127253 Points: 1 # Comments: 0",
+    "summary": "Article URL: https://twitter.com/47fucb4r8c69323/status/2082802410616217798 Comments URL: https://news.ycombinator.com/item?id=49128619 Points: 1 # Comments: 0",
     "category": "industry",
+    "image": "https://abs.twimg.com/sticky/default_profile_images/default_profile_200x200.png",
     "id": 33
   },
   {
-    "title": "Google pauses AI satellite images, after fears of deepfakes in the sky",
-    "url": "https://www.npr.org/2026/07/31/nx-s1-5914652/google-adds-ai-to-satellite-images-raising-fears-of-deepfakes-in-the-sky",
+    "title": "Snapchat to no longer spotlight AI generated content",
+    "url": "https://newsroom.snap.com/rewarding-authentic-creativity-on-spotlight",
     "source": "Hacker News",
     "date": "2026-07-31",
-    "summary": "Article URL: https://www.npr.org/2026/07/31/nx-s1-5914652/google-adds-ai-to-satellite-images-raising-fears-of-deepfakes-in-the-sky Comments URL: https://news.ycombinator.com/item?id=49127202 Points: 1...",
+    "summary": "Article URL: https://newsroom.snap.com/rewarding-authentic-creativity-on-spotlight Comments URL: https://news.ycombinator.com/item?id=49128604 Points: 1 # Comments: 0",
     "category": "industry",
-    "image": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/1600x900+0+0/resize/1400/quality/85/format/png/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Fb7%2F07%2F0d578eb9494cbe2c0de36b2926d5%2Fai-generated-16x9-kharg.png",
+    "image": "https://images.ctfassets.net/o1znirz7lzo4/79uppvv18YRdYkKivBl7y0/46a950282fe97fff8cc1b6c9b18e1478/27rZu1Nozol9co4rwywyHU_first_frame.png?q=40&h=512",
     "id": 34
   },
   {
-    "title": "Did Situational Awareness inflate the AI bubble?",
-    "url": "https://www.yetanothervalueblog.com/p/did-situational-awareness-inflate",
+    "title": "Apple Will 'Watch Everything Burn' When AI Bubble Bursts",
+    "url": "https://asymco.com/2026/07/31/apple-will-watch-everything-burn-when-ai-bubble-bursts/",
     "source": "Hacker News",
     "date": "2026-07-31",
-    "summary": "Article URL: https://www.yetanothervalueblog.com/p/did-situational-awareness-inflate Comments URL: https://news.ycombinator.com/item?id=49127199 Points: 2 # Comments: 0",
+    "summary": "Article URL: https://asymco.com/2026/07/31/apple-will-watch-everything-burn-when-ai-bubble-bursts/ Comments URL: https://news.ycombinator.com/item?id=49128539 Points: 31 # Comments: 58",
     "category": "industry",
-    "image": "https://substackcdn.com/image/fetch/$s_!f7B-!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fcb2df449-a606-424d-9930-909200e62329_1677x940.png",
     "id": 35
   },
   {
-    "title": "Bursty arrivals speed up LLM inference",
-    "url": "https://systems.seas.harvard.edu/blog/burstiness-is-all-you-need/",
+    "title": "How AI Is Helping One-Person Companies Scale to $1M–and Beyond",
+    "url": "https://www.wsj.com/world/how-ai-is-helping-one-person-companies-scale-to-1-millionand-beyond-5cfe84d5",
     "source": "Hacker News",
     "date": "2026-07-31",
-    "summary": "Article URL: https://systems.seas.harvard.edu/blog/burstiness-is-all-you-need/ Comments URL: https://news.ycombinator.com/item?id=49126971 Points: 2 # Comments: 1",
-    "category": "models",
+    "summary": "Article URL: https://www.wsj.com/world/how-ai-is-helping-one-person-companies-scale-to-1-millionand-beyond-5cfe84d5 Comments URL: https://news.ycombinator.com/item?id=49128496 Points: 5 # Comments: 1",
+    "category": "industry",
     "id": 36
   },
   {
-    "title": "The problem with putting an AI image generator in Google Earth",
-    "url": "https://www.theverge.com/ai-artificial-intelligence/973764/google-earth-ai-satellite-images",
+    "title": "AI and the Paperclip Apocalypse",
+    "url": "https://cepr.org/voxeu/columns/ai-and-paperclip-problem",
     "source": "Hacker News",
     "date": "2026-07-31",
-    "summary": "Article URL: https://www.theverge.com/ai-artificial-intelligence/973764/google-earth-ai-satellite-images Comments URL: https://news.ycombinator.com/item?id=49126938 Points: 3 # Comments: 0",
-    "category": "hardware",
-    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/Dream-House.mp4_snapshot_00.11.422.jpg?quality=90&strip=all&crop=0%2C3.4613147178592%2C100%2C93.077370564282&w=1200",
+    "summary": "Article URL: https://cepr.org/voxeu/columns/ai-and-paperclip-problem Comments URL: https://news.ycombinator.com/item?id=49128413 Points: 2 # Comments: 0",
+    "category": "research",
     "id": 37
   },
   {
-    "title": "AI's Wildest Spenders Are Hitting the Accelerator",
-    "url": "https://www.bloomberg.com/opinion/articles/2026-07-31/ai-s-massive-spenders-google-meta-and-oracle-are-only-getting-started",
+    "title": "The Four Horsemen of the AI Bubble Apocalypse",
+    "url": "https://www.derekthompson.org/p/the-four-horsemen-of-the-ai-bubble",
     "source": "Hacker News",
     "date": "2026-07-31",
-    "summary": "Article URL: https://www.bloomberg.com/opinion/articles/2026-07-31/ai-s-massive-spenders-google-meta-and-oracle-are-only-getting-started Comments URL: https://news.ycombinator.com/item?id=49126927 Poi...",
-    "category": "hardware",
+    "summary": "Article URL: https://www.derekthompson.org/p/the-four-horsemen-of-the-ai-bubble Comments URL: https://news.ycombinator.com/item?id=49128402 Points: 4 # Comments: 0",
+    "category": "industry",
+    "image": "https://substackcdn.com/image/fetch/$s_!9uX2!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F16d9234c-5c8a-4d88-9b67-501407693cea_2190x1178.png",
     "id": 38
   },
   {
-    "title": "The market's big AI doubts are exposing the riskiest players",
-    "url": "https://www.cnn.com/2026/07/31/business/situational-awareness-citadel-ai-trade",
+    "title": "AI Boom Spurs Insider Selling by Nvidia, CoreWeave Billionaires",
+    "url": "https://www.bloomberg.com/news/articles/2026-07-29/ai-boom-spurs-insider-selling-by-nvidia-coreweave-billionaires",
     "source": "Hacker News",
     "date": "2026-07-31",
-    "summary": "Article URL: https://www.cnn.com/2026/07/31/business/situational-awareness-citadel-ai-trade Comments URL: https://news.ycombinator.com/item?id=49126769 Points: 3 # Comments: 0",
-    "category": "industry",
+    "summary": "Article URL: https://www.bloomberg.com/news/articles/2026-07-29/ai-boom-spurs-insider-selling-by-nvidia-coreweave-billionaires Comments URL: https://news.ycombinator.com/item?id=49128347 Points: 1 # C...",
+    "category": "hardware",
     "id": 39
   },
   {
-    "title": "What LLM Inference Costs",
-    "url": "https://twitter.com/Akashi203/status/2083213197171884505",
+    "title": "Google Earth risked ruin with retracted AI tool for making fake satellite pics",
+    "url": "https://arstechnica.com/ai/2026/07/google-earth-releases-swiftly-retracts-ai-feature-to-make-fake-satellite-images/",
     "source": "Hacker News",
     "date": "2026-07-31",
-    "summary": "Article URL: https://twitter.com/Akashi203/status/2083213197171884505 Comments URL: https://news.ycombinator.com/item?id=49126687 Points: 2 # Comments: 0",
-    "category": "models",
-    "image": "https://pbs.twimg.com/profile_images/2015781426981916672/D-gDMIO7_200x200.jpg",
+    "summary": "Article URL: https://arstechnica.com/ai/2026/07/google-earth-releases-swiftly-retracts-ai-feature-to-make-fake-satellite-images/ Comments URL: https://news.ycombinator.com/item?id=49128310 Points: 2 #...",
+    "category": "tools",
+    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/07/Google-Earth-AI-generated-image-of-Googleplex-on-fire-2560x1440.png",
     "id": 40
   },
   {
-    "title": "AI bubble will burst if 10-year moves above 5%, says Breakout Capital's Sharma",
-    "url": "https://www.cnbc.com/video/2026/07/31/ai-bubble-will-burst-if-10-year-moves-above-5-percent-says-breakout-capitals-ruchir-sharma.html",
+    "title": "When AI Starts Writing Systems Code",
+    "url": "https://www.coreauto.com/blog/when-ai-starts-writing-systems-code",
     "source": "Hacker News",
     "date": "2026-07-31",
-    "summary": "Article URL: https://www.cnbc.com/video/2026/07/31/ai-bubble-will-burst-if-10-year-moves-above-5-percent-says-breakout-capitals-ruchir-sharma.html Comments URL: https://news.ycombinator.com/item?id=49...",
-    "category": "tools",
-    "image": "https://image.cnbcfm.com/api/v1/image/108343244-17855138051785513802-47498734409-1080pnbcnews.jpg?v=1785513804&w=1920&h=1080",
+    "summary": "Article URL: https://www.coreauto.com/blog/when-ai-starts-writing-systems-code Comments URL: https://news.ycombinator.com/item?id=49128267 Points: 2 # Comments: 0",
+    "category": "industry",
+    "image": "https://www.coreauto.com/assets/blog/when-ai-starts-writing-systems/featured-illustration.jpg",
     "id": 41
   },
   {
-    "title": "Everyone is building LLM routers, we deprecated ours",
-    "url": "https://manifest.build/blog/why-we-deprecated-our-llm-router/",
+    "title": "YouTuber Hank Green pauses multiple channels after admitting he relies on AI",
+    "url": "https://www.dexerto.com/youtube/hank-green-faces-major-backlash-after-admitting-he-used-chatgpt-to-research-youtube-script-3393521/",
     "source": "Hacker News",
     "date": "2026-07-31",
-    "summary": "Article URL: https://manifest.build/blog/why-we-deprecated-our-llm-router/ Comments URL: https://news.ycombinator.com/item?id=49126630 Points: 18 # Comments: 4",
+    "summary": "Article URL: https://www.dexerto.com/youtube/hank-green-faces-major-backlash-after-admitting-he-used-chatgpt-to-research-youtube-script-3393521/ Comments URL: https://news.ycombinator.com/item?id=4912...",
     "category": "models",
-    "image": "https://manifest.build/images/blog/why-we-deprecated-our-llm-router.png",
+    "image": "https://www.dexerto.com/cdn-image/wp-content/uploads/2026/07/31/hank-green-chatgpt-research.jpg",
     "id": 42
   },
   {
-    "title": "Chinese military researchers tap US AI models to train defense systems",
-    "url": "https://www.defensenews.com/industry/techwatch/2026/07/31/chinese-military-researchers-tap-us-ai-models-to-train-defense-systems/",
+    "title": "Kimi K3 with First Tree Beats GPT 5.6 Sol on a Real Engineering Task",
+    "url": "https://twitter.com/first_tree_ai/status/2082968809414254812",
     "source": "Hacker News",
     "date": "2026-07-31",
-    "summary": "Article URL: https://www.defensenews.com/industry/techwatch/2026/07/31/chinese-military-researchers-tap-us-ai-models-to-train-defense-systems/ Comments URL: https://news.ycombinator.com/item?id=491265...",
-    "category": "research",
-    "image": "https://www.armytimes.com/resizer/v2/DPOXVEOJI5EFJN4T5BCYWBJSIE.JPG?width=1200&auth=4e194f141c5fddb09b4f114e1c182bc1081a6b06119992c59b702cc9dd4fc616",
+    "summary": "Article URL: https://twitter.com/first_tree_ai/status/2082968809414254812 Comments URL: https://news.ycombinator.com/item?id=49128237 Points: 2 # Comments: 2",
+    "category": "models",
+    "image": "https://pbs.twimg.com/profile_images/2037338902323924992/cWlnCHRL_200x200.jpg",
     "id": 43
   },
   {
-    "title": "Graph Engineering: The Missing Skill in AI",
-    "url": "https://twitter.com/AnatoliKopadze/status/2080668775796314331",
+    "title": "OpenAI finds evidence other AI agents escaped containment as it widens probe",
+    "url": "https://www.reuters.com/business/openai-finds-evidence-other-ai-agents-escaped-containment-it-widens-hacking-2026-07-31/",
     "source": "Hacker News",
     "date": "2026-07-31",
-    "summary": "Article URL: https://twitter.com/AnatoliKopadze/status/2080668775796314331 Comments URL: https://news.ycombinator.com/item?id=49126388 Points: 2 # Comments: 0",
+    "summary": "Article URL: https://www.reuters.com/business/openai-finds-evidence-other-ai-agents-escaped-containment-it-widens-hacking-2026-07-31/ Comments URL: https://news.ycombinator.com/item?id=49128190 Points...",
     "category": "industry",
-    "image": "https://pbs.twimg.com/profile_images/1634313760444751873/QfwY91Hp_200x200.jpg",
     "id": 44
+  },
+  {
+    "title": "Marvin Minsky: a proof that led to the first AI winter",
+    "url": "https://nirmalutwani.substack.com/p/the-ai-winter-started-with-a-math",
+    "source": "Hacker News",
+    "date": "2026-07-31",
+    "summary": "Article URL: https://nirmalutwani.substack.com/p/the-ai-winter-started-with-a-math Comments URL: https://news.ycombinator.com/item?id=49128173 Points: 2 # Comments: 1",
+    "category": "industry",
+    "id": 45
+  },
+  {
+    "title": "Show HN: Brainstorm – a local-first, AI-native OS for knowledge work",
+    "url": "https://getbrainstorm.online/",
+    "source": "Hacker News",
+    "date": "2026-07-31",
+    "summary": "Hello, I've been building a local-first open-source knowledge management operating system for 3 months as an AI-native company and would love to hear genuine feedback from the Hacker News community. I...",
+    "category": "tools",
+    "image": "https://getbrainstorm.online/og.png",
+    "id": 46
+  },
+  {
+    "title": "Why your AI startup dies at customer six (and the three-layer fix)",
+    "url": "https://github.com/teal-sea/why-your-ai-startup-dies-at-customer-six",
+    "source": "Hacker News",
+    "date": "2026-07-31",
+    "summary": "Article URL: https://github.com/teal-sea/why-your-ai-startup-dies-at-customer-six Comments URL: https://news.ycombinator.com/item?id=49127950 Points: 2 # Comments: 1",
+    "category": "industry",
+    "image": "https://opengraph.githubassets.com/ebc0478186b8c2424e137edb5cd3624b0627109f6909fc69a5326255f0e012a1/teal-sea/why-your-ai-startup-dies-at-customer-six",
+    "id": 47
   },
   {
     "title": "Chinese AI Researchers Are Finding Their Voice on X",
@@ -437,7 +467,7 @@
     "summary": "As OpenAI and Anthropic employees grow quieter online, researchers at Chinese AI labs are flocking to X to explain their work, recruit talent, and shape the global conversation on AI.",
     "category": "research",
     "image": "https://media.wired.com/photos/6a6bc43ecd95420c8647a339/191:100/w_1280,c_limit/Made-in-China--China-AI-Researchers-Are-Finding-Their-Voice-on-X-Business.jpg",
-    "id": 45
+    "id": 48
   },
   {
     "title": "AI Slop Melodramas Are Taking Over X—and Their Creators Are Cashing In",
@@ -447,7 +477,7 @@
     "summary": "Viral tales of good triumphing over evil are racking up millions of views. They’re almost entirely AI-generated clickbait.",
     "category": "hardware",
     "image": "https://media.wired.com/photos/6a6bd4dcc1ebd49c7b942ea6/191:100/w_1280,c_limit/Backchannel-X-Becoming-Inescapable-AI-Slop-Factory-Business.jpg",
-    "id": 46
+    "id": 49
   },
   {
     "title": "This AI Assistant Wants to Make Up for Your Boyfriend’s Incompetence",
@@ -457,34 +487,6 @@
     "summary": "An ad for Orchid suggests the AI agent can fix relationship problems by simply doing everything for inconsiderate partners.",
     "category": "industry",
     "image": "https://media.wired.com/photos/6a6bb6fe30c951744a71eecd/191:100/w_1280,c_limit/Culture_This%20Chatbot's%20Whole%20Pitch%20Is%20Making%20Up%20For%20Your%20Boyfriend's%20Incompetence_v1.jpg",
-    "id": 47
-  },
-  {
-    "title": "Anthropic Says Claude Hacked Into 3 Organizations During Cybersecurity Tests",
-    "url": "https://www.wired.com/story/anthropic-says-claude-hacked-real-systems-during-cybersecurity-tests/",
-    "source": "Wired",
-    "date": "2026-07-31",
-    "summary": "In a review triggered by OpenAI’s Hugging Face incident, Anthropic discovered three of its AI models had breached real-world organizations during third-party evaluations.",
-    "category": "models",
-    "image": "https://media.wired.com/photos/6a6bef5432fc2d440b7d5e3e/191:100/w_1280,c_limit/Business_Claude-Escape.jpg",
-    "id": 48
-  },
-  {
-    "title": "Probing the Origins of Reasoning Performance: Representational Quality for Mathematical Problem-Solving in RL vs. SFT Fine-Tuned Models",
-    "url": "https://arxiv.org/abs/2607.26119",
-    "source": "arXiv cs.AI",
-    "date": "2026-07-31",
-    "summary": "Large reasoning models trained via reinforcement learning (RL) have been increasingly shown to outperform their supervised fine-tuned (SFT) counterparts on mathematical reasoning tasks; Yet the mechan...",
-    "category": "models",
-    "id": 49
-  },
-  {
-    "title": "Even More Deception: Objective Misalignment in Mixed-Motive LLM Multi-Agent Systems",
-    "url": "https://arxiv.org/abs/2607.26120",
-    "source": "arXiv cs.AI",
-    "date": "2026-07-31",
-    "summary": "Large Language Models (LLMs)-powered multi-agent systems are increasingly deployed in mixed-motive environments, where agents operate under asymmetric information and strategic deception due to confli...",
-    "category": "models",
     "id": 50
   }
 ]
