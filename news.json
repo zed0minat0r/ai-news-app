@@ -11,6 +11,36 @@
     "featured": true
   },
   {
+    "title": "NVIDIA Joins NSF State and Regional AI Hubs Program to Expand AI Research and Education Across the US",
+    "url": "https://blogs.nvidia.com/blog/nsf-state-regional-ai-hub-program/",
+    "source": "NVIDIA Blog",
+    "date": "2026-08-04",
+    "summary": "NVIDIA is participating in the U.S. National Science Foundation’s (NSF) State and Regional Artificial Intelligence Infrastructure Hubs program, an effort launching today to expand access to the advanc...",
+    "category": "hardware",
+    "image": "https://blogs.nvidia.com/wp-content/uploads/2026/08/regionalhubnsf.webp",
+    "id": 2
+  },
+  {
+    "title": "NVIDIA Alpamayo 2 Super, the Frontier Open Model for Robotaxis and Autonomous Vehicles, Now Available for Commercial Use",
+    "url": "https://blogs.nvidia.com/blog/alpamayo-2-super-open-model-now-available/",
+    "source": "NVIDIA Blog",
+    "date": "2026-08-04",
+    "summary": "For robotaxis and other autonomous vehicles (AVs), the hardest problems aren’t the everyday scenarios. They’re the rare, complex situations that are difficult to anticipate and train for. Handling the...",
+    "category": "hardware",
+    "image": "https://blogs.nvidia.com/wp-content/uploads/2026/08/alpamayo-launch-kv-blog-1920x1080-1.jpg",
+    "id": 3
+  },
+  {
+    "title": "As AI Increases Demands on Memory, Storage Steps Up",
+    "url": "https://blogs.nvidia.com/blog/ai-storage-fms/",
+    "source": "NVIDIA Blog",
+    "date": "2026-08-04",
+    "summary": "Surging AI demands are driving the need for massive datasets and context windows that burst past the confines of system memory. But rising needs aren’t met by simply adding more storage capacity. What...",
+    "category": "models",
+    "image": "https://blogs.nvidia.com/wp-content/uploads/2026/08/ai-storage-fms-1920x1080-1.jpg",
+    "id": 4
+  },
+  {
     "title": "AI Leaders Propose SAFE Guidelines for Cybersecurity Transparency",
     "url": "https://blogs.nvidia.com/blog/open-secure-ai-alliance-contributions/",
     "source": "NVIDIA Blog",
@@ -18,7 +48,27 @@
     "summary": "Members of the Open Secure AI Alliance — now more than 120 organizations strong — are developing new guidelines to strengthen agentic AI cybersecurity as the annual Black Hat conference begins in Las ...",
     "category": "industry",
     "image": "https://blogs.nvidia.com/wp-content/uploads/2026/08/agentic-ai-press-osaia-5518050-1280x680-r2.png",
-    "id": 2
+    "id": 5
+  },
+  {
+    "title": "Texas slams on the brakes for 1,800 data centers, power grid requirements are five times higher than peak record demand — 474 gigawatts of power requests are now subject to new moratorium",
+    "url": "https://www.tomshardware.com/tech-industry/data-centers/texas-slams-on-the-breaks-for-1-800-data-centers-power-grid-requirements-are-five-times-higher-than-peak-record-demand-474-gigawatts-of-power-requests-are-now-subject-to-new-moratorium",
+    "source": "Tom's Hardware",
+    "date": "2026-08-04",
+    "summary": "Gov. Greg Abbott (R) instructed PUCT and ERCOT to pause all data center applications until they complete an audit on all the information that data center developers must submit. The move reportedly ca...",
+    "category": "models",
+    "image": "https://cdn.mos.cms.futurecdn.net/D78oH2muZWpuk28JerWPUW-1280-80.jpg",
+    "id": 6
+  },
+  {
+    "title": "New HBF spec outlines tech that can give GPUs terabytes of extra memory — Sandisk and SK hynix unveil spec with up to 16-Hi NAND stacks, 3 TB/s bandwidth, UCIe",
+    "url": "https://www.tomshardware.com/pc-components/ssds/sandisk-and-sk-hynix-unveil-hbf-spec-up-to-16-hi-nand-stacks-3-tb-s-bandwidth-ucie",
+    "source": "Tom's Hardware",
+    "date": "2026-08-04",
+    "summary": "Sandisk and SK hynix formally introduce HBF specification that promises up to 3 TB/s of bandwidth eventually, though only four companies are currently interested in the technology.",
+    "category": "hardware",
+    "image": "https://cdn.mos.cms.futurecdn.net/32ax3i7i4sgLXwvXnC8uNg-1280-80.jpg",
+    "id": 7
   },
   {
     "title": "PC cooling outfit Arctic reverses tariff-era price hikes after US government refund — lowers prices across lineup, including coolers and case fans",
@@ -28,7 +78,7 @@
     "summary": "The company says it is honoring its earlier promise to reverse tariff-driven price increases, becoming one of the first PC hardware vendors to publicly roll back pricing after a major court ruling.",
     "category": "hardware",
     "image": "https://cdn.mos.cms.futurecdn.net/kFqLxUNjcXaCWad86W6SWi-1280-80.jpg",
-    "id": 3
+    "id": 8
   },
   {
     "title": "Chinese chipmaking tool roadmaps examined — Beijing's nascent lithography tools target DUV production at five machines a year, and an EUV prototype with no chips",
@@ -38,7 +88,7 @@
     "summary": "Ultimately, three markers will indicate whether China’s domestic DUV program is a legitimate rival or yet more state-sanctioned hot air.",
     "category": "hardware",
     "image": "https://cdn.mos.cms.futurecdn.net/3SsnPpgLLGT7sC7AGN7JfD-1280-80.jpg",
-    "id": 4
+    "id": 9
   },
   {
     "title": "Lenovo LOQ Essentials 15 Gen 11 Review: A good display meets a low-power RTX 5060",
@@ -48,7 +98,7 @@
     "summary": "The Lenovo LOQ Essentials 15 Gen 11 pairs an RTX 5060, 144 Hz display, and excellent upgradeability with a comfortable keyboard, but its low-power GPU configuration and outdated CPU leave it strugglin...",
     "category": "hardware",
     "image": "https://cdn.mos.cms.futurecdn.net/86CUYAM4XgTrmQoULCmatP-1280-80.jpg",
-    "id": 5
+    "id": 10
   },
   {
     "title": "‘Apple is getting this wrong,’ says OpenAI — startup blasts iPhone maker over lawsuit alleging it stole confidential information through ex-Apple employees",
@@ -58,7 +108,7 @@
     "summary": "OpenAI denies Apple's allegations in a blog post. The company claims that it doesn't have and even doesn't want its rivals trade secrets.",
     "category": "industry",
     "image": "https://cdn.mos.cms.futurecdn.net/YDrrAryoRUp4rFaQVaP2uY-1280-80.jpg",
-    "id": 6
+    "id": 11
   },
   {
     "title": "16GB GPUs and 8-core CPUs officially become the most popular configs on Steam — Latest hardware survey shows modern gaming's growing hunger for more resources",
@@ -68,7 +118,7 @@
     "summary": "For the first time in Steam history, 8-core CPUs have overtaken 6-core CPUs and GPUs with 16GB of VRAM have overtaken 8GB GPUs. Even though the hardware survey doesn't represent everyone, it still ind...",
     "category": "hardware",
     "image": "https://cdn.mos.cms.futurecdn.net/CBt66kAwURokqymNekYL97-1280-80.jpg",
-    "id": 7
+    "id": 12
   },
   {
     "title": "Three major PC makers now using Chinese memory to fight 'unprecedented memory shortage,' report claims — HP, Asus, and Acer using 'small amounts' of CXMT chips in limited number of notebooks for non-US market",
@@ -78,7 +128,7 @@
     "summary": "A new report claims that HP, Asus, and Acer have started to use a small amount of CXMT memory chips in notebooks for non-US markets.",
     "category": "hardware",
     "image": "https://cdn.mos.cms.futurecdn.net/2eA5L64mkxS8pA9DVYgMcD-1280-80.jpg",
-    "id": 8
+    "id": 13
   },
   {
     "title": "China cracks down on copycat chip designs with new regulations and penalties — new guidelines enforce originality and independent development",
@@ -88,7 +138,27 @@
     "summary": "China tightens legal protections for domestically developed chip layout designs by raising originality requirements and strengthening infringement penalties.",
     "category": "hardware",
     "image": "https://cdn.mos.cms.futurecdn.net/vYZ7Ecame3RzGytFMYbDAP-1280-80.jpg",
-    "id": 9
+    "id": 14
+  },
+  {
+    "title": "Spotify expands AI remix and covers project with Merlin partnership",
+    "url": "https://techcrunch.com/2026/08/04/spotify-adds-merlin-to-its-ai-music-remix-and-covers-effort/",
+    "source": "TechCrunch",
+    "date": "2026-08-04",
+    "summary": "Spotify says Merlin, which represents more than 30,000 independent labels and distributors, has joined Universal Music Group in backing its upcoming AI-powered remix and covers product. The paid tool ...",
+    "category": "tools",
+    "image": "https://techcrunch.com/wp-content/uploads/2026/02/spotify-logo-phone-GettyImages-2236404299.jpg?w=1024",
+    "id": 15
+  },
+  {
+    "title": "Elon Musk spends half his time talking robots and AI on Tesla earnings calls",
+    "url": "https://techcrunch.com/2026/08/04/elon-musk-spends-half-his-time-talking-robots-and-ai-on-tesla-earnings-calls/",
+    "source": "TechCrunch",
+    "date": "2026-08-04",
+    "summary": "An analysis of the last seven years of Tesla earnings calls shows just little attention Musk pays to Tesla's car business.",
+    "category": "industry",
+    "image": "https://techcrunch.com/wp-content/uploads/2024/10/GettyImages-2171035708.jpg?resize=1200,800",
+    "id": 16
   },
   {
     "title": "Apple says more ex-employees may have taken confidential data to OpenAI",
@@ -98,7 +168,7 @@
     "summary": "Apple says its trade secrets investigation into OpenAI has widened. In a new court filing, Apple claims additional former staff may have retained or accessed confidential information.",
     "category": "tools",
     "image": "https://techcrunch.com/wp-content/uploads/2026/07/tim-cook-sam-altman-GettyImages-2233062347.jpg?w=1024",
-    "id": 10
+    "id": 17
   },
   {
     "title": "Is the future of data centers portable? Runware builds a pod to find out",
@@ -108,199 +178,7 @@
     "summary": "On Tuesday, AI infrastructure company Runware announced the launch of its own modular data center called Sonic Inference Pod.",
     "category": "hardware",
     "image": "https://techcrunch.com/wp-content/uploads/2026/08/Data-center.png?resize=1196,1200",
-    "id": 11
-  },
-  {
-    "title": "The Youth AI Privacy Act's Privacy Paradox",
-    "url": "https://www.eff.org/deeplinks/2026/08/youth-ai-privacy-acts-privacy-paradox",
-    "source": "Hacker News",
-    "date": "2026-08-04",
-    "summary": "Article URL: https://www.eff.org/deeplinks/2026/08/youth-ai-privacy-acts-privacy-paradox Comments URL: https://news.ycombinator.com/item?id=49169293 Points: 1 # Comments: 0",
-    "category": "industry",
-    "image": "https://www.eff.org/files/banner_library/ai-robots-emotion.png",
-    "id": 12
-  },
-  {
-    "title": "Show HN: Guide AI coding agents on how to use libraries securely",
-    "url": "https://github.com/Reware-Labs/securitycards",
-    "source": "Hacker News",
-    "date": "2026-08-04",
-    "summary": "Hi HN, AI coding agents can generate working code, but they often lack library- and version-specific security knowledge. We've developed AI Code Security Cards, an open-source security knowledge layer...",
-    "category": "models",
-    "image": "https://opengraph.githubassets.com/a7dadaf57a137506000174a38fbd9e9896070f9682d4b3474259d5d9aab3bb68/Reware-Labs/securitycards",
-    "id": 13
-  },
-  {
-    "title": "Celeris-1 tops AI speed ranking at 2,158 tokens per second",
-    "url": "https://runtimewire.com/article/celeris-1-tops-ai-speed-ranking-diffusion-model",
-    "source": "Hacker News",
-    "date": "2026-08-04",
-    "summary": "Article URL: https://runtimewire.com/article/celeris-1-tops-ai-speed-ranking-diffusion-model Comments URL: https://news.ycombinator.com/item?id=49169258 Points: 1 # Comments: 0",
-    "category": "models",
-    "image": "https://runtimewire.com/og/celeris-1-tops-ai-speed-ranking-diffusion-model.jpg",
-    "id": 14
-  },
-  {
-    "title": "It's not a fear of \"AI communism\"; it's a fear of competitive market capitalism",
-    "url": "http://observationalepidemiology.blogspot.com/2026/07/its-not-fear-of-ai-communism-its-fear.html",
-    "source": "Hacker News",
-    "date": "2026-08-04",
-    "summary": "Article URL: http://observationalepidemiology.blogspot.com/2026/07/its-not-fear-of-ai-communism-its-fear.html Comments URL: https://news.ycombinator.com/item?id=49169227 Points: 1 # Comments: 0",
-    "category": "tools",
-    "id": 15
-  },
-  {
-    "title": "Show HN: Stonefold – a deterministic gateway between AI agents and your systems",
-    "url": "https://stonefold.ai/",
-    "source": "Hacker News",
-    "date": "2026-08-04",
-    "summary": "Article URL: https://stonefold.ai/ Comments URL: https://news.ycombinator.com/item?id=49169158 Points: 1 # Comments: 0",
-    "category": "industry",
-    "image": "https://stonefold.ai/img/og-card.png",
-    "id": 16
-  },
-  {
-    "title": "I measured defect rates across 2,307 AI-generated 3D models",
-    "url": "https://github.com/alza123123/3dqa-benchmark",
-    "source": "Hacker News",
-    "date": "2026-08-04",
-    "summary": "Article URL: https://github.com/alza123123/3dqa-benchmark Comments URL: https://news.ycombinator.com/item?id=49168919 Points: 1 # Comments: 0",
-    "category": "models",
-    "image": "https://opengraph.githubassets.com/2dfca0086cb259f74f1e6a5fc77326f646d083cebe9cdb393bba21e92e3d33d5/alza123123/3dqa-benchmark",
-    "id": 17
-  },
-  {
-    "title": "I Phish My AI Agent, and You Should Too",
-    "url": "https://sveder.com/blog/i-phish-my-ai-agent-and-you-should-too/",
-    "source": "Hacker News",
-    "date": "2026-08-04",
-    "summary": "Article URL: https://sveder.com/blog/i-phish-my-ai-agent-and-you-should-too/ Comments URL: https://news.ycombinator.com/item?id=49168900 Points: 1 # Comments: 0",
-    "category": "industry",
-    "image": "https://s0.wp.com/i/blank.jpg",
     "id": 18
-  },
-  {
-    "title": "AI slop pollutes the CVE pipeline with fake vulns",
-    "url": "https://www.theregister.com/security/2026/08/03/ai-slop-pollutes-the-cve-pipeline-with-fake-vulns/5282462",
-    "source": "Hacker News",
-    "date": "2026-08-04",
-    "summary": "Article URL: https://www.theregister.com/security/2026/08/03/ai-slop-pollutes-the-cve-pipeline-with-fake-vulns/5282462 Comments URL: https://news.ycombinator.com/item?id=49168899 Points: 1 # Comments:...",
-    "category": "industry",
-    "image": "https://image.theregister.com/5230118.jpg?imageId=5230118&x=0&y=0&cropw=100&croph=100&panox=0&panoy=0&panow=100&panoh=100&width=1200&height=683",
-    "id": 19
-  },
-  {
-    "title": "I built an LLM debugger for fine-tuning failures",
-    "url": "https://github.com/gradian-ai/gradian",
-    "source": "Hacker News",
-    "date": "2026-08-04",
-    "summary": "Article URL: https://github.com/gradian-ai/gradian Comments URL: https://news.ycombinator.com/item?id=49168696 Points: 3 # Comments: 3",
-    "category": "models",
-    "image": "https://opengraph.githubassets.com/7d5d68815705d0e80fb5c7728866e6d454b73af74116d9b1097fa1f011a0d435/gradian-ai/gradian",
-    "id": 20
-  },
-  {
-    "title": "Pdf-inspector: The rust-powered open-source PDF parser for AI",
-    "url": "https://firecrawl.github.io/pdf-inspector/",
-    "source": "Hacker News",
-    "date": "2026-08-04",
-    "summary": "Article URL: https://firecrawl.github.io/pdf-inspector/ Comments URL: https://news.ycombinator.com/item?id=49168679 Points: 1 # Comments: 0",
-    "category": "industry",
-    "id": 21
-  },
-  {
-    "title": "Show HN: My journey into game development with AI",
-    "url": "https://playdowntime.com/",
-    "source": "Hacker News",
-    "date": "2026-08-04",
-    "summary": "I had a development background initially, moved out to a different field 20+ years ago, but often have a nostalgia with periodic attempts to create something. Wanted to share the last one, started 2 m...",
-    "category": "tools",
-    "image": "https://playdowntime.com/assets/icon-512.png",
-    "id": 22
-  },
-  {
-    "title": "AI pricing is not broken. We have the answers for how to do it",
-    "url": "https://www.solvimon.com/blog/ai-pricing-is-not-broken",
-    "source": "Hacker News",
-    "date": "2026-08-04",
-    "summary": "Article URL: https://www.solvimon.com/blog/ai-pricing-is-not-broken Comments URL: https://news.ycombinator.com/item?id=49168484 Points: 1 # Comments: 0",
-    "category": "industry",
-    "image": "https://framerusercontent.com/images/fRt1sdnOSy2OxD0R0p8suAkBmXg.png?width=2400&height=1260",
-    "id": 23
-  },
-  {
-    "title": "Show HN: Entangle, hand a live AI coding session to anyone with three words",
-    "url": "https://github.com/gowtham-sai-yadav/entangle",
-    "source": "Hacker News",
-    "date": "2026-08-04",
-    "summary": "Article URL: https://github.com/gowtham-sai-yadav/entangle Comments URL: https://news.ycombinator.com/item?id=49168465 Points: 4 # Comments: 0",
-    "category": "industry",
-    "image": "https://repository-images.githubusercontent.com/github-production-repository-image-32fea6/1282978005/fa8b3a65-6b7f-4c13-8ba6-420acab1acff?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAVCODYLSA53PQK4ZA%2F20260804%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20260804T142205Z&X-Amz-Expires=300&X-Amz-Signature=56db95d267191dac9b815ef54ce45883f385adc9a4c6937c3112784ec085a9c3&X-Amz-SignedHeaders=host&jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoiaHR0cHM6Ly9yZXBvc2l0b3J5LWltYWdlcy5naXRodWJ1c2VyY29udGVudC5jb20vIiwia2V5Ijoia2V5MSIsImV4cCI6MTc4NTg1MzYyNSwibmJmIjoxNzg1ODUzMzI1LCJwYXRoIjoicmVwb3NpdG9yeS1pbWFnZXMuZ2l0aHVidXNlcmNvbnRlbnQuY29tIn0.tXjqz1UGOuxh66WF5uhmJxdvyLWUaJhdD5GoE29X6Eo",
-    "id": 24
-  },
-  {
-    "title": "Show HN: Loopers – Fail-closed reverse proxy and circuit breaker for AI agents",
-    "url": "https://app.tryloopers.com/",
-    "source": "Hacker News",
-    "date": "2026-08-04",
-    "summary": "Article URL: https://app.tryloopers.com/ Comments URL: https://news.ycombinator.com/item?id=49168436 Points: 1 # Comments: 0",
-    "category": "industry",
-    "id": 25
-  },
-  {
-    "title": "Observability Turns Vibe Coding into AI Engineering",
-    "url": "https://www.dynatrace.com/news/blog/how-observability-transforms-vibe-coding-into-ai-engineering/",
-    "source": "Hacker News",
-    "date": "2026-08-04",
-    "summary": "Article URL: https://www.dynatrace.com/news/blog/how-observability-transforms-vibe-coding-into-ai-engineering/ Comments URL: https://news.ycombinator.com/item?id=49168370 Points: 2 # Comments: 0",
-    "category": "industry",
-    "image": "https://news.cdn.dm.dynatrace.com/wp-content/uploads/2025/12/Blog__FI_Req_PNB_observability_for_relational_databases_copy__web_res_verion.png",
-    "id": 26
-  },
-  {
-    "title": "Claude, GPT and the Minnesota attackers all used known bugs and weak logins",
-    "url": "https://cabreza.substack.com/p/use-it-or-lose-to-it",
-    "source": "Hacker News",
-    "date": "2026-08-04",
-    "summary": "Article URL: https://cabreza.substack.com/p/use-it-or-lose-to-it Comments URL: https://news.ycombinator.com/item?id=49168285 Points: 1 # Comments: 0",
-    "category": "models",
-    "id": 27
-  },
-  {
-    "title": "Aligning 800 audiobooks (8k hours) to text in 6 days, no LLM in the loop",
-    "url": "https://tale.fyi/@sam/aligning-800-audiobooks-8-000-hours-to-text-in-6-days-no-llm-in-the-loop?from=hn",
-    "source": "Hacker News",
-    "date": "2026-08-04",
-    "summary": "Article URL: https://tale.fyi/@sam/aligning-800-audiobooks-8-000-hours-to-text-in-6-days-no-llm-in-the-loop?from=hn Comments URL: https://news.ycombinator.com/item?id=49168259 Points: 2 # Comments: 0",
-    "category": "models",
-    "id": 28
-  },
-  {
-    "title": "We built an AI model router that cut LLM costs by 94%",
-    "url": "https://swordhealth.com/research/reduce-enterprise-ai-costs",
-    "source": "Hacker News",
-    "date": "2026-08-04",
-    "summary": "Article URL: https://swordhealth.com/research/reduce-enterprise-ai-costs Comments URL: https://news.ycombinator.com/item?id=49168179 Points: 1 # Comments: 1",
-    "category": "models",
-    "id": 29
-  },
-  {
-    "title": "Auditability vs. Forced Determinism: Future of Agentic AI",
-    "url": "https://medium.com/@MirArshadTalpur/auditability-vs-forced-determinism-future-of-agentic-ai-fb243d339338",
-    "source": "Hacker News",
-    "date": "2026-08-04",
-    "summary": "Article URL: https://medium.com/@MirArshadTalpur/auditability-vs-forced-determinism-future-of-agentic-ai-fb243d339338 Comments URL: https://news.ycombinator.com/item?id=49168080 Points: 1 # Comments: ...",
-    "category": "industry",
-    "id": 30
-  },
-  {
-    "title": "AI-Native Firms",
-    "url": "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6905079",
-    "source": "Hacker News",
-    "date": "2026-08-04",
-    "summary": "Article URL: https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6905079 Comments URL: https://news.ycombinator.com/item?id=49167982 Points: 1 # Comments: 0",
-    "category": "research",
-    "id": 31
   },
   {
     "title": "The Download: US robot restrictions, and ICE’s DNA grab",
@@ -310,7 +188,7 @@
     "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. Trump’s AI protectionism has come for robotics —James O’Donnel...",
     "category": "industry",
     "image": "https://wp.technologyreview.com/wp-content/uploads/2026/08/AP26206077599738.jpg?resize=1200,600",
-    "id": 32
+    "id": 19
   },
   {
     "title": "Is This Poker Player Bluffing? The AI Thinks So",
@@ -320,7 +198,7 @@
     "summary": "ESPN unveiled an “AI tells detection” tool during broadcasts of the 2026 World Series of Poker. Is it a neat computer-powered party trick, or a real threat to poker’s future?",
     "category": "tools",
     "image": "https://media.wired.com/photos/6a711fb5a0e49dc311c087a0/191:100/w_1280,c_limit/Gear_Is-This-Poker-Player-Bluffing-.jpg",
-    "id": 33
+    "id": 20
   },
   {
     "title": "How One Startup Built a (Mostly) China-Free Robot",
@@ -330,7 +208,7 @@
     "summary": "Ati Robotics assembles its robots in India and uses just a few Chinese parts—a strategy that could pay off as the Trump administration cracks down on Chinese humanoids.",
     "category": "hardware",
     "image": "https://media.wired.com/photos/6a6b1ddcb699cd04dbc2d5af/191:100/w_1280,c_limit/073126_How%20One%20Startup%20Built%20a%20(Mostly)%20China-Free%20Robot.jpg",
-    "id": 34
+    "id": 21
   },
   {
     "title": "‘Everyone Is Doing It’: The Truth About AI in Hollywood",
@@ -340,7 +218,7 @@
     "summary": "Puck’s Matthew Belloni says AI has quietly become part of everyday filmmaking. The battle now isn’t whether Hollywood will use the technology—it’s who controls what’ll come next.",
     "category": "industry",
     "image": "https://media.wired.com/photos/6a70d6c64b483e5d7ba0ab6d/191:100/w_1280,c_limit/Big-Interview-UV-Solo-Matt-Belloni.jpg",
-    "id": 35
+    "id": 22
   },
   {
     "title": "How Data Centers Broke American Politics",
@@ -350,7 +228,7 @@
     "summary": "What the Unabomber, Steve Bannon’s tech guy, and Bernie Sanders taught me about the great data center backlash of 2026.",
     "category": "hardware",
     "image": "https://media.wired.com/photos/6a709a8db4004b4e490ab2d7/191:100/w_1280,c_limit/20260719-MattEich-0262.jpg",
-    "id": 36
+    "id": 23
   },
   {
     "title": "Mistral Is in the Right Place at the Right Time",
@@ -360,7 +238,7 @@
     "summary": "Open-weight AI models are having a moment in the wake of recent turmoil at US tech giants. For French AI lab Mistral, that’s the the best thing that could have happened.",
     "category": "models",
     "image": "https://media.wired.com/photos/6a6cc9ac6aed60f089dc69c1/191:100/w_1280,c_limit/Business_Mistral%20Is%20In%20The%20Right%20Place%20At%20The%20Right%20Time_v1.jpg",
-    "id": 37
+    "id": 24
   },
   {
     "title": "Revisiting Classic Thought Experiments to Measure Consciousness for Artificial Intelligence Safety",
@@ -369,7 +247,7 @@
     "date": "2026-08-04",
     "summary": "This research note revisits Leibniz's mill, Turing's imitation game, and Searle's Chinese Room through the Conservation-Congruent Encoding (CCE) framework. It formalises a toy symbolic setting in whic...",
     "category": "research",
-    "id": 38
+    "id": 25
   },
   {
     "title": "AutoFOAM: The Self-Refining Autonomous OpenFOAM Agent",
@@ -378,7 +256,7 @@
     "date": "2026-08-04",
     "summary": "Computational Fluid Dynamics (CFD) plays an important role in modern engineering, but using open-source solvers such as OpenFOAM requires considerable knowledge and skills, as well as time-consuming c...",
     "category": "models",
-    "id": 39
+    "id": 26
   },
   {
     "title": "Enhancing LLMs with Context-Specific Knowledge for Mitigating Misinformation in SMEs: A RAG-based Modeling and Analysis",
@@ -387,7 +265,7 @@
     "date": "2026-08-04",
     "summary": "Large Language Models (LLMs), a part of artificial intelligence (AI), are increasingly being adopted by Small and Medium Enterprises (SMEs) to enhance question-answering capabilities and support busin...",
     "category": "models",
-    "id": 40
+    "id": 27
   },
   {
     "title": "Energy Efficiency of Locally Deployed LLMs: A Preliminary Quantitative GPU Power Benchmark on Consumer Hardware",
@@ -396,7 +274,7 @@
     "date": "2026-08-04",
     "summary": "The local deployment of large language models (LLMs) is gaining traction due to privacy concerns and the desire for on-premise inference. However, the energy costs on consumer hardware remain poorly c...",
     "category": "models",
-    "id": 41
+    "id": 28
   },
   {
     "title": "CoT-Core: Accelerating LLM Evaluation via CoT-Aware Coreset Selection",
@@ -405,7 +283,7 @@
     "date": "2026-08-04",
     "summary": "Evaluating Large Language Models (LLMs) incurs prohibitive computational overhead during continuous development processes. While coreset selection accelerates evaluation, existing methods either suffe...",
     "category": "research",
-    "id": 42
+    "id": 29
   },
   {
     "title": "Optimization and Constraint Modeling using LLMs with a Retrieval Augmented Generation Process",
@@ -414,7 +292,7 @@
     "date": "2026-08-04",
     "summary": "Both optimization modeling and constraint modeling are non-trivial problems requiring deep domain expertise and proficiency in modeling formalism languages. Despite their importance across logistics, ...",
     "category": "models",
-    "id": 43
+    "id": 30
   },
   {
     "title": "Memory Reward Inflation in Self-Improving LLM Agents",
@@ -423,7 +301,7 @@
     "date": "2026-08-04",
     "summary": "Self-improving LLM agents increasingly learn from experience without updating any weights. Each episode is stored in an external memory, scored, and retrieved for similar future tasks to shape later b...",
     "category": "models",
-    "id": 44
+    "id": 31
   },
   {
     "title": "Request-Level Energy Attribution for Batched LLM Serving",
@@ -432,7 +310,7 @@
     "date": "2026-08-04",
     "summary": "Batched LLM serving improves throughput but complicates energy accounting. GPU power telemetry is aggregate, whereas sustainability reporting, chargeback, and workload analysis often require request-l...",
     "category": "models",
-    "id": 45
+    "id": 32
   },
   {
     "title": "Motif-Mamba: network motif improved mamba for long-range sequence modeling",
@@ -441,7 +319,7 @@
     "date": "2026-08-04",
     "summary": "Efficient long-sequence modeling remains a central challenge for large language models, as self-attention scales quadratically with sequence length. Mamba offers a linear-time alternative through sele...",
     "category": "models",
-    "id": 46
+    "id": 33
   },
   {
     "title": "Nova: An End-to-End MLIR Compiler for Deep Learning",
@@ -450,7 +328,7 @@
     "date": "2026-08-04",
     "summary": "The performance of deep learning models at scale relies heavily on how effectively high-level mathematical operations are mapped to underlying physical hardware. While high-level tensor frameworks pro...",
     "category": "hardware",
-    "id": 47
+    "id": 34
   },
   {
     "title": "SIRIN: A Unified Toolkit for Detecting Contextual Hallucinations in Retrieval-Augmented and Memory-Grounded LLM Systems",
@@ -459,7 +337,7 @@
     "date": "2026-08-04",
     "summary": "SIRIN (Semantic Inconsistency Recognition and Inspection Nexus) is a unified toolkit and interactive web UI for detecting contextual hallucinations (fluent, plausible responses unsupported by the prov...",
     "category": "research",
-    "id": 48
+    "id": 35
   },
   {
     "title": "Linguistic Context Recodes Visual Representations in Vision-Language Models",
@@ -468,7 +346,7 @@
     "date": "2026-08-04",
     "summary": "Goal-directed visual processing is a hallmark of human visual intelligence, resulting in representations that support downstream tasks such as categorization or search. Though vision-language models (...",
     "category": "models",
-    "id": 49
+    "id": 36
   },
   {
     "title": "RAG-TESTER: Automated End-to-End Testing of Retrieval-Augmented Large Language Models",
@@ -476,6 +354,123 @@
     "source": "arXiv cs.AI",
     "date": "2026-08-04",
     "summary": "Retrieval-Augmented Generation (RAG) enables Large Language Models (LLMs) to use external and domain-specific knowledge, but its reliability depends on the interaction between the generative model, em...",
+    "category": "models",
+    "id": 37
+  },
+  {
+    "title": "H+ Embedding: Harmonizing Global and Token-Level Retrieval with Context-Dependent Phrases",
+    "url": "https://arxiv.org/abs/2608.00065",
+    "source": "arXiv cs.AI",
+    "date": "2026-08-04",
+    "summary": "Terminology-intensive retrieval, especially in medical settings, depends on preserving multi-word entities, abbreviations, numerical constraints, and compositional concepts. However, existing represen...",
+    "category": "research",
+    "id": 38
+  },
+  {
+    "title": "Agentic Coding in the Wild: Characterizing GitHub Copilot Traces at Production Scale",
+    "url": "https://arxiv.org/abs/2608.00101",
+    "source": "arXiv cs.AI",
+    "date": "2026-08-04",
+    "summary": "AI coding agents like GitHub Copilot, Claude Code, and Codex interleave multi-step LLM inference with tool execution, creating a workload different from chatbots. We present the first production-scale...",
+    "category": "tools",
+    "id": 39
+  },
+  {
+    "title": "Can LLM Agents Price Competitively? A Dynamic Multi-Attribute Auction Benchmark for Agentic Commerce",
+    "url": "https://arxiv.org/abs/2608.00102",
+    "source": "arXiv cs.AI",
+    "date": "2026-08-04",
+    "summary": "Agentic commerce is moving from concept to deployed infrastructure: payment networks, retailers, and AI platforms are setting the stage for agents to transact on behalf of merchants and consumers. Yet...",
+    "category": "models",
+    "id": 40
+  },
+  {
+    "title": "Shared Organizational Memory for Enterprise Coding Agents: System Design and Deployment Snapshot",
+    "url": "https://arxiv.org/abs/2608.00122",
+    "source": "arXiv cs.AI",
+    "date": "2026-08-04",
+    "summary": "Enterprise coding agents rely on tools and retrieval, yet enterprise knowledge often remains outside public training data and formal documentation: internal DSLs, proprietary platforms, local conventi...",
+    "category": "tools",
+    "id": 41
+  },
+  {
+    "title": "AgentStream: How Well Do Self-Evolving LLM Agents Perform Under Streaming Tasks?",
+    "url": "https://arxiv.org/abs/2608.00155",
+    "source": "arXiv cs.AI",
+    "date": "2026-08-04",
+    "summary": "Large language model (LLM) agents can self-evolve by continually improving from their own accumulated experience. However, existing studies predominantly adopt independent evaluation. Consequently, th...",
+    "category": "models",
+    "id": 42
+  },
+  {
+    "title": "TRACE-TS: Attribution-Grounded and Traceable Sensor-Language Reasoning for Human Activity Understanding",
+    "url": "https://arxiv.org/abs/2608.00200",
+    "source": "arXiv cs.AI",
+    "date": "2026-08-04",
+    "summary": "Wearable sensors capture fine-grained motion patterns that support rich behavioral understanding, yet most existing methods reduce these signals to activity labels. Recent LM-based approaches generate...",
+    "category": "research",
+    "id": 43
+  },
+  {
+    "title": "Personalizing Large Language Model Agents with Small Policy Models",
+    "url": "https://arxiv.org/abs/2608.00215",
+    "source": "arXiv cs.AI",
+    "date": "2026-08-04",
+    "summary": "Large language model (LLM) agents can retrieve memory, call tools, ask clarifying questions, and vary response style, yet adapting these execution decisions to an individual user remains difficult. Fi...",
+    "category": "industry",
+    "id": 44
+  },
+  {
+    "title": "More Debate, Same Evidence: Structural Limits of Homogeneous Multi-Agent Groundedness",
+    "url": "https://arxiv.org/abs/2608.00243",
+    "source": "arXiv cs.AI",
+    "date": "2026-08-04",
+    "summary": "Large language model (LLM) judges are increasingly organized as multi-agent panels under the assumption that exchanging critiques improves judgment quality. We test this assumption for \\emph{groundedn...",
+    "category": "models",
+    "id": 45
+  },
+  {
+    "title": "Geometric Self-Supervised Pre-training for Neural Combinatorial Optimization",
+    "url": "https://arxiv.org/abs/2608.00270",
+    "source": "arXiv cs.AI",
+    "date": "2026-08-04",
+    "summary": "Neural Combinatorial Optimization (NCO) techniques have emerged as a highly efficient alternative to traditional exact algorithms for solving routing problems such as the Traveling Salesman Problem (T...",
+    "category": "research",
+    "id": 46
+  },
+  {
+    "title": "RF-HOI: Recognize Human-Object Interaction with Radio Frequency Signals",
+    "url": "https://arxiv.org/abs/2608.00289",
+    "source": "arXiv cs.AI",
+    "date": "2026-08-04",
+    "summary": "Recognizing Human-Object Interactions (HOI) is essential for intelligent systems, underpinning applications in virtual and augmented reality, embodied AI, and assistive robotics. However, vision-based...",
+    "category": "models",
+    "id": 47
+  },
+  {
+    "title": "WM-Cov: Test Adequacy for Interactive World-Model-Style Autonomous Driving Simulation",
+    "url": "https://arxiv.org/abs/2608.00298",
+    "source": "arXiv cs.AI",
+    "date": "2026-08-04",
+    "summary": "World models and generative simulators are emerging as interactive testing infrastructure for autonomous driving because they can react to the ego planner and produce counterfactual, rare, and safety-...",
+    "category": "research",
+    "id": 48
+  },
+  {
+    "title": "CrystalMem: Elastic Memory for Self-Evolving LLM Agents via Knowledge Crystallization",
+    "url": "https://arxiv.org/abs/2608.00303",
+    "source": "arXiv cs.AI",
+    "date": "2026-08-04",
+    "summary": "Memory for self-evolving large language model (LLM) agents is often provisioned as if its byte budget only grows. Cloud platforms, however, adjust quotas with load and cost, and we show that capabilit...",
+    "category": "models",
+    "id": 49
+  },
+  {
+    "title": "Learning to Coordinate Symbolic Tools: LLM Agents for Verified Sum-of-Squares Certificates",
+    "url": "https://arxiv.org/abs/2608.00326",
+    "source": "arXiv cs.AI",
+    "date": "2026-08-04",
+    "summary": "Tool calling allows large language models (LLMs) to invoke external computation during problem solving, a useful capability in various fields including AI for mathematics. We study this setting throug...",
     "category": "models",
     "id": 50
   }
