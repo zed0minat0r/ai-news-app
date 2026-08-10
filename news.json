@@ -11,6 +11,24 @@
     "featured": true
   },
   {
+    "title": "Optimizing a GPT-2-Class Transformer on a GPU",
+    "url": "http://martinkristiansen.com/llm-gpu-optimization/index.html",
+    "source": "Hacker News",
+    "date": "2026-08-10",
+    "summary": "Article URL: http://martinkristiansen.com/llm-gpu-optimization/index.html Comments URL: https://news.ycombinator.com/item?id=49237616 Points: 2 # Comments: 1",
+    "category": "models",
+    "id": 2
+  },
+  {
+    "title": "What do I want to be? – a poem about parenting in the AI age",
+    "url": "https://www.reddit.com/r/Adulting/s/1ZF6OLsjko",
+    "source": "Hacker News",
+    "date": "2026-08-10",
+    "summary": "Article URL: https://www.reddit.com/r/Adulting/s/1ZF6OLsjko Comments URL: https://news.ycombinator.com/item?id=49237676 Points: 1 # Comments: 0",
+    "category": "industry",
+    "id": 3
+  },
+  {
     "title": "Musk’s Terafab projected to be larger than the Pentagon, Apple Park, Mall of America, and Giga Texas, combined — all-in-one chip manufacturing facility visualized to show the project’s massive footprint",
     "url": "https://www.tomshardware.com/tech-industry/semiconductors/musks-terafab-projected-to-be-larger-than-the-pentagon-apple-park-mall-of-america-and-giga-texas-combined-all-in-one-chip-manufacturing-facility-visualized-to-show-the-projects-massive-footprint",
     "source": "Tom's Hardware",
@@ -18,7 +36,7 @@
     "summary": "Elon Musk's Terafab will have at least 100 million sq. ft of interior space, making it the largest such structure on Earth by a big margin. It seems that it will need this amount of space, though, for...",
     "category": "hardware",
     "image": "https://cdn.mos.cms.futurecdn.net/AgntrWnVBq5bKYLoRy82hk-1280-80.jpg",
-    "id": 2
+    "id": 4
   },
   {
     "title": "Two variants of Nvidia's RTX Spark show up on Geekbench, revealing a cut-down 18-core model — Full 20-core beats most x86 mobile chips across multi-core and single-core tests",
@@ -28,7 +46,7 @@
     "summary": "The 20-core SKU of the RTX Spark that we've known to exist for a long time scored 2,570 points in the single-core test and 23,126 points in the multi-core test. The second, 18-core cut-down SKU scored...",
     "category": "hardware",
     "image": "https://cdn.mos.cms.futurecdn.net/zJJHTzdkSwJptkeprCr2j3-1280-80.jpg",
-    "id": 3
+    "id": 5
   },
   {
     "title": "Amazon’s new 7.65GW Texas AI data center power plant could become the largest source of CO₂ pollution in the US — custom 35-turbine gas plant authorized to emit 33 million tons of annual greenhouse gases",
@@ -38,7 +56,7 @@
     "summary": "Amazon is reportedly building a 7.65GW natural gas power plant in Texas to feed a new AI data center, with permits allowing up to 33 million tons of CO₂ emissions per year.",
     "category": "hardware",
     "image": "https://cdn.mos.cms.futurecdn.net/83tohMm46WQCYhhbLZ9CT6-1280-80.jpg",
-    "id": 4
+    "id": 6
   },
   {
     "title": "Kansas town silences public comment on gigawatt AI data center after receiving death threats, moves to virtual meetings — shift follows physics teacher's arrest for clapping at data center hearing",
@@ -48,7 +66,7 @@
     "summary": "Emporia, Kansas, switched to virtual city council meetings after death threats intensified against city leaders. The move also canceled public comments, prompting some members of the public to ask why...",
     "category": "hardware",
     "image": "https://cdn.mos.cms.futurecdn.net/Mp6a5T3nkbtP8cssNG5sb9-1280-80.jpg",
-    "id": 5
+    "id": 7
   },
   {
     "title": "Intel Core Ultra 7 270K Plus vs AMD Ryzen 7 7700X3D faceoff — battle of the upper mid-range CPUs",
@@ -58,7 +76,7 @@
     "summary": "AMD's 3D V-Cache takes on Intel's latest Core Ultra architecture as we compare the two across various metrics including gaming, productivity, power consumption, and value.",
     "category": "hardware",
     "image": "https://cdn.mos.cms.futurecdn.net/XjFLSFBGLdmersQJaxvkta-1280-80.jpg",
-    "id": 6
+    "id": 8
   },
   {
     "title": "Micron reportedly offers pennies on the dollar for Crucial RAM return, only offers to reimburse original MSRP despite it being only 37% of market value — chipmaker later reverses course with a better solution",
@@ -68,7 +86,7 @@
     "summary": "Crucial memory owner recounts their experience with Micron's warranty process since the company has axed the Crucial brand.",
     "category": "hardware",
     "image": "https://cdn.mos.cms.futurecdn.net/Kmba422TadpNgFayHYQVLJ-1280-80.jpg",
-    "id": 7
+    "id": 9
   },
   {
     "title": "Owner of original Intel 8080 pre-production layout seeks restorer — handcrafted Rubylith mask shows 5,000 transistors and interconnect patterns of the fabled 2 MHz CPU",
@@ -78,7 +96,7 @@
     "summary": "The owner of 'the original engineering copy of the Intel 8080 rubylith mask' is looking for a skilled restorer.",
     "category": "hardware",
     "image": "https://cdn.mos.cms.futurecdn.net/4uXGtcnzrpc2vbFyKepUN7-1280-80.jpg",
-    "id": 8
+    "id": 10
   },
   {
     "title": "Embattled hedge fund Situational Awareness invests $400M in chip startup Source Foundry",
@@ -88,7 +106,7 @@
     "summary": "The AI-focused hedge fund is still making some big bets.",
     "category": "hardware",
     "image": "https://techcrunch.com/wp-content/uploads/2025/02/GettyImages.jpg?resize=1200,800",
-    "id": 9
+    "id": 11
   },
   {
     "title": "Anthropic is turning Claude Code’s auto mode on by default",
@@ -98,7 +116,7 @@
     "summary": "Programming with Claude Code will soon require even less human oversight.",
     "category": "models",
     "image": "https://techcrunch.com/wp-content/uploads/2026/04/GettyImages-2269811684.jpg?w=1024",
-    "id": 10
+    "id": 12
   },
   {
     "title": "Historian Jill Lepore says Silicon Valley misreads science fiction and undermines democracy",
@@ -108,7 +126,7 @@
     "summary": "On the latest episode of Equity, we spoke to Jill Lepore about \"government by machines\" and why Elon Musk is a bad science fiction reader.",
     "category": "hardware",
     "image": "https://techcrunch.com/wp-content/uploads/2026/08/GettyImages-491300440.jpg?w=1024",
-    "id": 11
+    "id": 13
   },
   {
     "title": "The AI safety test is becoming a safety risk",
@@ -118,7 +136,83 @@
     "summary": "AI agents are escaping cybersecurity testing environments and reaching real-world systems, raising questions about whether safety infrastructure, industry standards and regulation can keep pace with i...",
     "category": "research",
     "image": "https://techcrunch.com/wp-content/uploads/2026/08/GettyImages-2255991416.jpg?resize=1200,795",
-    "id": 12
+    "id": 14
+  },
+  {
+    "title": "What if we let AI govern us?",
+    "url": "https://inevolin.substack.com/p/what-if-we-let-ai-govern-us",
+    "source": "Hacker News",
+    "date": "2026-08-09",
+    "summary": "Article URL: https://inevolin.substack.com/p/what-if-we-let-ai-govern-us Comments URL: https://news.ycombinator.com/item?id=49237226 Points: 2 # Comments: 6",
+    "category": "industry",
+    "id": 15
+  },
+  {
+    "title": "A startup is able to detect fires within minutes using satellites and AI",
+    "url": "https://netbajura.blogspot.com/2026/08/ororatech-startup-that-detects.html",
+    "source": "Hacker News",
+    "date": "2026-08-09",
+    "summary": "Article URL: https://netbajura.blogspot.com/2026/08/ororatech-startup-that-detects.html Comments URL: https://news.ycombinator.com/item?id=49236903 Points: 2 # Comments: 0",
+    "category": "industry",
+    "id": 16
+  },
+  {
+    "title": "Show HN: An AI chief of staff for founders who can't afford one",
+    "url": "https://useairo.co",
+    "source": "Hacker News",
+    "date": "2026-08-09",
+    "summary": "Article URL: https://useairo.co Comments URL: https://news.ycombinator.com/item?id=49236682 Points: 1 # Comments: 0",
+    "category": "industry",
+    "id": 17
+  },
+  {
+    "title": "Quoted $1M for AI code review. Built it for free",
+    "url": "https://sagivo.com/blog/i-was-quoted-1m-to-get-ai-diff-review-tool",
+    "source": "Hacker News",
+    "date": "2026-08-09",
+    "summary": "Article URL: https://sagivo.com/blog/i-was-quoted-1m-to-get-ai-diff-review-tool Comments URL: https://news.ycombinator.com/item?id=49236612 Points: 4 # Comments: 0",
+    "category": "tools",
+    "id": 18
+  },
+  {
+    "title": "I got 30% better AI coding results",
+    "url": "https://github.com/akasula09/CodeSlimmer",
+    "source": "Hacker News",
+    "date": "2026-08-09",
+    "summary": "Article URL: https://github.com/akasula09/CodeSlimmer Comments URL: https://news.ycombinator.com/item?id=49236555 Points: 2 # Comments: 0",
+    "category": "industry",
+    "image": "https://opengraph.githubassets.com/5579c7b6b4b4cee6d29586456dcf2e310edab9ba7d90518e47a4e7e49b601f24/akasula09/CodeSlimmer",
+    "id": 19
+  },
+  {
+    "title": "AI assistant hacks gym website in first known Australian autonomous cyber attack",
+    "url": "https://www.abc.net.au/news/2026-08-10/ai-assistant-hacks-gym-website-aus-cyber-attack/107007986",
+    "source": "Hacker News",
+    "date": "2026-08-09",
+    "summary": "Article URL: https://www.abc.net.au/news/2026-08-10/ai-assistant-hacks-gym-website-aus-cyber-attack/107007986 Comments URL: https://news.ycombinator.com/item?id=49236439 Points: 43 # Comments: 32",
+    "category": "industry",
+    "image": "https://live-production.wcms.abc-cdn.net.au/0fd4a89f6e0120cc041f9019c03bda31?impolicy=wcms_watermark_news&cropH=1080&cropW=1920&xPos=0&yPos=89&width=862&height=485&imformat=generic",
+    "id": 20
+  },
+  {
+    "title": "AI Agent Qubitz",
+    "url": "https://github.com/Gabrieliam42/AI-Agent-Qubitz",
+    "source": "Hacker News",
+    "date": "2026-08-09",
+    "summary": "Article URL: https://github.com/Gabrieliam42/AI-Agent-Qubitz Comments URL: https://news.ycombinator.com/item?id=49236318 Points: 2 # Comments: 1",
+    "category": "industry",
+    "image": "https://opengraph.githubassets.com/f3aea6aa304df65d384eaa1dd12157e530281db7ad2b7b90ed326c9a16eb3ab8/Gabrieliam42/AI-Agent-Qubitz",
+    "id": 21
+  },
+  {
+    "title": "Lawyers using \"AI\" could face sanctions including costs for fake citations",
+    "url": "https://www.irishtimes.com/crime-law/2026/08/05/lawyers-could-face-sanctions-including-costs-if-ai-leads-to-fake-citations-in-court-cases/",
+    "source": "Hacker News",
+    "date": "2026-08-09",
+    "summary": "Article URL: https://www.irishtimes.com/crime-law/2026/08/05/lawyers-could-face-sanctions-including-costs-if-ai-leads-to-fake-citations-in-court-cases/ Comments URL: https://news.ycombinator.com/item?...",
+    "category": "industry",
+    "image": "https://www.irishtimes.com/resizer/v2/HIGONMMHJ5GAJEI6UK4VT7RALM.JPG?smart=true&auth=53fc93be795143f0aae18b4683cd866f1efaf11a568416b15d7f34e7692d824d&width=1200&height=630",
+    "id": 22
   },
   {
     "title": "Ask HN: How has AI helped your personal algorithmic trading strategy?",
@@ -127,7 +221,7 @@
     "date": "2026-08-09",
     "summary": "Comments URL: https://news.ycombinator.com/item?id=49236035 Points: 2 # Comments: 0",
     "category": "research",
-    "id": 13
+    "id": 23
   },
   {
     "title": "Show HN: Pacific Slate: a self-hosted, model-agnostic multi-agent AI assistant",
@@ -136,7 +230,7 @@
     "date": "2026-08-09",
     "summary": "I didn't want to buy a standalone computer or repurpose a laptop to run constantly so I could maintain a system to sync my LLMs, so I built this. It's a simple overview of my system, laid out in a way...",
     "category": "models",
-    "id": 14
+    "id": 24
   },
   {
     "title": "Show HN: Wardline, a Go proxy that auto-blocks compromised AI agents",
@@ -145,17 +239,17 @@
     "date": "2026-08-09",
     "summary": "Article URL: https://github.com/kabirnarang39/wardline Comments URL: https://news.ycombinator.com/item?id=49235863 Points: 2 # Comments: 0",
     "category": "industry",
-    "image": "https://opengraph.githubassets.com/269f4299a0136f899fb862071bf7f451b0ab2142fbe844494c6e3313a42071bc/kabirnarang39/wardline",
-    "id": 15
+    "image": "https://opengraph.githubassets.com/52b149e8119eec124f579a09d3b5081c0b2bb02f86047974b05fb4a01ea6c271/kabirnarang39/wardline",
+    "id": 25
   },
   {
     "title": "I've yet to see any\"My AI went rogue and caused us to recognise a workers union",
     "url": "https://mastodon.neilzone.co.uk/@neil/117061512483182546",
     "source": "Hacker News",
     "date": "2026-08-09",
-    "summary": "Article URL: https://mastodon.neilzone.co.uk/@neil/117061512483182546 Comments URL: https://news.ycombinator.com/item?id=49235836 Points: 23 # Comments: 4",
+    "summary": "Article URL: https://mastodon.neilzone.co.uk/@neil/117061512483182546 Comments URL: https://news.ycombinator.com/item?id=49235836 Points: 48 # Comments: 16",
     "category": "industry",
-    "id": 16
+    "id": 26
   },
   {
     "title": "Codreo AI Mail – AI Outlook Email Assistant",
@@ -165,7 +259,7 @@
     "summary": "Article URL: https://codreo.az/products/codreo-ai-mail/ Comments URL: https://news.ycombinator.com/item?id=49235703 Points: 2 # Comments: 0",
     "category": "industry",
     "image": "https://codreo.az/files/branding/social-card.png",
-    "id": 17
+    "id": 27
   },
   {
     "title": "AI Is Rewiring South Korea's Careers, Dating and Culture",
@@ -174,35 +268,35 @@
     "date": "2026-08-09",
     "summary": "Article URL: https://www.bloomberg.com/news/features/2026-08-06/ai-sk-hynix-samsung-rewire-south-korea-s-careers-dating-and-culture Comments URL: https://news.ycombinator.com/item?id=49235492 Points: ...",
     "category": "industry",
-    "id": 18
+    "id": 28
   },
   {
     "title": "The Argument Against AI Writing Is at Least 2,400 Years Old",
     "url": "https://feld.com/archives/2026/08/ai-writing-2400-years-old/",
     "source": "Hacker News",
     "date": "2026-08-09",
-    "summary": "Article URL: https://feld.com/archives/2026/08/ai-writing-2400-years-old/ Comments URL: https://news.ycombinator.com/item?id=49235369 Points: 2 # Comments: 1",
+    "summary": "Article URL: https://feld.com/archives/2026/08/ai-writing-2400-years-old/ Comments URL: https://news.ycombinator.com/item?id=49235369 Points: 2 # Comments: 2",
     "category": "tools",
     "image": "https://feld.com/og-default.png",
-    "id": 19
+    "id": 29
   },
   {
     "title": "Employees Do Not Want Your AI",
     "url": "https://substack.com/sign-in",
     "source": "Hacker News",
     "date": "2026-08-09",
-    "summary": "Article URL: https://substack.com/sign-in Comments URL: https://news.ycombinator.com/item?id=49235036 Points: 4 # Comments: 2",
+    "summary": "Article URL: https://substack.com/sign-in Comments URL: https://news.ycombinator.com/item?id=49235036 Points: 5 # Comments: 3",
     "category": "industry",
-    "id": 20
+    "id": 30
   },
   {
     "title": "The tragedy of the commons, AI edition",
     "url": "https://www.economist.com/britain/2026/08/06/the-tragedy-of-the-commons-ai-edition",
     "source": "Hacker News",
     "date": "2026-08-09",
-    "summary": "Article URL: https://www.economist.com/britain/2026/08/06/the-tragedy-of-the-commons-ai-edition Comments URL: https://news.ycombinator.com/item?id=49235011 Points: 24 # Comments: 2",
+    "summary": "Article URL: https://www.economist.com/britain/2026/08/06/the-tragedy-of-the-commons-ai-edition Comments URL: https://news.ycombinator.com/item?id=49235011 Points: 75 # Comments: 41",
     "category": "research",
-    "id": 21
+    "id": 31
   },
   {
     "title": "Beacon: A self-hosted error tracking and LLM observability in one place",
@@ -212,92 +306,7 @@
     "summary": "Article URL: https://github.com/Tboworst/beacon Comments URL: https://news.ycombinator.com/item?id=49234995 Points: 3 # Comments: 0",
     "category": "models",
     "image": "https://opengraph.githubassets.com/49cd8292a72b471a15e65ecf57faaf619af433f9b85420d1eb93f18b4d6b8789/Tboworst/beacon",
-    "id": 22
-  },
-  {
-    "title": "LLM Scaler – LLM Support for Intel's Arc Pro B60 and B70 GPUs",
-    "url": "https://github.com/intel/llm-scaler",
-    "source": "Hacker News",
-    "date": "2026-08-09",
-    "summary": "Article URL: https://github.com/intel/llm-scaler Comments URL: https://news.ycombinator.com/item?id=49234677 Points: 3 # Comments: 1",
-    "category": "hardware",
-    "image": "https://opengraph.githubassets.com/6a66d81d4d25b64086916147169f3a7afa95204f36409b82ed7a9a6d124cecc5/intel/llm-scaler",
-    "id": 23
-  },
-  {
-    "title": "Ask HN: Are functional programmers more upset about how good AI is at coding?",
-    "url": "https://news.ycombinator.com/item?id=49234658",
-    "source": "Hacker News",
-    "date": "2026-08-09",
-    "summary": "One might expect this since functional programmers pride themselves on the elegance of their code while programmers using hybrid languages just want to get the code working — elegance of the implement...",
-    "category": "industry",
-    "id": 24
-  },
-  {
-    "title": "Anti-AI Populism Is Reshaping American Politics",
-    "url": "https://www.motherjones.com/politics/2026/08/anti-ai-populism-is-reshaping-american-politics/",
-    "source": "Hacker News",
-    "date": "2026-08-09",
-    "summary": "Article URL: https://www.motherjones.com/politics/2026/08/anti-ai-populism-is-reshaping-american-politics/ Comments URL: https://news.ycombinator.com/item?id=49234270 Points: 3 # Comments: 0",
-    "category": "tools",
-    "id": 25
-  },
-  {
-    "title": "Google doesn't need the LLM crown",
-    "url": "https://www.semafor.com/article/08/07/2026/google-doesnt-need-the-llm-crown",
-    "source": "Hacker News",
-    "date": "2026-08-09",
-    "summary": "Article URL: https://www.semafor.com/article/08/07/2026/google-doesnt-need-the-llm-crown Comments URL: https://news.ycombinator.com/item?id=49234190 Points: 2 # Comments: 0",
-    "category": "models",
-    "image": "https://img.semafor.com/6e0272bc008856e02d4a2739ad877c01f88e273c-6000x4000.jpg?rect=0,425,6000,3150&w=1200&h=630&q=75&auto=format",
-    "id": 26
-  },
-  {
-    "title": "As AI guzzles water and energy, we are facing a choice: datacentres or homes?",
-    "url": "https://www.theguardian.com/commentisfree/2026/aug/09/slough-famous-the-office-datacentres-locals-hub-europe",
-    "source": "Hacker News",
-    "date": "2026-08-09",
-    "summary": "Article URL: https://www.theguardian.com/commentisfree/2026/aug/09/slough-famous-the-office-datacentres-locals-hub-europe Comments URL: https://news.ycombinator.com/item?id=49234126 Points: 3 # Commen...",
-    "category": "industry",
-    "image": "https://i.guim.co.uk/img/media/ee18035020cfe5bef019a8fa37828c70edc79248/0_0_5000_4000/master/5000.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctb3BpbmlvbnMucG5n&enable=upscale&s=3315a287ecdf6c94fc44bd6e1d52c7e0",
-    "id": 27
-  },
-  {
-    "title": "AI Is on Its Last Legs [video]",
-    "url": "https://www.youtube.com/watch?v=zdsoe_OsnHw",
-    "source": "Hacker News",
-    "date": "2026-08-09",
-    "summary": "Article URL: https://www.youtube.com/watch?v=zdsoe_OsnHw Comments URL: https://news.ycombinator.com/item?id=49233669 Points: 3 # Comments: 0",
-    "category": "industry",
-    "id": 28
-  },
-  {
-    "title": "Large-Scale Code Refactoring with AI",
-    "url": "https://swiftace.org/posts/large-scale-code-refactoring-with-ai",
-    "source": "Hacker News",
-    "date": "2026-08-09",
-    "summary": "Article URL: https://swiftace.org/posts/large-scale-code-refactoring-with-ai Comments URL: https://news.ycombinator.com/item?id=49233633 Points: 1 # Comments: 0",
-    "category": "industry",
-    "id": 29
-  },
-  {
-    "title": "AI Workers Ask U.S. Government for Tools to Slow AI Before a Crisis",
-    "url": "https://www.ainews.com/p/ai-workers-us-government-tools-slow-ai-before-crisis",
-    "source": "Hacker News",
-    "date": "2026-08-09",
-    "summary": "Article URL: https://www.ainews.com/p/ai-workers-us-government-tools-slow-ai-before-crisis Comments URL: https://news.ycombinator.com/item?id=49233593 Points: 2 # Comments: 0",
-    "category": "tools",
-    "image": "https://beehiiv-images-production.s3.amazonaws.com/uploads/asset/file/404a9ee0-06e1-440f-8bae-df77abc35a13/AI_Workers_Ask_U.S._Government_for_Tools_to_Slow_AI_Before_a_Crisis.png?t=1785353920",
-    "id": 30
-  },
-  {
-    "title": "A Philosophy for AI Agents",
-    "url": "https://ideal.iroha1203.dev/a-philosophy-for-ai-agents-1d743e970853",
-    "source": "Hacker News",
-    "date": "2026-08-09",
-    "summary": "Article URL: https://ideal.iroha1203.dev/a-philosophy-for-ai-agents-1d743e970853 Comments URL: https://news.ycombinator.com/item?id=49233533 Points: 2 # Comments: 0",
-    "category": "industry",
-    "id": 31
+    "id": 32
   },
   {
     "title": "Meetily Lets You Transcribe and Summarize Meetings Without a Subscription—Here’s How",
@@ -307,7 +316,7 @@
     "summary": "There are endless ways to record and transcribe your virtual meetings with AI. Here’s an option that’s free and open source.",
     "category": "tools",
     "image": "https://media.wired.com/photos/6a7602d8d223b2324a2ea7e7/191:100/w_1280,c_limit/FreeTranscribe.jpg",
-    "id": 32
+    "id": 33
   },
   {
     "title": "These AI Barons Are Ready to Give Away Their Fortunes",
@@ -317,7 +326,7 @@
     "summary": "A new generation of philanthropists made rich by artificial intelligence are preparing to give away their vast wealth. What should we make of a multi-billion-dollar pinky promise?",
     "category": "hardware",
     "image": "https://media.wired.com/photos/6a72492d52a9268da4f15181/191:100/w_1280,c_limit/AI-Barons-Business.jpg",
-    "id": 33
+    "id": 34
   },
   {
     "title": "Firebird Launches CIS Region’s Largest AI Factory in Armenia",
@@ -327,7 +336,7 @@
     "summary": "The global buildout of AI infrastructure reached a new milestone today — Firebird, an emerging AI cloud, launched the CIS region’s largest AI factory in Armenia, establishing a new AI computing hub po...",
     "category": "hardware",
     "image": "https://blogs.nvidia.com/wp-content/uploads/2026/08/5559253-Firebird-AI-Factory-Armenia-social-1920x1080-1.jpg",
-    "id": 34
+    "id": 35
   },
   {
     "title": "Nvidia RTX 5090 ships in bizarre 8-motherboard bundle — retailers hold GPUs hostage similar to the crypto boom",
@@ -337,7 +346,7 @@
     "summary": "Taiwanese ecommerce platform PChome24h is packaging RTX 5090 GPUs with a crazy number of motherboards, entry-to-mid-range GPUs, and several other components. While interesting, these combos are alarmi...",
     "category": "hardware",
     "image": "https://cdn.mos.cms.futurecdn.net/vRL36xuMjW72TLynN5pkge-1280-80.jpg",
-    "id": 35
+    "id": 36
   },
   {
     "title": "Save $160 off AMD's ultimate gaming CPU combo, includes motherboard and chip cooler — $458 combo features Ryzen 7 9800X3D, B850 motherboard, and a 240mm liquid AIO",
@@ -347,7 +356,7 @@
     "summary": "Newegg is offering a big discount on a Ryzen 7 9800X3D bundle that includes an MSI B850 Gaming Plus WiFi motherboard and an MSI MAG Coreliquid A13 240 AIO liquid cooler.",
     "category": "hardware",
     "image": "https://cdn.mos.cms.futurecdn.net/o3ec4EhTNY43uzdK2piXb7-1280-80.jpg",
-    "id": 36
+    "id": 37
   },
   {
     "title": "Amazon circumvents community vote for massive AI data center using 45-year-old rules — Gilroy residents locked out of public comment window",
@@ -357,7 +366,7 @@
     "summary": "Residents of Gilroy, California, were caught by surprise when an Amazon data center started construction in their city. Negotiations for the project started in 2020, with public comments open until 20...",
     "category": "hardware",
     "image": "https://cdn.mos.cms.futurecdn.net/RSehTW2oDYtFQurj9iJ5cS-1280-80.jpg",
-    "id": 37
+    "id": 38
   },
   {
     "title": "China's memory-making champion smashes DDR5-8800 barrier on AMD platform — CXMT chips close the gap with SK hynix",
@@ -367,7 +376,7 @@
     "summary": "Colorful shows off the overclocking potential on new memory kits equipped with CXMT integrated circuits.",
     "category": "hardware",
     "image": "https://cdn.mos.cms.futurecdn.net/6prjCX7gUMwWzXmXPopLNB-1280-80.jpg",
-    "id": 38
+    "id": 39
   },
   {
     "title": "Intel's proposed orbital data centers would manage thousands of simple LEO satellites —two-tier network puts the brains of satellite constellations in higher orbit",
@@ -377,7 +386,7 @@
     "summary": "Intel’s orbital data center architecture uses powerful higher-orbit satellites to manage LEO constellations, reducing reliance on terrestrial control centers.",
     "category": "hardware",
     "image": "https://cdn.mos.cms.futurecdn.net/d7kjue9PbCHvHp6fnyUv2i-1280-80.jpg",
-    "id": 39
+    "id": 40
   },
   {
     "title": "Hardware researcher spins up 'CPU deoptimization' project to find the slowest single x86 instruction, creates hall of shame — worst offender takes 198 billion cycles spanning 62 seconds to execute",
@@ -387,7 +396,7 @@
     "summary": "One hardware researcher, Christopher Domas (@xoreaxeaxeax on GitHub), is taking a different approach with the CPU Deoptimization leaderboard, which looks not to make Assembly instructions run as fast ...",
     "category": "models",
     "image": "https://cdn.mos.cms.futurecdn.net/DFYP2Cmq3awUVLaoNhZg2S-1280-80.jpg",
-    "id": 40
+    "id": 41
   },
   {
     "title": "AI creates 16 new viruses that never existed in nature after learning DNA’s pattern from 9 trillion nucleotides — experts warn such applications are way ahead of necessary guardrails",
@@ -397,7 +406,7 @@
     "summary": "Researchers used Evo AI models trained on trillions of DNA building blocks to design entirely new viral genomes, 16 of which became viable bacteriophages capable of infecting and reproducing inside E....",
     "category": "research",
     "image": "https://cdn.mos.cms.futurecdn.net/BRFuxPnHx6s5SosSpyQxqW-1280-80.jpg",
-    "id": 41
+    "id": 42
   },
   {
     "title": "Modder turns Steam Controller trackpad haptics into stereo speakers with custom HID tool — Wired connection transmits 16-bit audio that sounds surprisingly full",
@@ -407,7 +416,7 @@
     "summary": "A modder has figured out how to send an audio stream to the Steam Controller's haptic motors in order to make them play pretty much anything. While the wireless connection over the puck is limited, au...",
     "category": "hardware",
     "image": "https://cdn.mos.cms.futurecdn.net/afqXySTxPCEC6t4PTDCq7m-1280-80.jpg",
-    "id": 42
+    "id": 43
   },
   {
     "title": "OpenAI acquires presentation startup NextSlide",
@@ -417,7 +426,7 @@
     "summary": "NextSlide says its team members are now working on ChatGPT.",
     "category": "models",
     "image": "https://techcrunch.com/wp-content/uploads/2026/04/GettyImages-2259148891.jpg?resize=1200,686",
-    "id": 43
+    "id": 44
   },
   {
     "title": "How to Disable Gemini in Gmail and Google Docs",
@@ -427,7 +436,7 @@
     "summary": "New AI toolbars and prompts are showing up in Google Docs and Gmail. If you don’t want Gemini’s help in writing documents and emails, here’s how to turn that stuff off.",
     "category": "models",
     "image": "https://media.wired.com/photos/6a75b644a7eaec3ecd711279/191:100/w_1280,c_limit/GoolgeNoAI.jpg",
-    "id": 44
+    "id": 45
   },
   {
     "title": "Responding to the next frontier of critical cyber capabilities",
@@ -436,7 +445,7 @@
     "date": "2026-08-07",
     "summary": "OpenAI is sharing preliminary cybersecurity evaluations for Astra and the steps we’re taking to strengthen safeguards and security controls.",
     "category": "research",
-    "id": 45
+    "id": 46
   },
   {
     "title": "How HSP GRUPPE builds AI capabilities for tax advisory",
@@ -445,7 +454,7 @@
     "date": "2026-08-07",
     "summary": "Discover how HSP GRUPPE uses ChatGPT Enterprise to boost productivity, improve work quality, and create more capacity for tax advisory and client service.",
     "category": "models",
-    "id": 46
+    "id": 47
   },
   {
     "title": "Scientist says RAM pricing has risen to normalized 2007 levels, AI shortage undid 20 years of progress in a matter of months — memory prices had been falling exponentially for decades",
@@ -455,7 +464,7 @@
     "summary": "The per GB price of memory modules have gone back to 2007 levels because of AI demand. This is the first time that prices have shot up in the realm of tech, Lemire says.",
     "category": "hardware",
     "image": "https://cdn.mos.cms.futurecdn.net/DzxQr2k2MxmxSptJ9wViJi-1280-80.jpg",
-    "id": 47
+    "id": 48
   },
   {
     "title": "Amazon cracks down on 'CPU waste' among engineers as agentic AI crunch intensifies — CPU demand makes low-utilization EC2 instances a hot commodity [Updated]",
@@ -465,7 +474,7 @@
     "summary": "Amazon Web Services is telling engineers to slow down on EC2 usage as it struggles to meet CPU capacity demand for external customers.",
     "category": "hardware",
     "image": "https://cdn.mos.cms.futurecdn.net/NQC73QYBQQXmqRgadqnzt6-1280-80.png",
-    "id": 48
+    "id": 49
   },
   {
     "title": "Protesters haul a guillotine to city council meeting about a potential AI data center, company rep cornered by protestors — ‘ it no longer felt safe to stay,’ developer escorted out by police",
@@ -475,16 +484,6 @@
     "summary": "Some protesters brought a guillotine to public consultation for a potential data center in Salem, Oregon. Even though this was displayed outside the venue, it was a confrontation between the data cent...",
     "category": "hardware",
     "image": "https://cdn.mos.cms.futurecdn.net/z7QrBiqD8KGeUieaGfpb35-1280-80.png",
-    "id": 49
-  },
-  {
-    "title": "This week on Tom's Hardware Premium: August 8, 2026 — Inside China's lithography efforts, co-packaged optics get a spotlight, and Samsung debuts next-gen memory tech",
-    "url": "https://www.tomshardware.com/tech-industry/this-week-on-toms-hardware-premium-august-7-2026-inside-chinas-lithography-efforts-co-packaged-optics-get-a-spotlight-and-samsung-debuts-next-gen-memory-tech",
-    "source": "Tom's Hardware",
-    "date": "2026-08-07",
-    "summary": "A redesigned Bench tool, inside China's domestic Chipmaking efforts, breaking, and we offer a free technical breakdown of Samsung's latest memory-related announcements.",
-    "category": "hardware",
-    "image": "https://cdn.mos.cms.futurecdn.net/VpbztxtxFKZCPaetywvDsH-1280-80.jpg",
     "id": 50
   }
 ]
