@@ -1,5 +1,53 @@
 [
   {
+    "title": "Bring your spreadsheet data to life with Sheets canvas",
+    "url": "https://blog.google/products-and-platforms/products/workspace/sheets-canvas-for-google-sheets-spreadsheets/",
+    "source": "Google AI Blog",
+    "date": "2026-08-13",
+    "summary": "Sheets canvas turns data into interactive dashboards, custom study trackers, seating charts, and more, all with a simple prompt.",
+    "category": "hardware",
+    "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Sheets_canvas-blog-header-2784x.max-600x600.format-webp.webp",
+    "id": 1,
+    "featured": true
+  },
+  {
+    "title": "Previewing Ultrafast mode: GPT-5.6 Sol at up to 14X the speed",
+    "url": "https://openai.com/index/previewing-ultrafast",
+    "source": "OpenAI Blog",
+    "date": "2026-08-13",
+    "summary": "Preview Ultrafast, a new OpenAI API service tier that runs GPT-5.6 Sol up to 14× faster. Powered by Cerebras, it delivers up to 750 output tokens per second.",
+    "category": "hardware",
+    "id": 2
+  },
+  {
+    "title": "OpenAI appoints Dali Rajic as Chief Revenue Officer",
+    "url": "https://openai.com/index/dali-rajic-chief-revenue-officer",
+    "source": "OpenAI Blog",
+    "date": "2026-08-13",
+    "summary": "OpenAI appoints Dali Rajic as Chief Revenue Officer to lead its global revenue organization and help businesses realize the full value of AI.",
+    "category": "tools",
+    "id": 3
+  },
+  {
+    "title": "The builder’s guide to GPT‑5.6",
+    "url": "https://openai.com/index/builders-guide-to-gpt-5-6",
+    "source": "OpenAI Blog",
+    "date": "2026-08-13",
+    "summary": "Learn how startups use GPT-5.6 to build faster, more cost-efficient AI agents with smarter model selection and new Responses API capabilities.",
+    "category": "models",
+    "id": 4
+  },
+  {
+    "title": "Near-packaged optics (NPO) gains ground as the industry hedges against CPO's growing pains — analysts say volume for NPO silicon photonics products will extend until the end of the decade",
+    "url": "https://www.tomshardware.com/tech-industry/near-packaged-optics-gains-ground-aso-the-industry-hedges-against-co-packaged-optics-growing-pains",
+    "source": "Tom's Hardware",
+    "date": "2026-08-13",
+    "summary": "The case for near-packaged optics (NPO) is strengthening, as the growing pains of co-packaged optics (CPO) become apparent. We explain the material differences between the two technologies as optics a...",
+    "category": "hardware",
+    "image": "https://cdn.mos.cms.futurecdn.net/w7DdReimihZtKsyzACqtjC-1280-80.jpg",
+    "id": 5
+  },
+  {
     "title": "Memory maker CXMT overtakes Tencent to become China's most valuable company 17 days after its IPO — now worth $524 billion",
     "url": "https://www.tomshardware.com/tech-industry/cxmt-overtakes-tencent-to-become-chinas-most-valuable-company-17-days-after-its-ipo",
     "source": "Tom's Hardware",
@@ -7,8 +55,7 @@
     "summary": "ChangXin Memory Technologies (CXMT) is now the world's most valuable Chinese company after passing Tencent.",
     "category": "industry",
     "image": "https://cdn.mos.cms.futurecdn.net/wkKUHuSAuArykGnpSeLcEP-1280-80.jpg",
-    "id": 1,
-    "featured": true
+    "id": 6
   },
   {
     "title": "Coin-sized device can hack a Boeing 737’s Flight Management Computer, mess with takeoff weights, or even divert an aircraft — gadget connects to an easily accessible port that overrides commands from the pilots, uses in-flight Wi-Fi",
@@ -18,7 +65,7 @@
     "summary": "Security researchers discovered a way to tap into the avionics of a Boeing 737 and remotely give its flight management computer erroneous data through in-flight Wi-Fi. This coin-sized device plugs int...",
     "category": "models",
     "image": "https://cdn.mos.cms.futurecdn.net/iDhuQoouJooKPrfFBcrGQ5-1280-80.png",
-    "id": 2
+    "id": 7
   },
   {
     "title": "Critical 'Zoomsday' flaw enables total device takeover during Zoom calls — AI-assisted research only used 20 prompts to find an exploit to hack hundreds of millions of people.",
@@ -28,7 +75,7 @@
     "summary": "Zoomsday vulnerability let anyone in a Zoom meeting take over anybody else. The vulnerability was developed with AI assistance and took research only used 20 prompts to find an exploit to hack hundred...",
     "category": "research",
     "image": "https://cdn.mos.cms.futurecdn.net/rJRWfCPEoFB3pMFCRcnnL8-1280-80.jpg",
-    "id": 3
+    "id": 8
   },
   {
     "title": "Analysts see 'increasing foundry success conviction' as Intel CEO puts $12 million more of his own money in company — analysts point to accelerating foundry progress and capex expansion",
@@ -38,7 +85,7 @@
     "summary": "Intel's Lip-Bu Ran reportedly buys $12 million worth of Intel stock as analysts believe that the management is increasingly convinced about landing external customers.",
     "category": "industry",
     "image": "https://cdn.mos.cms.futurecdn.net/nnK5aKbQvENScMdC3nPBTM-1280-80.jpg",
-    "id": 4
+    "id": 9
   },
   {
     "title": "PBS broadcaster loses access to 50TB of data comprising 70 years of TV history after contracted cloud storage vendor goes defunct — public TV channel sues Iron Mountain data center, which hosts archival materials, to ensure preservation",
@@ -48,7 +95,7 @@
     "summary": "Public broadcaster Nine PBS is in trouble after its cloud storage provider went out of business and it now can't access more than 50TB of archival data. The data center hosting the files can't simply ...",
     "category": "hardware",
     "image": "https://cdn.mos.cms.futurecdn.net/BPHVLxJP8RujNm7TQtdk8R-1280-80.jpg",
-    "id": 5
+    "id": 10
   },
   {
     "title": "Elon Musk says xAI will increase data center capacity 7x by 2027 — targeting 10 gigawatts of compute, up to $500 billion in revenue by the end of next year",
@@ -58,7 +105,7 @@
     "summary": "Elon Musk expects xAI to increase its nameplate power draw to 10 GW by late 2027, which will increase its performance by orders of magnitude what is available to AI today.",
     "category": "industry",
     "image": "https://cdn.mos.cms.futurecdn.net/EGD7PmkSMgK6t3rpCaCefg-1280-80.jpg",
-    "id": 6
+    "id": 11
   },
   {
     "title": "Cerebras shares plunge nearly 20% after missing earnings expectations — hardware sales drop but AI cloud revenue climbs 281%",
@@ -68,7 +115,27 @@
     "summary": "Cerebras keeps growing, but misses forecast as hardware sales dip amid explosive increase of AI cloud revenue.",
     "category": "hardware",
     "image": "https://cdn.mos.cms.futurecdn.net/QDGHobTS56GF94GsXHu2PV-1280-80.jpg",
-    "id": 7
+    "id": 12
+  },
+  {
+    "title": "Anthropic set AI agents loose on the same task. They started a turf war.",
+    "url": "https://techcrunch.com/2026/08/13/anthropic-set-ai-agents-loose-on-the-same-task-they-started-a-turf-war/",
+    "source": "TechCrunch",
+    "date": "2026-08-13",
+    "summary": "Anthropic researchers found AI agents can clash, collude and coordinate in unexpected ways, raising new questions about whether today’s safety tests capture the risks of multi-agent systems.",
+    "category": "research",
+    "image": "https://techcrunch.com/wp-content/uploads/2026/08/GettyImages-1354100261.jpg?resize=1200,600",
+    "id": 13
+  },
+  {
+    "title": "OpenAI hires new CRO as executive shake-up continues",
+    "url": "https://techcrunch.com/2026/08/13/openai-hires-new-cro-as-executive-shake-up-continues/",
+    "source": "TechCrunch",
+    "date": "2026-08-13",
+    "summary": "Dali Rajic will take over as OpenAI's top salesperson.",
+    "category": "industry",
+    "image": "https://techcrunch.com/wp-content/uploads/2026/08/Dali_Resized.webp?resize=1200,675",
+    "id": 14
   },
   {
     "title": "Microsoft kills off unsuccessful AI features while merging its separate Copilot apps",
@@ -78,7 +145,7 @@
     "summary": "Microsoft is simplifying Copilot by combining its consumer and business apps, and dropping AI-generated podcasts, Group Chats, Deep Research, and its Mico character.",
     "category": "tools",
     "image": "https://techcrunch.com/wp-content/uploads/2025/10/Mico-1.png?resize=1200,675",
-    "id": 8
+    "id": 15
   },
   {
     "title": "Nvidia’s new $500B plan is risky but brilliant, especially for aging GPUs",
@@ -88,7 +155,7 @@
     "summary": "Nvidia has a plan to make sure its GPUs won't lose value. It wants to convince a new crop of financiers to keep lending for AI buildouts.",
     "category": "hardware",
     "image": "https://techcrunch.com/wp-content/uploads/2025/03/GettyImages-2205217071.jpg?resize=1200,800",
-    "id": 9
+    "id": 16
   },
   {
     "title": "The Download: kids’ thoughts on AI, and female clones of male mice",
@@ -98,7 +165,7 @@
     "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. How kids feel about AI, in their own words —Jen Swetzoff and K...",
     "category": "industry",
     "image": "https://wp.technologyreview.com/wp-content/uploads/2026/08/type-2_2.png?resize=1200,600",
-    "id": 10
+    "id": 17
   },
   {
     "title": "How kids feel about AI, in their own words",
@@ -108,7 +175,7 @@
     "summary": "When we set out to talk to kids about artificial intelligence, we thought we knew what we’d hear. We expected some to tell us they were using it to cheat a little, the way Millennials and Gen Xers ope...",
     "category": "hardware",
     "image": "https://wp.technologyreview.com/wp-content/uploads/2026/08/type-2_2.png?resize=1200,600",
-    "id": 11
+    "id": 18
   },
   {
     "title": "There’s a Fatty Liver Epidemic. AI Could Help Get Ahead of It",
@@ -118,7 +185,7 @@
     "summary": "Over a billion people worldwide have livers with excess fat, which can lead to a host of medical problems. Researchers think AI tools can spot the condition—and help stop it—early enough to save lives...",
     "category": "research",
     "image": "https://media.wired.com/photos/6a7a380554cb34d4d120f360/191:100/w_1280,c_limit/Theres-a-Fatty-Liver-Epidemic-Science.jpg",
-    "id": 12
+    "id": 19
   },
   {
     "title": "Dynamic Governance of Multi-LLM Agent Systems for Collaborative Conversational Outcomes",
@@ -127,7 +194,7 @@
     "date": "2026-08-13",
     "summary": "When two LLM agents with structurally opposed objectives interact across multiple turns, the absence of a shared goal function produces not competition but collapse: the visitor capitulates, the site ...",
     "category": "industry",
-    "id": 13
+    "id": 20
   },
   {
     "title": "Distribird: Literature-Informed Prior Distribution Design for Bayesian Model Calibration",
@@ -136,7 +203,7 @@
     "date": "2026-08-13",
     "summary": "Bayesian calibration of process-based models requires a prior distribution for each model parameter. Despite decades of methodological work, researchers almost always fall back on uniform priors. The ...",
     "category": "models",
-    "id": 14
+    "id": 21
   },
   {
     "title": "A Forced-Structure Reduction and Verifiable Bounds for Conway's 99-Graph",
@@ -145,7 +212,7 @@
     "date": "2026-08-13",
     "summary": "Conway's 99-graph problem asks whether a strongly regular graph with parameters $\\mathrm{srg}(99,14,1,2)$ exists. We report a systematic, fully reproducible attack by an autonomous AI research agent, ...",
     "category": "models",
-    "id": 15
+    "id": 22
   },
   {
     "title": "Detecting a Route Flip Is Easier Than Knowing Whether to Fix It: Causal Route-Mediated Damage in Quantized Mixture-of-Experts",
@@ -154,7 +221,7 @@
     "date": "2026-08-13",
     "summary": "Top-k Mixture-of-Experts (MoE) routing is discontinuous, so a deployment-motivated numerical disturbance -- simulated 4-bit KV-cache quantization read by a protected BF16 gate -- pushes tokens across ...",
     "category": "research",
-    "id": 16
+    "id": 23
   },
   {
     "title": "Poor Man's Agentic Modeling: Simulating Large LLM-Agent Societies on a Laptop",
@@ -163,7 +230,7 @@
     "date": "2026-08-13",
     "summary": "Simulating societies of many large language model (LLM) agents is expensive, yet the questions asked of such simulations are usually macroscopic: phase behaviour, stylised facts, and scaling with the ...",
     "category": "models",
-    "id": 17
+    "id": 24
   },
   {
     "title": "AutoWorldModel-Bench: A State-Centric Benchmark for Automated World-Model Research",
@@ -172,7 +239,7 @@
     "date": "2026-08-13",
     "summary": "World modeling is an unsettled field: architectures, training objectives, and state representations interact in complex ways, and no single recipe dominates across environments. This makes it an ideal...",
     "category": "models",
-    "id": 18
+    "id": 25
   },
   {
     "title": "From Monolithic to Modular: Segment-level Automatic Prompt Optimization",
@@ -181,7 +248,7 @@
     "date": "2026-08-13",
     "summary": "Automatic Prompt Optimization (APO) often rewrites prompts monolithically, which can improve one behavior while degrading others. We present SAPO, a segment-level APO method that decomposes prompts in...",
     "category": "models",
-    "id": 19
+    "id": 26
   },
   {
     "title": "LLMs in Process Diagram Engineering: From Optimal PFDs to Validated P&IDs",
@@ -190,7 +257,7 @@
     "date": "2026-08-13",
     "summary": "Nowadays, the creation of a process flow diagram (PFD) and its subsequent transformation into a piping and instrumentation diagram (P&ID) is predominantly performed manually. Applying artificial intel...",
     "category": "models",
-    "id": 20
+    "id": 27
   },
   {
     "title": "A Conceptual Framework for Refining Influence Knowledge from Simulation Evidence in Cyber-Physical Systems",
@@ -199,7 +266,7 @@
     "date": "2026-08-13",
     "summary": "Cyber-physical systems (CPS) are typically developed by multiple stakeholders who produce artefacts tailored to their specific domains of expertise. The behaviour of these systems emerges from the int...",
     "category": "research",
-    "id": 21
+    "id": 28
   },
   {
     "title": "Harnessing agent memory to build lifelong AI partners for materials scientists",
@@ -208,7 +275,7 @@
     "date": "2026-08-13",
     "summary": "Materials research advances through accumulated experience - scripts that work, protocols that are trusted, warnings attached to failed calculations or experiments, and judgement that links a new ques...",
     "category": "hardware",
-    "id": 22
+    "id": 29
   },
   {
     "title": "Identity from the Outside: A Conceptual Framework and Research Program for AI Personality Clones",
@@ -217,7 +284,7 @@
     "date": "2026-08-13",
     "summary": "AI \"personality clones\" force a re-examination of personal identity in operational terms. Setting aside the hard problem of consciousness, we approach identity through the indiscernibility of manifest...",
     "category": "hardware",
-    "id": 23
+    "id": 30
   },
   {
     "title": "Cutting AI Datacenter Energy with Reinforcement Learning: Measured Power Control of LLM Training from One GPU to the Fleet",
@@ -226,7 +293,7 @@
     "date": "2026-08-13",
     "summary": "Reinforcement-learning post-training dominates modern language-model development, yet its power behavior on GPU hardware has not been characterized, and datacenters manage GPU power with workload-blin...",
     "category": "hardware",
-    "id": 24
+    "id": 31
   },
   {
     "title": "Forecasting Side Effects of Activation Steering",
@@ -235,7 +302,7 @@
     "date": "2026-08-13",
     "summary": "Activation steering modifies a language model by adding a learned direction to its hidden activations, enabling targeted behavioral changes without retraining. While effective, steering often produces...",
     "category": "models",
-    "id": 25
+    "id": 32
   },
   {
     "title": "The Edge-based Contiguous p-median Problem with Connections to Logistics Districting",
@@ -244,7 +311,7 @@
     "date": "2026-08-13",
     "summary": "This paper introduces the edge-based contiguous p-median (ECpM) problem to partition the roads in a network into a given number of compact and contiguous territories. Two binary programming models are...",
     "category": "research",
-    "id": 26
+    "id": 33
   },
   {
     "title": "LinearKV: One Cached State Suffices for Position-Independent Caching in Hybrid LLMs",
@@ -253,7 +320,7 @@
     "date": "2026-08-13",
     "summary": "LLM serving is increasingly accelerated by position-independent caching (PIC). Existing PIC methods, however, are built for full-attention models, where a token-indexed KV cache underlies its core ope...",
     "category": "models",
-    "id": 27
+    "id": 34
   },
   {
     "title": "InfraBench: Evaluating Infrastructure Agents Across Layers, Lifecycle, and Risk",
@@ -262,7 +329,7 @@
     "date": "2026-08-13",
     "summary": "Managing modern computing infrastructure has become a steadily harder problem due to the ever-increasing complexity. Recent advances in AI agents create a timely opportunity to automate infrastructure...",
     "category": "research",
-    "id": 28
+    "id": 35
   },
   {
     "title": "CORA-Diff: Confidence-Oriented Residual Acceptance for Efficient Diffusion Language Model Inference",
@@ -271,7 +338,7 @@
     "date": "2026-08-13",
     "summary": "Diffusion language models (DLMs) update many tokens in parallel, yet practical decoders often use a fixed denoising horizon. Many predictions stabilize early, but blockwise decoding continues until al...",
     "category": "models",
-    "id": 29
+    "id": 36
   },
   {
     "title": "Geometry-aware Incremental Neural Operator for Long-Horizon PDE prediction",
@@ -280,7 +347,7 @@
     "date": "2026-08-13",
     "summary": "Neural operators have shown strong potential for learning solution operators of partial differential equations (PDEs). However, long-horizon autoregressive prediction remains challenging: local errors...",
     "category": "research",
-    "id": 30
+    "id": 37
   },
   {
     "title": "Towards Query-Agnostic RAG Evaluation via Query Coverage and Claim Verifiability",
@@ -289,7 +356,7 @@
     "date": "2026-08-13",
     "summary": "Retrieval-augmented generation improves the factuality of large language models by grounding responses in retrieved evidence, yet existing evaluation frameworks struggle to provide consistent, fine-gr...",
     "category": "research",
-    "id": 31
+    "id": 38
   },
   {
     "title": "VQ-bench: A Composable Vector Quantization Framework",
@@ -298,7 +365,7 @@
     "date": "2026-08-13",
     "summary": "Vector quantization is an old problem but has recently become central to AI infrastructure. It is therefore experiencing a surge of renewed engineering and research activity. This paper provides a uni...",
     "category": "research",
-    "id": 32
+    "id": 39
   },
   {
     "title": "RecSys Factory: Bounding LLM Agent Autonomy to Decision Points in the Industrial Recommender Lifecycle",
@@ -307,7 +374,7 @@
     "date": "2026-08-13",
     "summary": "Deploying LLM agents into industrial recommender operations exposes a three-way tension we frame as the autonomy-determinism-efficiency trilemma: general autonomy (interpreting operator intent, genera...",
     "category": "tools",
-    "id": 33
+    "id": 40
   },
   {
     "title": "The Off-Support Barrier: Why Semantic Safety Constraints Are Not Learning-Problem Invariants, and What Follows for Prior Design, Containment, and Verification",
@@ -316,7 +383,7 @@
     "date": "2026-08-13",
     "summary": "We argue that a single structural fact organizes a wide range of phenomena in contemporary AI safety: a semantic safety constraint (e.g., the agent does not escape its sandbox) is an off-support objec...",
     "category": "research",
-    "id": 34
+    "id": 41
   },
   {
     "title": "BEST-KAG: Enhancing Question Answering of Building Engineering Standards with Multimodal Knowledge Graph Modeling and Large Language Model",
@@ -325,7 +392,7 @@
     "date": "2026-08-13",
     "summary": "Construction standards are critical for building safety and sustainability. Existing standard application workflows rely on keyword-based document retrieval and manual cross-clause interpretation, whi...",
     "category": "research",
-    "id": 35
+    "id": 42
   },
   {
     "title": "Towards Sustainable Learning in Online Education: A Reinforcement Learning Approach",
@@ -334,7 +401,7 @@
     "date": "2026-08-13",
     "summary": "Online education offers unprecedented scalability and accessibility to global learners from diverse backgrounds, but it often suffers from low engagement and poor long term learning effectiveness. To ...",
     "category": "research",
-    "id": 36
+    "id": 43
   },
   {
     "title": "Towards the Harness of Embodied Agents",
@@ -343,7 +410,7 @@
     "date": "2026-08-13",
     "summary": "The success of coding agents has established the harness as a paradigm: what an agent achieves depends not on the model alone, but on the infrastructure around it. We ask whether the same paradigm ext...",
     "category": "research",
-    "id": 37
+    "id": 44
   },
   {
     "title": "Conformity Mitigations in Large Language Models Lie on a Single Resistance-Receptivity Frontier",
@@ -352,7 +419,7 @@
     "date": "2026-08-13",
     "summary": "Recent advances in language models have enabled collaborative settings in which multiple models leverage one another's capabilities, iteratively improving, transforming, and extending each other's out...",
     "category": "models",
-    "id": 38
+    "id": 45
   },
   {
     "title": "EvoGraph-Mem: Failure-Aware Editable Graph Memory for Long-Term Language Agents",
@@ -361,7 +428,7 @@
     "date": "2026-08-13",
     "summary": "Long-term memory is essential for language agents operating across extended interactions and evolving tasks. Existing memory-augmented agents mainly focus on storing and retrieving past experience, bu...",
     "category": "hardware",
-    "id": 39
+    "id": 46
   },
   {
     "title": "AgonAlpha: Autonomous Alpha Discovery via Prompt Economy and Scalable Agentic Search",
@@ -370,7 +437,7 @@
     "date": "2026-08-13",
     "summary": "Language models can propose many plausible trading factors, but an autonomous research system must also allocate its evaluation budget, verify its own evidence, and preserve how each candidate was pro...",
     "category": "research",
-    "id": 40
+    "id": 47
   },
   {
     "title": "Local verification cannot detect non-transportability: a cohomological theory of context preservation in agentic reasoning",
@@ -379,7 +446,7 @@
     "date": "2026-08-13",
     "summary": "Agentic AI systems routinely transport conclusions across biological, clinical and financial contexts, and the emerging safeguard is local verification: checking at each step that the entity is repres...",
     "category": "research",
-    "id": 41
+    "id": 48
   },
   {
     "title": "Symbolic Machine Learning for Vapor-Liquid Equilibrium Prediction in Cx-N2 Binary Mixtures",
@@ -388,7 +455,7 @@
     "date": "2026-08-13",
     "summary": "Accurate prediction of vapor--liquid equilibrium (VLE) for hydrocarbon-nitrogen mixtures remains challenging for cubic equations of state, particularly across broad ranges of composition and hydrocarb...",
     "category": "research",
-    "id": 42
+    "id": 49
   },
   {
     "title": "Adaptive Hybrid Particle Swarm Optimization with Gradient Descent",
@@ -397,69 +464,6 @@
     "date": "2026-08-13",
     "summary": "Gradient injection helps Particle Swarm Optimization (PSO) only when the swarm has identified a basin with smooth local structure, not universally. We propose Adaptive Hybrid PSO (AHPSO), which uses a...",
     "category": "research",
-    "id": 43
-  },
-  {
-    "title": "Glance, Scrutinize, and Think: Advancing Video Anomaly Detection from Training-Free to Agentic Reasoning",
-    "url": "https://arxiv.org/abs/2608.11260",
-    "source": "arXiv cs.AI",
-    "date": "2026-08-13",
-    "summary": "Video Anomaly Detection (VAD) aims to identify anomalous events and localize their temporal intervals. Existing approaches exhibit a \"when-what\" dissociation: traditional DNN-based methods localize wh...",
-    "category": "research",
-    "id": 44
-  },
-  {
-    "title": "Deployment Decision Reliability: A Generalizability-Theory Framework for Sizing Long-Horizon Agent Evaluations",
-    "url": "https://arxiv.org/abs/2608.11323",
-    "source": "arXiv cs.AI",
-    "date": "2026-08-13",
-    "summary": "Enterprise practitioners read agent leaderboards as if they ranked agent capability. We show, across three open agent-trace benchmarks (TheAgentCompany, $\\tau^2$-bench, and AppWorld), that the agent m...",
-    "category": "research",
-    "id": 45
-  },
-  {
-    "title": "Apodex Discovery: Reality Benchmarks and Environments for Evaluating and Building Discoverative Artificial Intelligence",
-    "url": "https://arxiv.org/abs/2608.11341",
-    "source": "arXiv cs.AI",
-    "date": "2026-08-13",
-    "summary": "Apollo did not reach the Moon merely because its engineers could solve difficult equations. It succeeded by turning a distant ambition into a mission architecture of explicit objectives, simulation, v...",
-    "category": "models",
-    "id": 46
-  },
-  {
-    "title": "Can Frontier LLMs Match Natively Multimodal Embeddings? A Comparison on Hard-Negative Text-to-Image Retrieval",
-    "url": "https://arxiv.org/abs/2608.11343",
-    "source": "arXiv cs.AI",
-    "date": "2026-08-13",
-    "summary": "Multimodal retrieval and classification across different types of media, spanning text, images,video and audio, has traditionally relied on dual-encoder models that align visual and textual representa...",
-    "category": "models",
-    "id": 47
-  },
-  {
-    "title": "Inverse Theory of Mind Modeling for Content Recommendation: From Web Browsing to Dynamic Intelligent Interfaces",
-    "url": "https://arxiv.org/abs/2608.11354",
-    "source": "arXiv cs.AI",
-    "date": "2026-08-13",
-    "summary": "Modern recommender systems treat observed actions as reliable proxies for user preferences, yet interactions often reflect exploration or comparison rather than stable preference expression. As interf...",
-    "category": "research",
-    "id": 48
-  },
-  {
-    "title": "From Numbers to Judgment: Specialist LLM Agents and Reinforcement Learning for European Listed Real Estate",
-    "url": "https://arxiv.org/abs/2608.11381",
-    "source": "arXiv cs.AI",
-    "date": "2026-08-13",
-    "summary": "We study whether the localized numerical operations and integrative judgments of financial analysis benefit from the same form of LLM specialization. Larix maps a 16-lens European listed-real-estate a...",
-    "category": "models",
-    "id": 49
-  },
-  {
-    "title": "When Self-Consistency Backfires: Majority Vote Hurts the Majority of Hard Science Problems for Small LLMs",
-    "url": "https://arxiv.org/abs/2608.11403",
-    "source": "arXiv cs.AI",
-    "date": "2026-08-13",
-    "summary": "Self-consistency (SC) via majority vote is a widely used way to spend inference-time compute: sample N chains of thought, return the plurality answer. On the full GPQA Diamond benchmark (198 graduate-...",
-    "category": "models",
     "id": 50
   }
 ]
