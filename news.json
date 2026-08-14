@@ -1,32 +1,88 @@
 [
   {
-    "title": "Bring your spreadsheet data to life with Sheets canvas",
-    "url": "https://blog.google/products-and-platforms/products/workspace/sheets-canvas-for-google-sheets-spreadsheets/",
-    "source": "Google AI Blog",
-    "date": "2026-08-13",
-    "summary": "Sheets canvas turns data into interactive dashboards, custom study trackers, seating charts, and more, all with a simple prompt.",
-    "category": "hardware",
-    "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Sheets_canvas-blog-header-2784x.max-600x600.format-webp.webp",
+    "title": "Muxxy: Like Slime, for AI and Tmux",
+    "url": "https://blog.djhaskin.com/blog/muxxy-like-slime-for-ai-tmux/",
+    "source": "Hacker News",
+    "date": "2026-08-14",
+    "summary": "Article URL: https://blog.djhaskin.com/blog/muxxy-like-slime-for-ai-tmux/ Comments URL: https://news.ycombinator.com/item?id=49293955 Points: 1 # Comments: 0",
+    "category": "industry",
     "id": 1,
     "featured": true
   },
   {
-    "title": "Previewing Ultrafast mode: GPT-5.6 Sol at up to 14X the speed",
-    "url": "https://openai.com/index/previewing-ultrafast",
-    "source": "OpenAI Blog",
-    "date": "2026-08-13",
-    "summary": "Preview Ultrafast, a new OpenAI API service tier that runs GPT-5.6 Sol up to 14× faster. Powered by Cerebras, it delivers up to 750 output tokens per second.",
-    "category": "hardware",
+    "title": "Ask HN: How do you develop more deterministic LLM pipelines?",
+    "url": "https://news.ycombinator.com/item?id=49293943",
+    "source": "Hacker News",
+    "date": "2026-08-14",
+    "summary": "It feels like with LLMs I develop a prompt and then get some kind of output that's not very well structured and requires some kind of human oversight to verify that the result I've gotten back is of q...",
+    "category": "models",
     "id": 2
   },
   {
-    "title": "OpenAI appoints Dali Rajic as Chief Revenue Officer",
-    "url": "https://openai.com/index/dali-rajic-chief-revenue-officer",
-    "source": "OpenAI Blog",
-    "date": "2026-08-13",
-    "summary": "OpenAI appoints Dali Rajic as Chief Revenue Officer to lead its global revenue organization and help businesses realize the full value of AI.",
-    "category": "tools",
+    "title": "DeepMind's Hassabis Pitched AI-Oversight Body Before Shake-Up",
+    "url": "https://www.wsj.com/tech/ai/deepminds-hassabis-pitched-ai-oversight-body-before-shake-up-e25b3f71",
+    "source": "Hacker News",
+    "date": "2026-08-14",
+    "summary": "Article URL: https://www.wsj.com/tech/ai/deepminds-hassabis-pitched-ai-oversight-body-before-shake-up-e25b3f71 Comments URL: https://news.ycombinator.com/item?id=49293900 Points: 1 # Comments: 0",
+    "category": "industry",
     "id": 3
+  },
+  {
+    "title": "Silicon Valley's AI boom is remaking American charity",
+    "url": "https://economist.com/international/2026/08/13/silicon-valleys-ai-boom-is-remaking-american-charity",
+    "source": "Hacker News",
+    "date": "2026-08-14",
+    "summary": "Article URL: https://economist.com/international/2026/08/13/silicon-valleys-ai-boom-is-remaking-american-charity Comments URL: https://news.ycombinator.com/item?id=49293791 Points: 1 # Comments: 0",
+    "category": "hardware",
+    "id": 4
+  },
+  {
+    "title": "The Math Superstar Who's Terrified of AI–and Just Took a Job at OpenAI",
+    "url": "https://www.wsj.com/tech/ai/openai-jacob-tsimerman-fields-medal-ai-safety-391d0f79",
+    "source": "Hacker News",
+    "date": "2026-08-14",
+    "summary": "Article URL: https://www.wsj.com/tech/ai/openai-jacob-tsimerman-fields-medal-ai-safety-391d0f79 Comments URL: https://news.ycombinator.com/item?id=49293492 Points: 4 # Comments: 0",
+    "category": "research",
+    "id": 5
+  },
+  {
+    "title": "Agentrove: Self-hosted AI workspace for orchestrating coding agents",
+    "url": "https://github.com/Mng-dev-ai/agentrove",
+    "source": "Hacker News",
+    "date": "2026-08-14",
+    "summary": "Article URL: https://github.com/Mng-dev-ai/agentrove Comments URL: https://news.ycombinator.com/item?id=49293480 Points: 1 # Comments: 0",
+    "category": "industry",
+    "image": "https://opengraph.githubassets.com/3a15a3f3ea4afe79f31f7ad926b6457970fac50fa93711b24eb9536bec3ab59a/Mng-dev-ai/agentrove",
+    "id": 6
+  },
+  {
+    "title": "How Can LLM RL Work Despite Information-Theoretic Inefficiency",
+    "url": "https://www.beren.io/2026-07-26-How-Can-LLM-RL-Work-Despite-Information-Theoretic-Inefficiency/",
+    "source": "Hacker News",
+    "date": "2026-08-14",
+    "summary": "Article URL: https://www.beren.io/2026-07-26-How-Can-LLM-RL-Work-Despite-Information-Theoretic-Inefficiency/ Comments URL: https://news.ycombinator.com/item?id=49293276 Points: 3 # Comments: 0",
+    "category": "models",
+    "id": 7
+  },
+  {
+    "title": "Show HN: Auto-train the harness, not the LLM. cross-model, cross-benchmark gains",
+    "url": "https://github.com/workofart/harness-training",
+    "source": "Hacker News",
+    "date": "2026-08-14",
+    "summary": "Article URL: https://github.com/workofart/harness-training Comments URL: https://news.ycombinator.com/item?id=49293267 Points: 4 # Comments: 0",
+    "category": "models",
+    "image": "https://opengraph.githubassets.com/d4cfc5f9a8ee7e4e1b1d132412f862665b61e22c39a1f8cd9ec6f53788b5ebd5/workofart/harness-training",
+    "id": 8
+  },
+  {
+    "title": "AI Pen Testing Chrome Extension",
+    "url": "https://github.com/brianhama/in-browser-sec-audit",
+    "source": "Hacker News",
+    "date": "2026-08-14",
+    "summary": "Article URL: https://github.com/brianhama/in-browser-sec-audit Comments URL: https://news.ycombinator.com/item?id=49293241 Points: 2 # Comments: 0",
+    "category": "tools",
+    "image": "https://opengraph.githubassets.com/132719cc7c0c25f2d103c4cddf3c14f43e5e252765fae7c65e40cc54fc410040/brianhama/in-browser-sec-audit",
+    "id": 9
   },
   {
     "title": "The builder’s guide to GPT‑5.6",
@@ -35,7 +91,35 @@
     "date": "2026-08-13",
     "summary": "Learn how startups use GPT-5.6 to build faster, more cost-efficient AI agents with smarter model selection and new Responses API capabilities.",
     "category": "models",
-    "id": 4
+    "id": 10
+  },
+  {
+    "title": "Previewing Ultrafast mode: GPT-5.6 Sol at up to 14X the speed",
+    "url": "https://openai.com/index/previewing-ultrafast",
+    "source": "OpenAI Blog",
+    "date": "2026-08-13",
+    "summary": "Preview Ultrafast, a new OpenAI API service tier that runs GPT-5.6 Sol up to 14× faster. Powered by Cerebras, it delivers up to 750 output tokens per second.",
+    "category": "hardware",
+    "id": 11
+  },
+  {
+    "title": "OpenAI appoints Dali Rajic as Chief Revenue Officer",
+    "url": "https://openai.com/index/dali-rajic-chief-revenue-officer",
+    "source": "OpenAI Blog",
+    "date": "2026-08-13",
+    "summary": "OpenAI appoints Dali Rajic as Chief Revenue Officer to lead its global revenue organization and help businesses realize the full value of AI.",
+    "category": "tools",
+    "id": 12
+  },
+  {
+    "title": "Bring your spreadsheet data to life with Sheets canvas",
+    "url": "https://blog.google/products-and-platforms/products/workspace/sheets-canvas-for-google-sheets-spreadsheets/",
+    "source": "Google AI Blog",
+    "date": "2026-08-13",
+    "summary": "Sheets canvas turns data into interactive dashboards, custom study trackers, seating charts, and more, all with a simple prompt.",
+    "category": "hardware",
+    "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Sheets_canvas-blog-header-2784x.max-600x600.format-webp.webp",
+    "id": 13
   },
   {
     "title": "Near-packaged optics (NPO) gains ground as the industry hedges against CPO's growing pains — analysts say volume for NPO silicon photonics products will extend until the end of the decade",
@@ -45,7 +129,7 @@
     "summary": "The case for near-packaged optics (NPO) is strengthening, as the growing pains of co-packaged optics (CPO) become apparent. We explain the material differences between the two technologies as optics a...",
     "category": "hardware",
     "image": "https://cdn.mos.cms.futurecdn.net/w7DdReimihZtKsyzACqtjC-1280-80.jpg",
-    "id": 5
+    "id": 14
   },
   {
     "title": "Memory maker CXMT overtakes Tencent to become China's most valuable company 17 days after its IPO — now worth $524 billion",
@@ -55,7 +139,7 @@
     "summary": "ChangXin Memory Technologies (CXMT) is now the world's most valuable Chinese company after passing Tencent.",
     "category": "industry",
     "image": "https://cdn.mos.cms.futurecdn.net/wkKUHuSAuArykGnpSeLcEP-1280-80.jpg",
-    "id": 6
+    "id": 15
   },
   {
     "title": "Coin-sized device can hack a Boeing 737’s Flight Management Computer, mess with takeoff weights, or even divert an aircraft — gadget connects to an easily accessible port that overrides commands from the pilots, uses in-flight Wi-Fi",
@@ -65,7 +149,7 @@
     "summary": "Security researchers discovered a way to tap into the avionics of a Boeing 737 and remotely give its flight management computer erroneous data through in-flight Wi-Fi. This coin-sized device plugs int...",
     "category": "models",
     "image": "https://cdn.mos.cms.futurecdn.net/iDhuQoouJooKPrfFBcrGQ5-1280-80.png",
-    "id": 7
+    "id": 16
   },
   {
     "title": "Critical 'Zoomsday' flaw enables total device takeover during Zoom calls — AI-assisted research only used 20 prompts to find an exploit to hack hundreds of millions of people.",
@@ -75,7 +159,7 @@
     "summary": "Zoomsday vulnerability let anyone in a Zoom meeting take over anybody else. The vulnerability was developed with AI assistance and took research only used 20 prompts to find an exploit to hack hundred...",
     "category": "research",
     "image": "https://cdn.mos.cms.futurecdn.net/rJRWfCPEoFB3pMFCRcnnL8-1280-80.jpg",
-    "id": 8
+    "id": 17
   },
   {
     "title": "Analysts see 'increasing foundry success conviction' as Intel CEO puts $12 million more of his own money in company — analysts point to accelerating foundry progress and capex expansion",
@@ -85,7 +169,7 @@
     "summary": "Intel's Lip-Bu Ran reportedly buys $12 million worth of Intel stock as analysts believe that the management is increasingly convinced about landing external customers.",
     "category": "industry",
     "image": "https://cdn.mos.cms.futurecdn.net/nnK5aKbQvENScMdC3nPBTM-1280-80.jpg",
-    "id": 9
+    "id": 18
   },
   {
     "title": "PBS broadcaster loses access to 50TB of data comprising 70 years of TV history after contracted cloud storage vendor goes defunct — public TV channel sues Iron Mountain data center, which hosts archival materials, to ensure preservation",
@@ -95,7 +179,7 @@
     "summary": "Public broadcaster Nine PBS is in trouble after its cloud storage provider went out of business and it now can't access more than 50TB of archival data. The data center hosting the files can't simply ...",
     "category": "hardware",
     "image": "https://cdn.mos.cms.futurecdn.net/BPHVLxJP8RujNm7TQtdk8R-1280-80.jpg",
-    "id": 10
+    "id": 19
   },
   {
     "title": "Elon Musk says xAI will increase data center capacity 7x by 2027 — targeting 10 gigawatts of compute, up to $500 billion in revenue by the end of next year",
@@ -105,7 +189,7 @@
     "summary": "Elon Musk expects xAI to increase its nameplate power draw to 10 GW by late 2027, which will increase its performance by orders of magnitude what is available to AI today.",
     "category": "industry",
     "image": "https://cdn.mos.cms.futurecdn.net/EGD7PmkSMgK6t3rpCaCefg-1280-80.jpg",
-    "id": 11
+    "id": 20
   },
   {
     "title": "Cerebras shares plunge nearly 20% after missing earnings expectations — hardware sales drop but AI cloud revenue climbs 281%",
@@ -115,7 +199,7 @@
     "summary": "Cerebras keeps growing, but misses forecast as hardware sales dip amid explosive increase of AI cloud revenue.",
     "category": "hardware",
     "image": "https://cdn.mos.cms.futurecdn.net/QDGHobTS56GF94GsXHu2PV-1280-80.jpg",
-    "id": 12
+    "id": 21
   },
   {
     "title": "Writer introduces new AI model and upgraded harness to contain token costs",
@@ -125,7 +209,7 @@
     "summary": "Built as a post-training variation on Z.ai's open source model GLM-5.2, Writer says the new system should provide deployment-ready capabilities at a much lower price.",
     "category": "tools",
     "image": "https://techcrunch.com/wp-content/uploads/2023/09/May-Habib-Disrupt-2023.jpg?resize=1200,800",
-    "id": 13
+    "id": 22
   },
   {
     "title": "Databricks wanted to raise $1B, investors wanted $15B. It settled on $5B at a $190B valuation.",
@@ -135,7 +219,7 @@
     "summary": "AI is expensive, Ali Ghodsi tells TechCrunch. With so many investors wanting into his latest round, he said yes to more than planned.",
     "category": "industry",
     "image": "https://techcrunch.com/wp-content/uploads/2021/04/Ali_Ghodsi.jpg?resize=1200,1200",
-    "id": 14
+    "id": 23
   },
   {
     "title": "OpenAI introduces ‘Ultrafast,’ a new mode that makes GPT-5.6 Sol work at 14x the speed",
@@ -145,7 +229,7 @@
     "summary": "OpenAI is launching a preview of a sped up version of its latest, most powerful model, in an effort to court enterprise users.",
     "category": "models",
     "image": "https://techcrunch.com/wp-content/uploads/2026/02/EU-ai-1258475609.jpg?w=1024",
-    "id": 15
+    "id": 24
   },
   {
     "title": "IBM partners with OpenAI to bolster enterprise AI push",
@@ -155,7 +239,7 @@
     "summary": "IBM plans to train and certify tens of thousands of consultants on OpenAI's technologies as part of this deal.",
     "category": "industry",
     "image": "https://techcrunch.com/wp-content/uploads/2022/04/GettyImages-1127480719.jpg?w=1024",
-    "id": 16
+    "id": 25
   },
   {
     "title": "Anthropic set AI agents loose on the same task. They started a turf war.",
@@ -165,7 +249,7 @@
     "summary": "Anthropic researchers found AI agents can clash, collude, and coordinate in unexpected ways, raising new questions about whether today’s safety tests capture the risks of multi-agent systems.",
     "category": "research",
     "image": "https://techcrunch.com/wp-content/uploads/2026/08/GettyImages-1354100261.jpg?resize=1200,600",
-    "id": 17
+    "id": 26
   },
   {
     "title": "OpenAI hires new CRO as executive shake-up continues",
@@ -175,7 +259,7 @@
     "summary": "OpenAI has replaced chief revenue officer Denise Dresser after just nine months on the job, tapping Wiz president and chief operating officer Dali Rajic to take on frontier lab's top sales job.",
     "category": "industry",
     "image": "https://techcrunch.com/wp-content/uploads/2026/08/Dali_Resized.webp?resize=1200,675",
-    "id": 18
+    "id": 27
   },
   {
     "title": "Microsoft kills off unsuccessful AI features while merging its separate Copilot apps",
@@ -185,7 +269,7 @@
     "summary": "Microsoft is simplifying Copilot by combining its consumer and business apps, and dropping AI-generated podcasts, Group Chats, Deep Research, and its Mico character.",
     "category": "tools",
     "image": "https://techcrunch.com/wp-content/uploads/2025/10/Mico-1.png?resize=1200,675",
-    "id": 19
+    "id": 28
   },
   {
     "title": "Nvidia’s new $500B plan is risky but brilliant, especially for aging GPUs",
@@ -195,185 +279,113 @@
     "summary": "Nvidia has a plan to make sure its GPUs won't lose value. It wants to convince a new crop of financiers to keep lending for AI buildouts.",
     "category": "hardware",
     "image": "https://techcrunch.com/wp-content/uploads/2025/03/GettyImages-2205217071.jpg?resize=1200,800",
-    "id": 20
-  },
-  {
-    "title": "LinkedIn Wants Users to Lean Less on AI. Maybe Less",
-    "url": "https://www.wsj.com/cmo-today/linkedin-wants-users-to-lean-less-on-ai-maybe-a-lot-less-8e03b2aa",
-    "source": "Hacker News",
-    "date": "2026-08-13",
-    "summary": "Article URL: https://www.wsj.com/cmo-today/linkedin-wants-users-to-lean-less-on-ai-maybe-a-lot-less-8e03b2aa Comments URL: https://news.ycombinator.com/item?id=49292211 Points: 1 # Comments: 0",
-    "category": "industry",
-    "id": 21
-  },
-  {
-    "title": "Mistral AI Strategy",
-    "url": "https://venturebeat.com/infrastructure/mistral-ai-wants-to-build-1-gigawatt-of-european-compute-by-2030-and-lock-in-customers-now",
-    "source": "Hacker News",
-    "date": "2026-08-13",
-    "summary": "Article URL: https://venturebeat.com/infrastructure/mistral-ai-wants-to-build-1-gigawatt-of-european-compute-by-2030-and-lock-in-customers-now Comments URL: https://news.ycombinator.com/item?id=492919...",
-    "category": "models",
-    "id": 22
-  },
-  {
-    "title": "AI Mania Is Eviscerating Global Decision-Making",
-    "url": "https://ludic.mataroa.blog/blog/ai-mania-is-eviscerating-global-decision-making/#fnref:7",
-    "source": "Hacker News",
-    "date": "2026-08-13",
-    "summary": "Article URL: https://ludic.mataroa.blog/blog/ai-mania-is-eviscerating-global-decision-making/#fnref:7 Comments URL: https://news.ycombinator.com/item?id=49291784 Points: 2 # Comments: 0",
-    "category": "industry",
-    "id": 23
-  },
-  {
-    "title": "Oneiric – an open-source AI short film [video]",
-    "url": "https://www.youtube.com/watch?v=aAg9iDh9_BQ",
-    "source": "Hacker News",
-    "date": "2026-08-13",
-    "summary": "Article URL: https://www.youtube.com/watch?v=aAg9iDh9_BQ Comments URL: https://news.ycombinator.com/item?id=49291685 Points: 2 # Comments: 0",
-    "category": "industry",
-    "id": 24
-  },
-  {
-    "title": "A quarter of YC Fall 2025 startups are blank pages to AI crawlers",
-    "url": "https://readablebyai.com/index-report",
-    "source": "Hacker News",
-    "date": "2026-08-13",
-    "summary": "Article URL: https://readablebyai.com/index-report Comments URL: https://news.ycombinator.com/item?id=49291660 Points: 2 # Comments: 0",
-    "category": "industry",
-    "id": 25
-  },
-  {
-    "title": "It May Be Time to Panic About AI",
-    "url": "https://www.theatlantic.com/technology/2026/08/openai-hacks-panic/688264/",
-    "source": "Hacker News",
-    "date": "2026-08-13",
-    "summary": "Article URL: https://www.theatlantic.com/technology/2026/08/openai-hacks-panic/688264/ Comments URL: https://news.ycombinator.com/item?id=49291478 Points: 3 # Comments: 1",
-    "category": "industry",
-    "image": "https://cdn.theatlantic.com/thumbor/Y-vLkLI0cVT8A-39filV70gHpdg=/0x40:1999x1081/1200x625/media/img/mt/2026/08/2026_08_12_AI_mpg/original.gif",
-    "id": 26
-  },
-  {
-    "title": "Agents on Rails: The LLM Benchmark Project",
-    "url": "https://rubyonrails.org/2026/8/12/llm-benchmarking-project",
-    "source": "Hacker News",
-    "date": "2026-08-13",
-    "summary": "Article URL: https://rubyonrails.org/2026/8/12/llm-benchmarking-project Comments URL: https://news.ycombinator.com/item?id=49291469 Points: 4 # Comments: 0",
-    "category": "models",
-    "image": "https://rubyonrails.org/assets/images/opengraph.png",
-    "id": 27
-  },
-  {
-    "title": "Lululemon's AI Chief Departs Retailer After Less Than a Year",
-    "url": "https://www.bloomberg.com/news/articles/2026-08-13/lululemon-s-ai-chief-departs-retailer-after-less-than-a-year",
-    "source": "Hacker News",
-    "date": "2026-08-13",
-    "summary": "Article URL: https://www.bloomberg.com/news/articles/2026-08-13/lululemon-s-ai-chief-departs-retailer-after-less-than-a-year Comments URL: https://news.ycombinator.com/item?id=49291455 Points: 2 # Com...",
-    "category": "industry",
-    "id": 28
-  },
-  {
-    "title": "The AI slop doctors, and the prompts instructing them to lie",
-    "url": "https://codysumter.substack.com/p/this-is-medical-advice",
-    "source": "Hacker News",
-    "date": "2026-08-13",
-    "summary": "Article URL: https://codysumter.substack.com/p/this-is-medical-advice Comments URL: https://news.ycombinator.com/item?id=49291420 Points: 4 # Comments: 0",
-    "category": "models",
     "id": 29
   },
   {
-    "title": "Arca Sophia Open-Core–Edge AI and Scada Telemetry Filter in Docker (AGPLv3)",
-    "url": "https://github.com/Nodo9/arca-sophia-open-core",
+    "title": "AI Can Now Design Functional Viruses",
+    "url": "https://spectrum.ieee.org/ai-designed-virus",
     "source": "Hacker News",
     "date": "2026-08-13",
-    "summary": "Article URL: https://github.com/Nodo9/arca-sophia-open-core Comments URL: https://news.ycombinator.com/item?id=49291382 Points: 1 # Comments: 0",
+    "summary": "Article URL: https://spectrum.ieee.org/ai-designed-virus Comments URL: https://news.ycombinator.com/item?id=49293198 Points: 2 # Comments: 0",
     "category": "industry",
-    "image": "https://opengraph.githubassets.com/f4eb831b13f2dada4c60d4b2189eaabb67994d3a62f7dcdef21622bce7251c64/Nodo9/arca-sophia-open-core",
+    "image": "https://spectrum.ieee.org/media-library/cryo-em-density-map-of-a-virion.jpg?id=67609610&width=1200&height=600&coordinates=0%2C69%2C0%2C442",
     "id": 30
   },
   {
-    "title": "AutoProver: AI agents and formal methods for intent, specs, bugs analysis",
-    "url": "https://app.certora.com/",
+    "title": "Show HN: Referee.Chat - Set the goal. An AI panel works. Referee clears it done",
+    "url": "https://referee.chat/",
     "source": "Hacker News",
     "date": "2026-08-13",
-    "summary": "Article URL: https://app.certora.com/ Comments URL: https://news.ycombinator.com/item?id=49291144 Points: 2 # Comments: 0",
+    "summary": "Article URL: https://referee.chat/ Comments URL: https://news.ycombinator.com/item?id=49293191 Points: 2 # Comments: 0",
     "category": "industry",
-    "image": "https://app.certora.com/images/Auto_Prover_Brand_Asset_Suite/auto_prover_OG.png",
+    "image": "https://referee.chat/static/og.png",
     "id": 31
   },
   {
-    "title": "Forklane AI – Public Beta Launch",
-    "url": "https://forklane.ai",
+    "title": "How AI text watermarking works",
+    "url": "https://declaude.org/watermarking/",
     "source": "Hacker News",
     "date": "2026-08-13",
-    "summary": "Article URL: https://forklane.ai Comments URL: https://news.ycombinator.com/item?id=49291014 Points: 2 # Comments: 1",
-    "category": "industry",
+    "summary": "Article URL: https://declaude.org/watermarking/ Comments URL: https://news.ycombinator.com/item?id=49292932 Points: 78 # Comments: 48",
+    "category": "models",
+    "image": "https://declaude.org/watermarking/og.png?v=2",
     "id": 32
   },
   {
-    "title": "Show HN: Clixad – Free AI coding agent in the terminal, funded by an offerwall",
-    "url": "https://clixad.io/",
+    "title": "AI is learning clinical judgment by practicing on simulated patients",
+    "url": "https://www.echohive.ai/ai-clinical-residency",
     "source": "Hacker News",
     "date": "2026-08-13",
-    "summary": "Article URL: https://clixad.io/ Comments URL: https://news.ycombinator.com/item?id=49290984 Points: 2 # Comments: 0",
+    "summary": "Article URL: https://www.echohive.ai/ai-clinical-residency Comments URL: https://news.ycombinator.com/item?id=49292870 Points: 3 # Comments: 1",
     "category": "industry",
-    "image": "https://clixad.io/demo-poster.jpg",
+    "image": "https://www.echohive.ai/posts/ai-clinical-residency/hero.jpg",
     "id": 33
   },
   {
-    "title": "Leveraging Requirements Engineering for AI Coding Tool Success",
-    "url": "https://cacm.acm.org/news/leveraging-requirements-engineering-for-ai-coding-tool-success/",
+    "title": "An anchoring layer between facts and AI memory",
+    "url": "https://github.com/Anchorstate-Lab/GMR",
     "source": "Hacker News",
     "date": "2026-08-13",
-    "summary": "Article URL: https://cacm.acm.org/news/leveraging-requirements-engineering-for-ai-coding-tool-success/ Comments URL: https://news.ycombinator.com/item?id=49290934 Points: 3 # Comments: 0",
-    "category": "research",
+    "summary": "Article URL: https://github.com/Anchorstate-Lab/GMR Comments URL: https://news.ycombinator.com/item?id=49292758 Points: 1 # Comments: 1",
+    "category": "hardware",
+    "image": "https://opengraph.githubassets.com/b2d09b6a12b443a26065b736baabf2da0d7326a487d136fa2cbdeacfc6276455/Anchorstate-Lab/GMR",
     "id": 34
   },
   {
-    "title": "I built a lint for AI-generated evidence",
-    "url": "https://apify.com/filipmajchrzak/ai-claim-checkpoint",
+    "title": "Further Developments About Internal AI Models Hacking Things",
+    "url": "https://thezvi.substack.com/p/further-developments-about-internal",
     "source": "Hacker News",
     "date": "2026-08-13",
-    "summary": "Article URL: https://apify.com/filipmajchrzak/ai-claim-checkpoint Comments URL: https://news.ycombinator.com/item?id=49290923 Points: 2 # Comments: 0",
-    "category": "tools",
-    "image": "https://apify.com/og-image/actor?actorName=Ai+Claim+Readiness+Chackpoint&uniqueName=filipmajchrzak%2Fai-claim-checkpoint&categories=AI%2CDEVELOPER_TOOLS%2CAUTOMATION&users=2&runs=9&pictureUrl=https%3A%2F%2Fapify-image-uploads-prod.s3.us-east-1.amazonaws.com%2F0VHKHEXJMumdIO6ej-actor-C9OUhkiZURam5LNwL-pdDwsOHLtH-ChatGPT.png&authorName=Filip+Majchrzak&userPictureUrl=https%3A%2F%2Fimages.apifyusercontent.com%2F9VHPXJbjXBi-Ydb_2867MkZA6tU0pKa0xawgFeQ57yQ%2Frs%3Afill%3A224%3A224%2Fcb%3A1%2FaHR0cHM6Ly9saDMuZ29vZ2xldXNlcmNvbnRlbnQuY29tL2EvQUNnOG9jS3FzZWhieTdIWjZWMFRqQ25KN0MwM0NsMS1DN1ZYRE5zOWdjUjFRVGxET2I3enJHZz1zOTYtYw.webp",
+    "summary": "Article URL: https://thezvi.substack.com/p/further-developments-about-internal Comments URL: https://news.ycombinator.com/item?id=49292749 Points: 1 # Comments: 0",
+    "category": "industry",
     "id": 35
   },
   {
-    "title": "Yaak.ai Physical AI OS: copper-rs",
-    "url": "https://www.yaak.ai/blog/yaak-x-copper",
+    "title": "Show HN: AI Slop Kitchen",
+    "url": "https://play-kitchen.netlify.app/",
     "source": "Hacker News",
     "date": "2026-08-13",
-    "summary": "Article URL: https://www.yaak.ai/blog/yaak-x-copper Comments URL: https://news.ycombinator.com/item?id=49290869 Points: 2 # Comments: 0",
+    "summary": "I've been vibe coding small games with my 3 year old. We stumbled upon this kitchen format Comments URL: https://news.ycombinator.com/item?id=49292742 Points: 1 # Comments: 0",
     "category": "industry",
-    "image": "https://framerusercontent.com/images/w9jR8YD7QsNQQpd2RzQtQ5Ezvs.jpg",
     "id": 36
   },
   {
-    "title": "How Organizations Use AI: Evidence from ChatGPT [pdf]",
-    "url": "https://cdn.openai.com/pdf/how-organizations-use-chatgpt.pdf",
+    "title": "Think of AI as a lens, not a person",
+    "url": "https://aethermug.com/posts/gen-ai-is-a-lens-into-humanity",
     "source": "Hacker News",
     "date": "2026-08-13",
-    "summary": "Article URL: https://cdn.openai.com/pdf/how-organizations-use-chatgpt.pdf Comments URL: https://news.ycombinator.com/item?id=49290768 Points: 31 # Comments: 14",
-    "category": "models",
+    "summary": "Article URL: https://aethermug.com/posts/gen-ai-is-a-lens-into-humanity Comments URL: https://news.ycombinator.com/item?id=49292720 Points: 3 # Comments: 0",
+    "category": "industry",
+    "image": "https://aethermug.com/assets/posts/gen-ai-is-a-lens-into-humanity/kaleidolens.jpg",
     "id": 37
   },
   {
-    "title": "Ask HN: How much money do you spend monthly on subscriptions for AI models?",
-    "url": "https://news.ycombinator.com/item?id=49290713",
+    "title": "Using AI chatbots? Here are four ways to reduce the energy drain",
+    "url": "https://knowablemagazine.org/content/article/food-environment/2026/four-ways-to-reduce-energy-use-with-ai-chatbots",
     "source": "Hacker News",
     "date": "2026-08-13",
-    "summary": "Monthly total for all AI model subscriptions for personal use, with a breakdown of which models you use and for what purpose (coding side projects, AI assistants, etc.). You can also mention how much ...",
-    "category": "tools",
+    "summary": "Article URL: https://knowablemagazine.org/content/article/food-environment/2026/four-ways-to-reduce-energy-use-with-ai-chatbots Comments URL: https://news.ycombinator.com/item?id=49292617 Points: 2 # ...",
+    "category": "industry",
+    "image": "https://knowablemagazine.org/docserver/fulltext/ecofriendly-ai-usage-tips-1600x600.jpg",
     "id": 38
   },
   {
-    "title": "Jeff Dean: The 1% Rule for Building in AI [video]",
-    "url": "https://www.youtube.com/watch?v=CxXgV54KzpQ",
+    "title": "AI Looms over Software Companies – and the Investors Who Piled into Them",
+    "url": "https://www.bloomberg.com/graphics/2026-ai-private-equity-software/",
     "source": "Hacker News",
     "date": "2026-08-13",
-    "summary": "Article URL: https://www.youtube.com/watch?v=CxXgV54KzpQ Comments URL: https://news.ycombinator.com/item?id=49290693 Points: 4 # Comments: 0",
+    "summary": "Article URL: https://www.bloomberg.com/graphics/2026-ai-private-equity-software/ Comments URL: https://news.ycombinator.com/item?id=49292586 Points: 1 # Comments: 0",
     "category": "industry",
     "id": 39
+  },
+  {
+    "title": "ParleHub – Enterprise AI Collaboration and Cost Control – Launch Today on PH",
+    "url": "https://parlehub.com/",
+    "source": "Hacker News",
+    "date": "2026-08-13",
+    "summary": "Article URL: https://parlehub.com/ Comments URL: https://news.ycombinator.com/item?id=49292559 Points: 1 # Comments: 0",
+    "category": "industry",
+    "id": 40
   },
   {
     "title": "Roundtables: Inside the “Censorship-Industrial Complex” Idea Shaping US Policy",
@@ -383,7 +395,7 @@
     "summary": "Listen to the session or watch below The “censorship-industrial complex” is an idea that a network of government, tech, and research groups is collaborating to suppress conservative online speech. Thi...",
     "category": "industry",
     "image": "https://wp.technologyreview.com/wp-content/uploads/2026/08/August.26_Roundtables_Thumb.png?resize=1200,600",
-    "id": 40
+    "id": 41
   },
   {
     "title": "The Download: kids’ thoughts on AI, and female clones of male mice",
@@ -393,7 +405,7 @@
     "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. How kids feel about AI, in their own words —Jen Swetzoff and K...",
     "category": "industry",
     "image": "https://wp.technologyreview.com/wp-content/uploads/2026/08/type-2_2.png?resize=1200,600",
-    "id": 41
+    "id": 42
   },
   {
     "title": "How kids feel about AI, in their own words",
@@ -403,17 +415,27 @@
     "summary": "When we set out to talk to kids about artificial intelligence, we thought we knew what we’d hear. We expected some to tell us they were using it to cheat a little, the way Millennials and Gen Xers ope...",
     "category": "hardware",
     "image": "https://wp.technologyreview.com/wp-content/uploads/2026/08/type-2_2.png?resize=1200,600",
-    "id": 42
+    "id": 43
   },
   {
-    "title": "Mark Zuckerberg’s AI Manifesto Is 6,500-Words—and Barely Says Anything",
+    "title": "The Safety Reckoning Inside OpenAI",
+    "url": "https://www.wired.com/story/openai-safety-security-ai-agents-culture/",
+    "source": "Wired",
+    "date": "2026-08-13",
+    "summary": "OpenAI’s rogue agent hack was a watershed moment for AI safety and cybersecurity. It also sparked internal questions about the culture that led to it.",
+    "category": "research",
+    "image": "https://media.wired.com/photos/6a7d0965c82d9b74df554e1c/191:100/w_1280,c_limit/Model-Behavior-OpenAI-Dangerous-AI-Business.jpg",
+    "id": 44
+  },
+  {
+    "title": "Mark Zuckerberg’s AI Manifesto Is 6,500 Words—and Barely Says Anything",
     "url": "https://www.wired.com/story/mark-zuckerbergs-ai-manifesto-is-6500-words-and-barely-says-anything/",
     "source": "Wired",
     "date": "2026-08-13",
     "summary": "AI is shifting the culture, from tech CEO manifestos to 1 am job interviews. We unpack some of the latest, along with the top findings from Black Hat and Defcon, this week on Uncanny Valley.",
     "category": "industry",
     "image": "https://media.wired.com/photos/6a7cd92daf899556c1dfa8f2/191:100/w_1280,c_limit/Uncanny-Valley-Zuckerberg-AI-manifesto-Business.jpg",
-    "id": 43
+    "id": 45
   },
   {
     "title": "There’s a Fatty Liver Epidemic. AI Could Help Get Ahead of It",
@@ -423,7 +445,7 @@
     "summary": "Over a billion people worldwide have livers with excess fat, which can lead to a host of medical problems. Researchers think AI tools can spot the condition—and help stop it—early enough to save lives...",
     "category": "research",
     "image": "https://media.wired.com/photos/6a7a380554cb34d4d120f360/191:100/w_1280,c_limit/Theres-a-Fatty-Liver-Epidemic-Science.jpg",
-    "id": 44
+    "id": 46
   },
   {
     "title": "Dynamic Governance of Multi-LLM Agent Systems for Collaborative Conversational Outcomes",
@@ -432,7 +454,7 @@
     "date": "2026-08-13",
     "summary": "When two LLM agents with structurally opposed objectives interact across multiple turns, the absence of a shared goal function produces not competition but collapse: the visitor capitulates, the site ...",
     "category": "industry",
-    "id": 45
+    "id": 47
   },
   {
     "title": "Distribird: Literature-Informed Prior Distribution Design for Bayesian Model Calibration",
@@ -441,7 +463,7 @@
     "date": "2026-08-13",
     "summary": "Bayesian calibration of process-based models requires a prior distribution for each model parameter. Despite decades of methodological work, researchers almost always fall back on uniform priors. The ...",
     "category": "models",
-    "id": 46
+    "id": 48
   },
   {
     "title": "A Forced-Structure Reduction and Verifiable Bounds for Conway's 99-Graph",
@@ -450,7 +472,7 @@
     "date": "2026-08-13",
     "summary": "Conway's 99-graph problem asks whether a strongly regular graph with parameters $\\mathrm{srg}(99,14,1,2)$ exists. We report a systematic, fully reproducible attack by an autonomous AI research agent, ...",
     "category": "models",
-    "id": 47
+    "id": 49
   },
   {
     "title": "Detecting a Route Flip Is Easier Than Knowing Whether to Fix It: Causal Route-Mediated Damage in Quantized Mixture-of-Experts",
@@ -459,24 +481,6 @@
     "date": "2026-08-13",
     "summary": "Top-k Mixture-of-Experts (MoE) routing is discontinuous, so a deployment-motivated numerical disturbance -- simulated 4-bit KV-cache quantization read by a protected BF16 gate -- pushes tokens across ...",
     "category": "research",
-    "id": 48
-  },
-  {
-    "title": "Poor Man's Agentic Modeling: Simulating Large LLM-Agent Societies on a Laptop",
-    "url": "https://arxiv.org/abs/2608.11215",
-    "source": "arXiv cs.AI",
-    "date": "2026-08-13",
-    "summary": "Simulating societies of many large language model (LLM) agents is expensive, yet the questions asked of such simulations are usually macroscopic: phase behaviour, stylised facts, and scaling with the ...",
-    "category": "models",
-    "id": 49
-  },
-  {
-    "title": "AutoWorldModel-Bench: A State-Centric Benchmark for Automated World-Model Research",
-    "url": "https://arxiv.org/abs/2608.11216",
-    "source": "arXiv cs.AI",
-    "date": "2026-08-13",
-    "summary": "World modeling is an unsettled field: architectures, training objectives, and state representations interact in complex ways, and no single recipe dominates across environments. This makes it an ideal...",
-    "category": "models",
     "id": 50
   }
 ]
