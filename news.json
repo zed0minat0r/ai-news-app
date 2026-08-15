@@ -81,6 +81,16 @@
     "id": 8
   },
   {
+    "title": "Anthropic shares more details about how Claude’s new watermarks will work",
+    "url": "https://techcrunch.com/2026/08/15/anthropic-shares-more-details-about-how-claudes-new-watermarks-will-work/",
+    "source": "TechCrunch",
+    "date": "2026-08-15",
+    "summary": "How will the watermarking actually work? Can it be hidden with editing? And how does this affect code?",
+    "category": "models",
+    "image": "https://techcrunch.com/wp-content/uploads/2024/01/Magnifying-glasses.jpg?resize=1200,840",
+    "id": 9
+  },
+  {
     "title": "SpaceX officially closes its Cursor acquisition",
     "url": "https://techcrunch.com/2026/08/15/spacex-officially-closes-its-cursor-acquisition/",
     "source": "TechCrunch",
@@ -88,16 +98,92 @@
     "summary": "AI coding startup Cursor is now officially a part of SpaceX.",
     "category": "industry",
     "image": "https://techcrunch.com/wp-content/uploads/2026/07/cursor.jpg?resize=1200,800",
-    "id": 9
+    "id": 10
+  },
+  {
+    "title": "The unlikely opera star: How AI helped a nonspeaking performer find his voice",
+    "url": "https://www.scientificamerican.com/podcast/episode/a-nonspeaking-person-is-the-star-of-this-opera-ai-made-that-possible/",
+    "source": "Hacker News",
+    "date": "2026-08-15",
+    "summary": "Article URL: https://www.scientificamerican.com/podcast/episode/a-nonspeaking-person-is-the-star-of-this-opera-ai-made-that-possible/ Comments URL: https://news.ycombinator.com/item?id=49314329 Points...",
+    "category": "industry",
+    "id": 11
+  },
+  {
+    "title": "TemporalStore: A disruptive open-source engine managing your LLM memory",
+    "url": "https://temporalstore.ai/blog-context-management.html",
+    "source": "Hacker News",
+    "date": "2026-08-15",
+    "summary": "Article URL: https://temporalstore.ai/blog-context-management.html Comments URL: https://news.ycombinator.com/item?id=49314204 Points: 2 # Comments: 1",
+    "category": "models",
+    "id": 12
+  },
+  {
+    "title": "Show HN: Glad-AI-Tor – AI tools ranked by user votes, not by who pays",
+    "url": "https://glad-ia-tor.com",
+    "source": "Hacker News",
+    "date": "2026-08-15",
+    "summary": "Article URL: https://glad-ia-tor.com Comments URL: https://news.ycombinator.com/item?id=49314034 Points: 2 # Comments: 0",
+    "category": "tools",
+    "image": "https://glad-ia-tor.com/og-image.png",
+    "id": 13
+  },
+  {
+    "title": "Can an LLM price a World Cup match better than the market (and make money)?",
+    "url": "https://christian.bock.bio/posts/frontier_xg_worldcup/",
+    "source": "Hacker News",
+    "date": "2026-08-15",
+    "summary": "Article URL: https://christian.bock.bio/posts/frontier_xg_worldcup/ Comments URL: https://news.ycombinator.com/item?id=49313812 Points: 2 # Comments: 0",
+    "category": "models",
+    "id": 14
+  },
+  {
+    "title": "Meta will train its AI on Newsmax, a far-right media outlet",
+    "url": "https://popular.info/p/meta-will-train-its-ai-on-far-right",
+    "source": "Hacker News",
+    "date": "2026-08-15",
+    "summary": "Article URL: https://popular.info/p/meta-will-train-its-ai-on-far-right Comments URL: https://news.ycombinator.com/item?id=49313778 Points: 14 # Comments: 6",
+    "category": "industry",
+    "image": "https://substackcdn.com/image/fetch/$s_!MO5r!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fab743a97-a0e6-454b-9519-82f424a518ef_1024x683.jpeg",
+    "id": 15
+  },
+  {
+    "title": "Secondhand booksellers in UK and Ireland suspect AI firms 'strange' bulk orders",
+    "url": "https://www.theguardian.com/technology/2026/aug/15/uk-ireland-booksellers-suspect-ai-companies-bulk-orders-data-acquisition",
+    "source": "Hacker News",
+    "date": "2026-08-15",
+    "summary": "Article URL: https://www.theguardian.com/technology/2026/aug/15/uk-ireland-booksellers-suspect-ai-companies-bulk-orders-data-acquisition Comments URL: https://news.ycombinator.com/item?id=49313772 Poi...",
+    "category": "industry",
+    "image": "https://i.guim.co.uk/img/media/c078d818bd3cc66f53834a54be2d78f7d8daefff/0_373_1533_1226/master/1533.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=23c74865a051580965f1df0ba83a7100",
+    "id": 16
+  },
+  {
+    "title": "Why tech bosses keep sharing their manifestos about AI",
+    "url": "https://www.bbc.com/news/articles/cz97ljy91zxo",
+    "source": "Hacker News",
+    "date": "2026-08-15",
+    "summary": "Article URL: https://www.bbc.com/news/articles/cz97ljy91zxo Comments URL: https://news.ycombinator.com/item?id=49313519 Points: 13 # Comments: 28",
+    "category": "industry",
+    "image": "https://ichef.bbci.co.uk/news/1024/branded_news/41d4/live/d7830930-97e5-11f1-a76b-f1c27c51f3da.jpg",
+    "id": 17
+  },
+  {
+    "title": "AI in drug discovery — what it is, where we stand and the path forward",
+    "url": "https://www.nature.com/articles/s41573-026-01496-2",
+    "source": "Hacker News",
+    "date": "2026-08-15",
+    "summary": "Article URL: https://www.nature.com/articles/s41573-026-01496-2 Comments URL: https://news.ycombinator.com/item?id=49313367 Points: 40 # Comments: 23",
+    "category": "industry",
+    "id": 18
   },
   {
     "title": "The Three AI Pills",
     "url": "https://thezvi.substack.com/p/the-three-ai-pills",
     "source": "Hacker News",
     "date": "2026-08-15",
-    "summary": "Article URL: https://thezvi.substack.com/p/the-three-ai-pills Comments URL: https://news.ycombinator.com/item?id=49312959 Points: 2 # Comments: 0",
+    "summary": "Article URL: https://thezvi.substack.com/p/the-three-ai-pills Comments URL: https://news.ycombinator.com/item?id=49312959 Points: 4 # Comments: 1",
     "category": "industry",
-    "id": 10
+    "id": 19
   },
   {
     "title": "Tupoi: An attention-free LLM with strictly O(1) memory and 6 KB state",
@@ -107,36 +193,36 @@
     "summary": "Article URL: https://github.com/narelabs/TUPOI Comments URL: https://news.ycombinator.com/item?id=49312921 Points: 1 # Comments: 0",
     "category": "models",
     "image": "https://opengraph.githubassets.com/988f43c65c648cc401e06773f14db134ffb9a1c136247eb9ea1e41f67c5244cb/narelabs/TUPOI",
-    "id": 11
+    "id": 20
   },
   {
     "title": "Alibaba AI Models Hit 3B Downloads, Passing Meta, Google",
     "url": "https://www.bloomberg.com/news/articles/2026-08-15/alibaba-ai-models-hit-3-billion-downloads-passing-meta-google",
     "source": "Hacker News",
     "date": "2026-08-15",
-    "summary": "Article URL: https://www.bloomberg.com/news/articles/2026-08-15/alibaba-ai-models-hit-3-billion-downloads-passing-meta-google Comments URL: https://news.ycombinator.com/item?id=49312866 Points: 3 # Co...",
+    "summary": "Article URL: https://www.bloomberg.com/news/articles/2026-08-15/alibaba-ai-models-hit-3-billion-downloads-passing-meta-google Comments URL: https://news.ycombinator.com/item?id=49312866 Points: 5 # Co...",
     "category": "industry",
-    "id": 12
+    "id": 21
   },
   {
     "title": "AI Isn't Outthinking Mathematicians. It's Out-Remembering Them",
     "url": "https://davidepiffer.com/p/ai-isnt-outthinking-mathematicians",
     "source": "Hacker News",
     "date": "2026-08-15",
-    "summary": "Article URL: https://davidepiffer.com/p/ai-isnt-outthinking-mathematicians Comments URL: https://news.ycombinator.com/item?id=49312845 Points: 37 # Comments: 19",
+    "summary": "Article URL: https://davidepiffer.com/p/ai-isnt-outthinking-mathematicians Comments URL: https://news.ycombinator.com/item?id=49312845 Points: 276 # Comments: 234",
     "category": "industry",
     "image": "https://substackcdn.com/image/fetch/$s_!DIxw!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F2e2e14e7-c536-49c0-9f27-79b1073dd527_1279x759.jpeg",
-    "id": 13
+    "id": 22
   },
   {
     "title": "AI detectors are creating a new era of distrust",
     "url": "https://www.theverge.com/column/976690/ai-writing-detectors-suspicion",
     "source": "Hacker News",
     "date": "2026-08-15",
-    "summary": "Article URL: https://www.theverge.com/column/976690/ai-writing-detectors-suspicion Comments URL: https://news.ycombinator.com/item?id=49312810 Points: 2 # Comments: 0",
+    "summary": "Article URL: https://www.theverge.com/column/976690/ai-writing-detectors-suspicion Comments URL: https://news.ycombinator.com/item?id=49312810 Points: 5 # Comments: 0",
     "category": "industry",
     "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/268680_AI_detection_CVirginia-.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-    "id": 14
+    "id": 23
   },
   {
     "title": "Ask HN: Will AI lead to complete human irrelevance?",
@@ -145,26 +231,26 @@
     "date": "2026-08-15",
     "summary": "After the recent mathematical advances in AI, it is clear that it is possible for AI to surpass the abilities of even the smartest humans in specific domains. I feel that it is thereby inevitable that...",
     "category": "industry",
-    "id": 15
+    "id": 24
   },
   {
     "title": "Show HN: Self-hosted monitoring for AI recommendations (MIT License)",
     "url": "https://lettertrace.com",
     "source": "Hacker News",
     "date": "2026-08-15",
-    "summary": "Article URL: https://lettertrace.com Comments URL: https://news.ycombinator.com/item?id=49312505 Points: 2 # Comments: 0",
+    "summary": "Article URL: https://lettertrace.com Comments URL: https://news.ycombinator.com/item?id=49312505 Points: 6 # Comments: 0",
     "category": "industry",
     "image": "https://lettertrace.com/ogImage.png",
-    "id": 16
+    "id": 25
   },
   {
-    "title": "Don't let AI rob you",
+    "title": "Don't let AI rob you [video]",
     "url": "https://www.youtube.com/watch?v=-T39cM3LPk0",
     "source": "Hacker News",
     "date": "2026-08-15",
     "summary": "Article URL: https://www.youtube.com/watch?v=-T39cM3LPk0 Comments URL: https://news.ycombinator.com/item?id=49312478 Points: 3 # Comments: 0",
     "category": "industry",
-    "id": 17
+    "id": 26
   },
   {
     "title": "Open Sourcing the Atuin AI Server",
@@ -173,26 +259,26 @@
     "date": "2026-08-15",
     "summary": "Article URL: https://blog.atuin.sh/atuin-ai-oss/ Comments URL: https://news.ycombinator.com/item?id=49312363 Points: 2 # Comments: 0",
     "category": "hardware",
-    "id": 18
+    "id": 27
   },
   {
     "title": "Briefing on Extinction-Level AI Threats",
     "url": "https://intelligence.org/briefing/",
     "source": "Hacker News",
     "date": "2026-08-15",
-    "summary": "Article URL: https://intelligence.org/briefing/ Comments URL: https://news.ycombinator.com/item?id=49311954 Points: 3 # Comments: 5",
+    "summary": "Article URL: https://intelligence.org/briefing/ Comments URL: https://news.ycombinator.com/item?id=49311954 Points: 4 # Comments: 5",
     "category": "hardware",
     "image": "https://intelligence.org/wp-content/uploads/2026/03/miri-og-image.jpg",
-    "id": 19
+    "id": 28
   },
   {
     "title": "US to tell partners they must pick sides in AI race with China",
     "url": "https://www.reuters.com/world/china/us-tell-partners-they-must-pick-sides-ai-race-with-china-2026-08-14/",
     "source": "Hacker News",
     "date": "2026-08-15",
-    "summary": "Article URL: https://www.reuters.com/world/china/us-tell-partners-they-must-pick-sides-ai-race-with-china-2026-08-14/ Comments URL: https://news.ycombinator.com/item?id=49311888 Points: 15 # Comments:...",
+    "summary": "Article URL: https://www.reuters.com/world/china/us-tell-partners-they-must-pick-sides-ai-race-with-china-2026-08-14/ Comments URL: https://news.ycombinator.com/item?id=49311888 Points: 17 # Comments:...",
     "category": "industry",
-    "id": 20
+    "id": 29
   },
   {
     "title": "Godfather of AI: \"If you sleep well tonight...\" [video]",
@@ -201,74 +287,7 @@
     "date": "2026-08-15",
     "summary": "Article URL: https://www.youtube.com/watch?v=iVXerna_D4A Comments URL: https://news.ycombinator.com/item?id=49311880 Points: 3 # Comments: 0",
     "category": "industry",
-    "id": 21
-  },
-  {
-    "title": "Is AI Coding Effecting Our Mental Health? [video]",
-    "url": "https://www.youtube.com/watch?v=iPUn1Fnfn0k",
-    "source": "Hacker News",
-    "date": "2026-08-15",
-    "summary": "Article URL: https://www.youtube.com/watch?v=iPUn1Fnfn0k Comments URL: https://news.ycombinator.com/item?id=49311858 Points: 1 # Comments: 0",
-    "category": "industry",
-    "id": 22
-  },
-  {
-    "title": "Show HN: MyFirst.News – AI-generated podcast for curious kids",
-    "url": "https://myfirst.news/",
-    "source": "Hacker News",
-    "date": "2026-08-15",
-    "summary": "Article URL: https://myfirst.news/ Comments URL: https://news.ycombinator.com/item?id=49311773 Points: 1 # Comments: 1",
-    "category": "industry",
-    "id": 23
-  },
-  {
-    "title": "Ask HN: How to Stay Marketable in the AI Era?",
-    "url": "https://news.ycombinator.com/item?id=49311655",
-    "source": "Hacker News",
-    "date": "2026-08-15",
-    "summary": "I've got a CS degree and I'm working as a mid-level full stack developer. An unfortunate part of my career is being based in Iraq where almost no developer job exists, even if it did the competition w...",
-    "category": "industry",
-    "id": 24
-  },
-  {
-    "title": "SpaceX has acquired coding AI startup Cursor",
-    "url": "https://www.engadget.com/2237655/spacex-officially-acquired-ai-coding-startup-cursor/",
-    "source": "Hacker News",
-    "date": "2026-08-15",
-    "summary": "Article URL: https://www.engadget.com/2237655/spacex-officially-acquired-ai-coding-startup-cursor/ Comments URL: https://news.ycombinator.com/item?id=49311628 Points: 3 # Comments: 0",
-    "category": "tools",
-    "image": "https://www.engadget.com/img/gallery/spacex-has-officially-acquired-ai-coding-startup-cursor/l-intro-1786798141.jpg",
-    "id": 25
-  },
-  {
-    "title": "Mee Manga Translator: AI manga translation that preserves original artwork",
-    "url": "https://mangatranslator.me/",
-    "source": "Hacker News",
-    "date": "2026-08-15",
-    "summary": "Article URL: https://mangatranslator.me/ Comments URL: https://news.ycombinator.com/item?id=49311584 Points: 1 # Comments: 0",
-    "category": "industry",
-    "image": "https://mangatranslator.me/logo.png",
-    "id": 26
-  },
-  {
-    "title": "Has anyone tried this tool to improve LLM visibility?",
-    "url": "https://see-geo.com",
-    "source": "Hacker News",
-    "date": "2026-08-15",
-    "summary": "Article URL: https://see-geo.com Comments URL: https://news.ycombinator.com/item?id=49311474 Points: 1 # Comments: 0",
-    "category": "models",
-    "image": "https://see-geo.com/opengraph-image?ca04d305105477fc",
-    "id": 27
-  },
-  {
-    "title": "AI Can Now Design Functional Viruses. Should We Worry?",
-    "url": "https://spectrum.ieee.org/ai-designed-virus",
-    "source": "Hacker News",
-    "date": "2026-08-15",
-    "summary": "Article URL: https://spectrum.ieee.org/ai-designed-virus Comments URL: https://news.ycombinator.com/item?id=49311445 Points: 54 # Comments: 91",
-    "category": "industry",
-    "image": "https://spectrum.ieee.org/media-library/cryo-em-density-map-of-a-virion.jpg?id=67609610&width=1200&height=600&coordinates=0%2C69%2C0%2C442",
-    "id": 28
+    "id": 30
   },
   {
     "title": "Amazon Can Use Your Twitch Content to Train Its AI—Unless You Opt Out",
@@ -278,7 +297,7 @@
     "summary": "When Twitch announced that streamers could opt out, thousands of users questioned why their content was being used to train AI models in the first place.",
     "category": "industry",
     "image": "https://media.wired.com/photos/6a7f62de9dba743672684be2/191:100/w_1280,c_limit/GettyImages-1305224058-edited.jpg",
-    "id": 29
+    "id": 31
   },
   {
     "title": "Position: Reasoning is a Learnable Rule-Based Process",
@@ -287,7 +306,7 @@
     "date": "2026-08-15",
     "summary": "Autonomous reasoning is among the most scientifically and economically motivating topics in AI today. Historically the purview of symbolic AI, recent advances have mainly emerged from deep probabilist...",
     "category": "research",
-    "id": 30
+    "id": 32
   },
   {
     "title": "Diagnostic Foundation for Evaluating LLMs' Research Integrity as Co-Scientists",
@@ -296,7 +315,7 @@
     "date": "2026-08-15",
     "summary": "Language models are increasingly deployed as co-scientists, yet their ability to uphold research integrity under institutional pressure remains unmeasured. We introduce IntegrityBench, a benchmark eva...",
     "category": "models",
-    "id": 31
+    "id": 33
   },
   {
     "title": "Position: The Alignment Community is Unintentionally Building a Censor's Toolkit",
@@ -305,7 +324,7 @@
     "date": "2026-08-15",
     "summary": "This position paper argues that modern AI alignment methods - originally designed to prevent harmful output - are dual-use technologies that may easily be misused by malicious actors for censorship an...",
     "category": "research",
-    "id": 32
+    "id": 34
   },
   {
     "title": "Agreement Is Not Alignment: Divergent Moral Grounds in Human and LLM Ethical Judgments",
@@ -314,7 +333,7 @@
     "date": "2026-08-15",
     "summary": "Agreement with human judgments is a common proxy for evaluating the alignment of large language models (LLMs). Yet agreement in final labels does not show that human annotators and models rely on the ...",
     "category": "models",
-    "id": 33
+    "id": 35
   },
   {
     "title": "Multi-Agent Scheduling with LLM-Assisted Contract Net Negotiation for Stream Processing in Mobile Edge Computing",
@@ -323,7 +342,7 @@
     "date": "2026-08-15",
     "summary": "Stream-processing systems increasingly operate across heterogeneous mobile edge--cloud infrastructures, where workload volatility, resource contention, and stringent quality-of-service (QoS) requireme...",
     "category": "hardware",
-    "id": 34
+    "id": 36
   },
   {
     "title": "Position: We Need Practical AI Alignment Methods to Mirror Human Reasoning",
@@ -332,7 +351,7 @@
     "date": "2026-08-15",
     "summary": "AI systems are increasingly employed as decision aids, decision delegates, or autonomous decision-makers. This position paper argues that in many settings, particularly high-stakes decision-making, we...",
     "category": "research",
-    "id": 35
+    "id": 37
   },
   {
     "title": "Don't Want Your LLM to Recommend Nuclear Strike? Try Asking It in Japanese",
@@ -341,7 +360,7 @@
     "date": "2026-08-15",
     "summary": "Large language models are increasingly used in strategic and advisory contexts, yet their safety alignment is typically evaluated in English only. We test nine models from six providers and ask whethe...",
     "category": "models",
-    "id": 36
+    "id": 38
   },
   {
     "title": "Dual-Flow Transformers: Decoupling the Primary Prefill Path from Additional Decode Computation",
@@ -350,7 +369,7 @@
     "date": "2026-08-15",
     "summary": "As large language models serve more requests, cumulative inference cost is becoming increasingly important relative to one-time training cost. The two inference phases stress hardware differently: pro...",
     "category": "models",
-    "id": 37
+    "id": 39
   },
   {
     "title": "Learning to Adapt Cross-Domain Preferences via Meta-LoRA for LLM Personalization",
@@ -359,7 +378,7 @@
     "date": "2026-08-15",
     "summary": "Cross-domain zero- or few-shot personalization aims to generate user-preferred responses in unseen conversational domains from only a handful of target-domain interactions. Existing adaptation methods...",
     "category": "models",
-    "id": 38
+    "id": 40
   },
   {
     "title": "Research Assistant: AstraZeneca's Agentic System for R&D",
@@ -368,7 +387,7 @@
     "date": "2026-08-15",
     "summary": "We describe Research Assistant, an internal LLM-based system developed at AstraZeneca to help scientists and clinicians explore biomedical questions across a broad range of data sources. The system pr...",
     "category": "research",
-    "id": 39
+    "id": 41
   },
   {
     "title": "Large Language Models Can Follow Instructions, But Not Many at Once: Phase Transitions in Compositional Constraint Satisfaction",
@@ -377,7 +396,7 @@
     "date": "2026-08-15",
     "summary": "Large language models are increasingly deployed in settings that require simultaneous adherence to multiple explicit constraints - reasoning structure, safety boundaries, output schemas. Individual co...",
     "category": "models",
-    "id": 40
+    "id": 42
   },
   {
     "title": "MindMemOS: A Portable and Self-Evolving Memory Operating Layer for AI Agents",
@@ -386,7 +405,7 @@
     "date": "2026-08-15",
     "summary": "Memory is a core component of AI agents, enabling them to accumulate experience, maintain personalization, and adapt over long-term interactions. However, existing memory systems often remain fixed af...",
     "category": "hardware",
-    "id": 41
+    "id": 43
   },
   {
     "title": "Governed Persistent Memory: Source-Bound State Semantics and Fail-Closed Release for Long-Horizon Agents",
@@ -395,7 +414,7 @@
     "date": "2026-08-15",
     "summary": "Long-term agent memory is usually treated as select--store--retrieve, but retrieval does not decide whether contradictory, superseded, retracted, deleted, or stale records may support an outgoing clai...",
     "category": "hardware",
-    "id": 42
+    "id": 44
   },
   {
     "title": "$\\varepsilon$-MemEvo: Adaptive Cross-Task Memory Transfer for LLM Program Evolution",
@@ -404,7 +423,7 @@
     "date": "2026-08-15",
     "summary": "LLM-based program evolution systems such as FunSearch and AlphaEvolve have shown strong ability to discover novel algorithms, but typically optimize each task in isolation, discarding search experienc...",
     "category": "research",
-    "id": 43
+    "id": 45
   },
   {
     "title": "CAS: A Causal Attribution Score for Local and Global Explainable Artificial Intelligence",
@@ -413,7 +432,7 @@
     "date": "2026-08-15",
     "summary": "Predictive explanation methods attribute a model output; they do not, by themselves, attribute an intervention effect on the real-world outcome. We introduce the Causal Attribution Score (CAS), a comp...",
     "category": "hardware",
-    "id": 44
+    "id": 46
   },
   {
     "title": "Trie Automata for Constrained Decoding over Large Finite Sets",
@@ -422,7 +441,7 @@
     "date": "2026-08-15",
     "summary": "Large language models increasingly need to generate structured outputs that conform to predefined schemas, with one common constraint being selection from a finite set of valid strings. Current constr...",
     "category": "models",
-    "id": 45
+    "id": 47
   },
   {
     "title": "Reasoning Jury: Multi-Model Consensus for Evaluating Reasoning Traces",
@@ -431,7 +450,7 @@
     "date": "2026-08-15",
     "summary": "Improving reasoning LLMs requires the ability to judge the quality of long reasoning traces for effective reasoning data curation, strong training signals during reinforcement learning, and an in-dept...",
     "category": "models",
-    "id": 46
+    "id": 48
   },
   {
     "title": "Auditable agentic AI for evidence-grounded thyroid ultrasound diagnosis and reporting",
@@ -440,7 +459,7 @@
     "date": "2026-08-15",
     "summary": "Thyroid ultrasound diagnosis requires coordinated lesion localization, measurement, risk stratification and reporting, yet most AI systems address these tasks in isolation and provide limited support ...",
     "category": "tools",
-    "id": 47
+    "id": 49
   },
   {
     "title": "DiG-bench: Discovery in Games",
@@ -449,24 +468,6 @@
     "date": "2026-08-15",
     "summary": "Discovery---formulating novel generalizations---is a central part of the scientific process. Despite its importance, there is a gap in the current AI benchmark landscape, with few benchmarks directly ...",
     "category": "research",
-    "id": 48
-  },
-  {
-    "title": "Dead text or binding clause? Measuring and restoring constraint influence in black-box LLM dialogues",
-    "url": "https://arxiv.org/abs/2608.12599",
-    "source": "arXiv cs.AI",
-    "date": "2026-08-15",
-    "summary": "Multi-turn dialogues let users revoke constraints as easily as impose them, but revocation does not reliably take effect: models keep enacting withdrawn requirements (occasionally beneath comments ass...",
-    "category": "tools",
-    "id": 49
-  },
-  {
-    "title": "@skills: Attention is all you have",
-    "url": "https://arxiv.org/abs/2608.12610",
-    "source": "arXiv cs.AI",
-    "date": "2026-08-15",
-    "summary": "There are 56,804 public agent skills today, and teams write many more privately. The dominant delivery model is installation: once installed, a skill's description remains in the system prompt, compet...",
-    "category": "models",
     "id": 50
   }
 ]
