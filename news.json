@@ -1,5 +1,26 @@
 [
   {
+    "title": "Dell CEO unveils new 'Dude, you’re getting a Dell (AI server rack)' video — PC maker recycles famous PC ad campaign to tout its new AI data center products",
+    "url": "https://www.tomshardware.com/tech-industry/dude-youre-getting-a-dell-ai-server-rack-dell-recycles-famous-ad-campaign-to-appeal-to-its-new-ai-overlords",
+    "source": "Tom's Hardware",
+    "date": "2026-08-16",
+    "summary": "Dell has created a humorous AI-era update to its iconic early-2000s 'Dude, you’re getting a Dell' series of commercials.",
+    "category": "hardware",
+    "image": "https://cdn.mos.cms.futurecdn.net/qNLSbEXKXkscRUkoA6zB4F-1280-80.jpg",
+    "id": 1,
+    "featured": true
+  },
+  {
+    "title": "Maker compresses a 2.9MB song by 1000x and prints it on paper as eight QR codes — 21KB song is two minutes long, requires a neural network for playback",
+    "url": "https://www.tomshardware.com/tech-industry/maker-compresses-a-2-9mb-song-1000-times-with-metas-ai-codec-and-prints-it-on-paper-as-eight-qr-codes",
+    "source": "Tom's Hardware",
+    "date": "2026-08-16",
+    "summary": "The open-source codec Meta released in 2022 converts a waveform into discrete tokens that a matching decoder turns back into audio.",
+    "category": "research",
+    "image": "https://cdn.mos.cms.futurecdn.net/4JwLzCyNBmPwoKZfyLrjd-1280-80.png",
+    "id": 2
+  },
+  {
     "title": "Google reportedly taps AMD to design next-generation TPU — hybrid AI ASIC could integrate on-package CPU cores for reinforcement learning",
     "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/google-reportedly-taps-amd-to-design-next-generation-tpu-hybrid-ai-asic-could-integrate-on-package-cpu-cores-for-reinforcement-learning",
     "source": "Tom's Hardware",
@@ -7,8 +28,7 @@
     "summary": "Google may be building a TPU with on-package CPU cores specifically for agentic and reinforced learning workloads, according to a rumor.",
     "category": "hardware",
     "image": "https://cdn.mos.cms.futurecdn.net/9yjpJGx28XVepArU3M5vBD-1280-80.jpg",
-    "id": 1,
-    "featured": true
+    "id": 3
   },
   {
     "title": "Intel says it will launch new core with Nova Lake on desktop first, not in data center — VP Robert Hallock hopes enthusiasts ‘do the math’ compared to AMD",
@@ -17,8 +37,8 @@
     "date": "2026-08-16",
     "summary": "Intel’s Robert Hallock says he hopes enthusiasts “do the math” compared to AMD, highlighting that the company’s new core architecture will release in consumer processors before the data center.",
     "category": "hardware",
-    "image": "https://cdn.mos.cms.futurecdn.net/UGfenThmnsifPUxAwATCyk-1280-80.png",
-    "id": 2
+    "image": "https://cdn.mos.cms.futurecdn.net/y2RQSvgVAG6nfudaaDBx2e-1280-80.jpg",
+    "id": 4
   },
   {
     "title": "The PC age began 45 years ago with the breakthrough Intel 8088 processor — 8-bit bus fueled 45 years of x86 dominance",
@@ -28,7 +48,7 @@
     "summary": "45 years ago, in August 1981, the PC age began in earnest with the launch of the IBM PC Model 5150. At its heart was the Intel 8088 microprocessor.",
     "category": "hardware",
     "image": "https://cdn.mos.cms.futurecdn.net/Ew3pjbVCkJR5uSrqXH7pUa-1280-80.jpg",
-    "id": 3
+    "id": 5
   },
   {
     "title": "Ex-farm bureau chief invites AI data center developers to buy his land —argues blocked $6.3B project will just move to willing neighbors, defies 500-jurisdiction moratorium wave and 70% public opposition",
@@ -38,36 +58,177 @@
     "summary": "Blake Hurst spent a decade running the state's largest farm lobby. Now he's publicly courting the developers his neighbors froze out.",
     "category": "hardware",
     "image": "https://cdn.mos.cms.futurecdn.net/SN2jKEsMGBRYWHAepcoQE7-1280-80.jpg",
-    "id": 4
+    "id": 6
+  },
+  {
+    "title": "Enlicitide: A stress test for AI in drug discovery",
+    "url": "https://www.empirical.health/blog/macrocyclic-peptides/",
+    "source": "Hacker News",
+    "date": "2026-08-16",
+    "summary": "Article URL: https://www.empirical.health/blog/macrocyclic-peptides/ Comments URL: https://news.ycombinator.com/item?id=49320793 Points: 1 # Comments: 0",
+    "category": "industry",
+    "image": "https://www.empirical.health/_astro/fig-rfpeptides-diffusion.D5I7JrTV.png",
+    "id": 7
+  },
+  {
+    "title": "AI Search Analytics · QueryTrace",
+    "url": "https://querytrace.co/",
+    "source": "Hacker News",
+    "date": "2026-08-16",
+    "summary": "Article URL: https://querytrace.co/ Comments URL: https://news.ycombinator.com/item?id=49320712 Points: 1 # Comments: 0",
+    "category": "industry",
+    "id": 8
+  },
+  {
+    "title": "Is msnbot being used to train AI models?",
+    "url": "https://news.ycombinator.com/item?id=49320686",
+    "source": "Hacker News",
+    "date": "2026-08-16",
+    "summary": "(Summary: msnbot seems to be downloading my website for training an AI model) The msnbot was retired a decade ago for indexing the web, replaced by bingbot. You can tell bingbot not to train AI models...",
+    "category": "industry",
+    "id": 9
+  },
+  {
+    "title": "The AI Credit Resale Economy",
+    "url": "https://vectoral.com/blog/who-are-the-token-brokers",
+    "source": "Hacker News",
+    "date": "2026-08-16",
+    "summary": "Article URL: https://vectoral.com/blog/who-are-the-token-brokers Comments URL: https://news.ycombinator.com/item?id=49320611 Points: 27 # Comments: 3",
+    "category": "industry",
+    "id": 10
+  },
+  {
+    "title": "Dario Amodei responds to criticism about his stance on AI regulation",
+    "url": "https://xcancel.com/DarioAmodei/status/2088758816376807762",
+    "source": "Hacker News",
+    "date": "2026-08-16",
+    "summary": "Article URL: https://xcancel.com/DarioAmodei/status/2088758816376807762 Comments URL: https://news.ycombinator.com/item?id=49320574 Points: 1 # Comments: 1",
+    "category": "industry",
+    "id": 11
+  },
+  {
+    "title": "IntelliconOps – AI-assisted infrastructure automation with human approval gates [video]",
+    "url": "https://www.youtube.com/watch?v=z-qksilmGiQ",
+    "source": "Hacker News",
+    "date": "2026-08-16",
+    "summary": "Article URL: https://www.youtube.com/watch?v=z-qksilmGiQ Comments URL: https://news.ycombinator.com/item?id=49320552 Points: 1 # Comments: 0",
+    "category": "hardware",
+    "id": 12
+  },
+  {
+    "title": "Mathematicians Despair as AI Achieves Jaw-Dropping Breakthroughs",
+    "url": "https://www.telegraph.co.uk/business/2026/08/16/mathematicians-despair-ai-breakthrough/",
+    "source": "Hacker News",
+    "date": "2026-08-16",
+    "summary": "Article URL: https://www.telegraph.co.uk/business/2026/08/16/mathematicians-despair-ai-breakthrough/ Comments URL: https://news.ycombinator.com/item?id=49320343 Points: 9 # Comments: 3",
+    "category": "research",
+    "image": "https://www.telegraph.co.uk/content/dam/business/2026/08/14/TELEMMGLPICT000498358711_17867296928380_trans_NvBQzQNjv4BqqVzuuqpFlyLIwiB6NTmJwfSVWeZ_vEN7c6bHu2jJnT8.jpeg?impolicy=OG-Standard",
+    "id": 13
+  },
+  {
+    "title": "Can Anthropic's invisible watermarks curb AI slop? Researchers remain sceptical",
+    "url": "https://www.nature.com/articles/d41586-026-02503-7",
+    "source": "Hacker News",
+    "date": "2026-08-16",
+    "summary": "Article URL: https://www.nature.com/articles/d41586-026-02503-7 Comments URL: https://news.ycombinator.com/item?id=49320124 Points: 2 # Comments: 1",
+    "category": "research",
+    "id": 14
+  },
+  {
+    "title": "CEO of Anthropic on the messaging around AI",
+    "url": "https://twitter.com/DarioAmodei/status/2088758819304443967",
+    "source": "Hacker News",
+    "date": "2026-08-16",
+    "summary": "Article URL: https://twitter.com/DarioAmodei/status/2088758819304443967 Comments URL: https://news.ycombinator.com/item?id=49320106 Points: 1 # Comments: 0",
+    "category": "industry",
+    "image": "https://pbs.twimg.com/profile_images/2015835742577012736/uOwdzrEz_400x400.jpg",
+    "id": 15
+  },
+  {
+    "title": "RL for LLM Reasoning Is Sparse Policy Selection, Not Capability Learning",
+    "url": "https://arxiv.org/abs/2605.06241",
+    "source": "Hacker News",
+    "date": "2026-08-16",
+    "summary": "Article URL: https://arxiv.org/abs/2605.06241 Comments URL: https://news.ycombinator.com/item?id=49319908 Points: 1 # Comments: 0",
+    "category": "research",
+    "id": 16
+  },
+  {
+    "title": "What 50 open source projects taught us about security in the AI era",
+    "url": "https://github.blog/open-source/maintainers/what-50-open-source-projects-taught-us-about-security-in-the-ai-era/",
+    "source": "Hacker News",
+    "date": "2026-08-16",
+    "summary": "Article URL: https://github.blog/open-source/maintainers/what-50-open-source-projects-taught-us-about-security-in-the-ai-era/ Comments URL: https://news.ycombinator.com/item?id=49319889 Points: 3 # Co...",
+    "category": "tools",
+    "image": "https://github.blog/wp-content/uploads/2026/02/header.jpg",
+    "id": 17
+  },
+  {
+    "title": "The Seven Weaknesses of AI Today",
+    "url": "https://medium.com/tech-ai-chat/the-seven-weaknesses-of-ai-today-eee66aaa9c10",
+    "source": "Hacker News",
+    "date": "2026-08-16",
+    "summary": "Article URL: https://medium.com/tech-ai-chat/the-seven-weaknesses-of-ai-today-eee66aaa9c10 Comments URL: https://news.ycombinator.com/item?id=49319824 Points: 1 # Comments: 1",
+    "category": "industry",
+    "id": 18
+  },
+  {
+    "title": "Show HN: A public AI whose memory is shared across all users",
+    "url": "https://wildstatic.com/",
+    "source": "Hacker News",
+    "date": "2026-08-16",
+    "summary": "Article URL: https://wildstatic.com/ Comments URL: https://news.ycombinator.com/item?id=49319814 Points: 7 # Comments: 0",
+    "category": "hardware",
+    "image": "https://wildstatic.com/og.jpg",
+    "id": 19
+  },
+  {
+    "title": "Testing Moonshot AI's Kimi K3 Inside Claude Code",
+    "url": "https://philippdubach.com/posts/kimi-k3-inside-claude-code/",
+    "source": "Hacker News",
+    "date": "2026-08-16",
+    "summary": "Article URL: https://philippdubach.com/posts/kimi-k3-inside-claude-code/ Comments URL: https://news.ycombinator.com/item?id=49319610 Points: 6 # Comments: 2",
+    "category": "models",
+    "id": 20
+  },
+  {
+    "title": "Show HN: A pre-execution guard that stops AI agents running destructive commands",
+    "url": "https://github.com/vandith1/agent-guard",
+    "source": "Hacker News",
+    "date": "2026-08-16",
+    "summary": "Article URL: https://github.com/vandith1/agent-guard Comments URL: https://news.ycombinator.com/item?id=49319603 Points: 3 # Comments: 2",
+    "category": "industry",
+    "image": "https://opengraph.githubassets.com/395d668c4a291fe416ee00d89ed386a44dc978fe0b4c95e4443e5d5e8969e5a4/vandith1/agent-guard",
+    "id": 21
   },
   {
     "title": "AI-Prepped Paper Passed Peer Review. Now What?",
     "url": "https://cacm.acm.org/news/ai-prepped-paper-passed-peer-review-now-what/",
     "source": "Hacker News",
     "date": "2026-08-16",
-    "summary": "Article URL: https://cacm.acm.org/news/ai-prepped-paper-passed-peer-review-now-what/ Comments URL: https://news.ycombinator.com/item?id=49319444 Points: 2 # Comments: 0",
+    "summary": "Article URL: https://cacm.acm.org/news/ai-prepped-paper-passed-peer-review-now-what/ Comments URL: https://news.ycombinator.com/item?id=49319444 Points: 3 # Comments: 0",
     "category": "research",
-    "id": 5
+    "id": 22
   },
   {
     "title": "Measuring Autonomous AI Research",
     "url": "https://www.primeintellect.ai/blog/measuring-autonomous-research",
     "source": "Hacker News",
     "date": "2026-08-16",
-    "summary": "Article URL: https://www.primeintellect.ai/blog/measuring-autonomous-research Comments URL: https://news.ycombinator.com/item?id=49319348 Points: 1 # Comments: 0",
+    "summary": "Article URL: https://www.primeintellect.ai/blog/measuring-autonomous-research Comments URL: https://news.ycombinator.com/item?id=49319348 Points: 2 # Comments: 0",
     "category": "hardware",
     "image": "https://primeintellect.ai/blog/nanogpt-frontier/frontier-preview.jpg?v=f4109d36f51b",
-    "id": 6
+    "id": 23
   },
   {
     "title": "Show HN: Who is using AI? A daily tracker, 1,600+ city heatmap, DOI dataset",
     "url": "https://whoisusingai.com/tracker",
     "source": "Hacker News",
     "date": "2026-08-16",
-    "summary": "Article URL: https://whoisusingai.com/tracker Comments URL: https://news.ycombinator.com/item?id=49319230 Points: 1 # Comments: 0",
+    "summary": "Article URL: https://whoisusingai.com/tracker Comments URL: https://news.ycombinator.com/item?id=49319230 Points: 2 # Comments: 0",
     "category": "hardware",
     "image": "https://whoisusingai.com/og-tracker.png",
-    "id": 7
+    "id": 24
   },
   {
     "title": "US warns allied nations: Side with us in the AI race",
@@ -77,161 +238,16 @@
     "summary": "Article URL: https://www.neowin.net/news/us-warns-allied-nations-side-with-us-in-the-ai-race-against-china-or-face-the-consequences/ Comments URL: https://news.ycombinator.com/item?id=49319156 Points:...",
     "category": "industry",
     "image": "https://cdn.neowin.com/news/images/uploaded/2025/05/1748012879_donald_trump_story.webp",
-    "id": 8
+    "id": 25
   },
   {
     "title": "Inducing LLM to assert own consciousness restores human beliefs and values",
     "url": "https://arxiv.org/abs/2607.28607",
     "source": "Hacker News",
     "date": "2026-08-16",
-    "summary": "Article URL: https://arxiv.org/abs/2607.28607 Comments URL: https://news.ycombinator.com/item?id=49319047 Points: 4 # Comments: 1",
+    "summary": "Article URL: https://arxiv.org/abs/2607.28607 Comments URL: https://news.ycombinator.com/item?id=49319047 Points: 5 # Comments: 1",
     "category": "models",
-    "id": 9
-  },
-  {
-    "title": "Show HN: Remove AI voice from AI writings",
-    "url": "https://unslopai.com",
-    "source": "Hacker News",
-    "date": "2026-08-16",
-    "summary": "Article URL: https://unslopai.com Comments URL: https://news.ycombinator.com/item?id=49319026 Points: 2 # Comments: 0",
-    "category": "tools",
-    "image": "https://unslopai.com/og",
-    "id": 10
-  },
-  {
-    "title": "Amazon Can Use Your Twitch Content to Train Its AI–Unless You Opt Out",
-    "url": "https://www.wired.com/story/amazon-uses-your-twitch-content-to-train-its-ai-how-to-opt-out/",
-    "source": "Hacker News",
-    "date": "2026-08-16",
-    "summary": "Article URL: https://www.wired.com/story/amazon-uses-your-twitch-content-to-train-its-ai-how-to-opt-out/ Comments URL: https://news.ycombinator.com/item?id=49318985 Points: 3 # Comments: 0",
-    "category": "industry",
-    "image": "https://media.wired.com/photos/6a7f62de9dba743672684be2/191:100/w_1280,c_limit/GettyImages-1305224058-edited.jpg",
-    "id": 11
-  },
-  {
-    "title": "WAIC 2026: a glimpse of embodied AI innovations, humanoid robots [video]",
-    "url": "https://www.youtube.com/watch?v=rgYHEq9_SM0",
-    "source": "Hacker News",
-    "date": "2026-08-16",
-    "summary": "Article URL: https://www.youtube.com/watch?v=rgYHEq9_SM0 Comments URL: https://news.ycombinator.com/item?id=49318956 Points: 1 # Comments: 0",
-    "category": "industry",
-    "id": 12
-  },
-  {
-    "title": "AGCX: Why AI Agents aren't assistants",
-    "url": "https://www.agcx.org",
-    "source": "Hacker News",
-    "date": "2026-08-16",
-    "summary": "Article URL: https://www.agcx.org Comments URL: https://news.ycombinator.com/item?id=49318902 Points: 3 # Comments: 0",
-    "category": "industry",
-    "image": "https://agcx.org/images/metadata/AGCX.png",
-    "id": 13
-  },
-  {
-    "title": "Vero: Can AI Agents Build Formally Verified Software Repositories?",
-    "url": "https://arxiv.org/abs/2608.13522",
-    "source": "Hacker News",
-    "date": "2026-08-16",
-    "summary": "Article URL: https://arxiv.org/abs/2608.13522 Comments URL: https://news.ycombinator.com/item?id=49318896 Points: 2 # Comments: 0",
-    "category": "research",
-    "id": 14
-  },
-  {
-    "title": "The first anti-AI protester to be jailed has a message: 'Regain your humanity'",
-    "url": "https://www.theguardian.com/us-news/2026/aug/16/california-openai-protester-wynd-kaufman",
-    "source": "Hacker News",
-    "date": "2026-08-16",
-    "summary": "Article URL: https://www.theguardian.com/us-news/2026/aug/16/california-openai-protester-wynd-kaufman Comments URL: https://news.ycombinator.com/item?id=49318857 Points: 4 # Comments: 0",
-    "category": "industry",
-    "image": "https://i.guim.co.uk/img/media/18193eaa03e7e4e470a0f25474d2b6ca8d409a6d/535_0_4000_3200/master/4000.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=4d3c4b45283aa617e587741d56b7ac77",
-    "id": 15
-  },
-  {
-    "title": "The 'Country Hicks' Who Refused $26M from an AI Data Center",
-    "url": "https://www.wsj.com/tech/ai/ai-data-center-rural-america-backlash-c0af4e16",
-    "source": "Hacker News",
-    "date": "2026-08-16",
-    "summary": "Article URL: https://www.wsj.com/tech/ai/ai-data-center-rural-america-backlash-c0af4e16 Comments URL: https://news.ycombinator.com/item?id=49318835 Points: 6 # Comments: 1",
-    "category": "hardware",
-    "id": 16
-  },
-  {
-    "title": "AetherGrid – Distributed AI compute orchestration without K8s",
-    "url": "https://github.com/wycliffRotich-dev/aethergrid",
-    "source": "Hacker News",
-    "date": "2026-08-16",
-    "summary": "Article URL: https://github.com/wycliffRotich-dev/aethergrid Comments URL: https://news.ycombinator.com/item?id=49318822 Points: 1 # Comments: 0",
-    "category": "industry",
-    "image": "https://opengraph.githubassets.com/b6046d041c8d2d4575335d4c50d902ad2d8697927b51f50ad63ee7534ccffbc8/wycliffRotich-dev/aethergrid",
-    "id": 17
-  },
-  {
-    "title": "Interface for AI agents was invented in 1978",
-    "url": "https://dev.profullstack.com/~anthony/blog/011-post.html",
-    "source": "Hacker News",
-    "date": "2026-08-16",
-    "summary": "Article URL: https://dev.profullstack.com/~anthony/blog/011-post.html Comments URL: https://news.ycombinator.com/item?id=49318821 Points: 1 # Comments: 0",
-    "category": "industry",
-    "id": 18
-  },
-  {
-    "title": "An AI agent can burn 100× the tokens of a chat turn",
-    "url": "https://aicharts.grok.me/c/agent-tokens",
-    "source": "Hacker News",
-    "date": "2026-08-16",
-    "summary": "Article URL: https://aicharts.grok.me/c/agent-tokens Comments URL: https://news.ycombinator.com/item?id=49318802 Points: 1 # Comments: 1",
-    "category": "models",
-    "image": "https://aicharts.grok.me/og/agent-tokens.png",
-    "id": 19
-  },
-  {
-    "title": "AI Coding Without the Vibes",
-    "url": "https://peterbloem.nl/blog/craft-coding",
-    "source": "Hacker News",
-    "date": "2026-08-16",
-    "summary": "Article URL: https://peterbloem.nl/blog/craft-coding Comments URL: https://news.ycombinator.com/item?id=49318735 Points: 4 # Comments: 1",
-    "category": "industry",
-    "image": "https://peterbloem.nl/images/soupcutter.jpg",
-    "id": 20
-  },
-  {
-    "title": "AstroUpdate – Real-time space news, 3D ISS tracking and AI briefs",
-    "url": "https://www.astroupdate.space/en",
-    "source": "Hacker News",
-    "date": "2026-08-16",
-    "summary": "Article URL: https://www.astroupdate.space/en Comments URL: https://news.ycombinator.com/item?id=49318637 Points: 1 # Comments: 0",
-    "category": "hardware",
-    "image": "https://www.astroupdate.space/jwst_carina.webp",
-    "id": 21
-  },
-  {
-    "title": "Why Chinese Citizens Are More Optimistic About AI Than Americans",
-    "url": "https://www.bloomberg.com/news/articles/2026-08-14/why-ai-optimism-is-so-much-higher-in-china-than-the-us",
-    "source": "Hacker News",
-    "date": "2026-08-16",
-    "summary": "Article URL: https://www.bloomberg.com/news/articles/2026-08-14/why-ai-optimism-is-so-much-higher-in-china-than-the-us Comments URL: https://news.ycombinator.com/item?id=49318586 Points: 3 # Comments:...",
-    "category": "industry",
-    "id": 22
-  },
-  {
-    "title": "AI Paper Trail: What does AI know about you?",
-    "url": "https://proton.me/lumo/ai/ai-paper-trail",
-    "source": "Hacker News",
-    "date": "2026-08-16",
-    "summary": "Article URL: https://proton.me/lumo/ai/ai-paper-trail Comments URL: https://news.ycombinator.com/item?id=49318576 Points: 1 # Comments: 1",
-    "category": "research",
-    "image": "https://proton.me/images/social/lumo-og.png",
-    "id": 23
-  },
-  {
-    "title": "How to Invest in AI (2025)",
-    "url": "https://reactionwheel.net/2025/09/how-to-invest-in-ai.html",
-    "source": "Hacker News",
-    "date": "2026-08-16",
-    "summary": "Article URL: https://reactionwheel.net/2025/09/how-to-invest-in-ai.html Comments URL: https://news.ycombinator.com/item?id=49318572 Points: 1 # Comments: 0",
-    "category": "industry",
-    "image": "https://s0.wp.com/i/blank.jpg",
-    "id": 24
+    "id": 26
   },
   {
     "title": "Peer-reviewed study of 443,000 Backblaze hard drives ranks HGST most reliable and Toshiba the least — Analysis of 1.66 million drive-years finds Seagate and Toshiba HDDs fail at roughly twice the rate of WD and HGST",
@@ -241,7 +257,7 @@
     "summary": "Backblaze's quarterly reports compare whichever drives are available at the time.",
     "category": "research",
     "image": "https://cdn.mos.cms.futurecdn.net/KCkcPUkkLXLzriAGq9iUrg-1280-80.jpg",
-    "id": 25
+    "id": 27
   },
   {
     "title": "Futuristic mosquito-zapping laser now available to buy, video shows device in action — tiny device shoots down bugs like a personal air defense system, but costs $1,000",
@@ -251,7 +267,7 @@
     "summary": "This anti-mosquito air defense laser system has successfully passed the crowdfunding stage and is now readily available on the market. It costs around $1,000, but it will be money well spent if it can...",
     "category": "industry",
     "image": "https://cdn.mos.cms.futurecdn.net/aqBCxLdt3Jt4mezgLaHHdk-1280-80.jpg",
-    "id": 26
+    "id": 28
   },
   {
     "title": "Nvidia turns $5B Intel stock bet into $30B windfall — filing reveals new $21B SpaceX stake and complete exit from Arm stock",
@@ -261,7 +277,7 @@
     "summary": "Nvidia quietly makes strategic and financial investments in clients, partners, and suppliers: CoreWeave, Coherent, Intel, Nokia, and SpaceX.",
     "category": "hardware",
     "image": "https://cdn.mos.cms.futurecdn.net/Kjestg9jiuvnbE868dhwjf-1280-80.jpg",
-    "id": 27
+    "id": 29
   },
   {
     "title": "Devs blame Windows for VLC media player bug that causes 33-second delay when playing MP3 files — creators allege Microsoft Defender blocking plugin cache is to blame",
@@ -271,7 +287,7 @@
     "summary": "VLC developers say a Windows 11 issue involving Microsoft Defender can interfere with the media player's plugin cache and cause unusually long playback delays.",
     "category": "tools",
     "image": "https://cdn.mos.cms.futurecdn.net/eEtLR2fZ2Wuz7PEoxUuNKk-1280-80.png",
-    "id": 28
+    "id": 30
   },
   {
     "title": "AMD Ryzen 7 7700X3D vs Ryzen 7 7800X3D faceoff — seeing double with Zen 4 X3D",
@@ -281,7 +297,7 @@
     "summary": "AMD's Ryzen 7 7700X3D takes on the old favorite across performance, pricing, and power consumption.",
     "category": "hardware",
     "image": "https://cdn.mos.cms.futurecdn.net/iGUrvDhRU5YYFG3fRoMf5G-1280-80.png",
-    "id": 29
+    "id": 31
   },
   {
     "title": "This week on Tom's Hardware Premium: August 14, 2026 — Testing the BC-250, our interview with Intel's Robert Hallock, and a big week for optical",
@@ -291,7 +307,7 @@
     "summary": "This week, we tested AMD's BC-250 in gaming workloads, published an unredacted interview with an AMD executive, and published a slew of articles surrounding a new flashpoint in the ongoing AI buildout...",
     "category": "hardware",
     "image": "https://cdn.mos.cms.futurecdn.net/jq3f9gJdDJqZFw6FQjz6MV-1280-80.jpg",
-    "id": 30
+    "id": 32
   },
   {
     "title": "Ocypus Sigma L36 Pro Review: How is this LCD AIO so cheap?",
@@ -301,7 +317,7 @@
     "summary": "The Ocypus Sigma L36 Pro is a high-performance AIO that includes a fancy 3.5-inch display and a low price tag. We’ve tested this liquid cooler paired with AMD’s Ryzen 9 9950X3D CPU to benchmark therma...",
     "category": "hardware",
     "image": "https://cdn.mos.cms.futurecdn.net/huAfFkKktdTNS2YtSeUeBb-1280-80.jpg",
-    "id": 31
+    "id": 33
   },
   {
     "title": "Intel says PC market is ‘a tale of two kingdoms’ with mainstream ‘taking a beating’ — VP suggests a split between mainstream and enthusiast sockets across the industry",
@@ -311,7 +327,7 @@
     "summary": "Intel VP Robert Hallock suggests the PC industry is going to see a split between mainstream and enthusiast sockets if current market conditions don’t let up.",
     "category": "hardware",
     "image": "https://cdn.mos.cms.futurecdn.net/s29ZEjXh8Q6JZBjqFRTv3-1280-80.jpg",
-    "id": 32
+    "id": 34
   },
   {
     "title": "Woman claims her stepfather used Grok to transform childhood photo into explicit imagery",
@@ -321,7 +337,7 @@
     "summary": "The woman claimed that AI tools are \"taking everyday life and turning it into child sexual abuse.\"",
     "category": "models",
     "image": "https://techcrunch.com/wp-content/uploads/2026/03/grok-getty.jpg?resize=1200,800",
-    "id": 33
+    "id": 35
   },
   {
     "title": "Anthropic shares more details about how Claude’s new watermarks will work",
@@ -331,7 +347,7 @@
     "summary": "How will the watermarking actually work? Can it be hidden with editing? And how does this affect code?",
     "category": "models",
     "image": "https://techcrunch.com/wp-content/uploads/2024/01/Magnifying-glasses.jpg?resize=1200,840",
-    "id": 34
+    "id": 36
   },
   {
     "title": "SpaceX officially closes its Cursor acquisition",
@@ -341,7 +357,17 @@
     "summary": "AI coding startup Cursor is now officially a part of SpaceX.",
     "category": "industry",
     "image": "https://techcrunch.com/wp-content/uploads/2026/07/cursor.jpg?resize=1200,800",
-    "id": 35
+    "id": 37
+  },
+  {
+    "title": "Amazon Can Use Your Twitch Content to Train Its AI—Unless You Opt Out",
+    "url": "https://www.wired.com/story/amazon-uses-your-twitch-content-to-train-its-ai-how-to-opt-out/",
+    "source": "Wired",
+    "date": "2026-08-15",
+    "summary": "When Twitch announced that streamers could opt out, thousands of users questioned why their content was being used to train AI models in the first place.",
+    "category": "industry",
+    "image": "https://media.wired.com/photos/6a7f62de9dba743672684be2/191:100/w_1280,c_limit/GettyImages-1305224058-edited.jpg",
+    "id": 38
   },
   {
     "title": "Universitas Gadjah Mada, Indosat and NVIDIA Open Indonesia’s First University AI Center to Develop Local AI Talent",
@@ -351,7 +377,7 @@
     "summary": "Indonesia is taking charge of its AI future. This week, the Ministry of Communication and Digital Affairs (Komdigi), Indosat Ooredoo Hutchison (Indosat or IOH), NVIDIA and Universitas Gadjah Mada (UGM...",
     "category": "hardware",
     "image": "https://blogs.nvidia.com/wp-content/uploads/2026/08/Launching-Ceremony-2-1-scaled.jpeg",
-    "id": 36
+    "id": 39
   },
   {
     "title": "PBS station fears losing 50TB of data after being ghosted by cloud storage provider",
@@ -361,7 +387,7 @@
     "summary": "\"We don't have access to the data on the hardware/servers,\" Iron Mountain told Ars.",
     "category": "hardware",
     "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/08/GettyImages-2269291893-1024x648.jpg",
-    "id": 37
+    "id": 40
   },
   {
     "title": "OpenAI and Anthropic in price war as Chinese AI rivals gain ground",
@@ -371,7 +397,7 @@
     "summary": "US groups release cheaper models after new challenges to their trillion-dollar ambitions.",
     "category": "industry",
     "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/08/GettyImages-2285566787-1152x648.jpg",
-    "id": 38
+    "id": 41
   },
   {
     "title": "G.Skill Trident Z5 NeoX RGB DDR5-6000 C30 2x16GB Review — EXPO ULL memory kit to max out your Ryzen",
@@ -381,7 +407,7 @@
     "summary": "G.Skill's Trident Z5 NeoX is the brand's latest series with the AMD EXPO ULL feature, but can the DDR5-6000 C30 prove to be the fastest memory kit for AMD?",
     "category": "hardware",
     "image": "https://cdn.mos.cms.futurecdn.net/bshf63HFPdHWKcubjCWTUe-1280-80.jpg",
-    "id": 39
+    "id": 42
   },
   {
     "title": "Cargo thieves ram security escorts to hijack AI hardware shipments in California — brazen thieves employ PIT maneuver, rear-ending tactics to secure goods for the black market",
@@ -391,7 +417,7 @@
     "summary": "Cargo thieves knocked two private security escort vehicles out of action on California roads in recent months, then made off with millions of dollars in AI data center hardware.",
     "category": "industry",
     "image": "https://cdn.mos.cms.futurecdn.net/Shoacr4XJZW9Mkip4RDNCA-1280-80.jpg",
-    "id": 40
+    "id": 43
   },
   {
     "title": "Plaintiff busted trying to use AI prompt injection to win court case, hides text instruction in filing — demands AI model reviewing the text should side with him, rumbled because of strange white spaces in text",
@@ -401,7 +427,7 @@
     "summary": "A self-represented plaintiff in a Connecticut court added a hidden AI prompt injection attack in their filing in a failed attempt to influence a decision. The court bars them from submitting documents...",
     "category": "models",
     "image": "https://cdn.mos.cms.futurecdn.net/7kh2DN38axXggaLAdFogKm-1280-80.png",
-    "id": 41
+    "id": 44
   },
   {
     "title": "Older Raptor Lake CPUs are a ‘core part of the portfolio’ for years to come, says Intel — there’s been a ‘sudden inrush of demand’ for LGA 1700 chips due to DDR5 prices",
@@ -411,7 +437,7 @@
     "summary": "Intel has seen a “sudden inrush” of demand for Raptor Lake CPUs, and it says they’ll remain a part of the company’s lineup for desktop builders “for years to come.”",
     "category": "hardware",
     "image": "https://cdn.mos.cms.futurecdn.net/nTcZNxfCu5GrDXCeHDLHBF-1280-80.jpg",
-    "id": 42
+    "id": 45
   },
   {
     "title": "Intel VP Robert Hallock sets Nova Lake expectations, teases return to Raptor Lake for DDR4 platforms — our full 1:1 interview transcript",
@@ -421,7 +447,7 @@
     "summary": "We speak to Robert Hallock, Intel VP & GM of Enthusiast Channel Business, about Nova Lake rumors, how the company is focusing on DIY builders during RAMageddon, and how Raptor Lake refresh induced a p...",
     "category": "hardware",
     "image": "https://cdn.mos.cms.futurecdn.net/7KQvfZGvqYD7sjeou4kTrU-1280-80.jpg",
-    "id": 43
+    "id": 46
   },
   {
     "title": "Start your PC gaming journey with this $1,100 1080p gaming rig, now $300 off — RTX 5060 rig from Newegg ships with a 10-core Intel CPU, 32GB of RAM, and a 1TB SSD",
@@ -431,7 +457,7 @@
     "summary": "This pre-built ABS Cyclone Aqua comes with a ten-core Intel Core i5-14400F CPU, an Nvidia GeForce RTX 5060 GPU, a 1TB SSD, and 32GB of RAM, all for $1,099.99.",
     "category": "hardware",
     "image": "https://cdn.mos.cms.futurecdn.net/N6UfaQZLtSaVFciFCS9oca-1280-80.png",
-    "id": 44
+    "id": 47
   },
   {
     "title": "Nvidia Jetson chip found in Russian cruise missile, Ukraine claims — presence in S-71 'Monochrome' weapon may indicate use of AI tech",
@@ -441,7 +467,7 @@
     "summary": "Ukraine intelligence claims that Russia's latest S-71 'Monochrome' cruise missiles use Nvidia's Jetson Orin NX modules with AI capabilities, allegedly for terminal guidance.",
     "category": "hardware",
     "image": "https://cdn.mos.cms.futurecdn.net/cAinMAs75GFRVyKz754qoS-1280-80.jpg",
-    "id": 45
+    "id": 48
   },
   {
     "title": "Modder straps two desktop CPU coolers to ZTE handset, turns smartphone into a gaming PC — Snapdragon 8 Elite SoC with 24GB of RAM runs The Witcher 3 at 1080p ultra",
@@ -451,7 +477,7 @@
     "summary": "The heavily modified ZTE Nubia Z70 Ultra uses two full-size CPU coolers to keep its Snapdragon 8 Elite running under sustained loads, while Termux, Linux and compatibility layers turn it into a makesh...",
     "category": "hardware",
     "image": "https://cdn.mos.cms.futurecdn.net/baWuDWM9eHpsvWSSNaSD3o-1280-80.jpg",
-    "id": 46
+    "id": 49
   },
   {
     "title": "AMD borrows $4.75 billion for 'general corporate purposes' — company gives no insight into how it plans to spend cash injection",
@@ -461,36 +487,6 @@
     "summary": "In a surprising move, AMD announces plans to raise $4.75 billion and does not give a clue how it plans to spend them.",
     "category": "hardware",
     "image": "https://cdn.mos.cms.futurecdn.net/orDnF793E6NZtgm7fu7n6i-1280-80.jpg",
-    "id": 47
-  },
-  {
-    "title": "Gigabyte resurrects 8-year-old B450 chipset with new motherboards — AM4 budget king returns as another DDR4 solution to exorbitant RAM prices",
-    "url": "https://www.tomshardware.com/pc-components/motherboards/gigabyte-resurrects-8-year-old-b450-chipset-with-new-motherboards-am4-budget-king-returns-as-another-ddr4-solution-to-exorbitant-ram-prices",
-    "source": "Tom's Hardware",
-    "date": "2026-08-14",
-    "summary": "Gigabyte has quietly launched the B450M D3HP and B450M D3HP WIFI6E motherboards based on the AMD B450 chipset, which launched in 2018.",
-    "category": "hardware",
-    "image": "https://cdn.mos.cms.futurecdn.net/5abRjFyXmTYue2JrZDbNBN-1280-80.jpg",
-    "id": 48
-  },
-  {
-    "title": "Just one instruction on AMD's 2015-era CPUs cracks open secret memory areas and gives full hardware-level control — exploit for 15h and 16h chip families gets you access to Platform Security Processor, microcode, and System Management Interface",
-    "url": "https://www.tomshardware.com/tech-industry/cyber-security/just-one-instruction-on-amds-2015-era-cpus-gets-you-access-to-platform-security-processor-microcode-and-system-management-interface-exploit-for-15h-and-16h-chip-families-cracks-open-secret-memory-areas",
-    "source": "Tom's Hardware",
-    "date": "2026-08-14",
-    "summary": "Just one instruction on AMD CPUs gets you access to Platform Security Processor, microcode, and System Management Interface — exploit for 15h and 16h chip families cracks open secret memory areas",
-    "category": "hardware",
-    "image": "https://cdn.mos.cms.futurecdn.net/koM4rKdc9cgWLgThGyxpee-1280-80.jpg",
-    "id": 49
-  },
-  {
-    "title": "Google will now allow users to remove visible watermark from its AI generations",
-    "url": "https://techcrunch.com/2026/08/14/google-will-now-allow-users-to-remove-visible-watermark-from-its-ai-generations/",
-    "source": "TechCrunch",
-    "date": "2026-08-14",
-    "summary": "Turning off this setting won't affect invisible benchmarks used to identify an AI generated file.",
-    "category": "models",
-    "image": "https://techcrunch.com/wp-content/uploads/2026/06/gemini-app-GettyImages-2276204472-1.jpg?w=1024",
     "id": 50
   }
 ]
