@@ -11,23 +11,61 @@
     "featured": true
   },
   {
+    "title": "OpenAI joins PORTS-Pike project",
+    "url": "https://openai.com/index/openai-joins-ports-pike-project",
+    "source": "OpenAI Blog",
+    "date": "2026-08-17",
+    "summary": "OpenAI joins PORTS-Pike project, expanding community investment and supporting thousands of Southern Ohio jobs",
+    "category": "industry",
+    "id": 2
+  },
+  {
     "title": "New policy ideas for the Intelligence Age",
     "url": "https://openai.com/index/new-policy-ideas-for-the-intelligence-age",
     "source": "OpenAI Blog",
     "date": "2026-08-17",
     "summary": "OpenAI funds 14 independent projects exploring new AI policy ideas to expand economic opportunity and strengthen societal resilience in the Intelligence Age.",
     "category": "hardware",
-    "id": 2
+    "id": 3
+  },
+  {
+    "title": "The Defender’s Window",
+    "url": "https://openai.com/index/the-defenders-window",
+    "source": "OpenAI Blog",
+    "date": "2026-08-17",
+    "summary": "AI is reshaping cybersecurity for attackers and defenders alike. Learn how OpenAI is strengthening its defenses and what security teams can do now.",
+    "category": "tools",
+    "id": 4
   },
   {
     "title": "Securing the Infrastructure of Intelligence",
     "url": "https://blogs.nvidia.com/blog/securing-the-infrastructure-of-intelligence/",
     "source": "NVIDIA Blog",
     "date": "2026-08-17",
-    "summary": "AI factories are the defining infrastructure of the AI era—where compute transforms energy and data into intelligence that powers every business, industry and country. In the AI economy, compute is re...",
+    "summary": "AI factories are the defining infrastructure of the AI era — where compute transforms energy and data into intelligence that powers every business, industry and country. In the AI economy, compute is ...",
     "category": "hardware",
     "image": "https://blogs.nvidia.com/wp-content/uploads/2026/08/partner-promo-pack-logo-lockup-openai-sbenergy-5590550_-press-1920x1080-1.png",
-    "id": 3
+    "id": 5
+  },
+  {
+    "title": "Nvidia discloses $21B stake in SpaceX",
+    "url": "https://arstechnica.com/information-technology/2026/08/nvidia-discloses-21b-stake-in-spacex/",
+    "source": "Ars Technica",
+    "date": "2026-08-17",
+    "summary": "Filing comes after Elon Musk announced exclusive arrangement to kit out its data centers.",
+    "category": "hardware",
+    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/08/ftcms_116f79c4-b712-471b-b46a-ace5e4d7dda4.avif",
+    "id": 6
+  },
+  {
+    "title": "Memory prices climb 500% in 12 months, up to 10x the lowest ever tracked prices — 128GB of DDR5 now $3,399",
+    "url": "https://www.tomshardware.com/pc-components/ram/memory-prices-climb-500-percent-in-12-months-up-to-10x-the-lowest-ever-tracked-prices-128gb-of-ddr5-now-usd3-399",
+    "source": "Tom's Hardware",
+    "date": "2026-08-17",
+    "summary": "Analysis of historical price data trends indicates that the memory crisis has driven RAM prices to never-before-seen heights.",
+    "category": "hardware",
+    "image": "https://cdn.mos.cms.futurecdn.net/tpcMxmS65pozfyjCrFmyWZ-1280-80.jpg",
+    "id": 7
   },
   {
     "title": "Intel's Arc Pro B70 workstation GPU is now up to 48% more expensive than it was just a month ago — 32GB Battlemage workstation card climbs toward $2,000",
@@ -37,7 +75,7 @@
     "summary": "Intel's best Battlemage GPU is now even more expensive due to its large 32GB memory pool that's very useful for AI workloads.",
     "category": "hardware",
     "image": "https://cdn.mos.cms.futurecdn.net/swD4ZoJrzhVCfabr3ADjGa-1280-80.png",
-    "id": 4
+    "id": 8
   },
   {
     "title": "Cherokee Nation bans hyperscale data centers on its lands, won't support projects without consultation  — energy and water consumption, air quality, noise, and cultural resource protection among concerns",
@@ -47,7 +85,7 @@
     "summary": "Cherokee Nation, with more than 475,000 citizens, has banned hyperscale data center development on its tribally owned and trust lands.",
     "category": "hardware",
     "image": "https://cdn.mos.cms.futurecdn.net/K7Efwz7zHNob3LcA9bqtvX-1280-80.jpg",
-    "id": 5
+    "id": 9
   },
   {
     "title": "AI data center optical interconnect market to hit $144 billion by 2030, an over ten-fold increase from 2024 figures, according to new projections — silicon photonics expected to account for nearly two-thirds of revenue, driven by co-packaged optics",
@@ -57,7 +95,7 @@
     "summary": "A new CIC forecast projects that the data center optical interconnect market will grow from $13.7 billion in 2024 to $144.4 billion by 2030, with silicon photonics accounting for 63.7% of revenue.",
     "category": "industry",
     "image": "https://cdn.mos.cms.futurecdn.net/84dsasJQthKbpNCXZenTVH-1280-80.jpg",
-    "id": 6
+    "id": 10
   },
   {
     "title": "PC Partner warns of rising GPU prices and budget card shortages — analyst suggests makers are hiking prices beyond memory costs",
@@ -67,190 +105,37 @@
     "summary": "PC Partner warns that graphics card prices will rise further in H2 2026 as memory costs climb and supplies tighten and entry-level boards will gain the most. This is how they gain money, says Jon Pedd...",
     "category": "hardware",
     "image": "https://cdn.mos.cms.futurecdn.net/j67fKceBtkTU225QyXEAYc-1280-80.jpg",
-    "id": 7
+    "id": 11
   },
   {
-    "title": "Japanese repair shop sells GDDR6 VRAM upgrades for $25 per GB during memory crisis — RTX 2080 Ti modded to 22GB for just $282, double the VRAM creates a budget AI powerhouse",
+    "title": "Japanese repair shop sells GPU VRAM upgrades for $25 per GB during memory crisis — RTX 2080 Ti modded to 22GB of GDDR6 for just $282, double the VRAM creates a budget AI powerhouse",
     "url": "https://www.tomshardware.com/pc-components/gpus/japanese-repair-shop-sells-gddr6-vram-upgrades-for-usd25-per-gb-during-memory-crisis-rtx-2080-ti-modded-to-22gb-for-just-usd282-double-the-vram-creates-a-budget-ai-powerhouse",
     "source": "Tom's Hardware",
     "date": "2026-08-17",
     "summary": "This vendor can upgrade your RTX 2080 Ti to feature 22GB of VRAM for less than $300, converting it into an AI powerhouse without breaking the bank.",
     "category": "hardware",
     "image": "https://cdn.mos.cms.futurecdn.net/MmqRv6C4cxpsk7GWCfvm88-1280-80.jpg",
-    "id": 8
-  },
-  {
-    "title": "Found a duplicate-execution bug in an MCP tool via static analysis (no LLM)",
-    "url": "https://www.getnexum.dev/blog/nexum-004-fabian-williams",
-    "source": "Hacker News",
-    "date": "2026-08-17",
-    "summary": "Article URL: https://www.getnexum.dev/blog/nexum-004-fabian-williams Comments URL: https://news.ycombinator.com/item?id=49329849 Points: 1 # Comments: 0",
-    "category": "models",
-    "image": "https://getnexum.dev/static/img/og-image.png",
-    "id": 9
-  },
-  {
-    "title": "A Test for AI Consciousness",
-    "url": "https://gruhn.me/blog/2026-08-16/",
-    "source": "Hacker News",
-    "date": "2026-08-17",
-    "summary": "Article URL: https://gruhn.me/blog/2026-08-16/ Comments URL: https://news.ycombinator.com/item?id=49329703 Points: 1 # Comments: 0",
-    "category": "industry",
-    "id": 10
-  },
-  {
-    "title": "Who Owns Intelligence? Jensen Huang and the Battle for Open-Weight AI",
-    "url": "https://aiengineerhub.com/who-owns-intelligence-open-weight-ai",
-    "source": "Hacker News",
-    "date": "2026-08-17",
-    "summary": "Article URL: https://aiengineerhub.com/who-owns-intelligence-open-weight-ai Comments URL: https://news.ycombinator.com/item?id=49329653 Points: 2 # Comments: 0",
-    "category": "models",
-    "image": "https://assets.zyrosite.com/cdn-cgi/image/format=auto,w=1440,h=756,fit=crop,f=jpeg/ALpXlQrzZKUXP6ZR/neural-network-beyond-the-boundary-aDPKwhBqSJQxseMP.png",
-    "id": 11
-  },
-  {
-    "title": "GPT 5.6 Sol is the best \"vision\" model OpenAI ever released",
-    "url": "https://blog.roboflow.com/openai-gpt-5-6/",
-    "source": "Hacker News",
-    "date": "2026-08-17",
-    "summary": "Article URL: https://blog.roboflow.com/openai-gpt-5-6/ Comments URL: https://news.ycombinator.com/item?id=49329575 Points: 4 # Comments: 0",
-    "category": "models",
-    "image": "https://storage.ghost.io/c/2c/8d/2c8d8c0d-1c15-4b6d-825e-02b78d61d40a/content/images/2026/07/img-blog-gpt-5-6-sol-best-vision-model-to-date.jpg",
     "id": 12
   },
   {
-    "title": "AI market correction is coming, ECB blog predicts",
-    "url": "https://www.reuters.com/business/autos-transportation/ai-market-correction-is-coming-ecb-blog-predicts-2026-08-17/",
-    "source": "Hacker News",
+    "title": "Nvidia investing $1.5B in SoftBank data center developer behind OpenAI project",
+    "url": "https://techcrunch.com/2026/08/17/nvidia-investing-1-5b-in-softbank-data-center-developer-behind-openai-project/",
+    "source": "TechCrunch",
     "date": "2026-08-17",
-    "summary": "Article URL: https://www.reuters.com/business/autos-transportation/ai-market-correction-is-coming-ecb-blog-predicts-2026-08-17/ Comments URL: https://news.ycombinator.com/item?id=49329487 Points: 3 # ...",
-    "category": "industry",
+    "summary": "Nvidia's investment in SoftBank's data center developer will guarantee its chips power an OpenAI data center.",
+    "category": "hardware",
+    "image": "https://techcrunch.com/wp-content/uploads/2025/07/GettyImages-2219673294.jpg?resize=1200,750",
     "id": 13
   },
   {
-    "title": "Argument AI App on iOS and Android",
-    "url": "https://argumentapp.ai/",
-    "source": "Hacker News",
+    "title": "Wispr raises $280M at $2B valuation as it looks beyond dictation",
+    "url": "https://techcrunch.com/2026/08/17/wispr-raises-280m-at-2b-valuation-as-it-looks-beyond-dictation/",
+    "source": "TechCrunch",
     "date": "2026-08-17",
-    "summary": "Article URL: https://argumentapp.ai/ Comments URL: https://news.ycombinator.com/item?id=49329462 Points: 1 # Comments: 1",
-    "category": "tools",
-    "image": "https://argumentapp.ai/og-banner.png",
+    "summary": "Wispr’s total funding is now over $361 million.",
+    "category": "industry",
+    "image": "https://techcrunch.com/wp-content/uploads/2026/02/Wispr-Flow-Android-hero.jpg?resize=1200,718",
     "id": 14
-  },
-  {
-    "title": "What happens when an AI agent stops being a disposable session?",
-    "url": "https://www.dropstone.io/blog/dropstone-sdk-1-0",
-    "source": "Hacker News",
-    "date": "2026-08-17",
-    "summary": "Article URL: https://www.dropstone.io/blog/dropstone-sdk-1-0 Comments URL: https://news.ycombinator.com/item?id=49329451 Points: 2 # Comments: 0",
-    "category": "tools",
-    "image": "https://www.dropstone.io/blog/dropstone-sdk-1-0/opengraph-image?a781c952d076c140",
-    "id": 15
-  },
-  {
-    "title": "Solving Hack the Box Challenges with GPT‑5.6",
-    "url": "https://theaq.blog/2026/08/17/solving-htb-challenges-with-openai-gpt-5.6.html",
-    "source": "Hacker News",
-    "date": "2026-08-17",
-    "summary": "Article URL: https://theaq.blog/2026/08/17/solving-htb-challenges-with-openai-gpt-5.6.html Comments URL: https://news.ycombinator.com/item?id=49329414 Points: 2 # Comments: 1",
-    "category": "models",
-    "image": "https://theaq.blog/assets/images/htb-challenger-benchmark-logo-social.png",
-    "id": 16
-  },
-  {
-    "title": "AI Has Plunged the Book Publishing Industry into Utter Chaos",
-    "url": "https://www.wsj.com/arts-culture/books/generative-ai-book-publishing-be79a287",
-    "source": "Hacker News",
-    "date": "2026-08-17",
-    "summary": "Article URL: https://www.wsj.com/arts-culture/books/generative-ai-book-publishing-be79a287 Comments URL: https://news.ycombinator.com/item?id=49329383 Points: 2 # Comments: 0",
-    "category": "industry",
-    "id": 17
-  },
-  {
-    "title": "We built AI accelerators to reduce the time from AI prototype to production",
-    "url": "https://geekyants.com/ai-accelerator",
-    "source": "Hacker News",
-    "date": "2026-08-17",
-    "summary": "Article URL: https://geekyants.com/ai-accelerator Comments URL: https://news.ycombinator.com/item?id=49329365 Points: 2 # Comments: 1",
-    "category": "hardware",
-    "image": "https://geekyants-v5-media.sgp1.cdn.digitaloceanspaces.com/media/2026/08/a26c462f-0cbb-46c8-a544-d3ea00777535.png",
-    "id": 18
-  },
-  {
-    "title": "Vetted AI code is hard to justify",
-    "url": "https://amoffat.github.io/blog/vetting-burnout.html",
-    "source": "Hacker News",
-    "date": "2026-08-17",
-    "summary": "Article URL: https://amoffat.github.io/blog/vetting-burnout.html Comments URL: https://news.ycombinator.com/item?id=49329292 Points: 1 # Comments: 0",
-    "category": "industry",
-    "id": 19
-  },
-  {
-    "title": "Why Stripe's $7B OpenRouter Acquisition Is About Owning the AI Routing Layer",
-    "url": "https://medium.com/@glennlenormand/stripe-didnt-pay-7-billion-for-openrouter-it-bought-the-tollbooth-of-the-ai-economy-5849f9891488",
-    "source": "Hacker News",
-    "date": "2026-08-17",
-    "summary": "Article URL: https://medium.com/@glennlenormand/stripe-didnt-pay-7-billion-for-openrouter-it-bought-the-tollbooth-of-the-ai-economy-5849f9891488 Comments URL: https://news.ycombinator.com/item?id=4932...",
-    "category": "industry",
-    "id": 20
-  },
-  {
-    "title": "Bruce Schneier: AI Will Hack More Than Computers [video]",
-    "url": "https://www.youtube.com/watch?v=YuwL8us4aq4",
-    "source": "Hacker News",
-    "date": "2026-08-17",
-    "summary": "Article URL: https://www.youtube.com/watch?v=YuwL8us4aq4 Comments URL: https://news.ycombinator.com/item?id=49329220 Points: 3 # Comments: 0",
-    "category": "industry",
-    "id": 21
-  },
-  {
-    "title": "What the OpenAI/Hugging Face Hack Tells Us About AI Danger",
-    "url": "https://www.bloomberg.com/news/videos/2026-08-17/what-the-openai-hugging-face-hack-shows-about-ai-danger-video",
-    "source": "Hacker News",
-    "date": "2026-08-17",
-    "summary": "Article URL: https://www.bloomberg.com/news/videos/2026-08-17/what-the-openai-hugging-face-hack-shows-about-ai-danger-video Comments URL: https://news.ycombinator.com/item?id=49329083 Points: 1 # Comm...",
-    "category": "tools",
-    "id": 22
-  },
-  {
-    "title": "Show HN: Find images by what they show, AI-rename them, and sort them easily",
-    "url": "https://apps.microsoft.com/detail/9mt89hd9s6sm?hl=en-US&gl=US",
-    "source": "Hacker News",
-    "date": "2026-08-17",
-    "summary": "Article URL: https://apps.microsoft.com/detail/9mt89hd9s6sm?hl=en-US&gl=US Comments URL: https://news.ycombinator.com/item?id=49329074 Points: 7 # Comments: 1",
-    "category": "industry",
-    "image": "https://store-images.s-microsoft.com/image/apps.32329.13817489719550700.1d545229-b87e-45e2-9176-b200817d951e.7f4a74f9-955f-4a27-a43d-892e82f2f477",
-    "id": 23
-  },
-  {
-    "title": "Programmatic memory for long-horizon LLM agents",
-    "url": "https://github.com/alexisfox7/PRO-LONG",
-    "source": "Hacker News",
-    "date": "2026-08-17",
-    "summary": "Article URL: https://github.com/alexisfox7/PRO-LONG Comments URL: https://news.ycombinator.com/item?id=49329010 Points: 2 # Comments: 0",
-    "category": "models",
-    "image": "https://opengraph.githubassets.com/a0a6e3635da86a6f648a8bff3c922fc3e07f8f24bf7641b746987b369256dde8/alexisfox7/PRO-LONG",
-    "id": 24
-  },
-  {
-    "title": "Anthropic becomes the 'Apple of AI': Most revenue despite being most expensive",
-    "url": "https://www.techradar.com/pro/anthropic-becomes-the-apple-of-ai-as-it-grabs-most-revenue-despite-being-the-most-expensive",
-    "source": "Hacker News",
-    "date": "2026-08-17",
-    "summary": "Article URL: https://www.techradar.com/pro/anthropic-becomes-the-apple-of-ai-as-it-grabs-most-revenue-despite-being-the-most-expensive Comments URL: https://news.ycombinator.com/item?id=49329003 Point...",
-    "category": "industry",
-    "image": "https://cdn.mos.cms.futurecdn.net/scxFkyfYSQbrtGvqrmFqgU-2560-80.jpg",
-    "id": 25
-  },
-  {
-    "title": "AI Native Review Collection on auto pilot mode",
-    "url": "https://www.feedspace.io/",
-    "source": "Hacker News",
-    "date": "2026-08-17",
-    "summary": "Article URL: https://www.feedspace.io/ Comments URL: https://news.ycombinator.com/item?id=49328916 Points: 1 # Comments: 1",
-    "category": "industry",
-    "image": "https://assets.feedspace.io/images/Feedspace%20Home%20Meta%20Image.png",
-    "id": 26
   },
   {
     "title": "Inducing Reward-Free Judging Rubrics that Reduce Over-Crediting in Agent Evaluation",
@@ -259,7 +144,7 @@
     "date": "2026-08-17",
     "summary": "Evaluating language-model agents at scale increasingly relies on a second language model as an automatic judge, because the gold signal, an executable environment reward, is expensive, slow, or unavai...",
     "category": "models",
-    "id": 27
+    "id": 15
   },
   {
     "title": "Depth-Aware Sensitivity Analysis of Mixture-of-Experts Models via Magnitude-Based Expert Masking",
@@ -268,7 +153,7 @@
     "date": "2026-08-17",
     "summary": "Mixture-of-Experts (MoE) architectures scale large language models (LLMs) while preserving computational efficiency through sparse activation. Despite their widespread adoption, the relative importanc...",
     "category": "research",
-    "id": 28
+    "id": 16
   },
   {
     "title": "Modular Cognitive Architecture Emerges in Large Language Models",
@@ -277,7 +162,7 @@
     "date": "2026-08-17",
     "summary": "The human brain exhibits a striking degree of functional specialization, with distinct networks supporting language, formal reasoning, reasoning about other minds, and reasoning about the physical wor...",
     "category": "models",
-    "id": 29
+    "id": 17
   },
   {
     "title": "A Year in LLM Serving: Workload Evolution, Caching and Load-Balancing",
@@ -286,7 +171,7 @@
     "date": "2026-08-17",
     "summary": "Large Language Model (LLM) serving has become a critical cloud workload, and realistic traces are essential for motivating and benchmarking serving systems. However, existing LLM serving workload stud...",
     "category": "research",
-    "id": 30
+    "id": 18
   },
   {
     "title": "Agentao: A Governed Local-First Runtime for Tool-Using LLM Agents",
@@ -295,7 +180,7 @@
     "date": "2026-08-17",
     "summary": "LLM agents increasingly operate as execution systems that invoke tools, modify local state, use persistent memory, and interact with external protocols. These capabilities make agents useful, but they...",
     "category": "research",
-    "id": 31
+    "id": 19
   },
   {
     "title": "AI Evaluation Should Work With Humans",
@@ -304,7 +189,7 @@
     "date": "2026-08-17",
     "summary": "This position paper argues that the dominant paradigm of AI evaluation (which focuses on superhuman autonomous performance and so implicitly targets the goal of replacing humans) is guiding AI develop...",
     "category": "research",
-    "id": 32
+    "id": 20
   },
   {
     "title": "Stable Miscalibration in Large Language Models: A Practical View of High-Confidence Errors",
@@ -313,7 +198,7 @@
     "date": "2026-08-17",
     "summary": "High-confidence errors in large language models are often treated as evidence of fragile internal inference. We study a different possibility: stable miscalibration, where a confident wrong answer rem...",
     "category": "models",
-    "id": 33
+    "id": 21
   },
   {
     "title": "Measuring Cross-Task Behavioral Consistency in Language Model Agents",
@@ -322,7 +207,7 @@
     "date": "2026-08-17",
     "summary": "Agent evaluation relies almost entirely on outcome metrics such as success rate, which capture whether an agent succeeds but not how consistently it behaves. We argue that behavioral consistency acros...",
     "category": "research",
-    "id": 34
+    "id": 22
   },
   {
     "title": "Cross-Disciplinary Taxonomy and Modeling of Misunderstanding Generation, Amplification, and Detection, from Pragmatics to AI Agents",
@@ -331,7 +216,7 @@
     "date": "2026-08-17",
     "summary": "Detection of misunderstanding is an urgent problem to solve because communication has moved away from real-time, in-person interaction and is increasingly handled by AI-mediated channels. This shift c...",
     "category": "research",
-    "id": 35
+    "id": 23
   },
   {
     "title": "Active Perception for Embodied Disambiguation",
@@ -340,7 +225,7 @@
     "date": "2026-08-17",
     "summary": "Natural language provides robots with a flexible task interface, but target ambiguity in embodied environments arises not only from user intent; it can also result from missing taskrelevant physical e...",
     "category": "models",
-    "id": 36
+    "id": 24
   },
   {
     "title": "MobileMem: Learning from a Year of Mobile Experiences",
@@ -349,7 +234,7 @@
     "date": "2026-08-17",
     "summary": "The next generation of AI agents is increasingly moving beyond systems that answer isolated questions toward persistent personal assistants that can understand, remember, and continuously learn from u...",
     "category": "research",
-    "id": 37
+    "id": 25
   },
   {
     "title": "No Universal Signal Predicts Sample-Level LLM Regression under Version Updates",
@@ -358,7 +243,7 @@
     "date": "2026-08-17",
     "summary": "Frontier LLMs are updated frequently and typically outperform their predecessors in aggregate. But aggregate gains say little about individual samples: an update can still cause sample-level regressio...",
     "category": "research",
-    "id": 38
+    "id": 26
   },
   {
     "title": "Evaluating Agentic Learning Harness Capabilities Without Labels via the Scaling Hypothesis",
@@ -367,7 +252,7 @@
     "date": "2026-08-17",
     "summary": "Agentic \"Continual Learning Harnesses\", systems that pair an LLM with retrieval or memory to improve from feedback without retraining, have shown growing value in cybersecurity. But their value is con...",
     "category": "research",
-    "id": 39
+    "id": 27
   },
   {
     "title": "SemPlan: Benchmarking Structured Semantic Planning for LLM-Based Queries over Enterprise Data",
@@ -376,7 +261,7 @@
     "date": "2026-08-17",
     "summary": "Natural-language interfaces to enterprise data must translate underspecified requests into governed, executable behavior while controlling invalid queries, policy failures, cost, and nondeterminism. S...",
     "category": "industry",
-    "id": 40
+    "id": 28
   },
   {
     "title": "How Compliant is Sepsis Treatment? An Expert-Guided Neuro-symbolic Pipeline for Generating Clinical Compliance Insights",
@@ -385,7 +270,7 @@
     "date": "2026-08-17",
     "summary": "Verifying whether clinical care follows evidence-based protocols is a natural neuro-symbolic problem, yet the safety-critical setting defeats either paradigm alone. We present an expert-guided pipelin...",
     "category": "models",
-    "id": 41
+    "id": 29
   },
   {
     "title": "Algorithm Design and Physician Liability",
@@ -394,7 +279,7 @@
     "date": "2026-08-17",
     "summary": "A single clinical algorithm can deliver unequal accuracy across patient groups, and concern about such disparity has grown as artificial intelligence (AI) spreads through clinical decision-making. In ...",
     "category": "hardware",
-    "id": 42
+    "id": 30
   },
   {
     "title": "ARC: Fair Relative Advantage Comparison in Open-Ended Real-World Interaction",
@@ -403,7 +288,7 @@
     "date": "2026-08-17",
     "summary": "Open-ended real-world interaction admits multiple valid behaviors: an agent may answer directly, ask for clarification, provide progress updates, or confirm before acting. This flexibility breaks a co...",
     "category": "research",
-    "id": 43
+    "id": 31
   },
   {
     "title": "Reward Machines for Signal Temporal Logic",
@@ -412,7 +297,7 @@
     "date": "2026-08-17",
     "summary": "Signal temporal logic (STL) provides a formal language for specifying real-time properties of real-valued observations, along with a quantitative robustness score for monitoring satisfaction. Control ...",
     "category": "hardware",
-    "id": 44
+    "id": 32
   },
   {
     "title": "Ontology-Grounded Project Memory for Coding Agents",
@@ -421,7 +306,7 @@
     "date": "2026-08-17",
     "summary": "Coding agents have become the primary means of generating new code in many software projects, and the resulting velocity of changes makes keeping track of the reasons behind those changes challenging....",
     "category": "hardware",
-    "id": 45
+    "id": 33
   },
   {
     "title": "Second Thought: Reasoning in Parallel as LLM Agents Act and Observe",
@@ -430,7 +315,7 @@
     "date": "2026-08-17",
     "summary": "LLM agents in the ReAct paradigm alternate between reasoning, acting, and observing, but deliberate reasoning is confined to the Thought phase: while the agent serializes an action and waits for the e...",
     "category": "research",
-    "id": 46
+    "id": 34
   },
   {
     "title": "Learning to Assemble Novel Structures with Unfamiliar Parts under Semantic Constraints",
@@ -439,7 +324,7 @@
     "date": "2026-08-17",
     "summary": "This paper describes a neurosymbolic architecture for learning to assemble novel structures using evidence from embodied conversations and task demonstrations. We focus on scenarios where an agent enc...",
     "category": "research",
-    "id": 47
+    "id": 35
   },
   {
     "title": "Coverage Aware Active Evaluation for Failure Discovery with Paired Systems",
@@ -448,7 +333,7 @@
     "date": "2026-08-17",
     "summary": "Autonomous systems can fail in rare and heterogeneous ways, making real-world failure discovery difficult under limited testing budgets. Although cheaper proxies such as simulators, lower-fidelity sys...",
     "category": "research",
-    "id": 48
+    "id": 36
   },
   {
     "title": "Explanation Multiplicity: Circuit-Level Interpretability Evidence Does Not Survive Defensible Analytic Variation",
@@ -457,7 +342,7 @@
     "date": "2026-08-17",
     "summary": "The EU AI Act requires providers of high-risk systems to file technical documentation describing how the system reaches its decisions. Mechanistic interpretability is the obvious source of such eviden...",
     "category": "research",
-    "id": 49
+    "id": 37
   },
   {
     "title": "Simulation-Aware In-Context Policy Improvement for LLM-Aided Analog Layout Refinement",
@@ -466,6 +351,114 @@
     "date": "2026-08-17",
     "summary": "Analog IC layout design remains a labor-intensive iterative process dominated by simulation-driven refinement. Although end-to-end layout generators accelerate initial placement and routing, they stil...",
     "category": "models",
+    "id": 38
+  },
+  {
+    "title": "From Passive Delegates to Strategic Negotiators: Reinforcing Social Reasoning in Small Language Models with SocialRL",
+    "url": "https://arxiv.org/abs/2608.13787",
+    "source": "arXiv cs.AI",
+    "date": "2026-08-17",
+    "summary": "AI agents increasingly act on their users' behalf, handling tasks such as scheduling meetings, comparing offers, and haggling over prices. These principal-driven tasks routinely place the agent across...",
+    "category": "research",
+    "id": 39
+  },
+  {
+    "title": "SDO: Subspace Deconflicting Operator for Multi-Adapter Composition",
+    "url": "https://arxiv.org/abs/2608.13820",
+    "source": "arXiv cs.AI",
+    "date": "2026-08-17",
+    "summary": "Composing independently trained adapters within a shared diffusion backbone provides a modular approach to multi-character generation, but naive joint deployment often causes identity mixing, cross-ch...",
+    "category": "models",
+    "id": 40
+  },
+  {
+    "title": "Joint Optimization of Memory and Computing Frequency for Energy-Efficient DNN Inference",
+    "url": "https://arxiv.org/abs/2608.13863",
+    "source": "arXiv cs.AI",
+    "date": "2026-08-17",
+    "summary": "Deep neural network (DNN) inference on mobile devices often incurs high latency and energy consumption due to limited computing and memory resources. To enable energy-efficient DNN inference, most exi...",
+    "category": "research",
+    "id": 41
+  },
+  {
+    "title": "MemoryLake on MemoryArena: A Matched Study of Agent Memory Backends",
+    "url": "https://arxiv.org/abs/2608.13883",
+    "source": "arXiv cs.AI",
+    "date": "2026-08-17",
+    "summary": "Most agent-memory benchmarks test post-hoc recall, whereas MemoryArena evaluates whether memory supports interdependent, multi-session task completion. We compare MemoryLake, a structured multi-track ...",
+    "category": "research",
+    "id": 42
+  },
+  {
+    "title": "When Personal Memory Has No Single Answer: Evaluating LLM Agents under Irreducible Conflict",
+    "url": "https://arxiv.org/abs/2608.13921",
+    "source": "arXiv cs.AI",
+    "date": "2026-08-17",
+    "summary": "LLM agents increasingly maintain personal memory across sessions, but it can conflict. Preferences depend on context, behavior evolves, and sources can conflict. When a query lacks context, time, or s...",
+    "category": "models",
+    "id": 43
+  },
+  {
+    "title": "Never the Number: Structural Abstention for AI Systems Whose Answers Are Consumed as Fact",
+    "url": "https://arxiv.org/abs/2608.13926",
+    "source": "arXiv cs.AI",
+    "date": "2026-08-17",
+    "summary": "Large language models have made natural language interfaces to databases (NLIDB) newly credible, but LLM text-to-SQL systems fail in a way that matters for deployment: a hallucinated column or a mis-a...",
+    "category": "models",
+    "id": 44
+  },
+  {
+    "title": "AI Research Preference Models",
+    "url": "https://arxiv.org/abs/2608.13940",
+    "source": "arXiv cs.AI",
+    "date": "2026-08-17",
+    "summary": "AI research agents (AIRA) can now propose, implement, and evaluate their own machine learning experiments, but progress on frontier tasks is throttled by cost: a candidate solution can be written in m...",
+    "category": "research",
+    "id": 45
+  },
+  {
+    "title": "HELIX: Model-Harness Co-evolution for Recursive Self-Improvement",
+    "url": "https://arxiv.org/abs/2608.13951",
+    "source": "arXiv cs.AI",
+    "date": "2026-08-17",
+    "summary": "Scaling agent capability has largely focused on improving the model, yet an interactive agent acts through a runtime harness that mediates context, tools, control flow, and stopping. The harness shape...",
+    "category": "research",
+    "id": 46
+  },
+  {
+    "title": "Implementing Computational Law in Wolfram Language for the Governance of Artificial Intelligence",
+    "url": "https://arxiv.org/abs/2608.13958",
+    "source": "arXiv cs.AI",
+    "date": "2026-08-17",
+    "summary": "How do we govern AI systems whose reasoning we cannot fully inspect? Governance does not require understanding a system's reasoning. It requires stating what the system is obliged, permitted, and forb...",
+    "category": "research",
+    "id": 47
+  },
+  {
+    "title": "Nanbeige4.2-3B on Apple Silicon: Fixing Deployment Bugs and Decreasing Looped Transformer Memory Overhead",
+    "url": "https://arxiv.org/abs/2608.13987",
+    "source": "arXiv cs.AI",
+    "date": "2026-08-17",
+    "summary": "Nanbeige4.2-3B is a 3B-parameter agentic model built around a Looped Transformer (LT) that reuses one stack of layers for a second forward pass, adding effective depth without additional parameters. E...",
+    "category": "tools",
+    "id": 48
+  },
+  {
+    "title": "Content Depth Matters in Short-Video Recommendation: Rethinking the Attention Economy",
+    "url": "https://arxiv.org/abs/2608.13990",
+    "source": "arXiv cs.AI",
+    "date": "2026-08-17",
+    "summary": "Driven by the attention economy, short-video Recommender Systems (RSs) are primarily optimized to maximize user engagement by promoting videos that capture attention within seconds. These systems inhe...",
+    "category": "research",
+    "id": 49
+  },
+  {
+    "title": "Simulation-Driven Vehicular Traffic Data Augmentation: Extending Sensor Coverage Through Virtual Sensing",
+    "url": "https://arxiv.org/abs/2608.13993",
+    "source": "arXiv cs.AI",
+    "date": "2026-08-17",
+    "summary": "Urban traffic management relies on sensor networks whose spatial coverage is limited by deployment costs and privacy regulations. Machine learning models trained on such sparse data cannot generalize ...",
+    "category": "industry",
     "id": 50
   }
 ]
