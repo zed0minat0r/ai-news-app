@@ -11,6 +11,15 @@
     "featured": true
   },
   {
+    "title": "The CLI your AI agent drives to manage your knowledge graph",
+    "url": "https://useokf.com/",
+    "source": "Hacker News",
+    "date": "2026-08-17",
+    "summary": "Article URL: https://useokf.com/ Comments URL: https://news.ycombinator.com/item?id=49325279 Points: 2 # Comments: 0",
+    "category": "industry",
+    "id": 2
+  },
+  {
     "title": "Maker compresses a 2.9MB song by 1000x and prints it on paper as eight QR codes — 21KB song is two minutes long, requires a neural network for playback",
     "url": "https://www.tomshardware.com/tech-industry/maker-compresses-a-2-9mb-song-1000-times-with-metas-ai-codec-and-prints-it-on-paper-as-eight-qr-codes",
     "source": "Tom's Hardware",
@@ -18,7 +27,7 @@
     "summary": "The open-source codec Meta released in 2022 converts a waveform into discrete tokens that a matching decoder turns back into audio.",
     "category": "research",
     "image": "https://cdn.mos.cms.futurecdn.net/4JwLzCyNBmPwoKZfyLrjd-1280-80.png",
-    "id": 2
+    "id": 3
   },
   {
     "title": "Google reportedly taps AMD to design next-generation TPU — hybrid AI ASIC could integrate on-package CPU cores for reinforcement learning",
@@ -28,7 +37,7 @@
     "summary": "Google may be building a TPU with on-package CPU cores specifically for agentic and reinforced learning workloads, according to a rumor.",
     "category": "hardware",
     "image": "https://cdn.mos.cms.futurecdn.net/9yjpJGx28XVepArU3M5vBD-1280-80.jpg",
-    "id": 3
+    "id": 4
   },
   {
     "title": "Intel says it will launch new core with Nova Lake on desktop first, not in data center — VP Robert Hallock hopes enthusiasts ‘do the math’ compared to AMD",
@@ -38,7 +47,7 @@
     "summary": "Intel’s Robert Hallock says he hopes enthusiasts “do the math” compared to AMD, highlighting that the company’s new core architecture will release in consumer processors before the data center.",
     "category": "hardware",
     "image": "https://cdn.mos.cms.futurecdn.net/y2RQSvgVAG6nfudaaDBx2e-1280-80.jpg",
-    "id": 4
+    "id": 5
   },
   {
     "title": "The PC age began 45 years ago with the breakthrough Intel 8088 processor — 8-bit bus fueled 45 years of x86 dominance",
@@ -48,7 +57,7 @@
     "summary": "45 years ago, in August 1981, the PC age began in earnest with the launch of the IBM PC Model 5150. At its heart was the Intel 8088 microprocessor.",
     "category": "hardware",
     "image": "https://cdn.mos.cms.futurecdn.net/BCu95DDo8DrQU2evs7MkKo-1280-80.png",
-    "id": 5
+    "id": 6
   },
   {
     "title": "Ex-farm bureau chief invites AI data center developers to buy his land —argues blocked $6.3B project will just move to willing neighbors, defies 500-jurisdiction moratorium wave and 70% public opposition",
@@ -58,7 +67,7 @@
     "summary": "Blake Hurst spent a decade running the state's largest farm lobby. Now he's publicly courting the developers his neighbors froze out.",
     "category": "hardware",
     "image": "https://cdn.mos.cms.futurecdn.net/SN2jKEsMGBRYWHAepcoQE7-1280-80.jpg",
-    "id": 6
+    "id": 7
   },
   {
     "title": "Stripe will reportedly acquire AI gateway startup OpenRouter for $7B+",
@@ -68,7 +77,7 @@
     "summary": "OpenRouter's CEO recently described the startup as Stripe for AI.",
     "category": "industry",
     "image": "https://techcrunch.com/wp-content/uploads/2024/04/Stripe-resized.webp?resize=1200,674",
-    "id": 7
+    "id": 8
   },
   {
     "title": "Why people aren’t buying Mark Zuckerberg’s AI future",
@@ -78,7 +87,7 @@
     "summary": "On the latest episode of Equity podcast, we discuss why not everyone is buying Zuckerberg’s vision.",
     "category": "industry",
     "image": "https://techcrunch.com/wp-content/uploads/2026/08/GettyImages-2239280474.jpg?resize=1200,800",
-    "id": 8
+    "id": 9
   },
   {
     "title": "Anthropic CEO says AI backlash is ‘fundamentally a crisis of trust’",
@@ -88,16 +97,125 @@
     "summary": "Dario Amodei is pushing back against the idea that he's been painting an overly pessimistic picture of AI.",
     "category": "industry",
     "image": "https://techcrunch.com/wp-content/uploads/2026/02/GettyImages-2261514463.jpg?w=1024",
-    "id": 9
+    "id": 10
+  },
+  {
+    "title": "With OpenRouter, Is Stripe Becoming the Amazon of AI",
+    "url": "https://github.com/getlago/lago/wiki/With-OpenRouter,-is-Stripe-becoming-the-Amazon-of-AI",
+    "source": "Hacker News",
+    "date": "2026-08-16",
+    "summary": "Article URL: https://github.com/getlago/lago/wiki/With-OpenRouter,-is-Stripe-becoming-the-Amazon-of-AI Comments URL: https://news.ycombinator.com/item?id=49324994 Points: 3 # Comments: 2",
+    "category": "industry",
+    "image": "https://opengraph.githubassets.com/31e5325eab2c5454a900f7da189837e74b21529db167f87cb6dba3b84c839fa1/getlago/lago",
+    "id": 11
+  },
+  {
+    "title": "BanProof – AI that scans TikTok Shop videos for violation points before you post",
+    "url": "https://banproof.io/",
+    "source": "Hacker News",
+    "date": "2026-08-16",
+    "summary": "Article URL: https://banproof.io/ Comments URL: https://news.ycombinator.com/item?id=49324864 Points: 1 # Comments: 0",
+    "category": "industry",
+    "image": "https://storage.googleapis.com/gpt-engineer-file-uploads/attachments/og-images/24eaa3c5-ed99-4375-8c88-e63a8f095ac0",
+    "id": 12
+  },
+  {
+    "title": "AI Slop Is Real",
+    "url": "https://aichatspot.online/what-is-ai-slop-and-does-it-really-ruin-youtube/",
+    "source": "Hacker News",
+    "date": "2026-08-16",
+    "summary": "Article URL: https://aichatspot.online/what-is-ai-slop-and-does-it-really-ruin-youtube/ Comments URL: https://news.ycombinator.com/item?id=49324585 Points: 2 # Comments: 0",
+    "category": "industry",
+    "image": "https://aichatspot.online/wp-content/uploads/2026/08/What-Is-AI-Slop-And-Does-It-Really-Ruin-YouTube.jpg",
+    "id": 13
+  },
+  {
+    "title": "Anthropic CEO says the way for AI to win over the public is to cure cancer",
+    "url": "https://www.businessinsider.com/anthropic-ceo-dario-amodei-ai-public-opinion-cure-cancer-2026-8",
+    "source": "Hacker News",
+    "date": "2026-08-16",
+    "summary": "Article URL: https://www.businessinsider.com/anthropic-ceo-dario-amodei-ai-public-opinion-cure-cancer-2026-8 Comments URL: https://news.ycombinator.com/item?id=49324572 Points: 14 # Comments: 20",
+    "category": "industry",
+    "image": "https://i.insider.com/6a81e5a4e3df4d0cbe6868de?width=1200&format=jpeg",
+    "id": 14
+  },
+  {
+    "title": "Ukraine Finds Nvidia AI Chip in New Russian Missile, HUR Says",
+    "url": "https://www.kyivpost.com/post/82225",
+    "source": "Hacker News",
+    "date": "2026-08-16",
+    "summary": "Article URL: https://www.kyivpost.com/post/82225 Comments URL: https://news.ycombinator.com/item?id=49324442 Points: 7 # Comments: 1",
+    "category": "hardware",
+    "image": "https://static.kyivpost.com/storage/2026/08/12/7b9de07d3c24a2df7a0ba1e373dc62eb.webp?w=1200&q=90&f=jpg",
+    "id": 15
+  },
+  {
+    "title": "Smarter – open-source, declarative AI authoring platform (Django, K8s-inspired)",
+    "url": "https://github.com/smarter-sh/smarter",
+    "source": "Hacker News",
+    "date": "2026-08-16",
+    "summary": "Article URL: https://github.com/smarter-sh/smarter Comments URL: https://news.ycombinator.com/item?id=49324366 Points: 1 # Comments: 0",
+    "category": "tools",
+    "image": "https://opengraph.githubassets.com/cdbb8fb509012efa5455a20f2a6ac35cbd52d99c3ccc0fab101cd9e3dd173e19/smarter-sh/smarter",
+    "id": 16
+  },
+  {
+    "title": "Legbar – live AI agent sessions beside GitHub CI, in one terminal",
+    "url": "https://github.com/gmhoward9289-ops/legbar",
+    "source": "Hacker News",
+    "date": "2026-08-16",
+    "summary": "Article URL: https://github.com/gmhoward9289-ops/legbar Comments URL: https://news.ycombinator.com/item?id=49324201 Points: 4 # Comments: 0",
+    "category": "industry",
+    "image": "https://opengraph.githubassets.com/446644cf58e6981b7eab32b17d34d9238d51368f9e6ff4993483476b7e57d793/gmhoward9289-ops/legbar",
+    "id": 17
+  },
+  {
+    "title": "AI #176 Part 2: Plan B",
+    "url": "https://thezvi.substack.com/p/ai-176-part-2-plan-b",
+    "source": "Hacker News",
+    "date": "2026-08-16",
+    "summary": "Article URL: https://thezvi.substack.com/p/ai-176-part-2-plan-b Comments URL: https://news.ycombinator.com/item?id=49323941 Points: 1 # Comments: 0",
+    "category": "industry",
+    "id": 18
+  },
+  {
+    "title": "Young People Hate AI CEOs So Passionately That It's Almost Hard to Believe",
+    "url": "https://futurism.com/artificial-intelligence/young-people-ai-ceos-executives-poll",
+    "source": "Hacker News",
+    "date": "2026-08-16",
+    "summary": "Article URL: https://futurism.com/artificial-intelligence/young-people-ai-ceos-executives-poll Comments URL: https://news.ycombinator.com/item?id=49323932 Points: 80 # Comments: 59",
+    "category": "industry",
+    "image": "https://futurism.com/wp-content/uploads/2026/08/young-people-ai-ceos-executives-poll.jpg?quality=85&w=1200",
+    "id": 19
+  },
+  {
+    "title": "Show HN: VocalCode – push-to-talk dictation for AI coding agents, on-device",
+    "url": "https://vocalcode.app/",
+    "source": "Hacker News",
+    "date": "2026-08-16",
+    "summary": "Article URL: https://vocalcode.app/ Comments URL: https://news.ycombinator.com/item?id=49323797 Points: 1 # Comments: 0",
+    "category": "industry",
+    "image": "https://vocalcode.app/og.png",
+    "id": 20
+  },
+  {
+    "title": "Show HN: Remarc – provide more contextual and structured feedback to AI agents",
+    "url": "https://github.com/metedata/Remarc",
+    "source": "Hacker News",
+    "date": "2026-08-16",
+    "summary": "Like any side project, Remarc started with my own problem: there was no good way to give AI coding agents contextual feedback on their own output. There are plenty of tools for collaborating with huma...",
+    "category": "tools",
+    "image": "https://opengraph.githubassets.com/5d2a6caa22a71c1a0c227c4b3bb69473805486aba7f39304226c574ea4756e9a/metedata/Remarc",
+    "id": 21
   },
   {
     "title": "AI Debt Failure Will Prompt Another Wave of Fed Bailouts [pdf]",
     "url": "https://www.myrmikan.com/pub/Myrmikan_Research_2026_08_14.pdf",
     "source": "Hacker News",
     "date": "2026-08-16",
-    "summary": "Article URL: https://www.myrmikan.com/pub/Myrmikan_Research_2026_08_14.pdf Comments URL: https://news.ycombinator.com/item?id=49323632 Points: 1 # Comments: 1",
+    "summary": "Article URL: https://www.myrmikan.com/pub/Myrmikan_Research_2026_08_14.pdf Comments URL: https://news.ycombinator.com/item?id=49323632 Points: 4 # Comments: 1",
     "category": "research",
-    "id": 10
+    "id": 22
   },
   {
     "title": "Show HN: Conw.ai – Independent local AI platform and developer API",
@@ -107,16 +225,16 @@
     "summary": "Article URL: https://conw.ai Comments URL: https://news.ycombinator.com/item?id=49323625 Points: 1 # Comments: 0",
     "category": "tools",
     "image": "https://conw.ai/opengraph-image?b268535620298682",
-    "id": 11
+    "id": 23
   },
   {
     "title": "Do people care if articles are written by AI?",
     "url": "https://writifyai.com/blog/do-people-really-care-if-an-article-is-written-by-ai/",
     "source": "Hacker News",
     "date": "2026-08-16",
-    "summary": "Article URL: https://writifyai.com/blog/do-people-really-care-if-an-article-is-written-by-ai/ Comments URL: https://news.ycombinator.com/item?id=49323517 Points: 4 # Comments: 9",
+    "summary": "Article URL: https://writifyai.com/blog/do-people-really-care-if-an-article-is-written-by-ai/ Comments URL: https://news.ycombinator.com/item?id=49323517 Points: 5 # Comments: 14",
     "category": "industry",
-    "id": 12
+    "id": 24
   },
   {
     "title": "Beautiful UI for AI-native interfaces",
@@ -125,16 +243,16 @@
     "date": "2026-08-16",
     "summary": "Article URL: https://www.beautifului.dev/ Comments URL: https://news.ycombinator.com/item?id=49323480 Points: 2 # Comments: 0",
     "category": "industry",
-    "id": 13
+    "id": 25
   },
   {
     "title": "Anthropic sees AI risks rising, no plan to release stronger \"Model 2\"",
     "url": "https://www.axios.com/2026/08/14/anthropic-model-2-ai-risk",
     "source": "Hacker News",
     "date": "2026-08-16",
-    "summary": "Article URL: https://www.axios.com/2026/08/14/anthropic-model-2-ai-risk Comments URL: https://news.ycombinator.com/item?id=49323456 Points: 2 # Comments: 2",
+    "summary": "Article URL: https://www.axios.com/2026/08/14/anthropic-model-2-ai-risk Comments URL: https://news.ycombinator.com/item?id=49323456 Points: 3 # Comments: 3",
     "category": "industry",
-    "id": 14
+    "id": 26
   },
   {
     "title": "ScreenForm – circle anything on your screen, get an AI answer",
@@ -143,7 +261,7 @@
     "date": "2026-08-16",
     "summary": "Article URL: https://screenform.app Comments URL: https://news.ycombinator.com/item?id=49323427 Points: 1 # Comments: 0",
     "category": "industry",
-    "id": 15
+    "id": 27
   },
   {
     "title": "Rounds of AI telephone with an egg. The word \"chicken\" lost on round 10",
@@ -153,118 +271,6 @@
     "summary": "Article URL: https://twitter.com/geno_spot/status/2089086269087166694 Comments URL: https://news.ycombinator.com/item?id=49323422 Points: 1 # Comments: 0",
     "category": "industry",
     "image": "https://pbs.twimg.com/media/HP3s1l7WIAALclN.jpg:large",
-    "id": 16
-  },
-  {
-    "title": "Stripe Clinches over $7B Deal to Buy AI Firm OpenRouter",
-    "url": "https://www.bloomberg.com/news/articles/2026-08-16/stripe-nears-deal-to-buy-ai-firm-openrouter-for-over-7-billion",
-    "source": "Hacker News",
-    "date": "2026-08-16",
-    "summary": "Article URL: https://www.bloomberg.com/news/articles/2026-08-16/stripe-nears-deal-to-buy-ai-firm-openrouter-for-over-7-billion Comments URL: https://news.ycombinator.com/item?id=49323381 Points: 15 # ...",
-    "category": "industry",
-    "id": 17
-  },
-  {
-    "title": "12-Factor Agents – Principles for building reliable LLM applications",
-    "url": "https://github.com/humanlayer/12-factor-agents",
-    "source": "Hacker News",
-    "date": "2026-08-16",
-    "summary": "Article URL: https://github.com/humanlayer/12-factor-agents Comments URL: https://news.ycombinator.com/item?id=49323369 Points: 2 # Comments: 0",
-    "category": "models",
-    "image": "https://opengraph.githubassets.com/e2b189360e3c64d31f8d99d231b1b1cc341c7883b8b55e2fd64b5dc3294c6722/humanlayer/12-factor-agents",
-    "id": 18
-  },
-  {
-    "title": "Does Fixing Break Security? An Empirical Study of LLM Security Degradation",
-    "url": "https://arxiv.org/abs/2608.13404",
-    "source": "Hacker News",
-    "date": "2026-08-16",
-    "summary": "Article URL: https://arxiv.org/abs/2608.13404 Comments URL: https://news.ycombinator.com/item?id=49323197 Points: 1 # Comments: 0",
-    "category": "research",
-    "id": 19
-  },
-  {
-    "title": "Show HN: AI activity discovery that brings all activities to one platform",
-    "url": "https://hyp-e.com/",
-    "source": "Hacker News",
-    "date": "2026-08-16",
-    "summary": "Article URL: https://hyp-e.com/ Comments URL: https://news.ycombinator.com/item?id=49323151 Points: 3 # Comments: 0",
-    "category": "tools",
-    "image": "https://hyp-e.com/og.png",
-    "id": 20
-  },
-  {
-    "title": "Red queen hypothesis – a new way forward for self-improving AI",
-    "url": "https://www.cst.cam.ac.uk/news/red-queen-hypothesis-new-way-forward-self-improving-ai",
-    "source": "Hacker News",
-    "date": "2026-08-16",
-    "summary": "Article URL: https://www.cst.cam.ac.uk/news/red-queen-hypothesis-new-way-forward-self-improving-ai Comments URL: https://news.ycombinator.com/item?id=49323136 Points: 3 # Comments: 0",
-    "category": "industry",
-    "id": 21
-  },
-  {
-    "title": "Stripe Nears Deal to Buy AI Firm OpenRouter for over $7B",
-    "url": "https://news.bloomberglaw.com/mergers-and-acquisitions/stripe-nears-deal-to-buy-ai-firm-openrouter-for-over-7-billion",
-    "source": "Hacker News",
-    "date": "2026-08-16",
-    "summary": "Article URL: https://news.bloomberglaw.com/mergers-and-acquisitions/stripe-nears-deal-to-buy-ai-firm-openrouter-for-over-7-billion Comments URL: https://news.ycombinator.com/item?id=49323032 Points: 8...",
-    "category": "industry",
-    "image": "https://news-cdn.bindg.com/indg/assets/news/images/Fallback-image.webp",
-    "id": 22
-  },
-  {
-    "title": "LinkedIn Wants Users to Lean Less on AI. Maybe Less",
-    "url": "https://www.wsj.com/cmo-today/linkedin-wants-users-to-lean-less-on-ai-maybe-a-lot-less-8e03b2aa",
-    "source": "Hacker News",
-    "date": "2026-08-16",
-    "summary": "Article URL: https://www.wsj.com/cmo-today/linkedin-wants-users-to-lean-less-on-ai-maybe-a-lot-less-8e03b2aa Comments URL: https://news.ycombinator.com/item?id=49322821 Points: 2 # Comments: 1",
-    "category": "industry",
-    "id": 23
-  },
-  {
-    "title": "Mathematics in the Age of AI – Terence Tao",
-    "url": "https://www.youtube.com/watch?v=M0--ZH1lOzg",
-    "source": "Hacker News",
-    "date": "2026-08-16",
-    "summary": "Article URL: https://www.youtube.com/watch?v=M0--ZH1lOzg Comments URL: https://news.ycombinator.com/item?id=49322814 Points: 2 # Comments: 0",
-    "category": "industry",
-    "id": 24
-  },
-  {
-    "title": "AI Stock Research Assistant · Streamlit",
-    "url": "https://ai-stock-research-kiaan.streamlit.app",
-    "source": "Hacker News",
-    "date": "2026-08-16",
-    "summary": "Article URL: https://ai-stock-research-kiaan.streamlit.app Comments URL: https://news.ycombinator.com/item?id=49322768 Points: 1 # Comments: 0",
-    "category": "research",
-    "id": 25
-  },
-  {
-    "title": "Low-regret recommendations for AI policy",
-    "url": "https://www.noahpinion.blog/p/23-low-regret-recommendations-for",
-    "source": "Hacker News",
-    "date": "2026-08-16",
-    "summary": "Article URL: https://www.noahpinion.blog/p/23-low-regret-recommendations-for Comments URL: https://news.ycombinator.com/item?id=49322702 Points: 1 # Comments: 0",
-    "category": "industry",
-    "image": "https://substackcdn.com/image/fetch/$s_!y1Bx!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fe9e66705-38be-4691-8340-e005af3bf213_1037x691.jpeg",
-    "id": 26
-  },
-  {
-    "title": "Ask HN: What LLM subscription/provider to use with pi harness?",
-    "url": "https://news.ycombinator.com/item?id=49322689",
-    "source": "Hacker News",
-    "date": "2026-08-16",
-    "summary": "I used to use Claude code but obviously they gone downhill for the last 2 to 3 months. I switched to Codex and have been happy with it. Curious what other provider who provides good models at decent p...",
-    "category": "models",
-    "id": 27
-  },
-  {
-    "title": "Has somebody found a way to reduce AI idiomatics tics?",
-    "url": "https://news.ycombinator.com/item?id=49322520",
-    "source": "Hacker News",
-    "date": "2026-08-16",
-    "summary": "So much to read, even for a simple fix or feature. Things like \"gate X behind Y\", \"surface\", \"escape hatch\" and many complexe english wordings that make one mad. I've head a bout an effective proxy py...",
-    "category": "industry",
     "id": 28
   },
   {
