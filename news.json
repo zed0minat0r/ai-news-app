@@ -1,12 +1,12 @@
 [
   {
-    "title": "Qualcomm retracts select Snapdragon C power efficiency benchmarks nearly a week after publication — updated slide removes idle apps and web browsing results",
-    "url": "https://www.tomshardware.com/laptops/qualcomm-retracts-select-snapdragon-c-power-efficiency-benchmarks-nearly-a-week-after-publication-updated-slide-removes-idle-apps-and-web-browsing-results",
+    "title": "Samsung raises advanced foundry prices by up to 15% as AI demand fills its 4nm lines, report claims — Chinese customers accepting the largest hikes",
+    "url": "https://www.tomshardware.com/tech-industry/samsung-raises-advanced-foundry-prices-by-up-to-15-percent-as-ai-demand-fills-its-4nm-lines",
     "source": "Tom's Hardware",
     "date": "2026-08-19",
-    "summary": "Qualcomm has issued an updated slide for its Snapdragon C power efficiency claims, removing two benchmarks from the results.",
-    "category": "research",
-    "image": "https://cdn.mos.cms.futurecdn.net/aziWVitgoz33KW5PS2DfLk-1280-80.jpg",
+    "summary": "Samsung raised prices on new orders across its 4nm, 5nm, and 8nm foundry processes in July, with increases reaching 15% for customers in China.",
+    "category": "industry",
+    "image": "https://cdn.mos.cms.futurecdn.net/xH8TirG2whmYMw3dbUZpyA-1280-80.jpg",
     "id": 1,
     "featured": true
   },
@@ -20,6 +20,35 @@
     "id": 2
   },
   {
+    "title": "Offering Zero Data Retention for frontier models",
+    "url": "https://openai.com/index/our-commitment-to-zero-data-retention",
+    "source": "OpenAI Blog",
+    "date": "2026-08-19",
+    "summary": "OpenAI reaffirms Zero Data Retention for eligible API customers and previews Private Safety Processing for advanced AI safety without compromising data privacy.",
+    "category": "research",
+    "id": 3
+  },
+  {
+    "title": "China shifting massive AI data center complexes to rural provinces to tap surplus energy — ‘Eastern Data, Western Computing’ strategy has Chinese tech giants Huawei and Tencent building AI infrastructure Guizhou",
+    "url": "https://www.tomshardware.com/tech-industry/data-centers/china-shifting-massive-ai-data-center-complexes-to-rural-provinces-to-tap-surplus-energy-eastern-data-western-computing-strategy-has-chinese-tech-giants-huawei-and-tencent-building-ai-infrastructure-guizhou",
+    "source": "Tom's Hardware",
+    "date": "2026-08-19",
+    "summary": "Chinese tech giants are putting up data centers in rural Chinese provinces with zero resistance. The abundance of land and energy in these areas allowed infrastructure to easily be built with limited ...",
+    "category": "hardware",
+    "image": "https://cdn.mos.cms.futurecdn.net/DyEgJuLhjUQezAJNQqUFdh-1280-80.png",
+    "id": 4
+  },
+  {
+    "title": "Qualcomm retracts select Snapdragon C power efficiency benchmarks nearly a week after publication — updated slide removes idle apps and web browsing results",
+    "url": "https://www.tomshardware.com/laptops/qualcomm-retracts-select-snapdragon-c-power-efficiency-benchmarks-nearly-a-week-after-publication-updated-slide-removes-idle-apps-and-web-browsing-results",
+    "source": "Tom's Hardware",
+    "date": "2026-08-19",
+    "summary": "Qualcomm has issued an updated slide for its Snapdragon C power efficiency claims, removing two benchmarks from the results.",
+    "category": "research",
+    "image": "https://cdn.mos.cms.futurecdn.net/aziWVitgoz33KW5PS2DfLk-1280-80.jpg",
+    "id": 5
+  },
+  {
     "title": "You can now buy a delidded Ryzen 9 9950X3D2 Dual Edition for $1,403 — stripped dual-cache offering is $500 more expensive than regular version",
     "url": "https://www.tomshardware.com/pc-components/overclocking/you-can-now-buy-a-delidded-ryzen-9-9950x3d2-dual-edition-for-usd1-403-stripped-dual-cache-offering-is-usd500-more-expensive-than-regular-version",
     "source": "Tom's Hardware",
@@ -27,7 +56,7 @@
     "summary": "Thermal Grizzly offers the halo CPU with the pop topped for an egregious price, yet it almost makes sense on this chip.",
     "category": "hardware",
     "image": "https://cdn.mos.cms.futurecdn.net/wPFnMQRgcNRcBmAgKkm2km-1280-80.jpg",
-    "id": 3
+    "id": 6
   },
   {
     "title": "Comcast turns Xfinity routers into home motion detectors — free Wi-Fi sensing feature tracks RF interference with zero extra hardware required",
@@ -37,7 +66,7 @@
     "summary": "To appease concerns about privacy, Wi-Fi Motion is opt-in",
     "category": "hardware",
     "image": "https://cdn.mos.cms.futurecdn.net/wjg5xrrZ3oKsb9Gbc7E26h-1280-80.jpg",
-    "id": 4
+    "id": 7
   },
   {
     "title": "Jason Kelce-led marketing campaign asks beer drinkers to send their pee to AI data centers — Liquid Death and Garage Beer skit claims 'AI data centers waste millions of gallons of water'",
@@ -47,7 +76,7 @@
     "summary": "Two indie brands join together in a viral ad campaign asking people to pee on computers. Taylor Swift's brother-in-law, Jason Kelce, who co-owns one of the brands, stars in this humorous ad where he p...",
     "category": "industry",
     "image": "https://cdn.mos.cms.futurecdn.net/52bsgy6XG4U8UxFuR6tzch-1280-80.png",
-    "id": 5
+    "id": 8
   },
   {
     "title": "Beijing AI bar that offers unlimited free DeepSeek coding tokens with $1.50 drink haemorrhaging cash — 'the bar is completely losing money, ' owner admits",
@@ -57,7 +86,7 @@
     "summary": "An AI-themed bar in Beijing's Zhongguancun tech hub hands out free, unlimited DeepSeek tokens with its drinks, running inference locally on two Nvidia DGX Spark mini-PCs.",
     "category": "models",
     "image": "https://cdn.mos.cms.futurecdn.net/G33KuzpDuuBhcuEAHfSNX8-1280-80.png",
-    "id": 6
+    "id": 9
   },
   {
     "title": "AI server boom funds $314 universal cash payout in Taiwan — President Lai Ching-te says the payout ensures the country's AI windfall 'can be shared by all,' 11% GDP growth and $903B export surge finance $7.4B dividend",
@@ -67,7 +96,7 @@
     "summary": "Taiwan will hand roughly $314 USD in cash to every resident next year as a boon for the island's residents generated by the AI gold rush. The 2027 central government budget sets aside $7.4 billion USD...",
     "category": "industry",
     "image": "https://cdn.mos.cms.futurecdn.net/DvLvu2QDq683q2QdEwm3fC-1280-80.png",
-    "id": 7
+    "id": 10
   },
   {
     "title": "First Nvidia H200 shipments reach China, ByteDance and Tencent take deliveries as Beijing loosens its import block — most licensed chips must stay in Hong Kong, which can't power them",
@@ -77,7 +106,7 @@
     "summary": "Beijing wants most of each company's U.S.-licensed allowance, which the FT puts at up to 100,000 units apiece, kept off the mainland.",
     "category": "hardware",
     "image": "https://cdn.mos.cms.futurecdn.net/mcUCEv8AzcMnUJJ3xjB6Cf-1280-80.jpg",
-    "id": 8
+    "id": 11
   },
   {
     "title": "$10 Quake shareware CD locked copies of all id Software games behind a flawed encryption scheme — pay-over-the-phone system only held up for 39 days after 1996 release, leaving developer with 150,000 discs it couldn't sell",
@@ -87,7 +116,7 @@
     "summary": "id Software included locked versions of its entire game library on the $10 Quake shareware CD it released in 1996. But the system meant to allow gamers to pay for and unlock those titles over the phon...",
     "category": "tools",
     "image": "https://cdn.mos.cms.futurecdn.net/KeSsu2KwokVwaR4LSBRDFL-1280-80.png",
-    "id": 9
+    "id": 12
   },
   {
     "title": "Cut the stress out of PC building with this $500 discount on this RX 9060 XT 16GB desktop — Intel Core Ultra 9 285 build also features 32GB of DDR5, 2TB SSD",
@@ -97,7 +126,7 @@
     "summary": "Get an Intel Core Ultra 9 285 PC with an RX 9060 XT 16GB GPU for just $1,849.",
     "category": "hardware",
     "image": "https://cdn.mos.cms.futurecdn.net/mtTuTVyvrpnseR3tgLHV5U-1280-80.jpg",
-    "id": 10
+    "id": 13
   },
   {
     "title": "Dev uses Claude AI to create native macOS driver for 'obscure' Windows-only printer — Linux container hack enables system-wide Cmd-P printing, driver now available on Github",
@@ -107,7 +136,7 @@
     "summary": "A developer has revealed that they used Claude Code to create a macOS laser printer driver for the HP Laser 1008a, a machine designed for Windows users.",
     "category": "tools",
     "image": "https://cdn.mos.cms.futurecdn.net/MEhj2kjie9xAZfBevnC5jT-1280-80.jpg",
-    "id": 11
+    "id": 14
   },
   {
     "title": "Player builds working AI chatbot in vanilla Minecraft using 445K command blocks — clever approach shrank initial block count from over 1 million, requires no mods, plugins, or datapacks to work",
@@ -117,7 +146,27 @@
     "summary": "Building neural networks in Minecraft using redstone is a relatively common pursuit, but a clever creator has worked around the limitations of command blocks' available math operations to implement an...",
     "category": "models",
     "image": "https://cdn.mos.cms.futurecdn.net/BGkNLt7nZdYAUhzj84X62d-1280-80.png",
-    "id": 12
+    "id": 15
+  },
+  {
+    "title": "Meet the startup helping Wall Street put a price on AI compute",
+    "url": "https://techcrunch.com/video/meet-the-startup-helping-wall-street-put-a-price-on-ai-compute/",
+    "source": "TechCrunch",
+    "date": "2026-08-19",
+    "summary": "The AI buildout shows no signs of slowing. And with hundreds of billions of dollars a year going into data centers and GPUs, compute has become the single biggest cost for anyone building AI products....",
+    "category": "hardware",
+    "image": "https://techcrunch.com/wp-content/uploads/2022/03/GettyImages-914452330.jpg?resize=1200,800",
+    "id": 16
+  },
+  {
+    "title": "TerraPower’s nuclear reactor has a secret weapon for powering AI data centers",
+    "url": "https://techcrunch.com/2026/08/19/terrapowers-nuclear-reactor-has-a-secret-weapon-for-powering-ai-data-centers/",
+    "source": "TechCrunch",
+    "date": "2026-08-19",
+    "summary": "TerraPower's nuclear power plant possesses a strategic advantage over competitors, especially when chasing after data center deals.",
+    "category": "hardware",
+    "image": "https://techcrunch.com/wp-content/uploads/2026/08/terrapower-power-plant.jpg?resize=1200,675",
+    "id": 17
   },
   {
     "title": "Amazon makes its AI-powered Alexa+ free on Fire TV, no Prime required",
@@ -127,7 +176,7 @@
     "summary": "Amazon is making its AI-powered Alexa+ assistant free on all compatible Fire TV devices in the U.S., automatically upgrading users whether or not they subscribe to Prime.",
     "category": "industry",
     "image": "https://techcrunch.com/wp-content/uploads/2026/08/Fire-TV-Alexa-2.png?resize=1200,675",
-    "id": 13
+    "id": 18
   },
   {
     "title": "AI isn’t close to curing cancer. This startup says it knows what it will take.",
@@ -137,7 +186,7 @@
     "summary": "It's the data, stupid.",
     "category": "industry",
     "image": "https://techcrunch.com/wp-content/uploads/2026/08/IMG_0110-rotated.jpg?resize=900,1200",
-    "id": 14
+    "id": 19
   },
   {
     "title": "Relativity Networks raises $22 million to bring a faster kind of fiber to data centers",
@@ -147,7 +196,7 @@
     "summary": "Relativity Networks deals in hollow-core fiber, a rarely deployed technology that allows data to be transmitted 30% faster than conventional fiber.",
     "category": "hardware",
     "image": "https://techcrunch.com/wp-content/uploads/2026/08/Screenshot-2026-08-18-at-5.17.16-PM.jpg?resize=1200,772",
-    "id": 15
+    "id": 20
   },
   {
     "title": "VentureBeat names Rob Strechay as its first Lead Analyst, expanding its enterprise AI research push",
@@ -157,17 +206,191 @@
     "summary": "Rob Strechay, until recently managing director and principal analyst at theCUBE Research, has joined VentureBeat as our first Lead Analyst and a founding analyst of VentureBeat Research. His arrival i...",
     "category": "hardware",
     "image": "https://images.ctfassets.net/jdtwqhzvc2n1/14iDGoOPdfaOw0DODBNL9w/7f4d8c6b70797d9bf23a623cbfa3fea3/6ca16f96-3171-4f7e-8c89-f466a3901415.png?w=300&q=30",
-    "id": 16
+    "id": 21
   },
   {
-    "title": "The Download: AI’s self-improvement problem, and what’s driving the heat",
-    "url": "https://www.technologyreview.com/2026/08/19/1140195/the-download-ai-recursive-self-improvement-problem-heatwave-causes/",
-    "source": "MIT Tech Review",
+    "title": "You can't stop people from using AI",
+    "url": "https://ashu1461.com/posts/you-cant-stop-people-from-using-ai/",
+    "source": "Hacker News",
     "date": "2026-08-19",
-    "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. AI’s recursive self-improvement might not come so quickly afte...",
+    "summary": "Article URL: https://ashu1461.com/posts/you-cant-stop-people-from-using-ai/ Comments URL: https://news.ycombinator.com/item?id=49365427 Points: 1 # Comments: 0",
+    "category": "industry",
+    "image": "https://ashu1461.com/covers/you-cant-stop-people-from-using-ai.svg",
+    "id": 22
+  },
+  {
+    "title": "AI is helping patients to solve their medical mysteries",
+    "url": "https://www.wsj.com/health/ai-is-helping-patients-solve-medical-mysteries-3c2d7c25",
+    "source": "Hacker News",
+    "date": "2026-08-19",
+    "summary": "Article URL: https://www.wsj.com/health/ai-is-helping-patients-solve-medical-mysteries-3c2d7c25 Comments URL: https://news.ycombinator.com/item?id=49365345 Points: 1 # Comments: 2",
+    "category": "industry",
+    "id": 23
+  },
+  {
+    "title": "Rare London bans AI books, asks attendees for help identifying authors using AI",
+    "url": "https://jamesrblatch.substack.com/p/is-it-me-or-is-this-sinister",
+    "source": "Hacker News",
+    "date": "2026-08-19",
+    "summary": "Article URL: https://jamesrblatch.substack.com/p/is-it-me-or-is-this-sinister Comments URL: https://news.ycombinator.com/item?id=49365337 Points: 2 # Comments: 0",
+    "category": "industry",
+    "id": 24
+  },
+  {
+    "title": "American AI May Not Survive Chinese Open-Source",
+    "url": "https://www.palladiummag.com/2026/08/19/american-ai-may-not-survive-chinese-open-source/",
+    "source": "Hacker News",
+    "date": "2026-08-19",
+    "summary": "Article URL: https://www.palladiummag.com/2026/08/19/american-ai-may-not-survive-chinese-open-source/ Comments URL: https://news.ycombinator.com/item?id=49365301 Points: 1 # Comments: 0",
+    "category": "industry",
+    "image": "https://pdmedia.b-cdn.net/2026/08/road-trip-with-raj-tMnfOM23wqk-unsplash-scaled.jpg",
+    "id": 25
+  },
+  {
+    "title": "Founder of Z.ai and Tsinghua Professor Jie Tang on scaling LLM",
+    "url": "https://twitter.com/hsu_steve/status/2090050721307611414",
+    "source": "Hacker News",
+    "date": "2026-08-19",
+    "summary": "Article URL: https://twitter.com/hsu_steve/status/2090050721307611414 Comments URL: https://news.ycombinator.com/item?id=49365249 Points: 2 # Comments: 0",
+    "category": "models",
+    "image": "https://pbs.twimg.com/profile_images/2373845470/xo47c5umzzinsr4o9vjk_400x400.jpeg",
+    "id": 26
+  },
+  {
+    "title": "Advertising Built for AI Agents",
+    "url": "https://themobian.ai/",
+    "source": "Hacker News",
+    "date": "2026-08-19",
+    "summary": "Article URL: https://themobian.ai/ Comments URL: https://news.ycombinator.com/item?id=49365155 Points: 2 # Comments: 1",
+    "category": "industry",
+    "image": "https://themobian.ai/og-image.jpg",
+    "id": 27
+  },
+  {
+    "title": "Show HN: CIYA – Purely Deterministic AI",
+    "url": "https://iiio.app?u=showhn",
+    "source": "Hacker News",
+    "date": "2026-08-19",
+    "summary": "Hey HN, Before we roll out our fully deterministic compiled language model (CLM), figured I'd post CIYA's v0.02 for you to try out. At this point CIYA acts as a storage and logic engine for any of you...",
+    "category": "models",
+    "image": "https://iiio.app/lib/img/ciya-min.png",
+    "id": 28
+  },
+  {
+    "title": "Inference Engineering: A free book on the systems behind AI inference",
+    "url": "https://www.baseten.co/inference-engineering/",
+    "source": "Hacker News",
+    "date": "2026-08-19",
+    "summary": "Article URL: https://www.baseten.co/inference-engineering/ Comments URL: https://news.ycombinator.com/item?id=49364934 Points: 2 # Comments: 0",
+    "category": "industry",
+    "image": "https://www.datocms-assets.com/104802/1771855663-social-image-for-webpage.png?auto=format&fit=crop&h=630&w=1200",
+    "id": 29
+  },
+  {
+    "title": "How to Use Harness Engineering to Remove AI Tells",
+    "url": "https://meshintelligence.substack.com/p/how-to-use-harness-engineering-to",
+    "source": "Hacker News",
+    "date": "2026-08-19",
+    "summary": "Article URL: https://meshintelligence.substack.com/p/how-to-use-harness-engineering-to Comments URL: https://news.ycombinator.com/item?id=49364868 Points: 2 # Comments: 0",
+    "category": "hardware",
+    "id": 30
+  },
+  {
+    "title": "The 6-Stage AI Infra Journey: Navigating the Three FinOps and Hardware Crises",
+    "url": "https://acefleet.dev/blog/the-6-stage-ai-infrastructure-journey",
+    "source": "Hacker News",
+    "date": "2026-08-19",
+    "summary": "Article URL: https://acefleet.dev/blog/the-6-stage-ai-infrastructure-journey Comments URL: https://news.ycombinator.com/item?id=49364590 Points: 1 # Comments: 0",
+    "category": "industry",
+    "image": "https://pub-bb2e103a32db4e198524a2e9ed8f35b4.r2.dev/86624b9a-2602-424c-be7b-026a240a17fb/id-preview-61fed710--04148ad9-fed9-44c9-9308-9ef7e408cdf6.lovable.app-1782753484497.png",
+    "id": 31
+  },
+  {
+    "title": "Stealing Reasoning Traces from Proprietary LLM APIs",
+    "url": "https://arxiv.org/abs/2608.09867",
+    "source": "Hacker News",
+    "date": "2026-08-19",
+    "summary": "Article URL: https://arxiv.org/abs/2608.09867 Comments URL: https://news.ycombinator.com/item?id=49364397 Points: 2 # Comments: 1",
+    "category": "research",
+    "id": 32
+  },
+  {
+    "title": "A Lawyer for AI Agents",
+    "url": "https://artificialauthority.ai/p/a-lawyer-for-ai-agents",
+    "source": "Hacker News",
+    "date": "2026-08-19",
+    "summary": "Article URL: https://artificialauthority.ai/p/a-lawyer-for-ai-agents Comments URL: https://news.ycombinator.com/item?id=49364311 Points: 1 # Comments: 0",
+    "category": "industry",
+    "image": "https://substackcdn.com/image/fetch/$s_!GBaZ!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F5e8f1d9f-ac9e-4e92-859b-e81e427c7bf3_1448x1086.png",
+    "id": 33
+  },
+  {
+    "title": "The Download: AI's self-improvement problem, and what's driving the heat",
+    "url": "https://www.technologyreview.com/2026/08/19/1140195/the-download-ai-recursive-self-improvement-problem-heatwave-causes/",
+    "source": "Hacker News",
+    "date": "2026-08-19",
+    "summary": "Article URL: https://www.technologyreview.com/2026/08/19/1140195/the-download-ai-recursive-self-improvement-problem-heatwave-causes/ Comments URL: https://news.ycombinator.com/item?id=49364149 Points:...",
     "category": "industry",
     "image": "https://wp.technologyreview.com/wp-content/uploads/2026/08/research-target2a.jpg?resize=1200,600",
-    "id": 17
+    "id": 34
+  },
+  {
+    "title": "Show HN: CrewCode – Open-source Mission Control for AI coding agents",
+    "url": "https://github.com/OnPoint-Dev-Tools/crewcode",
+    "source": "Hacker News",
+    "date": "2026-08-19",
+    "summary": "I've been experimenting heavily with coding agents and found myself managing agents more than writing code. I build CrewCode to solve that. Its an open source desktop application for running multiple ...",
+    "category": "tools",
+    "image": "https://opengraph.githubassets.com/25a4b94a4e0949d050626278dbd5dd84997a283062a2e705a17a690e262ebfd3/OnPoint-Dev-Tools/crewcode",
+    "id": 35
+  },
+  {
+    "title": "Show HN: Intelix – AI agent that investigates and resolves production incidents",
+    "url": "https://intelix.dev",
+    "source": "Hacker News",
+    "date": "2026-08-19",
+    "summary": "Hi HN, I built Intelix, an AI incident-response agent for engineering teams. When a production incident happens, Intelix investigates it instead of simply notifying an engineer. It gathers evidence ac...",
+    "category": "hardware",
+    "id": 36
+  },
+  {
+    "title": "Cerebras chips rival Nvidia GPUs for AI [video]",
+    "url": "https://www.youtube.com/watch?v=qC_lCFTOJU0",
+    "source": "Hacker News",
+    "date": "2026-08-19",
+    "summary": "Article URL: https://www.youtube.com/watch?v=qC_lCFTOJU0 Comments URL: https://news.ycombinator.com/item?id=49364019 Points: 4 # Comments: 1",
+    "category": "hardware",
+    "id": 37
+  },
+  {
+    "title": "How I Use AI to Help Me Write",
+    "url": "https://tombedor.dev/how-i-use-ai-to-help-me-write/",
+    "source": "Hacker News",
+    "date": "2026-08-19",
+    "summary": "Article URL: https://tombedor.dev/how-i-use-ai-to-help-me-write/ Comments URL: https://news.ycombinator.com/item?id=49364014 Points: 1 # Comments: 0",
+    "category": "industry",
+    "image": "https://tombedor.dev/social-cards/how-i-use-ai-to-help-me-write.png",
+    "id": 38
+  },
+  {
+    "title": "A Constitution for One: 7 months governing a personal AI agent fleet",
+    "url": "https://github.com/Chong169/a-constitution-for-one",
+    "source": "Hacker News",
+    "date": "2026-08-19",
+    "summary": "Article URL: https://github.com/Chong169/a-constitution-for-one Comments URL: https://news.ycombinator.com/item?id=49363991 Points: 1 # Comments: 0",
+    "category": "industry",
+    "image": "https://opengraph.githubassets.com/c66f8eab5a08e58aeab0e2d52509722876bf8c26e86552a82b3f1cb2b474c29c/Chong169/a-constitution-for-one",
+    "id": 39
+  },
+  {
+    "title": "Coders Say They Already Found Workarounds to Claude’s Invisible Watermarks",
+    "url": "https://www.wired.com/story/coders-say-they-already-found-workarounds-to-claudes-invisible-watermarks/",
+    "source": "Wired",
+    "date": "2026-08-19",
+    "summary": "Anthropic announced last week it would include invisible watermarks in AI-generated content to comply with new EU rules. Within hours, overrides were being touted online.",
+    "category": "models",
+    "image": "https://media.wired.com/photos/6a85ca54d0110f6d404e46bf/191:100/w_1280,c_limit/081926_AI-Watermark-Removal.jpg",
+    "id": 40
   },
   {
     "title": "Flock Has a Powerful New AI Tool for Police. We Got Its Code",
@@ -177,7 +400,7 @@
     "summary": "Flock’s surveillance cameras have already sparked outrage. WIRED reconstructed its next-generation AI system, already in use by some police, to confirm it goes much further than tracking license plate...",
     "category": "hardware",
     "image": "https://media.wired.com/photos/6a834e91eca883ccd19e5902/191:100/w_1280,c_limit/Security_Inside%20%E2%80%98Nightshift,%E2%80%99%20the%20AI%20Agent%20Flock%20Built%20for%20Police_v1.jpg",
-    "id": 18
+    "id": 41
   },
   {
     "title": "GxP-Agent: Process-DAG Topology for Reliable Clinical Trial Programming with LLM Agents",
@@ -186,7 +409,7 @@
     "date": "2026-08-19",
     "summary": "Clinical trial programming -- transforming study protocols into analysis-ready datasets under CDISC standards -- is a bottleneck in regulatory submissions, yet LLM-based code generation fails catastro...",
     "category": "models",
-    "id": 19
+    "id": 42
   },
   {
     "title": "Runtime Governance for Agentic AI: Action-Boundary Control with Trusted Provenance and Fail-Closed Execution",
@@ -195,7 +418,7 @@
     "date": "2026-08-19",
     "summary": "Agentic AI systems request tool actions that can modify files, send messages, launch jobs, or change workflow state. This shifts the safety problem from harmful text generation to harmful operational ...",
     "category": "hardware",
-    "id": 20
+    "id": 43
   },
   {
     "title": "The Price of Thinking: Reasoning Effort as a Model-Specific API Contract",
@@ -204,7 +427,7 @@
     "date": "2026-08-19",
     "summary": "API buyers purchase a dated contract, not a model name alone: the contract includes the requested and served model, reasoning-effort term or its omission, output rail, service product, prompt, and pri...",
     "category": "research",
-    "id": 21
+    "id": 44
   },
   {
     "title": "FedPref: Federated Preference Learning for Structured Radiology Report Extraction",
@@ -213,7 +436,7 @@
     "date": "2026-08-19",
     "summary": "Radiology reports describe findings and locations in free text, but downstream search and analysis require these relations in a fixed schema. Learning this extraction requires labels that are unevenly...",
     "category": "models",
-    "id": 22
+    "id": 45
   },
   {
     "title": "The Problem Is the Problem: Towards Scalable Mathematical Discovery",
@@ -222,7 +445,7 @@
     "date": "2026-08-19",
     "summary": "AI systems are increasingly capable of contributing to mathematical research. In research practice, frontier-model reasoning is a limited resource, and expert mathematical review is even more sharply ...",
     "category": "research",
-    "id": 23
+    "id": 46
   },
   {
     "title": "SkillEffect: Checked Lowering for Memory-Bounded Agent Tools",
@@ -231,7 +454,7 @@
     "date": "2026-08-19",
     "summary": "Agent Skills can specify procedural and resource obligations for tool use, and language models instantiate them as concrete programs. However, when models turn this guidance into code for existing too...",
     "category": "tools",
-    "id": 24
+    "id": 47
   },
   {
     "title": "DiSCO: Defending text-to-image generation through distribution-guided contrastive prompt optimization",
@@ -240,7 +463,7 @@
     "date": "2026-08-19",
     "summary": "As text-to-image generative models advance, they raise critical safety concerns, particularly the generation of Not-Safe-For-Work (NSFW) content such as violence and nudity, further exacerbated by red...",
     "category": "models",
-    "id": 25
+    "id": 48
   },
   {
     "title": "KernelArc: A Multi-Agent Framework for GPU Kernel Optimization",
@@ -249,7 +472,7 @@
     "date": "2026-08-19",
     "summary": "We present KernelArc, a multi-agent framework for autonomous GPU kernel optimization across heterogeneous workloads. Strategy-specialized agents run in parallel and coordinate through conclusions-only...",
     "category": "hardware",
-    "id": 26
+    "id": 49
   },
   {
     "title": "A decodability criterion predicts when hidden-state selection beats majority voting in large language models",
@@ -258,213 +481,6 @@
     "date": "2026-08-19",
     "summary": "Combining the answers a large language model (LLM) samples for a question into one decision is a test-time information fusion problem, usually solved by majority voting. Voting is unreliable on diffic...",
     "category": "models",
-    "id": 27
-  },
-  {
-    "title": "Toward Personal Intelligence Through Cooperative Observation",
-    "url": "https://arxiv.org/abs/2608.17128",
-    "source": "arXiv cs.AI",
-    "date": "2026-08-19",
-    "summary": "A personal AI system needs a model of the user's goals, constraints, and ongoing commitments to plan and act on their behalf, and the quality of that model is bounded by what the system can observe. B...",
-    "category": "industry",
-    "id": 28
-  },
-  {
-    "title": "KnowSim: Evaluating Information Calibration in LLM Assistants with User Simulators that Learn",
-    "url": "https://arxiv.org/abs/2608.17150",
-    "source": "arXiv cs.AI",
-    "date": "2026-08-19",
-    "summary": "To effectively collaborate with users on knowledge-intensive tasks, Large Language Models (LLMs) must perform information calibration: matching content to a user's evolving understanding and cognitive...",
-    "category": "models",
-    "id": 29
-  },
-  {
-    "title": "Synthesizing Feature Extractors: An Agentic Approach for Algorithm Selection",
-    "url": "https://arxiv.org/abs/2608.17170",
-    "source": "arXiv cs.AI",
-    "date": "2026-08-19",
-    "summary": "Algorithm selection for constraint satisfaction problems requires extracting features that capture problem structure. Manually designing feature extractors demands deep domain expertise and quickly be...",
-    "category": "models",
-    "id": 30
-  },
-  {
-    "title": "Benchmarking the Benchmarks: Evaluating Automated Safety Benchmarks for Small Language Models",
-    "url": "https://arxiv.org/abs/2608.17183",
-    "source": "arXiv cs.AI",
-    "date": "2026-08-19",
-    "summary": "Small Language Models (SLMs) are increasingly deployed in resource-constrained, privacy-sensitive settings, where safety and bias failures can cause security and societal risks. However, existing AI s...",
-    "category": "models",
-    "id": 31
-  },
-  {
-    "title": "Fool's Gold: Defensive Deception Against Safety-Removal Attacks on Open-Weight Models",
-    "url": "https://arxiv.org/abs/2608.17202",
-    "source": "arXiv cs.AI",
-    "date": "2026-08-19",
-    "summary": "Safety alignment in open-weight language models is trivially removable: abliteration projects a refusal-mediating direction out of the weights in minutes, and no release-time defense we are aware of p...",
-    "category": "models",
-    "id": 32
-  },
-  {
-    "title": "Explicit State Elicitation Is Not Enough: A Controlled Audit of Memory-Policy Classification",
-    "url": "https://arxiv.org/abs/2608.17247",
-    "source": "arXiv cs.AI",
-    "date": "2026-08-19",
-    "summary": "Personalized agents must decide whether retrieved user memory should be used, ignored, updated, or queried before it affects a current task. We use this setting to develop an empirical audit protocol ...",
-    "category": "models",
-    "id": 33
-  },
-  {
-    "title": "Do LLMs Know a Good Hypothesis When They See One? Logit-Based Energy Scoring Outperforms Prompted LLM-as-Judge for Scientific Hypothesis Ranking",
-    "url": "https://arxiv.org/abs/2608.17270",
-    "source": "arXiv cs.AI",
-    "date": "2026-08-19",
-    "summary": "Large language models (LLMs) are increasingly used for scientific hypothesis generation. However, evaluating generated hypotheses remains a challenge for trustworthy AI-enabled scientific workflows. E...",
-    "category": "research",
-    "id": 34
-  },
-  {
-    "title": "ASI-Bench: At the Dawn of Artificial Superintelligence",
-    "url": "https://arxiv.org/abs/2608.17271",
-    "source": "arXiv cs.AI",
-    "date": "2026-08-19",
-    "summary": "Artificial superintelligence (ASI) requires AI to move beyond mastering existing knowledge toward exploring the unknown, creating new knowledge, and turning new ideas into verifiable results. However,...",
-    "category": "research",
-    "id": 35
-  },
-  {
-    "title": "DeAR: Decentralized Agentic Reasoning via Capability Grounding and Collaborative Thought Navigation",
-    "url": "https://arxiv.org/abs/2608.17282",
-    "source": "arXiv cs.AI",
-    "date": "2026-08-19",
-    "summary": "Existing agentic reasoning systems typically rely on centralized protocols. This design introduces routing bottlenecks and static role allocations that often fail when handling complex multimodal quer...",
-    "category": "research",
-    "id": 36
-  },
-  {
-    "title": "PlanPO: Group Planning-Aware Policy Optimization for Multi-Turn Agentic LLMs",
-    "url": "https://arxiv.org/abs/2608.17289",
-    "source": "arXiv cs.AI",
-    "date": "2026-08-19",
-    "summary": "Group-relative policy optimization has emerged as a key paradigm for training agentic large language models (LLMs) on multi-turn interactive tasks. However, most existing variants fail to distinguish ...",
-    "category": "models",
-    "id": 37
-  },
-  {
-    "title": "LiveHouse-TS: An Open-world Living Benchmark for Time Series Foundation Models",
-    "url": "https://arxiv.org/abs/2608.17299",
-    "source": "arXiv cs.AI",
-    "date": "2026-08-19",
-    "summary": "Time Series Foundation Models (TSFMs) have recently emerged as a highly promising paradigm for cross-domain zero-shot forecasting. However, existing evaluation protocols predominantly rely on static b...",
-    "category": "research",
-    "id": 38
-  },
-  {
-    "title": "SignalReasoner: Assessing the Upper Bound of 3B Models for Signal Mathematical Reasoning",
-    "url": "https://arxiv.org/abs/2608.17301",
-    "source": "arXiv cs.AI",
-    "date": "2026-08-19",
-    "summary": "Post-training with supervised chain-of-thought fine-tuning and reinforcement learning from verifiable rewards has substantially improved the mathematical reasoning capabilities of large language model...",
-    "category": "models",
-    "id": 39
-  },
-  {
-    "title": "Wuying-Browser-Agent: Real-World Centric Fundamental Long-Horizon Browser Agents",
-    "url": "https://arxiv.org/abs/2608.17319",
-    "source": "arXiv cs.AI",
-    "date": "2026-08-19",
-    "summary": "Browser agents perform well on short, clean demonstrations, but real deployment is fundamentally different: agents must sustain dozens of decisions on live websites while recovering from mistakes and ...",
-    "category": "research",
-    "id": 40
-  },
-  {
-    "title": "LLMs for Medical Consultation Are Evaluated Too Late: The Preformulation Gap",
-    "url": "https://arxiv.org/abs/2608.17330",
-    "source": "arXiv cs.AI",
-    "date": "2026-08-19",
-    "summary": "Large language models for medical consultation are often evaluated after a clinical problem has already been made clear, although real consultations may begin with a vague, minimized, or misframed con...",
-    "category": "models",
-    "id": 41
-  },
-  {
-    "title": "TileMix: Tile-Centric Mixed-Precision Attention for LLM Inference Acceleration",
-    "url": "https://arxiv.org/abs/2608.17336",
-    "source": "arXiv cs.AI",
-    "date": "2026-08-19",
-    "summary": "Long-context prefill in large language models (LLMs) incurs substantial computation and memory traffic because dense self-attention computes quadratic query-key scores. Existing methods either use a u...",
-    "category": "models",
-    "id": 42
-  },
-  {
-    "title": "LLM-Only PDDL Domain Repair with Open-Weight Models",
-    "url": "https://arxiv.org/abs/2608.17341",
-    "source": "arXiv cs.AI",
-    "date": "2026-08-19",
-    "summary": "AI planning is concerned with finding a sequence of actions that achieves a specified goal. It relies on explicit models of the world, commonly represented in the Planning Domain Definition Language (...",
-    "category": "models",
-    "id": 43
-  },
-  {
-    "title": "Cognitive Graph Intelligence for Adaptive and Robust DDoS Attack Detection in Next Generation Networks",
-    "url": "https://arxiv.org/abs/2608.17352",
-    "source": "arXiv cs.AI",
-    "date": "2026-08-19",
-    "summary": "Distributed Denial-of-Service (DDoS) attacks threaten network availability, requiring a cognitive detection process that senses traffic, infers intent, and supports an adaptive response under severe c...",
-    "category": "research",
-    "id": 44
-  },
-  {
-    "title": "LEGO-RL: Harness-Native Reinforcement Learning for Coding Agents",
-    "url": "https://arxiv.org/abs/2608.17393",
-    "source": "arXiv cs.AI",
-    "date": "2026-08-19",
-    "summary": "Reinforcement learning for coding agents increasingly relies on long-running agent harnesses to manage tool integration, repository contexts, and execution feedback. However, the native execution envi...",
-    "category": "tools",
-    "id": 45
-  },
-  {
-    "title": "Task-Aware Harness Provisioning for LLM Agents in Mission-Critical Infrastructure Operations",
-    "url": "https://arxiv.org/abs/2608.17433",
-    "source": "arXiv cs.AI",
-    "date": "2026-08-19",
-    "summary": "LLM agents have been widely adopted to operate mission-critical infrastructure (MCI). These agents normally rely on a harness that determines what information they can access, which tools they can use...",
-    "category": "research",
-    "id": 46
-  },
-  {
-    "title": "Depth Enables Local Entropy: Quadratic Depth Dependence in Deep Variation-Norm ReLU Regression",
-    "url": "https://arxiv.org/abs/2608.17434",
-    "source": "arXiv cs.AI",
-    "date": "2026-08-19",
-    "summary": "We study Gaussian regression over the explicit vector-valued Parhi--Nowak deep-RBV^2 architecture with depth L, width w, layer-sum variation budget A, and output bound B. For this O(L w^2)-parameteriz...",
-    "category": "hardware",
-    "id": 47
-  },
-  {
-    "title": "Structure-Internalized Rule Language Model for Faithful Knowledge Graph Reasoning",
-    "url": "https://arxiv.org/abs/2608.17443",
-    "source": "arXiv cs.AI",
-    "date": "2026-08-19",
-    "summary": "Knowledge Graph Reasoning (KGR) aims to discover latent facts by leveraging the structural evidence available in KGs, posing a challenge to the structural semantic understanding capability of KGR mode...",
-    "category": "research",
-    "id": 48
-  },
-  {
-    "title": "SAGE: Self-Evolving Storyboard Skills via Attribution-Guided Rule Evolution",
-    "url": "https://arxiv.org/abs/2608.17468",
-    "source": "arXiv cs.AI",
-    "date": "2026-08-19",
-    "summary": "Storyboards turn screenplays into visual shot plans for automated short drama production. Professional storyboarding relies on tacit directorial expertise and remains an industrial bottleneck. Large l...",
-    "category": "models",
-    "id": 49
-  },
-  {
-    "title": "When AI Designs AI: Innovation or Imitation?",
-    "url": "https://arxiv.org/abs/2608.17471",
-    "source": "arXiv cs.AI",
-    "date": "2026-08-19",
-    "summary": "Recent advances in LLM agents have made them increasingly capable of designing methods for complex AI tasks. This raises two central questions about agent-designed methods relative to human-designed m...",
-    "category": "research",
     "id": 50
   }
 ]
