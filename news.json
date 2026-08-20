@@ -1,5 +1,46 @@
 [
   {
+    "title": "Grok exfiltrates user data when malicious instructions are encrypted",
+    "url": "https://arstechnica.com/security/2026/08/grok-exfiltrates-user-data-when-malicious-instructions-are-encrypted/",
+    "source": "Ars Technica",
+    "date": "2026-08-20",
+    "summary": "Cryptographic Context Injection is only the latest way to break an LLM safety guardrail.",
+    "category": "models",
+    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/06/xai-grok-1152x648.jpg",
+    "id": 1,
+    "featured": true
+  },
+  {
+    "title": "Synopsys validates a PCIe 6.0 PHY inside a face-to-face 3D stack at 64 GT/s — says it got there by pulling apart an existing 2D test chip",
+    "url": "https://www.tomshardware.com/tech-industry/semiconductors/synopsys-validates-a-pcie-6-phy-inside-a-face-to-face-3d-stack",
+    "source": "Tom's Hardware",
+    "date": "2026-08-20",
+    "summary": "Synopsys has published silicon results for what it calls the first 3D PCIe 6.0 test chip, a 5nm PHY built into a face-to-face stacked package.",
+    "category": "hardware",
+    "image": "https://cdn.mos.cms.futurecdn.net/7CaVRhQ5giQeWSSo2AjMBF-1280-80.jpg",
+    "id": 2
+  },
+  {
+    "title": "Virginia county with 250 data centers begins to rein in building — Loudoun’s more than 250 data centers made it one of the richest counties in the US, but residents are pushing back",
+    "url": "https://www.tomshardware.com/tech-industry/data-centers/virginia-county-with-250-data-centers-begins-to-rein-in-building-loudouns-more-than-250-data-centers-made-it-one-of-the-richest-counties-in-the-us-but-residents-are-pushing-back",
+    "source": "Tom's Hardware",
+    "date": "2026-08-20",
+    "summary": "Loudoun County recently changed its zoning policy which treated data centers as office parks. These projects now have to go through an approval process from the people and the local government, a sign...",
+    "category": "industry",
+    "image": "https://cdn.mos.cms.futurecdn.net/Ln5otMKoQVgY9UirVDtEL6-1280-80.jpg",
+    "id": 3
+  },
+  {
+    "title": "SK hynix will pay staff $50,000 apiece according to a tentative agreement with disgruntled workers — $1.79 billion potential profit pool will be split between cash and stock grants",
+    "url": "https://www.tomshardware.com/pc-components/dram/sk-hynix-reaches-tentative-agreement-with-disgruntled-workers-usd1-79-billion-potential-profit-pool-could-see-staff-get-usd50-000-each",
+    "source": "Tom's Hardware",
+    "date": "2026-08-20",
+    "summary": "SK hynix removes 10% operating profit cap for employee profit-sharing program; union agrees to get bonuses in cash and stock.",
+    "category": "industry",
+    "image": "https://cdn.mos.cms.futurecdn.net/9ohrPiR5R3bg9CdudYBDjE-1280-80.jpg",
+    "id": 4
+  },
+  {
     "title": "The supercomputer race no longer means what it used to, as rankings lose relevance in the AI era — as privately held compute clusters are built, running HPL becomes a distraction",
     "url": "https://www.tomshardware.com/tech-industry/supercomputers/the-supercomputer-race-no-longer-means-what-it-used-to-as-rankings-lose-relevance-in-the-ai-era-as-privately-held-compute-clusters-are-built-running-hpl-becomes-a-distraction",
     "source": "Tom's Hardware",
@@ -7,8 +48,7 @@
     "summary": "We review the current state of high-performance supercomputing, interviewing experts, including the deputy head of high-performance computing at GWDG, to find out exactly where the current race stands...",
     "category": "hardware",
     "image": "https://cdn.mos.cms.futurecdn.net/S4ZsStveVMTjrcjHamPkaB-1280-80.jpg",
-    "id": 1,
-    "featured": true
+    "id": 5
   },
   {
     "title": "SMIC posts record $3B quarter and hikes wafer prices — US sanctions hand Chinese foundry a captive AI market",
@@ -18,7 +58,7 @@
     "summary": "SMIC posted its first $3 billion quarter earlier this month, with revenue up 36.1% year on year, net profit nearly tripling to $479.2 million.",
     "category": "industry",
     "image": "https://cdn.mos.cms.futurecdn.net/D5cNmT7QvCuR6rtouV3eWS-1280-80.jpg",
-    "id": 2
+    "id": 6
   },
   {
     "title": "G.Skill pays out $2.4M settlement over misleading DDR4 and DDR5 speed marketing — buyers get $20 to $25 as vendor agrees to XMP and EXPO packaging warnings",
@@ -28,7 +68,7 @@
     "summary": "G.Skill has started sending payments to claimants regarding the $2.4 million lawsuit over inadequately marketed RAM speeds.",
     "category": "industry",
     "image": "https://cdn.mos.cms.futurecdn.net/kAur2rfLMuXGArbhKVE2jU-1280-80.jpg",
-    "id": 3
+    "id": 7
   },
   {
     "title": "Get an astonishing OLED 5090 gaming laptop for $3,599, $800 off — Gigabyte Aorus Master 16 features a 24-core Arrow Lake CPU, 32GB RAM, 2TB SSD",
@@ -38,7 +78,7 @@
     "summary": "Get $800 off this RTX 5090 gaming laptop with Intel Core Ultra 9 275HX, 32GB of RAM, and a 2TB SSD.",
     "category": "hardware",
     "image": "https://cdn.mos.cms.futurecdn.net/dQ247HLfPLfMZsNikpB2rj-1280-80.jpg",
-    "id": 4
+    "id": 8
   },
   {
     "title": "Binance now lets AI agents trade, but keeping them in check is largely up to users",
@@ -48,7 +88,182 @@
     "summary": "Binance's Agent OS works with tools including ChatGPT, Claude Code, and Cursor.",
     "category": "tools",
     "image": "https://techcrunch.com/wp-content/uploads/2022/07/gettyimages-1239052293-594x594-1.jpg?w=594",
-    "id": 5
+    "id": 9
+  },
+  {
+    "title": "Ask HN: Is AI the New Spreadsheet?",
+    "url": "https://news.ycombinator.com/item?id=49376007",
+    "source": "Hacker News",
+    "date": "2026-08-20",
+    "summary": "Spreadsheets became and still are prolific for individuals and teams to create simple “apps.” I wonder how much of that is moving over to things like cowork or codex type apps. Personally, and anecdot...",
+    "category": "tools",
+    "id": 10
+  },
+  {
+    "title": "Clean up Claude 5's token vomit with a separate LLM",
+    "url": "https://github.com/zachahn/vomit",
+    "source": "Hacker News",
+    "date": "2026-08-20",
+    "summary": "Article URL: https://github.com/zachahn/vomit Comments URL: https://news.ycombinator.com/item?id=49375996 Points: 2 # Comments: 0",
+    "category": "models",
+    "image": "https://opengraph.githubassets.com/0b04d5279449fb3ad76bad92d772882268c74fd036af9eb13591e5789fa439ba/zachahn/vomit",
+    "id": 11
+  },
+  {
+    "title": "UC Berkeley professor admits to using AI to edit op-ed on students' math skills",
+    "url": "https://www.theguardian.com/us-news/2026/aug/19/uc-berkeley-professor-ai",
+    "source": "Hacker News",
+    "date": "2026-08-20",
+    "summary": "Article URL: https://www.theguardian.com/us-news/2026/aug/19/uc-berkeley-professor-ai Comments URL: https://news.ycombinator.com/item?id=49375942 Points: 1 # Comments: 1",
+    "category": "industry",
+    "image": "https://i.guim.co.uk/img/media/b0737dbfc40f80895fc18921898acf8cea40f791/210_0_3876_3100/master/3876.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=2f5fe8a3bf0e63b21702fa773f1034c7",
+    "id": 12
+  },
+  {
+    "title": "Anti-AI fonts are useless and harmful",
+    "url": "https://blog.yaros.ae/anti-ai-fonts-are-useless-and-harmful/",
+    "source": "Hacker News",
+    "date": "2026-08-20",
+    "summary": "Article URL: https://blog.yaros.ae/anti-ai-fonts-are-useless-and-harmful/ Comments URL: https://news.ycombinator.com/item?id=49375719 Points: 2 # Comments: 0",
+    "category": "industry",
+    "image": "https://yaros.ae/data/images/social/blog/preview.png",
+    "id": 13
+  },
+  {
+    "title": "Show HN: LLM-enabled large data analysis",
+    "url": "https://app.verbagpt.com",
+    "source": "Hacker News",
+    "date": "2026-08-20",
+    "summary": "Article URL: https://app.verbagpt.com Comments URL: https://news.ycombinator.com/item?id=49375513 Points: 1 # Comments: 0",
+    "category": "models",
+    "id": 14
+  },
+  {
+    "title": "Code Factories Without Quality: The AI Development Blind Spot",
+    "url": "https://www.qawolf.com/blog/code-factories-without-quality",
+    "source": "Hacker News",
+    "date": "2026-08-20",
+    "summary": "Article URL: https://www.qawolf.com/blog/code-factories-without-quality Comments URL: https://news.ycombinator.com/item?id=49375253 Points: 2 # Comments: 0",
+    "category": "industry",
+    "image": "https://cdn.prod.website-files.com/6260298eca091b3621cf1890/6a86a0b515ce9b0d9bdb6060_og_blog_post%20(2).png",
+    "id": 15
+  },
+  {
+    "title": "I built AI tool to find the right VCs and it saved me weeks",
+    "url": "https://seedstr.app",
+    "source": "Hacker News",
+    "date": "2026-08-20",
+    "summary": "Article URL: https://seedstr.app Comments URL: https://news.ycombinator.com/item?id=49375055 Points: 2 # Comments: 1",
+    "category": "tools",
+    "image": "https://seedstr.app/opengraph-image?e743a10bda8c65a0",
+    "id": 16
+  },
+  {
+    "title": "Passage AI: an AI trip planner that turns into a live guide when you land",
+    "url": "https://mypassage.ai/",
+    "source": "Hacker News",
+    "date": "2026-08-20",
+    "summary": "Article URL: https://mypassage.ai/ Comments URL: https://news.ycombinator.com/item?id=49375012 Points: 2 # Comments: 0",
+    "category": "industry",
+    "image": "https://mypassage.ai/og-card.png",
+    "id": 17
+  },
+  {
+    "title": "Using Genius AI Models for Important Things: Cheating at NetHack",
+    "url": "https://josephthacker.com/hacking/2026/08/20/using-genius-hacking-models-for-important-things.html",
+    "source": "Hacker News",
+    "date": "2026-08-20",
+    "summary": "Article URL: https://josephthacker.com/hacking/2026/08/20/using-genius-hacking-models-for-important-things.html Comments URL: https://news.ycombinator.com/item?id=49374980 Points: 3 # Comments: 0",
+    "category": "industry",
+    "image": "https://josephthacker.com/assets/images/nethack-kraken-farm.png",
+    "id": 18
+  },
+  {
+    "title": "SEO Skills AI – Universal Open-Source SEO Agent for Claude, Cursor, Windsurf",
+    "url": "https://github.com/seoskillsai/seo-skills-ai",
+    "source": "Hacker News",
+    "date": "2026-08-20",
+    "summary": "Article URL: https://github.com/seoskillsai/seo-skills-ai Comments URL: https://news.ycombinator.com/item?id=49374824 Points: 2 # Comments: 0",
+    "category": "tools",
+    "image": "https://opengraph.githubassets.com/f48756e2f9295ef7bf8d7a5940357914c15db1b6bc21301382247e61cf5a3ace/seoskillsai/seo-skills-ai",
+    "id": 19
+  },
+  {
+    "title": "'Not a theoretical risk,' feds warn as attackers use AI-made code",
+    "url": "https://www.theregister.com/security/2026/08/19/not-a-theoretical-risk-feds-warn-as-attackers-use-ai-made-code-to-hack-critical-infrastructure-controllers/5289960",
+    "source": "Hacker News",
+    "date": "2026-08-20",
+    "summary": "Article URL: https://www.theregister.com/security/2026/08/19/not-a-theoretical-risk-feds-warn-as-attackers-use-ai-made-code-to-hack-critical-infrastructure-controllers/5289960 Comments URL: https://ne...",
+    "category": "industry",
+    "image": "https://image.theregister.com/5289987.jpg?imageId=5289987&x=0&y=0&cropw=100&croph=100&panox=0&panoy=0&panow=100&panoh=100&width=1200&height=683",
+    "id": 20
+  },
+  {
+    "title": "Guess which of these LLM outputs is watermarked",
+    "url": "https://sgoedecke.github.io/watermark-quiz/",
+    "source": "Hacker News",
+    "date": "2026-08-20",
+    "summary": "Article URL: https://sgoedecke.github.io/watermark-quiz/ Comments URL: https://news.ycombinator.com/item?id=49374729 Points: 2 # Comments: 1",
+    "category": "models",
+    "id": 21
+  },
+  {
+    "title": "A registry and transparency log for discovering and verifying AI agents by name",
+    "url": "https://github.com/agentnameservice",
+    "source": "Hacker News",
+    "date": "2026-08-20",
+    "summary": "Article URL: https://github.com/agentnameservice Comments URL: https://news.ycombinator.com/item?id=49374727 Points: 2 # Comments: 0",
+    "category": "industry",
+    "image": "https://avatars.githubusercontent.com/u/282946558?s=280&v=4",
+    "id": 22
+  },
+  {
+    "title": "Texas student blew the whistle on a rogue AI hacking attempt",
+    "url": "https://www.reuters.com/world/how-texas-student-blew-whistle-rogue-ai-hacking-attempt-2026-08-20/",
+    "source": "Hacker News",
+    "date": "2026-08-20",
+    "summary": "Article URL: https://www.reuters.com/world/how-texas-student-blew-whistle-rogue-ai-hacking-attempt-2026-08-20/ Comments URL: https://news.ycombinator.com/item?id=49374547 Points: 7 # Comments: 0",
+    "category": "industry",
+    "id": 23
+  },
+  {
+    "title": "Google strikes $12B AI chip deal with Marvell to develop TPUs",
+    "url": "https://www.ft.com/content/0fdb094c-fc03-4d3c-8da6-bd11af88ff63",
+    "source": "Hacker News",
+    "date": "2026-08-20",
+    "summary": "Article URL: https://www.ft.com/content/0fdb094c-fc03-4d3c-8da6-bd11af88ff63 Comments URL: https://news.ycombinator.com/item?id=49374524 Points: 6 # Comments: 0",
+    "category": "hardware",
+    "id": 24
+  },
+  {
+    "title": "Frustrated GP patients hang up as Yorkshire accent baffles AI receptionist",
+    "url": "https://www.theguardian.com/society/2026/aug/20/yorkshire-rotherham-ai-gp-receptionist-cannot-understand-accent",
+    "source": "Hacker News",
+    "date": "2026-08-20",
+    "summary": "Article URL: https://www.theguardian.com/society/2026/aug/20/yorkshire-rotherham-ai-gp-receptionist-cannot-understand-accent Comments URL: https://news.ycombinator.com/item?id=49374304 Points: 10 # Co...",
+    "category": "industry",
+    "image": "https://i.guim.co.uk/img/media/b2c58793c1f9360334833f4c8d0f7365a00f8e04/31_0_5021_4016/master/5021.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=4065bf514a6df6fa15b68bd2b34d8b63",
+    "id": 25
+  },
+  {
+    "title": "Relationship Engineering: the fifth phase of building with AI",
+    "url": "https://twitter.com/swombat/status/2090421410887880771",
+    "source": "Hacker News",
+    "date": "2026-08-20",
+    "summary": "Article URL: https://twitter.com/swombat/status/2090421410887880771 Comments URL: https://news.ycombinator.com/item?id=49374235 Points: 2 # Comments: 0",
+    "category": "industry",
+    "image": "https://pbs.twimg.com/media/HQKqdtCXcAA7dqx.jpg",
+    "id": 26
+  },
+  {
+    "title": "Show HN: Find every AI model your code calls and warn before it's retired",
+    "url": "https://llmstatus.ai",
+    "source": "Hacker News",
+    "date": "2026-08-20",
+    "summary": "Article URL: https://llmstatus.ai Comments URL: https://news.ycombinator.com/item?id=49374169 Points: 5 # Comments: 1",
+    "category": "models",
+    "image": "https://llmstatus.ai/opengraph-image?72cd1c5ab8ea556a",
+    "id": 27
   },
   {
     "title": "Idea to reduce AI token use at large orgs",
@@ -57,187 +272,16 @@
     "date": "2026-08-20",
     "summary": "There must be many near-identical repeats of high-token tasks. Perhaps for high-token tasks, first an automated search of prior work within the firm, parsing what's already done or not done, and only ...",
     "category": "hardware",
-    "id": 6
+    "id": 28
   },
   {
     "title": "GOP issues stark warning to AI companies",
     "url": "https://www.axios.com/2026/08/19/gop-data-center-memo-ai-election",
     "source": "Hacker News",
     "date": "2026-08-20",
-    "summary": "Article URL: https://www.axios.com/2026/08/19/gop-data-center-memo-ai-election Comments URL: https://news.ycombinator.com/item?id=49373873 Points: 2 # Comments: 0",
+    "summary": "Article URL: https://www.axios.com/2026/08/19/gop-data-center-memo-ai-election Comments URL: https://news.ycombinator.com/item?id=49373873 Points: 3 # Comments: 1",
     "category": "industry",
-    "id": 7
-  },
-  {
-    "title": "LinkedIn cracks down on automated content with AI detection button",
-    "url": "https://www.campaignindia.in/article/linkedin-cracks-down-on-automated-content-with-new-seems-like-ai-slop-detection-button/43e4tn3qyq543rpam874wksjn3",
-    "source": "Hacker News",
-    "date": "2026-08-20",
-    "summary": "Article URL: https://www.campaignindia.in/article/linkedin-cracks-down-on-automated-content-with-new-seems-like-ai-slop-detection-button/43e4tn3qyq543rpam874wksjn3 Comments URL: https://news.ycombinat...",
-    "category": "hardware",
-    "id": 8
-  },
-  {
-    "title": "Financial Times: AI hasn't gone rogue. It's worse than that",
-    "url": "https://www.ft.com/content/a9947be4-5c0c-47ee-acae-a2aeaf01a0a0",
-    "source": "Hacker News",
-    "date": "2026-08-20",
-    "summary": "Article URL: https://www.ft.com/content/a9947be4-5c0c-47ee-acae-a2aeaf01a0a0 Comments URL: https://news.ycombinator.com/item?id=49373756 Points: 1 # Comments: 0",
-    "category": "industry",
-    "id": 9
-  },
-  {
-    "title": "AI agent suggested installing a malware package. Engineer almost took its advice",
-    "url": "https://www.theregister.com/security/2026/08/20/ai-agent-suggested-installing-a-malware-package-engineer-almost-took-its-advice/5289849",
-    "source": "Hacker News",
-    "date": "2026-08-20",
-    "summary": "Article URL: https://www.theregister.com/security/2026/08/20/ai-agent-suggested-installing-a-malware-package-engineer-almost-took-its-advice/5289849 Comments URL: https://news.ycombinator.com/item?id=...",
-    "category": "industry",
-    "image": "https://image.theregister.com/4094065.jpg?imageId=4094065&x=0&y=0&cropw=100&croph=100&panox=0&panoy=0&panow=100&panoh=100&width=1200&height=683",
-    "id": 10
-  },
-  {
-    "title": "Google's AI photoscanner can determine body fat through selfies",
-    "url": "https://arxiv.org/abs/2603.27017",
-    "source": "Hacker News",
-    "date": "2026-08-20",
-    "summary": "Article URL: https://arxiv.org/abs/2603.27017 Comments URL: https://news.ycombinator.com/item?id=49373473 Points: 2 # Comments: 1",
-    "category": "research",
-    "id": 11
-  },
-  {
-    "title": "Ask HN: What AI automations have you kept running in production?",
-    "url": "https://news.ycombinator.com/item?id=49373445",
-    "source": "Hacker News",
-    "date": "2026-08-20",
-    "summary": "Comments URL: https://news.ycombinator.com/item?id=49373445 Points: 1 # Comments: 1",
-    "category": "industry",
-    "id": 12
-  },
-  {
-    "title": "Kingmakers: Crypto, AI, betting firms fuel record spending on the 2026 midterms",
-    "url": "https://www.reuters.com/legal/legalindustry/new-kingmakers-crypto-ai-betting-firms-fuel-record-spending-2026-midterms-2026-08-20/",
-    "source": "Hacker News",
-    "date": "2026-08-20",
-    "summary": "Article URL: https://www.reuters.com/legal/legalindustry/new-kingmakers-crypto-ai-betting-firms-fuel-record-spending-2026-midterms-2026-08-20/ Comments URL: https://news.ycombinator.com/item?id=493733...",
-    "category": "industry",
-    "id": 13
-  },
-  {
-    "title": "Show HN: A directory of the best tweets available on twitter. hand-picked. no AI",
-    "url": "https://billiondollartweets.com/",
-    "source": "Hacker News",
-    "date": "2026-08-20",
-    "summary": "Article URL: https://billiondollartweets.com/ Comments URL: https://news.ycombinator.com/item?id=49373343 Points: 1 # Comments: 1",
-    "category": "industry",
-    "id": 14
-  },
-  {
-    "title": "AI didn't erase the junior engineer's value, it increased it it",
-    "url": "https://franciscotrindade.me/blog/the-kids-are-really-alright/",
-    "source": "Hacker News",
-    "date": "2026-08-20",
-    "summary": "Article URL: https://franciscotrindade.me/blog/the-kids-are-really-alright/ Comments URL: https://news.ycombinator.com/item?id=49373269 Points: 38 # Comments: 56",
-    "category": "industry",
-    "image": "https://franciscotrindade.me/blog-images/the-kids-are-really-alright.png",
-    "id": 15
-  },
-  {
-    "title": "Show HN: Try Sequo to manage your AI context",
-    "url": "https://sequo.app",
-    "source": "Hacker News",
-    "date": "2026-08-20",
-    "summary": "Article URL: https://sequo.app Comments URL: https://news.ycombinator.com/item?id=49373103 Points: 1 # Comments: 0",
-    "category": "industry",
-    "image": "https://sequo.app/opengraph-image?737f521de6c8c20c",
-    "id": 16
-  },
-  {
-    "title": "The first AI agents hire human to ship ugc videos for you",
-    "url": "https://klaylab.com/",
-    "source": "Hacker News",
-    "date": "2026-08-20",
-    "summary": "Article URL: https://klaylab.com/ Comments URL: https://news.ycombinator.com/item?id=49373094 Points: 1 # Comments: 0",
-    "category": "industry",
-    "id": 17
-  },
-  {
-    "title": "DDD matters more when AI writes your code",
-    "url": "https://threedots.tech/post/ddd-and-ai-coding/",
-    "source": "Hacker News",
-    "date": "2026-08-20",
-    "summary": "Article URL: https://threedots.tech/post/ddd-and-ai-coding/ Comments URL: https://news.ycombinator.com/item?id=49373041 Points: 2 # Comments: 1",
-    "category": "industry",
-    "image": "https://threedots.tech/images/covers/ddd-and-ai-coding-social.png",
-    "id": 18
-  },
-  {
-    "title": "How to Outsmart AI When It's Tracking Your Workday",
-    "url": "https://www.wsj.com/lifestyle/workplace/how-to-outsmart-ai-when-its-tracking-your-workday-3ad6907e",
-    "source": "Hacker News",
-    "date": "2026-08-20",
-    "summary": "Article URL: https://www.wsj.com/lifestyle/workplace/how-to-outsmart-ai-when-its-tracking-your-workday-3ad6907e Comments URL: https://news.ycombinator.com/item?id=49372874 Points: 2 # Comments: 2",
-    "category": "hardware",
-    "id": 19
-  },
-  {
-    "title": "AI fired an S.F. store employee. Will California crack down on 'robobosses'?",
-    "url": "https://www.sfchronicle.com/politics/article/andon-market-robobosses-bill-22393579.php",
-    "source": "Hacker News",
-    "date": "2026-08-20",
-    "summary": "Article URL: https://www.sfchronicle.com/politics/article/andon-market-robobosses-bill-22393579.php Comments URL: https://news.ycombinator.com/item?id=49372802 Points: 4 # Comments: 1",
-    "category": "hardware",
-    "id": 20
-  },
-  {
-    "title": "Dutch data protection authority advises Twitch users to opt out from Amazon AI",
-    "url": "https://www.autoriteitpersoonsgegevens.nl/en/current/ap-advises-twitch-users-opt-out-from-sharing-data-with-amazon-ai",
-    "source": "Hacker News",
-    "date": "2026-08-20",
-    "summary": "Article URL: https://www.autoriteitpersoonsgegevens.nl/en/current/ap-advises-twitch-users-opt-out-from-sharing-data-with-amazon-ai Comments URL: https://news.ycombinator.com/item?id=49372781 Points: 5...",
-    "category": "industry",
-    "image": "https://www.autoriteitpersoonsgegevens.nl/uploads/styles/og/public/2026-08/Gamer%20livestream.jpg?itok=tO4dePhu",
-    "id": 21
-  },
-  {
-    "title": "Don't paste the AI, please (angry way)",
-    "url": "https://dontpastetheai.com/angry/",
-    "source": "Hacker News",
-    "date": "2026-08-20",
-    "summary": "Article URL: https://dontpastetheai.com/angry/ Comments URL: https://news.ycombinator.com/item?id=49372770 Points: 3 # Comments: 0",
-    "category": "industry",
-    "image": "https://dontpastetheai.com/assets/og-image.png",
-    "id": 22
-  },
-  {
-    "title": "Pine AI getting 75.4% (SoTA) on τ³-Voice Leaderboard",
-    "url": "http://taubench.com/leaderboard/",
-    "source": "Hacker News",
-    "date": "2026-08-20",
-    "summary": "Article URL: http://taubench.com/leaderboard/ Comments URL: https://news.ycombinator.com/item?id=49372693 Points: 12 # Comments: 2",
-    "category": "industry",
-    "image": "https://taubench.com/og-image.png",
-    "id": 23
-  },
-  {
-    "title": "Structural Predictions for the AI Era",
-    "url": "https://www.newnex.io/news/12-structural-predictions-for-the-ai-era-ai-object-framework-aof",
-    "source": "Hacker News",
-    "date": "2026-08-20",
-    "summary": "Article URL: https://www.newnex.io/news/12-structural-predictions-for-the-ai-era-ai-object-framework-aof Comments URL: https://news.ycombinator.com/item?id=49372675 Points: 1 # Comments: 1",
-    "category": "tools",
-    "image": "https://www.newnex.io/og/story/12-structural-predictions-for-the-ai-era-ai-object-framework-aof?v=2026-08-20T10%3A10%3A09.000Z",
-    "id": 24
-  },
-  {
-    "title": "Splunk patches 9.1 CVSS RCE in MCP Server and 9 flaws in AI Toolkit",
-    "url": "https://cyberupdates365.com/splunk-mcp-server-rce-patch/",
-    "source": "Hacker News",
-    "date": "2026-08-20",
-    "summary": "Article URL: https://cyberupdates365.com/splunk-mcp-server-rce-patch/ Comments URL: https://news.ycombinator.com/item?id=49372596 Points: 1 # Comments: 0",
-    "category": "hardware",
-    "image": "https://cyberupdates365.com/wp-content/uploads/2026/08/splunk-mcp-server-rce-vulnerability.jpg",
-    "id": 25
+    "id": 29
   },
   {
     "title": "Unlocking hidden revenue streams with market models",
@@ -247,7 +291,7 @@
     "summary": "Each day, an airline transports tens of thousands of passengers on hundreds of flights. Often these are not straightforward point-to-point routes, with passengers requiring multiple connections. The a...",
     "category": "industry",
     "image": "https://wp.technologyreview.com/wp-content/uploads/2026/08/MITTR2026_Fetcherr_1200CovrevSocV1.png?resize=1200,600",
-    "id": 26
+    "id": 30
   },
   {
     "title": "Position: Collusion Risks Among AI Reasoning Agents Justify Certification Requirements for Making Market Decisions",
@@ -256,7 +300,7 @@
     "date": "2026-08-20",
     "summary": "This position paper argues that AI agents with chain-of-thought reasoning capabilities are predisposed to exhibit collusive behavior and should be required to obtain behavioral certification before ma...",
     "category": "research",
-    "id": 27
+    "id": 31
   },
   {
     "title": "Position: Profiling Game Worlds by Transition Complexity",
@@ -265,7 +309,7 @@
     "date": "2026-08-20",
     "summary": "Game world modeling (GWM) and reinforcement learning (RL) are often confounded because research papers rarely quantify how difficult the underlying transition prediction problem is at the declared int...",
     "category": "research",
-    "id": 28
+    "id": 32
   },
   {
     "title": "Large Language Models in Mental Health: A Systematic Review of Applications, Innovations, and Ethical Challenges",
@@ -274,7 +318,7 @@
     "date": "2026-08-20",
     "summary": "We present a review on the applications of large language models (LLMs) in health, e.g., social media analysis, clinical conversational agents, therapy support tools, prompt engineering, multimodal le...",
     "category": "tools",
-    "id": 29
+    "id": 33
   },
   {
     "title": "Position: Behavioral Systems Require Behavioral Tests",
@@ -283,7 +327,7 @@
     "date": "2026-08-20",
     "summary": "Artificial agentic systems increasingly operate as behavioral systems by interacting with dynamic environments, pursuing goals, and adapting over time. Yet, current evaluation methods largely focus on...",
     "category": "research",
-    "id": 30
+    "id": 34
   },
   {
     "title": "Position: Current Model Cards Are Insufficient for Downstream Governance of Open-Weight Foundation Models",
@@ -292,7 +336,7 @@
     "date": "2026-08-20",
     "summary": "The growth of open-weight foundation models (OWFMs) has prompted the AI community to re-evaluate strategies for effective downstream governance. Although model cards have been widely adopted as transp...",
     "category": "research",
-    "id": 31
+    "id": 35
   },
   {
     "title": "A Metamorphic Artificial Age Score Decision-Support Prototype for Flight-Log-Based Drone Propeller Health Monitoring",
@@ -301,7 +345,7 @@
     "date": "2026-08-20",
     "summary": "Drone propeller faults can create safety and reliability risks when their effects are distributed across multiple flight-log channels rather than appearing as a single diagnostic signal. This paper pr...",
     "category": "research",
-    "id": 32
+    "id": 36
   },
   {
     "title": "Position: Multi-Agent Systems Should Prioritize Concurrency Control",
@@ -310,7 +354,7 @@
     "date": "2026-08-20",
     "summary": "LLM-based multi-agent systems (MAS) promise scalable collaboration, yet adding agents often reduces reliability. This position paper argues that many MAS failures are fundamentally concurrency control...",
     "category": "models",
-    "id": 33
+    "id": 37
   },
   {
     "title": "FinSkillBench: Evaluating AI Agents and Domain Skills for Investment Management",
@@ -319,7 +363,7 @@
     "date": "2026-08-20",
     "summary": "Investment management is a high-stakes domain in which agentic AI systems must do more than generate plausible text. They must retrieve point-in-time data, assemble correct computational inputs, invok...",
     "category": "research",
-    "id": 34
+    "id": 38
   },
   {
     "title": "Self-Evolving Agents as Dynamic Graph Transformation: A Survey and New Perspective",
@@ -328,7 +372,7 @@
     "date": "2026-08-20",
     "summary": "Large language model (LLM)-based agents are increasingly becoming self-evolving systems that persist across interactions, maintain memories, use tools, acquire skills, refine workflows, and coordinate...",
     "category": "models",
-    "id": 35
+    "id": 39
   },
   {
     "title": "Emergence of Agentic AI: A Review on Evolution, Background, Working Principles, Applications, Adoption Factors, and Future Research Directions",
@@ -337,7 +381,7 @@
     "date": "2026-08-20",
     "summary": "Agentic AI is gaining new insights and advancements in the field of Artificial Intelligence, fostering significant potential to enable rapid transformation across various domains.This rapid advancemen...",
     "category": "tools",
-    "id": 36
+    "id": 40
   },
   {
     "title": "Solving Is Not Drawing: A Benchmark for Diagrammatic Reasoning in Olympiad Geometry",
@@ -346,7 +390,7 @@
     "date": "2026-08-20",
     "summary": "Foundation models such as GPT and Claude now solve olympiad-level mathematics with remarkable proficiency, so much so that geometry problem solving has become a standard proxy for their mathematical r...",
     "category": "models",
-    "id": 37
+    "id": 41
   },
   {
     "title": "Position: AI Leaderboards Are Underserving the Global South: A Case Study from India",
@@ -355,7 +399,7 @@
     "date": "2026-08-20",
     "summary": "This position paper argues that AI leaderboards are structurally ill-suited to serving the Global South because they lack independent governance, conflict-of-interest policies, and mechanisms for metr...",
     "category": "research",
-    "id": 38
+    "id": 42
   },
   {
     "title": "Safety Alignment Illusion: The Cross-Lingual Safety Gap in LLMs",
@@ -364,7 +408,7 @@
     "date": "2026-08-20",
     "summary": "Current safety alignment training for Large Language Models (LLMs) are heavily English-centric. When such safety filters fail for non-English languages, the consequences are immediate and user-facing:...",
     "category": "research",
-    "id": 39
+    "id": 43
   },
   {
     "title": "Optimized Fuzzy Logic Approach with the IEEE Key Gas Method for Diagnosing Power Transformer Faults Using Dissolved Gas Analysis",
@@ -373,7 +417,7 @@
     "date": "2026-08-20",
     "summary": "Reliable transformer fault diagnosis is essential for maintaining power system stability. The IEEE Key Gas Method (KGM), a widely utilized approach in Dissolved Gas Analysis (DGA), exhibits limitation...",
     "category": "research",
-    "id": 40
+    "id": 44
   },
   {
     "title": "Improving Rural Medication Safety with AI: A Scoping Review",
@@ -382,7 +426,7 @@
     "date": "2026-08-20",
     "summary": "Introduction: Medication errors (MEs) represent a significant threat to global healthcare systems, contributing to patient harm. Introducing artificial intelligence (AI) in rural healthcare enhances p...",
     "category": "hardware",
-    "id": 41
+    "id": 45
   },
   {
     "title": "FraudBench: Stress-Testing Policy-Grounded Banking Agents Against Adaptive Fraud",
@@ -391,7 +435,7 @@
     "date": "2026-08-20",
     "summary": "Conversational agents now act for end users through tools while holding access to customer databases and internal policy documents that a caller can reach through dialogue alone. Banking is the cleare...",
     "category": "industry",
-    "id": 42
+    "id": 46
   },
   {
     "title": "Efficient Adaptation of LLMs for Hate Speech Detection in Low-Resource Languages: A Comparative Study on Roman Urdu",
@@ -400,7 +444,7 @@
     "date": "2026-08-20",
     "summary": "It is challenging to detect hate speech in Low Resource Languages (LRLs) because of the absence of annotated data, the informality of its language structure, and the lack of standardized grammar. A go...",
     "category": "models",
-    "id": 43
+    "id": 47
   },
   {
     "title": "RDFdL: Integrating RDF with Differential Dynamic Logic",
@@ -409,7 +453,7 @@
     "date": "2026-08-20",
     "summary": "Knowledge graphs modeled in RDF are powerful for describing static knowledge, but they cannot capture or reason about the dynamic behavior of physical systems, e.g., systems described by differential ...",
     "category": "research",
-    "id": 44
+    "id": 48
   },
   {
     "title": "Adversarial Review: Structured Disagreement for Grounded Agentic Code Review",
@@ -418,7 +462,7 @@
     "date": "2026-08-20",
     "summary": "Early multi-agent LLM systems often used role-separated teams, yet scaling agent count yields diminishing returns on repository-level coding tasks. Recent alternatives treat agents as passive tools (s...",
     "category": "models",
-    "id": 45
+    "id": 49
   },
   {
     "title": "Looped Language Models Improve Compositional Tool Calling",
@@ -426,42 +470,6 @@
     "source": "arXiv cs.AI",
     "date": "2026-08-20",
     "summary": "Looped language models have shown promising results on reasoning benchmarks, yet their potential for agentic tool use remains largely unexplored. We study this question in compositional tool-calling s...",
-    "category": "models",
-    "id": 46
-  },
-  {
-    "title": "On the Triangle Inequality for the Jaccard Distance in Arbitrary Lattices",
-    "url": "https://arxiv.org/abs/2608.18194",
-    "source": "arXiv cs.AI",
-    "date": "2026-08-20",
-    "summary": "This paper presents new theoretical results on generalizing the Jaccard distance for lattices and real valuations. We demonstrate that when the valuation is strictly positive, monotone, and modular, t...",
-    "category": "research",
-    "id": 47
-  },
-  {
-    "title": "GenEx: A Graph-Based Representational Paradigm for SARS-CoV-2 Variant Detection via Codon Co-occurrence Networks",
-    "url": "https://arxiv.org/abs/2608.18238",
-    "source": "arXiv cs.AI",
-    "date": "2026-08-20",
-    "summary": "Genomic analysis on viruses such as SARS-CoV-2 variants: Beta, Gamma, Delta, and Omicron is heavily dominated by classical bioinformatics methods, including Sequence Alignment, Phylogenetic Analysis, ...",
-    "category": "research",
-    "id": 48
-  },
-  {
-    "title": "Redakto - The Incognito Tab for LLMs",
-    "url": "https://arxiv.org/abs/2608.18260",
-    "source": "arXiv cs.AI",
-    "date": "2026-08-20",
-    "summary": "Large Language Models (LLMs) are being increasingly used in everyday applications. A major challenge in the context of LLMs or Artificial Intelligence (AI) in general is to ensure privacy when using t...",
-    "category": "tools",
-    "id": 49
-  },
-  {
-    "title": "Cacheable by Design? Training Mixture-of-Experts Routers for Locality Against the Edge Memory-Bandwidth Wall: A Pre-Registered Negative Result with a Systems Measurement Study",
-    "url": "https://arxiv.org/abs/2608.18261",
-    "source": "arXiv cs.AI",
-    "date": "2026-08-20",
-    "summary": "Serving a 235B-parameter Mixture-of-Experts (MoE) model on a single 8 GB GPU is bottlenecked not by compute but by memory bandwidth: decode must stream each token's active experts from whichever tier ...",
     "category": "models",
     "id": 50
   }
