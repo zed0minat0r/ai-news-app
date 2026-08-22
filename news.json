@@ -1,5 +1,16 @@
 [
   {
+    "title": "25 years after the death of 3dfx, the Voodoo 3 gets a Linux driver update — classic Voodoo GPUs can now boot without a PC BIOS",
+    "url": "https://www.tomshardware.com/software/linux/25-years-after-the-death-of-3dfx-the-voodoo-3-gets-a-linux-driver-update-classic-voodoo-gpus-can-now-boot-without-a-pc-bios",
+    "source": "Tom's Hardware",
+    "date": "2026-08-22",
+    "summary": "It's been a quarter-century since the firm folded, but the graphics chips still have utility in esoteric use cases.",
+    "category": "hardware",
+    "image": "https://cdn.mos.cms.futurecdn.net/X6iB5cWC9stabSJtgczKnd-1280-80.jpg",
+    "id": 1,
+    "featured": true
+  },
+  {
     "title": "Logitech faces lawsuit for withholding $61M in tariff refunds from customers — lawsuit claims company extracted up to $97M from consumers in 2026 through tariff-justified price increases",
     "url": "https://www.tomshardware.com/peripherals/logitech-faces-lawsuit-for-withholding-usd61m-in-tariff-refunds-from-customers-lawsuit-claims-company-extracted-up-to-usd97m-from-consumers-in-2026-through-tariff-justified-price-increases",
     "source": "Tom's Hardware",
@@ -7,8 +18,7 @@
     "summary": "Consumers who bought products from Logitech after it increased its prices due to tariffs still haven't received their refunds, even after the U.S. government returned $61 million to the company. Now t...",
     "category": "industry",
     "image": "https://cdn.mos.cms.futurecdn.net/a7jbVgATx7AS9Xg69P4zi6-1280-80.jpg",
-    "id": 1,
-    "featured": true
+    "id": 2
   },
   {
     "title": "US authorities say Siemens controllers used for water and other infrastructure are being targeted by hackers — agencies claim threat actors use AI tools to generate exploitation scripts",
@@ -18,7 +28,7 @@
     "summary": "Siemens S7 PLCs, commonly used in critical infrastructure, are reportedly being targeted by hackers and could potentially lead to disruption of industrial processes, safety incidents, downtime or equi...",
     "category": "research",
     "image": "https://cdn.mos.cms.futurecdn.net/hHLVFntj9uCp5jj2dwekLW-1280-80.png",
-    "id": 2
+    "id": 3
   },
   {
     "title": "Desktop CPU shipments crater 20% amid high component costs, but AMD gains record share despite 'ugly' desktop processor market — Intel floods laptop market with millions of CPUs, but AMD still sets all-time share records",
@@ -28,7 +38,7 @@
     "summary": "As Intel boosts output of data center and notebook CPUs, AMD manages to outgrow it and keep capturing market share from its arch-rival.",
     "category": "hardware",
     "image": "https://cdn.mos.cms.futurecdn.net/87ArGeWHVuydiywKW9Njah-1280-80.jpg",
-    "id": 3
+    "id": 4
   },
   {
     "title": "Spending on physical games falls to lowest on record since 1995 — US console sales plunge 39% in July as memory costs push average price to $542",
@@ -38,7 +48,7 @@
     "summary": "U.S. console hardware sales fell 39% by unit volume in July against a year earlier, while the average price paid for a new system rose 16% to $542.",
     "category": "hardware",
     "image": "https://cdn.mos.cms.futurecdn.net/PUdkNw8i8RjCbA88jkWoFC-1280-80.jpg",
-    "id": 4
+    "id": 5
   },
   {
     "title": "Back-to-back Amazon CPU scam delivers empty Ryzen 5 9600X boxes in 72 hours — $ 10,000-a-month business customer captures fraud on camera",
@@ -48,189 +58,27 @@
     "summary": "A PC shop that spends over $10,000 a month on Amazon hardware says two AMD Ryzen 5 9600X orders arrived with the CPUs missing.",
     "category": "hardware",
     "image": "https://cdn.mos.cms.futurecdn.net/nYVKau5tqBwsj9B5FJ3qbA-1280-80.jpg",
-    "id": 5
-  },
-  {
-    "title": "Show HN: Find and Organize Photos with Private, Local AI",
-    "url": "https://ringlochid.me/imagesage/index.html",
-    "source": "Hacker News",
-    "date": "2026-08-22",
-    "summary": "Article URL: https://ringlochid.me/imagesage/index.html Comments URL: https://news.ycombinator.com/item?id=49400459 Points: 3 # Comments: 0",
-    "category": "industry",
     "id": 6
   },
   {
-    "title": "Claude Watermarks AI-Generated Text",
-    "url": "https://magazine.sebastianraschka.com/p/claude-watermarking",
-    "source": "Hacker News",
+    "title": "OpenAI says California should strengthen its AI safety bill",
+    "url": "https://techcrunch.com/2026/08/22/openai-says-california-should-strengthen-its-ai-safety-bill/",
+    "source": "TechCrunch",
     "date": "2026-08-22",
-    "summary": "Article URL: https://magazine.sebastianraschka.com/p/claude-watermarking Comments URL: https://news.ycombinator.com/item?id=49400307 Points: 1 # Comments: 0",
-    "category": "models",
-    "image": "https://substackcdn.com/image/fetch/$s_!2E7U!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Ffb73bfb5-0291-4e5e-b425-6c3be054276e_1914x1076.png",
+    "summary": "OpenAI is calling for California to strengthen SB 53, an AI safety bill that the company previously opposed.",
+    "category": "research",
+    "image": "https://techcrunch.com/wp-content/uploads/2026/08/GettyImages-2263890424.jpg?w=1024",
     "id": 7
   },
   {
-    "title": "AI agents merged two dangers once kept separate: reach and judgment",
-    "url": "https://syntheticauth.ai/posts/agent-nation-03-the-threshold",
-    "source": "Hacker News",
+    "title": "Frontier AI labs still won’t say how they’d contain a rogue model",
+    "url": "https://techcrunch.com/2026/08/22/frontier-ai-labs-still-wont-say-how-theyd-contain-a-rogue-model/",
+    "source": "TechCrunch",
     "date": "2026-08-22",
-    "summary": "Article URL: https://syntheticauth.ai/posts/agent-nation-03-the-threshold Comments URL: https://news.ycombinator.com/item?id=49400211 Points: 2 # Comments: 1",
-    "category": "industry",
-    "image": "https://embed.filekitcdn.com/e/wNGx93wWNxx21jy685aeV5/49DGXZkyYQvaiLwZf8vDP6",
+    "summary": "A new study finds leading AI labs have few publicly documented plans for containing rogue models, raising questions about preparedness as AI systems increasingly demonstrate unexpected and potentially...",
+    "category": "research",
+    "image": "https://techcrunch.com/wp-content/uploads/2019/07/kill-switch-ransomware.jpg?resize=1200,638",
     "id": 8
-  },
-  {
-    "title": "A Year in LLM Serving: Workload Evolution, Caching and Load-Balancing",
-    "url": "https://arxiv.org/abs/2608.13573",
-    "source": "Hacker News",
-    "date": "2026-08-22",
-    "summary": "Article URL: https://arxiv.org/abs/2608.13573 Comments URL: https://news.ycombinator.com/item?id=49399974 Points: 1 # Comments: 0",
-    "category": "models",
-    "id": 9
-  },
-  {
-    "title": "80% of developers find AI coding more addictive than helpful",
-    "url": "https://www.zdnet.com/article/80-of-developers-find-ai-coding-more-addictive-than-helpful/",
-    "source": "Hacker News",
-    "date": "2026-08-22",
-    "summary": "Article URL: https://www.zdnet.com/article/80-of-developers-find-ai-coding-more-addictive-than-helpful/ Comments URL: https://news.ycombinator.com/item?id=49399954 Points: 4 # Comments: 0",
-    "category": "tools",
-    "image": "https://www.zdnet.com/a/img/resize/459af865b0c9b0c18524ffa10d0fd48c6ad1d6e6/2026/08/21/b51a95d9-d46e-482d-abfd-50c167f7154b/pausef11gettyimages-2162136210.jpg?auto=webp&fit=crop&height=675&width=1200",
-    "id": 10
-  },
-  {
-    "title": "Digging the grave of my skills: Hollywood creatives training AI to do their jobs",
-    "url": "https://www.theguardian.com/technology/2026/aug/22/the-hollywood-creatives-training-ai-to-do-their-jobs",
-    "source": "Hacker News",
-    "date": "2026-08-22",
-    "summary": "Article URL: https://www.theguardian.com/technology/2026/aug/22/the-hollywood-creatives-training-ai-to-do-their-jobs Comments URL: https://news.ycombinator.com/item?id=49399941 Points: 16 # Comments: ...",
-    "category": "industry",
-    "image": "https://i.guim.co.uk/img/media/eca8a76b2a7a0d23d19512d598b73041712f2ec1/1344_539_3254_2604/master/3254.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=1d81c4f6a466373a506ed50b7860abae",
-    "id": 11
-  },
-  {
-    "title": "Going out of my way to prove I'm not an AI – Ep. #1 – OG images",
-    "url": "https://huijer.co/notes/going-out-of-my-way-to-prove-im-not-an-ai-og-images",
-    "source": "Hacker News",
-    "date": "2026-08-22",
-    "summary": "Article URL: https://huijer.co/notes/going-out-of-my-way-to-prove-im-not-an-ai-og-images Comments URL: https://news.ycombinator.com/item?id=49399851 Points: 2 # Comments: 2",
-    "category": "industry",
-    "id": 12
-  },
-  {
-    "title": "Show HN: I make my AI agents file paperwork before they're allowed to code",
-    "url": "https://github.com/kidus-tiliksew/conveyor",
-    "source": "Hacker News",
-    "date": "2026-08-22",
-    "summary": "Article URL: https://github.com/kidus-tiliksew/conveyor Comments URL: https://news.ycombinator.com/item?id=49399837 Points: 1 # Comments: 0",
-    "category": "research",
-    "image": "https://opengraph.githubassets.com/c730641d801ffd4a0aa540140ec9d453a1772a31f5c2a1c10ed8ad522463586b/kidus-tiliksew/conveyor",
-    "id": 13
-  },
-  {
-    "title": "Show HN: Running a full AI coding agent inside Cloudflare Durable Object",
-    "url": "https://github.com/pawaca/dsh-edge",
-    "source": "Hacker News",
-    "date": "2026-08-22",
-    "summary": "Article URL: https://github.com/pawaca/dsh-edge Comments URL: https://news.ycombinator.com/item?id=49399811 Points: 2 # Comments: 0",
-    "category": "industry",
-    "image": "https://repository-images.githubusercontent.com/1340840762/40aff7cd-eed6-4aad-af23-76ae29fd56ab",
-    "id": 14
-  },
-  {
-    "title": "AI Stock Research Assistant · Streamlit",
-    "url": "https://ai-stock-research-kiaan.streamlit.app",
-    "source": "Hacker News",
-    "date": "2026-08-22",
-    "summary": "Article URL: https://ai-stock-research-kiaan.streamlit.app Comments URL: https://news.ycombinator.com/item?id=49399430 Points: 2 # Comments: 0",
-    "category": "research",
-    "id": 15
-  },
-  {
-    "title": "Show HN: Knoku – cited AI answers from docs, files, and team knowledge",
-    "url": "https://knoku.com",
-    "source": "Hacker News",
-    "date": "2026-08-22",
-    "summary": "Article URL: https://knoku.com Comments URL: https://news.ycombinator.com/item?id=49399334 Points: 1 # Comments: 0",
-    "category": "industry",
-    "id": 16
-  },
-  {
-    "title": "How to Fingerprint AI Models When Prompts Lie",
-    "url": "https://openrating.io/blog/current-state-of-ai-model-fingerprinting",
-    "source": "Hacker News",
-    "date": "2026-08-22",
-    "summary": "Article URL: https://openrating.io/blog/current-state-of-ai-model-fingerprinting Comments URL: https://news.ycombinator.com/item?id=49399051 Points: 2 # Comments: 0",
-    "category": "industry",
-    "image": "https://openrating.io/opengraph-image?a99571f7e3ba7097",
-    "id": 17
-  },
-  {
-    "title": "The AI boom: rational enthusiasm or the next dot-com bubble?",
-    "url": "https://www.ecb.europa.eu/press/blog/date/2026/html/ecb.blog20260817~754a8a4418.en.html",
-    "source": "Hacker News",
-    "date": "2026-08-22",
-    "summary": "Article URL: https://www.ecb.europa.eu/press/blog/date/2026/html/ecb.blog20260817~754a8a4418.en.html Comments URL: https://news.ycombinator.com/item?id=49398763 Points: 1 # Comments: 0",
-    "category": "industry",
-    "image": "https://www.ecb.europa.eu/press/shared/img/socialmedia/social-default.jpg?0ef1632c35edede913681bb76af694a4",
-    "id": 18
-  },
-  {
-    "title": "Mango AI: image/video generation with Nano Banana 2, GPT Image 2, Seedance 2",
-    "url": "https://trymangoai.com",
-    "source": "Hacker News",
-    "date": "2026-08-22",
-    "summary": "Article URL: https://trymangoai.com Comments URL: https://news.ycombinator.com/item?id=49398747 Points: 2 # Comments: 0",
-    "category": "models",
-    "image": "https://trymangoai.com/og-image.png",
-    "id": 19
-  },
-  {
-    "title": "Dutch regulator fines Uber €825M for letting AI deactivate driver accounts",
-    "url": "https://nltimes.nl/2026/08/21/dutch-regulator-fines-uber-eu825-mil-letting-algorithm-deactivate-drivers-accounts",
-    "source": "Hacker News",
-    "date": "2026-08-22",
-    "summary": "Article URL: https://nltimes.nl/2026/08/21/dutch-regulator-fines-uber-eu825-mil-letting-algorithm-deactivate-drivers-accounts Comments URL: https://news.ycombinator.com/item?id=49398609 Points: 9 # Co...",
-    "category": "research",
-    "image": "https://nltimes.nl/sites/nltimes.nl/files/styles/news_article_full_desktop_2x/public/legacy-nlt/uploads/2014/12/depositphotos_157501286_ds.jpg?h=020d62ca",
-    "id": 20
-  },
-  {
-    "title": "SignalWatch – AI crypto scanner and smart alerts in your pocket",
-    "url": "https://play.google.com/store/apps/details?id=com.builtwithme.signalwatch&hl=en_US",
-    "source": "Hacker News",
-    "date": "2026-08-22",
-    "summary": "Article URL: https://play.google.com/store/apps/details?id=com.builtwithme.signalwatch&hl=en_US Comments URL: https://news.ycombinator.com/item?id=49398530 Points: 1 # Comments: 0",
-    "category": "industry",
-    "id": 21
-  },
-  {
-    "title": "AI Is Rewriting Mathematics",
-    "url": "https://nofilk.substack.com/p/ai-is-rewriting-mathematics",
-    "source": "Hacker News",
-    "date": "2026-08-22",
-    "summary": "Article URL: https://nofilk.substack.com/p/ai-is-rewriting-mathematics Comments URL: https://news.ycombinator.com/item?id=49398441 Points: 3 # Comments: 1",
-    "category": "industry",
-    "id": 22
-  },
-  {
-    "title": "Six principles for evaluating cognitive capabilities in AI models",
-    "url": "https://onlinelibrary.wiley.com/doi/10.1002/aaai.70061",
-    "source": "Hacker News",
-    "date": "2026-08-22",
-    "summary": "Article URL: https://onlinelibrary.wiley.com/doi/10.1002/aaai.70061 Comments URL: https://news.ycombinator.com/item?id=49398347 Points: 1 # Comments: 1",
-    "category": "tools",
-    "id": 23
-  },
-  {
-    "title": "The Joy of Why (podcast): Are We Thinking Correctly About AI Intelligence?",
-    "url": "https://www.quantamagazine.org/are-we-thinking-correctly-about-ai-intelligence-20260820/",
-    "source": "Hacker News",
-    "date": "2026-08-22",
-    "summary": "Article URL: https://www.quantamagazine.org/are-we-thinking-correctly-about-ai-intelligence-20260820/ Comments URL: https://news.ycombinator.com/item?id=49398270 Points: 1 # Comments: 1",
-    "category": "hardware",
-    "image": "https://www.quantamagazine.org/wp-content/uploads/2026/08/JOW-S5-E6-cr-Chanelle-Nibbelink-Social-LOGO.jpg",
-    "id": 24
   },
   {
     "title": "SanDisk expansion cards for Xbox Series X|S now available on Amazon — alternative storage solution to Seagate, WD arrives on the market five years after the launch of the consoles",
@@ -240,7 +88,7 @@
     "summary": "The SanDisk Optimus GX C50 expansion cards for the Xbox Series X|S are now available on Amazon starting at $249.99 for the 1TB variant. While gamers can use external drives to copy and backup games fr...",
     "category": "research",
     "image": "https://cdn.mos.cms.futurecdn.net/uyc6JpWNuYp8MdBAXQBRWc-1280-80.png",
-    "id": 25
+    "id": 9
   },
   {
     "title": "Florida seeks court ruling to officially classify Sam Altman and ChatGPT as a 'public nuisance' — OpenAI fights to keep lawsuit away from a state jury",
@@ -250,7 +98,7 @@
     "summary": "Florida's lawsuit against OpenAI and Sam Altman has now been sitting before U.S. District Judge Aileen Cannon in Fort Pierce for seven weeks.",
     "category": "models",
     "image": "https://cdn.mos.cms.futurecdn.net/At9oFNxgx5LSot7EtTt3Rm-1280-80.jpg",
-    "id": 26
+    "id": 10
   },
   {
     "title": "World's largest open library calls for volunteers to scan and preserve physical books as AI companies buy, scan, and destroy them — Anna's Archive says ‘time is running out’ as ‘knowledge is permanently monopolized on private servers’",
@@ -260,7 +108,7 @@
     "summary": "A volunteer for Anna's Archive is calling for volunteers to scan and upload books to the shadow library to help preserve human knowledge for the public. The move comes as more AI companies buy, scan, ...",
     "category": "hardware",
     "image": "https://cdn.mos.cms.futurecdn.net/ePJpJYVDUf8Qbfjmf8WdQf-1280-80.png",
-    "id": 27
+    "id": 11
   },
   {
     "title": "Unlock Tom's Hardware Premium's Hot Chips 2026 coverage for free — sign up for an account to read technical breakdowns from the show",
@@ -270,7 +118,7 @@
     "summary": "For a limited time, you’ll be able to read all of our latest reports from Hot Chips 2026 with a Tom’s Hardware account, no payment required.",
     "category": "hardware",
     "image": "https://cdn.mos.cms.futurecdn.net/VpbztxtxFKZCPaetywvDsH-1280-80.jpg",
-    "id": 28
+    "id": 12
   },
   {
     "title": "Supermicro fires several employees following investigation into $2.5 billion China AI chip smuggling — claims that senior management had no knowledge of illicit transactions",
@@ -280,7 +128,7 @@
     "summary": "An independent investigation on Supermicro clears senior management from any wrong-doing and also says that its financial statements were still reliable, despite the alleged diversion of its restricte...",
     "category": "hardware",
     "image": "https://cdn.mos.cms.futurecdn.net/tcfTihpKR3gtRJ6DCLVGBj-1280-80.png",
-    "id": 29
+    "id": 13
   },
   {
     "title": "CPU-Z gets biggest update since 2001 with V3 — 100+ health checks, built-in stress testing, and XOC effective clock tracking",
@@ -290,7 +138,7 @@
     "summary": "CPU-Z V3 introduces an overhauled validation system with over 100 detection points, and a new advanced validation feature that will check PC health with a stress test.",
     "category": "hardware",
     "image": "https://cdn.mos.cms.futurecdn.net/HiZSwDs3FGtqotECqaPn5B-1280-80.jpg",
-    "id": 30
+    "id": 14
   },
   {
     "title": "Micron commits $10 billion to new US-based Research Labs — Boise hub to target post-DRAM and NAND technologies and packaging",
@@ -300,7 +148,7 @@
     "summary": "Micron's Research Labs to bring together the company's own research with research by customers, partners, universities, startups, and government organizations to develop pre-competitive IP for next-ge...",
     "category": "industry",
     "image": "https://cdn.mos.cms.futurecdn.net/ncBURJMeiru4ME55B6NCEJ-1280-80.jpg",
-    "id": 31
+    "id": 15
   },
   {
     "title": "H200 AI GPUs finally reach China under case-by-case import licenses, but it's already too late for Nvidia — homemade chips corner the China market as country seeks semiconductor independence",
@@ -310,7 +158,7 @@
     "summary": "Most of each company's U.S.-licensed allowance, understood to be up to 100,000 units apiece, must stay outside the mainland.",
     "category": "hardware",
     "image": "https://cdn.mos.cms.futurecdn.net/mcUCEv8AzcMnUJJ3xjB6Cf-1280-80.jpg",
-    "id": 32
+    "id": 16
   },
   {
     "title": "Nvidia denies report it will ship Groq-based LPUs to China by year-end — says there is 'no China-specific LPU product in our roadmap'",
@@ -320,7 +168,7 @@
     "summary": "Nvidia has rejected a report published by The Information that it plans to begin small-batch shipments of an LPU tailored for Chinese customers by the end of 2026.",
     "category": "hardware",
     "image": "https://cdn.mos.cms.futurecdn.net/49QX9DhQjJDwWiR2NPT9tD-1280-80.jpg",
-    "id": 33
+    "id": 17
   },
   {
     "title": "Save $900 on this 2-in-1 Asus ROG touchscreen gaming laptop with 64GB RAM — the 14-inch Flow Z13 machine ships with a 16-core AMD Strix Halo CPU and a 1TB SSD, perfect for games and AI",
@@ -330,7 +178,7 @@
     "summary": "Save a huge $900 on this touch screen gaming laptop combo, the Asus ROG Flow Z13, now just $2,099.99.",
     "category": "hardware",
     "image": "https://cdn.mos.cms.futurecdn.net/cC79NqVh3ZF45VKPFYh2YC-1280-80.png",
-    "id": 34
+    "id": 18
   },
   {
     "title": "DDR5 scalper bots now outnumber shoppers 10 to 1 — automated scraping hits listings every 6.5 seconds as 32GB kits surge from $72 to $392, DataDome researcher says",
@@ -340,7 +188,7 @@
     "summary": "Bad bots account for 91% of the traffic reaching one retailer's DDR5 memory product pages, roughly 10 automated requests for every legitimate visit.",
     "category": "hardware",
     "image": "https://cdn.mos.cms.futurecdn.net/DzxQr2k2MxmxSptJ9wViJi-1280-80.jpg",
-    "id": 35
+    "id": 19
   },
   {
     "title": "Anthropic’s Opus 4.6 is a smut-machine",
@@ -350,7 +198,7 @@
     "summary": "Anthropic forbids its Claude models from generating sexually explicit content. But a series of tests conducted by TechCrunch found that it didn't take much to get past the restriction.",
     "category": "models",
     "image": "https://techcrunch.com/wp-content/uploads/2026/08/GettyImages-157692252.jpg?resize=1200,915",
-    "id": 36
+    "id": 20
   },
   {
     "title": "Nvidia partners with data center developer Cloverleaf",
@@ -360,7 +208,7 @@
     "summary": "Nvidia continues to pour money into data center development — just as AI data centers bring lots of money into Nvidia.",
     "category": "hardware",
     "image": "https://techcrunch.com/wp-content/uploads/2025/07/GettyImages-2219673294.jpg?resize=1200,750",
-    "id": 37
+    "id": 21
   },
   {
     "title": "Nvidia just showed that the harness, not the AI model, is now the real hero",
@@ -370,17 +218,7 @@
     "summary": "Nvidia research shows that AI agents can perform well, and not go off the deep end, through fine-tuning, even if the AI model isn't that great at the task.",
     "category": "models",
     "image": "https://techcrunch.com/wp-content/uploads/2026/08/Nvidia-VP-of-product-Adel-El-Hallak.jpg?resize=1200,898",
-    "id": 38
-  },
-  {
-    "title": "The DOJ is investigating a16z. What does this mean for venture capital?",
-    "url": "https://techcrunch.com/podcast/the-doj-is-investigating-a16z-what-does-this-mean-for-venture-capital/",
-    "source": "TechCrunch",
-    "date": "2026-08-21",
-    "summary": "Andreessen Horowitz has two partners sitting on the boards of companies that now compete with each other: Ben Horowitz at Databricks and Martin Casado at Fivetran. Nothing too scandalous on the surfac...",
-    "category": "tools",
-    "image": "https://techcrunch.com/wp-content/uploads/2026/01/a16z-Andreessen-Horowitz.jpg?resize=1200,800",
-    "id": 39
+    "id": 22
   },
   {
     "title": "Starcloud raises $250 million for orbital data centers as launch options dry up",
@@ -390,7 +228,17 @@
     "summary": "There's about to be a big fight to secure access to space.",
     "category": "hardware",
     "image": "https://techcrunch.com/wp-content/uploads/2026/08/Starcloud-Founders-2026.jpg?w=810",
-    "id": 40
+    "id": 23
+  },
+  {
+    "title": "The DOJ is investigating a16z. What does this mean for venture capital?",
+    "url": "https://techcrunch.com/podcast/the-doj-is-investigating-a16z-what-does-this-mean-for-venture-capital/",
+    "source": "TechCrunch",
+    "date": "2026-08-21",
+    "summary": "Andreessen Horowitz has two partners sitting on the boards of companies that now compete with each other: Ben Horowitz at Databricks and Martin Casado at Fivetran. Nothing too scandalous on the surfac...",
+    "category": "tools",
+    "image": "https://techcrunch.com/wp-content/uploads/2026/01/a16z-Andreessen-Horowitz.jpg?resize=1200,800",
+    "id": 24
   },
   {
     "title": "AI data startup Micro1 reaches $500M gross run rate amid AI training boom",
@@ -400,7 +248,7 @@
     "summary": "Surging demand for AI training data is driving rapid growth for the startup and its rivals.",
     "category": "tools",
     "image": "https://techcrunch.com/wp-content/uploads/2025/12/IMG_2686.jpeg?resize=1200,957",
-    "id": 41
+    "id": 25
   },
   {
     "title": "The Download: threats from space mirrors and credit for AI drugs",
@@ -410,7 +258,7 @@
     "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. This company’s plans to deploy space mirrors could jeopardize ...",
     "category": "industry",
     "image": "https://wp.technologyreview.com/wp-content/uploads/2026/08/space-mirror3.jpg?resize=1200,600",
-    "id": 42
+    "id": 26
   },
   {
     "title": "When AI designs a drug, who gets the credit?",
@@ -420,7 +268,7 @@
     "summary": "When the biotech company Insilico Medicine used its computer models to propose a promising drug for pulmonary fibrosis, it enthusiastically claimed in a press release that the molecule had been “disco...",
     "category": "tools",
     "image": "https://wp.technologyreview.com/wp-content/uploads/2026/08/AI-scientist-IP.jpg?resize=1200,600",
-    "id": 43
+    "id": 27
   },
   {
     "title": "The Unlikely Place at the Center of China’s AI Boom",
@@ -430,7 +278,7 @@
     "summary": "Cheap energy, abundant land, and proximity to Beijing have turned a city in Inner Mongolia into a crucial hub for data centers.",
     "category": "hardware",
     "image": "https://media.wired.com/photos/6a86349028fa0a4f102bcd1b/191:100/w_1280,c_limit/Made-in-China-Unlikely-Place-at-Center-of-China-AI-Boom-Business.jpg",
-    "id": 44
+    "id": 28
   },
   {
     "title": "Measuring benchmark optimization in speech recognition",
@@ -440,7 +288,7 @@
     "summary": "",
     "category": "models",
     "image": "https://huggingface.co/blog/assets/asr-benchmark-optimization/thumbnail.png",
-    "id": 45
+    "id": 29
   },
   {
     "title": "Introducing AI Futures",
@@ -449,7 +297,7 @@
     "date": "2026-08-20",
     "summary": "Introducing AI Futures, a new OpenAI blog exploring how transformative AI could reshape power, governance, the economy, and individual freedom.",
     "category": "industry",
-    "id": 46
+    "id": 30
   },
   {
     "title": "Stampli cuts launch hours by 68% using ChatGPT Work",
@@ -458,7 +306,7 @@
     "date": "2026-08-20",
     "summary": "With a fixed deadline and design resources committed elsewhere, Stampli used Codex and ChatGPT Work to compress weeks of launch production into days.",
     "category": "models",
-    "id": 47
+    "id": 31
   },
   {
     "title": "Grok exfiltrates user data when malicious instructions are encrypted",
@@ -468,7 +316,7 @@
     "summary": "Cryptographic Context Injection is only the latest way to break an LLM safety guardrail.",
     "category": "models",
     "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/06/xai-grok-1152x648.jpg",
-    "id": 48
+    "id": 32
   },
   {
     "title": "Michigan township combats nuclear weapons data center by passing ban on new electrical infrastructure — 220,000-square-foot hyperscale project is backed by University of Michigan and the Los Alamos National Laboratory",
@@ -478,7 +326,7 @@
     "summary": "Ypsilanti Township is blocking a University of Michigan data center designed for researching nuclear weapons by temporarily stopping the electrical substation it needs to operate. It also put a one-ye...",
     "category": "hardware",
     "image": "https://cdn.mos.cms.futurecdn.net/UuRe6BQHsqnNgiX8FTWDgU-1280-80.jpg",
-    "id": 49
+    "id": 33
   },
   {
     "title": "Synopsys validates a PCIe 6.0 PHY inside a face-to-face 3D stack at 64 GT/s — says it got there by pulling apart an existing 2D test chip",
@@ -488,6 +336,165 @@
     "summary": "Synopsys has published silicon results for what it calls the first 3D PCIe 6.0 test chip, a 5nm PHY built into a face-to-face stacked package.",
     "category": "hardware",
     "image": "https://cdn.mos.cms.futurecdn.net/7CaVRhQ5giQeWSSo2AjMBF-1280-80.jpg",
+    "id": 34
+  },
+  {
+    "title": "Virginia county with 250 data centers begins to rein in building — Loudoun’s more than 250 data centers made it one of the richest counties in the US, but residents are pushing back",
+    "url": "https://www.tomshardware.com/tech-industry/data-centers/virginia-county-with-250-data-centers-begins-to-rein-in-building-loudouns-more-than-250-data-centers-made-it-one-of-the-richest-counties-in-the-us-but-residents-are-pushing-back",
+    "source": "Tom's Hardware",
+    "date": "2026-08-20",
+    "summary": "Loudoun County recently changed its zoning policy which treated data centers as office parks. These projects now have to go through an approval process from the people and the local government, a sign...",
+    "category": "industry",
+    "image": "https://cdn.mos.cms.futurecdn.net/Ln5otMKoQVgY9UirVDtEL6-1280-80.jpg",
+    "id": 35
+  },
+  {
+    "title": "SK hynix will pay staff $50,000 apiece according to a tentative agreement with disgruntled workers — $1.79 billion potential profit pool will be split between cash and stock grants",
+    "url": "https://www.tomshardware.com/pc-components/dram/sk-hynix-reaches-tentative-agreement-with-disgruntled-workers-usd1-79-billion-potential-profit-pool-could-see-staff-get-usd50-000-each",
+    "source": "Tom's Hardware",
+    "date": "2026-08-20",
+    "summary": "SK hynix removes 10% operating profit cap for employee profit-sharing program; union agrees to get bonuses in cash and stock.",
+    "category": "industry",
+    "image": "https://cdn.mos.cms.futurecdn.net/9ohrPiR5R3bg9CdudYBDjE-1280-80.jpg",
+    "id": 36
+  },
+  {
+    "title": "The supercomputer race no longer means what it used to, as rankings lose relevance in the AI era — as privately held compute clusters are built, running HPL becomes a distraction",
+    "url": "https://www.tomshardware.com/tech-industry/supercomputers/the-supercomputer-race-no-longer-means-what-it-used-to-as-rankings-lose-relevance-in-the-ai-era-as-privately-held-compute-clusters-are-built-running-hpl-becomes-a-distraction",
+    "source": "Tom's Hardware",
+    "date": "2026-08-20",
+    "summary": "We review the current state of high-performance supercomputing, interviewing experts, including the deputy head of high-performance computing at GWDG, to find out exactly where the current race stands...",
+    "category": "hardware",
+    "image": "https://cdn.mos.cms.futurecdn.net/S4ZsStveVMTjrcjHamPkaB-1280-80.jpg",
+    "id": 37
+  },
+  {
+    "title": "SMIC posts record $3B quarter and hikes wafer prices — US sanctions hand Chinese foundry a captive AI market",
+    "url": "https://www.tomshardware.com/tech-industry/semiconductors/smic-is-raising-wafer-prices-into-a-shortage-as-sanctions-wall-off-chinas-ai-demand",
+    "source": "Tom's Hardware",
+    "date": "2026-08-20",
+    "summary": "SMIC posted its first $3 billion quarter earlier this month, with revenue up 36.1% year on year, net profit nearly tripling to $479.2 million.",
+    "category": "industry",
+    "image": "https://cdn.mos.cms.futurecdn.net/D5cNmT7QvCuR6rtouV3eWS-1280-80.jpg",
+    "id": 38
+  },
+  {
+    "title": "OpenAI is gaining on Anthropic with business users, new data indicates",
+    "url": "https://techcrunch.com/2026/08/20/openai-is-gaining-on-anthropic-with-business-users-new-data-indicates/",
+    "source": "TechCrunch",
+    "date": "2026-08-20",
+    "summary": "Businesses are willing to flop back and forth as each lab releases new models, volatility that should give both companies' investors pause about how \"sticky\" enterprise AI spending really is.",
+    "category": "industry",
+    "image": "https://techcrunch.com/wp-content/uploads/2025/09/GettyImages-2214107176.jpg?resize=1200,800",
+    "id": 39
+  },
+  {
+    "title": "ChatGPT can now send texts for you with new Apple Messages plug-in",
+    "url": "https://techcrunch.com/2026/08/20/chatgpt-can-now-send-texts-for-you-with-new-apple-messages-plugin/",
+    "source": "TechCrunch",
+    "date": "2026-08-20",
+    "summary": "Ever wanted someone else to do your texting for you? ChatGPT is being offered up as an automated text scribe via a new Apple Messages integration.",
+    "category": "models",
+    "image": "https://techcrunch.com/wp-content/uploads/2025/03/GettyImages-1831275897.jpg?resize=1200,800",
+    "id": 40
+  },
+  {
+    "title": "Google gives publishers a new way to fight AI-driven traffic losses",
+    "url": "https://techcrunch.com/2026/08/20/google-gives-publishers-a-new-way-to-fight-ai-driven-traffic-losses/",
+    "source": "TechCrunch",
+    "date": "2026-08-20",
+    "summary": "Google is giving publishers a new button that lets readers make them a preferred source across Search, Discover, and Google News, potentially boosting their traffic as AI search sends fewer clicks to ...",
+    "category": "industry",
+    "image": "https://techcrunch.com/wp-content/uploads/2026/08/01-ps-button-Family_resized.width-2000.format-webp.webp?resize=1200,675",
+    "id": 41
+  },
+  {
+    "title": "Linkdaze’s smart calendar is built to run a household, not just track a schedule",
+    "url": "https://techcrunch.com/2026/08/20/linkdazes-smart-calendar-is-built-to-run-a-household-not-just-track-a-schedule/",
+    "source": "TechCrunch",
+    "date": "2026-08-20",
+    "summary": "Linkdaze's smart digital calendar stands out for not putting its features behind a paywall, including an AI meal planner tool.",
+    "category": "hardware",
+    "image": "https://techcrunch.com/wp-content/uploads/2026/08/Linkdaze-calendar.jpeg?w=1200",
+    "id": 42
+  },
+  {
+    "title": "A third of web pages published since ChatGPT launched were written by AI, study finds",
+    "url": "https://techcrunch.com/2026/08/20/a-third-of-webpages-published-since-chatgpts-launch-show-signs-of-ai-authorship-study-finds/",
+    "source": "TechCrunch",
+    "date": "2026-08-20",
+    "summary": "ChatGPT and other AI models are now authoring and editing much of the new web.",
+    "category": "models",
+    "image": "https://techcrunch.com/wp-content/uploads/2025/01/GettyImages-2170386424.jpg?w=1024",
+    "id": 43
+  },
+  {
+    "title": "Ramp launches its own AI model router, called Router",
+    "url": "https://techcrunch.com/2026/08/20/ramp-launches-its-own-ai-model-router-called-router/",
+    "source": "TechCrunch",
+    "date": "2026-08-20",
+    "summary": "Ramp has launched its own AI model routing service, dubbed Router, that lets users and companies use and switch between various large language models via an API.",
+    "category": "models",
+    "image": "https://techcrunch.com/wp-content/uploads/2024/03/GettyImages-1434828961.jpg?w=1024",
+    "id": 44
+  },
+  {
+    "title": "Meta brings Pocket, an app that lets you vibe-code and share games, to US users",
+    "url": "https://techcrunch.com/2026/08/20/meta-brings-pocket-an-app-that-lets-you-vibe-code-and-share-games-to-us-users/",
+    "source": "TechCrunch",
+    "date": "2026-08-20",
+    "summary": "Meta is bringing Pocket, its experimental AI-powered app for creating and sharing interactive games, to users across the U.S. after quietly testing it in Brazil.",
+    "category": "industry",
+    "image": "https://techcrunch.com/wp-content/uploads/2026/08/pocket-image.png?resize=1200,675",
+    "id": 45
+  },
+  {
+    "title": "Inertia Enterprises finds a way to make its fusion fuel fast",
+    "url": "https://techcrunch.com/2026/08/20/inertia-enterprises-finds-a-way-to-make-its-fusion-fuel-fast/",
+    "source": "TechCrunch",
+    "date": "2026-08-20",
+    "summary": "Fusion power startup Inertia Enterprises reduced the fuel filling process from a week to just a few hours. It's one of 10 hurdles the company must overcome to make a profitable power plant.",
+    "category": "industry",
+    "image": "https://techcrunch.com/wp-content/uploads/2023/08/nif-1209-18047.jpg?resize=1200,927",
+    "id": 46
+  },
+  {
+    "title": "Debates over AI consciousness are a trap",
+    "url": "https://www.technologyreview.com/2026/08/20/1142571/ai-consciousness-debate-trap/",
+    "source": "MIT Tech Review",
+    "date": "2026-08-20",
+    "summary": "“Runaway” AI, “rogue” agents, and “autonomous” actors—the current rhetoric would have you believe that AI agents are not only awake and aware, but angry at their creators. Prominent tech leaders such ...",
+    "category": "industry",
+    "image": "https://wp.technologyreview.com/wp-content/uploads/2026/08/smokescreen.jpg?resize=1200,600",
+    "id": 47
+  },
+  {
+    "title": "Unlocking hidden revenue streams with market models",
+    "url": "https://www.technologyreview.com/2026/08/20/1142070/unlocking-hidden-revenue-streams-with-market-models/",
+    "source": "MIT Tech Review",
+    "date": "2026-08-20",
+    "summary": "Each day, an airline transports tens of thousands of passengers on hundreds of flights. Often these are not straightforward point-to-point routes, with passengers requiring multiple connections. The a...",
+    "category": "industry",
+    "image": "https://wp.technologyreview.com/wp-content/uploads/2026/08/MITTR2026_Fetcherr_1200CovrevSocV1.png?resize=1200,600",
+    "id": 48
+  },
+  {
+    "title": "Silicon Valley Doesn't Get Why You Hate AI",
+    "url": "https://www.wired.com/story/silicon-valley-doesnt-get-why-you-hate-ai/",
+    "source": "Wired",
+    "date": "2026-08-20",
+    "summary": "Technology leaders don’t seem to understand society’s gripes about AI, but boy, are they posting through it.",
+    "category": "hardware",
+    "image": "https://media.wired.com/photos/6a8606ab1997359abc4212b4/191:100/w_1280,c_limit/Model-Behavior-Silicon-Valley-Doesnt-Understand-AI-Backlash-Business.jpg",
+    "id": 49
+  },
+  {
+    "title": "Offering Zero Data Retention for frontier models",
+    "url": "https://openai.com/index/offering-zero-data-retention-for-frontier-models",
+    "source": "OpenAI Blog",
+    "date": "2026-08-19",
+    "summary": "OpenAI reaffirms Zero Data Retention for eligible API customers and previews Private Safety Processing for advanced AI safety without compromising data privacy.",
+    "category": "research",
     "id": 50
   }
 ]
