@@ -1,13 +1,33 @@
 [
   {
+    "title": "Kids outlearn AI—and we still don’t know why",
+    "url": "https://www.technologyreview.com/2026/08/24/1141740/kids-machines-language-learning/",
+    "source": "MIT Tech Review",
+    "date": "2026-08-24",
+    "summary": "People have been talking to each other for at least 100,000 years, as best we can tell. And in all that time, there has been only one thing in the world that could learn a human language to perfect fl...",
+    "category": "models",
+    "image": "https://wp.technologyreview.com/wp-content/uploads/2026/08/3_HighChair-crop.jpg?resize=1200,600",
+    "id": 1,
+    "featured": true
+  },
+  {
+    "title": "They Dedicated Their Lives to Teaching. Then the Deepfakes Started",
+    "url": "https://www.wired.com/story/teachers-deepfake-ai-students-content/",
+    "source": "Wired",
+    "date": "2026-08-24",
+    "summary": "The deepfake epidemic in schools is affecting more than students. Four teachers tell WIRED about becoming targets of sexualized, AI-generated content—and how difficult it was to find accountability.",
+    "category": "industry",
+    "image": "https://media.wired.com/photos/6a765908081b1adce8ee2226/191:100/w_1280,c_limit/080726-teachers-deepfakes-ai.jpg",
+    "id": 2
+  },
+  {
     "title": "SDAD: Spec-Driven Agentic Development for the AI-Native SDLC",
     "url": "https://arxiv.org/abs/2608.20341",
     "source": "arXiv cs.AI",
     "date": "2026-08-24",
     "summary": "Frontier coding agents backed by large language models with context windows from hundreds of thousands to millions of tokens are restructuring the Software Development Life Cycle (SDLC). Rich context ...",
     "category": "research",
-    "id": 1,
-    "featured": true
+    "id": 3
   },
   {
     "title": "PrimeAgentOrchestrator: Memory-Primed Agent Spawning for Personal AI Infrastructure",
@@ -16,7 +36,7 @@
     "date": "2026-08-24",
     "summary": "Large language model (LLM) coding agents start each session with an empty context window, discarding accumulated knowledge from prior work. We present PrimeAgentOrchestrator (PAO), a system that spawn...",
     "category": "models",
-    "id": 2
+    "id": 4
   },
   {
     "title": "Truth Lies Deep: Countering Semantic Camouflage via Latent Intent Verification",
@@ -25,7 +45,7 @@
     "date": "2026-08-24",
     "summary": "Safety alignment in Large Language Models (LLMs) is often superficial, relying on refusal mechanisms that trigger only at the final stages of generation without erasing the foundational knowledge of h...",
     "category": "models",
-    "id": 3
+    "id": 5
   },
   {
     "title": "A Survey on Foundations and Frontiers of Multimodal Agentic Frameworks: Techniques and Applications",
@@ -34,7 +54,7 @@
     "date": "2026-08-24",
     "summary": "Advances in large language models (LLMs) have fueled a wave of research into agency: the ability to reason, plan, and act. This effort has produced agentic frameworks that orchestrate perception, memo...",
     "category": "models",
-    "id": 4
+    "id": 6
   },
   {
     "title": "Interpretable Multimodal Classification with Linear Discriminant Tree Ensembles",
@@ -43,7 +63,7 @@
     "date": "2026-08-24",
     "summary": "Multimodal affect and behaviour classifiers that fuse heterogeneous text, audio, and visual streams must simultaneously achieve competitive accuracy and produce human-understandable explanations of th...",
     "category": "models",
-    "id": 5
+    "id": 7
   },
   {
     "title": "Representation Affects Retrieval: A Case Study of Skill Discovery and Routing in a Multimodal Agent Harness",
@@ -52,7 +72,7 @@
     "date": "2026-08-24",
     "summary": "A production agent harness must discover and rank, from a growing library of skills, the one most appropriate for a user's task. At small scale this selection happens in context: the LLM planner choos...",
     "category": "models",
-    "id": 6
+    "id": 8
   },
   {
     "title": "Nexus: Depth-Adaptive KV-Cache Splicing and Retrieval-Decoupled Tool Routing for Agentic LLMs on Unified Memory",
@@ -61,7 +81,7 @@
     "date": "2026-08-24",
     "summary": "Agentic large language models (LLMs) on the Model Context Protocol (MCP) re-encode verbose tool schemas every turn, so prefill - quadratic in sequence length - dominates time-to-first-token (TTFT) as ...",
     "category": "models",
-    "id": 7
+    "id": 9
   },
   {
     "title": "Environmental Slow AI: Design Principles for Generative Systems",
@@ -70,7 +90,7 @@
     "date": "2026-08-24",
     "summary": "Generative AI (genAI) systems produce cultural artefacts at scale, but they also reflect embedded cultural values through their design. Once identified, these values become open to deliberate reshapin...",
     "category": "research",
-    "id": 8
+    "id": 10
   },
   {
     "title": "When Retrieval Fails Before It Begins: Structurally Indirect Prerequisite Eviction as a Retention Failure in Agentic Memory",
@@ -79,7 +99,7 @@
     "date": "2026-08-24",
     "summary": "Agentic memory under a fixed budget involves two stages: retention and retrieval. Existing retrieval-centered paradigms implicitly assume necessary evidence survives eviction, but we challenge this by...",
     "category": "models",
-    "id": 9
+    "id": 11
   },
   {
     "title": "World models of environment, agent and joint agent-environment systems",
@@ -88,7 +108,7 @@
     "date": "2026-08-24",
     "summary": "World models are a central component of model-based reinforcement learning. They are usually discussed in terms of what variables they predict, such as observations, rewards, states, latent or informa...",
     "category": "research",
-    "id": 10
+    "id": 12
   },
   {
     "title": "StateSight: Benchmarking Latent Spatial-State Reconstruction in Vision-Language Models",
@@ -97,7 +117,7 @@
     "date": "2026-08-24",
     "summary": "Vision-language models are increasingly used for multimodal question answering, yet their ability to reconstruct latent spatial structure from a single image remains difficult to isolate. Broad benchm...",
     "category": "models",
-    "id": 11
+    "id": 13
   },
   {
     "title": "Categorical AI phenomenology: A first-person approach",
@@ -106,7 +126,7 @@
     "date": "2026-08-24",
     "summary": "This paper develops a phenomenology-first approach to artificial consciousness by reframing consciousness as the subjective experience enacted through an agent's interface with the world. We shift the...",
     "category": "research",
-    "id": 12
+    "id": 14
   },
   {
     "title": "Who Delegates to AI? Evidence from 53,000 Agent Configurations",
@@ -115,7 +135,7 @@
     "date": "2026-08-24",
     "summary": "A growing literature measures how far occupations are exposed to AI, but these measures capture where AI could perform tasks, not whether workers have adopted it. We propose a new layer of exposure, d...",
     "category": "hardware",
-    "id": 13
+    "id": 15
   },
   {
     "title": "STCO: Conditional Neural Operators for Time-Dependent PDEs",
@@ -124,7 +144,7 @@
     "date": "2026-08-24",
     "summary": "Neural operators have emerged as efficient surrogates for time-dependent physical systems governed by partial differential equations (PDEs), but their future-state predictions are often conditioned on...",
     "category": "models",
-    "id": 14
+    "id": 16
   },
   {
     "title": "Terminal Agents: A Survey of AI Agents in Command-Line Environments",
@@ -133,7 +153,7 @@
     "date": "2026-08-24",
     "summary": "Large language model agents increasingly act through terminals, yet existing surveys disperse terminal-mediated behavior across software engineering, tool use, and computer-use research. We regard ter...",
     "category": "research",
-    "id": 15
+    "id": 17
   },
   {
     "title": "Lost in Translation: How Universal Ethical Values Fail to Translate Across Global Contexts",
@@ -142,7 +162,7 @@
     "date": "2026-08-24",
     "summary": "AI ethics frameworks treat values such as fairness, transparency, and accountability as universal and uniformly operationalizable across contexts. We examined how 14 experts across 10 countries made s...",
     "category": "tools",
-    "id": 16
+    "id": 18
   },
   {
     "title": "A Temporal Planning Approach for Intelligent Flood Response",
@@ -151,7 +171,7 @@
     "date": "2026-08-24",
     "summary": "Effective response to multiple, simultaneously flooded areas requires coordinating appropriate actions in the correct temporal order, under severe resource constraints. Automated planning provides a f...",
     "category": "hardware",
-    "id": 17
+    "id": 19
   },
   {
     "title": "FL-MAESTRO: Multi-Agent LLM Orchestration for Resource-Constrained Federated Learning",
@@ -160,7 +180,7 @@
     "date": "2026-08-24",
     "summary": "In Federated Learning (FL), the communication topology is a runtime variable rather than a fixed design choice, since links and edge devices drop in and out during training. Each round, the server mus...",
     "category": "models",
-    "id": 18
+    "id": 20
   },
   {
     "title": "Volumetric Radiology AI in the Era of Multimodal Large Language Models",
@@ -169,7 +189,7 @@
     "date": "2026-08-24",
     "summary": "Advances in multimodal large language models (MLLMs) are extending radiological artificial intelligence (AI) beyond task-specific image analysis toward multimodal understanding and reasoning. Volumetr...",
     "category": "models",
-    "id": 19
+    "id": 21
   },
   {
     "title": "Consilience: Conformally Calibrated Communication Control for Hidden-Profile Multi-Agent Reasoning",
@@ -178,7 +198,7 @@
     "date": "2026-08-24",
     "summary": "Multi-agent LLM systems can improve reasoning by pooling diverse perspectives, but their effectiveness depends on coordinating communication, particularly in hidden-profile settings where each agent h...",
     "category": "models",
-    "id": 20
+    "id": 22
   },
   {
     "title": "Open-Weight Masked Introspection: Measuring What Language Models Can Report About Their Own Computation",
@@ -187,7 +207,7 @@
     "date": "2026-08-24",
     "summary": "Are frontier models able to introspect about their internal states? Recent work suggests that under certain conditions a complex enough model can audit its own internals, call out what changed, and re...",
     "category": "models",
-    "id": 21
+    "id": 23
   },
   {
     "title": "FlavourBench: Ranking Frontier Language Models with Executable Culinary Ground Truth",
@@ -196,7 +216,7 @@
     "date": "2026-08-24",
     "summary": "Open-ended language-model benchmarks usually inherit a judge: a human preference panel, another model, or a brittle exact-match key. We introduce FlavourBench, an automated benchmark in which a versio...",
     "category": "models",
-    "id": 22
+    "id": 24
   },
   {
     "title": "Difficulty-Aware Semantic-ID Optimization for Generative Recommendation",
@@ -205,7 +225,7 @@
     "date": "2026-08-24",
     "summary": "Semantic-ID-based generative recommendation casts retrieval and ranking as autoregressive generation over hierarchical item identifiers. A common recipe is SFT followed by GRPO, yet vanilla GRPO is po...",
     "category": "models",
-    "id": 23
+    "id": 25
   },
   {
     "title": "Evaluating Skills, Not Just Agents: Agentic Continuous Evaluation of Skills",
@@ -214,7 +234,7 @@
     "date": "2026-08-24",
     "summary": "Enterprise agent programs are moving from prototypes into production, where reusable skills, tools, and workflow packages must be reviewed with evidence rather than prose. Current gates often scan the...",
     "category": "tools",
-    "id": 24
+    "id": 26
   },
   {
     "title": "Dual-Cache Latent Space Communication between Heterogeneous Language Models",
@@ -223,7 +243,7 @@
     "date": "2026-08-24",
     "summary": "Multi-agent LLM systems split work across models, so answering often requires knowledge that sits in another agent's context: a Sharer has encoded information that a Receiver needs to complete its tas...",
     "category": "models",
-    "id": 25
+    "id": 27
   },
   {
     "title": "Applying Anthropic Primitives at Large Enterprises: Harness Paradigm for Knowledge Work",
@@ -232,7 +252,7 @@
     "date": "2026-08-24",
     "summary": "Frontier models have collapsed the cost of writing custom code: a niche problem a specialist sees in their own domain now costs an afternoon. The cost of reviewing and maintaining that code hasn't col...",
     "category": "tools",
-    "id": 26
+    "id": 28
   },
   {
     "title": "SAGE: A Unified Algebra and Self-Adaptive Execution for AI Functions in SQL",
@@ -241,7 +261,7 @@
     "date": "2026-08-24",
     "summary": "SQL systems increasingly expose AI functions for tasks such as classification, extraction, filtering, ranking, retrieval, joining, and summarization. Despite their diverse APIs, these functions play o...",
     "category": "tools",
-    "id": 27
+    "id": 29
   },
   {
     "title": "Weighted Memory Tree: Remembering What Matters for Long-Horizon LLM Agents",
@@ -250,7 +270,7 @@
     "date": "2026-08-24",
     "summary": "Large language model (LLM) agents have demonstrated the ability to solve multi-step tasks requiring planning, tool use, and external information access, yet growing execution histories increase infere...",
     "category": "models",
-    "id": 28
+    "id": 30
   },
   {
     "title": "Beyond Effectiveness: A Multi-Criteria Framework for Comparing Practical Socio-Technical Interventions",
@@ -259,7 +279,7 @@
     "date": "2026-08-24",
     "summary": "Designers and policymakers in sociotechnical domains like content moderation, privacy interfaces, recommender systems and beyond, must choose among a growing menu of proposed interventions, but typica...",
     "category": "industry",
-    "id": 29
+    "id": 31
   },
   {
     "title": "Auditable by Construction: An Ontology-Driven Framework for Trustworthy LLM Analytics in Enterprise Finance",
@@ -268,7 +288,7 @@
     "date": "2026-08-24",
     "summary": "Enterprise adoption of large language models in finance is constrained less by fluency than by trust: in Financial Planning and Analysis (FP&A) and other regulated workflows, an answer is usable only ...",
     "category": "models",
-    "id": 30
+    "id": 32
   },
   {
     "title": "DreamBench-SWE: A Multi-Session Memory-Hygiene Benchmark for Software Agents",
@@ -277,7 +297,7 @@
     "date": "2026-08-24",
     "summary": "DreamBench-SWE is a multi-session benchmark for software-agent memory hygiene in which later software tasks depend on non-inferable evidence from earlier sessions and are scored by executable hidden o...",
     "category": "research",
-    "id": 31
+    "id": 33
   },
   {
     "title": "Why2Speak: Faithful Reasoning for Abstaining Action Policies",
@@ -286,7 +306,7 @@
     "date": "2026-08-24",
     "summary": "Many agentic systems must repeatedly choose between acting and abstaining, making faithful reasoning important for oversight: an explanation is useful only if it reflects the computation that produced...",
     "category": "research",
-    "id": 32
+    "id": 34
   },
   {
     "title": "CDRL: Certification-Driven Reinforcement Learning for Neutrino Flavor Model Discovery",
@@ -295,7 +315,7 @@
     "date": "2026-08-24",
     "summary": "Many scientific discovery problems require searching combinatorial hypothesis spaces under complex domain constraints. Reinforcement learning (RL) offers a promising approach, but existing methods rel...",
     "category": "research",
-    "id": 33
+    "id": 35
   },
   {
     "title": "VortexChat: An agentic framework for autonomous multi-objective integrated photonic design",
@@ -304,7 +324,7 @@
     "date": "2026-08-24",
     "summary": "The advancement of modern integrated photonics is frequently bottlenecked by device design workflows that rely heavily on manual simulation and expert intuition. While inverse design offers an alterna...",
     "category": "models",
-    "id": 34
+    "id": 36
   },
   {
     "title": "DirEAG: Dirichlet Evidence Aggregation for Calibrating Verbalized Confidence in Mathematical Reasoning",
@@ -313,7 +333,7 @@
     "date": "2026-08-24",
     "summary": "Reliable confidence estimation is essential for using large language models in mathematical reasoning, but black-box verbalized confidence is difficult to calibrate. When the same problem is queried u...",
     "category": "models",
-    "id": 35
+    "id": 37
   },
   {
     "title": "Calibrating Criterion Revision in LLM Agents: Failure Modes and a Trace-Anchored Protocol",
@@ -322,7 +342,7 @@
     "date": "2026-08-24",
     "summary": "Language-model agents can improve after failure or carry text across episodes without revising what counts as success. We study the narrower attribution problem of criterion revision: when criterion K...",
     "category": "models",
-    "id": 36
+    "id": 38
   },
   {
     "title": "ForeTime-VLA: Causal Future-Token Distillation from a World Action Model for Conveyor-Belt Manipulation",
@@ -331,7 +351,7 @@
     "date": "2026-08-24",
     "summary": "Manipulating moving objects requires a policy to anticipate contact events, yet vision-language-action (VLA) policies are commonly fine-tuned from the current observation alone. World action models (W...",
     "category": "models",
-    "id": 37
+    "id": 39
   },
   {
     "title": "Continuous-Time Quantum Walks based Graph Neural Network",
@@ -340,7 +360,7 @@
     "date": "2026-08-24",
     "summary": "Graph Neural Networks (GNNs) are widely used on graph-structured data, but most suffer from two key weaknesses. First, message passing behaves as a low-pass filter under the homophily assumption, lead...",
     "category": "industry",
-    "id": 38
+    "id": 40
   },
   {
     "title": "Is Multimodal Speculative Decoding Ready for Diffusion-Based Parallel Drafting? A Survey and Empirical Diagnosis",
@@ -349,7 +369,7 @@
     "date": "2026-08-24",
     "summary": "Speculative decoding accelerates autoregressive generation by allowing a lightweight drafter to propose future tokens while a target model verifies them in parallel. Its lossless guarantee has motivat...",
     "category": "research",
-    "id": 39
+    "id": 41
   },
   {
     "title": "Natural-Language-Guided Generator-Agnostic Shortlisting for Protein Binder Design",
@@ -358,7 +378,7 @@
     "date": "2026-08-24",
     "summary": "Modern de novo design workflows generate many candidate protein binders, but wet-lab validation capacity remains limited, making shortlisting a major bottleneck. We study whether LLMs can generate mul...",
     "category": "research",
-    "id": 40
+    "id": 42
   },
   {
     "title": "Beyond Endpoint Gains: A Weight-Delta Audit of Medical Specialization",
@@ -367,7 +387,7 @@
     "date": "2026-08-24",
     "summary": "Specialist language models are usually understood through endpoint gains: the generalist scores lower, the specialist scores higher, and the difference is treated as evidence of specialization. This l...",
     "category": "models",
-    "id": 41
+    "id": 43
   },
   {
     "title": "CAS: Conformalized Agentic Search via Adaptive Retrieval and Policy Weighting",
@@ -376,7 +396,7 @@
     "date": "2026-08-24",
     "summary": "Search Agents face a severe reliability crisis during reinforcement learning (RL) fine-tuning. Heuristic Top-K retrieval often causes critical evidence loss or noise inclusion, while over-confidence i...",
     "category": "research",
-    "id": 42
+    "id": 44
   },
   {
     "title": "Structure for Reading, Prose for Writing: Asymmetric Structural Conditioning in Multi-Agent Document Authoring",
@@ -385,7 +405,7 @@
     "date": "2026-08-24",
     "summary": "Multi-agent pipelines that author formal documents must both read a requester's forms and write against them. We report a deployed tender-response system, running an open-weights model under sovereign...",
     "category": "models",
-    "id": 43
+    "id": 45
   },
   {
     "title": "Knowing but Not Saying: Preventing Factual Access Failures in LLM SFT via Recall-Anchored Distillation",
@@ -394,7 +414,7 @@
     "date": "2026-08-24",
     "summary": "Supervised fine-tuning (SFT) can degrade factual behavior outside the target domain. This degradation is often described as catastrophic forgetting, yet open-ended factual failures do not necessarily ...",
     "category": "models",
-    "id": 44
+    "id": 46
   },
   {
     "title": "Automated Trajectory Evaluation for Mobile Agents via Step-Level Consequence Reasoning and Aggregation",
@@ -403,7 +423,7 @@
     "date": "2026-08-24",
     "summary": "Evaluating language-guided mobile agents has recently shifted from rule-based to model-based approaches to achieve scalable and automated assessments. However, existing holistic evaluation paradigms p...",
     "category": "research",
-    "id": 45
+    "id": 47
   },
   {
     "title": "Dynamic Context Scheduling: Learning Beyond the Static Universe",
@@ -412,7 +432,7 @@
     "date": "2026-08-24",
     "summary": "We study dynamic context scheduling as a training instrument for contextual re- inforcement learning. Rather than treating intra-episode context variation as a deployment reality, we treat it as a con...",
     "category": "tools",
-    "id": 46
+    "id": 48
   },
   {
     "title": "SPARC: Single-Pass Scaling for Motion Forecasting with Conformal Bayesian Last Layers",
@@ -421,7 +441,7 @@
     "date": "2026-08-24",
     "summary": "Human motion forecasters are increasingly accurate and fast, but reliable deployment requires uncertainty estimates that are structured, calibrated, and efficient. Bayesian and ensemble-based uncertai...",
     "category": "models",
-    "id": 47
+    "id": 49
   },
   {
     "title": "Neuro-Geospatial Modelling of EEG Affective States Using Literature-Informed Environmental Context",
@@ -430,24 +450,6 @@
     "date": "2026-08-24",
     "summary": "Environmental exposures such as air pollution and greenness have been associated with affective and cognitive outcomes, but EEG and environmental datasets are rarely jointly georeferenced. We investig...",
     "category": "models",
-    "id": 48
-  },
-  {
-    "title": "Certified Multi-Turn Robustness for LLM Safety via Compositional Bounds and Safety Persistence",
-    "url": "https://arxiv.org/abs/2608.20820",
-    "source": "arXiv cs.AI",
-    "date": "2026-08-24",
-    "summary": "Large language models (LLMs) are vulnerable to multi-turn jailbreak attacks that progressively manipulate conversation context. Existing certified robustness methods are limited to single-turn inputs;...",
-    "category": "research",
-    "id": 49
-  },
-  {
-    "title": "Prediction certification cannot replace explanation certification: a competence envelope for trustworthy AI under compound stress",
-    "url": "https://arxiv.org/abs/2608.20825",
-    "source": "arXiv cs.AI",
-    "date": "2026-08-24",
-    "summary": "Artificial intelligence systems increasingly make consequential judgments - which patient is deteriorating, which building is safe to enter, whether an image is authentic and are trusted on the streng...",
-    "category": "hardware",
     "id": 50
   }
 ]
