@@ -11,6 +11,15 @@
     "featured": true
   },
   {
+    "title": "Advancing price-performance for developers with GPT‑5.6 in Kiro",
+    "url": "https://openai.com/index/gpt-5-6-in-kiro",
+    "source": "OpenAI Blog",
+    "date": "2026-08-24",
+    "summary": "GPT‑5.6 is now available in Kiro, helping developers plan, build, review, and test software with better price-performance.",
+    "category": "models",
+    "id": 2
+  },
+  {
     "title": "With Groq 3 LPX in Full Production, NVIDIA Extends Vera Rubin Inference for Agents",
     "url": "https://blogs.nvidia.com/blog/vera-rubin-lpx-spectrum-x-nvlink-fusion/",
     "source": "NVIDIA Blog",
@@ -18,7 +27,7 @@
     "summary": "The next era of AI inference won’t be defined by a single breakthrough chip, network or system. It’ll be defined by how every layer of the AI factory works together. That’s why NVIDIA is extending Ver...",
     "category": "hardware",
     "image": "https://blogs.nvidia.com/wp-content/uploads/2026/08/HotChips_2026_MKT_KV_Rubin_Rack_Family_Front_comp_4k_V004-2-1-scaled.png",
-    "id": 2
+    "id": 3
   },
   {
     "title": "Up to 30x More Work Per Watt: NVIDIA Vera Rubin NVL72 Sets a New Efficiency Standard for AI Agents",
@@ -28,17 +37,27 @@
     "summary": "According to OpenRouter data, agentic AI workloads consume 15x more tokens than a simple chat request. Why? Consider what happens when an AI agent researches a company for an investment decision. The ...",
     "category": "hardware",
     "image": "https://blogs.nvidia.com/wp-content/uploads/2026/08/end-to-end-tech-blog-agentic-perf-kv-1920x1080-5555700.jpg",
-    "id": 3
+    "id": 4
   },
   {
-    "title": "Hot Chips 2026: SK hynix pushes hybrid bonding HBM5 as AI memory hits 775-micron ceiling — firm extends MR-MUF through Nvidia Rubin",
+    "title": "Intel Xeon 7 'Diamond Rapids' comes with up to 256 P-cores, 1.28 GB of last-level cache — next-gen 18A-P CPU also brings AVX 10.2 and uses UCIe-S instead of EMIB",
+    "url": "https://www.tomshardware.com/pc-components/cpus/intel-xeon-7-diamond-rapids-comes-with-up-to-256-p-cores-1-28-gb-of-last-level-cache-next-gen-18a-p-cpu-also-brings-avx-10-2-and-uses-ucie-s-instead-of-emib",
+    "source": "Tom's Hardware",
+    "date": "2026-08-24",
+    "summary": "Intel has pulled back the curtain on its next-gen Diamond Rapids Xeon CPUs, packing up to 256 P-cores and 1.28 TB of last-level cache.",
+    "category": "hardware",
+    "image": "https://cdn.mos.cms.futurecdn.net/pBcpzPBFse7fDPPhs8pPyL-1280-80.jpg",
+    "id": 5
+  },
+  {
+    "title": "Hot Chips 2026: SK hynix pushes hybrid bonding to HBM5 as AI memory hits 775-micron ceiling — firm extends MR-MUF through Nvidia Rubin",
     "url": "https://www.tomshardware.com/tech-industry/semiconductors/sk-hynix-says-hybrid-bonding-wont-be-ready-for-hbm4e-as-ai-memory-runs-into-a-775-micron-ceiling",
     "source": "Tom's Hardware",
     "date": "2026-08-24",
     "summary": "The problem, per SK, is that HBM cubes are capped at a total thickness of 775 microns, the standard thickness of a 300mm logic wafer.",
     "category": "hardware",
     "image": "https://cdn.mos.cms.futurecdn.net/9DnrtFAiRKUUZvGY424ZgZ-1280-80.jpg",
-    "id": 4
+    "id": 6
   },
   {
     "title": "Hot Chips 2026: IBM's first dual-ISA core natively executes ARM and z/Architecture in the same core; all cores run at 5.7 GHz base frequency — next-gen mainframe AI processor is built on 2nm node with 11 cores",
@@ -48,7 +67,7 @@
     "summary": "IBM is vastly expanding softwarte support on its mainframes with its first dual-ISA CPU core that natively supports z/Architecture and ARM instructions.",
     "category": "hardware",
     "image": "https://cdn.mos.cms.futurecdn.net/Qb2yqb9epDdxU3XAogoxQL-1280-80.jpg",
-    "id": 5
+    "id": 7
   },
   {
     "title": "Nine indicted by Taiwan over illegal export of Nvidia B300 GPUs to China — details reveal five-point strategy to exploit and avoid customs controls",
@@ -58,7 +77,7 @@
     "summary": "A new report claims nine people have been indicted over the illegal smuggling of Nvidia B300 servers to China.",
     "category": "hardware",
     "image": "https://cdn.mos.cms.futurecdn.net/SZHWJ7Y7TYpgG6i9da6d9E-1280-80.jpg",
-    "id": 6
+    "id": 8
   },
   {
     "title": "Two Intel chips break Amazon's top 10 CPUs for the first time in months — Core Ultra 7 270K and Core i7-14700K finally challenge AMD desktop dominance",
@@ -68,7 +87,7 @@
     "summary": "AMD has dominated the DIY space so thoroughly over the last few years that an Intel chip appearing in the top 10 at all is notable, but it's not really that surprising if you look at the details.",
     "category": "hardware",
     "image": "https://cdn.mos.cms.futurecdn.net/7KQvfZGvqYD7sjeou4kTrU-1280-80.jpg",
-    "id": 7
+    "id": 9
   },
   {
     "title": "Marvell VP pushes for DDR4 recycling for use in CXL memory, amid the worst DRAM shortage in years — company introduces three-tier AI memory infrastructure",
@@ -78,7 +97,7 @@
     "summary": "Marvell has introduced a three-tier \"AI memory infrastructure\" portfolio, announced at FMS 2026 in Santa Clara on August 4.",
     "category": "hardware",
     "image": "https://cdn.mos.cms.futurecdn.net/udFp2ca8Nu9dvCJweZPZEL-1280-80.jpg",
-    "id": 8
+    "id": 10
   },
   {
     "title": "Kyoto University builds transistor that survives 600C temperatures, compatible with standard fabs — Standard ion implantation and bottom-gate design fix leakage and voltage drift",
@@ -88,17 +107,37 @@
     "summary": "A research team at Kyoto University has built a silicon carbide transistor that operates at 600°C (873 K) using ion implantation.",
     "category": "hardware",
     "image": "https://cdn.mos.cms.futurecdn.net/YdZbVjBsghJp5q9fsqEwpT-1280-80.png",
-    "id": 9
+    "id": 11
+  },
+  {
+    "title": "Trump bought SpaceX shares two weeks after blockbuster IPO",
+    "url": "https://techcrunch.com/2026/08/24/trump-bought-spacex-shares-two-weeks-after-blockbuster-ipo/",
+    "source": "TechCrunch",
+    "date": "2026-08-24",
+    "summary": "The president bought when the stock was in the mid-$150 range. SpaceX finished trading on Monday back at its IPO price of $135.",
+    "category": "industry",
+    "image": "https://techcrunch.com/wp-content/uploads/2025/06/GettyImages-2217852528.jpg?resize=1200,800",
+    "id": 12
+  },
+  {
+    "title": "Amjad Masad, CEO and co-founder of Replit, joins the Disrupt Stage at TechCrunch Disrupt 2026",
+    "url": "https://techcrunch.com/2026/08/24/amjad-masad-ceo-and-co-founder-of-replit-joins-the-disrupt-stage-at-techcrunch-disrupt-2026/",
+    "source": "TechCrunch",
+    "date": "2026-08-24",
+    "summary": "At TechCrunch Disrupt 2026, Replit CEO Amjad Masad will share his perspective on the future of programming and Replit's role in developing it.",
+    "category": "tools",
+    "image": "https://techcrunch.com/wp-content/uploads/2026/08/Amjad-Masad-Disrupt-Stage-2026.png?w=1200",
+    "id": 13
   },
   {
     "title": "Instinct’s powerful AI assistant is raising privacy and security concerns",
     "url": "https://techcrunch.com/2026/08/24/instincts-powerful-ai-assistant-is-raising-privacy-and-security-concerns/",
     "source": "TechCrunch",
     "date": "2026-08-24",
-    "summary": "Early testers are raving about what Instinct can do, but some say the AI assistant’s sweeping access, broad terms and ability to act on users’ behalf come with uncomfortable trade-offs",
+    "summary": "Early testers are raving about what Instinct can do, but some say the AI assistant’s sweeping access, broad terms and ability to act on users’ behalf come with uncomfortable trade-offs.",
     "category": "industry",
     "image": "https://techcrunch.com/wp-content/uploads/2023/11/hand-key-illustration-getty.jpg?resize=1200,786",
-    "id": 10
+    "id": 14
   },
   {
     "title": "Valor, Point72 back General Intuition at $6B valuation as AI startup pushes into robotics",
@@ -108,7 +147,7 @@
     "summary": "General Intuition, the startup building a foundation model that trains generalized AI agents how to move through space and time, is in talks to raise at a $6 billion pre-money valuation from new inves...",
     "category": "industry",
     "image": "https://techcrunch.com/wp-content/uploads/2019/03/robocash.jpg?resize=1200,849",
-    "id": 11
+    "id": 15
   },
   {
     "title": "OpenAI is building AI agents for everything. Will everyone use them?",
@@ -118,7 +157,7 @@
     "summary": "Inside the frontier lab’s push to bring AI agents from software engineers to the masses.",
     "category": "industry",
     "image": "https://techcrunch.com/wp-content/uploads/2026/08/Screenshot-2026-08-23-at-8.41.55-PM.png?w=729",
-    "id": 12
+    "id": 16
   },
   {
     "title": "Hugging Face reportedly in talks to be acquired for $13B",
@@ -128,43 +167,6 @@
     "summary": "Hugging Face has reportedly been fielding acquisition offers that would value the company at around $13B. But with the founders' feeling of responsibility to community, doubts arise as to whether a sa...",
     "category": "tools",
     "image": "https://techcrunch.com/wp-content/uploads/2026/07/hugging-face-logo-smartphone.jpg?resize=1200,800",
-    "id": 13
-  },
-  {
-    "title": "Public services are increasingly strained by LLM-written appeals for benefits",
-    "url": "https://arxiv.org/abs/2608.16603",
-    "source": "Hacker News",
-    "date": "2026-08-24",
-    "summary": "Article URL: https://arxiv.org/abs/2608.16603 Comments URL: https://news.ycombinator.com/item?id=49422227 Points: 51 # Comments: 60",
-    "category": "models",
-    "id": 14
-  },
-  {
-    "title": "Coding expertise is going to collapse from AI reliance",
-    "url": "https://larsfaye.com/articles/ai-coding-will-prevent-expertise",
-    "source": "Hacker News",
-    "date": "2026-08-24",
-    "summary": "Article URL: https://larsfaye.com/articles/ai-coding-will-prevent-expertise Comments URL: https://news.ycombinator.com/item?id=49421554 Points: 247 # Comments: 280",
-    "category": "industry",
-    "id": 15
-  },
-  {
-    "title": "OpenAI: GPT 5.6 Sol price reduction (until at least Nov 21)",
-    "url": "https://developers.openai.com/api/docs/pricing",
-    "source": "Hacker News",
-    "date": "2026-08-24",
-    "summary": "Article URL: https://developers.openai.com/api/docs/pricing Comments URL: https://news.ycombinator.com/item?id=49421074 Points: 174 # Comments: 168",
-    "category": "tools",
-    "image": "https://developers.openai.com/og/api/docs/pricing.png",
-    "id": 16
-  },
-  {
-    "title": "We never use AI. For anything",
-    "url": "https://corkmac.app/our-ai-stance/",
-    "source": "Hacker News",
-    "date": "2026-08-24",
-    "summary": "Article URL: https://corkmac.app/our-ai-stance/ Comments URL: https://news.ycombinator.com/item?id=49417313 Points: 74 # Comments: 94",
-    "category": "industry",
     "id": 17
   },
   {
