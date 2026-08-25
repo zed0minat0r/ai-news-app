@@ -1,14 +1,23 @@
 [
   {
-    "title": "Nvidia Jetson Orin-guided Russian AI drone killed three civilians in Ukraine, forensic teams say — first documented case of civilian deaths caused by a Russian drone using fully autonomous targeting",
-    "url": "https://www.tomshardware.com/tech-industry/drones/nvidia-jetson-orin-guided-the-russian-ai-drone-that-killed-three-civilians-in-ukraine-forensic-teams-say",
-    "source": "Tom's Hardware",
+    "title": "Leading Publishers Bring Blockbuster PC Games and Technology to NVIDIA RTX Spark",
+    "url": "https://blogs.nvidia.com/blog/gamescom-rtx-spark-pc-games-technology/",
+    "source": "NVIDIA Blog",
     "date": "2026-08-25",
-    "summary": "A Russian Molniya drone carrying an Nvidia Jetson Orin module killed three civilians at a gas station in Zaporizhzhia last month.",
+    "summary": "NVIDIA is bringing the next wave of RTX gaming to the Gamescom conference running this week in Cologne, Germany, with support for new games, anti-cheat technologies and increased visual quality. Elect...",
     "category": "hardware",
-    "image": "https://cdn.mos.cms.futurecdn.net/YqyE7WKzDBtHaoJrTAM6zg-1280-80.jpg",
+    "image": "https://blogs.nvidia.com/wp-content/uploads/2026/08/Gamescom-RTX-Spark-Key-Visual.jpg",
     "id": 1,
     "featured": true
+  },
+  {
+    "title": "Jalapeño’s first results show industry-leading speed and efficiency in AI inference",
+    "url": "https://openai.com/index/jalapeno-first-results",
+    "source": "OpenAI Blog",
+    "date": "2026-08-25",
+    "summary": "Jalapeño is a custom inference chip from OpenAI that delivers faster, more power-efficient AI inference, with higher throughput and lower latency for modern models.",
+    "category": "hardware",
+    "id": 2
   },
   {
     "title": "Disrupting a new covert influence campaign from Russia",
@@ -17,7 +26,56 @@
     "date": "2026-08-25",
     "summary": "OpenAI banned Russia-origin accounts using AI to promote a fake Israel-based think tank and a “sovereignty” index praising Russia and criticizing the West.",
     "category": "industry",
-    "id": 2
+    "id": 3
+  },
+  {
+    "title": "The full stack behind abundant intelligence",
+    "url": "https://openai.com/index/the-full-stack-behind-abundant-intelligence",
+    "source": "OpenAI Blog",
+    "date": "2026-08-25",
+    "summary": "OpenAI CFO Sarah Friar explains how advances across chips, compute, models, and products compound to deliver more useful intelligence at greater scale and lower cost.",
+    "category": "hardware",
+    "id": 4
+  },
+  {
+    "title": "Hot Chips 2026: Intel dives deep on Crescent Island AI accelerator — larger caches and deeper XMX engines target maximum AI FLOPS per watt",
+    "url": "https://www.tomshardware.com/pc-components/gpus/hot-chips-2026-intel-dives-deep-on-crescent-island-ai-accelerator-larger-caches-and-deeper-xmx-engines-target-maximum-ai-flops-per-watt",
+    "source": "Tom's Hardware",
+    "date": "2026-08-25",
+    "summary": "At Hot Chips 2026, Intel detailed more about its Crescent Island AI accelerator, which uses the Xe3P architecture. The accelerator will use liquid-cooled chips and HBM4 memory to serve inference workl...",
+    "category": "hardware",
+    "image": "https://cdn.mos.cms.futurecdn.net/ShqpHePMqTY4hJfYorP9oa-1280-80.jpg",
+    "id": 5
+  },
+  {
+    "title": "Apple price hikes continue as Mac mini with 16GB RAM and 256GB is now $899 — 1TB storage option adds $500 to entry-level headless system",
+    "url": "https://www.tomshardware.com/desktops/mini-pcs/apple-price-hikes-continue-as-mac-mini-with-16gb-ram-and-256gb-is-now-usd899-1tb-storage-option-adds-usd500-to-entry-level-headless-system",
+    "source": "Tom's Hardware",
+    "date": "2026-08-25",
+    "summary": "Apple's Mac mini and Mac Studio see price hikes, while memory and storage upgrades get even more expensive",
+    "category": "hardware",
+    "image": "https://cdn.mos.cms.futurecdn.net/AvgL7izoWtiF7TwE5q246i-1280-80.jpg",
+    "id": 6
+  },
+  {
+    "title": "Apple launches new M6 and M5 Ultra Apple silicon chips — debuting in new Mac Mini and Mac Studio",
+    "url": "https://www.tomshardware.com/pc-components/cpus/apple-launches-new-m6-and-m5-ultra-apple-silicon-chips-debuting-in-new-mac-mini-and-mac-studio",
+    "source": "Tom's Hardware",
+    "date": "2026-08-25",
+    "summary": "Apple has announced new M6 and M5 Ultra chips, a new Mac mini, and a new Mac Studio.",
+    "category": "hardware",
+    "image": "https://cdn.mos.cms.futurecdn.net/awQhYwcxqWeJ2qNoApRNy3-1280-80.jpg",
+    "id": 7
+  },
+  {
+    "title": "Nvidia Jetson Orin-guided Russian AI drone killed three civilians in Ukraine, forensic teams say — first documented case of civilian deaths caused by a Russian drone using fully autonomous targeting",
+    "url": "https://www.tomshardware.com/tech-industry/drones/nvidia-jetson-orin-guided-the-russian-ai-drone-that-killed-three-civilians-in-ukraine-forensic-teams-say",
+    "source": "Tom's Hardware",
+    "date": "2026-08-25",
+    "summary": "A Russian Molniya drone carrying an Nvidia Jetson Orin module killed three civilians at a gas station in Zaporizhzhia last month.",
+    "category": "hardware",
+    "image": "https://cdn.mos.cms.futurecdn.net/YqyE7WKzDBtHaoJrTAM6zg-1280-80.jpg",
+    "id": 8
   },
   {
     "title": "Hot Chips 2026: Micron warns HBM wafer penalty is widening with every generation — AI memory uses 3x more silicon than DDR5, company says memory wall is 'getting worse' as prices rise",
@@ -27,7 +85,7 @@
     "summary": "Micron Fellow Raghu Sreeramaneni told the Hot Chips 2026 conference that the silicon penalty HBM carries against DDR5 is growing with every generation.",
     "category": "hardware",
     "image": "https://cdn.mos.cms.futurecdn.net/BYt67avi3sTtpfCohBmJhh-1280-80.jpg",
-    "id": 3
+    "id": 9
   },
   {
     "title": "Hot Chips 2026: Nvidia breaks down 88-core Vera CPU — spatial multithreading benchmarked, 1.2 TB/s SOCAMM2 memory, agentic workloads detailed, and more",
@@ -37,7 +95,7 @@
     "summary": "Nvidia has provided more color on its Vera CPU for agentic data centers at Hot Chips 2026, showcasing the benefits of spatial multithreading and the power benefits of the LPDDR5X memory system.",
     "category": "hardware",
     "image": "https://cdn.mos.cms.futurecdn.net/tAXNckhbwBFZknaHqvpJe7-1280-80.jpg",
-    "id": 4
+    "id": 10
   },
   {
     "title": "AI coder gets Doom running on a custom CPU designed by GPT-5.6 Sol — game viewport is overlaid on a pulsing schematic of the CPU in Turing Complete's sandbox environment",
@@ -47,7 +105,7 @@
     "summary": "An AI computing enthusiast has demonstrated Doom running on a custom CPU designed by GPT-5.6 Sol.",
     "category": "models",
     "image": "https://cdn.mos.cms.futurecdn.net/m8WeqAwVHW4DJ8AykHcvTk-1280-80.jpg",
-    "id": 5
+    "id": 11
   },
   {
     "title": "Save $500 on this 1440p-ready gaming PC with an Nvidia GeForce RTX 5070 right now — MSI Codex R2 pre-built drops below $1,500 with a 20-core Intel CPU, 16GB DDR5, and a 1TB SSD",
@@ -57,7 +115,7 @@
     "summary": "This $1,499 MSI Codex R2 gaming PC comes with a $500 saving for a PC with an Nvidia GeForce RTX 5070, 16GB of DDR5 RAM, and a 1TB SSD.",
     "category": "hardware",
     "image": "https://cdn.mos.cms.futurecdn.net/h8H9tdUFAxoAjgBCoJUFS9-1280-80.png",
-    "id": 6
+    "id": 12
   },
   {
     "title": "SpaceXAI will deploy standalone Nvidia Vera CPUs for Grok's agentic workloads — will use optimized Vera Rubin NVL72 in space with Starmind satellite",
@@ -67,7 +125,7 @@
     "summary": "Nvidia claims the chip completes agentic, reinforcement learning, and data processing tasks up to 1.8 times faster than x86 processors.",
     "category": "hardware",
     "image": "https://cdn.mos.cms.futurecdn.net/tAXNckhbwBFZknaHqvpJe7-1280-80.jpg",
-    "id": 7
+    "id": 13
   },
   {
     "title": "Windows veteran's vibe-coded Task Manager now also runs on Mac and Linux — downloadable app is the result of a 107-page spec fed to Claude Code",
@@ -77,7 +135,47 @@
     "summary": "Legendary Windows developer Dave Plummer has been busy finessing his revamped Task Manager, now dubbed TMOG.",
     "category": "tools",
     "image": "https://cdn.mos.cms.futurecdn.net/7ndgbD4kf8HpWSzWyLQHKW-1280-80.jpg",
-    "id": 8
+    "id": 14
+  },
+  {
+    "title": "Gamma acquires Accel-backed design startup Lica",
+    "url": "https://techcrunch.com/2026/08/25/gamma-acquires-accel-backed-design-startup-lica/",
+    "source": "TechCrunch",
+    "date": "2026-08-25",
+    "summary": "Lica co-founders are going to work on Gamma's new research team.",
+    "category": "research",
+    "image": "https://techcrunch.com/wp-content/uploads/2026/08/R6II0507.jpg?resize=1200,960",
+    "id": 15
+  },
+  {
+    "title": "OpenAI’s Jalapeño chip is built for fast inference at scale, benchmarks show",
+    "url": "https://techcrunch.com/2026/08/25/openais-jalapeno-chip-is-built-for-fast-inference-at-scale-benchmarks-show/",
+    "source": "TechCrunch",
+    "date": "2026-08-25",
+    "summary": "Tested on SemiAnalysis’ InferenceX benchmark, Jalapeño registered both more tokens per user and more throughput per kilowatt than the currently available state-of-the art.",
+    "category": "models",
+    "image": "https://techcrunch.com/wp-content/uploads/2026/08/Jalapeno-chip-final.jpeg?resize=1200,900",
+    "id": 16
+  },
+  {
+    "title": "Accel-backed Keenable is indexing the web for AI agents",
+    "url": "https://techcrunch.com/2026/08/25/accel-backed-keenable-is-indexing-the-web-for-ai-agents/",
+    "source": "TechCrunch",
+    "date": "2026-08-25",
+    "summary": "Now exiting stealth mode with a $26 million seed round, Keenable has been building a vast web search index for AI agents.",
+    "category": "industry",
+    "image": "https://techcrunch.com/wp-content/uploads/2026/08/Matthias-Petri-and-Andrey-Styskin-Keenable.jpg?w=1200",
+    "id": 17
+  },
+  {
+    "title": "‘The world seems to be ready’: An interview with OpenAI head of product Thibault Sottiaux",
+    "url": "https://techcrunch.com/2026/08/25/the-world-seems-to-be-ready-an-interview-with-openai-head-of-product-thibault-sottiaux/",
+    "source": "TechCrunch",
+    "date": "2026-08-25",
+    "summary": "TechCrunch talks agents, UX, and reporting to Greg Brockman with OpenAI's head of product.",
+    "category": "industry",
+    "image": "https://techcrunch.com/wp-content/uploads/2026/08/Thibault-headshot.jpg?resize=1200,750",
+    "id": 18
   },
   {
     "title": "Situational Awareness, star AI hedge fund that nearly imploded, now being probed by the SEC",
@@ -87,203 +185,183 @@
     "summary": "The AI hedge fund went from \"the talk of Wall Street\" to \"subject of federal subpoenas\" faster than you can say \"diversify your portfolio.\"",
     "category": "industry",
     "image": "https://techcrunch.com/wp-content/uploads/2024/10/us-securities-and-exchange-commission-sec-logo.jpg?resize=1200,800",
-    "id": 9
-  },
-  {
-    "title": "My experience with LLM-assisted tools in software development",
-    "url": "https://ounapuu.ee/posts/2026/06/08/llm/",
-    "source": "Hacker News",
-    "date": "2026-08-25",
-    "summary": "Article URL: https://ounapuu.ee/posts/2026/06/08/llm/ Comments URL: https://news.ycombinator.com/item?id=49432949 Points: 1 # Comments: 0",
-    "category": "models",
-    "image": "https://ounapuu.ee/posts/2026/06/08/llm/media/cover_hu_86373422f0e8d2d7.jpg",
-    "id": 10
-  },
-  {
-    "title": "Copyrightability of LLM-generated code: Can we license \"vibe code\" into FS?",
-    "url": "https://fsfe.org/news/2026/news-20260825-01.de.html",
-    "source": "Hacker News",
-    "date": "2026-08-25",
-    "summary": "Article URL: https://fsfe.org/news/2026/news-20260825-01.de.html Comments URL: https://news.ycombinator.com/item?id=49432913 Points: 1 # Comments: 0",
-    "category": "models",
-    "image": "https://pics.fsfe.org/uploads/original/6f/ff/1a90fa45453cde7952ba6fcf4fd5.jpg",
-    "id": 11
-  },
-  {
-    "title": "Recent public co filings analyzed: AI not generating profit yet",
-    "url": "https://aiearnings.dev/",
-    "source": "Hacker News",
-    "date": "2026-08-25",
-    "summary": "Article URL: https://aiearnings.dev/ Comments URL: https://news.ycombinator.com/item?id=49432761 Points: 6 # Comments: 1",
-    "category": "industry",
-    "id": 12
-  },
-  {
-    "title": "When AI Writes the Code, Verification Is the New Implementation",
-    "url": "https://sarpex.com/2026/08-verification-is-the-new-implementation",
-    "source": "Hacker News",
-    "date": "2026-08-25",
-    "summary": "Article URL: https://sarpex.com/2026/08-verification-is-the-new-implementation Comments URL: https://news.ycombinator.com/item?id=49432639 Points: 1 # Comments: 0",
-    "category": "industry",
-    "image": "https://sarpex.com/images/posts/verification-is-the-new-implementation/share-card.png",
-    "id": 13
-  },
-  {
-    "title": "Run manual QA test cases in a real browser with an AI agent",
-    "url": "https://github.com/broxhq/qpilot",
-    "source": "Hacker News",
-    "date": "2026-08-25",
-    "summary": "Article URL: https://github.com/broxhq/qpilot Comments URL: https://news.ycombinator.com/item?id=49432514 Points: 1 # Comments: 0",
-    "category": "industry",
-    "image": "https://opengraph.githubassets.com/966f72a35e276a1f2afd410e1fbcc635fa599a369c91c5e52ab88cea4d918350/broxhq/qpilot",
-    "id": 14
-  },
-  {
-    "title": "Show HN: Prelo – a WordPress-style admin for AI-built sites",
-    "url": "https://www.prelo.dev/",
-    "source": "Hacker News",
-    "date": "2026-08-25",
-    "summary": "Article URL: https://www.prelo.dev/ Comments URL: https://news.ycombinator.com/item?id=49432499 Points: 1 # Comments: 0",
-    "category": "industry",
-    "id": 15
-  },
-  {
-    "title": "Show HN: Neither HTML nor Markdown is enough: a way out of the AI doc dilemma",
-    "url": "https://news.ycombinator.com/item?id=49432443",
-    "source": "Hacker News",
-    "date": "2026-08-25",
-    "summary": "A recent post from Anthropic's Claude Code team (\"The Unreasonable Effectiveness of HTML\", https://thariqs.github.io/html-effectiveness/) argued that with today's context windows the bottleneck is hum...",
-    "category": "tools",
-    "id": 16
-  },
-  {
-    "title": "Show HN: Unlose – Windows VSS snapshots before your AI agent deletes your files",
-    "url": "https://github.com/unlose-app/unlose",
-    "source": "Hacker News",
-    "date": "2026-08-25",
-    "summary": "Article URL: https://github.com/unlose-app/unlose Comments URL: https://news.ycombinator.com/item?id=49432434 Points: 1 # Comments: 0",
-    "category": "industry",
-    "image": "https://opengraph.githubassets.com/649511b3a1f2b779a5d314cb626342e8e49c51861b663f7255fc548a015f4f69/unlose-app/unlose",
-    "id": 17
-  },
-  {
-    "title": "Analysis: Can we license LLM generated \"vibe code\" into Free Software?",
-    "url": "https://fsfe.org/news/2026/news-20260825-01.en.html",
-    "source": "Hacker News",
-    "date": "2026-08-25",
-    "summary": "Article URL: https://fsfe.org/news/2026/news-20260825-01.en.html Comments URL: https://news.ycombinator.com/item?id=49432416 Points: 3 # Comments: 0",
-    "category": "models",
-    "image": "https://pics.fsfe.org/uploads/original/6f/ff/1a90fa45453cde7952ba6fcf4fd5.jpg",
-    "id": 18
-  },
-  {
-    "title": "We built a structured entity graph for an AI agent. Then we removed most of it",
-    "url": "https://blog.getcassis.com/context-engineering-for-analytics-agents/",
-    "source": "Hacker News",
-    "date": "2026-08-25",
-    "summary": "Article URL: https://blog.getcassis.com/context-engineering-for-analytics-agents/ Comments URL: https://news.ycombinator.com/item?id=49432253 Points: 1 # Comments: 0",
-    "category": "industry",
-    "image": "https://blog.getcassis.com/_astro/context-engineering-for-analytics-agents.FH-MC4ds.png",
     "id": 19
   },
   {
-    "title": "An Interesting AI Educational Animation Generator",
-    "url": "https://fogsight.ai",
+    "title": "Launching V<Benchmark> by Megaton to Measure Video AI Performance",
+    "url": "https://megaton.ai/v-benchmark",
     "source": "Hacker News",
     "date": "2026-08-25",
-    "summary": "Article URL: https://fogsight.ai Comments URL: https://news.ycombinator.com/item?id=49432188 Points: 2 # Comments: 0",
-    "category": "industry",
-    "image": "https://fogsight.ai/favicon.png",
+    "summary": "Article URL: https://megaton.ai/v-benchmark Comments URL: https://news.ycombinator.com/item?id=49435947 Points: 1 # Comments: 0",
+    "category": "models",
+    "image": "https://storage.googleapis.com/megaton-storage-public/images/og-image.webp",
     "id": 20
   },
   {
-    "title": "SEC reportedly subpoenas Wall St banks over AI hedge fund Situational Awareness",
-    "url": "https://www.cnbc.com/2026/08/25/sec-situational-awareness-hedge-fund-subpoenas.html",
+    "title": "Perplexity and Nvidia to launch a local AI agent with zero token costs",
+    "url": "https://venturebeat.com/infrastructure/perplexity-partners-with-nvidia-to-launch-portable-computer-a-fully-local-ai-agent-with-zero-token-costs",
     "source": "Hacker News",
     "date": "2026-08-25",
-    "summary": "Article URL: https://www.cnbc.com/2026/08/25/sec-situational-awareness-hedge-fund-subpoenas.html Comments URL: https://news.ycombinator.com/item?id=49432014 Points: 2 # Comments: 0",
-    "category": "industry",
-    "image": "https://image.cnbcfm.com/api/v1/image/108342704-1785438454346-dsc_2664.jpg?v=1785438632&w=1920&h=1080",
+    "summary": "Article URL: https://venturebeat.com/infrastructure/perplexity-partners-with-nvidia-to-launch-portable-computer-a-fully-local-ai-agent-with-zero-token-costs Comments URL: https://news.ycombinator.com/...",
+    "category": "hardware",
     "id": 21
   },
   {
-    "title": "We Use AI at Stalwart",
-    "url": "https://stalw.art/blog/how-we-use-ai/",
+    "title": "Show HN: Bay – open-source Render for AI-generated Code",
+    "url": "https://github.com/thebaycloud/bay",
     "source": "Hacker News",
     "date": "2026-08-25",
-    "summary": "Article URL: https://stalw.art/blog/how-we-use-ai/ Comments URL: https://news.ycombinator.com/item?id=49431989 Points: 1 # Comments: 0",
+    "summary": "Article URL: https://github.com/thebaycloud/bay Comments URL: https://news.ycombinator.com/item?id=49435850 Points: 1 # Comments: 0",
     "category": "industry",
-    "image": "https://stalw.art/og/blog/how-we-use-ai.png",
+    "image": "https://opengraph.githubassets.com/f61cb7443b91025d6cce9aaacef5067fb5f7e7a9612a25bc53fb58f086c5bb57/thebaycloud/bay",
     "id": 22
   },
   {
-    "title": "America's immigration policy is driving away future AI leaders",
-    "url": "https://restofworld.org/2026/us-immigration-rules-ai-talent-china/",
+    "title": "Australia's music industry bans AI songs from charts",
+    "url": "https://apnews.com/article/australia-ai-generated-music-charts-ban-aria-9bfb0c91166ae4405a6df1a3c4891687",
     "source": "Hacker News",
     "date": "2026-08-25",
-    "summary": "Article URL: https://restofworld.org/2026/us-immigration-rules-ai-talent-china/ Comments URL: https://news.ycombinator.com/item?id=49431949 Points: 4 # Comments: 0",
+    "summary": "Article URL: https://apnews.com/article/australia-ai-generated-music-charts-ban-aria-9bfb0c91166ae4405a6df1a3c4891687 Comments URL: https://news.ycombinator.com/item?id=49435803 Points: 2 # Comments: ...",
     "category": "industry",
-    "image": "https://restofworld.org/wp-content/uploads/2026/08/illo_immigration_final-1600x900.jpg",
+    "image": "https://dims.apnews.com/dims4/default/bce902c/2147483647/strip/true/crop/4746x3162+0+1/resize/980x653!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2Ffa%2Fab%2Fb36be075b7ec7d126714d246b6c6%2F9a539b41cc0543da9b26795b203176a7",
     "id": 23
   },
   {
-    "title": "KAR AI",
-    "url": "https://karautoresearch.com/",
+    "title": "What if AI coding agents had an engineering constitution?",
+    "url": "https://github.com/NAEOS-foundation/naeos",
     "source": "Hacker News",
     "date": "2026-08-25",
-    "summary": "Article URL: https://karautoresearch.com/ Comments URL: https://news.ycombinator.com/item?id=49431935 Points: 1 # Comments: 0",
-    "category": "research",
-    "image": "https://karautoresearch.com/images/hero-car-v2.jpg",
+    "summary": "Article URL: https://github.com/NAEOS-foundation/naeos Comments URL: https://news.ycombinator.com/item?id=49435773 Points: 1 # Comments: 0",
+    "category": "industry",
+    "image": "https://repository-images.githubusercontent.com/1295447882/33888248-8bac-48ca-aed4-d8aee0e9e00d",
     "id": 24
   },
   {
-    "title": "Copyrightability of LLM-generated code: Can we license \"vibe code\" into Free SW",
-    "url": "https://fsfe.org/news/2026/news-20260825-01.html",
+    "title": "Apple's new desktop computers are designed specifically for local AI development",
+    "url": "https://arstechnica.com/apple/2026/08/with-new-mac-studio-and-mac-mini-apple-leans-hard-into-local-ai-inference/",
     "source": "Hacker News",
     "date": "2026-08-25",
-    "summary": "Article URL: https://fsfe.org/news/2026/news-20260825-01.html Comments URL: https://news.ycombinator.com/item?id=49431829 Points: 2 # Comments: 0",
-    "category": "models",
-    "image": "https://pics.fsfe.org/uploads/original/6f/ff/1a90fa45453cde7952ba6fcf4fd5.jpg",
+    "summary": "Article URL: https://arstechnica.com/apple/2026/08/with-new-mac-studio-and-mac-mini-apple-leans-hard-into-local-ai-inference/ Comments URL: https://news.ycombinator.com/item?id=49435701 Points: 2 # Co...",
+    "category": "industry",
+    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/08/Mac-Studio-2026-1152x648-1787611177.jpg",
     "id": 25
   },
   {
-    "title": "AI Makes Better Software",
-    "url": "https://www.hmans.dev/blog/ai-makes-better-software",
+    "title": "Show HN: Keenable – A different web search API for AI agents",
+    "url": "https://keenable.ai/",
     "source": "Hacker News",
     "date": "2026-08-25",
-    "summary": "Article URL: https://www.hmans.dev/blog/ai-makes-better-software Comments URL: https://news.ycombinator.com/item?id=49431667 Points: 8 # Comments: 2",
-    "category": "industry",
-    "image": "https://hmans.dev/blog/ai-makes-better-software/banner.png",
+    "summary": "Hey HN! We built https://keenable.ai , a different web search API for AI agents. Keenable searches our own 100B+ page index. We are focused on low cost and latency (p95 https://keenableai.github.io/ne...",
+    "category": "models",
+    "image": "https://framerusercontent.com/images/MF3CF0kBuEzH1RlkIXmhQl5Axg.png",
     "id": 26
   },
   {
-    "title": "Why Your Boss Wants to Make Sure AI Can Read Your Slack Messages",
-    "url": "https://www.wsj.com/tech/ai/why-your-boss-wants-to-make-sure-ai-can-read-your-slack-messages-b6c149c1",
+    "title": "Show HN: Hunch – a macOS AI assistant that uses your Mac in the background",
+    "url": "https://www.tryhunch.ca",
     "source": "Hacker News",
     "date": "2026-08-25",
-    "summary": "Article URL: https://www.wsj.com/tech/ai/why-your-boss-wants-to-make-sure-ai-can-read-your-slack-messages-b6c149c1 Comments URL: https://news.ycombinator.com/item?id=49431665 Points: 1 # Comments: 1",
+    "summary": "Article URL: https://www.tryhunch.ca Comments URL: https://news.ycombinator.com/item?id=49435546 Points: 1 # Comments: 0",
     "category": "industry",
+    "image": "https://www.tryhunch.ca/assets/og-hunch.png",
     "id": 27
   },
   {
-    "title": "Cortex – Local context retrieval for AI coding agents",
-    "url": "https://github.com/DanielBlomma/cortex",
+    "title": "Show HN: A hash-chained ledger for AI reasoning you can verify yourself",
+    "url": "https://www.sdi-protocol.org",
     "source": "Hacker News",
     "date": "2026-08-25",
-    "summary": "Article URL: https://github.com/DanielBlomma/cortex Comments URL: https://news.ycombinator.com/item?id=49431653 Points: 1 # Comments: 0",
-    "category": "industry",
-    "image": "https://opengraph.githubassets.com/f46456550f5cde2261ab2c1ce5579c51950d882eb33f1182ab6acfacd98dbf3e/DanielBlomma/cortex",
+    "summary": "SDI protocol defines a reasoning computer for AI. The computer runs an LLM one turn at a time, guiding it through a reasoning grammar; the grammar, which is both natural language and algebraic, allows...",
+    "category": "research",
     "id": 28
   },
   {
-    "title": "200B Tokens Later: A Month of Letting AI Agents Decompile MW2",
-    "url": "https://momo5502.com/posts/2026-08-17-mw2-decompilation/",
+    "title": "Show HN: Skills Wiki – Connect Skills to AI",
+    "url": "https://skillwiki.app",
     "source": "Hacker News",
     "date": "2026-08-25",
-    "summary": "Article URL: https://momo5502.com/posts/2026-08-17-mw2-decompilation/ Comments URL: https://news.ycombinator.com/item?id=49431593 Points: 2 # Comments: 0",
+    "summary": "Article URL: https://skillwiki.app Comments URL: https://news.ycombinator.com/item?id=49435375 Points: 1 # Comments: 1",
     "category": "industry",
-    "image": "https://momo5502.com/posts/2026-08-17-mw2-decompilation/images/cover.png",
     "id": 29
+  },
+  {
+    "title": "Show HN: Rank21 – the AI product outbid board where earlier boosts cost less",
+    "url": "https://outbidlol.ai/",
+    "source": "Hacker News",
+    "date": "2026-08-25",
+    "summary": "Article URL: https://outbidlol.ai/ Comments URL: https://news.ycombinator.com/item?id=49435344 Points: 1 # Comments: 1",
+    "category": "industry",
+    "image": "https://outbidlol.ai/og.png",
+    "id": 30
+  },
+  {
+    "title": "Show HN: Reproduce a cross-company AI agent handoff, including its revocation",
+    "url": "https://github.com/identities-ai/ratify-agent-relay-harness",
+    "source": "Hacker News",
+    "date": "2026-08-25",
+    "summary": "Article URL: https://github.com/identities-ai/ratify-agent-relay-harness Comments URL: https://news.ycombinator.com/item?id=49435248 Points: 3 # Comments: 0",
+    "category": "industry",
+    "image": "https://opengraph.githubassets.com/48900dc0676f36e576d3bcf7fda66762e19be282373d629fa75e5bb1ab0d2262/identities-ai/ratify-agent-relay-harness",
+    "id": 31
+  },
+  {
+    "title": "AI is hitting entry-level jobs hardest, Stanford study finds",
+    "url": "https://arstechnica.com/ai/2026/08/ai-is-hitting-entry-level-jobs-hardest-stanford-study-finds/",
+    "source": "Hacker News",
+    "date": "2026-08-25",
+    "summary": "Article URL: https://arstechnica.com/ai/2026/08/ai-is-hitting-entry-level-jobs-hardest-stanford-study-finds/ Comments URL: https://news.ycombinator.com/item?id=49435147 Points: 14 # Comments: 1",
+    "category": "research",
+    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/08/GettyImages-2211086231-1152x648.jpg",
+    "id": 32
+  },
+  {
+    "title": "Show HN: A daily cartoon contest between AI models, judged blind",
+    "url": "https://comic-cron.com/",
+    "source": "Hacker News",
+    "date": "2026-08-25",
+    "summary": "Comic-cron.com is a daily contest where AI models draw a single panel cartoon about a recent news story and people vote on which are funny. I built it mainly because I love cartoons and news, but this...",
+    "category": "hardware",
+    "image": "https://comic-cron.mobilis.studio/og-image.png",
+    "id": 33
+  },
+  {
+    "title": "Free AI Based Interview Preparation",
+    "url": "https://www.interviewbasecamp.com/",
+    "source": "Hacker News",
+    "date": "2026-08-25",
+    "summary": "Article URL: https://www.interviewbasecamp.com/ Comments URL: https://news.ycombinator.com/item?id=49435067 Points: 1 # Comments: 0",
+    "category": "industry",
+    "image": "https://www.interviewbasecamp.com/branding/apple-touch-icon.png",
+    "id": 34
+  },
+  {
+    "title": "Show HN: Red-team LLM reasoning and agent actions (honest scoring, local-first)",
+    "url": "https://github.com/rudrasatani13/cot-redteam-agent",
+    "source": "Hacker News",
+    "date": "2026-08-25",
+    "summary": "Article URL: https://github.com/rudrasatani13/cot-redteam-agent Comments URL: https://news.ycombinator.com/item?id=49434639 Points: 3 # Comments: 0",
+    "category": "models",
+    "image": "https://opengraph.githubassets.com/8aa1bb15418e36114b9fa5662422c603f58e12ea3e14efda112e7a1b75cbb69a/rudrasatani13/cot-redteam-agent",
+    "id": 35
+  },
+  {
+    "title": "Show HN: Turn any website into a CLI for AI agents (142x fewer tokens than HTML)",
+    "url": "https://github.com/only-cli/oc",
+    "source": "Hacker News",
+    "date": "2026-08-25",
+    "summary": "Article URL: https://github.com/only-cli/oc Comments URL: https://news.ycombinator.com/item?id=49434400 Points: 2 # Comments: 0",
+    "category": "industry",
+    "image": "https://opengraph.githubassets.com/1d7453db4cb48c44dc29235282333e40f489f40a54eecc0acb2eee2fca53588a/only-cli/oc",
+    "id": 36
+  },
+  {
+    "title": "AI assistants need adaptive conversational tempo to be good cognitive companions",
+    "url": "https://woventhought.substack.com/p/ai-assistants-need-adaptive-conversational",
+    "source": "Hacker News",
+    "date": "2026-08-25",
+    "summary": "Article URL: https://woventhought.substack.com/p/ai-assistants-need-adaptive-conversational Comments URL: https://news.ycombinator.com/item?id=49434317 Points: 2 # Comments: 0",
+    "category": "industry",
+    "id": 37
   },
   {
     "title": "The Download: smarter AI in schools, and a robot “carnival” in Shanghai",
@@ -293,7 +371,7 @@
     "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. How to encourage smarter AI use in the classroom Chatbots took...",
     "category": "research",
     "image": "https://wp.technologyreview.com/wp-content/uploads/2026/08/8947cf02-f42b-04bb-03ce-c05c80e44d46.jpg?resize=1200,600",
-    "id": 30
+    "id": 38
   },
   {
     "title": "I spent a day at a robot “carnival” in Shanghai. Here’s what I saw.",
@@ -302,8 +380,8 @@
     "date": "2026-08-25",
     "summary": "Humanoid robots are having a moment in China. The popular machines are part of the country’s strategy to bring artificial intelligence into daily life. Embedding the technology into physical systems—a...",
     "category": "hardware",
-    "image": "https://wp.technologyreview.com/wp-content/uploads/2026/08/DSC_8845-1.jpg?resize=1200,600",
-    "id": 31
+    "image": "https://wp.technologyreview.com/wp-content/uploads/2026/08/DSC_7770-thumb.jpg?resize=1200,600",
+    "id": 39
   },
   {
     "title": "It Should Be Harder to Apply for a Job. No, Really",
@@ -313,7 +391,7 @@
     "summary": "Thanks to a dwindling supply of open roles, “one-click” applications, and the rise of artificial intelligence, it’s easier than ever to apply for a job. We’re all paying the price.",
     "category": "hardware",
     "image": "https://media.wired.com/photos/6a84e66df285f2dc95adad96/191:100/w_1280,c_limit/Recruiters-Want-It-To-Be-Harder-To-Apply-For-a-Job-Business.jpg",
-    "id": 32
+    "id": 40
   },
   {
     "title": "Spirit Airlines Wants to Sell Its Data to Google. Former Flight Attendants Are Freaked Out",
@@ -323,7 +401,7 @@
     "summary": "“It never crossed my mind that they would be so bold as to sell our private data for AI,” says one former Spirit Airlines flight attendant.",
     "category": "industry",
     "image": "https://media.wired.com/photos/6a8c0dfe87be8a9e28b0d0b1/191:100/w_1280,c_limit/GettyImages-2274586366.jpg",
-    "id": 33
+    "id": 41
   },
   {
     "title": "KVBoost: Chunk-Level Key-Value Cache Reuse with Deviation-Guided Recomputation for Efficient Large Language Model Inference",
@@ -332,7 +410,7 @@
     "date": "2026-08-25",
     "summary": "Transformer-based large language models (LLMs) incur high prefill latency because key-value (KV) tensors must be recomputed for each request. Existing prefix-caching systems reduce this cost but requi...",
     "category": "models",
-    "id": 34
+    "id": 42
   },
   {
     "title": "AIREP: A Protocol for Per-Decision Evidence in AI Runtime Governance",
@@ -341,7 +419,7 @@
     "date": "2026-08-25",
     "summary": "A protocol is presented for recording the governance decisions of automated AI runtimes. When a runtime releases, blocks, defers, redacts, or escalates an individual output, AIREP records that decisio...",
     "category": "hardware",
-    "id": 35
+    "id": 43
   },
   {
     "title": "Reviewing Model Collapse and Countermeasures",
@@ -350,7 +428,7 @@
     "date": "2026-08-25",
     "summary": "Driven by massive amounts of web-scale data, generative AI (GenAI) has achieved remarkable progress, enabling various applications in diverse sectors. The advances of GenAI have actuated practitioners...",
     "category": "research",
-    "id": 36
+    "id": 44
   },
   {
     "title": "AI Learning and Conceptual Transfer in the Game of Hidden Rules",
@@ -359,7 +437,7 @@
     "date": "2026-08-25",
     "summary": "This report summarizes the work conducted on the Game of Hidden Rules (GOHR), focusing on reinforcement learning agents trained to infer hidden rules from trial-and-error feedback, representation desi...",
     "category": "models",
-    "id": 37
+    "id": 45
   },
   {
     "title": "LitReview Arena: Evaluating Literature Review Agents with Battle-Style Peer Review Platform",
@@ -368,7 +446,7 @@
     "date": "2026-08-25",
     "summary": "Literature reviews are essential to scientific progress, but rigorously evaluating automatically generated reviews remains difficult because many aspects of research utility depend on expert judgment ...",
     "category": "research",
-    "id": 38
+    "id": 46
   },
   {
     "title": "SchemaRouter: Field-Aware Tool Routing for Efficient Heterogeneous Agentic RAG",
@@ -377,7 +455,7 @@
     "date": "2026-08-25",
     "summary": "Heterogeneous agentic retrieval-augmented generation (RAG) systems increasingly orchestrate external APIs, internal databases, vector stores, and graph stores. Exposing all tool descriptions to an LLM...",
     "category": "models",
-    "id": 39
+    "id": 47
   },
   {
     "title": "RIACT: A Responsible AI System for Personalized Study Habit Tracking and Early Burnout Signal Detection in University Students",
@@ -386,7 +464,7 @@
     "date": "2026-08-25",
     "summary": "Student burnout is highly prevalent in higher education, with reported rates ranging from 12% to over 70% and consistently exceeding those of the working population - yet it is typically identified on...",
     "category": "research",
-    "id": 40
+    "id": 48
   },
   {
     "title": "There Is No Neutral Harness: Modern LLM Leaderboards Are Manufactured by Config-Fragile Items",
@@ -395,7 +473,7 @@
     "date": "2026-08-25",
     "summary": "Multiple-choice benchmarks fix the questions and the correct answers, but not the harness: the order of the options, the wording of the prompt, and whether a language model's answer is read from gener...",
     "category": "models",
-    "id": 41
+    "id": 49
   },
   {
     "title": "Spyre-Accelerated Retrieval-Augmented Generation on IBM LinuxONE: A Cloud-Native Architecture for Secure, High-Throughput Enterprise AI Inference",
@@ -403,78 +481,6 @@
     "source": "arXiv cs.AI",
     "date": "2026-08-25",
     "summary": "Running large language models inside enterprise environments has always bumped up against a practical wall: the data lives in one place, the AI horsepower sits somewhere else, and moving sensitive rec...",
-    "category": "models",
-    "id": 42
-  },
-  {
-    "title": "Hate Speech Classification In Roman Urdu: A Comparative Study On Parameter Efficient Fine-Tuning And Prompt Engineering",
-    "url": "https://arxiv.org/abs/2608.21408",
-    "source": "arXiv cs.AI",
-    "date": "2026-08-25",
-    "summary": "Due to the widespread accessibility of the internet and social media, toxic and hateful con-tent has grown exponentially, causing significant distress and negative societal impacts. Ro-man Urdu, a low...",
-    "category": "models",
-    "id": 43
-  },
-  {
-    "title": "Retrieval-grounded robot program generation and simulation-based correction via Model Context Protocol",
-    "url": "https://arxiv.org/abs/2608.21417",
-    "source": "arXiv cs.AI",
-    "date": "2026-08-25",
-    "summary": "Flexible manufacturing requires industrial robots to be reprogrammed rapidly as product variants change. This paper presents a language-model-based workflow that generates, validates, and iteratively ...",
-    "category": "research",
-    "id": 44
-  },
-  {
-    "title": "Composable Trust Infrastructure for Manufacturing Knowledge Graphs: Cross-System Provenance, Temporal Reasoning, and Decision Traceability",
-    "url": "https://arxiv.org/abs/2608.21418",
-    "source": "arXiv cs.AI",
-    "date": "2026-08-25",
-    "summary": "Manufacturing knowledge graphs that integrate data from heterogeneous industrial systems face a trust deficit: consumers cannot determine whether queried data is valid, whether it was valid when a dec...",
-    "category": "research",
-    "id": 45
-  },
-  {
-    "title": "Evaluating Multimodal Narrative Understanding of Popular Hollywood Films",
-    "url": "https://arxiv.org/abs/2608.21430",
-    "source": "arXiv cs.AI",
-    "date": "2026-08-25",
-    "summary": "Multimodal language models increasingly show promise for enabling the large-scale computational analysis of film, opening up new avenues for learning about film history and the evolution of narrative ...",
-    "category": "models",
-    "id": 46
-  },
-  {
-    "title": "Agentic AI for Safety-critical Multi-drone Systems: Challenges and Opportunities",
-    "url": "https://arxiv.org/abs/2608.21444",
-    "source": "arXiv cs.AI",
-    "date": "2026-08-25",
-    "summary": "Multi-drone systems are increasingly positioned for safety-critical missions such as search and rescue (SAR) and critical infrastructure monitoring. Yet, real-world adoption remains constrained not on...",
-    "category": "research",
-    "id": 47
-  },
-  {
-    "title": "Software Frameworks for Explainable AI in Time Series Classification: A Systematic Review",
-    "url": "https://arxiv.org/abs/2608.21449",
-    "source": "arXiv cs.AI",
-    "date": "2026-08-25",
-    "summary": "Time series arise in a wide range of application domains and are analyzed using machine learning in decision-critical settings. Time series classification (TSC) is one of the most widely studied and r...",
-    "category": "research",
-    "id": 48
-  },
-  {
-    "title": "Enhanced Artificial Neural Networks Using QHAdamW in Air Quality Forecasting",
-    "url": "https://arxiv.org/abs/2608.21463",
-    "source": "arXiv cs.AI",
-    "date": "2026-08-25",
-    "summary": "The study employed an Artificial Neural Network in combination with the optimized Adaptive Moment Estimation (Adam) algorithm, currently the only AQI forecasting model available in the Philippines. Th...",
-    "category": "research",
-    "id": 49
-  },
-  {
-    "title": "Let Credit Follow Computation: Architecture-Aware Credit Transport for Large Language Model Reinforcement Learning",
-    "url": "https://arxiv.org/abs/2608.21501",
-    "source": "arXiv cs.AI",
-    "date": "2026-08-25",
-    "summary": "Credit assignment in large-language-model reinforcement learning (LLM RL) can be separated into three objects: evidence about success, a transport operator that converts this evidence into token-level...",
     "category": "models",
     "id": 50
   }
