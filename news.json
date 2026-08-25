@@ -11,199 +11,237 @@
     "featured": true
   },
   {
+    "title": "Disrupting a new covert influence campaign from Russia",
+    "url": "https://openai.com/index/disrupting-malicious-uses-of-ai-influence-campaign-russia",
+    "source": "OpenAI Blog",
+    "date": "2026-08-25",
+    "summary": "OpenAI banned Russia-origin accounts using AI to promote a fake Israel-based think tank and a “sovereignty” index praising Russia and criticizing the West.",
+    "category": "industry",
+    "id": 2
+  },
+  {
+    "title": "Highest AI benchmarks ≠ adoption stonks",
+    "url": "https://pran.sh/blog/reliable-model-wins",
+    "source": "Hacker News",
+    "date": "2026-08-25",
+    "summary": "Article URL: https://pran.sh/blog/reliable-model-wins Comments URL: https://news.ycombinator.com/item?id=49431136 Points: 1 # Comments: 0",
+    "category": "models",
+    "image": "https://pran.sh/images/blog/worlds-top-model.png",
+    "id": 3
+  },
+  {
+    "title": "Ox Alpha – A mysterious new AI model",
+    "url": "https://oxalpha.com",
+    "source": "Hacker News",
+    "date": "2026-08-25",
+    "summary": "Article URL: https://oxalpha.com Comments URL: https://news.ycombinator.com/item?id=49431119 Points: 2 # Comments: 0",
+    "category": "industry",
+    "image": "https://oxalpha.com/oxalpha.png",
+    "id": 4
+  },
+  {
+    "title": "Sam Altman on AI: 'We've not had the iPhone moment'",
+    "url": "https://www.youtube.com/watch?v=dktlHZOSn5o",
+    "source": "Hacker News",
+    "date": "2026-08-25",
+    "summary": "Article URL: https://www.youtube.com/watch?v=dktlHZOSn5o Comments URL: https://news.ycombinator.com/item?id=49431102 Points: 2 # Comments: 0",
+    "category": "industry",
+    "id": 5
+  },
+  {
+    "title": "Trump's tariffs risk higher prices for AI, video games, cellphones: experts",
+    "url": "https://www.cbc.ca/news/business/trump-tariff-ai-9.7318970",
+    "source": "Hacker News",
+    "date": "2026-08-25",
+    "summary": "Article URL: https://www.cbc.ca/news/business/trump-tariff-ai-9.7318970 Comments URL: https://news.ycombinator.com/item?id=49431045 Points: 4 # Comments: 3",
+    "category": "industry",
+    "id": 6
+  },
+  {
+    "title": "Jensen Huang: Land power and shell – The next critical resource for AI factories",
+    "url": "https://twitter.com/JensenHuang/status/2089331487342829862",
+    "source": "Hacker News",
+    "date": "2026-08-25",
+    "summary": "Article URL: https://twitter.com/JensenHuang/status/2089331487342829862 Comments URL: https://news.ycombinator.com/item?id=49430992 Points: 1 # Comments: 0",
+    "category": "industry",
+    "image": "https://pbs.twimg.com/media/HP7LcKmaQAAo4tT.jpg",
+    "id": 7
+  },
+  {
+    "title": "Abby Steele: An Offline AI Personality Powered by a Local LLM and Chess Engine",
+    "url": "https://www.abbysteele.com",
+    "source": "Hacker News",
+    "date": "2026-08-25",
+    "summary": "Article URL: https://www.abbysteele.com Comments URL: https://news.ycombinator.com/item?id=49430970 Points: 1 # Comments: 0",
+    "category": "models",
+    "id": 8
+  },
+  {
+    "title": "Xiaomi, AI Cube prototype: Multi-chip local LLM powerhouse",
+    "url": "https://me.mashable.com/tech/75268/xiaomi-reveals-ai-cube-prototype-multi-chip-local-llm-powerhouse-takes-aim-at-apples-macs",
+    "source": "Hacker News",
+    "date": "2026-08-25",
+    "summary": "Article URL: https://me.mashable.com/tech/75268/xiaomi-reveals-ai-cube-prototype-multi-chip-local-llm-powerhouse-takes-aim-at-apples-macs Comments URL: https://news.ycombinator.com/item?id=49430951 Po...",
+    "category": "models",
+    "image": "https://sm.mashable.com/mashable_me/seo/default/image-2026-08-25-113940268_589n.jpg",
+    "id": 9
+  },
+  {
+    "title": "Terminal-bench: benchmarks for AI agents in terminal environments",
+    "url": "https://www.tbench.ai/",
+    "source": "Hacker News",
+    "date": "2026-08-25",
+    "summary": "Article URL: https://www.tbench.ai/ Comments URL: https://news.ycombinator.com/item?id=49430706 Points: 2 # Comments: 0",
+    "category": "models",
+    "image": "https://www.tbench.ai/og/ascii-logo-dark-1200x630.png",
+    "id": 10
+  },
+  {
+    "title": "Show HN: Ablo, make your AI app multiplayer",
+    "url": "https://github.com/Abloatai/ablo",
+    "source": "Hacker News",
+    "date": "2026-08-25",
+    "summary": "Agent work is safe today mostly because agents work alone. With one agent, one session and one person working on a task. It's essentially single-player. This changes when a platform has multiple peopl...",
+    "category": "tools",
+    "image": "https://repository-images.githubusercontent.com/1217761671/7ec6dc58-1bbf-4da7-9df6-2aaeb589bda7",
+    "id": 11
+  },
+  {
+    "title": "Has AI Gone Rogue?",
+    "url": "https://calnewport.com/has-ai-gone-rogue/",
+    "source": "Hacker News",
+    "date": "2026-08-25",
+    "summary": "Article URL: https://calnewport.com/has-ai-gone-rogue/ Comments URL: https://news.ycombinator.com/item?id=49430645 Points: 3 # Comments: 0",
+    "category": "industry",
+    "image": "https://calnewport.com/wp-content/uploads/2026/08/Newsletter-Images-6-7-scaled.png",
+    "id": 12
+  },
+  {
+    "title": "Games as the Engine of AI Research",
+    "url": "https://deepmind.google/blog/from-atari-to-eve-online-building-on-15-years-of-ai-research-in-games/",
+    "source": "Hacker News",
+    "date": "2026-08-25",
+    "summary": "Article URL: https://deepmind.google/blog/from-atari-to-eve-online-building-on-15-years-of-ai-research-in-games/ Comments URL: https://news.ycombinator.com/item?id=49430567 Points: 2 # Comments: 0",
+    "category": "research",
+    "image": "https://lh3.googleusercontent.com/ymmK0Dgovn-_MGlnQJffYxKdTe5LAnkAZr-GNnIjiFzsGOAAmOmUDuVACbNgIy-tqrJhGBdaQ_PaElc8EKRKRWtYg4eWx8HVcaVzdYy7hg7Q_8k=w1200-h630-n-nu-rw",
+    "id": 13
+  },
+  {
+    "title": "Dutch lawyer fined €2,300 for using AI-hallucinated citation",
+    "url": "https://nltimes.nl/2026/08/24/dutch-lawyer-fined-eu2300-using-ai-hallucinated-citation",
+    "source": "Hacker News",
+    "date": "2026-08-25",
+    "summary": "Article URL: https://nltimes.nl/2026/08/24/dutch-lawyer-fined-eu2300-using-ai-hallucinated-citation Comments URL: https://news.ycombinator.com/item?id=49430427 Points: 3 # Comments: 5",
+    "category": "research",
+    "image": "https://nltimes.nl/sites/nltimes.nl/files/styles/news_article_full_desktop_2x/public/legacy-nlt/uploads/2014/08/800px-My_Trusty_Gavel_0.jpg?h=1ad46cdc",
+    "id": 14
+  },
+  {
+    "title": "Show HN: I built an AI music generator with some harnesses",
+    "url": "https://onlymusic.ai",
+    "source": "Hacker News",
+    "date": "2026-08-25",
+    "summary": "I’m a developer, and also a music producer. When I work on commercial music, especially songs for ads, I’ve gotten pretty used to using AI music tools as part of the creative process. But I noticed th...",
+    "category": "models",
+    "image": "https://static.onlymusic.ai/uploads/marketing/homepage/v6/og/og-homepage.jpg",
+    "id": 15
+  },
+  {
+    "title": "Show HN: A minimal implementation of LLM output watermarking",
+    "url": "https://github.com/berba-q/gpt-watermark",
+    "source": "Hacker News",
+    "date": "2026-08-25",
+    "summary": "Article URL: https://github.com/berba-q/gpt-watermark Comments URL: https://news.ycombinator.com/item?id=49430302 Points: 2 # Comments: 1",
+    "category": "models",
+    "image": "https://opengraph.githubassets.com/4c4f05831be6a4da0fb360708918a0cb3afac52b362933a7df11c26ab94b74b2/berba-q/gpt-watermark",
+    "id": 16
+  },
+  {
+    "title": "What \"Traceable Lineage\" Requires: A Teardown of the FBI TSC AI Sources Sought",
+    "url": "https://zatona.dev/blog/fbi-tsc-traceable-lineage",
+    "source": "Hacker News",
+    "date": "2026-08-25",
+    "summary": "Article URL: https://zatona.dev/blog/fbi-tsc-traceable-lineage Comments URL: https://news.ycombinator.com/item?id=49430296 Points: 2 # Comments: 0",
+    "category": "industry",
+    "image": "https://zatona.dev/og-image.png",
+    "id": 17
+  },
+  {
+    "title": "Do You Still Need to Read AI Code?",
+    "url": "https://adamtornhill.substack.com/p/controlling-the-uncertainty-machine",
+    "source": "Hacker News",
+    "date": "2026-08-25",
+    "summary": "Article URL: https://adamtornhill.substack.com/p/controlling-the-uncertainty-machine Comments URL: https://news.ycombinator.com/item?id=49430247 Points: 4 # Comments: 2",
+    "category": "industry",
+    "id": 18
+  },
+  {
+    "title": "Free-AI-Tools-Hub.com Launch",
+    "url": "https://news.ycombinator.com/item?id=49430180",
+    "source": "Hacker News",
+    "date": "2026-08-25",
+    "summary": "We have launch our new Free AI Tools website for common people to deal with their routine tasks and job things. From AI Chat to Ai Email writing and AI Songs lyrics, find 42+ tools on 1 website. Comme...",
+    "category": "tools",
+    "id": 19
+  },
+  {
+    "title": "The Download: kids outlearning AI, and space travel agents",
+    "url": "https://www.technologyreview.com/2026/08/24/1142863/the-download-kids-outlearning-ai-space-travel-agents/",
+    "source": "Hacker News",
+    "date": "2026-08-25",
+    "summary": "Article URL: https://www.technologyreview.com/2026/08/24/1142863/the-download-kids-outlearning-ai-space-travel-agents/ Comments URL: https://news.ycombinator.com/item?id=49430133 Points: 1 # Comments:...",
+    "category": "industry",
+    "image": "https://wp.technologyreview.com/wp-content/uploads/2026/08/3_HighChair-crop.jpg?resize=1200,600",
+    "id": 20
+  },
+  {
+    "title": "I found an SSRF in Google's official AI tooling, and how Google reacted",
+    "url": "https://news.ycombinator.com/item?id=49429926",
+    "source": "Hacker News",
+    "date": "2026-08-25",
+    "summary": "Earlier this year I found a server-side request forgery bug in Google's MCP Toolbox, the official server Google publishes for connecting language-model agents to databases and HTTP APIs. I reported it...",
+    "category": "tools",
+    "id": 21
+  },
+  {
     "title": "All AI Data Centers Under Construction Could Emit as Much CO₂ as 24M Cars",
     "url": "https://www.gadgetreview.com/all-ai-data-centers-under-construction-could-emit-as-much-co%e2%82%82-as-24-million-cars",
     "source": "Hacker News",
     "date": "2026-08-25",
-    "summary": "Article URL: https://www.gadgetreview.com/all-ai-data-centers-under-construction-could-emit-as-much-co%e2%82%82-as-24-million-cars Comments URL: https://news.ycombinator.com/item?id=49429903 Points: 1...",
+    "summary": "Article URL: https://www.gadgetreview.com/all-ai-data-centers-under-construction-could-emit-as-much-co%e2%82%82-as-24-million-cars Comments URL: https://news.ycombinator.com/item?id=49429903 Points: 2...",
     "category": "hardware",
     "image": "https://www.gadgetreview.com/wp-content/uploads/data-center-under-Construction-Site-scaled.jpg",
-    "id": 2
+    "id": 22
   },
   {
-    "title": "New technology lets cloud AI models process your data without privacy leaks",
-    "url": "https://plugos.net/blog/2026/08/confidential-ai-how-plugclaw-keeps-your-ai-work-private/",
-    "source": "Hacker News",
+    "title": "I spent a day at a robot “carnival” in Shanghai. Here’s what I saw.",
+    "url": "https://www.technologyreview.com/2026/08/25/1141907/dispatch-shanghai-humanoid-robot-carnival/",
+    "source": "MIT Tech Review",
     "date": "2026-08-25",
-    "summary": "Article URL: https://plugos.net/blog/2026/08/confidential-ai-how-plugclaw-keeps-your-ai-work-private/ Comments URL: https://news.ycombinator.com/item?id=49429691 Points: 4 # Comments: 0",
-    "category": "industry",
-    "image": "https://plugos.net/assets/static/favicon-192x192.GgSX_ec9.webp",
-    "id": 3
-  },
-  {
-    "title": "'Don't ask me to print your ChatGPT birthday card': Hitting back at AI 'slop'",
-    "url": "https://www.bbc.co.uk/news/articles/cq89jpjeq7ko",
-    "source": "Hacker News",
-    "date": "2026-08-25",
-    "summary": "Article URL: https://www.bbc.co.uk/news/articles/cq89jpjeq7ko Comments URL: https://news.ycombinator.com/item?id=49429688 Points: 4 # Comments: 0",
-    "category": "models",
-    "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/4072/live/6ff801d0-9ca4-11f1-a5a0-114ca9d4a1bc.jpg",
-    "id": 4
-  },
-  {
-    "title": "Show HN: CookWing, an AI chef that doesn't hallucinate quantities",
-    "url": "https://play.google.com/store/apps/details?id=com.redwing.vibecooking&hl=en_US",
-    "source": "Hacker News",
-    "date": "2026-08-25",
-    "summary": "Hey HN! I just released Cookwing. This is an AI app that solves the biggest problem I had when I was cooking with ChatGPT : The quantities are often hallucinated. I was curious, so I even built my own...",
-    "category": "research",
-    "id": 5
-  },
-  {
-    "title": "LLMPanel Deploy vLLM to RunPod or Vast.ai Without Kubernetes",
-    "url": "https://llmpanel.io",
-    "source": "Hacker News",
-    "date": "2026-08-25",
-    "summary": "Article URL: https://llmpanel.io Comments URL: https://news.ycombinator.com/item?id=49429521 Points: 1 # Comments: 0",
-    "category": "models",
-    "image": "https://llmpanel.io/og/home.png",
-    "id": 6
-  },
-  {
-    "title": "Surge in AI-assisted complaints putting extra strain on councils and schools",
-    "url": "https://www.bbc.co.uk/news/articles/c2dk6wzjw23o",
-    "source": "Hacker News",
-    "date": "2026-08-25",
-    "summary": "Article URL: https://www.bbc.co.uk/news/articles/c2dk6wzjw23o Comments URL: https://news.ycombinator.com/item?id=49429464 Points: 3 # Comments: 0",
-    "category": "industry",
-    "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/5d33/live/8bab51a0-9fdf-11f1-9c90-a93a719154c7.jpg",
-    "id": 7
-  },
-  {
-    "title": "I made HACKER AI for you vibecoded app",
-    "url": "https://www.netherite.uz",
-    "source": "Hacker News",
-    "date": "2026-08-25",
-    "summary": "Article URL: https://www.netherite.uz Comments URL: https://news.ycombinator.com/item?id=49429426 Points: 1 # Comments: 0",
-    "category": "industry",
-    "image": "https://www.netherite.uz/opengraph-image.png",
-    "id": 8
-  },
-  {
-    "title": "Show HN: When AI Decides What Matters",
-    "url": "https://jasondoyle.ie/whitepapers/when-ai-decides-what-matters/",
-    "source": "Hacker News",
-    "date": "2026-08-25",
-    "summary": "Article URL: https://jasondoyle.ie/whitepapers/when-ai-decides-what-matters/ Comments URL: https://news.ycombinator.com/item?id=49429255 Points: 2 # Comments: 0",
-    "category": "research",
-    "image": "https://jasondoyle.ie/assets/jason-doyle-og.png",
-    "id": 9
-  },
-  {
-    "title": "The AI Verification Bottleneck: Why Writing Code Is No Longer the Hard Part",
-    "url": "https://pragmaticbydefault.com/posts/ai-verification-bottleneck/",
-    "source": "Hacker News",
-    "date": "2026-08-25",
-    "summary": "Article URL: https://pragmaticbydefault.com/posts/ai-verification-bottleneck/ Comments URL: https://news.ycombinator.com/item?id=49429130 Points: 1 # Comments: 0",
-    "category": "research",
-    "image": "https://pragmaticbydefault.com/images/ai-verification-cover.png",
-    "id": 10
-  },
-  {
-    "title": "Darkbloom (decentralized AI inference on Macs)-community security audit findings",
-    "url": "https://github.com/Layr-Labs/d-inference/issues/705",
-    "source": "Hacker News",
-    "date": "2026-08-25",
-    "summary": "Article URL: https://github.com/Layr-Labs/d-inference/issues/705 Comments URL: https://news.ycombinator.com/item?id=49429118 Points: 1 # Comments: 0",
-    "category": "industry",
-    "image": "https://opengraph.githubassets.com/18e429d63b050915fe65bae22f157f3022e1aea25a60a0052134762276020bf6/Layr-Labs/d-inference/issues/705",
-    "id": 11
-  },
-  {
-    "title": "Cloudflare OS: Open-Source Corp AI Platform Built on a Capability-Based Model",
-    "url": "https://www.infoq.com/news/2026/08/cloudflare-os-ai-platform-secure/",
-    "source": "Hacker News",
-    "date": "2026-08-25",
-    "summary": "Article URL: https://www.infoq.com/news/2026/08/cloudflare-os-ai-platform-secure/ Comments URL: https://news.ycombinator.com/item?id=49429032 Points: 1 # Comments: 0",
-    "category": "tools",
-    "id": 12
-  },
-  {
-    "title": "Code maintainability plummets in the AI coding era",
-    "url": "https://leaddev.com/ai/code-maintainability-plummets-in-the-ai-coding-era",
-    "source": "Hacker News",
-    "date": "2026-08-25",
-    "summary": "Article URL: https://leaddev.com/ai/code-maintainability-plummets-in-the-ai-coding-era Comments URL: https://news.ycombinator.com/item?id=49429028 Points: 4 # Comments: 0",
-    "category": "industry",
-    "id": 13
-  },
-  {
-    "title": "Supermicro Super AI Station (GB300, 20 Pflops FP4, 748GB Coherent Memory)",
-    "url": "https://www.supermicro.com/en/accelerators/nvidia/super-ai-station",
-    "source": "Hacker News",
-    "date": "2026-08-25",
-    "summary": "Article URL: https://www.supermicro.com/en/accelerators/nvidia/super-ai-station Comments URL: https://news.ycombinator.com/item?id=49428966 Points: 2 # Comments: 2",
+    "summary": "Humanoid robots are having a moment in China. The popular machines are part of the country’s strategy to bring artificial intelligence into daily life. Embedding the technology into physical systems—a...",
     "category": "hardware",
-    "image": "https://www.supermicro.com/sites/default/files/content_resources/static_resources/accelerators/nvidia/super-ai-station/social-share-super-ai-station-1200x628.jpg",
-    "id": 14
+    "image": "https://wp.technologyreview.com/wp-content/uploads/2026/08/DSC_8845-1.jpg?resize=1200,600",
+    "id": 23
   },
   {
-    "title": "AI algorithm for room temperature superconductor, candidate detected",
-    "url": "https://zenodo.org/records/22073633",
-    "source": "Hacker News",
+    "title": "It Should Be Harder to Apply for a Job. No, Really",
+    "url": "https://www.wired.com/story/applying-for-a-job-is-too-damn-easy/",
+    "source": "Wired",
     "date": "2026-08-25",
-    "summary": "Article URL: https://zenodo.org/records/22073633 Comments URL: https://news.ycombinator.com/item?id=49428877 Points: 1 # Comments: 0",
-    "category": "research",
-    "id": 15
-  },
-  {
-    "title": "Nvidia Is Spending $6B to Build a Powerful U.S. Alternative to Chinese AI",
-    "url": "https://www.wsj.com/tech/ai/nvidia-is-spending-6-billion-to-build-a-powerful-u-s-alternative-to-chinese-ai-c51c38cc",
-    "source": "Hacker News",
-    "date": "2026-08-25",
-    "summary": "Article URL: https://www.wsj.com/tech/ai/nvidia-is-spending-6-billion-to-build-a-powerful-u-s-alternative-to-chinese-ai-c51c38cc Comments URL: https://news.ycombinator.com/item?id=49428631 Points: 7 #...",
+    "summary": "Thanks to a dwindling supply of open roles, “one-click” applications, and the rise of artificial intelligence, it’s easier than ever to apply for a job. We’re all paying the price.",
     "category": "hardware",
-    "id": 16
+    "image": "https://media.wired.com/photos/6a84e66df285f2dc95adad96/191:100/w_1280,c_limit/Recruiters-Want-It-To-Be-Harder-To-Apply-For-a-Job-Business.jpg",
+    "id": 24
   },
   {
-    "title": "Thomson Reuters Standard for High Stakes AI",
-    "url": "https://www.thomsonreuters.com/en-us/posts/innovation/thomson-reuters-standard-for-high-stakes-ai/",
-    "source": "Hacker News",
+    "title": "Spirit Airlines Wants to Sell Its Data to Google. Former Flight Attendants Are Freaked Out",
+    "url": "https://www.wired.com/story/spirit-airlines-wants-to-sell-its-data-to-google-former-flight-attendants-are-freaked-out/",
+    "source": "Wired",
     "date": "2026-08-25",
-    "summary": "Article URL: https://www.thomsonreuters.com/en-us/posts/innovation/thomson-reuters-standard-for-high-stakes-ai/ Comments URL: https://news.ycombinator.com/item?id=49428554 Points: 1 # Comments: 0",
+    "summary": "“It never crossed my mind that they would be so bold as to sell our private data for AI,” says one former Spirit Airlines flight attendant.",
     "category": "industry",
-    "image": "https://www.thomsonreuters.com/en-us/posts/wp-content/uploads/sites/20/2026/05/Untitled-design-3.png",
-    "id": 17
-  },
-  {
-    "title": "IBM Z and LinuxONE Dual-ISA Processor and AI Acceleration at Hot Chips 2026",
-    "url": "https://www.servethehome.com/ibm-z-and-linuxone-dual-isa-processor-and-ai-acceleration-at-hot-chips-2026/",
-    "source": "Hacker News",
-    "date": "2026-08-25",
-    "summary": "Article URL: https://www.servethehome.com/ibm-z-and-linuxone-dual-isa-processor-and-ai-acceleration-at-hot-chips-2026/ Comments URL: https://news.ycombinator.com/item?id=49428514 Points: 3 # Comments:...",
-    "category": "hardware",
-    "image": "https://www.servethehome.com/wp-content/uploads/2026/08/hot-chips-2026-ibm-z-and-linuxone-slide-36.jpg",
-    "id": 18
-  },
-  {
-    "title": "Show HN: PeerPixel, community-powered AI image generation",
-    "url": "https://peerpixel.cc/",
-    "source": "Hacker News",
-    "date": "2026-08-25",
-    "summary": "Article URL: https://peerpixel.cc/ Comments URL: https://news.ycombinator.com/item?id=49428420 Points: 1 # Comments: 0",
-    "category": "industry",
-    "image": "https://peerpixel.cc/icon-512.png",
-    "id": 19
-  },
-  {
-    "title": "Is there a pending AI 'debt bomb' crisis? No. This isn't Enron 2.0",
-    "url": "https://www.theguardian.com/technology/2026/aug/23/ai-debt-bomb-crisis",
-    "source": "Hacker News",
-    "date": "2026-08-25",
-    "summary": "Article URL: https://www.theguardian.com/technology/2026/aug/23/ai-debt-bomb-crisis Comments URL: https://news.ycombinator.com/item?id=49428406 Points: 1 # Comments: 1",
-    "category": "industry",
-    "image": "https://i.guim.co.uk/img/media/b8bc548f5c4725b3beb6f79cb8107d7cff94c655/1267_523_2681_2144/master/2681.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctb3BpbmlvbnMucG5n&enable=upscale&s=4751d5c0d2f4d31b7a7fd52e32f6800f",
-    "id": 20
-  },
-  {
-    "title": "Capture why AI wrote each commit, stored in Git-notes",
-    "url": "https://github.com/surajsrivastav/gitwhy",
-    "source": "Hacker News",
-    "date": "2026-08-25",
-    "summary": "Article URL: https://github.com/surajsrivastav/gitwhy Comments URL: https://news.ycombinator.com/item?id=49428395 Points: 3 # Comments: 1",
-    "category": "industry",
-    "image": "https://opengraph.githubassets.com/4c6c37db103adb200be9d7e95e856bcd9532b2b7b6b27c2ec99b46d659a907e8/surajsrivastav/gitwhy",
-    "id": 21
+    "image": "https://media.wired.com/photos/6a8c0dfe87be8a9e28b0d0b1/191:100/w_1280,c_limit/GettyImages-2274586366.jpg",
+    "id": 25
   },
   {
     "title": "KVBoost: Chunk-Level Key-Value Cache Reuse with Deviation-Guided Recomputation for Efficient Large Language Model Inference",
@@ -212,7 +250,7 @@
     "date": "2026-08-25",
     "summary": "Transformer-based large language models (LLMs) incur high prefill latency because key-value (KV) tensors must be recomputed for each request. Existing prefix-caching systems reduce this cost but requi...",
     "category": "models",
-    "id": 22
+    "id": 26
   },
   {
     "title": "AIREP: A Protocol for Per-Decision Evidence in AI Runtime Governance",
@@ -221,7 +259,7 @@
     "date": "2026-08-25",
     "summary": "A protocol is presented for recording the governance decisions of automated AI runtimes. When a runtime releases, blocks, defers, redacts, or escalates an individual output, AIREP records that decisio...",
     "category": "hardware",
-    "id": 23
+    "id": 27
   },
   {
     "title": "Reviewing Model Collapse and Countermeasures",
@@ -230,7 +268,7 @@
     "date": "2026-08-25",
     "summary": "Driven by massive amounts of web-scale data, generative AI (GenAI) has achieved remarkable progress, enabling various applications in diverse sectors. The advances of GenAI have actuated practitioners...",
     "category": "research",
-    "id": 24
+    "id": 28
   },
   {
     "title": "AI Learning and Conceptual Transfer in the Game of Hidden Rules",
@@ -239,7 +277,7 @@
     "date": "2026-08-25",
     "summary": "This report summarizes the work conducted on the Game of Hidden Rules (GOHR), focusing on reinforcement learning agents trained to infer hidden rules from trial-and-error feedback, representation desi...",
     "category": "models",
-    "id": 25
+    "id": 29
   },
   {
     "title": "LitReview Arena: Evaluating Literature Review Agents with Battle-Style Peer Review Platform",
@@ -248,7 +286,7 @@
     "date": "2026-08-25",
     "summary": "Literature reviews are essential to scientific progress, but rigorously evaluating automatically generated reviews remains difficult because many aspects of research utility depend on expert judgment ...",
     "category": "research",
-    "id": 26
+    "id": 30
   },
   {
     "title": "SchemaRouter: Field-Aware Tool Routing for Efficient Heterogeneous Agentic RAG",
@@ -257,7 +295,7 @@
     "date": "2026-08-25",
     "summary": "Heterogeneous agentic retrieval-augmented generation (RAG) systems increasingly orchestrate external APIs, internal databases, vector stores, and graph stores. Exposing all tool descriptions to an LLM...",
     "category": "models",
-    "id": 27
+    "id": 31
   },
   {
     "title": "RIACT: A Responsible AI System for Personalized Study Habit Tracking and Early Burnout Signal Detection in University Students",
@@ -266,7 +304,7 @@
     "date": "2026-08-25",
     "summary": "Student burnout is highly prevalent in higher education, with reported rates ranging from 12% to over 70% and consistently exceeding those of the working population - yet it is typically identified on...",
     "category": "research",
-    "id": 28
+    "id": 32
   },
   {
     "title": "There Is No Neutral Harness: Modern LLM Leaderboards Are Manufactured by Config-Fragile Items",
@@ -275,7 +313,7 @@
     "date": "2026-08-25",
     "summary": "Multiple-choice benchmarks fix the questions and the correct answers, but not the harness: the order of the options, the wording of the prompt, and whether a language model's answer is read from gener...",
     "category": "models",
-    "id": 29
+    "id": 33
   },
   {
     "title": "Spyre-Accelerated Retrieval-Augmented Generation on IBM LinuxONE: A Cloud-Native Architecture for Secure, High-Throughput Enterprise AI Inference",
@@ -284,7 +322,7 @@
     "date": "2026-08-25",
     "summary": "Running large language models inside enterprise environments has always bumped up against a practical wall: the data lives in one place, the AI horsepower sits somewhere else, and moving sensitive rec...",
     "category": "models",
-    "id": 30
+    "id": 34
   },
   {
     "title": "Hate Speech Classification In Roman Urdu: A Comparative Study On Parameter Efficient Fine-Tuning And Prompt Engineering",
@@ -293,7 +331,7 @@
     "date": "2026-08-25",
     "summary": "Due to the widespread accessibility of the internet and social media, toxic and hateful con-tent has grown exponentially, causing significant distress and negative societal impacts. Ro-man Urdu, a low...",
     "category": "models",
-    "id": 31
+    "id": 35
   },
   {
     "title": "Retrieval-grounded robot program generation and simulation-based correction via Model Context Protocol",
@@ -302,7 +340,7 @@
     "date": "2026-08-25",
     "summary": "Flexible manufacturing requires industrial robots to be reprogrammed rapidly as product variants change. This paper presents a language-model-based workflow that generates, validates, and iteratively ...",
     "category": "research",
-    "id": 32
+    "id": 36
   },
   {
     "title": "Composable Trust Infrastructure for Manufacturing Knowledge Graphs: Cross-System Provenance, Temporal Reasoning, and Decision Traceability",
@@ -311,7 +349,7 @@
     "date": "2026-08-25",
     "summary": "Manufacturing knowledge graphs that integrate data from heterogeneous industrial systems face a trust deficit: consumers cannot determine whether queried data is valid, whether it was valid when a dec...",
     "category": "research",
-    "id": 33
+    "id": 37
   },
   {
     "title": "Evaluating Multimodal Narrative Understanding of Popular Hollywood Films",
@@ -320,7 +358,7 @@
     "date": "2026-08-25",
     "summary": "Multimodal language models increasingly show promise for enabling the large-scale computational analysis of film, opening up new avenues for learning about film history and the evolution of narrative ...",
     "category": "models",
-    "id": 34
+    "id": 38
   },
   {
     "title": "Agentic AI for Safety-critical Multi-drone Systems: Challenges and Opportunities",
@@ -329,7 +367,7 @@
     "date": "2026-08-25",
     "summary": "Multi-drone systems are increasingly positioned for safety-critical missions such as search and rescue (SAR) and critical infrastructure monitoring. Yet, real-world adoption remains constrained not on...",
     "category": "research",
-    "id": 35
+    "id": 39
   },
   {
     "title": "Software Frameworks for Explainable AI in Time Series Classification: A Systematic Review",
@@ -338,7 +376,7 @@
     "date": "2026-08-25",
     "summary": "Time series arise in a wide range of application domains and are analyzed using machine learning in decision-critical settings. Time series classification (TSC) is one of the most widely studied and r...",
     "category": "research",
-    "id": 36
+    "id": 40
   },
   {
     "title": "Enhanced Artificial Neural Networks Using QHAdamW in Air Quality Forecasting",
@@ -347,7 +385,7 @@
     "date": "2026-08-25",
     "summary": "The study employed an Artificial Neural Network in combination with the optimized Adaptive Moment Estimation (Adam) algorithm, currently the only AQI forecasting model available in the Philippines. Th...",
     "category": "research",
-    "id": 37
+    "id": 41
   },
   {
     "title": "Let Credit Follow Computation: Architecture-Aware Credit Transport for Large Language Model Reinforcement Learning",
@@ -356,7 +394,7 @@
     "date": "2026-08-25",
     "summary": "Credit assignment in large-language-model reinforcement learning (LLM RL) can be separated into three objects: evidence about success, a transport operator that converts this evidence into token-level...",
     "category": "models",
-    "id": 38
+    "id": 42
   },
   {
     "title": "Quantifying geographic domain shift to decouple the geospatial transferability of human mobility flow generation models",
@@ -365,7 +403,7 @@
     "date": "2026-08-25",
     "summary": "Human mobility serves as an essential proxy for understanding social, economic, and environmental dynamics in urban systems. Geospatial transferability, which measures a model's capability in a new lo...",
     "category": "research",
-    "id": 39
+    "id": 43
   },
   {
     "title": "A Reproducible, License-Aware Distillation Recipe for CPUDeployable Safety Classification",
@@ -374,7 +412,7 @@
     "date": "2026-08-25",
     "summary": "Deploying a safety layer for large language models on commodity hardware is constrained by the guards available to do it: current open guard models hold between 1 and 9 billion parameters, are oriente...",
     "category": "research",
-    "id": 40
+    "id": 44
   },
   {
     "title": "Robust Lightweight Deep Learning Models for Oral Cancer Screening",
@@ -383,7 +421,7 @@
     "date": "2026-08-25",
     "summary": "Oral cancer is a leading cause of mortality in low-to-middle-income countries, where a shortage of specialists delays diagnosis. While point-of-care screening via smartphones offers a scalable solutio...",
     "category": "research",
-    "id": 41
+    "id": 45
   },
   {
     "title": "Data-Driven Dynamic Algorithm Dispatch with Large Language Models",
@@ -392,7 +430,7 @@
     "date": "2026-08-25",
     "summary": "We introduce a large language model (LLM)-driven approach for generating dynamic algorithmic dispatch heuristics in high-performance linear algebra. By combining prompt engineering with LLaMA 3 and a ...",
     "category": "models",
-    "id": 42
+    "id": 46
   },
   {
     "title": "K-Bench: measuring model performance on real scientific agent requests",
@@ -401,7 +439,7 @@
     "date": "2026-08-25",
     "summary": "Benchmarks for scientific artificial intelligence are mostly written to be scored: multiple-choice questions, curated agent tasks with reference solutions, or simulators with a known generative struct...",
     "category": "models",
-    "id": 43
+    "id": 47
   },
   {
     "title": "Generate in the Chart, Not on the Boundary: Function-Symbol Grounding for Hard Constraints in LTN-GANs",
@@ -410,7 +448,7 @@
     "date": "2026-08-25",
     "summary": "Logic Tensor Network-Enhanced Generative Adversarial Networks (LTN-GANs) inject background knowledge by grounding each logical axiom as a predicate and training the generator to raise its satisfaction...",
     "category": "hardware",
-    "id": 44
+    "id": 48
   },
   {
     "title": "Semantic Compression Trees: Multi-Resolution Knowledge Retrieval via Hierarchical Semantic Residuals",
@@ -419,7 +457,7 @@
     "date": "2026-08-25",
     "summary": "Retrieval-augmented generation relies mostly on flat, fixed-granularity indexes: documents are cut into uniform chunks and retrieved by similarity, discarding the hierarchical structure of the source....",
     "category": "research",
-    "id": 45
+    "id": 49
   },
   {
     "title": "SAEM: Stage-Aware Expert Management for Memory-Efficient MoE Inference in Chain-of-Thought Reasoning",
@@ -427,42 +465,6 @@
     "source": "arXiv cs.AI",
     "date": "2026-08-25",
     "summary": "Chain-of-thought (CoT) prompting improves LLM reasoning by decomposing complex problems into intermediate steps, but its sequential nature increases decoding latency and memory usage. Mixture-of-Exper...",
-    "category": "research",
-    "id": 46
-  },
-  {
-    "title": "Measuring Activation Control in Large Language Models",
-    "url": "https://arxiv.org/abs/2608.21664",
-    "source": "arXiv cs.AI",
-    "date": "2026-08-25",
-    "summary": "Safe deployment of increasingly capable models will likely come to rely on latent-space monitoring as a complement to behavioral evaluations, especially when evaluation-aware models exhibit scheming o...",
-    "category": "models",
-    "id": 47
-  },
-  {
-    "title": "From Mastery Profile to Simulated Response: Stochastic Student Knowledge Graphs (SSKG) for Faithful LLM Student Simulation",
-    "url": "https://arxiv.org/abs/2608.21668",
-    "source": "arXiv cs.AI",
-    "date": "2026-08-25",
-    "summary": "Large language models (LLMs) are increasingly used to simulate students at different mastery levels. These simulations can generate synthetic training data and stress-test tutoring systems. However, c...",
-    "category": "models",
-    "id": 48
-  },
-  {
-    "title": "Context as an Environment: Programmatic Context Management for Long-Horizon Agents",
-    "url": "https://arxiv.org/abs/2608.21690",
-    "source": "arXiv cs.AI",
-    "date": "2026-08-25",
-    "summary": "LLM agents increasingly take on long-running tasks whose history grows far beyond a single model context window. Existing approaches compress earlier interactions or extract selected information into ...",
-    "category": "models",
-    "id": 49
-  },
-  {
-    "title": "From Association to Causation: Improving Retrieval Precision of Retrieval-Augmented Generation via Causal Relations and an Attention Mechanism",
-    "url": "https://arxiv.org/abs/2608.21702",
-    "source": "arXiv cs.AI",
-    "date": "2026-08-25",
-    "summary": "Retrieval-Augmented Generation (RAG) grounds LLM generation on retrieved documents, but the standard terminal retrieval stage--dense-vector similarity, optionally followed by reranking--often returns ...",
     "category": "research",
     "id": 50
   }
