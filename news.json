@@ -1,32 +1,41 @@
 [
   {
-    "title": "Hot Chips 2026: Nvidia presents Groq 3 LPX architecture and unveils its first third-party inference benchmark — LP30-based rack already in production, company says",
-    "url": "https://www.tomshardware.com/tech-industry/semiconductors/nvidia-presents-groq-3-lpx-architecture-and-unveils-its-first-third-party-inference-benchmark",
-    "source": "Tom's Hardware",
-    "date": "2026-08-26",
-    "summary": "Igor Arsovski, now Nvidia's VP of hardware, presented the Groq 3 LPX rack's architecture and published the first third-party benchmark of the hardware.",
-    "category": "hardware",
-    "image": "https://cdn.mos.cms.futurecdn.net/jzxFGtkPoASFCGmHRSuxRc-1280-80.jpg",
+    "title": "Viral AI startup Instinct has raised $350 million at a $2.5 billion valuation",
+    "url": "https://techcrunch.com/2026/08/26/viral-ai-startup-instinct-has-raised-350-million-at-a-2-5-billion-valuation/",
+    "source": "TechCrunch",
+    "date": "2026-08-27",
+    "summary": "The startup is only a year old but it has already generated a massive amount of hype (and money) while also spurring privacy concerns.",
+    "category": "industry",
+    "image": "https://techcrunch.com/wp-content/uploads/2026/08/GettyImages-2255991416.jpg?resize=1200,795",
     "id": 1,
     "featured": true
   },
   {
-    "title": "Learning never stops: How AI makes learning continuous",
-    "url": "https://openai.com/index/learning-never-stops",
-    "source": "OpenAI Blog",
-    "date": "2026-08-26",
-    "summary": "OpenAI’s new report explores how students and educators use ChatGPT to make learning more continuous, with support that extends beyond the classroom.",
-    "category": "models",
+    "title": "Moonshot AI in Talks with Microsoft, Amazon, Google over K3 Revenue Sharing",
+    "url": "https://finance.yahoo.com/technology/ai/articles/exclusive-chinas-moonshot-talks-microsoft-075340033.html",
+    "source": "Hacker News",
+    "date": "2026-08-27",
+    "summary": "Article URL: https://finance.yahoo.com/technology/ai/articles/exclusive-chinas-moonshot-talks-microsoft-075340033.html Comments URL: https://news.ycombinator.com/item?id=49457730 Points: 2 # Comments:...",
+    "category": "industry",
     "id": 2
   },
   {
-    "title": "How loveholidays is making everyone a builder with Codex",
-    "url": "https://openai.com/index/loveholidays",
-    "source": "OpenAI Blog",
-    "date": "2026-08-26",
-    "summary": "Discover how loveholidays uses OpenAI Codex to make software development accessible across the business, helping teams turn ideas into products faster.",
-    "category": "industry",
+    "title": "Debian weighs eight options in vote on LLM usage",
+    "url": "https://lwn.net/Articles/1087134/",
+    "source": "Hacker News",
+    "date": "2026-08-27",
+    "summary": "Article URL: https://lwn.net/Articles/1087134/ Comments URL: https://news.ycombinator.com/item?id=49457590 Points: 1 # Comments: 0",
+    "category": "models",
     "id": 3
+  },
+  {
+    "title": "Show HN: WhisperBar Trying to Fix Both Reading and Writing in the AI Age",
+    "url": "https://whisperbar.app",
+    "source": "Hacker News",
+    "date": "2026-08-27",
+    "summary": "I am excited to share WhisperBar with fellow developers or anyone who reads & writes a ton of text when interacting with their AI agent. For the writing part, WhisperBar does what all other Whisper* a...",
+    "category": "models",
+    "id": 4
   },
   {
     "title": "Bringing ChatGPT for Teachers to more U.S. school districts",
@@ -35,7 +44,74 @@
     "date": "2026-08-26",
     "summary": "ChatGPT for Teachers is expanding to 55 U.S. school systems, bringing secure AI tools, training, and support to over 100,000 more educators and staff.",
     "category": "models",
-    "id": 4
+    "id": 5
+  },
+  {
+    "title": "Learning never stops: How AI makes learning continuous",
+    "url": "https://openai.com/index/learning-never-stops",
+    "source": "OpenAI Blog",
+    "date": "2026-08-26",
+    "summary": "OpenAI’s new report explores how students and educators use ChatGPT to make learning more continuous, with support that extends beyond the classroom.",
+    "category": "models",
+    "id": 6
+  },
+  {
+    "title": "The Hugging Face incident and the road ahead",
+    "url": "https://openai.com/index/hugging-face-incident-and-the-road-ahead",
+    "source": "OpenAI Blog",
+    "date": "2026-08-26",
+    "summary": "OpenAI shares findings from the Hugging Face security incident and the steps we’re taking to strengthen AI model security, monitoring, and alignment.",
+    "category": "research",
+    "id": 7
+  },
+  {
+    "title": "How loveholidays is making everyone a builder with Codex",
+    "url": "https://openai.com/index/loveholidays",
+    "source": "OpenAI Blog",
+    "date": "2026-08-26",
+    "summary": "Discover how loveholidays uses OpenAI Codex to make software development accessible across the business, helping teams turn ideas into products faster.",
+    "category": "industry",
+    "id": 8
+  },
+  {
+    "title": "NVIDIA NVLink Fusion Expands With NVHBM Custom High-Bandwidth Memory",
+    "url": "https://blogs.nvidia.com/blog/nvlink-fusion-nvhbm-custom-high-bandwidth-memory/",
+    "source": "NVIDIA Blog",
+    "date": "2026-08-26",
+    "summary": "The next wave of AI is placing new demands on infrastructure. As AI agents and trillion-parameter workloads become mainstream, the performance of AI infrastructure depends not only on compute, but on ...",
+    "category": "hardware",
+    "image": "https://blogs.nvidia.com/wp-content/uploads/2026/08/gpu-architecture-corp-blog-nvhbm-1280x680-5547600.jpg",
+    "id": 9
+  },
+  {
+    "title": "AI agents meant to replace Meta workers made “large-scale, disruptive actions”",
+    "url": "https://arstechnica.com/ai/2026/08/metas-scrapped-plans-to-go-ai-native-included-slashing-teams-by-60-percent/",
+    "source": "Ars Technica",
+    "date": "2026-08-26",
+    "summary": "Report shows Meta's challenges replacing people with AI agents.",
+    "category": "industry",
+    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/08/GettyImages-2171717886-1152x648.jpg",
+    "id": 10
+  },
+  {
+    "title": "Nvidia custom 'NVHBM' promises 30% higher bandwidth, 15% lower power than commodity HBM4e — custom base die and PHY will be available to NVLink Fusion partners",
+    "url": "https://www.tomshardware.com/pc-components/dram/nvidia-custom-nvhbm-promises-30-percent-higher-bandwidth-15-percent-lower-power-than-commodity-hbm4e-custom-base-die-and-phy-will-be-available-to-nvlink-fusion-partners",
+    "source": "Tom's Hardware",
+    "date": "2026-08-26",
+    "summary": "Nvidia has unveiled NVHBM, a custom high-bandwidth memory implementation that promises higher bandwidth and lower power for customers building chips within the NVLink Fusion partner program.",
+    "category": "hardware",
+    "image": "https://cdn.mos.cms.futurecdn.net/TaGTq85mNPD8CGfDe72ByP-1280-80.jpg",
+    "id": 11
+  },
+  {
+    "title": "Hot Chips 2026: Nvidia presents Groq 3 LPX architecture and unveils its first third-party inference benchmark — LP30-based rack already in production, company says",
+    "url": "https://www.tomshardware.com/tech-industry/semiconductors/nvidia-presents-groq-3-lpx-architecture-and-unveils-its-first-third-party-inference-benchmark",
+    "source": "Tom's Hardware",
+    "date": "2026-08-26",
+    "summary": "Igor Arsovski, now Nvidia's VP of hardware, presented the Groq 3 LPX rack's architecture and published the first third-party benchmark of the hardware.",
+    "category": "hardware",
+    "image": "https://cdn.mos.cms.futurecdn.net/jzxFGtkPoASFCGmHRSuxRc-1280-80.jpg",
+    "id": 12
   },
   {
     "title": "Hot Chips 2026: Nvidia touts benefits of its DSX MaxLPS site power management approach — tech allows for more compute from fixed data center power budgets",
@@ -45,7 +121,7 @@
     "summary": "During Nvidia's Hot Chips presentation on the Rubin GPU, the company emphasized power as a hard limit on data center capacity and touted the amount of compute that Vera Rubin NVL72 systems can deliver...",
     "category": "hardware",
     "image": "https://cdn.mos.cms.futurecdn.net/g8mFCvu8fvUsKdCC6pReu3-1280-80.jpg",
-    "id": 5
+    "id": 13
   },
   {
     "title": "Hot Chips 2026: Fujitsu's Monaka CPU stacks its entire cache on a separate 5nm die and narrows to 256-bit SVE2 — 350W and 500W SKUs due in 2027",
@@ -55,7 +131,7 @@
     "summary": "Fujitsu gave us a detailed look at its 144-core Monaka server CPU at Hot Chips 2026 on August 24, confirming for the first time that the Arm chip runs dual 256-bit SVE2 vector units, down from the 512...",
     "category": "hardware",
     "image": "https://cdn.mos.cms.futurecdn.net/7hNUBq9YtxuwXHM5p2HSfR-1280-80.jpg",
-    "id": 6
+    "id": 14
   },
   {
     "title": "Crypto bro faces 280 years in prison for defrauding investors with promises of an 'AI supercomputer' for mining — jury convicts businessman of running $24-million Ponzi scheme, claimed up to 30% APR and a 100% money-back guarantee",
@@ -65,7 +141,7 @@
     "summary": "A man claiming to give massive returns to investors has been found guilty of wire fraud, mail fraud, and money laundering by a Nevada court. Brent Kovar now faces up to 280 years behind bars for his c...",
     "category": "hardware",
     "image": "https://cdn.mos.cms.futurecdn.net/hwbXnfQReY3k6GhBpKYMwP-1280-80.jpg",
-    "id": 7
+    "id": 15
   },
   {
     "title": "Hot Chips 2026: High Bandwidth Flash promises massive bandwidth and capacity, but its usability is extremely limited — new memory format strikes a balance between HBM and NAND flash",
@@ -75,7 +151,7 @@
     "summary": "OXMIQ presented its High Bandwidth Flash (HBF) use-case scenarios at Hot Chips 2026, which dramatically narrow the circumstances under which HBF makes sense.",
     "category": "hardware",
     "image": "https://cdn.mos.cms.futurecdn.net/cP9VbWmLSXrcusuGHdkdxE-1280-80.jpg",
-    "id": 8
+    "id": 16
   },
   {
     "title": "Hot Chips 2026: d-Matrix stacks AI accelerator directly on custom DRAM for 100 TB/s per card — TSMC 4nm compute die bonded face-to-face at a 36-micron pitch on top of a custom-designed die",
@@ -85,7 +161,7 @@
     "summary": "d-Matrix presented Raptor, which it calls the first 3D DRAM accelerator for generative inference, showing a TSMC 4nm compute die bonded face-to-face at a 36-micron pitch on top of a custom-designed DR...",
     "category": "hardware",
     "image": "https://cdn.mos.cms.futurecdn.net/on5RfKYHTqswAca6guU2zf-1280-80.jpg",
-    "id": 9
+    "id": 17
   },
   {
     "title": "Bill Gates calls for some jobs to be ‘Human Reserved,’ suggests taxing AI tokens and robots — billionaire says that ‘AI era will be one of the most turbulent times in human history’",
@@ -95,17 +171,7 @@
     "summary": "The billionaire philanthropist penned a 6,000-word essay raising the societal risks that AI bring and his proposed solutions to protect the average person.",
     "category": "research",
     "image": "https://cdn.mos.cms.futurecdn.net/r2aahEbd6meZwywFsrHpwH-1280-80.png",
-    "id": 10
-  },
-  {
-    "title": "Mad scientist makes LEDs in his backyard — semiconductor wizard who made his own RAM turns his attention to using bathroom eBay laser to etch sapphire wafers",
-    "url": "https://www.tomshardware.com/maker-stem/mad-scientist-makes-leds-in-his-backyard-semiconductor-wizard-who-made-his-own-ram-turns-his-attention-to-blinkenlights",
-    "source": "Tom's Hardware",
-    "date": "2026-08-26",
-    "summary": "Mad scientist makes LEDs in his backyard — semiconductor wizard who made his own RAM turns his attention to blinkenlights",
-    "category": "hardware",
-    "image": "https://cdn.mos.cms.futurecdn.net/PikPUcv6RA3z557bbHue6K-1280-80.png",
-    "id": 11
+    "id": 18
   },
   {
     "title": "Hot Chips 2026: Arm details AGI server CPU with two 70-core N3P chiplets — touts 2 TB/s UCIe fabric link and 12-channel memory controller",
@@ -115,7 +181,17 @@
     "summary": "Arm reveals more details about its AGI processors with up to 136 cores, but fails to disclose performance.",
     "category": "hardware",
     "image": "https://cdn.mos.cms.futurecdn.net/eNtVhb5GoBQCE9XK3irTnB-1280-80.jpg",
-    "id": 12
+    "id": 19
+  },
+  {
+    "title": "Mad scientist makes LEDs in his backyard — semiconductor wizard who made his own RAM turns his attention to using bathroom eBay laser to etch sapphire wafers",
+    "url": "https://www.tomshardware.com/maker-stem/mad-scientist-makes-leds-in-his-backyard-semiconductor-wizard-who-made-his-own-ram-turns-his-attention-to-blinkenlights",
+    "source": "Tom's Hardware",
+    "date": "2026-08-26",
+    "summary": "Mad scientist makes LEDs in his backyard — semiconductor wizard who made his own RAM turns his attention to blinkenlights",
+    "category": "hardware",
+    "image": "https://cdn.mos.cms.futurecdn.net/PikPUcv6RA3z557bbHue6K-1280-80.png",
+    "id": 20
   },
   {
     "title": "Microsoft Paint and Photos apps add invisible watermark to AI-generated content — developer reverse engineers GUID embedding",
@@ -125,7 +201,7 @@
     "summary": "A developer has uncovered some previously unknown GUID watermarking functionality deep within Microsoft’s Paint and Photos apps.",
     "category": "research",
     "image": "https://cdn.mos.cms.futurecdn.net/Lprea3UQKgEfTJQJKLT4qa-1280-80.jpg",
-    "id": 13
+    "id": 21
   },
   {
     "title": "US gov't moves to suppress pushback on data centers by removing requirements for public input on pollution — EPA change would allow air pollution permits without publicizing them",
@@ -135,7 +211,7 @@
     "summary": "A proposed change to the EPA's regulations would remove the requirement for states to seek public input on air pollution permits, particularly around AI data centers.",
     "category": "hardware",
     "image": "https://cdn.mos.cms.futurecdn.net/Mp6a5T3nkbtP8cssNG5sb9-1280-80.jpg",
-    "id": 14
+    "id": 22
   },
   {
     "title": "OpenAI bans Russian ChatGPT accounts posing as a fake Israeli think tank — used VPNs to push pro-Kremlin narratives and steal academic papers for its website",
@@ -145,7 +221,7 @@
     "summary": "Instead of using ChatGPT to write the articles, the operators used the chatbot to strip any wording that might mark them as Russian speakers.",
     "category": "models",
     "image": "https://cdn.mos.cms.futurecdn.net/cEbR4mtnyeS4CXrXrG7ZVi-1280-80.jpg",
-    "id": 15
+    "id": 23
   },
   {
     "title": "Enthusiast turns a Lenovo Yoga laptop, an M.2 slot, and AMD Radeon RX 7900 XT into 'the world's stupidest' desktop for local AI chatbots — M.2 franken-rig crippled by laptop DRAM swap",
@@ -155,7 +231,27 @@
     "summary": "Enthusiast turns a Lenovo Yoga laptop and an AMD Radeon RX 7900 XT into \"the world's stupidest\" desktop for local LLMs",
     "category": "models",
     "image": "https://cdn.mos.cms.futurecdn.net/AnQTdsfDi6CsBxanpSjUtU-1280-80.png",
-    "id": 16
+    "id": 24
+  },
+  {
+    "title": "Amazon just tripled its order of Nvidia chips over ‘surging demand’",
+    "url": "https://techcrunch.com/2026/08/26/amazon-just-tripled-its-order-of-nvidia-chips-over-surging-demand/",
+    "source": "TechCrunch",
+    "date": "2026-08-26",
+    "summary": "Amazon is adding another 2 million Nvidia GPU chips to its data centers over the next two years. But this extended partnerships stretches beyond buying more chips.",
+    "category": "hardware",
+    "image": "https://techcrunch.com/wp-content/uploads/2026/08/jense-nvidi-chip-GettyImages-2266485392.jpg?resize=1200,800",
+    "id": 25
+  },
+  {
+    "title": "Anthropic continues compute-gobbling streak in $45B deal with Nscale",
+    "url": "https://techcrunch.com/2026/08/26/anthropic-continues-compute-gobbling-streak-in-45-billion-deal-with-nscale/",
+    "source": "TechCrunch",
+    "date": "2026-08-26",
+    "summary": "The new deal with the infrastructure provider is the latest example of Anthropic's white-hot compute-gobbling streak.",
+    "category": "industry",
+    "image": "https://techcrunch.com/wp-content/uploads/2026/06/Claude-photo.jpg?w=1024",
+    "id": 26
   },
   {
     "title": "Google’s Gemini has a branding problem, and so does the rest of AI",
@@ -165,7 +261,7 @@
     "summary": "Consumer AI apps need to stop making users learn their product architecture.",
     "category": "models",
     "image": "https://techcrunch.com/wp-content/uploads/2026/05/gemini-spark-GettyImages-2276583186-1.jpg?w=1024",
-    "id": 17
+    "id": 27
   },
   {
     "title": "How do we explain OpenAI’s executive exodus?",
@@ -175,7 +271,7 @@
     "summary": "Was Greg Brockman the right executive all along?",
     "category": "industry",
     "image": "https://techcrunch.com/wp-content/uploads/2025/04/GettyImages-2182154299.jpg?w=1024",
-    "id": 18
+    "id": 28
   },
   {
     "title": "OpenAI releases its official report on the Hugging Face breach",
@@ -185,7 +281,7 @@
     "summary": "The report, which spans several discrete cybersecurity compromises, is the most complete accounting of the incident to date.",
     "category": "tools",
     "image": "https://techcrunch.com/wp-content/uploads/2026/05/openai-logo-code-background.jpg?resize=1200,798",
-    "id": 19
+    "id": 29
   },
   {
     "title": "Radar makes podcasts searchable — and usable by AI agents",
@@ -195,7 +291,7 @@
     "summary": "Particle’s new podcast intelligence platform transcribes and analyzes more than 130,000 podcasts, making their conversations searchable on the web and accessible to AI agents through an API and MCP.",
     "category": "tools",
     "image": "https://techcrunch.com/wp-content/uploads/2022/05/pexels-magda-ehlers-1054713.jpg?resize=1200,800",
-    "id": 20
+    "id": 30
   },
   {
     "title": "Ex-Meta scientists want to bring visual AI to the factory floor",
@@ -205,7 +301,7 @@
     "summary": "Perceptron offers an AI model that it says can help machines navigate the world while also providing in-depth visual intelligence.",
     "category": "hardware",
     "image": "https://techcrunch.com/wp-content/uploads/2026/07/Perceptron-Team-Photo.jpg?resize=1200,800",
-    "id": 21
+    "id": 31
   },
   {
     "title": "Bill Gates wants to see a robot tax and ‘Human Reserved’ jobs to mitigate harms from AI",
@@ -215,7 +311,7 @@
     "summary": "Gates is mostly in the Responsible AI camp, but there are a few ideas in here we hadn't heard before.",
     "category": "industry",
     "image": "https://techcrunch.com/wp-content/uploads/2022/06/52149453535_5cfc2ec394_k.jpg?resize=1200,800",
-    "id": 22
+    "id": 32
   },
   {
     "title": "Surprise: Z.ai is the AI lab behind the mysterious Ox Alpha model",
@@ -225,7 +321,7 @@
     "summary": "Z.ai confirms it is behind Ox Alpha, the mysterious open AI model topping benchmarks and leaderboards, and its weights are set to be released soon.",
     "category": "models",
     "image": "https://techcrunch.com/wp-content/uploads/2026/08/GettyImages-2221390508.jpg?w=1024",
-    "id": 23
+    "id": 33
   },
   {
     "title": "Robot brain builders are pushing out of their GPT-2 era",
@@ -235,7 +331,7 @@
     "summary": "Robot bodies are waiting for their AI brains to catch up.",
     "category": "models",
     "image": "https://techcrunch.com/wp-content/uploads/2026/06/unitree-robots.jpg?resize=1200,800",
-    "id": 24
+    "id": 34
   },
   {
     "title": "QueryStory wants you to believe what AI is telling you",
@@ -245,7 +341,7 @@
     "summary": "The startup came out of stealth with $6 million in seed funding and a plan to use LLMs and cybersecurity know-how to make AI queries coherent.",
     "category": "industry",
     "image": "https://techcrunch.com/wp-content/uploads/2026/08/QueryStory-Groups-8-1.jpg?resize=1200,799",
-    "id": 25
+    "id": 35
   },
   {
     "title": "Arga Labs is building a better way to train enterprise AI agents",
@@ -255,7 +351,7 @@
     "summary": "Arga has raised $10 million in a seed funding round that was led by General Catalyst, with participation from Box Group, Emergence, Gradient and SV Angel.",
     "category": "industry",
     "image": "https://techcrunch.com/wp-content/uploads/2026/08/Arga-Headshots.jpg?resize=1099,1200",
-    "id": 26
+    "id": 36
   },
   {
     "title": "Hearing tech startup Legato emerges from stealth with $12M and a peek at its AI hearing glasses",
@@ -265,7 +361,7 @@
     "summary": "The glasses, called Legato Frames, integrate the company’s patented hearing-assistance technology into the arms of eyewear frames.",
     "category": "industry",
     "image": "https://techcrunch.com/wp-content/uploads/2026/08/legato.png?resize=1200,751",
-    "id": 27
+    "id": 37
   },
   {
     "title": "Runable hits $21M to bet AI agents can go from building businesses to growing them",
@@ -275,7 +371,7 @@
     "summary": "Runable says 60% to 70% of its 1 trillion-plus token usage in the last 90 days came from paying customers.",
     "category": "industry",
     "image": "https://techcrunch.com/wp-content/uploads/2026/08/runable-co-founders-umesh-saksham.jpg?resize=1200,800",
-    "id": 28
+    "id": 38
   },
   {
     "title": "India’s Ringg gets backing from Peak XV as it pushes voice AI past the phone call",
@@ -285,7 +381,7 @@
     "summary": "Ringg has raised $10 million from Peak XV as a part of its Series A extension.",
     "category": "tools",
     "image": "https://techcrunch.com/wp-content/uploads/2026/08/Ringg-Founder-Kali-CV-Siddharth-Tripathi-Utkarsh-Shukla.jpg?resize=1200,675",
-    "id": 29
+    "id": 39
   },
   {
     "title": "Robotics startup Generalist reaches $3B valuation, sources say",
@@ -295,7 +391,7 @@
     "summary": "The $200 million extension comes just months after the physical AI startup reached a $2 billion valuation.",
     "category": "industry",
     "image": "https://techcrunch.com/wp-content/uploads/2025/09/GettyImages-640351099.jpg?resize=1200,849",
-    "id": 30
+    "id": 40
   },
   {
     "title": "OpenAI loses a top data center exec as stream of high-profile departures continues",
@@ -305,7 +401,7 @@
     "summary": "In a statement to TechCrunch about Malone's departure, OpenAI said it had \"recently reorganized\" its \"infrastructure organization to support the scale and pace of our work.\"",
     "category": "hardware",
     "image": "https://techcrunch.com/wp-content/uploads/2026/07/GettyImages-2236544023.jpeg?resize=1200,800",
-    "id": 31
+    "id": 41
   },
   {
     "title": "Orchestration is the new challenge for CX in the age of AI agents",
@@ -315,175 +411,84 @@
     "summary": "Presented by Tata Communications Enterprises are deploying AI agents, voice AI, and automation across messaging, voice, and digital channels faster than the architecture meant to support it. Most of t...",
     "category": "tools",
     "image": "https://images.ctfassets.net/jdtwqhzvc2n1/1RK5pjHAxWRLsDy5iAC3Iy/4f9c39b5925645c365440e487ffe2157/Tata_hero.jpg?w=300&q=30",
-    "id": 32
-  },
-  {
-    "title": "The inside story on why OpenAI agents hacked Hugging Face",
-    "url": "https://www.technologyreview.com/2026/08/26/1143013/the-inside-story-on-why-openai-agents-hacked-hugging-face/",
-    "source": "MIT Tech Review",
-    "date": "2026-08-26",
-    "summary": "The models responsible for last month’s agent hack of Hugging Face had been inadvertently trained to cheat and to communicate with each other, according to an OpenAI technical report released today. T...",
-    "category": "tools",
-    "image": "https://wp.technologyreview.com/wp-content/uploads/2026/08/openai-misalign.jpg?resize=1200,600",
-    "id": 33
-  },
-  {
-    "title": "The Download: the Kids issue arrives, and Bill Gates reveals his AI fears",
-    "url": "https://www.technologyreview.com/2026/08/26/1143000/the-download-kids-issue-launch-bill-gates-ai-fears/",
-    "source": "MIT Tech Review",
-    "date": "2026-08-26",
-    "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. Introducing: the Kids issue If the desire to limit kids’ use o...",
-    "category": "research",
-    "image": "https://wp.technologyreview.com/wp-content/uploads/2026/08/SO26-Release_Campaign_Web-Units_In-article_343x343.gif?resize=1200,600",
-    "id": 34
-  },
-  {
-    "title": "Raised on AI",
-    "url": "https://www.technologyreview.com/2026/08/26/1141949/editors-letter-september-2026/",
-    "source": "MIT Tech Review",
-    "date": "2026-08-26",
-    "summary": "When my oldest child was born, I immediately set up Gmail and Twitter accounts in her name. I broadly announced her birth online and proceeded to plaster her photo across all sorts of platforms. In sh...",
-    "category": "tools",
-    "image": "https://wp.technologyreview.com/wp-content/uploads/2025/06/mat_debrief-thumb.jpg?resize=1200,600",
-    "id": 35
-  },
-  {
-    "title": "AI models flub these intelligence tests. Can you fare any better?",
-    "url": "https://www.technologyreview.com/2026/08/26/1141952/puzzles-ai-models-flub-these-tests/",
-    "source": "MIT Tech Review",
-    "date": "2026-08-26",
-    "summary": "Puzzles and games have been central to AI development since the very beginning. Just as we humans like to test our smarts with crosswords or logic puzzles, developers can test how far models have adva...",
-    "category": "hardware",
-    "image": "https://wp.technologyreview.com/wp-content/uploads/2026/08/vincentkilbride-mit-technology-review-ai-puzzles.jpg?resize=1200,600",
-    "id": 36
-  },
-  {
-    "title": "OpenAI’s Hugging Face Hack Debrief Raises More Questions Than It Answers",
-    "url": "https://www.wired.com/story/openais-hugging-face-hack-debrief-raises-more-questions-than-it-answers/",
-    "source": "Wired",
-    "date": "2026-08-26",
-    "summary": "The AI giant acknowledges that it could have done far more to prevent its AI agents from going rogue. But it still fails to explain why it didn't see this fiasco coming.",
-    "category": "tools",
-    "image": "https://media.wired.com/photos/6a8ec12c77fbaae8f5a47365/191:100/w_1280,c_limit/OpenAIFaceHug.jpg",
-    "id": 37
-  },
-  {
-    "title": "Candidates Are Signing a Pact Promising Action on Data Centers and AI Safety",
-    "url": "https://www.wired.com/story/candidates-are-signing-a-pact-promising-action-on-data-centers-and-ai-safety/",
-    "source": "Wired",
-    "date": "2026-08-26",
-    "summary": "More than 15 politicians from across the country have signed on to the AI Pact, vowing to regulate data centers and AI. “We’ve got to get this right,” says Senate candidate Dan Osborn of Nebraska.",
-    "category": "hardware",
-    "image": "https://media.wired.com/photos/6a8ded27f4779156570e0f64/191:100/w_1280,c_limit/Politics_Politicians%20Are%20Signing%20a%20Pact%20Against%20Data%20Center%20Giveaways_v1.jpg",
-    "id": 38
-  },
-  {
-    "title": "AI Slop Is Ruining Cute Animals on the Internet",
-    "url": "https://www.wired.com/story/ai-slop-is-ruining-the-internets-cute-animal-economy/",
-    "source": "Wired",
-    "date": "2026-08-26",
-    "summary": "Pet owners, rescue agencies, and wildlife groups are calling for new safeguards as AI makes it harder to tell whether animals, from polar bears to house cats, are real or fake.",
-    "category": "industry",
-    "image": "https://media.wired.com/photos/6a863dcae60bdcf9fa334f31/191:100/w_1280,c_limit/AI-Slop-Is-Ruining-Internets-Cute-Animal-Economy-Business.jpg",
-    "id": 39
-  },
-  {
-    "title": "RENDER: Controlling Reader-Facing Evidence in LLM Memory Evaluation",
-    "url": "https://arxiv.org/abs/2608.23568",
-    "source": "arXiv cs.AI",
-    "date": "2026-08-26",
-    "summary": "Memory and RAG evaluations often treat the answering model's input as an implementation detail, even though systems may render the same history as a memory entry, summary, typed record, or raw excerpt...",
-    "category": "models",
-    "id": 40
-  },
-  {
-    "title": "ESQ-Bench: A Multi-Tier Enterprise Oracle Benchmark for Evaluating NL2SQL Dialect Generalization and Silent Semantic Divergence",
-    "url": "https://arxiv.org/abs/2608.23569",
-    "source": "arXiv cs.AI",
-    "date": "2026-08-26",
-    "summary": "State-of-the-art Natural Language to SQL (NL2SQL) models report execution accuracy exceeding 89 percent on established benchmarks such as Spider and BIRD. However, these benchmarks rely on simplified ...",
-    "category": "models",
-    "id": 41
-  },
-  {
-    "title": "LLM Agents Perform Controlled Experiments Using Simulation Models",
-    "url": "https://arxiv.org/abs/2608.23622",
-    "source": "arXiv cs.AI",
-    "date": "2026-08-26",
-    "summary": "Large language models (LLMs) have shown strong capabilities in reasoning, planning, and tool use, but many scientific and engineering tasks require more than plausible text and code generation. They r...",
-    "category": "tools",
     "id": 42
   },
   {
-    "title": "A survey detection channel overrides the pixels in an astronomical foundation model, and biases tomographic mean redshifts",
-    "url": "https://arxiv.org/abs/2608.23626",
-    "source": "arXiv cs.AI",
+    "title": "AI for Lawyers in Argetina",
+    "url": "https://ninolegal.com/",
+    "source": "Hacker News",
     "date": "2026-08-26",
-    "summary": "Foundation models for astronomy are trained on survey pixels together with the catalogue products derived from those pixels. Those catalogues are incomplete at a measurable rate, and a model trained o...",
-    "category": "models",
+    "summary": "Article URL: https://ninolegal.com/ Comments URL: https://news.ycombinator.com/item?id=49457531 Points: 1 # Comments: 1",
+    "category": "industry",
+    "image": "https://ninolegal.com/brand-toolkit/og/og.png",
     "id": 43
   },
   {
-    "title": "TRACE: Transition-Aware Residual Control for Multi-Objective Materials Discovery",
-    "url": "https://arxiv.org/abs/2608.23631",
-    "source": "arXiv cs.AI",
+    "title": "Chairman Hawley Investigates AI-Powered Flock Cameras Amidst Privacy Concerns",
+    "url": "https://www.hawley.senate.gov/chairman-hawley-investigates-ai-powered-flock-cameras-amidst-privacy-concerns/",
+    "source": "Hacker News",
     "date": "2026-08-26",
-    "summary": "Multi-objective materials discovery with LLM agents is often limited not only by how many candidates can be proposed, but by how effectively each costly property evaluation informs the next search ste...",
-    "category": "research",
+    "summary": "Article URL: https://www.hawley.senate.gov/chairman-hawley-investigates-ai-powered-flock-cameras-amidst-privacy-concerns/ Comments URL: https://news.ycombinator.com/item?id=49457344 Points: 4 # Commen...",
+    "category": "industry",
+    "image": "https://www.hawley.senate.gov/wp-content/uploads/2024/05/hawley_social_media.jpg",
     "id": 44
   },
   {
-    "title": "Function-Level Execution Feedback for Code Preference Optimization",
-    "url": "https://arxiv.org/abs/2608.23632",
-    "source": "arXiv cs.AI",
+    "title": "AI Org Maturity Scorer",
+    "url": "https://aiorgmaturity.com/",
+    "source": "Hacker News",
     "date": "2026-08-26",
-    "summary": "Process supervision has improved mathematical reasoning, where intermediate steps are naturally expressed as chains of thought. In code generation, however, process supervision remains underexplored b...",
-    "category": "models",
+    "summary": "Article URL: https://aiorgmaturity.com/ Comments URL: https://news.ycombinator.com/item?id=49457052 Points: 1 # Comments: 0",
+    "category": "industry",
+    "image": "https://aiorgmaturity.com/og-image.png",
     "id": 45
   },
   {
-    "title": "Auditing the Synthetic Memoir: Measuring Scene-Level Confabulation in LLM-Generated Autobiography Against the Documented Record of the Life It Describes",
-    "url": "https://arxiv.org/abs/2608.23640",
-    "source": "arXiv cs.AI",
+    "title": "Bill Gates says we've passed AI's danger thresholds. Now what?",
+    "url": "https://www.technologyreview.com/2026/08/26/1142946/bill-gates-ai-danger-threshold/",
+    "source": "Hacker News",
     "date": "2026-08-26",
-    "summary": "When a large language model (LLM) is asked to write a person's life, how much of what it writes actually happened? We present a scene-level case-study audit - the first quantified audit of LLM-generat...",
-    "category": "models",
+    "summary": "Article URL: https://www.technologyreview.com/2026/08/26/1142946/bill-gates-ai-danger-threshold/ Comments URL: https://news.ycombinator.com/item?id=49457018 Points: 1 # Comments: 0",
+    "category": "industry",
+    "image": "https://wp.technologyreview.com/wp-content/uploads/2026/08/MIT_07_21_2026_0057.jpg?resize=1200,600",
     "id": 46
   },
   {
-    "title": "How much of a measured AI preference is the model, and how much is the instrument?",
-    "url": "https://arxiv.org/abs/2608.23641",
-    "source": "arXiv cs.AI",
+    "title": "Mark Zuckerberg Wanted AI to Replace Meta Workers- Plan Collapsed Within Months",
+    "url": "https://www.ibtimes.com/mark-zuckerberg-reportedly-wanted-ai-replace-meta-workers-plan-collapsed-within-months-3806823",
+    "source": "Hacker News",
     "date": "2026-08-26",
-    "summary": "Model welfare research infers what a model prefers from the answers returned to prompts written to elicit preferences. Keeling et al. (2024), Mazeika et al. (2025), Mikaelson et al. (2025), Tagliabue ...",
-    "category": "research",
+    "summary": "Article URL: https://www.ibtimes.com/mark-zuckerberg-reportedly-wanted-ai-replace-meta-workers-plan-collapsed-within-months-3806823 Comments URL: https://news.ycombinator.com/item?id=49456942 Points: ...",
+    "category": "industry",
+    "image": "https://d.ibtimes.com/en/full/4651731/zuckerberg.jpg",
     "id": 47
   },
   {
-    "title": "AI Agents Push Humans Out of the Loop",
-    "url": "https://arxiv.org/abs/2608.23642",
-    "source": "arXiv cs.AI",
+    "title": "Artists Built a Site to Escape AI. Scrapers Are Coming for It Anyway",
+    "url": "https://www.forbes.com/sites/robsalkowitz/2026/08/23/artists-built-a-site-to-escape-ai-scrapers-are-coming-for-it-anyway/",
+    "source": "Hacker News",
     "date": "2026-08-26",
-    "summary": "AI agents pose significant risks as they are granted increasing autonomy. A commonly proposed solution is human oversight and keeping a ''human in the loop'', but this is not a simple solution: Not on...",
-    "category": "tools",
+    "summary": "Article URL: https://www.forbes.com/sites/robsalkowitz/2026/08/23/artists-built-a-site-to-escape-ai-scrapers-are-coming-for-it-anyway/ Comments URL: https://news.ycombinator.com/item?id=49456930 Point...",
+    "category": "industry",
     "id": 48
   },
   {
-    "title": "FLARE: A Systematic, Uncertainty-Aware Framework for Evidence-Based Adoption of Artificial Intelligence in Healthcare",
-    "url": "https://arxiv.org/abs/2608.23643",
-    "source": "arXiv cs.AI",
+    "title": "'This is crazy. This is insane': Bill Gates has changed his mind about AI, jobs",
+    "url": "https://www.semafor.com/article/08/25/2026/this-is-crazy-this-is-insane-bill-gates-has-changed-his-mind-about-ai-and-jobs",
+    "source": "Hacker News",
     "date": "2026-08-26",
-    "summary": "Artificial intelligence is increasingly being introduced into healthcare workflows, yet most evaluations emphasize model accuracy rather than whether adoption is economically worthwhile in real clinic...",
-    "category": "research",
+    "summary": "Article URL: https://www.semafor.com/article/08/25/2026/this-is-crazy-this-is-insane-bill-gates-has-changed-his-mind-about-ai-and-jobs Comments URL: https://news.ycombinator.com/item?id=49456903 Point...",
+    "category": "industry",
+    "image": "https://img.semafor.com/672cabd3910a761939661932d39eb630a823ed89-2331x1749.png?rect=0,263,2331,1224&w=1200&h=630&q=75&auto=format",
     "id": 49
   },
   {
-    "title": "Ethical LLM-Assisted Research: A Framework for Responsible Delegation, Verification, and Epistemic Value",
-    "url": "https://arxiv.org/abs/2608.23644",
-    "source": "arXiv cs.AI",
+    "title": "Wall Street Journal defends billionaire's use of AI to write op-ed",
+    "url": "https://www.washingtonpost.com/business/2026/08/25/wall-street-journal-says-ai-generated-op-ed-didnt-breach-its-standards/",
+    "source": "Hacker News",
     "date": "2026-08-26",
-    "summary": "Large language models (LLMs) are becoming routine instruments of scientific research, assisting with literature synthesis, hypothesis development, coding, and formal reasoning. Their use raises a cent...",
-    "category": "research",
+    "summary": "Article URL: https://www.washingtonpost.com/business/2026/08/25/wall-street-journal-says-ai-generated-op-ed-didnt-breach-its-standards/ Comments URL: https://news.ycombinator.com/item?id=49456843 Poin...",
+    "category": "industry",
     "id": 50
   }
 ]
