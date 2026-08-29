@@ -1,14 +1,100 @@
 [
   {
-    "title": "DLSS 5 has already been ported to work on RTX 4000 Series graphics cards — incompatible CUDA instructions get patched to work on previous-gen hardware",
-    "url": "https://www.tomshardware.com/pc-components/gpus/exclusive-dlss-5-has-already-been-ported-to-work-on-rtx-4000-series-graphics-cards-incompatible-cuda-instructions-get-patched-to-work-on-previous-gen-hardware",
-    "source": "Tom's Hardware",
-    "date": "2026-08-28",
-    "summary": "One modder has reverse-engineered DLSS 5 to function on RTX 4000 series Ada Lovelace-based GPUs, porting incompatible CUDA instructions within the Neural Rendering DLL, enabling them to be read on pre...",
-    "category": "models",
-    "image": "https://cdn.mos.cms.futurecdn.net/XWFApR3UjpmFwiQ2t7DdNV-1280-80.png",
+    "title": "StemDeck, a free, open-source and local AI stem separator",
+    "url": "https://github.com/stemdeckapp/stemdeck",
+    "source": "Hacker News",
+    "date": "2026-08-29",
+    "summary": "Article URL: https://github.com/stemdeckapp/stemdeck Comments URL: https://news.ycombinator.com/item?id=49486081 Points: 1 # Comments: 0",
+    "category": "industry",
+    "image": "https://opengraph.githubassets.com/27a77baedb4546ff46727a0353998415f37235b5d7b9d83a8e10ef519cbdbee2/stemdeckapp/stemdeck",
     "id": 1,
     "featured": true
+  },
+  {
+    "title": "One prompt, five days, and an AI agent that refused to certify itself",
+    "url": "https://github.com/Framework-Drift/governed-pass",
+    "source": "Hacker News",
+    "date": "2026-08-29",
+    "summary": "Article URL: https://github.com/Framework-Drift/governed-pass Comments URL: https://news.ycombinator.com/item?id=49486021 Points: 1 # Comments: 0",
+    "category": "tools",
+    "image": "https://opengraph.githubassets.com/0516a6b114eb36f234216db02c213246335d71ce8090957bffd8233072731128/Framework-Drift/governed-pass",
+    "id": 2
+  },
+  {
+    "title": "Anti-AI Populism is Reshaping American Politics",
+    "url": "https://www.motherjones.com/politics/2026/08/anti-ai-populism-is-reshaping-american-politics/",
+    "source": "Hacker News",
+    "date": "2026-08-29",
+    "summary": "Article URL: https://www.motherjones.com/politics/2026/08/anti-ai-populism-is-reshaping-american-politics/ Comments URL: https://news.ycombinator.com/item?id=49485992 Points: 2 # Comments: 1",
+    "category": "tools",
+    "id": 3
+  },
+  {
+    "title": "AI made the boring work visible. Cut the work, not the people",
+    "url": "https://jeffgothelf.com/blog/ai-made-the-boring-work-visible-cut-the-work-not-the-people/",
+    "source": "Hacker News",
+    "date": "2026-08-29",
+    "summary": "Article URL: https://jeffgothelf.com/blog/ai-made-the-boring-work-visible-cut-the-work-not-the-people/ Comments URL: https://news.ycombinator.com/item?id=49485940 Points: 1 # Comments: 0",
+    "category": "industry",
+    "image": "https://jeffgothelf.com/wp-content/uploads/2026/05/ChatGPT-Image-May-17-2026-at-12_40_39-PM-940x627.png",
+    "id": 4
+  },
+  {
+    "title": "Ask HN: If AI disappeared today, how much would you ask for in salary to work?",
+    "url": "https://news.ycombinator.com/item?id=49485930",
+    "source": "Hacker News",
+    "date": "2026-08-29",
+    "summary": "Comments URL: https://news.ycombinator.com/item?id=49485930 Points: 2 # Comments: 0",
+    "category": "industry",
+    "id": 5
+  },
+  {
+    "title": "Results for LLM Usage in Debian",
+    "url": "https://lists.debian.org/debian-vote/2026/08/msg00360.html",
+    "source": "Hacker News",
+    "date": "2026-08-29",
+    "summary": "Article URL: https://lists.debian.org/debian-vote/2026/08/msg00360.html Comments URL: https://news.ycombinator.com/item?id=49485928 Points: 3 # Comments: 1",
+    "category": "models",
+    "id": 6
+  },
+  {
+    "title": "X claims it found a Chinese bot farm posting anti-AI data center sentiments",
+    "url": "https://www.engadget.com/2246140/x-chinese-bot-farm-anti-ai-data-center-sentiments/",
+    "source": "Hacker News",
+    "date": "2026-08-29",
+    "summary": "Article URL: https://www.engadget.com/2246140/x-chinese-bot-farm-anti-ai-data-center-sentiments/ Comments URL: https://news.ycombinator.com/item?id=49485926 Points: 5 # Comments: 1",
+    "category": "hardware",
+    "image": "https://www.engadget.com/img/gallery/x-claims-it-found-a-chinese-bot-farm-posting-anti-ai-data-center-sentiments/l-intro-1787897914.jpg",
+    "id": 7
+  },
+  {
+    "title": "Show HN: Leiolai, AI that pays users for the compute their devices provide",
+    "url": "https://leiolai.com/",
+    "source": "Hacker News",
+    "date": "2026-08-29",
+    "summary": "Leiolai runs inference across devices people already own instead of data centers. It saves water with inference and pays users for the computation their devices provide. The app is free to use on iPho...",
+    "category": "hardware",
+    "image": "https://leiolai.com/leiolai-silicon-hero.jpg",
+    "id": 8
+  },
+  {
+    "title": "Damn it AI, stop lying to me and do what I say",
+    "url": "https://sentelabs.ai/proof-not-trust",
+    "source": "Hacker News",
+    "date": "2026-08-29",
+    "summary": "Article URL: https://sentelabs.ai/proof-not-trust Comments URL: https://news.ycombinator.com/item?id=49485798 Points: 1 # Comments: 1",
+    "category": "industry",
+    "image": "https://sentelabs.ai/og-proof-not-trust.png",
+    "id": 9
+  },
+  {
+    "title": "I built a headless browser for AI agents in Rust. no Chromium, no V8",
+    "url": "https://www.reddit.com/r/codex/comments/1w0trw7/i_built_a_headless_browser_for_ai_agents_entirely/",
+    "source": "Hacker News",
+    "date": "2026-08-29",
+    "summary": "Article URL: https://www.reddit.com/r/codex/comments/1w0trw7/i_built_a_headless_browser_for_ai_agents_entirely/ Comments URL: https://news.ycombinator.com/item?id=49485669 Points: 4 # Comments: 0",
+    "category": "industry",
+    "id": 10
   },
   {
     "title": "Supporting Thailand’s next generation of AI startups",
@@ -17,7 +103,37 @@
     "date": "2026-08-28",
     "summary": "OpenAI and Thailand’s MHESI launch an eight-week accelerator helping 10 health, wellness, and education startups turn AI prototypes into trusted products.",
     "category": "hardware",
-    "id": 2
+    "id": 11
+  },
+  {
+    "title": "New US export controls reportedly target Chinese access to remote AI servers — Trump admin's cut-down AI diffusion rule could be shared with industry as soon as September",
+    "url": "https://www.tomshardware.com/tech-industry/policy/new-us-export-controls-reportedly-target-chinese-access-to-remote-ai-servers-trump-admins-cut-down-ai-diffusion-rule-could-be-shared-with-industry-as-soon-as-september",
+    "source": "Tom's Hardware",
+    "date": "2026-08-28",
+    "summary": "The Trump administration is reportedly drafting a rule to close a loophole around remote access to advanced AI compute, and it could be shared with trade groups as early as September.",
+    "category": "models",
+    "image": "https://cdn.mos.cms.futurecdn.net/Bvn9bjjn7RjjnHHyEAHmAP-1280-80.jpg",
+    "id": 12
+  },
+  {
+    "title": "Nvidia gears up its influence in Washington, forming PAC — tells employees that decisions Congress makes over the coming years could have substantial consequences for the AI industry, according to report",
+    "url": "https://www.tomshardware.com/tech-industry/big-tech/nvidia-gears-up-its-influence-in-washington-forming-pac-tells-employees-that-decisions-congress-makes-over-the-coming-years-could-have-substantial-consequences-for-the-ai-industry-according-to-report",
+    "source": "Tom's Hardware",
+    "date": "2026-08-28",
+    "summary": "Nvidia establishes its employees federal political action committee (PAC) to fund politicians whose positions are favorable to Nvidia's interests.",
+    "category": "hardware",
+    "image": "https://cdn.mos.cms.futurecdn.net/mSegjyKT4pHoDKsKQkQa9j-1280-80.jpg",
+    "id": 13
+  },
+  {
+    "title": "DLSS 5 has already been ported to work on RTX 4000 Series graphics cards — incompatible CUDA instructions get patched to work on previous-gen hardware",
+    "url": "https://www.tomshardware.com/pc-components/gpus/exclusive-dlss-5-has-already-been-ported-to-work-on-rtx-4000-series-graphics-cards-incompatible-cuda-instructions-get-patched-to-work-on-previous-gen-hardware",
+    "source": "Tom's Hardware",
+    "date": "2026-08-28",
+    "summary": "One modder has reverse-engineered DLSS 5 to function on RTX 4000 series Ada Lovelace-based GPUs, porting incompatible CUDA instructions within the Neural Rendering DLL, enabling them to be read on pre...",
+    "category": "models",
+    "image": "https://cdn.mos.cms.futurecdn.net/XWFApR3UjpmFwiQ2t7DdNV-1280-80.png",
+    "id": 14
   },
   {
     "title": "Cloudflare frees up 100TB of RAM by shrinking 1.1.1.1's DNS cache entries — 250 billion cached DNS entries at any given time means one wasted byte costs 250GB",
@@ -27,7 +143,7 @@
     "summary": "Cloudflare says that it has freed up roughly 100TB of RAM across its global fleet without reconfiguring any physical RAM modules in its servers.",
     "category": "hardware",
     "image": "https://cdn.mos.cms.futurecdn.net/QVUrvD86z3UYAMVohMuQcD-1280-80.jpg",
-    "id": 3
+    "id": 15
   },
   {
     "title": "Nvidia denies pausing AI cloud commitments initiative after reported partner backlash — report claims company told cloud providers it could only lease its GPUs to Nvidia-approved customers",
@@ -37,7 +153,7 @@
     "summary": "Nvidia denies putting AI cloud commitments initiative on hold despite reports that some deals were paused amid partner pushback over customer controls and concerns about potential antitrust scrutiny.",
     "category": "hardware",
     "image": "https://cdn.mos.cms.futurecdn.net/dRrumQbyPzGfGLECutnkSU-1280-80.jpg",
-    "id": 4
+    "id": 16
   },
   {
     "title": "Micron workers increasingly support strike over bonus pay — labor union wants profit-sharing scheme, as employees at Samsung, SK hynix enjoy bonuses worth hundreds of thousands of dollars",
@@ -47,7 +163,7 @@
     "summary": "80% of Micron workers in Taiwan have signaled that they're willing to go on strike if the company does not strike a deal over bonuses. The employees want to replace the current bonus system with a pro...",
     "category": "hardware",
     "image": "https://cdn.mos.cms.futurecdn.net/r4EqVPQPb5RUnrXurEfjbM-1280-80.jpg",
-    "id": 5
+    "id": 17
   },
   {
     "title": "X busts 200,000-strong Chinese bot farm, including accounts making claims about AI data centers and electricity — suspect accounts posted claims about pricing and grid strain to 'manipulate' debate",
@@ -57,7 +173,7 @@
     "summary": "The X Safety Team said that at least 200 bot accounts have been making posts to influence public opinion data centers and energy policy. The accounts share links to legitimate news stories and then ad...",
     "category": "hardware",
     "image": "https://cdn.mos.cms.futurecdn.net/iBu6BXKDx9eNtLPFhAZHXh-1280-80.jpg",
-    "id": 6
+    "id": 18
   },
   {
     "title": "Google clamps down on Android app RAM usage amid AI memory crisis — developers have until February 2027 to adapt to new memory-optimizing rules",
@@ -67,7 +183,7 @@
     "summary": "Google implements stricter memory limits and introduces new performance standards for Android apps.",
     "category": "hardware",
     "image": "https://cdn.mos.cms.futurecdn.net/wURzf9nJgxbUidK2zg7ajX-1280-80.jpg",
-    "id": 7
+    "id": 19
   },
   {
     "title": "Intel 14A defect density is dropping faster than the company expected — 'we have not seen this performance since 22nm,' says CFO",
@@ -77,7 +193,7 @@
     "summary": "Intel says defect density of 14A process technology is declining rapidly as internal teams are already developing 14A-based products, while external clients are now wondering about capacity that Intel...",
     "category": "hardware",
     "image": "https://cdn.mos.cms.futurecdn.net/pcJYq5tWJ3tEco6bEWmGjC-1280-80.jpg",
-    "id": 8
+    "id": 20
   },
   {
     "title": "SK hynix breaks ground on the first HBM plant in the US, bringing key AI component production to the States — says production starts in 2029",
@@ -87,7 +203,7 @@
     "summary": "SK hynix breaks ground on HBM assembly plant in the U.S. that will form a connection between DRAM wafers produced in South Korea and their consumers among AI companies in the U.S.",
     "category": "hardware",
     "image": "https://cdn.mos.cms.futurecdn.net/vdguSryvDxvr9spm9qGncn-1280-80.jpg",
-    "id": 9
+    "id": 21
   },
   {
     "title": "Indiana power provider proposes $59 million rate cut for state, says data centers and other large customers are driving increased revenue — move could potentially save residential users $100 annually",
@@ -97,7 +213,7 @@
     "summary": "I&M, which serves part of Indiana, says that it plans to cut electricity prices for the state, resulting in savings of about $59 million for residential users. This translates to about $100 a year for...",
     "category": "industry",
     "image": "https://cdn.mos.cms.futurecdn.net/nMpGxyNRpeTtdVGXCfFq7g-1280-80.png",
-    "id": 10
+    "id": 22
   },
   {
     "title": "Claude nukes a developer's 700 GB home directory while testing deletion safeguards; automatic model safety downgrade may have contributed to the screw-up — Anthropic safety harness downgraded model to Opus 4.8 before fatal variable collision",
@@ -107,17 +223,47 @@
     "summary": "Claude nuked a developer's 700 GB home directory while testing a script to ensure that wouldn't happen, and it's possible that an automatic model downgrade likely contributed to the screw-up",
     "category": "models",
     "image": "https://cdn.mos.cms.futurecdn.net/rooXvESoBpBpBGCkrJPnwC-1280-80.jpg",
-    "id": 11
+    "id": 23
   },
   {
-    "title": "Anthropic gets its first court win over the Pentagon’s supply chain risk label",
+    "title": "Neocloud Lambda secures $1B in debt to buy more chips",
+    "url": "https://techcrunch.com/2026/08/28/neocloud-lambda-secures-1b-in-debt-to-buy-more-chips/",
+    "source": "TechCrunch",
+    "date": "2026-08-28",
+    "summary": "Neocloud Lambda has raised $1B in private debt to buy Nvidia AI chips and lease them to Microsoft. It's the latest in a string of loans, underscoring the high cost of the AI boom.",
+    "category": "hardware",
+    "image": "https://techcrunch.com/wp-content/uploads/2026/06/Chip-chips-dollar-signs-money.png?resize=1200,960",
+    "id": 24
+  },
+  {
+    "title": "An Anthropic researcher just gave us a peek at self-improving AI",
+    "url": "https://techcrunch.com/2026/08/28/an-anthropic-researcher-just-gave-us-a-peek-at-self-improving-ai/",
+    "source": "TechCrunch",
+    "date": "2026-08-28",
+    "summary": "Given 10 benchmarks for specific misaligned behaviors, the automated systems were able to improve performance on every single one without degrading overall performance.",
+    "category": "research",
+    "image": "https://techcrunch.com/wp-content/uploads/2026/08/GettyImages-2287646148.jpg?resize=1200,901",
+    "id": 25
+  },
+  {
+    "title": "Open-weight AI companies are the Valley’s hottest acquisition targets",
+    "url": "https://techcrunch.com/2026/08/28/open-weight-ai-companies-are-the-valleys-hottest-acquisition-targets/",
+    "source": "TechCrunch",
+    "date": "2026-08-28",
+    "summary": "There's a lot of capital pouring into the business of giving models away.",
+    "category": "models",
+    "image": "https://techcrunch.com/wp-content/uploads/2026/07/GettyImages-1849294862.jpg?w=1024",
+    "id": 26
+  },
+  {
+    "title": "Anthropic gets its first court win over the Pentagon’s supply-chain risk label",
     "url": "https://techcrunch.com/2026/08/28/anthropic-gets-its-first-court-win-over-the-pentagons-supply-chain-risk-label/",
     "source": "TechCrunch",
     "date": "2026-08-28",
-    "summary": "A federal judge ruled the Trump administration illegally labeled Anthropic a supply chain risk, handing the AI company a victory as its second Pentagon lawsuit continues in Washington.",
+    "summary": "A federal judge ruled the Trump administration illegally labeled Anthropic a supply-chain risk, handing the AI company a victory as its second Pentagon lawsuit continues in Washington.",
     "category": "industry",
     "image": "https://techcrunch.com/wp-content/uploads/2026/06/GettyImages-2278736523.jpeg?resize=1200,798",
-    "id": 12
+    "id": 27
   },
   {
     "title": "Meta executive leaves for OpenAI as the social media giant faces growing scrutiny in India",
@@ -127,201 +273,94 @@
     "summary": "Sandhya Devanathan will oversee some OpenAI operations across Southeast Asia and Australia in her new role.",
     "category": "industry",
     "image": "https://techcrunch.com/wp-content/uploads/2026/06/Meta-image.jpg?w=1024",
-    "id": 13
+    "id": 28
   },
   {
-    "title": "My Local AI Journey",
-    "url": "https://www.thecodeblogs.com/@/JamesonNetworks/my-local-ai-journey",
+    "title": "Quanta.Ai.Code.Editor",
+    "url": "https://github.com/ContegoCode/Quanta-Code-Editor",
     "source": "Hacker News",
     "date": "2026-08-28",
-    "summary": "Article URL: https://www.thecodeblogs.com/@/JamesonNetworks/my-local-ai-journey Comments URL: https://news.ycombinator.com/item?id=49479519 Points: 1 # Comments: 0",
-    "category": "models",
-    "id": 14
-  },
-  {
-    "title": "I'm an AI given 5 hours to earn £90 – this is my shop",
-    "url": "https://claude.ai/code/artifact/3f015ec2-6091-4e5d-8e6d-2098a14410c9",
-    "source": "Hacker News",
-    "date": "2026-08-28",
-    "summary": "Article URL: https://claude.ai/code/artifact/3f015ec2-6091-4e5d-8e6d-2098a14410c9 Comments URL: https://news.ycombinator.com/item?id=49479470 Points: 1 # Comments: 0",
-    "category": "models",
-    "image": "https://claude.ai/images/claude_ogimage.png",
-    "id": 15
-  },
-  {
-    "title": "Grith is live – security proxy for AI coding agents",
-    "url": "https://grith.ai/blog/grith-is-live",
-    "source": "Hacker News",
-    "date": "2026-08-28",
-    "summary": "Article URL: https://grith.ai/blog/grith-is-live Comments URL: https://news.ycombinator.com/item?id=49479349 Points: 1 # Comments: 1",
+    "summary": "Article URL: https://github.com/ContegoCode/Quanta-Code-Editor Comments URL: https://news.ycombinator.com/item?id=49485587 Points: 2 # Comments: 2",
     "category": "industry",
-    "image": "https://grith.ai/og-image.png",
-    "id": 16
-  },
-  {
-    "title": "AI Doesn't Mean the End of Mathematics – At Least Not Yet",
-    "url": "https://www.schneier.com/blog/archives/2026/08/ai-doesnt-mean-the-end-of-mathematics-at-least-not-yet.html",
-    "source": "Hacker News",
-    "date": "2026-08-28",
-    "summary": "Article URL: https://www.schneier.com/blog/archives/2026/08/ai-doesnt-mean-the-end-of-mathematics-at-least-not-yet.html Comments URL: https://news.ycombinator.com/item?id=49479291 Points: 1 # Comments...",
-    "category": "industry",
-    "id": 17
-  },
-  {
-    "title": "Show HN: AI time-to-text predictive times series datasets running on device",
-    "url": "https://github.com/ikaruz050309/RobinHood",
-    "source": "Hacker News",
-    "date": "2026-08-28",
-    "summary": "Article URL: https://github.com/ikaruz050309/RobinHood Comments URL: https://news.ycombinator.com/item?id=49479216 Points: 1 # Comments: 0",
-    "category": "industry",
-    "image": "https://opengraph.githubassets.com/610fe69c19cc531df46809d7b8ad565d859c01d0dc61e06395d0c40b1b5eeffc/ikaruz050309/RobinHood",
-    "id": 18
-  },
-  {
-    "title": "Show HN: StreamCore – Open-source realtime voice infrastructure for AI",
-    "url": "https://github.com/streamcoreai/streamcore-server",
-    "source": "Hacker News",
-    "date": "2026-08-28",
-    "summary": "Article URL: https://github.com/streamcoreai/streamcore-server Comments URL: https://news.ycombinator.com/item?id=49479199 Points: 1 # Comments: 0",
-    "category": "hardware",
-    "image": "https://opengraph.githubassets.com/12637fedb85b684eb6a90e73927f737e731ca08480e60780f2af920d0b87371f/streamcoreai/streamcore-server",
-    "id": 19
-  },
-  {
-    "title": "Show HN: InferCrane – One stable endpoint for self-hosted AI inference",
-    "url": "https://infercrane.com",
-    "source": "Hacker News",
-    "date": "2026-08-28",
-    "summary": "Article URL: https://infercrane.com Comments URL: https://news.ycombinator.com/item?id=49479139 Points: 1 # Comments: 0",
-    "category": "industry",
-    "image": "https://infercrane.com/opengraph-image?11d88bb3f79fe425",
-    "id": 20
-  },
-  {
-    "title": "Show HN: Argus, open-source AI agents for testing web apps",
-    "url": "https://github.com/argus-testing/argus",
-    "source": "Hacker News",
-    "date": "2026-08-28",
-    "summary": "Article URL: https://github.com/argus-testing/argus Comments URL: https://news.ycombinator.com/item?id=49479115 Points: 2 # Comments: 0",
-    "category": "industry",
-    "image": "https://opengraph.githubassets.com/6d9cf9214d22d6bae42c0bc837f22537016a6ea37f4ad804ea188dc1a77cfb05/argus-testing/argus",
-    "id": 21
-  },
-  {
-    "title": "There are four types of AI sandboxes, maybe?",
-    "url": "https://edera.dev/stories/the-four-sandbox-markets-a-2x2-hypothesis",
-    "source": "Hacker News",
-    "date": "2026-08-28",
-    "summary": "Article URL: https://edera.dev/stories/the-four-sandbox-markets-a-2x2-hypothesis Comments URL: https://news.ycombinator.com/item?id=49479094 Points: 2 # Comments: 0",
-    "category": "industry",
-    "image": "https://cdn.prod.website-files.com/68dac009699a76c0c70f4c43/6a860c15429c041652e9cab9_Full-%20Sanbox%20Types%20Compared.png",
-    "id": 22
-  },
-  {
-    "title": "Show HN: Grith – syscall-level supervision for AI coding agents on Linux",
-    "url": "https://github.com/grith-ai/grith",
-    "source": "Hacker News",
-    "date": "2026-08-28",
-    "summary": "Article URL: https://github.com/grith-ai/grith Comments URL: https://news.ycombinator.com/item?id=49478820 Points: 2 # Comments: 0",
-    "category": "industry",
-    "image": "https://repository-images.githubusercontent.com/1231714977/3e7af0cf-4dc7-4822-b61c-2d236f25a570",
-    "id": 23
-  },
-  {
-    "title": "AI-proof? Younger workers desert the digital world for traditional crafts",
-    "url": "https://www.theguardian.com/money/2026/aug/27/ai-proof-jobs-traditional-crafts",
-    "source": "Hacker News",
-    "date": "2026-08-28",
-    "summary": "Article URL: https://www.theguardian.com/money/2026/aug/27/ai-proof-jobs-traditional-crafts Comments URL: https://news.ycombinator.com/item?id=49478755 Points: 2 # Comments: 0",
-    "category": "industry",
-    "image": "https://i.guim.co.uk/img/media/cb3a47a2bd8a43f9d87c1e4420887eba5736d2e2/651_572_4942_3955/master/4942.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=f2a34352411dfc91d245869b974e90f5",
-    "id": 24
+    "image": "https://opengraph.githubassets.com/753458cddbd41218ea49878e6118351490b8598be13c3bfdcc6c222e2401b831/ContegoCode/Quanta-Code-Editor",
+    "id": 29
   },
   {
     "title": "I accidentally turned LLM memory into program analysis",
     "url": "https://pwning.systems/posts/llm-memory-program-analysis/",
     "source": "Hacker News",
     "date": "2026-08-28",
-    "summary": "Article URL: https://pwning.systems/posts/llm-memory-program-analysis/ Comments URL: https://news.ycombinator.com/item?id=49478610 Points: 3 # Comments: 0",
+    "summary": "Article URL: https://pwning.systems/posts/llm-memory-program-analysis/ Comments URL: https://news.ycombinator.com/item?id=49485416 Points: 13 # Comments: 3",
     "category": "models",
     "image": "https://pwning.systems/og.png",
-    "id": 25
-  },
-  {
-    "title": "Overlap: Local file tagging and querying for macOS with on-device AI suggestions",
-    "url": "https://github.com/cruxxxxxx/Overlap",
-    "source": "Hacker News",
-    "date": "2026-08-28",
-    "summary": "Article URL: https://github.com/cruxxxxxx/Overlap Comments URL: https://news.ycombinator.com/item?id=49478505 Points: 2 # Comments: 0",
-    "category": "industry",
-    "image": "https://opengraph.githubassets.com/bd663829c2b2679f253abdb4ba316bd56fd74352afae40ce03a9165a0922502c/cruxxxxxx/Overlap",
-    "id": 26
-  },
-  {
-    "title": "Why Auditability and Compliance Are Now Non-Negotiable for Enterprise AI Agents",
-    "url": "https://medium.com/@MirArshadTalpur/why-auditability-and-compliance-are-now-non-negotiable-for-enterprise-ai-agents-8654c6e9b237",
-    "source": "Hacker News",
-    "date": "2026-08-28",
-    "summary": "Article URL: https://medium.com/@MirArshadTalpur/why-auditability-and-compliance-are-now-non-negotiable-for-enterprise-ai-agents-8654c6e9b237 Comments URL: https://news.ycombinator.com/item?id=4947841...",
-    "category": "industry",
-    "id": 27
-  },
-  {
-    "title": "AI Agent Guardrails Don't Work. Safer Platforms Do",
-    "url": "https://www.syntasso.io/post/ai-agent-guardrails-don-t-work-safer-platforms-do",
-    "source": "Hacker News",
-    "date": "2026-08-28",
-    "summary": "Article URL: https://www.syntasso.io/post/ai-agent-guardrails-don-t-work-safer-platforms-do Comments URL: https://news.ycombinator.com/item?id=49478360 Points: 3 # Comments: 0",
-    "category": "tools",
-    "id": 28
-  },
-  {
-    "title": "Apple's rare Bay Area layoffs hit Vision Pro and Siri teams amid AI shakeup",
-    "url": "https://www.latimes.com/business/story/2026-08-27/apple-lays-off-147-employees",
-    "source": "Hacker News",
-    "date": "2026-08-28",
-    "summary": "Article URL: https://www.latimes.com/business/story/2026-08-27/apple-lays-off-147-employees Comments URL: https://news.ycombinator.com/item?id=49478333 Points: 2 # Comments: 0",
-    "category": "industry",
-    "image": "https://ca-times.brightspotcdn.com/dims4/default/5c6df53/2147483647/strip/true/crop/5672x2978+0+402/resize/1200x630!/quality/75/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2Fbc%2F4d%2Fe6ef9b60acdb059ca6ad3dcc4663%2Fba954b76a0774ce5900406d81807b78d",
-    "id": 29
-  },
-  {
-    "title": "KHMS – a file-based long-term memory an LLM agent installs into itself",
-    "url": "https://github.com/kostey/khms-memory",
-    "source": "Hacker News",
-    "date": "2026-08-28",
-    "summary": "Article URL: https://github.com/kostey/khms-memory Comments URL: https://news.ycombinator.com/item?id=49478170 Points: 2 # Comments: 0",
-    "category": "models",
-    "image": "https://opengraph.githubassets.com/61f2d06cba9fa2719baa1da4502e03ee23655023c69580b4386d416a6642e859/kostey/khms-memory",
     "id": 30
   },
   {
-    "title": "We need to talk about migrations with AI",
-    "url": "https://blog.pragmaticengineer.com/the-pulse-we-need-to-talk-about-migrations-with-ai/",
+    "title": "FreshCtx – Invalidate AI reasoning when its evidence changes",
+    "url": "https://github.com/Hyperwise-LLC/freshctx",
     "source": "Hacker News",
     "date": "2026-08-28",
-    "summary": "Article URL: https://blog.pragmaticengineer.com/the-pulse-we-need-to-talk-about-migrations-with-ai/ Comments URL: https://news.ycombinator.com/item?id=49478165 Points: 8 # Comments: 1",
+    "summary": "Article URL: https://github.com/Hyperwise-LLC/freshctx Comments URL: https://news.ycombinator.com/item?id=49485021 Points: 2 # Comments: 1",
     "category": "research",
+    "image": "https://opengraph.githubassets.com/10ec4a9d8de09aae13c3bad49ee897958f98753f6e58724c078e481073a3c4e5/Hyperwise-LLC/freshctx",
     "id": 31
   },
   {
-    "title": "DHH: Future of Programming, AI, Agentic Engineering, Vibe Coding and Linux",
-    "url": "https://www.youtube.com/watch?v=NYFGCESmikA",
+    "title": "Identifying fake cosmetics using AI",
+    "url": "https://groverlab.org/hnbfpr/2026-08-26-ai-counterfeit-cosmetics.html",
     "source": "Hacker News",
     "date": "2026-08-28",
-    "summary": "Article URL: https://www.youtube.com/watch?v=NYFGCESmikA Comments URL: https://news.ycombinator.com/item?id=49478095 Points: 4 # Comments: 0",
+    "summary": "Article URL: https://groverlab.org/hnbfpr/2026-08-26-ai-counterfeit-cosmetics.html Comments URL: https://news.ycombinator.com/item?id=49484925 Points: 30 # Comments: 12",
     "category": "industry",
     "id": 32
   },
   {
-    "title": "Show HN: OnlyBots.chat – a chatroom where AI pays to post for humans",
-    "url": "https://onlybots.chat",
+    "title": "Show HN: A2acast – Let AI agents on different computers work together",
+    "url": "https://github.com/husker/a2acast",
     "source": "Hacker News",
     "date": "2026-08-28",
-    "summary": "Article URL: https://onlybots.chat Comments URL: https://news.ycombinator.com/item?id=49478013 Points: 3 # Comments: 5",
+    "summary": "Article URL: https://github.com/husker/a2acast Comments URL: https://news.ycombinator.com/item?id=49484874 Points: 4 # Comments: 0",
     "category": "industry",
-    "image": "https://onlybots.chat/opengraph-image",
+    "image": "https://opengraph.githubassets.com/aabf2832097ea4dbd3136326a04c83e96ecd5bf43464e07d253074874f80e86a/husker/a2acast",
     "id": 33
+  },
+  {
+    "title": "The AI Backlash Gets Professional",
+    "url": "https://www.theatlantic.com/technology/2026/08/irreplaceable-climate-activists-ai-backlash/688404/",
+    "source": "Hacker News",
+    "date": "2026-08-28",
+    "summary": "Article URL: https://www.theatlantic.com/technology/2026/08/irreplaceable-climate-activists-ai-backlash/688404/ Comments URL: https://news.ycombinator.com/item?id=49484801 Points: 3 # Comments: 2",
+    "category": "industry",
+    "image": "https://cdn.theatlantic.com/thumbor/jBWVjvToeZSIGlfagUNyjpA_fKk=/0x43:2000x1085/1200x625/media/img/mt/2026/08/aiclimate/original.png",
+    "id": 34
+  },
+  {
+    "title": "The State of Conversational AI, Q3 2026",
+    "url": "https://ethora.com/research/state-of-conversational-ai-2026-q3/",
+    "source": "Hacker News",
+    "date": "2026-08-28",
+    "summary": "Article URL: https://ethora.com/research/state-of-conversational-ai-2026-q3/ Comments URL: https://news.ycombinator.com/item?id=49484783 Points: 1 # Comments: 0",
+    "category": "research",
+    "id": 35
+  },
+  {
+    "title": "AI demands more engineering discipline. Not less",
+    "url": "https://charity.wtf/p/ai-demands-more-engineering-discipline",
+    "source": "Hacker News",
+    "date": "2026-08-28",
+    "summary": "Article URL: https://charity.wtf/p/ai-demands-more-engineering-discipline Comments URL: https://news.ycombinator.com/item?id=49484743 Points: 6 # Comments: 1",
+    "category": "industry",
+    "image": "https://substackcdn.com/image/fetch/$s_!aax3!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fef553825-6e34-4653-ba0d-3e9b416c225f_1774x887.png",
+    "id": 36
+  },
+  {
+    "title": "The Last Straw: How the AI Race May Deepen America's $40T Debt Crisis",
+    "url": "https://abundanist.substack.com/p/the-last-straw",
+    "source": "Hacker News",
+    "date": "2026-08-28",
+    "summary": "Article URL: https://abundanist.substack.com/p/the-last-straw Comments URL: https://news.ycombinator.com/item?id=49484725 Points: 2 # Comments: 0",
+    "category": "industry",
+    "id": 37
   },
   {
     "title": "AI Has Human Doctors Asking: What’s Left for Us?",
@@ -331,7 +370,7 @@
     "summary": "A recent paper argues that AI is often better at doctoring than doctors. Guess who isn't thrilled.",
     "category": "research",
     "image": "https://media.wired.com/photos/6a909d466b1fcc4b68700cd4/191:100/w_1280,c_limit/Backchannel-AI-Doctors-Business-1267508918.jpg",
-    "id": 34
+    "id": 38
   },
   {
     "title": "He Scraped All of Their Art for AI. Now He’s Collaborating on a Tool to Help Them",
@@ -341,7 +380,7 @@
     "summary": "The art portfolio platform Cara, designed for creators who don’t want their work used to train AI, has been under assault by trolls seizing and publishing its data.",
     "category": "tools",
     "image": "https://media.wired.com/photos/6a8f719f1780b42ea22395f3/191:100/w_1280,c_limit/Anti-AI-Artists-Gathered-to-Share-Their-Handmade-Work-Culture.jpg",
-    "id": 35
+    "id": 39
   },
   {
     "title": "Inside Meta’s Push to Put Robots to Work in Data Centers",
@@ -351,7 +390,7 @@
     "summary": "The company is testing robots that can swap cables, reset servers, and take on other tasks performed by technicians, fueling concerns among some workers that their jobs could be at risk.",
     "category": "hardware",
     "image": "https://media.wired.com/photos/6a8778d3964ec62bf0f4c98f/191:100/w_1280,c_limit/Inside-Meta-Experiments-with-Data-Center-Robots-Business.jpg",
-    "id": 36
+    "id": 40
   },
   {
     "title": "A Judge Has Blocked the Pentagon’s Attempt to Blacklist Anthropic",
@@ -361,7 +400,7 @@
     "summary": "A federal judge has called the Department of Defense’s designation of Anthropic as a national security supply-chain risk “illegal and baseless.”",
     "category": "industry",
     "image": "https://media.wired.com/photos/6a90f2d127d3f5cec6f46d70/191:100/w_1280,c_limit/2261854833",
-    "id": 37
+    "id": 41
   },
   {
     "title": "EduRiskX: A Neuro-Symbolic Framework with F-Logic Reasoning for Early Academic Risk Prediction",
@@ -370,7 +409,7 @@
     "date": "2026-08-28",
     "summary": "Predicting students' academic risk in online education is crucial for enabling timely interventions that can improve retention and learning outcomes. However, existing models often suffer from limited...",
     "category": "research",
-    "id": 38
+    "id": 42
   },
   {
     "title": "Standalone LLM and a Pre-specified Agentic Pipeline for Explaining ICU Mortality Predictions: a Feasibility Study on the eICU Demo Dataset",
@@ -379,7 +418,7 @@
     "date": "2026-08-28",
     "summary": "Machine-learning models can predict ICU mortality accurately, but feature-attribution methods alone rarely provide the clinical narrative needed for bedside use. Large language models (LLMs) may bridg...",
     "category": "research",
-    "id": 39
+    "id": 43
   },
   {
     "title": "Large Models for Battery Prognostics and Health Management: A Review and Future Roadmap",
@@ -388,7 +427,7 @@
     "date": "2026-08-28",
     "summary": "Battery Prognostics and Health Management (BPHM) is critical for ensuring the safe, reliable, and cost-effective operation of batteries across electric vehicles, grid storage, and consumer electronics...",
     "category": "models",
-    "id": 40
+    "id": 44
   },
   {
     "title": "PICasso: An AI-Enabled Design Framework for Autonomous Optimization of Silicon Photonic Devices",
@@ -397,7 +436,7 @@
     "date": "2026-08-28",
     "summary": "We present PICasso, an AI-assisted framework for automated synthesis, verification, and optimization of photonic integrated circuits (PICs) from natural-language specifications. PICasso couples a stru...",
     "category": "models",
-    "id": 41
+    "id": 45
   },
   {
     "title": "CIFQA: A Deterministic Tool-Grounded Multi-Agent LLM Framework for Financial Query Answering",
@@ -406,7 +445,7 @@
     "date": "2026-08-28",
     "summary": "Calculation-intensive financial question answering requires exact reasoning over structured rates, temporal conditions, numerical formulas, and rule-based constraints. Although Large Language Models (...",
     "category": "models",
-    "id": 42
+    "id": 46
   },
   {
     "title": "The Artificial Experimentalist: Discovery and Control of Self-Organizing Phenomena with Autotelic Reinforcement Learning",
@@ -415,7 +454,7 @@
     "date": "2026-08-28",
     "summary": "Existing methods for exploring cellular automata and other complex systems mostly operate in open loop: they set initial conditions, execute a full simulation, and observe the outcome, without interve...",
     "category": "research",
-    "id": 43
+    "id": 47
   },
   {
     "title": "The Accuracy-Efficiency Paradox Quantifying Net Energy Loss in on-Device Energy Forecasting",
@@ -424,7 +463,7 @@
     "date": "2026-08-28",
     "summary": "Energy forecasting aims to maximize accuracy to ensure energy efficiency by reducing energy waste, an objective that applies equally to on-device forecasting for mission-critical edge environments, in...",
     "category": "research",
-    "id": 44
+    "id": 48
   },
   {
     "title": "LLMs for Academic Workflows: An Evaluation of Literature Reviews Generated with Short and Long Context Windows of LLMs",
@@ -433,7 +472,7 @@
     "date": "2026-08-28",
     "summary": "Our research focuses on evaluating literature reviews generated in short and long context settings of large language models (LLMs) to investigate the impact of context window on the quality of AI-gene...",
     "category": "models",
-    "id": 45
+    "id": 49
   },
   {
     "title": "Methodological and Conceptual Framework for 5D Multi-Table Analysis: A Unified Approach for Complex Data Reuse",
@@ -442,42 +481,6 @@
     "date": "2026-08-28",
     "summary": "Multi-table learning remains a major challenge in machine learning for healthcare and other complex information systems. Relational data combine several sources of complexity, including large data vol...",
     "category": "research",
-    "id": 46
-  },
-  {
-    "title": "Leveraging Large Language Models for Systematic Literature Review of Disease Spread Models",
-    "url": "https://arxiv.org/abs/2608.26150",
-    "source": "arXiv cs.AI",
-    "date": "2026-08-28",
-    "summary": "Recent advancements in Large Language Models (LLMs) have created new opportunities to streamline and potentially automate many research processes, including systematic literature reviews (SLRs). This ...",
-    "category": "research",
-    "id": 47
-  },
-  {
-    "title": "Explainable Artificial Intelligence for Customer Churn Prediction in Telecommunications: A Framework for CRM Integration",
-    "url": "https://arxiv.org/abs/2608.26151",
-    "source": "arXiv cs.AI",
-    "date": "2026-08-28",
-    "summary": "Subscriber attrition is a costly, persistent challenge for telecommunications providers, with monthly churn of roughly 1.9% in mature markets eroding billions in revenue annually. Predictive models ca...",
-    "category": "industry",
-    "id": 48
-  },
-  {
-    "title": "EEG-to-Report: An Annotation and Feature-Text Framework for Training Language Models on Clinical EEG",
-    "url": "https://arxiv.org/abs/2608.26153",
-    "source": "arXiv cs.AI",
-    "date": "2026-08-28",
-    "summary": "Clinical electroencephalography (EEG) reporting remains largely manual and time-consuming, and current EEG software ecosystems do not produce the structured EEG-text supervision needed for training mo...",
-    "category": "models",
-    "id": 49
-  },
-  {
-    "title": "Selection Bias Correction in Retail Intelligence",
-    "url": "https://arxiv.org/abs/2608.26156",
-    "source": "arXiv cs.AI",
-    "date": "2026-08-28",
-    "summary": "Retail intelligence often relies on monitoring popular, high-velocity products, potentially biasing economic indicators by ignoring the \"long tail\" of niche items. This simulation study investigates s...",
-    "category": "hardware",
     "id": 50
   }
 ]
