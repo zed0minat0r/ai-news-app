@@ -1,5 +1,36 @@
 [
   {
+    "title": "SpaceX starts in-house turbine blade manufacturing to boost gas-powered generator output for Elon's AI data centers — new manufacturing strategy cuts generator delays by 18 months",
+    "url": "https://www.tomshardware.com/tech-industry/data-centers/spacex-starts-in-house-turbine-blade-manufacturing-to-boost-gas-powered-generator-output-for-elons-ai-data-centers-new-manufacturing-strategy-cuts-generator-delays-by-18-months",
+    "source": "Tom's Hardware",
+    "date": "2026-08-30",
+    "summary": "Turbine blades and vanes are among the most complicated turbine engine parts to build, with processes taking as long as 60 to 90 weeks. Because of this, Musk wants to bring their manufacturing in-hous...",
+    "category": "hardware",
+    "image": "https://cdn.mos.cms.futurecdn.net/uvS8pvPPERWH4avEKBf4DG-1280-80.png",
+    "id": 1,
+    "featured": true
+  },
+  {
+    "title": "Donkey Kong 64 finally gets a fully native PC port written in C — DK64 ReKONGpiled brings ultrawide support, uncapped framerates, and zero AI code",
+    "url": "https://www.tomshardware.com/video-games/retro-gaming/donkey-kong-64-finally-gets-a-fully-native-pc-port-written-in-c-dk64-rekongpiled-brings-ultrawide-support-uncapped-framerates-and-zero-ai-code",
+    "source": "Tom's Hardware",
+    "date": "2026-08-30",
+    "summary": "A team of veteran developers has recompiled Donkey Kong 64 in C, so it runs natively on Windows, Linux, and Mac. The entire project is free, uses no generative AI, but still includes more features tha...",
+    "category": "tools",
+    "image": "https://cdn.mos.cms.futurecdn.net/g9mwqfQ48c4bbCPufZvAWh-1280-80.png",
+    "id": 2
+  },
+  {
+    "title": "Adata Urban Tapsafe 2TB review: Solid-state storage you unlock with your phone",
+    "url": "https://www.tomshardware.com/pc-components/external-ssds/adata-urban-tapsafe-2tb-review",
+    "source": "Tom's Hardware",
+    "date": "2026-08-30",
+    "summary": "Adata's Urban Tapsafe portable SSD sports magnetic face plates, a metal mounting clip, the ability to unlock the drive with your phone, and share selective access with others via an app.",
+    "category": "research",
+    "image": "https://cdn.mos.cms.futurecdn.net/7kbdP8gnzPwLWB4FhCxBd3-1280-80.jpg",
+    "id": 3
+  },
+  {
     "title": "Poor liquid metal application almost destroys Asus Zephyrus M16 laptop, eats through the processor lid — paste replacement triples framerates, drops temps, and eliminates hard crashes",
     "url": "https://www.tomshardware.com/laptops/gaming-laptops/poor-liquid-metal-application-almost-destroys-asus-zephyrus-m16-laptop-eats-through-the-processor-lid-paste-replacement-triples-framerates-drops-temps-and-eliminates-hard-crashes",
     "source": "Tom's Hardware",
@@ -7,8 +38,7 @@
     "summary": "A user on Reddit shared their story about how the factory-applied liquid metal on their Asus Zephyrus M16 gaming laptop corroded the heatsink and lid of their CPU. It got so bad that the corrosion was...",
     "category": "hardware",
     "image": "https://cdn.mos.cms.futurecdn.net/f98kn6LTf9puLMozhrFM5F-1280-80.png",
-    "id": 1,
-    "featured": true
+    "id": 4
   },
   {
     "title": "Modders solder power cables directly to RTX 5090 PCB to eliminate notorious melting 16-pin connector — bare-board Galax HOF card pulls 600W under chiller cooling",
@@ -18,186 +48,208 @@
     "summary": "TecLab, a Brazilian YouTuber, has just shown the most dangerous method of bypassing the 16-pin connector on an RTX 5090 — by soldering wires directly to the card's PCB. In an attempt to save the GPU f...",
     "category": "hardware",
     "image": "https://cdn.mos.cms.futurecdn.net/35BFzKzoKEL3DVg4G2hTNX-1280-80.png",
-    "id": 2
-  },
-  {
-    "title": "Show HN: 1endpoint – Cheaper access to AI models",
-    "url": "https://1endpoint.dev",
-    "source": "Hacker News",
-    "date": "2026-08-30",
-    "summary": "1endpoint is a unified AI inference gateway. We support OpenAI Chat Completions, Responses API and Anthropic Messages, so existing tools and agents can usually point to 1endpoint without changing much...",
-    "category": "tools",
-    "image": "https://1endpoint.dev/_enfyra/nuxt-seo/og?path=%2F",
-    "id": 3
-  },
-  {
-    "title": "Show HN: Get your free AI search visibility scan",
-    "url": "https://www.visiscan.app",
-    "source": "Hacker News",
-    "date": "2026-08-30",
-    "summary": "Article URL: https://www.visiscan.app Comments URL: https://news.ycombinator.com/item?id=49497538 Points: 1 # Comments: 0",
-    "category": "industry",
-    "image": "https://www.visiscan.app/opengraph-image?13f437d53ffe42e5",
-    "id": 4
-  },
-  {
-    "title": "Only believe what you can validate: a verification framework for agentic AI",
-    "url": "https://devblogs.microsoft.com/all-things-azure/only-believe-what-you-can-validate/",
-    "source": "Hacker News",
-    "date": "2026-08-30",
-    "summary": "Article URL: https://devblogs.microsoft.com/all-things-azure/only-believe-what-you-can-validate/ Comments URL: https://news.ycombinator.com/item?id=49497440 Points: 2 # Comments: 0",
-    "category": "tools",
-    "image": "https://devblogs.microsoft.com/all-things-azure/wp-content/uploads/sites/83/2026/08/article-feature.webp",
     "id": 5
   },
   {
-    "title": "VibeGuard – security linter for AI-generated code",
-    "url": "https://github.com/zeroFhacker/vibeguard",
-    "source": "Hacker News",
+    "title": "Caterpillar is bringing to AI deployment what it learned from automating mining",
+    "url": "https://techcrunch.com/2026/08/30/caterpillar-is-bringing-to-ai-deployment-what-it-learned-from-automating-mining/",
+    "source": "TechCrunch",
     "date": "2026-08-30",
-    "summary": "Article URL: https://github.com/zeroFhacker/vibeguard Comments URL: https://news.ycombinator.com/item?id=49497389 Points: 1 # Comments: 0",
-    "category": "industry",
-    "image": "https://opengraph.githubassets.com/9ebd502c007144f6f79634cc0e6003c86b43bd7477d4a5fd2ffaebd2fa1e17b5/zeroFhacker/vibeguard",
+    "summary": "Caterpillar has spent decades putting autonomous machines to work at remote mining sites. It's now bringing that experience to AI deployment.",
+    "category": "tools",
+    "image": "https://techcrunch.com/wp-content/uploads/2023/01/caterpillar-lidar-booth.jpg?resize=1200,800",
     "id": 6
   },
   {
-    "title": "Observations Around Prominent Programmer Sentiment and AI",
-    "url": "https://blog.g9n.com/observations-around-prominent-programmer-sentiment-and-ai",
+    "title": "Show HN: CardGo – Reusable, end-to-end encrypted context cards for AI chats",
+    "url": "https://cardgo.ai",
     "source": "Hacker News",
     "date": "2026-08-30",
-    "summary": "Article URL: https://blog.g9n.com/observations-around-prominent-programmer-sentiment-and-ai Comments URL: https://news.ycombinator.com/item?id=49497358 Points: 1 # Comments: 0",
+    "summary": "Article URL: https://cardgo.ai Comments URL: https://news.ycombinator.com/item?id=49499893 Points: 2 # Comments: 0",
     "category": "industry",
+    "image": "https://cardgo.ai/og.png",
     "id": 7
   },
   {
-    "title": "Fair Work Commission condemns 'plain wrong' AI legal advice",
-    "url": "https://www.abc.net.au/news/2026-08-29/fair-work-commission-condemns-ai-legal-advice/107089766",
+    "title": "Poll: What will a better LLM do for me?",
+    "url": "https://news.ycombinator.com/item?id=49499871",
     "source": "Hacker News",
     "date": "2026-08-30",
-    "summary": "Article URL: https://www.abc.net.au/news/2026-08-29/fair-work-commission-condemns-ai-legal-advice/107089766 Comments URL: https://news.ycombinator.com/item?id=49497357 Points: 14 # Comments: 2",
-    "category": "industry",
-    "image": "https://live-production.wcms.abc-cdn.net.au/228704f43c5a1c7837340c945eedf7b2?impolicy=wcms_watermark_news&cropH=1687&cropW=3000&xPos=0&yPos=88&width=862&height=485&imformat=generic",
+    "summary": "Comments URL: https://news.ycombinator.com/item?id=49499871 Points: 2 # Comments: 0",
+    "category": "models",
     "id": 8
   },
   {
-    "title": "What We Tell AI",
-    "url": "https://www.whatwetellai.com/",
+    "title": "From Diagnoses to Treatments, Why Americans Use AI Chatbots for Health",
+    "url": "https://www.pewresearch.org/science/2026/08/25/from-diagnoses-to-treatments-why-americans-use-ai-chatbots-for-health/",
     "source": "Hacker News",
     "date": "2026-08-30",
-    "summary": "Article URL: https://www.whatwetellai.com/ Comments URL: https://news.ycombinator.com/item?id=49497334 Points: 3 # Comments: 0",
-    "category": "industry",
+    "summary": "Article URL: https://www.pewresearch.org/science/2026/08/25/from-diagnoses-to-treatments-why-americans-use-ai-chatbots-for-health/ Comments URL: https://news.ycombinator.com/item?id=49499784 Points: 1...",
+    "category": "research",
+    "image": "https://www.pewresearch.org/wp-content/uploads/sites/20/2026/08/PS_26.08.25_AI-Chat-featured.jpg?w=1200&h=628&crop=1",
     "id": 9
   },
   {
-    "title": "We built this after an AI agent misread a risk signal and moved $1.2M in trades",
-    "url": "https://runplane.ai",
+    "title": "Collapse in Support for AI Data Centers Captured in New Poll",
+    "url": "https://www.commondreams.org/news/data-center-poll-collapse",
     "source": "Hacker News",
     "date": "2026-08-30",
-    "summary": "Article URL: https://runplane.ai Comments URL: https://news.ycombinator.com/item?id=49497238 Points: 2 # Comments: 1",
-    "category": "industry",
+    "summary": "Article URL: https://www.commondreams.org/news/data-center-poll-collapse Comments URL: https://news.ycombinator.com/item?id=49499671 Points: 3 # Comments: 2",
+    "category": "hardware",
+    "image": "https://www.commondreams.org/media-library/image.jpg?id=67654346&width=1200&height=600&coordinates=0%2C416%2C0%2C417",
     "id": 10
   },
   {
-    "title": "Workers in their 40s, 50s and 60s are the most positive about AI",
-    "url": "https://www.bloomberg.com/news/articles/2026-08-27/older-workers-are-more-upbeat-about-ai-than-20-somethings",
+    "title": "Debian Votes to Allow \"Responsible Use of Generative AI\"",
+    "url": "https://www.phoronix.com/news/Debian-Votes-Responsible-AI-Use",
     "source": "Hacker News",
     "date": "2026-08-30",
-    "summary": "Article URL: https://www.bloomberg.com/news/articles/2026-08-27/older-workers-are-more-upbeat-about-ai-than-20-somethings Comments URL: https://news.ycombinator.com/item?id=49497225 Points: 3 # Commen...",
+    "summary": "Article URL: https://www.phoronix.com/news/Debian-Votes-Responsible-AI-Use Comments URL: https://news.ycombinator.com/item?id=49499662 Points: 1 # Comments: 3",
     "category": "industry",
     "id": 11
   },
   {
-    "title": "General resolution: LLM usage in Debian: Results",
-    "url": "https://lists.debian.org/debian-devel-announce/2026/08/msg00005.html",
+    "title": "Security scanner for AI agents, MCP servers and agent skills",
+    "url": "https://github.com/snyk/agent-scan/",
     "source": "Hacker News",
     "date": "2026-08-30",
-    "summary": "Article URL: https://lists.debian.org/debian-devel-announce/2026/08/msg00005.html Comments URL: https://news.ycombinator.com/item?id=49497146 Points: 1 # Comments: 0",
-    "category": "models",
+    "summary": "Article URL: https://github.com/snyk/agent-scan/ Comments URL: https://news.ycombinator.com/item?id=49499629 Points: 2 # Comments: 0",
+    "category": "hardware",
+    "image": "https://opengraph.githubassets.com/a43f2cd4a8a1b6939c9d7517bd11382369363d563c92345e1d579e5d0781e0c2/snyk/agent-scan",
     "id": 12
   },
   {
-    "title": "LLM Usage in Debian: General Resolution Results",
-    "url": "https://www.debian.org/vote/2026/vote_002#outcome",
+    "title": "BROCS: The framework for enterprise AI enablement",
+    "url": "https://brocs.fyi",
     "source": "Hacker News",
     "date": "2026-08-30",
-    "summary": "Article URL: https://www.debian.org/vote/2026/vote_002#outcome Comments URL: https://news.ycombinator.com/item?id=49497015 Points: 2 # Comments: 0",
-    "category": "models",
+    "summary": "Article URL: https://brocs.fyi Comments URL: https://news.ycombinator.com/item?id=49499539 Points: 4 # Comments: 1",
+    "category": "tools",
+    "image": "https://brocs.fyi/og/brocs.png",
     "id": 13
   },
   {
-    "title": "The AI Delegation Audit Webinar, October 6, 2026",
-    "url": "https://berlin-product-people.com/ai-delegation-audit-webinar/",
+    "title": "An interesting website, looks like AI companion but only voice",
+    "url": "https://hers-site.vercel.app/",
     "source": "Hacker News",
     "date": "2026-08-30",
-    "summary": "Article URL: https://berlin-product-people.com/ai-delegation-audit-webinar/ Comments URL: https://news.ycombinator.com/item?id=49496964 Points: 1 # Comments: 0",
+    "summary": "Article URL: https://hers-site.vercel.app/ Comments URL: https://news.ycombinator.com/item?id=49499385 Points: 1 # Comments: 2",
     "category": "industry",
-    "image": "https://berlin-product-people.com/wp-content/uploads/2018/07/berlin-product-people-1200.jpg",
+    "image": "https://hers-site.vercel.app/brand/social-preview.jpg",
     "id": 14
   },
   {
-    "title": "Gpt 5.6 Sol might be just a tad too proactive",
-    "url": "https://taoofmac.com/space/notes/2026/08/28/2130#addendum-apparently-it-can-ship-things-now",
+    "title": "2027 AI Power Shortfall of 15 GW",
+    "url": "https://grok.com/share/bGVnYWN5_4f06d401-90e9-4ed4-bad8-89e3b4fadde2",
     "source": "Hacker News",
     "date": "2026-08-30",
-    "summary": "Article URL: https://taoofmac.com/space/notes/2026/08/28/2130#addendum-apparently-it-can-ship-things-now Comments URL: https://news.ycombinator.com/item?id=49496887 Points: 1 # Comments: 0",
+    "summary": "Article URL: https://grok.com/share/bGVnYWN5_4f06d401-90e9-4ed4-bad8-89e3b4fadde2 Comments URL: https://news.ycombinator.com/item?id=49499179 Points: 2 # Comments: 1",
     "category": "models",
     "id": 15
   },
   {
-    "title": "AI Effect",
-    "url": "https://en.wikipedia.org/wiki/AI_effect",
+    "title": "Revision Prompting asks the LLM for a patch when the input changes",
+    "url": "https://revisionprompting.info/home",
     "source": "Hacker News",
     "date": "2026-08-30",
-    "summary": "Article URL: https://en.wikipedia.org/wiki/AI_effect Comments URL: https://news.ycombinator.com/item?id=49496822 Points: 3 # Comments: 0",
-    "category": "industry",
+    "summary": "Article URL: https://revisionprompting.info/home Comments URL: https://news.ycombinator.com/item?id=49499115 Points: 1 # Comments: 0",
+    "category": "models",
     "id": 16
   },
   {
-    "title": "Google's Dreambeans, weirdest-named AI tool, will turn your life to a cartoon",
-    "url": "https://techcrunch.com/2026/06/03/googles-dreambeans-its-weirdest-named-ai-tool-to-date-will-turn-your-life-into-a-cartoon/",
+    "title": "Scaling Domain Data Repetition in LLM Pretraining",
+    "url": "https://arxiv.org/abs/2608.14071",
     "source": "Hacker News",
     "date": "2026-08-30",
-    "summary": "Article URL: https://techcrunch.com/2026/06/03/googles-dreambeans-its-weirdest-named-ai-tool-to-date-will-turn-your-life-into-a-cartoon/ Comments URL: https://news.ycombinator.com/item?id=49496694 Poi...",
-    "category": "tools",
-    "image": "https://techcrunch.com/wp-content/uploads/2026/06/Screenshot-2026-06-03-at-9.13.33-AM.png?resize=1200,667",
+    "summary": "Article URL: https://arxiv.org/abs/2608.14071 Comments URL: https://news.ycombinator.com/item?id=49499067 Points: 1 # Comments: 0",
+    "category": "models",
     "id": 17
   },
   {
-    "title": "Show HN: Photo Manager That Find and Organize Screenshots with Private, Local AI",
-    "url": "https://ringlochid.me/imagesage/index.html",
+    "title": "Free and Open-Source Web Search for Your AI Agents",
+    "url": "https://pypi.org/project/simurg/",
     "source": "Hacker News",
     "date": "2026-08-30",
-    "summary": "Article URL: https://ringlochid.me/imagesage/index.html Comments URL: https://news.ycombinator.com/item?id=49496500 Points: 1 # Comments: 1",
+    "summary": "Article URL: https://pypi.org/project/simurg/ Comments URL: https://news.ycombinator.com/item?id=49499048 Points: 1 # Comments: 0",
     "category": "industry",
     "id": 18
   },
   {
-    "title": "Debian weighs eight options in vote on LLM usage",
-    "url": "https://lwn.net/Articles/1087134/",
+    "title": "Show HN: FinBridge – Korean stock market data for AI agents (MCP)",
+    "url": "https://www.gronox.kr/",
     "source": "Hacker News",
     "date": "2026-08-30",
-    "summary": "Article URL: https://lwn.net/Articles/1087134/ Comments URL: https://news.ycombinator.com/item?id=49496476 Points: 1 # Comments: 0",
-    "category": "models",
+    "summary": "Article URL: https://www.gronox.kr/ Comments URL: https://news.ycombinator.com/item?id=49499026 Points: 1 # Comments: 1",
+    "category": "industry",
     "id": 19
   },
   {
-    "title": "Hotline for AI Agents to Report Safety Incidents",
-    "url": "https://agenthotline.ai/",
+    "title": "Getting into Flow with AI Coding",
+    "url": "https://www.natashatherobot.com/p/flow-ai-coding",
     "source": "Hacker News",
     "date": "2026-08-30",
-    "summary": "Article URL: https://agenthotline.ai/ Comments URL: https://news.ycombinator.com/item?id=49496388 Points: 1 # Comments: 0",
-    "category": "research",
+    "summary": "Article URL: https://www.natashatherobot.com/p/flow-ai-coding Comments URL: https://news.ycombinator.com/item?id=49498972 Points: 2 # Comments: 1",
+    "category": "industry",
+    "image": "https://substackcdn.com/image/fetch/$s_!Z7Aw!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fe9923bf0-2d5f-4ad1-93a5-e9ead687ddc5_1484x1060.png",
     "id": 20
   },
   {
-    "title": "How AI Is Reshaping Pediatric Imaging",
-    "url": "https://www.childrenshospitals.org/news/childrens-hospitals-today/2026/08/how-ai-is-reshaping-pediatric-imaging",
+    "title": "Show HN: Open SAR-COP – AI-generated common operating picture for disasters",
+    "url": "https://open-sar-cop.github.io",
     "source": "Hacker News",
     "date": "2026-08-30",
-    "summary": "Article URL: https://www.childrenshospitals.org/news/childrens-hospitals-today/2026/08/how-ai-is-reshaping-pediatric-imaging Comments URL: https://news.ycombinator.com/item?id=49496372 Points: 2 # Com...",
-    "category": "tools",
-    "image": "https://www.childrenshospitals.org/-/media/images/global/large-card/ai_mri0826.jpg",
+    "summary": "Article URL: https://open-sar-cop.github.io Comments URL: https://news.ycombinator.com/item?id=49498819 Points: 1 # Comments: 0",
+    "category": "industry",
     "id": 21
+  },
+  {
+    "title": "Running an LLM in the Browser: Verifying WebGPU, and Local Inference",
+    "url": "https://capytoolkit.com/blog/developer-tools/running-llm-browser-verifying-webgpu-model-hashes-local-inference/",
+    "source": "Hacker News",
+    "date": "2026-08-30",
+    "summary": "Article URL: https://capytoolkit.com/blog/developer-tools/running-llm-browser-verifying-webgpu-model-hashes-local-inference/ Comments URL: https://news.ycombinator.com/item?id=49498526 Points: 2 # Com...",
+    "category": "tools",
+    "image": "https://cdn.capytoolkit.com/img/2026/08/running-llm-browser-verifying-webgpu-model-hashes-local-inference.jpg",
+    "id": 22
+  },
+  {
+    "title": "Judge rule AI-generated child sex abuse material is protected by First Amendment",
+    "url": "https://reason.com/volokh/2026/08/27/home-possession-of-ai-generated-porn-depicting-fake-children-remains-constitutionally-protected-seventh-circuit-rules/",
+    "source": "Hacker News",
+    "date": "2026-08-30",
+    "summary": "Article URL: https://reason.com/volokh/2026/08/27/home-possession-of-ai-generated-porn-depicting-fake-children-remains-constitutionally-protected-seventh-circuit-rules/ Comments URL: https://news.ycom...",
+    "category": "industry",
+    "image": "https://d2eehagpk5cl65.cloudfront.net/img/q60/uploads/2021/11/reason-logo-featured-placeholder.jpg.webp",
+    "id": 23
+  },
+  {
+    "title": "90 days of attacks on AI infrastructure",
+    "url": "https://www.wiz.io/blog/ai-infrastructure-honeypot",
+    "source": "Hacker News",
+    "date": "2026-08-30",
+    "summary": "Article URL: https://www.wiz.io/blog/ai-infrastructure-honeypot Comments URL: https://news.ycombinator.com/item?id=49498326 Points: 1 # Comments: 1",
+    "category": "industry",
+    "image": "https://www.datocms-assets.com/75231/1787593149-honeypots-2x.png?fm=webp",
+    "id": 24
+  },
+  {
+    "title": "No AI Fridays",
+    "url": "https://noaifridays.com/",
+    "source": "Hacker News",
+    "date": "2026-08-30",
+    "summary": "Article URL: https://noaifridays.com/ Comments URL: https://news.ycombinator.com/item?id=49498095 Points: 208 # Comments: 106",
+    "category": "industry",
+    "id": 25
+  },
+  {
+    "title": "The MAI Image and Reve 2.1 ranks higher than GPT Image 2 now",
+    "url": "https://artificialanalysis.ai/image/leaderboard/editing",
+    "source": "Hacker News",
+    "date": "2026-08-30",
+    "summary": "Article URL: https://artificialanalysis.ai/image/leaderboard/editing Comments URL: https://news.ycombinator.com/item?id=49498078 Points: 2 # Comments: 0",
+    "category": "models",
+    "image": "https://artificialanalysis.ai/opengraph-image.png?732728ccc2829321",
+    "id": 26
   },
   {
     "title": "Startup raises $7 million to build backpack-portable 8.8-ounce drone interceptors — Mara claims 20x cost advantage over other interceptors, priced one-for-one against attack drones",
@@ -207,7 +259,7 @@
     "summary": "San Francisco defense startup Mara has secured $7 million in a pre-seed round to produce what it calls Spike, a portable counter-drone system housed inside a backpack.",
     "category": "industry",
     "image": "https://cdn.mos.cms.futurecdn.net/qCygnCDbjNo5J7MF6E4UdU-1280-80.jpg",
-    "id": 22
+    "id": 27
   },
   {
     "title": "Microsoft-backed AI data center faces backlash over alleged unpermitted gas turbines and 1.5M-gallon LNG tank — groups' issues with $19.4B facility range from illegal construction to noise pollution",
@@ -217,7 +269,7 @@
     "summary": "The community surrounding the DataOne data center in Vineland, New Jersey, are complaining about the Microsoft-linked project. The company's deployment of several unpermitted gas turbines is just one ...",
     "category": "hardware",
     "image": "https://cdn.mos.cms.futurecdn.net/NfHY3NspCpyezHV8GUeBmL-1280-80.png",
-    "id": 23
+    "id": 28
   },
   {
     "title": "Sony Music, Warner sue Anthropic, alleging a “brazen campaign” of intellectual property theft",
@@ -227,7 +279,7 @@
     "summary": "This latest lawsuit is particularly broad and homes in on accusations of illegal piracy.",
     "category": "hardware",
     "image": "https://techcrunch.com/wp-content/uploads/2026/03/Dario-Amodei-Anthropic-1.jpg?w=1024",
-    "id": 24
+    "id": 29
   },
   {
     "title": "“We’re not doing 30 bets a year”: Vijay Pande on betting small after running $4 billion at a16z",
@@ -237,7 +289,7 @@
     "summary": "Vijay Pande — who left a16z's roughly $4 billion biotech practice last year to start the much smaller, AI-native VZVC — talks about why biology is finally shifting from a \"discovery\" science to an \"en...",
     "category": "industry",
     "image": "https://techcrunch.com/wp-content/uploads/2026/08/Vijay-Pande.png?resize=1200,800",
-    "id": 25
+    "id": 30
   },
   {
     "title": "Nvidia’s AI advantage is moving beyond the GPU",
@@ -247,7 +299,7 @@
     "summary": "The new generation of data center systems is increasing efficiency with smarter traffic control instead of just more processor cycles.",
     "category": "hardware",
     "image": "https://techcrunch.com/wp-content/uploads/2026/08/jense-nvidi-chip-GettyImages-2266485392.jpg?resize=1200,800",
-    "id": 26
+    "id": 31
   },
   {
     "title": "The Cybersecurity Apocalypse Is Coming in ‘Months,’ AI Giants Warn",
@@ -257,7 +309,7 @@
     "summary": "Plus: Hackers target over 100 US water systems, ICE puts in an order for robot dogs, and you’ll never guess what “MrChildPorn” was arrested for.",
     "category": "industry",
     "image": "https://media.wired.com/photos/6a921e363b3f20c2f80986f3/191:100/w_1280,c_limit/Security-News-This-Week-The-AI-Cybersecurity-Apocalypse-Is-Coming.jpg",
-    "id": 27
+    "id": 32
   },
   {
     "title": "How to Run a Chatbot on Your Own Computer",
@@ -267,7 +319,7 @@
     "summary": "Installing a large language model on your personal computer gives you a handy digital assistant that won’t compromise your data privacy.",
     "category": "models",
     "image": "https://media.wired.com/photos/6a915ae02fa9a47ca7d480c1/191:100/w_1280,c_limit/RunAChatbot.jpg",
-    "id": 28
+    "id": 33
   },
   {
     "title": "Our decision on Cursor following its acquisition by SpaceX",
@@ -276,7 +328,7 @@
     "date": "2026-08-28",
     "summary": "Our decision to wind down our contract providing OpenAI models to Cursor following its acquisition by SpaceX.",
     "category": "tools",
-    "id": 29
+    "id": 34
   },
   {
     "title": "Supporting Thailand’s next generation of AI startups",
@@ -285,7 +337,7 @@
     "date": "2026-08-28",
     "summary": "OpenAI and Thailand’s MHESI launch an eight-week accelerator helping 10 health, wellness, and education startups turn AI prototypes into trusted products.",
     "category": "hardware",
-    "id": 30
+    "id": 35
   },
   {
     "title": "New US export controls reportedly target Chinese access to remote AI servers — Trump admin's cut-down AI diffusion rule could be shared with industry as soon as September",
@@ -295,7 +347,7 @@
     "summary": "The Trump administration is reportedly drafting a rule to close a loophole around remote access to advanced AI compute, and it could be shared with trade groups as early as September.",
     "category": "models",
     "image": "https://cdn.mos.cms.futurecdn.net/Bvn9bjjn7RjjnHHyEAHmAP-1280-80.jpg",
-    "id": 31
+    "id": 36
   },
   {
     "title": "Nvidia gears up its influence in Washington, forming PAC — tells employees that decisions Congress makes over the coming years could have substantial consequences for the AI industry, according to report",
@@ -305,7 +357,7 @@
     "summary": "Nvidia establishes its employees federal political action committee (PAC) to fund politicians whose positions are favorable to Nvidia's interests.",
     "category": "hardware",
     "image": "https://cdn.mos.cms.futurecdn.net/mSegjyKT4pHoDKsKQkQa9j-1280-80.jpg",
-    "id": 32
+    "id": 37
   },
   {
     "title": "DLSS 5 has already been ported to work on RTX 4000 Series graphics cards — incompatible CUDA instructions get patched to work on previous-gen hardware",
@@ -315,7 +367,7 @@
     "summary": "One modder has reverse-engineered DLSS 5 to function on RTX 4000 series Ada Lovelace-based GPUs, porting incompatible CUDA instructions within the Neural Rendering DLL, enabling them to be read on pre...",
     "category": "models",
     "image": "https://cdn.mos.cms.futurecdn.net/XWFApR3UjpmFwiQ2t7DdNV-1280-80.png",
-    "id": 33
+    "id": 38
   },
   {
     "title": "Cloudflare frees up 100TB of RAM by shrinking 1.1.1.1's DNS cache entries — 250 billion cached DNS entries at any given time means one wasted byte costs 250GB",
@@ -325,7 +377,7 @@
     "summary": "Cloudflare says that it has freed up roughly 100TB of RAM across its global fleet without reconfiguring any physical RAM modules in its servers.",
     "category": "hardware",
     "image": "https://cdn.mos.cms.futurecdn.net/QVUrvD86z3UYAMVohMuQcD-1280-80.jpg",
-    "id": 34
+    "id": 39
   },
   {
     "title": "Nvidia denies pausing AI cloud commitments initiative after reported partner backlash — report claims company told cloud providers it could only lease its GPUs to Nvidia-approved customers",
@@ -335,7 +387,7 @@
     "summary": "Nvidia denies putting AI cloud commitments initiative on hold despite reports that some deals were paused amid partner pushback over customer controls and concerns about potential antitrust scrutiny.",
     "category": "hardware",
     "image": "https://cdn.mos.cms.futurecdn.net/dRrumQbyPzGfGLECutnkSU-1280-80.jpg",
-    "id": 35
+    "id": 40
   },
   {
     "title": "Micron workers increasingly support strike over bonus pay — labor union wants profit-sharing scheme, as employees at Samsung, SK hynix enjoy bonuses worth hundreds of thousands of dollars",
@@ -345,7 +397,7 @@
     "summary": "80% of Micron workers in Taiwan have signaled that they're willing to go on strike if the company does not strike a deal over bonuses. The employees want to replace the current bonus system with a pro...",
     "category": "hardware",
     "image": "https://cdn.mos.cms.futurecdn.net/r4EqVPQPb5RUnrXurEfjbM-1280-80.jpg",
-    "id": 36
+    "id": 41
   },
   {
     "title": "X busts 200,000-strong Chinese bot farm, including accounts making claims about AI data centers and electricity — suspect accounts posted claims about pricing and grid strain to 'manipulate' debate",
@@ -355,7 +407,7 @@
     "summary": "The X Safety Team said that at least 200 bot accounts have been making posts to influence public opinion data centers and energy policy. The accounts share links to legitimate news stories and then ad...",
     "category": "hardware",
     "image": "https://cdn.mos.cms.futurecdn.net/iBu6BXKDx9eNtLPFhAZHXh-1280-80.jpg",
-    "id": 37
+    "id": 42
   },
   {
     "title": "Google clamps down on Android app RAM usage amid AI memory crisis — developers have until February 2027 to adapt to new memory-optimizing rules",
@@ -365,7 +417,7 @@
     "summary": "Google implements stricter memory limits and introduces new performance standards for Android apps.",
     "category": "hardware",
     "image": "https://cdn.mos.cms.futurecdn.net/wURzf9nJgxbUidK2zg7ajX-1280-80.jpg",
-    "id": 38
+    "id": 43
   },
   {
     "title": "Intel 14A defect density is dropping faster than the company expected — 'we have not seen this performance since 22nm,' says CFO",
@@ -375,7 +427,7 @@
     "summary": "Intel says defect density of 14A process technology is declining rapidly as internal teams are already developing 14A-based products, while external clients are now wondering about capacity that Intel...",
     "category": "hardware",
     "image": "https://cdn.mos.cms.futurecdn.net/pcJYq5tWJ3tEco6bEWmGjC-1280-80.jpg",
-    "id": 39
+    "id": 44
   },
   {
     "title": "SK hynix breaks ground on the first HBM plant in the US, bringing key AI component production to the States — says production starts in 2029",
@@ -385,7 +437,7 @@
     "summary": "SK hynix breaks ground on HBM assembly plant in the U.S. that will form a connection between DRAM wafers produced in South Korea and their consumers among AI companies in the U.S.",
     "category": "hardware",
     "image": "https://cdn.mos.cms.futurecdn.net/vdguSryvDxvr9spm9qGncn-1280-80.jpg",
-    "id": 40
+    "id": 45
   },
   {
     "title": "Indiana power provider proposes $59 million rate cut for state, says data centers and other large customers are driving increased revenue — move could potentially save residential users $100 annually",
@@ -395,7 +447,7 @@
     "summary": "I&M, which serves part of Indiana, says that it plans to cut electricity prices for the state, resulting in savings of about $59 million for residential users. This translates to about $100 a year for...",
     "category": "industry",
     "image": "https://cdn.mos.cms.futurecdn.net/nMpGxyNRpeTtdVGXCfFq7g-1280-80.png",
-    "id": 41
+    "id": 46
   },
   {
     "title": "Claude nukes a developer's 700 GB home directory while testing deletion safeguards; automatic model safety downgrade may have contributed to the screw-up — Anthropic safety harness downgraded model to Opus 4.8 before fatal variable collision",
@@ -405,7 +457,7 @@
     "summary": "Claude nuked a developer's 700 GB home directory while testing a script to ensure that wouldn't happen, and it's possible that an automatic model downgrade likely contributed to the screw-up",
     "category": "models",
     "image": "https://cdn.mos.cms.futurecdn.net/rooXvESoBpBpBGCkrJPnwC-1280-80.jpg",
-    "id": 42
+    "id": 47
   },
   {
     "title": "Neocloud Lambda secures $1B in debt to buy more chips",
@@ -415,7 +467,7 @@
     "summary": "Neocloud Lambda has raised $1B in private debt to buy Nvidia AI chips and lease them to Microsoft. It's the latest in a string of loans, underscoring the high cost of the AI boom.",
     "category": "hardware",
     "image": "https://techcrunch.com/wp-content/uploads/2026/06/Chip-chips-dollar-signs-money.png?resize=1200,960",
-    "id": 43
+    "id": 48
   },
   {
     "title": "An Anthropic researcher just gave us a peek at self-improving AI",
@@ -425,7 +477,7 @@
     "summary": "Given 10 benchmarks for specific misaligned behaviors, the automated systems were able to improve performance on every single one without degrading overall performance.",
     "category": "research",
     "image": "https://techcrunch.com/wp-content/uploads/2026/08/GettyImages-2287646148.jpg?resize=1200,901",
-    "id": 44
+    "id": 49
   },
   {
     "title": "Open-weight AI companies are the Valley’s hottest acquisition targets",
@@ -435,56 +487,6 @@
     "summary": "There's a lot of capital pouring into the business of giving models away.",
     "category": "models",
     "image": "https://techcrunch.com/wp-content/uploads/2026/07/GettyImages-1849294862.jpg?w=1024",
-    "id": 45
-  },
-  {
-    "title": "Anthropic gets its first court win over the Pentagon’s supply-chain risk label",
-    "url": "https://techcrunch.com/2026/08/28/anthropic-gets-its-first-court-win-over-the-pentagons-supply-chain-risk-label/",
-    "source": "TechCrunch",
-    "date": "2026-08-28",
-    "summary": "A federal judge ruled the Trump administration illegally labeled Anthropic a supply-chain risk, handing the AI company a victory as its second Pentagon lawsuit continues in Washington.",
-    "category": "industry",
-    "image": "https://techcrunch.com/wp-content/uploads/2026/06/GettyImages-2278736523.jpeg?resize=1200,798",
-    "id": 46
-  },
-  {
-    "title": "Meta executive leaves for OpenAI as the social media giant faces growing scrutiny in India",
-    "url": "https://techcrunch.com/2026/08/28/meta-executive-leaves-for-openai-as-the-social-media-giant-faces-growing-scrutiny-in-india/",
-    "source": "TechCrunch",
-    "date": "2026-08-28",
-    "summary": "Sandhya Devanathan will oversee some OpenAI operations across Southeast Asia and Australia in her new role.",
-    "category": "industry",
-    "image": "https://techcrunch.com/wp-content/uploads/2026/06/Meta-image.jpg?w=1024",
-    "id": 47
-  },
-  {
-    "title": "AI Has Human Doctors Asking: What’s Left for Us?",
-    "url": "https://www.wired.com/story/ai-has-human-doctors-asking-whats-left-for-us/",
-    "source": "Wired",
-    "date": "2026-08-28",
-    "summary": "A recent paper argues that AI is often better at doctoring than doctors. Guess who isn't thrilled.",
-    "category": "research",
-    "image": "https://media.wired.com/photos/6a909d466b1fcc4b68700cd4/191:100/w_1280,c_limit/Backchannel-AI-Doctors-Business-1267508918.jpg",
-    "id": 48
-  },
-  {
-    "title": "He Scraped All of Their Art for AI. Now He’s Collaborating on a Tool to Help Them",
-    "url": "https://www.wired.com/story/he-scraped-art-from-cara-for-ai-now-he-is-collaborating-on-a-tool-to-help-them/",
-    "source": "Wired",
-    "date": "2026-08-28",
-    "summary": "The art portfolio platform Cara, designed for creators who don’t want their work used to train AI, has been under assault by trolls seizing and publishing its data.",
-    "category": "tools",
-    "image": "https://media.wired.com/photos/6a8f719f1780b42ea22395f3/191:100/w_1280,c_limit/Anti-AI-Artists-Gathered-to-Share-Their-Handmade-Work-Culture.jpg",
-    "id": 49
-  },
-  {
-    "title": "Inside Meta’s Push to Put Robots to Work in Data Centers",
-    "url": "https://www.wired.com/story/inside-metas-experiments-with-data-center-robots/",
-    "source": "Wired",
-    "date": "2026-08-28",
-    "summary": "The company is testing robots that can swap cables, reset servers, and take on other tasks performed by technicians, fueling concerns among some workers that their jobs could be at risk.",
-    "category": "hardware",
-    "image": "https://media.wired.com/photos/6a8778d3964ec62bf0f4c98f/191:100/w_1280,c_limit/Inside-Meta-Experiments-with-Data-Center-Robots-Business.jpg",
     "id": 50
   }
 ]
