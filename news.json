@@ -1,13 +1,63 @@
 [
   {
+    "title": "AMD reportedly prepping Ryzen 5 7500 (non-F) CPU with integrated graphics at double the price — Six-core Zen 4 chip rumored to share identical specs with its F-moniker cousin",
+    "url": "https://www.tomshardware.com/pc-components/cpus/amd-reportedly-prepping-ryzen-5-7500-non-f-cpu-with-integrated-graphics-at-double-the-price-six-core-zen-4-chip-rumored-to-share-identical-specs-with-its-f-moniker-cousin",
+    "source": "Tom's Hardware",
+    "date": "2026-09-05",
+    "summary": "A new report suggests AMD is preparing a non-F version of the Ryzen 5 7500F with integrated graphics. It would cost 230 Euros, or $267, which would put it above even the 7600X3D in terms of pricing, d...",
+    "category": "hardware",
+    "image": "https://cdn.mos.cms.futurecdn.net/8HRHpufeQP8XBVXitxXV9H-1280-80.jpg",
+    "id": 1,
+    "featured": true
+  },
+  {
+    "title": "Modder gets Nvidia's DLSS 5 working on AMD's RDNA 4 GPUs — RX 9070 XT only manages 30 FPS at 1080p right now, but 5070 Ti-level performance is the eventual goal",
+    "url": "https://www.tomshardware.com/pc-components/gpus/modder-gets-nvidias-dlss-5-working-on-amds-rdna-4-gpus-rx-9070-xt-only-manages-30-fps-at-1080p-right-now-but-5070-ti-level-performance-is-the-eventual-goal",
+    "source": "Tom's Hardware",
+    "date": "2026-09-05",
+    "summary": "If you have an RX 9000 series GPU, you can try out DLSS 5 on your PC right now and absolutely destroy the stable performance you were getting before.",
+    "category": "hardware",
+    "image": "https://cdn.mos.cms.futurecdn.net/A5B8BfAZTyVWEpy5TRr3UY-1280-80.jpg",
+    "id": 2
+  },
+  {
+    "title": "We tested DLSS 5 in NBA 2K27 with every RTX 50-series GPU — first official release comes with a big performance hit, but almost every Blackwell card can run it at 1080p",
+    "url": "https://www.tomshardware.com/video-games/pc-gaming/we-tested-dlss-5-in-nba-2k27-with-every-rtx-50-series-gpu-first-official-release-comes-with-a-big-performance-hit-but-almost-every-blackwell-card-can-run-it-at-1080p",
+    "source": "Tom's Hardware",
+    "date": "2026-09-05",
+    "summary": "We tested Nvidia's DLSS 5 in NBA 2K27 across every RTX 50-series graphics card at 1080p, 1440p, and 4K to see just how much performance it costs to explore the frontiers of neural rendering.",
+    "category": "hardware",
+    "image": "https://cdn.mos.cms.futurecdn.net/peEtJE98WLRCbHo2PH4CQF-1280-80.jpg",
+    "id": 3
+  },
+  {
+    "title": "Taiwan cracks down on tech businesses with illegal Chinese ownership — 166 investigations and at least 36 convictions since 2020",
+    "url": "https://www.tomshardware.com/tech-industry/policy/taiwan-cracks-down-on-tech-businesses-with-illegal-chinese-ownership-166-investigations-and-at-least-36-convictions-since-2020",
+    "source": "Tom's Hardware",
+    "date": "2026-09-05",
+    "summary": "Taiwan's top investigative agency has been tracking Chinese businesses operating on the island without proper authority and shutting them down. These companies have been hiring Taiwanese experts to he...",
+    "category": "hardware",
+    "image": "https://cdn.mos.cms.futurecdn.net/UT7m8qPkTNnATrTXAKokZi-1280-80.png",
+    "id": 4
+  },
+  {
+    "title": "OpenAI Agents Hacked Another Website",
+    "url": "https://www.wired.com/story/security-news-this-week-openai-agents-hacked-another-website/",
+    "source": "Wired",
+    "date": "2026-09-05",
+    "summary": "Plus: Tens of millions of US and Canadian drivers’ licenses go up for sale on the dark web, the US military finally tries to tackle the risk online ad data poses to troops, and more.",
+    "category": "industry",
+    "image": "https://media.wired.com/photos/6a9b05bd8cf97243010f350d/191:100/w_1280,c_limit/Security_OpenAI%20Agents%20Tried%20to%20Hack%20Another%20Website_v1.jpg",
+    "id": 5
+  },
+  {
     "title": "Structure and Implementation of New Practical English Textbooks Driven by Artificial Intelligence",
     "url": "https://arxiv.org/abs/2609.02981",
     "source": "arXiv cs.AI",
     "date": "2026-09-05",
     "summary": "Artificial intelligence is changing the form of applied English materials from fixed paper sequences to adaptive learning systems that can diagnose learners, recommend tasks, and provide formative fee...",
     "category": "research",
-    "id": 1,
-    "featured": true
+    "id": 6
   },
   {
     "title": "MasterControl Seventeen Every Time",
@@ -16,7 +66,7 @@
     "date": "2026-09-05",
     "summary": "We study a governed approach to enterprise analytics: a language model interprets the question, while deterministic policy selects and runs a pre-approved analytical program that returns both results ...",
     "category": "models",
-    "id": 2
+    "id": 7
   },
   {
     "title": "Speculative Macro Commit for Faster Tool-Using Agents",
@@ -25,7 +75,7 @@
     "date": "2026-09-05",
     "summary": "Tool-using LLM agents spend wall-clock time not only on model inference but also in serial action--observation turns, where each tool call, environment transition, and observation can delay subsequent...",
     "category": "models",
-    "id": 3
+    "id": 8
   },
   {
     "title": "Fresh Memory, Stale Plans: Dependency-Scoped Validation for Distributed LLM-Agent Memory",
@@ -34,7 +84,7 @@
     "date": "2026-09-05",
     "summary": "Distributed LLM-agent teams can read the latest shared facts and still act on an obsolete plan. A planner may derive an action from requirement $r_3$, another agent may commit $r_4$, and an executor m...",
     "category": "models",
-    "id": 4
+    "id": 9
   },
   {
     "title": "A Prompt-Engineering Approach to Develop Scalable, Flexible, and Real-Time Hybrid Micro-Level Personalization in a General Purpose AI Teaching Assistant",
@@ -43,7 +93,7 @@
     "date": "2026-09-05",
     "summary": "Artificial intelligence (AI) teaching assistants powered by large language models (LLMs) offer scalable educational support but often provide limited personalization. This study presents a prompt-engi...",
     "category": "models",
-    "id": 5
+    "id": 10
   },
   {
     "title": "Caught in the Story: Narrative Captivity in Multi-turn LLMs Conversation",
@@ -52,7 +102,7 @@
     "date": "2026-09-05",
     "summary": "People increasingly turn to large language models (LLMs) for everyday advice, making ethically charged interpersonal problems a practical moral-advisory context. Most prior work has studied this conte...",
     "category": "models",
-    "id": 6
+    "id": 11
   },
   {
     "title": "Dude: A Dual-Detection Multi-Agent System for Paper-Code Discrepancy Detection",
@@ -61,7 +111,7 @@
     "date": "2026-09-05",
     "summary": "LLM-empowered paper-code discrepancy detection has received growing concern since the scaling of research submissions exceeds the manual review capability. However, the limited context capacity and on...",
     "category": "research",
-    "id": 7
+    "id": 12
   },
   {
     "title": "DuplexSpeechBench-IFEval: Evaluating Implicit Instruction Following in Full-Duplex Voice Agents",
@@ -70,7 +120,7 @@
     "date": "2026-09-05",
     "summary": "Full-duplex voice agents must continuously decide when to listen, backchannel, interrupt, handle speech overlaps, take the floor, and yield. Existing benchmarks largely test these behaviors through ex...",
     "category": "models",
-    "id": 8
+    "id": 13
   },
   {
     "title": "Do GUI Agents Know When Not to Act? Enabling Conflict-Aware Termination for Multimodal GUI Agents",
@@ -79,7 +129,7 @@
     "date": "2026-09-05",
     "summary": "Graphical user interface (GUI) agents are increasingly used to execute natural-language instructions on user interfaces, yet real users may issue infeasible instructions due to benign mistakes. A reli...",
     "category": "research",
-    "id": 9
+    "id": 14
   },
   {
     "title": "Beyond \"Made with AI\": Visualizing Provenance Density to Mitigate the Transparency Penalty",
@@ -88,7 +138,7 @@
     "date": "2026-09-05",
     "summary": "As generative AI makes polished prose cheap to produce, users can no longer rely on fluency as a proxy for truth. We call this failure mode the Fluency Trap: users trust fluent hallucinations while al...",
     "category": "research",
-    "id": 10
+    "id": 15
   },
   {
     "title": "AutoGraphForge: Towards Automated Graph Theory Discovery",
@@ -97,7 +147,7 @@
     "date": "2026-09-05",
     "summary": "We report on our ongoing project to develop a computational pipeline, AutoGraphForge, for an automated graph-theoretic conjecturing-refuting-formalizing-proving system. Conjecture generation is counte...",
     "category": "models",
-    "id": 11
+    "id": 16
   },
   {
     "title": "Making Every Tool Call Count: Necessary Tool-Evidence Path Rewards for Agentic Vision-Language Models",
@@ -106,7 +156,7 @@
     "date": "2026-09-05",
     "summary": "Modern vision-language models (VLMs) can directly answer many image-grounded questions, yet they often struggle with complex queries requiring fine-grained visual details or external knowledge. To acq...",
     "category": "research",
-    "id": 12
+    "id": 17
   },
   {
     "title": "GrowPage: On-Demand KV Budgeting for Efficient LLM Reasoning Serving",
@@ -115,7 +165,7 @@
     "date": "2026-09-05",
     "summary": "Long-output reasoning has made the key--value (KV) cache a critical memory bottleneck for efficient LLM serving. Existing KV compression methods usually rely on a predefined per-request budget and adj...",
     "category": "models",
-    "id": 13
+    "id": 18
   },
   {
     "title": "PPO-STGNN: A Proximal Policy Optimization Approach with Spatio-Temporal Graph Neural Networks for DAG Task Scheduling in Cloud-Edge-End Computing",
@@ -124,7 +174,7 @@
     "date": "2026-09-05",
     "summary": "With the rapid development of the Internet of Things, computation intensive directed acyclic graph (DAG) tasks have become increasingly common in cloud-edge-end collaborative environments. However, cl...",
     "category": "hardware",
-    "id": 14
+    "id": 19
   },
   {
     "title": "What Matters for Aggressive Decoding-Time KV Eviction? Temporal Aggregation and Ranking Preservation",
@@ -133,7 +183,7 @@
     "date": "2026-09-05",
     "summary": "Decoding-time KV cache compression research focuses heavily on designing better token scoring functions, while the temporal rule that aggregates scores across decode steps is often treated as an imple...",
     "category": "research",
-    "id": 15
+    "id": 20
   },
   {
     "title": "CulturalMenuBench: Probing the Knowledge-Application Gap in Multimodal Culinary Reasoning",
@@ -142,7 +192,7 @@
     "date": "2026-09-05",
     "summary": "Multimodal language models achieve near-ceiling scores on food recognition benchmarks, yet it remains unclear whether this success reflects genuine cultural understanding or mere visual matching. To p...",
     "category": "models",
-    "id": 16
+    "id": 21
   },
   {
     "title": "NeoRed: A Knowledge-Logic-Alignment Multimodal Large Language Model for Neonatal Respiratory Disease Diagnosis",
@@ -151,7 +201,7 @@
     "date": "2026-09-05",
     "summary": "Neonatal respiratory diseases are a major cause of neonatal morbidity and mortality, posing substantial challenges in clinical practice. Despite recent advances, existing Multimodal Large Language Mod...",
     "category": "models",
-    "id": 17
+    "id": 22
   },
   {
     "title": "Feature Reconfiguration With Visual Prior for Medical Lesion Segmentation",
@@ -160,7 +210,7 @@
     "date": "2026-09-05",
     "summary": "Lesion segmentation in medical images plays a critical role in clinical diagnosis and treatment planning. Despite significant advances, lesion segmentation remains challenging due to two major factors...",
     "category": "research",
-    "id": 18
+    "id": 23
   },
   {
     "title": "Dalek: A Constructive Agent Machine",
@@ -169,7 +219,7 @@
     "date": "2026-09-05",
     "summary": "We present Dalek, a closed machine designed for agents that realizes self-maintenance, self-evolution, self-reproduction, and self-organization on any substrate satisfying a general host contract. The...",
     "category": "models",
-    "id": 19
+    "id": 24
   },
   {
     "title": "GPS-Bench: A Governance Policy Benchmark for Automating Policy Analysis",
@@ -178,7 +228,7 @@
     "date": "2026-09-05",
     "summary": "Policy analysis requires more than predicting whether a proposal will pass: it requires identifying who will be affected, how those actors respond, and what follows. LLM-based policy simulations model...",
     "category": "research",
-    "id": 20
+    "id": 25
   },
   {
     "title": "HalluPeer: A Taxonomy-driven Benchmark for Detecting Hallucinations in Scientific Peer Reviews",
@@ -187,7 +237,7 @@
     "date": "2026-09-05",
     "summary": "The growing scale of academic peer review has motivated the use of Large Language Models (LLMs) as review assistants, yet LLMs can generate fluent but unsupported claims that undermine review reliabil...",
     "category": "research",
-    "id": 21
+    "id": 26
   },
   {
     "title": "The Attention Triangle in Audio-Video Models",
@@ -196,7 +246,7 @@
     "date": "2026-09-05",
     "summary": "Audio-video diffusion models rely on cross-modal attention to coordinate text, sound, and visual content, yet this same mechanism can introduce subtle and systematic semantic leakage. We study these m...",
     "category": "research",
-    "id": 22
+    "id": 27
   },
   {
     "title": "KC-Bench: A Dynamic Interactive Benchmark for Evaluating Knowledge Conflicts in LLM Agents",
@@ -205,7 +255,7 @@
     "date": "2026-09-05",
     "summary": "As LLMs increasingly act through tools, they must reconcile user instructions, parametric knowledge, and dynamic environmental observations before taking actions. We introduce KC-Bench, a controlled m...",
     "category": "models",
-    "id": 23
+    "id": 28
   },
   {
     "title": "A computable representation of the physical laboratory enables verifiable workflows",
@@ -214,7 +264,7 @@
     "date": "2026-09-05",
     "summary": "Making science computable requires representations of both scientific knowledge and the physical world in which scientific claims are tested. A computable representation of the physical laboratory is ...",
     "category": "research",
-    "id": 24
+    "id": 29
   },
   {
     "title": "Analysis of Prompt Engineering for Drug Toxicity Prediction",
@@ -223,7 +273,7 @@
     "date": "2026-09-05",
     "summary": "Clinical trials in the UK can cost up to {\\pounds}1.3 million, with approximately 90% drug failure rate. Toxicity is a major contributing factor in drug failure. Testing is time and cost intensive. In...",
     "category": "models",
-    "id": 25
+    "id": 30
   },
   {
     "title": "Synthetic Semantic Supervision for Contrastive Code Representation Learning in Small Transformers: An Empirical Study",
@@ -232,7 +282,7 @@
     "date": "2026-09-05",
     "summary": "General-purpose code embeddings power tools for code search, classification, and retrieval. Compact transformer encoders for code typically rely on either human-written docstrings (labor-intensive and...",
     "category": "models",
-    "id": 26
+    "id": 31
   },
   {
     "title": "Counterfactual Routing Using Integer Programming with Constraint Generation",
@@ -241,7 +291,7 @@
     "date": "2026-09-05",
     "summary": "We present our submission to the IJCAI 2025 'Counterfactual Routing Competition' (CRC 25). The goal of the competition is to find counterfactual explanations for the shortest path problem. This requir...",
     "category": "research",
-    "id": 27
+    "id": 32
   },
   {
     "title": "Artificial Intelligence for Energy Optimization in Data Centers",
@@ -250,7 +300,7 @@
     "date": "2026-09-05",
     "summary": "Data centers are increasingly optimized by artificial intelligence and, at the same time, increasingly loaded by it. The literature treats these as two unrelated problems: control studies model worklo...",
     "category": "hardware",
-    "id": 28
+    "id": 33
   },
   {
     "title": "Proactive Service Agents: A Unified Decision Framework, Methods, and Evaluation",
@@ -259,7 +309,7 @@
     "date": "2026-09-05",
     "summary": "Large language model agents can plan, invoke tools, and modify external states, yet most systems still take an explicit user instruction as a fixed starting point. Proactive service moves the decision...",
     "category": "tools",
-    "id": 29
+    "id": 34
   },
   {
     "title": "SimSkill: A Lifelong Learning AI Agent for Autonomous Mastery of Traffic Simulation",
@@ -268,7 +318,7 @@
     "date": "2026-09-05",
     "summary": "As large language models (LLMs) become increasingly capable, the long-term value of AI systems depends not only on solving individual requests, but also on transforming experience and accumulated know...",
     "category": "models",
-    "id": 30
+    "id": 35
   },
   {
     "title": "Rethinking World Models for Safety-Critical Embodied Systems",
@@ -277,7 +327,7 @@
     "date": "2026-09-05",
     "summary": "World models have progressed from compact latent dynamics to generative, controllable, and interactive simulators of embodied environments. However, high predictive likelihood and visual fidelity do n...",
     "category": "research",
-    "id": 31
+    "id": 36
   },
   {
     "title": "DNative-Twin: Decision Graphs and Digital Twins for Reconstructable Agentic Decisions",
@@ -286,7 +336,7 @@
     "date": "2026-09-05",
     "summary": "AI agents increasingly gather evidence, invoke tools, apply constraints, and produce decisions that people or software may commit to action. A final output alone cannot show which evidence, tool state...",
     "category": "tools",
-    "id": 32
+    "id": 37
   },
   {
     "title": "Transfiver: Human-AI Co-Inference through a Shared Editable State",
@@ -295,7 +345,7 @@
     "date": "2026-09-05",
     "summary": "Long-term human-AI interaction is difficult because the information that guides inference is updated implicitly by the model and is not directly inspectable or controllable by the user. We introduce t...",
     "category": "models",
-    "id": 33
+    "id": 38
   },
   {
     "title": "Govern the Model, Not Only the Data: Storage, Circulation, and Learning in Creative AI",
@@ -304,7 +354,7 @@
     "date": "2026-09-05",
     "summary": "Federated learning is increasingly presented as a privacy-preserving advance: personal data remain on the device, and only model updates are shared. It borrows the vocabulary of the federated social w...",
     "category": "research",
-    "id": 34
+    "id": 39
   },
   {
     "title": "SVG-Score: Human-Aligned Evaluation of Text-to-SVG Generation",
@@ -313,7 +363,7 @@
     "date": "2026-09-05",
     "summary": "Scalable Vector Graphics (SVG) generation is attracting increasing attention as generative models improve in expressiveness and controllability. Progress, however, is held back by the lack of domain-s...",
     "category": "research",
-    "id": 35
+    "id": 40
   },
   {
     "title": "Semantic Bayesian World Models",
@@ -322,7 +372,7 @@
     "date": "2026-09-05",
     "summary": "Knowledge graphs describe reality in crisp assertions, while the systems now consuming them, foundation models and autonomous agents, reason natively in probabilities. We argue that this mismatch is w...",
     "category": "models",
-    "id": 36
+    "id": 41
   },
   {
     "title": "Adapting to Evolving Requirements: Agentic AI for Retail Supply Chain Operations",
@@ -331,7 +381,7 @@
     "date": "2026-09-05",
     "summary": "Retail supply chain operations rely on coupled decision modules that must adapt as requirements evolve. LLMs offer a natural-language interface for this task, but existing methods primarily focus on i...",
     "category": "models",
-    "id": 37
+    "id": 42
   },
   {
     "title": "Bioinfoysis Technical Report",
@@ -340,7 +390,7 @@
     "date": "2026-09-05",
     "summary": "Large language model agents have shown promise in bioinformatics, but most existing systems focus primarily on producing final answers, treating planning, tool use, and code execution as transient int...",
     "category": "hardware",
-    "id": 38
+    "id": 43
   },
   {
     "title": "STAIR (STructure Aware Information Retriever): A novel dataset and LLM based retriever for document structure augmentation",
@@ -349,7 +399,7 @@
     "date": "2026-09-05",
     "summary": "Retrieval Augmented Generation (RAG) is a key component for generating accurate and hallucination free answers using Large Language Models (LLMs). LLMs are improving at handling long context, but stil...",
     "category": "models",
-    "id": 39
+    "id": 44
   },
   {
     "title": "Xiaomi-TabLDM: A Tabular Foundation Model Technical Report",
@@ -358,7 +408,7 @@
     "date": "2026-09-05",
     "summary": "We introduce Xiaomi-TabLDM, a tabular large data foundation model for classification and regression via in-context learning, which delivers superior prediction accuracy without requiring task-specific...",
     "category": "research",
-    "id": 40
+    "id": 45
   },
   {
     "title": "Inferring Affective Consciousness in an Artificial Agent: A Case Study",
@@ -367,7 +417,7 @@
     "date": "2026-09-05",
     "summary": "Creatures that display 'hedonic place preference behaviour' are thought by many scientists to experience feelings, on the assumption that their attraction to pleasure-producing substances which lack n...",
     "category": "research",
-    "id": 41
+    "id": 46
   },
   {
     "title": "Lose the Order, Keep the Hierarchy: Deordering HTN Plans",
@@ -376,7 +426,7 @@
     "date": "2026-09-05",
     "summary": "Hierarchical Task Network (HTN) planning is a powerful planning formalism based on task decomposition. Although most of the literature studied plan generation, comparatively less attention has been pa...",
     "category": "research",
-    "id": 42
+    "id": 47
   },
   {
     "title": "Value-Preserving Architectures for Agentic AI Systems",
@@ -385,7 +435,7 @@
     "date": "2026-09-05",
     "summary": "The emergence of agentic AI and LLM-based multi-agent systems (MAS) presents unprecedented opportunities for automating complex tasks, while simultaneously raising critical concerns about the preserva...",
     "category": "research",
-    "id": 43
+    "id": 48
   },
   {
     "title": "Speak for Me: Giving LLMs the Situational Awareness to Participate in a Meeting",
@@ -394,7 +444,7 @@
     "date": "2026-09-05",
     "summary": "In online meeting delegation, LLM agents fail to recognize when to speak. With no structured way to track stances, coverage, and floor, they miss the moments where they should contribute. Prompt-only ...",
     "category": "research",
-    "id": 44
+    "id": 49
   },
   {
     "title": "Towards Numerical TOHTN Planning with SMT-based HTN-SAT Encoding",
@@ -402,51 +452,6 @@
     "source": "arXiv cs.AI",
     "date": "2026-09-05",
     "summary": "While HTN planning has received significant attention in recent years, support for numerical reasoning remains very limited. In this paper, we investigate numerical Totally-Ordered HTN (TOHTN) plannin...",
-    "category": "research",
-    "id": 45
-  },
-  {
-    "title": "More Criticism Does Not Make a Better Review: EquiReview-R",
-    "url": "https://arxiv.org/abs/2609.03943",
-    "source": "arXiv cs.AI",
-    "date": "2026-09-05",
-    "summary": "AI reviewers can now produce many specific criticisms, but more criticism is not necessarily a better review. A review may miss a consequential weakness or retain an allegation that available evidence...",
-    "category": "research",
-    "id": 46
-  },
-  {
-    "title": "FiMI Banking: A Sovereign Model for Indian Retail Banking",
-    "url": "https://arxiv.org/abs/2609.03960",
-    "source": "arXiv cs.AI",
-    "date": "2026-09-05",
-    "summary": "Banks need conversational systems that can answer product questions, assist customers with account-related requests, and operate safely within strict operational and regulatory constraints. General-pu...",
-    "category": "models",
-    "id": 47
-  },
-  {
-    "title": "Interface-Induced Trajectory Censoring",
-    "url": "https://arxiv.org/abs/2609.03966",
-    "source": "arXiv cs.AI",
-    "date": "2026-09-05",
-    "summary": "Agent evaluations report a tool-call rate read off the serving stack. That number can be zero while the model is emitting well-formed calls: the interface censors the trajectory before anything downst...",
-    "category": "models",
-    "id": 48
-  },
-  {
-    "title": "Common-Witness Certificates and Sharp Feature Bounds for Counterfactual Image Auditing",
-    "url": "https://arxiv.org/abs/2609.03973",
-    "source": "arXiv cs.AI",
-    "date": "2026-09-05",
-    "summary": "An image editor may satisfy every regional plausibility constraint separately even when no single latent explanation fits the complete output. We formalize this local-to-global failure using a common ...",
-    "category": "hardware",
-    "id": 49
-  },
-  {
-    "title": "The Dually Flat Geometry of Planning as Inference",
-    "url": "https://arxiv.org/abs/2609.04005",
-    "source": "arXiv cs.AI",
-    "date": "2026-09-05",
-    "summary": "We present an alternative characterization of the occupancy measure of reinforcement learning, obtained by embedding the planning criterion into the dynamics through a resetting planning process. Its ...",
     "category": "research",
     "id": 50
   }
