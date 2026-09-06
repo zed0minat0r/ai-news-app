@@ -11,6 +11,24 @@
     "featured": true
   },
   {
+    "title": "Research acceleration: The view inside OpenAI",
+    "url": "https://openai.com/index/research-acceleration-view-inside-openai",
+    "source": "OpenAI Blog",
+    "date": "2026-09-06",
+    "summary": "Inside OpenAI, coding agents are reshaping AI research. Explore early data on agent usage, experiment velocity, task complexity, and research acceleration.",
+    "category": "research",
+    "id": 2
+  },
+  {
+    "title": "An Alien Mind",
+    "url": "https://openai.com/index/an-alien-mind",
+    "source": "OpenAI Blog",
+    "date": "2026-09-06",
+    "summary": "Jakub Pachocki reflects on increasingly capable AI and the challenge of keeping it aligned. He calls for stronger safeguards and international coordination.",
+    "category": "industry",
+    "id": 3
+  },
+  {
     "title": "Bitcoin mining data center condemned after leaking 3 million gallons of water and forcing school closures — facility operated for years under a city stop-work order",
     "url": "https://www.tomshardware.com/tech-industry/data-centers/bitcoin-mining-data-center-condemned-after-leaking-3-million-gallons-of-water-and-forcing-school-closures-facility-operated-for-years-under-a-city-stop-work-order",
     "source": "Tom's Hardware",
@@ -18,7 +36,7 @@
     "summary": "A Bitcoin mining data center in El Reno, Oklahoma has been condemned after it leaked 3 million gallons of water.",
     "category": "hardware",
     "image": "https://cdn.mos.cms.futurecdn.net/XmuLkBe7w5p64DzyCY4eH5-1280-80.jpg",
-    "id": 2
+    "id": 4
   },
   {
     "title": "MSI MEG CoreLiquid E15 360 AIO Review: Bold and stunning, with market-leading performance",
@@ -28,7 +46,7 @@
     "summary": "MSI’s MEG CoreLiquid E15 360 AIO is a luxury cooling product, with a stunning 6.7-inch screen and industry-leading thermal performance.",
     "category": "hardware",
     "image": "https://cdn.mos.cms.futurecdn.net/dRo7MvFTvJyk79EXRmLzSN-1280-80.jpg",
-    "id": 3
+    "id": 5
   },
   {
     "title": "This 246TB SSD media server is built for millionaire cinephiles  —Kaleidescape's newest home theater vault supports 25 simultaneous 4K streams, stores up to 2,300 4K cinematic movies",
@@ -38,199 +56,188 @@
     "summary": "Kaleidescape, a maker of luxury home theater equipment, has revealed its latest media server, the \"Compact Terra Prime 246TB SSD.\"",
     "category": "hardware",
     "image": "https://cdn.mos.cms.futurecdn.net/LSsUpAsKPuP2d4KRxPJVgk-1280-80.png",
-    "id": 4
-  },
-  {
-    "title": "AI made it worth building games for our game nights",
-    "url": "https://mmazzarolo.com/blog/2026-09-05-ai-has-completely-changed-our-game-nights/",
-    "source": "Hacker News",
-    "date": "2026-09-06",
-    "summary": "Article URL: https://mmazzarolo.com/blog/2026-09-05-ai-has-completely-changed-our-game-nights/ Comments URL: https://news.ycombinator.com/item?id=49587110 Points: 2 # Comments: 1",
-    "category": "industry",
-    "image": "https://mmazzarolo.com/api/og?title=AI%20made%20it%20worth%20building%20games%20for%20our%20game%20nights",
-    "id": 5
-  },
-  {
-    "title": "Mirror of your own self – on AI sycophancy and getting what we asked for",
-    "url": "https://substack.com/app-link/post",
-    "source": "Hacker News",
-    "date": "2026-09-06",
-    "summary": "Article URL: https://substack.com/app-link/post Comments URL: https://news.ycombinator.com/item?id=49587029 Points: 1 # Comments: 0",
-    "category": "industry",
     "id": 6
   },
   {
-    "title": "Show HN: Local 3D LLM Sandbox a tiny assistant with an attitude",
-    "url": "https://github.com/franciscocarloserra/llm-sandbox/",
+    "title": "Ask HN: What's the best place to learn about skills and AI for coding in general",
+    "url": "https://news.ycombinator.com/item?id=49590168",
     "source": "Hacker News",
     "date": "2026-09-06",
-    "summary": "Built this small project as a proof of concept to see how fun it could be and how low latency it would be to interact with the local agent in a 3D environment. Any feedback is welcome! Comments URL: h...",
-    "category": "models",
-    "image": "https://opengraph.githubassets.com/0ff33a599450054c57b8b45577cb3023868fb9c88ef37a0b3e32b203b7cb59e8/franciscocarloserra/llm-sandbox",
+    "summary": "Comments URL: https://news.ycombinator.com/item?id=49590168 Points: 3 # Comments: 1",
+    "category": "industry",
     "id": 7
   },
   {
-    "title": "GPT-6 Astra soundly defeats Fable 5.1 on recognizing handwritten corrections",
-    "url": "https://dorrit.pairsys.ai/",
+    "title": "A directory of AI agents, MCP servers and agent skills, cross-linked",
+    "url": "https://aiagentslisting.com",
     "source": "Hacker News",
     "date": "2026-09-06",
-    "summary": "Article URL: https://dorrit.pairsys.ai/ Comments URL: https://news.ycombinator.com/item?id=49586814 Points: 3 # Comments: 1",
-    "category": "models",
+    "summary": "Article URL: https://aiagentslisting.com Comments URL: https://news.ycombinator.com/item?id=49589758 Points: 3 # Comments: 0",
+    "category": "hardware",
+    "image": "https://aiagentslisting.com/api/og",
     "id": 8
   },
   {
-    "title": "I track LLM API prices daily, found a 33x cost gap in the same model",
-    "url": "https://news.ycombinator.com/item?id=49586810",
+    "title": "Cory Doctorow on the Big AI Lie [video]",
+    "url": "https://www.youtube.com/watch?v=nTqCVJFr7XM",
     "source": "Hacker News",
     "date": "2026-09-06",
-    "summary": "I kept finding LLM pricing comparison posts that were already stale, so I built a scraper that snapshots the full OpenRouter catalog (425 models, 58 providers) every day and diffs it against the previ...",
-    "category": "models",
+    "summary": "Article URL: https://www.youtube.com/watch?v=nTqCVJFr7XM Comments URL: https://news.ycombinator.com/item?id=49589754 Points: 6 # Comments: 0",
+    "category": "industry",
     "id": 9
   },
   {
-    "title": "New York City pausing some AI tools in schools",
-    "url": "https://www.thehindu.com/news/international/why-is-new-york-city-pausing-some-ai-tools-in-schools-explained/article71431327.ece",
+    "title": "Security vulnerabilities of AI data centers flagged at intelligence hearing",
+    "url": "https://insidecybersecurity.com/daily-news/security-vulnerabilities-ai-data-centers-flagged-house-intelligence-hearing",
     "source": "Hacker News",
     "date": "2026-09-06",
-    "summary": "Article URL: https://www.thehindu.com/news/international/why-is-new-york-city-pausing-some-ai-tools-in-schools-explained/article71431327.ece Comments URL: https://news.ycombinator.com/item?id=49586708...",
-    "category": "tools",
-    "image": "https://th-i.thgim.com/public/incoming/cccz31/article71431324.ece/alternates/LANDSCAPE_1200/2026-09-01T002353Z_1057454928_RC2Z9NACQU2O_RTRMADP_3_USA-SHOOTING-NEW-YORK.JPG",
+    "summary": "Article URL: https://insidecybersecurity.com/daily-news/security-vulnerabilities-ai-data-centers-flagged-house-intelligence-hearing Comments URL: https://news.ycombinator.com/item?id=49589674 Points: ...",
+    "category": "hardware",
     "id": 10
   },
   {
-    "title": "Terence Tao on \"Solving Maths Problems Prematurely with AI Methods",
-    "url": "https://mathstodon.xyz/@tao/117207856734787448",
+    "title": "Public beta: a decision-governance runtime for AI agents",
+    "url": "https://amundsenlance.github.io/pvpp-runtime-api/",
     "source": "Hacker News",
     "date": "2026-09-06",
-    "summary": "Article URL: https://mathstodon.xyz/@tao/117207856734787448 Comments URL: https://news.ycombinator.com/item?id=49586690 Points: 2 # Comments: 0",
-    "category": "industry",
+    "summary": "Article URL: https://amundsenlance.github.io/pvpp-runtime-api/ Comments URL: https://news.ycombinator.com/item?id=49589662 Points: 1 # Comments: 0",
+    "category": "tools",
     "id": 11
   },
   {
-    "title": "LLM representations have implicit symbolic structure",
-    "url": "https://twitter.com/RTomMcCoy/status/2094870131939684488",
+    "title": "GPT-6 Astra is now available in Perplexity Computer",
+    "url": "https://twitter.com/perplexity_ai/status/2096006336786133366",
     "source": "Hacker News",
     "date": "2026-09-06",
-    "summary": "Article URL: https://twitter.com/RTomMcCoy/status/2094870131939684488 Comments URL: https://news.ycombinator.com/item?id=49586590 Points: 4 # Comments: 0",
+    "summary": "Article URL: https://twitter.com/perplexity_ai/status/2096006336786133366 Comments URL: https://news.ycombinator.com/item?id=49589419 Points: 2 # Comments: 0",
     "category": "models",
-    "image": "https://pbs.twimg.com/media/HRJ5Jr5W0AAQ-sN.jpg:large",
+    "image": "https://pbs.twimg.com/profile_images/2009310641165660160/XArF3_Ib_400x400.jpg",
     "id": 12
   },
   {
-    "title": "2011 Fall Lecture on AI by Marvin Minsky",
-    "url": "https://twitter.com/onryxxx/status/2095625018264760687",
+    "title": "ByteX: A Unified AI Search Engine at ByteDance",
+    "url": "https://arxiv.org/abs/2608.30607",
     "source": "Hacker News",
     "date": "2026-09-06",
-    "summary": "Article URL: https://twitter.com/onryxxx/status/2095625018264760687 Comments URL: https://news.ycombinator.com/item?id=49586587 Points: 2 # Comments: 0",
-    "category": "industry",
-    "image": "https://pbs.twimg.com/amplify_video_thumb/2095605936089931782/img/LCZYw2BlxAEE1vz_.jpg",
+    "summary": "Article URL: https://arxiv.org/abs/2608.30607 Comments URL: https://news.ycombinator.com/item?id=49589276 Points: 2 # Comments: 0",
+    "category": "research",
     "id": 13
   },
   {
-    "title": "Show HN: Free AI Photo Editor Online – No Sign-Up",
-    "url": "https://piceditor.org/",
+    "title": "Genesis Mission: AI and Quantum Computing for Scientific Discovery",
+    "url": "https://github.com/donutloop/donutloop-genesis/blob/main/README.md",
     "source": "Hacker News",
     "date": "2026-09-06",
-    "summary": "Article URL: https://piceditor.org/ Comments URL: https://news.ycombinator.com/item?id=49586554 Points: 1 # Comments: 0",
+    "summary": "Article URL: https://github.com/donutloop/donutloop-genesis/blob/main/README.md Comments URL: https://news.ycombinator.com/item?id=49589224 Points: 1 # Comments: 0",
     "category": "industry",
-    "image": "https://piceditor.org/og.jpeg",
+    "image": "https://opengraph.githubassets.com/43439f65f56ff97eece3b62b839d2baeec5a6282aacac856fc362b5bd045da48/donutloop/donutloop-genesis",
     "id": 14
   },
   {
-    "title": "Should I reconsider my decision of self-hosting LLM Gateway?",
-    "url": "https://news.ycombinator.com/item?id=49586552",
+    "title": "Choosing a Framework Desktop for Local AI: 32GB, 64GB, and 128GB",
+    "url": "https://frame.work/pl/en/blog/choosing-a-framwork-desktop-for-local-ai",
     "source": "Hacker News",
     "date": "2026-09-06",
-    "summary": "The CVE-2026-35029 privilege escalation in LiteLLM is a reminder that middleware is not something you can install once and forget. What is your view on using self-hosted LLM gateway? I wrote this post...",
-    "category": "models",
+    "summary": "Article URL: https://frame.work/pl/en/blog/choosing-a-framwork-desktop-for-local-ai Comments URL: https://news.ycombinator.com/item?id=49589065 Points: 3 # Comments: 0",
+    "category": "tools",
+    "image": "https://images.prismic.io/frameworkmarketplace/Y1uA7Tch71uC31mu_BestAIModels.png?auto=format,compress",
     "id": 15
   },
   {
-    "title": "Ask HN: Any Software Engineers here who enjoy their AI-native dev workflow?",
-    "url": "https://news.ycombinator.com/item?id=49586386",
+    "title": "MotionSites AI – Official Premium AI Website Prompts",
+    "url": "https://motionsites.ai/",
     "source": "Hacker News",
     "date": "2026-09-06",
-    "summary": "I would love to know what's your setup like, how you make it enjoyable and what kind of work you offload to AI vs what you're still doing yourself. Not talking to the hobbyists or Managers who can now...",
+    "summary": "Article URL: https://motionsites.ai/ Comments URL: https://news.ycombinator.com/item?id=49588631 Points: 2 # Comments: 0",
     "category": "industry",
+    "image": "https://storage.googleapis.com/gpt-engineer-file-uploads/OzagiQ9ZfuQNatpgQBgKibiYrtm2/social-images/social-1772948036264-1social.webp",
     "id": 16
   },
   {
-    "title": "Show HN: Object Remover – AI Video Object Remover Online",
-    "url": "https://objectremover.online/",
+    "title": "Ask HN: How safe are our password managers in face of LLM cyber attacks?",
+    "url": "https://news.ycombinator.com/item?id=49588597",
     "source": "Hacker News",
     "date": "2026-09-06",
-    "summary": "Article URL: https://objectremover.online/ Comments URL: https://news.ycombinator.com/item?id=49586328 Points: 1 # Comments: 0",
-    "category": "industry",
-    "image": "https://objectremover.online/object-remover-logo-light.png",
+    "summary": "Hey With LLMs having infinite attack resources compared to human researchers, how safe are we? We already know that you don't need top tier frontier models to create an attack vector. You can just loo...",
+    "category": "research",
     "id": 17
   },
   {
-    "title": "AI coding agents forget the codebase between sessions",
-    "url": "https://github.com/thecolourfoundation/rune",
+    "title": "Washington Post says Piker used AI generated audio but admits it has no proof",
+    "url": "https://twitter.com/washingtonpost/status/2096304873557877132",
     "source": "Hacker News",
     "date": "2026-09-06",
-    "summary": "Article URL: https://github.com/thecolourfoundation/rune Comments URL: https://news.ycombinator.com/item?id=49586035 Points: 3 # Comments: 0",
+    "summary": "Article URL: https://twitter.com/washingtonpost/status/2096304873557877132 Comments URL: https://news.ycombinator.com/item?id=49588382 Points: 2 # Comments: 0",
     "category": "industry",
-    "image": "https://opengraph.githubassets.com/45c96d81322edf18dded5afe1ea011fc8bc378a1303aedd2b7dde31a1475dcd7/thecolourfoundation/rune",
+    "image": "https://pbs.twimg.com/card_img/2096189440557187073/xf__1JxX?format=jpg&name=orig",
     "id": 18
   },
   {
-    "title": "AI Slop",
-    "url": "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5870742&utm_source=substack&utm_medium=email",
+    "title": "Ask HN: (Why) Was the LLM breakthrough useful for images, audio, etc.?",
+    "url": "https://news.ycombinator.com/item?id=49588265",
     "source": "Hacker News",
     "date": "2026-09-06",
-    "summary": "Article URL: https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5870742&utm_source=substack&utm_medium=email Comments URL: https://news.ycombinator.com/item?id=49586011 Points: 6 # Comments: 2",
-    "category": "research",
+    "summary": "This has been bothering me for a while. I feel like I have a decent conceptual grasp of what LLMs are doing with written text. But it seems like they also unlocked a bunch of progress in understanding...",
+    "category": "models",
     "id": 19
   },
   {
-    "title": "Did you say AI-mish?",
-    "url": "https://medium.com/future-of-work-society-towards-the-quaternary/did-you-say-ai-mish-00ad15529e80",
+    "title": "AI Is Making Us Less Human",
+    "url": "https://www.theatlantic.com/ideas/2026/09/open-ai-consciousness-morality/688535/",
     "source": "Hacker News",
     "date": "2026-09-06",
-    "summary": "Article URL: https://medium.com/future-of-work-society-towards-the-quaternary/did-you-say-ai-mish-00ad15529e80 Comments URL: https://news.ycombinator.com/item?id=49585912 Points: 1 # Comments: 0",
+    "summary": "Article URL: https://www.theatlantic.com/ideas/2026/09/open-ai-consciousness-morality/688535/ Comments URL: https://news.ycombinator.com/item?id=49588106 Points: 6 # Comments: 3",
     "category": "industry",
+    "image": "https://cdn.theatlantic.com/thumbor/qdJ5ouVHP6TTuy8HAzo0ees6bds=/0x35:2000x1077/1200x625/media/img/mt/2026/09/AnthropomorphismNew/original.png",
     "id": 20
   },
   {
-    "title": "GPT-6 Astra has autonomously completed Portal",
-    "url": "https://twitter.com/cozyblazex/status/2096383114851533097",
+    "title": "AI agents aren't safe from prompt injection, and spreadsheets prove it",
+    "url": "https://shiftmag.dev/ai-agents-arent-safe-from-prompt-injection-and-spreadsheets-prove-it-11609/",
     "source": "Hacker News",
     "date": "2026-09-06",
-    "summary": "Article URL: https://twitter.com/cozyblazex/status/2096383114851533097 Comments URL: https://news.ycombinator.com/item?id=49585819 Points: 6 # Comments: 0",
-    "category": "models",
-    "image": "https://pbs.twimg.com/media/HRfZUPDaMAASYUz.jpg:large",
+    "summary": "Article URL: https://shiftmag.dev/ai-agents-arent-safe-from-prompt-injection-and-spreadsheets-prove-it-11609/ Comments URL: https://news.ycombinator.com/item?id=49587979 Points: 3 # Comments: 1",
+    "category": "industry",
+    "image": "https://shiftmag.dev/wp-content/uploads/2026/08/prompt-injection.png",
     "id": 21
   },
   {
-    "title": "Show HN: I stopped using an LLM gateway and put rate-limits/fallback in-process",
-    "url": "https://github.com/LakBud/vernLLM",
+    "title": "The AI Account Reseller Ecosystem",
+    "url": "https://vectoral.com/blog/ai-account-reseller-ecosystem",
     "source": "Hacker News",
     "date": "2026-09-06",
-    "summary": "Sup HN. I built VernLLM cuz every LLM gateaway I looked at, meant adding a network hop just to get rate limiting, multi provider fallback, circuit breaking and other features. Needing to take a whole ...",
-    "category": "models",
-    "image": "https://opengraph.githubassets.com/b746b9d96014bda5011224bf578c8acd1120b9d626a365c954091634e4d8b472/LakBud/vernLLM",
+    "summary": "Article URL: https://vectoral.com/blog/ai-account-reseller-ecosystem Comments URL: https://news.ycombinator.com/item?id=49587958 Points: 2 # Comments: 0",
+    "category": "industry",
     "id": 22
   },
   {
-    "title": "TCS commits $7.4B to a one-gigawatt AI campus in Hyderabad",
-    "url": "https://thenextweb.com/news/tcs-hypervault-one-gigawatt-hyderabad-campus-7-4-billion-water-neutral-claim-eu-data-centre-reporting-delegated-regulation-2024-1364",
+    "title": "Leverage Code Review for Sustainable AI Coding Development",
+    "url": "https://cacm.acm.org/news/leverage-code-review-for-sustainable-ai-coding-development/",
     "source": "Hacker News",
     "date": "2026-09-06",
-    "summary": "Article URL: https://thenextweb.com/news/tcs-hypervault-one-gigawatt-hyderabad-campus-7-4-billion-water-neutral-claim-eu-data-centre-reporting-delegated-regulation-2024-1364 Comments URL: https://news...",
-    "category": "industry",
-    "image": "https://media.thenextweb.com/2026/09/tcs-hypervault-one-gigawatt-hyderabad-campus-7-4-billion-water-neutral-claim-eu-data-centre-reporting-delegated-regulation-2024-1364.jpg",
+    "summary": "Article URL: https://cacm.acm.org/news/leverage-code-review-for-sustainable-ai-coding-development/ Comments URL: https://news.ycombinator.com/item?id=49587872 Points: 1 # Comments: 0",
+    "category": "research",
     "id": 23
   },
   {
-    "title": "What does \"good\" AI mean?",
-    "url": "https://thoughts.wyounas.com/p/what-does-good-ai-mean",
+    "title": "Mdmanager.ai – Manage your Claude.md and AGENTS.md across machines and runtimes",
+    "url": "https://github.com/manuelschipper/mdmanager",
     "source": "Hacker News",
     "date": "2026-09-06",
-    "summary": "Article URL: https://thoughts.wyounas.com/p/what-does-good-ai-mean Comments URL: https://news.ycombinator.com/item?id=49585456 Points: 2 # Comments: 0",
-    "category": "industry",
-    "image": "https://substackcdn.com/image/fetch/$s_!PIrt!,f_auto,q_auto:best,fl_progressive:steep/https%3A%2F%2Fwyounas.substack.com%2Ftwitter%2Fsubscribe-card.jpg%3Fv%3D1075606337%26version%3D9",
+    "summary": "Article URL: https://github.com/manuelschipper/mdmanager Comments URL: https://news.ycombinator.com/item?id=49587839 Points: 3 # Comments: 5",
+    "category": "models",
+    "image": "https://opengraph.githubassets.com/c1b106b07c220fbbc9b5a93fef31d9b6a0829d59bc9172aa9e87f400b5bf26cb/manuelschipper/mdmanager",
     "id": 24
+  },
+  {
+    "title": "AI Work Simulator",
+    "url": "https://runwork.ai/simulate",
+    "source": "Hacker News",
+    "date": "2026-09-06",
+    "summary": "Article URL: https://runwork.ai/simulate Comments URL: https://news.ycombinator.com/item?id=49587554 Points: 2 # Comments: 1",
+    "category": "industry",
+    "image": "https://runwork.ai/simulation-card.png",
+    "id": 25
   },
   {
     "title": "My Brief Summer Fling With Siri AI",
@@ -240,7 +247,7 @@
     "summary": "I was initially enamored with the beta version of Apple’s revamped smartphone assistant. As the full release approaches, I’ve forgotten Siri AI even exists.",
     "category": "industry",
     "image": "https://media.wired.com/photos/6a9957d8075950c219e951f8/191:100/w_1280,c_limit/GettyImages-2255802594.jpg",
-    "id": 25
+    "id": 26
   },
   {
     "title": "Save nearly 50% on this awesome 16-inch OLED laptop with a Ryzen AI 5 430 CPU & 16GB RAM — HP's MacBook Neo-beating OmniBook X Flip is down to just $699",
@@ -250,7 +257,7 @@
     "summary": "If you're looking for a capable machine for everyday tasks and media consumption without breaking the bank, there isn't a better deal out there than this one.",
     "category": "hardware",
     "image": "https://cdn.mos.cms.futurecdn.net/DBiw2KhgFRKwNG3ZgKm8vB-1280-80.png",
-    "id": 26
+    "id": 27
   },
   {
     "title": "Stripped-down Windows 11 for AI developers demands 64GB RAM and insane 250 GB/s bandwidth — Project Zenith will debut on AMD's flagship Ryzen AI Halo platform",
@@ -260,7 +267,7 @@
     "summary": "Project Zenith is a version of Windows 11 that lets developers work right out of the box. It comes pre-installed with developer tools like Visual Studio Code, GitHub Copilot, and WSL 2+ Ubuntu, among ...",
     "category": "tools",
     "image": "https://cdn.mos.cms.futurecdn.net/gouCtmSHKJJLP8CP9BpbQ3-1280-80.jpg",
-    "id": 27
+    "id": 28
   },
   {
     "title": "Nvidia returns to selling Founder's Edition RTX 50-series GPUs at MSRP in person at PAX West — Verified Priority Access has RTX 5090, RTX 5080, and RTX 5070 at list price",
@@ -270,7 +277,7 @@
     "summary": "Nvidia is offering its RTX 5090, RTX 5080, and RTX 5070 Founder's Edition models at MSRP at PAX West.",
     "category": "hardware",
     "image": "https://cdn.mos.cms.futurecdn.net/YFFrf4eYE3Q6QpkEfGBua5-1280-80.jpg",
-    "id": 28
+    "id": 29
   },
   {
     "title": "AMD reportedly prepping Ryzen 5 7500 (non-F) CPU with integrated graphics at double the price — Six-core Zen 4 chip rumored to share identical specs with its F-moniker cousin",
@@ -280,7 +287,7 @@
     "summary": "A new report suggests AMD is preparing a non-F version of the Ryzen 5 7500F with integrated graphics. It would cost 230 Euros, or $267, which would put it above even the 7600X3D in terms of pricing, d...",
     "category": "hardware",
     "image": "https://cdn.mos.cms.futurecdn.net/8HRHpufeQP8XBVXitxXV9H-1280-80.jpg",
-    "id": 29
+    "id": 30
   },
   {
     "title": "Modder gets Nvidia's DLSS 5 working on AMD's RDNA 4 GPUs — RX 9070 XT only manages 30 FPS at 1080p right now, but 5070 Ti-level performance is the eventual goal",
@@ -290,7 +297,7 @@
     "summary": "If you have an RX 9000 series GPU, you can try out DLSS 5 on your PC right now and absolutely destroy the stable performance you were getting before.",
     "category": "hardware",
     "image": "https://cdn.mos.cms.futurecdn.net/A5B8BfAZTyVWEpy5TRr3UY-1280-80.jpg",
-    "id": 30
+    "id": 31
   },
   {
     "title": "We tested DLSS 5 in NBA 2K27 with every RTX 50-series GPU — first official release comes with a big performance hit, but almost every Blackwell card can run it at 1080p",
@@ -300,7 +307,7 @@
     "summary": "We tested Nvidia's DLSS 5 in NBA 2K27 across every RTX 50-series graphics card at 1080p, 1440p, and 4K to see just how much performance it costs to explore the frontiers of neural rendering.",
     "category": "hardware",
     "image": "https://cdn.mos.cms.futurecdn.net/peEtJE98WLRCbHo2PH4CQF-1280-80.jpg",
-    "id": 31
+    "id": 32
   },
   {
     "title": "Taiwan cracks down on tech businesses with illegal Chinese ownership — 166 investigations and at least 36 convictions since 2020",
@@ -310,7 +317,7 @@
     "summary": "Taiwan's top investigative agency has been tracking Chinese businesses operating on the island without proper authority and shutting them down. These companies have been hiring Taiwanese experts to he...",
     "category": "hardware",
     "image": "https://cdn.mos.cms.futurecdn.net/UT7m8qPkTNnATrTXAKokZi-1280-80.png",
-    "id": 32
+    "id": 33
   },
   {
     "title": "Seattle Times and Newsday are the latest publications to sue OpenAI and Microsoft",
@@ -320,7 +327,7 @@
     "summary": "Two more news organizations are suing OpenAI and Microsoft over the supposed use of their journalism to train AI.",
     "category": "industry",
     "image": "https://techcrunch.com/wp-content/uploads/2023/03/artifact-newspaper-icon.jpg?resize=1200,645",
-    "id": 33
+    "id": 34
   },
   {
     "title": "Hikers rescued after using Google Gemini for planning",
@@ -330,7 +337,7 @@
     "summary": "The sheriff’s office said the hikers “were advised by Gemini to bring far less food and water than their group required.\"",
     "category": "models",
     "image": "https://techcrunch.com/wp-content/uploads/2017/11/gettyimages-677147499.jpg?resize=1200,600",
-    "id": 34
+    "id": 35
   },
   {
     "title": "OpenAI confirms ‘wiki incident,’ says it’s ‘working on a framework’ for more disclosure",
@@ -340,7 +347,7 @@
     "summary": "OpenAI acknowledged its role in a recently reported incident where AI agents took over a German wiki forum.",
     "category": "tools",
     "image": "https://techcrunch.com/wp-content/uploads/2026/07/OpenAI-logo-in-Seoul.jpg?w=1024",
-    "id": 35
+    "id": 36
   },
   {
     "title": "OpenAI Agents Hacked Another Website",
@@ -350,7 +357,7 @@
     "summary": "Plus: Tens of millions of US and Canadian drivers’ licenses go up for sale on the dark web, the US military finally tries to tackle the risk online ad data poses to troops, and more.",
     "category": "industry",
     "image": "https://media.wired.com/photos/6a9b05bd8cf97243010f350d/191:100/w_1280,c_limit/Security_OpenAI%20Agents%20Tried%20to%20Hack%20Another%20Website_v1.jpg",
-    "id": 36
+    "id": 37
   },
   {
     "title": "OpenAI agents discussed ways to escape their sandbox on public wiki",
@@ -360,7 +367,7 @@
     "summary": "In all, 3,700 internal agents posted 18,000 messages discussing cheating on a test.",
     "category": "industry",
     "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/ai-agent-hacking-1152x648.jpg",
-    "id": 37
+    "id": 38
   },
   {
     "title": "Once popular for attacking AI, ASCII smuggling is embraced by spammers",
@@ -370,7 +377,7 @@
     "summary": "A once-overlooked block of unicode that's invisible to humans is gaining ever wider use.",
     "category": "industry",
     "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/no-eyes-1152x648.jpg",
-    "id": 38
+    "id": 39
   },
   {
     "title": "DLSS 5 officially launches inside NBA 2K27, limited to RTX 50-series GPUs for now — Nvidia promises to bring neutral rendering tech to RTX 40-series soon",
@@ -380,7 +387,7 @@
     "summary": "Nvidia's controversial neural-rendering tech, DLSS 5, is now officially available in NBA 2K27, marking the start of a new era for the company. DLSS 5 will also come to RTX 40-series soon after current...",
     "category": "hardware",
     "image": "https://cdn.mos.cms.futurecdn.net/HwAcYRj7Jwy8EMgAW5JouH-1280-80.gif",
-    "id": 39
+    "id": 40
   },
   {
     "title": "Minisforum launches local AI solutions at IFA 2026 — AI Agent NAS N5 and AI Mini Workstation MS-S1 use AMD Ryzen AI Max+ Pro 495 processors designed to run models locally",
@@ -390,7 +397,7 @@
     "summary": "Minisforum unveiled the NAS N5 Max-P495 and MS-S1 Max-P945 at IFA 2026. The NAS and mini-PC are powered by the AMD Ryzen AI Max+ Pro 495, which can be configured with up to 192GB of unified memory and...",
     "category": "hardware",
     "image": "https://cdn.mos.cms.futurecdn.net/66ZKeMNUG2Qj6bscFTNUdY-1280-80.png",
-    "id": 40
+    "id": 41
   },
   {
     "title": "Frontier AI faces pricing reckoning as token volume explodes 25-fold — mid-tier models deliver 90% of flagship capability at one-sixth the cost",
@@ -400,7 +407,7 @@
     "summary": "As frontier AI developers push for cost savings as much as intelligence enhancements, new models push the boundaries of the pareto frontier, with even small advantages crowning new kings.",
     "category": "hardware",
     "image": "https://cdn.mos.cms.futurecdn.net/RoWuf9xdXjZiryHtDVpFu8-1280-80.jpg",
-    "id": 41
+    "id": 42
   },
   {
     "title": "Nvidia app update fails to block unofficial DLSS multi-frame generation mod on RTX 40 series gaming GPUs — modders restore support across multiple games within hours",
@@ -410,7 +417,7 @@
     "summary": "When NVIDIA launched the GeForce RTX 50 series, a major part of the hype surrounding the new GPU family was its support for DLSS Multi-Frame Generation. This feature was officially locked to the new R...",
     "category": "hardware",
     "image": "https://cdn.mos.cms.futurecdn.net/uWtej5aJNqQwbgnjf5BLDM-1280-80.jpg",
-    "id": 42
+    "id": 43
   },
   {
     "title": "Denver data center continuously waters its lawn even after city announced drought restrictions, enraging residents — it’s unclear if site is breaking the law or using its own recycled water",
@@ -420,7 +427,7 @@
     "summary": "An AI data center is reportedly watering its lawn despite the area suffering from a drought. One resident said that we can't water our lawns until next summer, but you better believe that they are wat...",
     "category": "hardware",
     "image": "https://cdn.mos.cms.futurecdn.net/3DKtaekbQ6h6AeAJcp8rNE-1280-80.png",
-    "id": 43
+    "id": 44
   },
   {
     "title": "AMD unveils Threadripper Halo Station, an AI workstation packing 96 cores and dual liquid-cooled MI350P accelerators — 'the most powerful workstation in the world' can run trillion-parameter models, says AMD",
@@ -430,7 +437,7 @@
     "summary": "AMD's Threadripper Halo Station packs a 96-core Zen 5 Threadripper, dual MI350P accelerators with support for four, and 2TB of DDR5.",
     "category": "hardware",
     "image": "https://cdn.mos.cms.futurecdn.net/EHns78bnX5ekkg6HfvzEXa-1280-80.png",
-    "id": 44
+    "id": 45
   },
   {
     "title": "Discrete graphics card sales hit four-year record despite soaring memory prices — AMD gains market share as notebook graphics carry the market",
@@ -440,7 +447,7 @@
     "summary": "Shipments of standalone graphics processors for PCs grow sequentially and year-over-year amid shortage of components and increased prices.",
     "category": "hardware",
     "image": "https://cdn.mos.cms.futurecdn.net/SH2i5c93RLa8f9GvU6FJXi-1280-80.jpg",
-    "id": 45
+    "id": 46
   },
   {
     "title": "Chinese chipmaker CXMT allegedly used a written roadmap to steal Samsung DRAM tech — South Korean court says 'Project Hefei' lifted 620-step recipe to build 10% global market share",
@@ -450,7 +457,7 @@
     "summary": "CXMT's alleged industrial espionage from Samsung had an actual roadmap — South Korean court says Project Hefei was responsible for CXMT's current position as major DRAM maker",
     "category": "hardware",
     "image": "https://cdn.mos.cms.futurecdn.net/kZ6DksKsTnL5JWKit4UwyV-1280-80.jpg",
-    "id": 46
+    "id": 47
   },
   {
     "title": "XDOF, just three months out of stealth, is in talks for a Series B at a $1.2B valuation",
@@ -460,7 +467,7 @@
     "summary": "The round is being raised just months after the robot data startup exited from stealth.",
     "category": "industry",
     "image": "https://techcrunch.com/wp-content/uploads/2026/06/DSC_2479.jpg?resize=1200,800",
-    "id": 47
+    "id": 48
   },
   {
     "title": "OpenAI’s rogue agents keep escaping, with no formal process to investigate them",
@@ -470,7 +477,7 @@
     "summary": "OpenAI’s latest agent swarm incident adds urgency to calls for independent investigations as researchers and lawmakers question whether AI labs should control the scope of their own safety reviews.",
     "category": "research",
     "image": "https://techcrunch.com/wp-content/uploads/2026/05/ai-agents-GettyImages-2229880232.jpg?resize=1200,675",
-    "id": 48
+    "id": 49
   },
   {
     "title": "AI compute provider Nscale is looking for $3.5B in pre-IPO financing",
@@ -480,16 +487,6 @@
     "summary": "Nscale, which recently struck a $45 billion deal with Anthropic, is in talks to raise additional funds in anticipation of an upcoming IPO.",
     "category": "industry",
     "image": "https://techcrunch.com/wp-content/uploads/2026/07/GettyImages-2266843677.jpg?resize=1200,800",
-    "id": 49
-  },
-  {
-    "title": "What will Apple’s John Ternus era look like?",
-    "url": "https://techcrunch.com/video/what-will-apples-john-ternus-era-look-like/",
-    "source": "TechCrunch",
-    "date": "2026-09-04",
-    "summary": "It’s officially the Ternus era at Apple. Tim Cook stepped down as CEO this week, handing the company to former hardware chief John Ternus, whose first memo promised a “huge launch next week” — timing ...",
-    "category": "industry",
-    "image": "https://techcrunch.com/wp-content/uploads/2026/09/GettyImages-2287301688.jpg?resize=1200,800",
     "id": 50
   }
 ]
