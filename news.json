@@ -1,14 +1,132 @@
 [
   {
-    "title": "AWS tells clients to abandon Middle East data centers six months after Iranian drone strikes — Amazon offers no recovery timeline as UAE mulls underground data centers",
+    "title": "NVIDIA Vera Rubin NVL72 Delivers Leading Performance in MLPerf Inference v6.1 Debut",
+    "url": "https://blogs.nvidia.com/blog/vera-rubin-nvl72-mlperf-inference/",
+    "source": "NVIDIA Blog",
+    "date": "2026-09-16",
+    "summary": "System performance, efficient infrastructure scaling and continuous software optimization are key levers that determine AI inference economics. Higher system performance means more tokens generated, r...",
+    "category": "hardware",
+    "image": "https://blogs.nvidia.com/wp-content/uploads/2026/09/mlperf-inference-6-1.png",
+    "id": 1,
+    "featured": true
+  },
+  {
+    "title": "Reimagining advertising with AI",
+    "url": "https://openai.com/index/reimagining-advertising-with-ai",
+    "source": "OpenAI Blog",
+    "date": "2026-09-16",
+    "summary": "Explore new AI-powered advertising experiences from OpenAI, including Sponsored Agents, tools for marketers, and integrations with HubSpot and Shopify.",
+    "category": "tools",
+    "id": 2
+  },
+  {
+    "title": "Helping older adults use AI in everyday life",
+    "url": "https://openai.com/index/helping-older-adults-use-ai-in-everyday-life",
+    "source": "OpenAI Blog",
+    "date": "2026-09-16",
+    "summary": "OpenAI and AARP are bringing free, hands-on ChatGPT workshops to 1,000 older adults across 10 U.S. cities to build practical AI skills safely.",
+    "category": "models",
+    "id": 3
+  },
+  {
+    "title": "Emerald AI, Google and NVIDIA Launch Alliance to Advance Flexible AI Data Centers",
+    "url": "https://blogs.nvidia.com/blog/ai-energy-management-alliance/",
+    "source": "NVIDIA Blog",
+    "date": "2026-09-16",
+    "summary": "AI factories are the infrastructure of the intelligence era. Scaling them responsibly will depend as much on innovation across the grid as inside the data center. Today, Emerald AI, Google and NVIDIA ...",
+    "category": "hardware",
+    "image": "https://blogs.nvidia.com/wp-content/uploads/2026/09/aema-main-feature.png",
+    "id": 4
+  },
+  {
+    "title": "Developer vibe codes a tool to let NVIDIA RTX 50-series laptop owners crank up their power limits — can juice RTX 5090 mobile GPU to 225W",
+    "url": "https://www.tomshardware.com/pc-components/overclocking/developer-vibe-codes-a-tool-to-let-nvidia-rtx-50-series-laptop-owners-crank-up-their-power-limits-can-juice-rtx-5090-mobile-gpu-to-225w",
+    "source": "Tom's Hardware",
+    "date": "2026-09-16",
+    "summary": "A developer has created a fully vibe-coded tool that seems to work to allow some GeForce RTX 50-series laptops to crank their power limits by as much as 28%.",
+    "category": "hardware",
+    "image": "https://cdn.mos.cms.futurecdn.net/D7aZSgz5tphrHEQWcDEtPf-1280-80.jpg",
+    "id": 5
+  },
+  {
+    "title": "Piecemakers bets edge AI devices will diverge from reliance on HBM — custom-designed memory fuses DRAM stack directly to the processor using hybrid bonding",
+    "url": "https://www.tomshardware.com/tech-industry/semiconductors/piecemakers-bets-edge-ai-devices-will-diverge-from-reliance-on-hbm-custom-designed-memory-fuses-dram-stack-directly-to-the-processor-using-hybrid-bonding",
+    "source": "Tom's Hardware",
+    "date": "2026-09-16",
+    "summary": "Nanya-backed DRAM designer PieceMakers began trading in Taipei on Sept. 16 on a bet that AI inference memory won’t be HBM.",
+    "category": "hardware",
+    "image": "https://cdn.mos.cms.futurecdn.net/wPT2pgJDrMKWtsy78z2WnY-1280-80.jpg",
+    "id": 6
+  },
+  {
+    "title": "Denuvo sues anonymous game cracker ‘voices38’ over alleged DRM circumvention — seeks damages after Anti-Tamper protections bypassed in 26 games",
+    "url": "https://www.tomshardware.com/video-games/denuvo-sues-anonymous-game-cracker-voices38-over-alleged-drm-circumvention-seeks-damages-after-anti-tamper-protections-bypassed-in-26-games",
+    "source": "Tom's Hardware",
+    "date": "2026-09-16",
+    "summary": "Instead of pursuing traditional copyright infringement, Denuvo's case relies on the DMCA's anti-circumvention provisions, targeting the alleged bypassing of its digital protections.",
+    "category": "hardware",
+    "image": "https://cdn.mos.cms.futurecdn.net/uo6XbmY6csPydKDYWb3wWo-1280-80.jpg",
+    "id": 7
+  },
+  {
+    "title": "Micron announces 512GB DDR5-9200 memory modules with 16W power draw — up to 12TB per server, claims 60% less energy-intensive than four 128GB modules",
+    "url": "https://www.tomshardware.com/pc-components/dram/micron-announces-512gb-ddr5-9200-memory-modules-with-16w-power-draw-up-to-12tb-per-server-claims-60-percent-less-energy-intensive-than-four-128gb-modules",
+    "source": "Tom's Hardware",
+    "date": "2026-09-16",
+    "summary": "After five years, Samsung's 512GB DDR5 memory modules get their first direct rival from Micron, which also promises to offer speed bins up to 9200 MT/s. But their prices could be way too high even for...",
+    "category": "hardware",
+    "image": "https://cdn.mos.cms.futurecdn.net/piUuHtgGMF6aJLG24RchXg-1280-80.png",
+    "id": 8
+  },
+  {
+    "title": "AI-induced memory shortage is changing how devices are built, Fairphone says memory now 60% of materials cost — smaller laptop and phone makers are redesigning products and have to test for fake chips",
+    "url": "https://www.tomshardware.com/pc-components/ram/ai-induced-memory-shortage-is-changing-how-devices-are-built-fairphone-says-memory-now-60-percent-of-materials-cost-smaller-laptop-and-phone-makers-are-redesigning-products-and-have-to-test-for-fake-chips",
+    "source": "Tom's Hardware",
+    "date": "2026-09-16",
+    "summary": "For smaller device manufacturers, rising memory prices are only part of the problem as limited availability forces companies to rethink everything from motherboard designs to procurement strategies.",
+    "category": "hardware",
+    "image": "https://cdn.mos.cms.futurecdn.net/GMkiJ6bxuBFHx5hvS2ZjgN-1280-80.jpg",
+    "id": 9
+  },
+  {
+    "title": "Chinese state media counters Anthropic's call to put brakes on AI development — paper says move is ‘a response to Chinese competition’",
+    "url": "https://www.tomshardware.com/tech-industry/policy/chinese-state-media-counters-dario-amodeis-call-to-put-brakes-on-ai-development-paper-says-move-is-a-response-to-chinese-competition",
+    "source": "Tom's Hardware",
+    "date": "2026-09-16",
+    "summary": "State media outlet China Daily posits that Anthropic's Dario Amodei made the call to limit frontier AI development because Chinese AI models are catching up with American AI labs.",
+    "category": "research",
+    "image": "https://cdn.mos.cms.futurecdn.net/xac7n5MNGJHifUGMbvwcY6-1280-80.png",
+    "id": 10
+  },
+  {
+    "title": "Jensen Huang thinks China will develop its own advanced lithography chipmaking tools by 2030 — Nvidia CEO says achievement of that capability 'is just a matter of time'",
+    "url": "https://www.tomshardware.com/tech-industry/semiconductors/jensen-huang-thinks-china-will-develop-its-own-advanced-lithography-systems-by-2030-nvidia-ceo-says-achievement-of-that-capability-is-just-a-matter-of-time",
+    "source": "Tom's Hardware",
+    "date": "2026-09-16",
+    "summary": "Nvidia CEO thinks that in light of his view of a three- to four-year timeline for Chinese development of advanced semi tooling, the country is \"already there.\"",
+    "category": "hardware",
+    "image": "https://cdn.mos.cms.futurecdn.net/s8oZY8R9mUgEH85SaFQLu5-1280-80.png",
+    "id": 11
+  },
+  {
+    "title": "SK hynix reportedly discussing US memory chip manufacturing with Intel — options include leasing Ohio plant or forming joint venture with other AI hyperscalers",
+    "url": "https://www.tomshardware.com/tech-industry/semiconductors/sk-hynix-reportedly-discussing-us-memory-chip-manufacturing-with-intel-options-include-leasing-ohio-plant-or-forming-joint-venture-with-other-ai-hyperscalers",
+    "source": "Tom's Hardware",
+    "date": "2026-09-16",
+    "summary": "Sources say SK hynix and Intel are in talks to start HBM manufacturing in the United States. Both companies refused to confirm the rumors, though, as SK hynix could potentially be put in a precarious ...",
+    "category": "hardware",
+    "image": "https://cdn.mos.cms.futurecdn.net/MNAdzZLPoDR82bwxMK4iCk-1280-80.png",
+    "id": 12
+  },
+  {
+    "title": "AWS tells clients to abandon Middle East data centers six months after Iranian drone strikes — Amazon offers no recovery timeline as UAE mulls underground data centers [Updated]",
     "url": "https://www.tomshardware.com/tech-industry/data-centers/amazon-reportedly-tells-customers-in-abu-dhabi-and-bahrain-to-find-safer-harbors-for-their-data-aws-has-no-timeline-for-resuming-operations-six-months-after-drone-strikes-damaged-data-centers-in-the-region",
     "source": "Tom's Hardware",
     "date": "2026-09-16",
     "summary": "Amazon Web Services' data centers in Abu Dhabi and Bahrain were struck by drone attacks more than six months ago. Now, the company has told customers to move their data to other regions, and it has no...",
     "category": "hardware",
     "image": "https://cdn.mos.cms.futurecdn.net/83tohMm46WQCYhhbLZ9CT6-1280-80.jpg",
-    "id": 1,
-    "featured": true
+    "id": 13
   },
   {
     "title": "Nvidia reportedly denies RTX 5090 warranty over faded serial number — $6,500 GPU blemish not an isolated incident, according to customers",
@@ -18,7 +136,7 @@
     "summary": "Redditor reported that Nvidia allegedly rejected their warranty claims for GeForce RTX 5090 Founders Edition graphics cards because the serial number on the bracket was unreadable.",
     "category": "hardware",
     "image": "https://cdn.mos.cms.futurecdn.net/pGi3sQCwMEmSdVtHhicVDV-1280-80.jpg",
-    "id": 2
+    "id": 14
   },
   {
     "title": "Save $270 on this solid 1080p gaming PC with an RTX 5060 from MSI, now under $1,430 — Codex R2 rig packs 32GB DDR5 RAM, a 2TB SSD, and a 10-core Intel CPU",
@@ -28,7 +146,7 @@
     "summary": "Save $270 on this MSI gaming PC with a Intel Core i5-14400F, Nvidia GeForce RTX 5060, 32GB DDR5 and a 2TB SSD, all for $1,429.",
     "category": "hardware",
     "image": "https://cdn.mos.cms.futurecdn.net/ynFHkJmeMSR8aoLDTeevM3-1280-80.jpg",
-    "id": 3
+    "id": 15
   },
   {
     "title": "China's open-weight AI models are now just 4 months behind frontier US offerings, Mozilla report claims — models still lag in some benchmarks but are drastically cheaper to use",
@@ -38,7 +156,7 @@
     "summary": "Mozilla’s State of Open Source AI report puts Kimi K3 about four months behind closed frontier models at 30% of the price.",
     "category": "models",
     "image": "https://cdn.mos.cms.futurecdn.net/QGnsfcy2NbHpJXXmvjHVJk-1280-80.jpg",
-    "id": 4
+    "id": 16
   },
   {
     "title": "AI enthusiast builds GPT-6 Astra-powered bot to take on Balatro's Gold Stake Black Deck — bot leverages Python for numerical tools, beats hardest difficulty repeatedly",
@@ -48,7 +166,47 @@
     "summary": "A Reddit user has shared details of a new Balatro-playing AI bot that took on the infamous Gold Stake Black Deck with aplomb.",
     "category": "models",
     "image": "https://cdn.mos.cms.futurecdn.net/7EnQP6MrzTXoPhA5PurbcT-1280-80.jpg",
-    "id": 5
+    "id": 17
+  },
+  {
+    "title": "Robots are waiting for a ChatGPT moment: Nvidia’s Les Karpas explains why at TechCrunch Disrupt 2026",
+    "url": "https://techcrunch.com/2026/09/16/robots-are-waiting-for-a-chatgpt-moment-nvidias-les-karpas-explains-why-at-techcrunch-disrupt-2026/",
+    "source": "TechCrunch",
+    "date": "2026-09-16",
+    "summary": "The robotics industry is still waiting for their breakthrough into day-to-day life. Nvidia's Les Karpas has an answer as to why at TechCrunch Disrupt 2026. Register before September 25 to save up to $...",
+    "category": "models",
+    "image": "https://techcrunch.com/wp-content/uploads/2025/09/Disrupt-2025-AI-Stage.jpg?resize=1200,800",
+    "id": 18
+  },
+  {
+    "title": "Next wave of VCs judging Startup Battlefield 200 contenders at TechCrunch Disrupt 2026 revealed",
+    "url": "https://techcrunch.com/2026/09/16/next-wave-of-vcs-judging-startup-battlefield-200-contenders-at-techcrunch-disrupt-2026-revealed/",
+    "source": "TechCrunch",
+    "date": "2026-09-16",
+    "summary": "Meet the next five top-tier investors judging the Startup Battlefield 200 contenders live at TechCrunch Disrupt 2026. Register before September 25 to save up to $200 and don't miss a moment of the ult...",
+    "category": "industry",
+    "image": "https://techcrunch.com/wp-content/uploads/2018/02/tc-backlight-e1689786273147.png?w=1200",
+    "id": 19
+  },
+  {
+    "title": "SK Hynix reportedly in talks with Intel to build memory chips in US",
+    "url": "https://techcrunch.com/2026/09/16/sk-hynix-reportedly-in-talks-with-intel-to-build-memory-chips-in-us/",
+    "source": "TechCrunch",
+    "date": "2026-09-16",
+    "summary": "SK Hynix told TechCrunch the company hasn't finalized any plans or arrangements yet.",
+    "category": "hardware",
+    "image": "https://techcrunch.com/wp-content/uploads/2026/07/SK-Hynix.jpg?resize=1200,675",
+    "id": 20
+  },
+  {
+    "title": "Former Infosys chief’s AI startup nabs another $53M",
+    "url": "https://techcrunch.com/2026/09/16/former-infosys-chiefs-ai-startup-adds-50m-to-seed-weeks-after-initial-raise/",
+    "source": "TechCrunch",
+    "date": "2026-09-16",
+    "summary": "The Palo Alto startup says it has landed multiple seven-figure enterprise contracts within months of launch.",
+    "category": "industry",
+    "image": "https://techcrunch.com/wp-content/uploads/2026/08/vishal-sikka.jpg?resize=1200,800",
+    "id": 21
   },
   {
     "title": "We don’t need AI regulation — leave safety to us, Nvidia’s Jensen Huang says",
@@ -58,179 +216,26 @@
     "summary": "AI isn't some new form of \"alien mind,\" according to Jensen Huang. It's just hardware and software, so safety can be engineered by each AI product maker.",
     "category": "hardware",
     "image": "https://techcrunch.com/wp-content/uploads/2025/07/GettyImages-2219673294.jpg?resize=1200,750",
-    "id": 6
-  },
-  {
-    "title": "HP ZBook Ultra G3a 16 Preview: 192GB Unified Memory Aims for Top Local AI Laptop",
-    "url": "https://www.storagereview.com/review/hp-zbook-ultra-g3a-16-preview-192gb-of-unified-memory-aims-for-the-top-of-the-local-ai-laptop-leaderboard",
-    "source": "Hacker News",
-    "date": "2026-09-16",
-    "summary": "Article URL: https://www.storagereview.com/review/hp-zbook-ultra-g3a-16-preview-192gb-of-unified-memory-aims-for-the-top-of-the-local-ai-laptop-leaderboard Comments URL: https://news.ycombinator.com/i...",
-    "category": "hardware",
-    "image": "https://www.storagereview.com/wp-content/uploads/2026/09/StorageReview-HP-ZBook-Ultra-G3a-16-10.jpg",
-    "id": 7
-  },
-  {
-    "title": "PCBSchemaGen: Reward-Guided LLM Code Synthesis for PCB Schematic Design",
-    "url": "https://github.com/HZou9/PCBSchemaGen_v2",
-    "source": "Hacker News",
-    "date": "2026-09-16",
-    "summary": "Article URL: https://github.com/HZou9/PCBSchemaGen_v2 Comments URL: https://news.ycombinator.com/item?id=49724579 Points: 1 # Comments: 0",
-    "category": "models",
-    "image": "https://opengraph.githubassets.com/e226e43e519ba744cf5560088337a81977bc64f70cf8631930b915782ae8010f/HZou9/PCBSchemaGen_v2",
-    "id": 8
-  },
-  {
-    "title": "Is it hypocritical to criticize AI slop while promoting vibecoding tools?",
-    "url": "https://elephant.wuemeli.com/@wuemeli/117280311233495501",
-    "source": "Hacker News",
-    "date": "2026-09-16",
-    "summary": "Article URL: https://elephant.wuemeli.com/@wuemeli/117280311233495501 Comments URL: https://news.ycombinator.com/item?id=49724576 Points: 2 # Comments: 0",
-    "category": "tools",
-    "id": 9
-  },
-  {
-    "title": "FluxVLA now supports GPT-6 Astra on LIBERO through the OpenAI Responses API",
-    "url": "https://github.com/FluxVLA/FluxVLA",
-    "source": "Hacker News",
-    "date": "2026-09-16",
-    "summary": "Article URL: https://github.com/FluxVLA/FluxVLA Comments URL: https://news.ycombinator.com/item?id=49724566 Points: 1 # Comments: 0",
-    "category": "models",
-    "image": "https://opengraph.githubassets.com/97b44ce6218aa46d99182678f9823cce2ad49784200d15add37bf45a4d74fa12/FluxVLA/FluxVLA",
-    "id": 10
-  },
-  {
-    "title": "Salesforce's AI Bet: Benioff, Jensen Huang, Dario Amodei on Stage Together",
-    "url": "https://www.salesforce.com/plus/experience/dreamforce_2026/series/dreamforce_2026_must-see_moments/episode/episode-s1e1?bc=HL",
-    "source": "Hacker News",
-    "date": "2026-09-16",
-    "summary": "Article URL: https://www.salesforce.com/plus/experience/dreamforce_2026/series/dreamforce_2026_must-see_moments/episode/episode-s1e1?bc=HL Comments URL: https://news.ycombinator.com/item?id=49724410 P...",
-    "category": "industry",
-    "image": "https://wp.sfdcdigital.com/bxp/wp-content/uploads/sites/6/2026/08/DF26-Episode-card-1920x1080v2.png",
-    "id": 11
-  },
-  {
-    "title": "AI Is Reshaping Open Source Software and Straining the Systems That Sustain It",
-    "url": "https://www.acm.org/media-center/2026/september/techbrief-ai-effects-open-source",
-    "source": "Hacker News",
-    "date": "2026-09-16",
-    "summary": "Article URL: https://www.acm.org/media-center/2026/september/techbrief-ai-effects-open-source Comments URL: https://news.ycombinator.com/item?id=49724353 Points: 1 # Comments: 0",
-    "category": "tools",
-    "id": 12
-  },
-  {
-    "title": "DocMind – I built an AI document parser to end manual data entry solo",
-    "url": "https://docmind.neomindintelligence.com/",
-    "source": "Hacker News",
-    "date": "2026-09-16",
-    "summary": "Article URL: https://docmind.neomindintelligence.com/ Comments URL: https://news.ycombinator.com/item?id=49724132 Points: 1 # Comments: 0",
-    "category": "hardware",
-    "image": "https://docmind.neomindintelligence.com/og-image.png",
-    "id": 13
-  },
-  {
-    "title": "Scikit-Decide AI Framework for RL, Auto Planning and Scheduling",
-    "url": "https://airbus.github.io/scikit-decide/",
-    "source": "Hacker News",
-    "date": "2026-09-16",
-    "summary": "Article URL: https://airbus.github.io/scikit-decide/ Comments URL: https://news.ycombinator.com/item?id=49723963 Points: 2 # Comments: 0",
-    "category": "tools",
-    "id": 14
-  },
-  {
-    "title": "AI stocks get drilled because of Anthropic CEO Dario Amodei's 3,800-word warning",
-    "url": "https://finance.yahoo.com/markets/stocks/article/ai-stocks-get-drilled-because-of-anthropic-ceo-dario-amodeis-3800-word-warning-093637548.html",
-    "source": "Hacker News",
-    "date": "2026-09-16",
-    "summary": "Article URL: https://finance.yahoo.com/markets/stocks/article/ai-stocks-get-drilled-because-of-anthropic-ceo-dario-amodeis-3800-word-warning-093637548.html Comments URL: https://news.ycombinator.com/i...",
-    "category": "industry",
-    "id": 15
-  },
-  {
-    "title": "Graduating into Disruption: Labor Market Outcomes for AI-Exposed Majors [pdf]",
-    "url": "https://www2.census.gov/library/working-papers/2026/adrm/ces/CES-WP-26-56.pdf",
-    "source": "Hacker News",
-    "date": "2026-09-16",
-    "summary": "Article URL: https://www2.census.gov/library/working-papers/2026/adrm/ces/CES-WP-26-56.pdf Comments URL: https://news.ycombinator.com/item?id=49723897 Points: 1 # Comments: 0",
-    "category": "research",
-    "id": 16
-  },
-  {
-    "title": "HN: VS-Opt – Cutting AI Browser Token Overhead by 40% Without Web Re-Crawling",
-    "url": "https://github.com/filippocarrucciu1-lang/vs-opt-deterministic-search",
-    "source": "Hacker News",
-    "date": "2026-09-16",
-    "summary": "Article URL: https://github.com/filippocarrucciu1-lang/vs-opt-deterministic-search Comments URL: https://news.ycombinator.com/item?id=49723840 Points: 1 # Comments: 0",
-    "category": "tools",
-    "image": "https://opengraph.githubassets.com/a36fd12b25ee6275600c9774dfcc800dfd98b1eedaacad52898e1309a383fbfa/filippocarrucciu1-lang/vs-opt-deterministic-search",
-    "id": 17
-  },
-  {
-    "title": "Show HN: AI accounting harness for finance teams",
-    "url": "https://totumai.in",
-    "source": "Hacker News",
-    "date": "2026-09-16",
-    "summary": "We've been working on solving accounting and making it truly autonomous and silent. looking for critical feedback & if this is something you'd like to use lmk Solving for India currently, expanding to...",
-    "category": "industry",
-    "image": "https://totumai.in/social/totum-ai-invoices-and-entries.png",
-    "id": 18
-  },
-  {
-    "title": "ExposurAI – External attack surface and Shadow AI discovery engine",
-    "url": "https://exposurai.com",
-    "source": "Hacker News",
-    "date": "2026-09-16",
-    "summary": "Article URL: https://exposurai.com Comments URL: https://news.ycombinator.com/item?id=49723782 Points: 1 # Comments: 0",
-    "category": "industry",
-    "id": 19
-  },
-  {
-    "title": "Cost of AI Slop in Software Development Report",
-    "url": "https://www.qawolf.com/blog/cost-of-ai-slop-in-software-development-report",
-    "source": "Hacker News",
-    "date": "2026-09-16",
-    "summary": "Article URL: https://www.qawolf.com/blog/cost-of-ai-slop-in-software-development-report Comments URL: https://news.ycombinator.com/item?id=49723767 Points: 2 # Comments: 0",
-    "category": "industry",
-    "image": "https://cdn.prod.website-files.com/6260298eca091b3621cf1890/6aa0887ea15a9d0ea014affb_og_blog_post%20(4).png",
-    "id": 20
-  },
-  {
-    "title": "Political Bias in AI Is No Longer a Matter of Opinion. Now It Can Be Measured",
-    "url": "https://latticeflow.ai/lp/political-bias-framework",
-    "source": "Hacker News",
-    "date": "2026-09-16",
-    "summary": "Article URL: https://latticeflow.ai/lp/political-bias-framework Comments URL: https://news.ycombinator.com/item?id=49723744 Points: 1 # Comments: 1",
-    "category": "tools",
-    "image": "https://latticeflow.ai/images/lp/bias/political-bias-banner.png",
-    "id": 21
-  },
-  {
-    "title": "Anthropic's proposed AI watchdog METR has deep ties to Effective Altruism",
-    "url": "https://nypost.com/2026/09/15/business/anthropic-ceo-dario-amodeis-handpicked-ai-watchdog-has-deep-ties-to-effective-altruism-movement-a-complete-joke/",
-    "source": "Hacker News",
-    "date": "2026-09-16",
-    "summary": "Article URL: https://nypost.com/2026/09/15/business/anthropic-ceo-dario-amodeis-handpicked-ai-watchdog-has-deep-ties-to-effective-altruism-movement-a-complete-joke/ Comments URL: https://news.ycombina...",
-    "category": "industry",
     "id": 22
   },
   {
-    "title": "Mistral X Mozilla: Private, Multilingual AI Browsing",
-    "url": "https://mistral.ai/news/mistral-x-mozilla/",
-    "source": "Hacker News",
+    "title": "Building the materials foundation for AI",
+    "url": "https://www.technologyreview.com/2026/09/16/1144014/building-the-materials-foundation-for-ai/",
+    "source": "MIT Tech Review",
     "date": "2026-09-16",
-    "summary": "Article URL: https://mistral.ai/news/mistral-x-mozilla/ Comments URL: https://news.ycombinator.com/item?id=49723408 Points: 62 # Comments: 12",
-    "category": "models",
-    "image": "https://mistral.ai/cms-media/api/media/file/Linkedin-Partnership-Firefox%20copie.jpg",
+    "summary": "The AI boom is becoming a materials challenge. As AI pushes computing into new territory, the materials behind that infrastructure are becoming just as crucial as the algorithms running on it. Semicon...",
+    "category": "hardware",
+    "image": "https://wp.technologyreview.com/wp-content/uploads/2026/09/Mike-Finelli-business-lab.png?resize=1200,600",
     "id": 23
   },
   {
-    "title": "AI safety beyond the frontier labs: uncensored local models",
-    "url": "https://languageops.com/blog/ai-safety-pdoom-local-vs-frontier/",
-    "source": "Hacker News",
+    "title": "The Download: AI’s trillion-dollar gamble and OpenAI’s biology data bid",
+    "url": "https://www.technologyreview.com/2026/09/16/1144205/the-download-ai-trillion-dollar-build-openai-biological-data/",
+    "source": "MIT Tech Review",
     "date": "2026-09-16",
-    "summary": "Article URL: https://languageops.com/blog/ai-safety-pdoom-local-vs-frontier/ Comments URL: https://news.ycombinator.com/item?id=49723392 Points: 1 # Comments: 0",
-    "category": "research",
-    "image": "https://languageops.com/images/languageops-og.png",
+    "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. What’s at stake in AI’s trillion-dollar gamble When Jessica Wa...",
+    "category": "industry",
+    "image": "https://wp.technologyreview.com/wp-content/uploads/2026/09/ai-buildout-bets2a.jpg?resize=1200,600",
     "id": 24
   },
   {
