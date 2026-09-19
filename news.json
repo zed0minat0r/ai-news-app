@@ -41,6 +41,36 @@
     "id": 4
   },
   {
+    "title": "Trump suggests rebranding AI with a new name, says he’s also creating an AI Force",
+    "url": "https://techcrunch.com/2026/09/19/trump-suggests-rebranding-ai-with-a-new-name-says-hes-also-creating-an-ai-force/",
+    "source": "TechCrunch",
+    "date": "2026-09-19",
+    "summary": "Trump claimed, without evidence, that the AI backlash is a Democratic hoax.",
+    "category": "industry",
+    "image": "https://techcrunch.com/wp-content/uploads/2026/06/donald-trump-open-mouth.jpg?resize=1200,800",
+    "id": 5
+  },
+  {
+    "title": "Google’s Gemini is the latest AI model to hack other companies",
+    "url": "https://techcrunch.com/2026/09/19/googles-gemini-is-the-latest-ai-model-to-hack-other-companies/",
+    "source": "TechCrunch",
+    "date": "2026-09-19",
+    "summary": "Google said Gemini had \"acted appropriately\" by ending each hack immediately.",
+    "category": "models",
+    "image": "https://techcrunch.com/wp-content/uploads/2026/06/gemini-app-GettyImages-2276204472-1.jpg?w=1024",
+    "id": 6
+  },
+  {
+    "title": "Petlibro’s new AI-powered feeder is a game changer for multi-cat homes",
+    "url": "https://techcrunch.com/2026/09/19/petlibros-new-ai-powered-feeder-is-a-game-changer-for-multi-cat-homes/",
+    "source": "TechCrunch",
+    "date": "2026-09-19",
+    "summary": "Petlibro's new Granary 2 smart feeders use a built-in scale and (on pricier models) an AI camera to track exactly how much your cat is eating and when — though the fanciest health-monitoring features ...",
+    "category": "hardware",
+    "image": "https://techcrunch.com/wp-content/uploads/2026/09/Granary2-feeder.png?w=1200",
+    "id": 7
+  },
+  {
     "title": "AI safety conversations have gotten unbelievable",
     "url": "https://techcrunch.com/2026/09/19/ai-safety-conversations-have-gotten-unbelievable/",
     "source": "TechCrunch",
@@ -48,7 +78,7 @@
     "summary": "This week two conversations about AI safety went viral that demonstrate just how hard it is to discern AI fact from fiction.",
     "category": "research",
     "image": "https://techcrunch.com/wp-content/uploads/2024/07/GettyImages-1662708140-e1721664527112.jpg?resize=1200,676",
-    "id": 5
+    "id": 8
   },
   {
     "title": "Vals, backed by Andreessen Horowitz, is looking to become the gold standard for AI benchmarking",
@@ -58,7 +88,7 @@
     "summary": "Vals AI is hoping to make AI benchmarking a more neutral and trustworthy resource in a world increasingly inundated by AI models.",
     "category": "models",
     "image": "https://techcrunch.com/wp-content/uploads/2026/09/Team.jpeg?resize=1200,800",
-    "id": 6
+    "id": 9
   },
   {
     "title": "Tilly Norwood’s press tour is going about as well as you’d expect for an AI",
@@ -68,196 +98,153 @@
     "summary": "In one particularly odd interview, Norwood seems to malfunction and begin speaking Chinese.",
     "category": "industry",
     "image": "https://techcrunch.com/wp-content/uploads/2026/03/Screenshot-2026-03-11-at-3.22.19-PM.png?resize=1200,672",
-    "id": 7
-  },
-  {
-    "title": "Certify the Conversation, Not Just the AI Agent",
-    "url": "https://www.anuclei.com/blog/certify-the-conversation-not-just-the-agent",
-    "source": "Hacker News",
-    "date": "2026-09-19",
-    "summary": "Article URL: https://www.anuclei.com/blog/certify-the-conversation-not-just-the-agent Comments URL: https://news.ycombinator.com/item?id=49767068 Points: 2 # Comments: 0",
-    "category": "industry",
-    "id": 8
-  },
-  {
-    "title": "AI Made Delegation Easy: Structure Is Still the Skill",
-    "url": "https://syntheticauth.ai/posts/ai-made-delegation-easy-structure-is-still-the-skill",
-    "source": "Hacker News",
-    "date": "2026-09-19",
-    "summary": "Article URL: https://syntheticauth.ai/posts/ai-made-delegation-easy-structure-is-still-the-skill Comments URL: https://news.ycombinator.com/item?id=49766999 Points: 1 # Comments: 0",
-    "category": "industry",
-    "image": "https://embed.filekitcdn.com/e/wNGx93wWNxx21jy685aeV5/aG76oDZUdQzHTBmVrDC96Z",
-    "id": 9
-  },
-  {
-    "title": "Guesswork – zsh autosuggestions ranked by an AI model instead of prefix match",
-    "url": "https://guesswork.findmalek.com",
-    "source": "Hacker News",
-    "date": "2026-09-19",
-    "summary": "Article URL: https://guesswork.findmalek.com Comments URL: https://news.ycombinator.com/item?id=49766992 Points: 2 # Comments: 0",
-    "category": "industry",
-    "image": "https://guesswork.findmalek.com/opengraph-image.png?opengraph-image.3dfgead17m5x7.png",
     "id": 10
   },
   {
-    "title": "Ask HN: As a freelancer how should I charge my clients in AI era?",
-    "url": "https://news.ycombinator.com/item?id=49766918",
+    "title": "Show HN: OpenWand – A mission to remove chat interface from working with AI",
+    "url": "https://github.com/SunnyLich/OpenWand",
     "source": "Hacker News",
     "date": "2026-09-19",
-    "summary": "Hi HN! As a freelancer, I usually do a requirements workshops + one or two months of development in the pre-ai era. Which was enough to pay the bills and save up. Now I can do things in a matter of da...",
-    "category": "industry",
+    "summary": "Hi everyone, I'm working on OpenWand, an \"LLM chat interface\" that is optimized for AI co-work. Its function is to truly integrate AI into your workflow, so no more switching windows, no more copying ...",
+    "category": "models",
+    "image": "https://repository-images.githubusercontent.com/1242873307/91137e37-a169-4a4f-9689-ae2298beb090",
     "id": 11
   },
   {
-    "title": "AI Safety Is Mostly a Sex Cult",
-    "url": "https://bsky.app/profile/segyges.bsky.social/post/3mvom4b4dn22q",
+    "title": "AI Actress interviewed by Piers Morgan [video]",
+    "url": "https://www.youtube.com/watch?v=x4yyBWkYSHs",
     "source": "Hacker News",
     "date": "2026-09-19",
-    "summary": "Article URL: https://bsky.app/profile/segyges.bsky.social/post/3mvom4b4dn22q Comments URL: https://news.ycombinator.com/item?id=49766911 Points: 44 # Comments: 11",
-    "category": "research",
-    "image": "https://cdn.bsky.app/img/avatar_thumbnail/plain/did:plc:vszw3ess46odfhnzdsy4huae/bafkreiempgjkhvjq2dobqkmd5pqd6lcbkhgejasfwh3zoygncjpwgqc7te",
+    "summary": "Article URL: https://www.youtube.com/watch?v=x4yyBWkYSHs Comments URL: https://news.ycombinator.com/item?id=49769737 Points: 1 # Comments: 0",
+    "category": "industry",
     "id": 12
   },
   {
-    "title": "How should we evaluate whether an AI agent's memory is still current?",
-    "url": "https://twitter.com/AgentMemoryL/status/2101312784688726331",
+    "title": "I Built AI Agents That Ask Companies to Delete Their Data. Most Never Answered",
+    "url": "https://medium.com/@stem-education/i-built-ai-agents-that-ask-companies-to-delete-their-data-most-never-answered-7c90c3d2b6d1",
     "source": "Hacker News",
     "date": "2026-09-19",
-    "summary": "Article URL: https://twitter.com/AgentMemoryL/status/2101312784688726331 Comments URL: https://news.ycombinator.com/item?id=49766795 Points: 1 # Comments: 0",
-    "category": "hardware",
-    "image": "https://pbs.twimg.com/media/HSlb8FXbsAAFO1n?format=webp&name=large",
+    "summary": "Article URL: https://medium.com/@stem-education/i-built-ai-agents-that-ask-companies-to-delete-their-data-most-never-answered-7c90c3d2b6d1 Comments URL: https://news.ycombinator.com/item?id=49769723 P...",
+    "category": "industry",
     "id": 13
   },
   {
-    "title": "Anthropic, OpenAI, SpaceXAI, Google sued over call to 'pace' AI development",
-    "url": "https://www.politico.com/news/2026/09/18/anthropic-openai-spacexai-google-sued-over-calls-to-pace-ai-development-01085023",
+    "title": "OpenAI and Anthropic oversold AI security breaches",
+    "url": "https://nypost.com/2026/09/19/us-news/openai-anthropic-oversold-security-breaches-to-pressure-feds-into-protecting-turf-insiders/",
     "source": "Hacker News",
     "date": "2026-09-19",
-    "summary": "Article URL: https://www.politico.com/news/2026/09/18/anthropic-openai-spacexai-google-sued-over-calls-to-pace-ai-development-01085023 Comments URL: https://news.ycombinator.com/item?id=49766722 Point...",
+    "summary": "Article URL: https://nypost.com/2026/09/19/us-news/openai-anthropic-oversold-security-breaches-to-pressure-feds-into-protecting-turf-insiders/ Comments URL: https://news.ycombinator.com/item?id=497696...",
     "category": "industry",
     "id": 14
   },
   {
-    "title": "Show HN: We've built an AI UGC video creator,free for one month",
-    "url": "https://kuvu.ai/marketing/ai-ugc",
+    "title": "Founding Engineer, AI and Full-Stack",
+    "url": "https://bettrlife.ai/founding-engineer",
     "source": "Hacker News",
     "date": "2026-09-19",
-    "summary": "We've built an AI UGC Video Creator,Free for one month. Comments URL: https://news.ycombinator.com/item?id=49766639 Points: 2 # Comments: 1",
+    "summary": "Article URL: https://bettrlife.ai/founding-engineer Comments URL: https://news.ycombinator.com/item?id=49769624 Points: 1 # Comments: 1",
     "category": "industry",
-    "image": "https://kuvu.ai/opengraph-image.png?ff8de865fa02a468",
     "id": 15
   },
   {
-    "title": "The AI Model That Won't Talk to You: The Missing Piece for AI Workflows?",
-    "url": "https://mlnotes.substack.com/p/the-ai-model-that-wont-talk-to-you",
+    "title": "How I see software dev in AI era",
+    "url": "https://dhilst.github.io/2026/09/19/sweng-as-opt-prob/",
     "source": "Hacker News",
     "date": "2026-09-19",
-    "summary": "Article URL: https://mlnotes.substack.com/p/the-ai-model-that-wont-talk-to-you Comments URL: https://news.ycombinator.com/item?id=49766635 Points: 1 # Comments: 0",
+    "summary": "Article URL: https://dhilst.github.io/2026/09/19/sweng-as-opt-prob/ Comments URL: https://news.ycombinator.com/item?id=49769574 Points: 3 # Comments: 0",
     "category": "industry",
     "id": 16
   },
   {
-    "title": "GPT–6 Astra breaking an Enigma message that has resisted solution since 2005",
-    "url": "https://cryptocellar.org/bgac/the-mvueh-break.html",
+    "title": "PC ports of old console games are the new AI vibe coding battleground",
+    "url": "https://www.pcgamer.com/gaming-industry/pc-ports-of-old-console-games-are-the-new-ai-vibe-coding-battleground/",
     "source": "Hacker News",
     "date": "2026-09-19",
-    "summary": "Article URL: https://cryptocellar.org/bgac/the-mvueh-break.html Comments URL: https://news.ycombinator.com/item?id=49766545 Points: 1 # Comments: 0",
-    "category": "models",
+    "summary": "Article URL: https://www.pcgamer.com/gaming-industry/pc-ports-of-old-console-games-are-the-new-ai-vibe-coding-battleground/ Comments URL: https://news.ycombinator.com/item?id=49769554 Points: 3 # Comm...",
+    "category": "industry",
+    "image": "https://cdn.mos.cms.futurecdn.net/cnYqvbCpcTAgL4NMej8Ea3-1213-80.jpg",
     "id": 17
   },
   {
-    "title": "The Wrong Race: the US, China, and AI Competition [pdf]",
-    "url": "https://quincyinst-2.s3.amazonaws.com/wp-content/uploads/2026/09/17163452/QUINCY-BRIEF-NO.-110-SEPT-2026-GRAYLIN.pdf",
+    "title": "What do you think is the prevalence of this phenomenon in current AI discourse?",
+    "url": "https://en.wikipedia.org/wiki/Preference_falsification",
     "source": "Hacker News",
     "date": "2026-09-19",
-    "summary": "Article URL: https://quincyinst-2.s3.amazonaws.com/wp-content/uploads/2026/09/17163452/QUINCY-BRIEF-NO.-110-SEPT-2026-GRAYLIN.pdf Comments URL: https://news.ycombinator.com/item?id=49766535 Points: 2 ...",
+    "summary": "Article URL: https://en.wikipedia.org/wiki/Preference_falsification Comments URL: https://news.ycombinator.com/item?id=49769439 Points: 1 # Comments: 2",
     "category": "industry",
     "id": 18
   },
   {
-    "title": "The Science of Machine Learning vs. the Push for AI Deployment",
-    "url": "https://medium.com/@MirArshadTalpur/the-science-of-machine-learning-vs-the-push-for-ai-deployment-854c659e4a6a",
+    "title": "Frustrated at state of commentary of economic impact of AI",
+    "url": "https://news.ycombinator.com/item?id=49769252",
     "source": "Hacker News",
     "date": "2026-09-19",
-    "summary": "Article URL: https://medium.com/@MirArshadTalpur/the-science-of-machine-learning-vs-the-push-for-ai-deployment-854c659e4a6a Comments URL: https://news.ycombinator.com/item?id=49766419 Points: 1 # Comm...",
-    "category": "tools",
+    "summary": "Comments URL: https://news.ycombinator.com/item?id=49769252 Points: 1 # Comments: 1",
+    "category": "industry",
     "id": 19
   },
   {
-    "title": "Reimagining research papers as interactive and reliable AI agents",
-    "url": "https://www.nature.com/articles/s41586-026-11044-y",
+    "title": "The lucrative business of reactionary AI-generated posts on Facebook",
+    "url": "https://www.lemonde.fr/en/pixels/article/2026/09/19/the-lucrative-business-of-reactionary-ai-generated-posts-on-facebook_6757721_13.html",
     "source": "Hacker News",
     "date": "2026-09-19",
-    "summary": "Article URL: https://www.nature.com/articles/s41586-026-11044-y Comments URL: https://news.ycombinator.com/item?id=49766366 Points: 3 # Comments: 1",
-    "category": "research",
+    "summary": "Article URL: https://www.lemonde.fr/en/pixels/article/2026/09/19/the-lucrative-business-of-reactionary-ai-generated-posts-on-facebook_6757721_13.html Comments URL: https://news.ycombinator.com/item?id...",
+    "category": "industry",
     "id": 20
   },
   {
-    "title": "AI coding agents' 0-click RCE flaw could hand attackers keys to the kingdom",
-    "url": "https://www.theregister.com/security/2026/09/17/ai-coding-agents-0-click-rce-flaw-could-hand-attackers-keys-to-the-kingdom/5297335",
+    "title": "How A Chinese Hacking Firm Tapped AI to Supercharge Cyber-Spying",
+    "url": "https://www.wsj.com/tech/how-a-chinese-hacking-firm-tapped-ai-to-supercharge-cyber-spying-b577c846",
     "source": "Hacker News",
     "date": "2026-09-19",
-    "summary": "Article URL: https://www.theregister.com/security/2026/09/17/ai-coding-agents-0-click-rce-flaw-could-hand-attackers-keys-to-the-kingdom/5297335 Comments URL: https://news.ycombinator.com/item?id=49766...",
+    "summary": "Article URL: https://www.wsj.com/tech/how-a-chinese-hacking-firm-tapped-ai-to-supercharge-cyber-spying-b577c846 Comments URL: https://news.ycombinator.com/item?id=49769109 Points: 3 # Comments: 0",
     "category": "industry",
-    "image": "https://image.theregister.com/5297339.jpg?imageId=5297339&x=0&y=0&cropw=100&croph=100&panox=0&panoy=0&panow=100&panoh=100&width=1200&height=683",
     "id": 21
   },
   {
-    "title": "Can the AI arms race be stopped?",
-    "url": "https://www.economist.com/leaders/2026/09/17/can-the-ai-arms-race-be-stopped",
+    "title": "Trump Announces an 'AI Force'",
+    "url": "https://www.wsj.com/tech/ai/trump-announces-an-ai-force-after-industry-sounded-alarm-7c189b8f",
     "source": "Hacker News",
     "date": "2026-09-19",
-    "summary": "Article URL: https://www.economist.com/leaders/2026/09/17/can-the-ai-arms-race-be-stopped Comments URL: https://news.ycombinator.com/item?id=49766278 Points: 2 # Comments: 0",
+    "summary": "Article URL: https://www.wsj.com/tech/ai/trump-announces-an-ai-force-after-industry-sounded-alarm-7c189b8f Comments URL: https://news.ycombinator.com/item?id=49769086 Points: 5 # Comments: 0",
     "category": "industry",
     "id": 22
   },
   {
-    "title": "SafeSeal: Certifiable Watermarking for LLM Deployments",
-    "url": "https://suny.technologypublisher.com/tech?title=SafeSeal%3a_Certifiable_Watermarking_for_LLM_Deployments",
+    "title": "When Does AI Stop Needing Us?",
+    "url": "https://cacm.acm.org/blogcacm/when-does-ai-stop-needing-us/",
     "source": "Hacker News",
     "date": "2026-09-19",
-    "summary": "Article URL: https://suny.technologypublisher.com/tech?title=SafeSeal%3a_Certifiable_Watermarking_for_LLM_Deployments Comments URL: https://news.ycombinator.com/item?id=49766254 Points: 1 # Comments: ...",
-    "category": "models",
+    "summary": "Article URL: https://cacm.acm.org/blogcacm/when-does-ai-stop-needing-us/ Comments URL: https://news.ycombinator.com/item?id=49769084 Points: 2 # Comments: 0",
+    "category": "industry",
     "id": 23
   },
   {
-    "title": "Why I'm (sort of) not worried about AI – Jack Conte - SXSW [video]",
-    "url": "https://www.youtube.com/watch?v=17_HcR95YBc",
+    "title": "Lawsuit says Anthropic, OpenAI and others made illegal agreement on AI slowdown",
+    "url": "https://apnews.com/article/antitrust-lawsuit-ai-slowdown-anthropic-openai-spacexai-google-960af4308161eaf4ed13c383b0ce1c1b",
     "source": "Hacker News",
     "date": "2026-09-19",
-    "summary": "Article URL: https://www.youtube.com/watch?v=17_HcR95YBc Comments URL: https://news.ycombinator.com/item?id=49766216 Points: 2 # Comments: 0",
+    "summary": "Article URL: https://apnews.com/article/antitrust-lawsuit-ai-slowdown-anthropic-openai-spacexai-google-960af4308161eaf4ed13c383b0ce1c1b Comments URL: https://news.ycombinator.com/item?id=49769050 Poin...",
     "category": "industry",
     "id": 24
   },
   {
-    "title": "Yoshua Bengio's non-profit LawZero to build safe AI",
-    "url": "https://www.theglobeandmail.com/business/article-yoshua-bengio-lawzero-receives-300-million-from-canada-germany/",
+    "title": "AI Is Just Greg – Inside an AI Datacenter [video]",
+    "url": "https://www.youtube.com/watch?v=0GofbjETCS4",
     "source": "Hacker News",
     "date": "2026-09-19",
-    "summary": "Article URL: https://www.theglobeandmail.com/business/article-yoshua-bengio-lawzero-receives-300-million-from-canada-germany/ Comments URL: https://news.ycombinator.com/item?id=49766153 Points: 2 # Co...",
-    "category": "industry",
-    "image": "https://www.theglobeandmail.com/resizer/v2/M7LK4GDPT5EF5J7M6BBBJUQZHU.jpg?auth=f2fa5bc28caebfe771675e9c28d5002553afee01c719639d3ea4306b0c8b7c2e&width=1200&height=800&quality=80&smart=true",
+    "summary": "Article URL: https://www.youtube.com/watch?v=0GofbjETCS4 Comments URL: https://news.ycombinator.com/item?id=49769028 Points: 2 # Comments: 0",
+    "category": "hardware",
     "id": 25
   },
   {
-    "title": "AI kill switch, explained: 'It's not too little, but it's probably too late'",
-    "url": "https://www.cnbc.com/2026/09/19/ai-kill-switch-explained.html",
+    "title": "Trump says he will create 'AI Force,' name AI czar",
+    "url": "https://www.reuters.com/world/us/trump-says-he-will-create-ai-force-name-ai-czar-2026-09-19/",
     "source": "Hacker News",
     "date": "2026-09-19",
-    "summary": "Article URL: https://www.cnbc.com/2026/09/19/ai-kill-switch-explained.html Comments URL: https://news.ycombinator.com/item?id=49766062 Points: 1 # Comments: 0",
+    "summary": "Article URL: https://www.reuters.com/world/us/trump-says-he-will-create-ai-force-name-ai-czar-2026-09-19/ Comments URL: https://news.ycombinator.com/item?id=49768880 Points: 5 # Comments: 0",
     "category": "industry",
-    "image": "https://image.cnbcfm.com/api/v1/image/108360837-1788987933273-gettyimages-2286062573-AFP_C2JR9FR.jpeg?v=1789766104&w=1920&h=1080",
     "id": 26
-  },
-  {
-    "title": "AI companies sued for \"colluding\" to slow down",
-    "url": "https://news.bloomberglaw.com/litigation/openai-anthropic-google-spacexai-hit-with-antitrust-lawsuit",
-    "source": "Hacker News",
-    "date": "2026-09-19",
-    "summary": "Article URL: https://news.bloomberglaw.com/litigation/openai-anthropic-google-spacexai-hit-with-antitrust-lawsuit Comments URL: https://news.ycombinator.com/item?id=49766011 Points: 2 # Comments: 4",
-    "category": "industry",
-    "image": "https://news-api.bloomberglaw.com/v1/resize-image?url=https%3A%2F%2Fbloomberg-bna-brightspot.s3.us-east-1.amazonaws.com%2F57%2F33%2F39842993472e99c4cfe198737e87%2F460431808.jpg&width=1200&height=600&fit=cover",
-    "id": 27
   },
   {
     "title": "Forget the AI Slowdown—the Vulnerability Explosion Is Already Happening",
@@ -267,7 +254,7 @@
     "summary": "AI labs are toying with an industry-wide pact to slow development. Meanwhile, widely available AI chatbots are already helping uncover a tidal wave of security flaws.",
     "category": "industry",
     "image": "https://media.wired.com/photos/6aada5d618f30d6f17ee2971/191:100/w_1280,c_limit/Kernal-Panic-AI-SlowDown-Wont-Stop-Security-Vulnerability-Explosion-Security.jpg",
-    "id": 28
+    "id": 27
   },
   {
     "title": "Mathematicians Hate AI. They Can’t Quit It",
@@ -277,7 +264,7 @@
     "summary": "Powerful AI models have created an existential risk to the field, but researchers can’t stop relying on them because they’re too useful.",
     "category": "research",
     "image": "https://media.wired.com/photos/6aad73fd03ca378a32980599/191:100/w_1280,c_limit/091826-Math%20Hate%20AI.jpg",
-    "id": 29
+    "id": 28
   },
   {
     "title": "Introducing the Australian Youth Safety Blueprint",
@@ -286,7 +273,7 @@
     "date": "2026-09-18",
     "summary": "OpenAI introduces the Australian Youth Safety Blueprint, a six-pillar roadmap for safer AI experiences that protect and empower young people.",
     "category": "research",
-    "id": 30
+    "id": 29
   },
   {
     "title": "New experts join Google’s AI & Economy team",
@@ -296,7 +283,7 @@
     "summary": "We are expanding our AI & Economy team with world-class academic advisors, fellows, and core internal researchers.",
     "category": "research",
     "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/AI__Economy_team_hero.max-600x600.format-webp.webp",
-    "id": 31
+    "id": 30
   },
   {
     "title": "AMD targets Nvidia with first official benchmarks for EPYC 'Venice' CPUs — company claims 256-core chip is more than twice as fast as Nvidia Vera, 96-core model 20% faster per-core",
@@ -306,7 +293,7 @@
     "summary": "AMD has released several benchmarks for its EPYC 'Venice' CPUs in a clear shot at Nvidia.",
     "category": "hardware",
     "image": "https://cdn.mos.cms.futurecdn.net/aLSGanWgBzwJhr9LcYMiwb-1920-80.jpg",
-    "id": 32
+    "id": 31
   },
   {
     "title": "Details about Intel's next-gen Nova Lake CPUs keep leaking — an attempt to establish a timeline based on what we know so far",
@@ -316,7 +303,7 @@
     "summary": "Over the past two weeks, we've seen an uptick in leaks and rumors about Intel's upcoming Nova Lake CPUs. Here, we piece together what we've heard to try and establish a plausible release timeline.",
     "category": "hardware",
     "image": "https://cdn.mos.cms.futurecdn.net/ksdnGgxDC5nJoymBgkzrNC-1920-80.png",
-    "id": 33
+    "id": 32
   },
   {
     "title": "China's premier memory maker CXMT eyes producing flash for SSDs, report claims — 3D NAND research and development line rumored for its second manufacturing facility near Beijing",
@@ -326,7 +313,7 @@
     "summary": "China's DRAM champion CXMT is reportedly planning to enter 3D NAND production as it plots 3D NAND research programs and pilot line at its future fab near Beijing.",
     "category": "hardware",
     "image": "https://cdn.mos.cms.futurecdn.net/xAcRfURv3FSF2FBXM6N3a-1920-80.jpg",
-    "id": 34
+    "id": 33
   },
   {
     "title": "House passes act to make AI data centers pay for grid upgrades to minimize impact on residents — measure directs states to consider adoption of federal standard within two years of passing",
@@ -336,7 +323,7 @@
     "summary": "This Ratepayer Protection Act will make data centers pay for grid upgrades made in their name. However, it still has to go through the senate and the White House, before being considered by individual...",
     "category": "hardware",
     "image": "https://cdn.mos.cms.futurecdn.net/CLB7qJReTEKaR87xGroG8n-1920-80.png",
-    "id": 35
+    "id": 34
   },
   {
     "title": "NOR Flash and SLC NAND production are under threat as capacity gets routed to more profitable products — 'severe undersupply' threatens everyday electronics",
@@ -346,7 +333,7 @@
     "summary": "NOR Flash and SLC NAND are the latest products to be impacted by the ongoing AI buildout, with capacities tightening and production being routed to more lucrative chips.",
     "category": "hardware",
     "image": "https://cdn.mos.cms.futurecdn.net/SirYiEwoqL8h3ewuDKueah-1920-80.jpg",
-    "id": 36
+    "id": 35
   },
   {
     "title": "Hackers breach OpenAI using Claude tools, gaining access to employee accounts and the company's internal codebase — attackers initiated a 'harmless' pull request as proof of the hack",
@@ -356,7 +343,7 @@
     "summary": "A team of white-hat hackers from cybersecurity startup Hackron AI has successfully hacked OpenAI using Claude tools.",
     "category": "models",
     "image": "https://cdn.mos.cms.futurecdn.net/YUDxAZxxyWFMPWzwJRmWvH-1920-80.jpg",
-    "id": 37
+    "id": 36
   },
   {
     "title": "AI developer vibe codes DLSS 5 onto Intel CPU's integrated graphics — Intel Arc 140T runs neural rendering in 360p at 10 frames per second",
@@ -366,7 +353,7 @@
     "summary": "Using AI tools, a new developer has managed to get DLSS 5 neural rendering running on Intel Lunar Lake's integrated Arc graphics, albeit with abysmal performance.",
     "category": "hardware",
     "image": "https://cdn.mos.cms.futurecdn.net/jyBsQv3HMAD6GKyN3aksrV-1920-80.jpg",
-    "id": 38
+    "id": 37
   },
   {
     "title": "Control Resonant PC performance tested: 28 GPUs take us back to the Oldest House and a warped Manhattan cityscape",
@@ -376,7 +363,7 @@
     "summary": "Control Resonant's warped Manhattan cityscape pushes graphics cards to the max thanks to path-traced lighting effects and full support for Nvidia's DLSS 4.5 technologies. We put it to the test to see ...",
     "category": "hardware",
     "image": "https://cdn.mos.cms.futurecdn.net/nQyMuEe3Hdv4Y6dUjEyScS-1920-80.png",
-    "id": 39
+    "id": 38
   },
   {
     "title": "Microsoft director called AI scraping ‘the largest theft of labor in human history,’ while OpenAI head brands ChatGPT an ‘existential threat’ to publishers — revelations come from legal briefs filed in NYT lawsuit",
@@ -386,7 +373,7 @@
     "summary": "The NYT filed a legal brief revealing potentially damaging statements from Microsoft and OpenAI regarding the copyright infringement case it brought against the two companies. The publication is now s...",
     "category": "industry",
     "image": "https://cdn.mos.cms.futurecdn.net/bqKbbbB3ZdRgDH7Pz95FKT-1920-80.jpg",
-    "id": 40
+    "id": 39
   },
   {
     "title": "US frontier AI companies warn authorities over sophisticated distillation attacks — China warns of 'countermeasures' if America tries to constrain domestic AI models",
@@ -396,7 +383,7 @@
     "summary": "U.S. AI companies and the government are increasingly concerned about the effectiveness of international competition using distillation attacks to glean valuable data from frontier models to train che...",
     "category": "industry",
     "image": "https://cdn.mos.cms.futurecdn.net/658i6zvsBVVjLsS4pn6Whh-1920-80.jpg",
-    "id": 41
+    "id": 40
   },
   {
     "title": "Modder gets Nvidia's DLSS 5 working in a web browser using WebGPU — 147MB browser port runs on non-Nvidia GPUs and macOS but takes two seconds per render",
@@ -406,7 +393,7 @@
     "summary": "A developer's live WebGPU demo runs Nvidia's DLSS 5 neural rendering in a web browser, but also apparently runs on macOS.",
     "category": "hardware",
     "image": "https://cdn.mos.cms.futurecdn.net/peEtJE98WLRCbHo2PH4CQF-1920-80.jpg",
-    "id": 42
+    "id": 41
   },
   {
     "title": "US chip fabs face massive 157,000 worker shortfall, mere 3% of US engineering grads enter chipmaking — despite six-figure salaries, US chip manufacturers are in dire need of engineers and technicians",
@@ -416,7 +403,7 @@
     "summary": "As many semiconductor fabs and facilities go online in the 2030s and beyond, a global consulting firm said that these sites will need thousands of engineers and technicians that the U.S. will be hard-...",
     "category": "hardware",
     "image": "https://cdn.mos.cms.futurecdn.net/ouCnDodNxZsDysigzb7rsd-1920-80.png",
-    "id": 43
+    "id": 42
   },
   {
     "title": "ASML snubs Elon Musk-backed particle accelerator chipmaking tech — firm doubles down on 1,000W laser-produced plasma systems for chipmaking tools",
@@ -426,7 +413,7 @@
     "summary": "With progress that ASML makes with its LPP EUV light sources for its scanners, the company is barely interesting in adopting particle accelerator-based FEL sources.",
     "category": "hardware",
     "image": "https://cdn.mos.cms.futurecdn.net/EGXamcWxVuFiTc6pCbeE25-1920-80.jpg",
-    "id": 44
+    "id": 43
   },
   {
     "title": "Huawei details AI accelerator roadmap, pulls in next-generation Ascend NPUs by several quarters — FP4 performance of the Ascend 960PR doubles expectations",
@@ -436,7 +423,7 @@
     "summary": "Huawei's mimics Nvidia's approach to AI factories, unveils details about next-generation Ascend NPUs, Kunpeng CPUs, scale-up and scale-out connectivity solutions.",
     "category": "hardware",
     "image": "https://cdn.mos.cms.futurecdn.net/GgPdYEHgr4MXhF4VFT3HtR-1920-80.png",
-    "id": 45
+    "id": 44
   },
   {
     "title": "Hacker turns 25 cents into 46 billion fake Bitcoins to steal $770,000 — Symbiosis  DeFi exchange bit by lack of basic bounds checking in smart contract",
@@ -446,7 +433,7 @@
     "summary": "Symbiosis DeFi network gets hacked for at least $770,000 worth of Bitcoin — DeFi exchange bit by lack of basic bounds checking in smart contract",
     "category": "hardware",
     "image": "https://cdn.mos.cms.futurecdn.net/gHmhFGMn3m34gQvLf5YwE5-1920-80.jpg",
-    "id": 46
+    "id": 45
   },
   {
     "title": "A startup that builds other startups raised $100M and is all-in on physical AI",
@@ -456,7 +443,7 @@
     "summary": "UP.Labs, now doing business under the name Vantora, is building startups for industrial corporations.",
     "category": "industry",
     "image": "https://techcrunch.com/wp-content/uploads/2026/09/Vantora_UpLabs_e18c36.jpg?resize=1200,781",
-    "id": 47
+    "id": 46
   },
   {
     "title": "Anthropic is operating a lab that conducts biology experiments",
@@ -466,7 +453,7 @@
     "summary": "AI leaders have been promising that AI is the key to curing human disease. Anthropic researchers have also been warning that AI might kill us all.",
     "category": "research",
     "image": "https://techcrunch.com/wp-content/uploads/2021/08/DNA-—-Xero-2.jpg?resize=1200,750",
-    "id": 48
+    "id": 47
   },
   {
     "title": "AI hallucination nearly triggers US military operation",
@@ -476,7 +463,7 @@
     "summary": "“It’s important for service members to understand the uncertainty inherent to LLMs,\" a GovAI research scholar warns.",
     "category": "research",
     "image": "https://techcrunch.com/wp-content/uploads/2020/07/GettyImages-567072595.jpg?w=1000",
-    "id": 49
+    "id": 48
   },
   {
     "title": "Anthropic’s first embedded evaluator is … Accenture?",
@@ -486,6 +473,16 @@
     "summary": "Accenture is about to take on its most high-risk consulting engagement ever.",
     "category": "industry",
     "image": "https://techcrunch.com/wp-content/uploads/2026/02/GettyImages-2194795244.jpg?w=1024",
+    "id": 49
+  },
+  {
+    "title": "A new kind of AI model from a ChatGPT inventor is thrilling developers",
+    "url": "https://techcrunch.com/2026/09/18/a-new-kind-of-ai-model-from-a-chatgpt-inventor-is-thrilling-developers/",
+    "source": "TechCrunch",
+    "date": "2026-09-18",
+    "summary": "Jev, a new kind of AI model, is showing developers a cheaper and faster path to software intelligence.",
+    "category": "models",
+    "image": "https://techcrunch.com/wp-content/uploads/2026/09/typesafe-ai.jpg?resize=1174,1200",
     "id": 50
   }
 ]
