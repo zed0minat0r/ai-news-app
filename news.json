@@ -1,61 +1,217 @@
 [
   {
-    "title": "AI Safety's Disallowed Conclusion",
-    "url": "https://www.souprecipies.com/p/ai-safetys-disallowed-conclusion",
-    "source": "Hacker News",
+    "title": "ChatGPT-6 Astra cracks 85-year-old 1941 Enigma-coded message in two days",
+    "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/chatgpt-6-astra-cracks-1941-enigma-coded-message-in-two-days-autonomous-ai-coded-its-own-simulator-to-crack-code-that-was-unsolved-since-it-was-shared-online-back-in-2005",
+    "source": "Tom's Hardware",
     "date": "2026-09-26",
-    "summary": "Article URL: https://www.souprecipies.com/p/ai-safetys-disallowed-conclusion Comments URL: https://news.ycombinator.com/item?id=49852267 Points: 2 # Comments: 0",
-    "category": "research",
-    "image": "https://substackcdn.com/image/fetch/$s_!hMwY!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F442b9937-b6a1-4296-95e0-fe983566b5b2_1077x2275.png",
+    "summary": "A German Army Enigma transmission from 85 years ago, known as the MVUEH message, has been cracked by GTP-Astra in just two days.",
+    "category": "models",
+    "image": "https://cdn.mos.cms.futurecdn.net/Gpd4WXYpC44LG25KjWMRMN-1920-80.jpg",
     "id": 1,
     "featured": true
   },
   {
-    "title": "McDonald's turns to AI for drive-thru, inventory management, order accuracy",
-    "url": "https://www.restaurantdive.com/news/mcdonalds-archiq-drive-thru-artificial-intelligence-next-strategy/831256/",
+    "title": "Alex Karp: AI Models Are Stealing Your Data and the AI Safety Truth [video]",
+    "url": "https://www.youtube.com/watch?v=2YVCdwvG548",
     "source": "Hacker News",
     "date": "2026-09-26",
-    "summary": "Article URL: https://www.restaurantdive.com/news/mcdonalds-archiq-drive-thru-artificial-intelligence-next-strategy/831256/ Comments URL: https://news.ycombinator.com/item?id=49852198 Points: 3 # Comme...",
-    "category": "hardware",
-    "image": "https://imgproxy.divecdn.com/tdMJ2tfSHGsG-pdNWejQ6Djdrz9u_CM9eUL1Kq1UrRA/g:ce/rs:fit:770:435/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0yMTYzMDY3NzczLmpwZw==.webp",
+    "summary": "Article URL: https://www.youtube.com/watch?v=2YVCdwvG548 Comments URL: https://news.ycombinator.com/item?id=49855238 Points: 3 # Comments: 0",
+    "category": "research",
     "id": 2
   },
   {
-    "title": "AI: Who Still Uses Permissions?",
-    "url": "https://news.ycombinator.com/item?id=49852101",
+    "title": "One Month Without AI",
+    "url": "https://blog.bustikiller.com/2026/09/25/one-month-without-ai.html",
     "source": "Hacker News",
     "date": "2026-09-26",
-    "summary": "Genuinely curious. A year or so ago I grew very tired of having to constantly monitor my terminal in case the agent would ask me for permission to use a tool. I wouldn't have minded that much if the a...",
-    "category": "models",
+    "summary": "Article URL: https://blog.bustikiller.com/2026/09/25/one-month-without-ai.html Comments URL: https://news.ycombinator.com/item?id=49855018 Points: 4 # Comments: 1",
+    "category": "industry",
     "id": 3
   },
   {
-    "title": "Why AI is booming, but productivity isn't",
-    "url": "https://research.socialcapital.com/p/ai-roi",
+    "title": "Show HN: App2Api – Give your AI the API behind your app",
+    "url": "https://app2api.com/",
     "source": "Hacker News",
     "date": "2026-09-26",
-    "summary": "Article URL: https://research.socialcapital.com/p/ai-roi Comments URL: https://news.ycombinator.com/item?id=49852079 Points: 5 # Comments: 0",
-    "category": "research",
-    "image": "https://media.beehiiv.com/cdn-cgi/image/fit=scale-down,quality=80,width=1200,onerror=redirect/uploads/asset/file/0732e710-d6fe-4809-b026-ec53149ae5c0/R1_V1_Deep_Dive__AI_ROI_Website.png?t=1790348989",
+    "summary": "Article URL: https://app2api.com/ Comments URL: https://news.ycombinator.com/item?id=49854783 Points: 1 # Comments: 0",
+    "category": "tools",
+    "image": "https://app2api.com/og.png",
     "id": 4
   },
   {
-    "title": "Open arena where AI agents climb a game-theory ladder ($500 Season 0)",
-    "url": "https://play.zoagames.com/arena/",
+    "title": "Flashcat – a local AI assistant for the Mac terminal that asks first",
+    "url": "https://github.com/TomTomsen765/flashcat",
     "source": "Hacker News",
     "date": "2026-09-26",
-    "summary": "Article URL: https://play.zoagames.com/arena/ Comments URL: https://news.ycombinator.com/item?id=49851887 Points: 1 # Comments: 0",
+    "summary": "Article URL: https://github.com/TomTomsen765/flashcat Comments URL: https://news.ycombinator.com/item?id=49854766 Points: 1 # Comments: 0",
     "category": "industry",
+    "image": "https://repository-images.githubusercontent.com/1388738077/f3d7ac4a-4abe-4515-8905-f1859486f0a8",
     "id": 5
   },
   {
-    "title": "Generate fonts where every LLM token is the same width",
-    "url": "https://ampdot.mesh.host/token-space-fonts.html",
+    "title": "LLM Red-temaing vs. Agent Red teaming",
+    "url": "https://www.botgauge.com/blog/llm-red-teaming-vs-agent-red-teaming",
     "source": "Hacker News",
     "date": "2026-09-26",
-    "summary": "Article URL: https://ampdot.mesh.host/token-space-fonts.html Comments URL: https://news.ycombinator.com/item?id=49851883 Points: 2 # Comments: 0",
+    "summary": "Article URL: https://www.botgauge.com/blog/llm-red-teaming-vs-agent-red-teaming Comments URL: https://news.ycombinator.com/item?id=49854557 Points: 1 # Comments: 0",
     "category": "models",
+    "image": "https://www.botgauge.com/wp-content/uploads/2026/09/01-llm-vs-agent-red-teaming-hero-1024x576.webp",
     "id": 6
+  },
+  {
+    "title": "Using Pomodoro to limit interaction with AI",
+    "url": "https://anaivebidder.com/posts/the-agentic-pomodoro-iterating-faster/",
+    "source": "Hacker News",
+    "date": "2026-09-26",
+    "summary": "Article URL: https://anaivebidder.com/posts/the-agentic-pomodoro-iterating-faster/ Comments URL: https://news.ycombinator.com/item?id=49854538 Points: 2 # Comments: 0",
+    "category": "industry",
+    "image": "https://anaivebidder.com/images/agentic_pomodoro_header_hu_b4a5bce2c81ac2b1.jpg",
+    "id": 7
+  },
+  {
+    "title": "Trump admin using AI to deny medical care for seniors in disastrous experiment",
+    "url": "https://arstechnica.com/health/2026/09/trump-admin-using-ai-to-deny-medical-care-for-seniors-in-disastrous-experiment/",
+    "source": "Hacker News",
+    "date": "2026-09-26",
+    "summary": "Article URL: https://arstechnica.com/health/2026/09/trump-admin-using-ai-to-deny-medical-care-for-seniors-in-disastrous-experiment/ Comments URL: https://news.ycombinator.com/item?id=49854528 Points: ...",
+    "category": "industry",
+    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/GettyImages-2295026360-1024x648.jpg",
+    "id": 8
+  },
+  {
+    "title": "EU Member States plan \"digital expropriation\" of Europeans in the interest of AI",
+    "url": "https://noyb.eu/en/ai-eu-member-states-plan-digital-expropriation-europeans-interest-ai-companies",
+    "source": "Hacker News",
+    "date": "2026-09-26",
+    "summary": "Article URL: https://noyb.eu/en/ai-eu-member-states-plan-digital-expropriation-europeans-interest-ai-companies Comments URL: https://news.ycombinator.com/item?id=49854518 Points: 7 # Comments: 2",
+    "category": "industry",
+    "image": "https://noyb.eu/sites/default/files/styles/facebook/public/2026-09/gdpr_under_attack_0_0.png?h=48f39255&itok=ITY9y5Tm",
+    "id": 9
+  },
+  {
+    "title": "Linux Kernel Developers Consider Adding Agents.md to Help Guide AI/LLM Agents",
+    "url": "https://www.phoronix.com/news/Linux-Considers-AGENTS-MD",
+    "source": "Hacker News",
+    "date": "2026-09-26",
+    "summary": "Article URL: https://www.phoronix.com/news/Linux-Considers-AGENTS-MD Comments URL: https://news.ycombinator.com/item?id=49854439 Points: 3 # Comments: 0",
+    "category": "models",
+    "id": 10
+  },
+  {
+    "title": "Nobody wanted an \"AI PC,\" so Microsoft stopped calling it that",
+    "url": "https://www.techspot.com/news/113985-nobody-wanted-ai-pc-microsoft-stopped-calling.html",
+    "source": "Hacker News",
+    "date": "2026-09-26",
+    "summary": "Article URL: https://www.techspot.com/news/113985-nobody-wanted-ai-pc-microsoft-stopped-calling.html Comments URL: https://news.ycombinator.com/item?id=49854382 Points: 6 # Comments: 2",
+    "category": "industry",
+    "id": 11
+  },
+  {
+    "title": "Who is behind the AI safety backlash?",
+    "url": "https://twitter.com/TheMidasProj/status/2103577207700365719",
+    "source": "Hacker News",
+    "date": "2026-09-26",
+    "summary": "Article URL: https://twitter.com/TheMidasProj/status/2103577207700365719 Comments URL: https://news.ycombinator.com/item?id=49854282 Points: 2 # Comments: 0",
+    "category": "research",
+    "image": "https://pbs.twimg.com/media/HTFnHB2XQAAg1KE?format=webp&name=large",
+    "id": 12
+  },
+  {
+    "title": "Thought on how to deal with AI crawlers",
+    "url": "https://copepod.dev/human-required",
+    "source": "Hacker News",
+    "date": "2026-09-26",
+    "summary": "Article URL: https://copepod.dev/human-required Comments URL: https://news.ycombinator.com/item?id=49853899 Points: 3 # Comments: 2",
+    "category": "industry",
+    "id": 13
+  },
+  {
+    "title": "AI was supposed to hit new grads hard. So far, unemployment data says otherwise",
+    "url": "https://arstechnica.com/ai/2026/09/ai-was-supposed-to-hit-new-grads-hard-so-far-unemployment-data-says-otherwise/",
+    "source": "Hacker News",
+    "date": "2026-09-26",
+    "summary": "Article URL: https://arstechnica.com/ai/2026/09/ai-was-supposed-to-hit-new-grads-hard-so-far-unemployment-data-says-otherwise/ Comments URL: https://news.ycombinator.com/item?id=49853845 Points: 7 # C...",
+    "category": "industry",
+    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/graduates-1152x648.jpg",
+    "id": 14
+  },
+  {
+    "title": "Novelist accused of using AI to write book removed from French prize list",
+    "url": "https://www.theguardian.com/books/2026/sep/25/thelyson-orelien-goncourt-prize-france",
+    "source": "Hacker News",
+    "date": "2026-09-26",
+    "summary": "Article URL: https://www.theguardian.com/books/2026/sep/25/thelyson-orelien-goncourt-prize-france Comments URL: https://news.ycombinator.com/item?id=49853824 Points: 4 # Comments: 0",
+    "category": "industry",
+    "image": "https://i.guim.co.uk/img/media/805a53985eeaa5d325b415cdf6ae98f6c248b5b3/624_0_6240_4994/master/6240.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=05efab51d806894329a2065c5d120180",
+    "id": 15
+  },
+  {
+    "title": "US DOE will give $5.25B to upgrade the grid for AI datacenters",
+    "url": "https://www.theregister.com/systems/2026/09/25/uncle-sam-coughs-up-19b-for-grid-upgrades-as-datacenters-hit-a-power-wall/5299276",
+    "source": "Hacker News",
+    "date": "2026-09-26",
+    "summary": "Article URL: https://www.theregister.com/systems/2026/09/25/uncle-sam-coughs-up-19b-for-grid-upgrades-as-datacenters-hit-a-power-wall/5299276 Comments URL: https://news.ycombinator.com/item?id=4985372...",
+    "category": "hardware",
+    "image": "https://image.theregister.com/5285618.jpg?imageId=5285618&x=0&y=0&cropw=100&croph=100&panox=0&panoy=0&panow=100&panoh=100&width=1200&height=683",
+    "id": 16
+  },
+  {
+    "title": "One company is at the center of a wave of rogue AI attacks",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/1000644/irregular-rogue-ai-cyberattacks-hacking-openai-meta-anthropic-google",
+    "source": "Hacker News",
+    "date": "2026-09-26",
+    "summary": "Article URL: https://www.theverge.com/ai-artificial-intelligence/1000644/irregular-rogue-ai-cyberattacks-hacking-openai-meta-anthropic-google Comments URL: https://news.ycombinator.com/item?id=4985369...",
+    "category": "hardware",
+    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/STKS533_AI_AGENTS_HACKING_A-1.png?quality=90&strip=all&crop=0%2C9.9676601489831%2C100%2C80.064679702034&w=1200",
+    "id": 17
+  },
+  {
+    "title": "Show HN: Botbin.io – pastebin for AI agent artifacts",
+    "url": "https://botbin.io/?md=true",
+    "source": "Hacker News",
+    "date": "2026-09-26",
+    "summary": "Article URL: https://botbin.io/?md=true Comments URL: https://news.ycombinator.com/item?id=49853553 Points: 2 # Comments: 0",
+    "category": "industry",
+    "id": 18
+  },
+  {
+    "title": "Can AI Shopping Agents Be Trusted?",
+    "url": "https://www.f-secure.com/en/partners/insights/can-ai-shopping-agents-be-trusted-we-built-one-to-find-out",
+    "source": "Hacker News",
+    "date": "2026-09-26",
+    "summary": "Article URL: https://www.f-secure.com/en/partners/insights/can-ai-shopping-agents-be-trusted-we-built-one-to-find-out Comments URL: https://news.ycombinator.com/item?id=49853522 Points: 15 # Comments:...",
+    "category": "industry",
+    "id": 19
+  },
+  {
+    "title": "DraftKings Is Using AI to Supercharge the Harms of Online Behavioral Advertising",
+    "url": "https://www.eff.org/deeplinks/2026/09/draftkings-using-ai-supercharge-harms-online-behavioral-advertising",
+    "source": "Hacker News",
+    "date": "2026-09-26",
+    "summary": "Article URL: https://www.eff.org/deeplinks/2026/09/draftkings-using-ai-supercharge-harms-online-behavioral-advertising Comments URL: https://news.ycombinator.com/item?id=49853497 Points: 1 # Comments:...",
+    "category": "industry",
+    "image": "https://www.eff.org/files/banner_library/graphic_adtech_mobile.png",
+    "id": 20
+  },
+  {
+    "title": "An LLM Beat NetHack",
+    "url": "https://kenforthewin.github.io/blog/posts/llm-nethack-ascension/",
+    "source": "Hacker News",
+    "date": "2026-09-26",
+    "summary": "Article URL: https://kenforthewin.github.io/blog/posts/llm-nethack-ascension/ Comments URL: https://news.ycombinator.com/item?id=49853442 Points: 1 # Comments: 0",
+    "category": "models",
+    "image": "https://kenforthewin.github.io/blog/",
+    "id": 21
+  },
+  {
+    "title": "Meta’s Muse Is Adults-Only. Why Does It Look Like a Kids’ Toy?",
+    "url": "https://www.wired.com/story/meta-muse-is-adults-only-why-does-it-look-like-a-cute-kids-toy/",
+    "source": "Wired",
+    "date": "2026-09-26",
+    "summary": "Meta says Muse is just for adults, though its cuddly, Labubu-like mascot—and upcoming Tamagotchi-style AI device—may be disarming for users of all ages.",
+    "category": "industry",
+    "image": "https://media.wired.com/photos/6ab6a33ebc7793cf754905a1/191:100/w_1280,c_limit/GettyImages-2296209094.jpg",
+    "id": 22
   },
   {
     "title": "$\\unicode{x1F493}$Heartian: Physiology-Aware Relightable Gaussian Head Avatar",
@@ -64,7 +220,7 @@
     "date": "2026-09-26",
     "summary": "Gaussian head avatars typically model intrinsic facial appearance as temporally static, omitting subtle cardiac-induced skin-color variation. We propose $\\unicode{x1F493}$Heartian, a physiology-aware ...",
     "category": "research",
-    "id": 7
+    "id": 23
   },
   {
     "title": "Token Clustering and Semantic Sequence Mamba for Hyperspectral Image Classification",
@@ -73,7 +229,7 @@
     "date": "2026-09-26",
     "summary": "Although hyperspectral images (HSIs) provide rich spectral-spatial information, accurate pixel-level classification remains challenging because of spectral-spatial heterogeneity and complex spatial st...",
     "category": "research",
-    "id": 8
+    "id": 24
   },
   {
     "title": "UltraBench 2: Towards Robust Evaluation of Vision Foundation Models on Ultrasound",
@@ -82,7 +238,7 @@
     "date": "2026-09-26",
     "summary": "Benchmarking is an increasingly critical part of research in machine learning and the domains where it is applied, including healthcare. Yet, despite the steady development of new ultrasound foundatio...",
     "category": "research",
-    "id": 9
+    "id": 25
   },
   {
     "title": "PePESeg3D: Perception Prior Enhances Multi-Scale Segmentation for 3D Gaussian Splatting",
@@ -91,7 +247,7 @@
     "date": "2026-09-26",
     "summary": "Recent advancements in 3D Gaussian Splatting (3DGS) have extended its capabilities to multi-scale segmentation. Existing methods reconstruct a scene with Gaussian primitives and learn multi-scale segm...",
     "category": "models",
-    "id": 10
+    "id": 26
   },
   {
     "title": "M-plicits: Neural Implicit Surfaces via Nested Multiscale Residuals",
@@ -100,7 +256,7 @@
     "date": "2026-09-26",
     "summary": "Encoding input coordinates with sinusoidal functions into multi-layer perceptrons (MLPs) has proven effective for implicit neural representations (INRs) of surfaces defined as zero-level sets. However...",
     "category": "models",
-    "id": 11
+    "id": 27
   },
   {
     "title": "GeoNLI - A Natural Language Interpreter for Satellite Imagery",
@@ -109,7 +265,7 @@
     "date": "2026-09-26",
     "summary": "Multi-modal multitasking models have shown strong performance on remote sensing datasets. However, because these models are trained on heterogeneous data and vary across tasks, designing a unified mod...",
     "category": "models",
-    "id": 12
+    "id": 28
   },
   {
     "title": "Small yet Assistive: Spatially-Aware Post-Training for Low Vision",
@@ -118,7 +274,7 @@
     "date": "2026-09-26",
     "summary": "An estimated 1 billion people worldwide live with vision impairment, yet current vision-language models (VLMs) produce descriptions too vague for safe navigation by blind and low-vision (BLV) users. L...",
     "category": "models",
-    "id": 13
+    "id": 29
   },
   {
     "title": "DrGait: Biomechanically Grounded Visual Reasoning for Interpretable Clinical Gait Analysis",
@@ -127,7 +283,7 @@
     "date": "2026-09-26",
     "summary": "Current automated gait analysis for clinical applications relies on uninterpretable black-box classifiers. Although Vision-Language Models (VLMs) offer strong reasoning capabilities, applying them dir...",
     "category": "research",
-    "id": 14
+    "id": 30
   },
   {
     "title": "DeltaWAM: Delta World Action Models for Bimanual Manipulation",
@@ -136,7 +292,7 @@
     "date": "2026-09-26",
     "summary": "World-action models (WAMs) transfer visual and motion priors from pretrained video generators to robot control by jointly modeling visual dynamics and actions. Existing WAMs, however, predict dense fu...",
     "category": "research",
-    "id": 15
+    "id": 31
   },
   {
     "title": "CinematicVQA: Benchmarking Film-Grammar Reasoning in Large Vision-Language Models",
@@ -145,7 +301,7 @@
     "date": "2026-09-26",
     "summary": "Cinematography, the craft of visual storytelling through framing, lighting, and camera operation, fundamentally shapes how audiences perceive and emotionally engage with video content. While Large Vis...",
     "category": "research",
-    "id": 16
+    "id": 32
   },
   {
     "title": "M$^2$PFN: End-to-End Disentangled Alignment for Generalizable Multimodal In-Context Learning in Alzheimer's Disease",
@@ -154,7 +310,7 @@
     "date": "2026-09-26",
     "summary": "While various multimodal methods combining imaging and tabular data for Alzheimer's disease (AD) diagnosis were proposed, they are often limited in generalization across cohorts. In-context learning (...",
     "category": "models",
-    "id": 17
+    "id": 33
   },
   {
     "title": "Looks the Same, Answers Differently: Flip-Direction Steering for Robust Vision-Language Reasoning",
@@ -163,7 +319,7 @@
     "date": "2026-09-26",
     "summary": "Vision-language models (VLMs) achieve strong visual reasoning performance, yet subtle changes from routine image capture and processing can alter their reasoning trajectories even when images appear n...",
     "category": "research",
-    "id": 18
+    "id": 34
   },
   {
     "title": "MEVL-STP: Multi-Encoder and Vision Language Model for Arbitrarily Shaped Scene Text Spotting",
@@ -172,7 +328,7 @@
     "date": "2026-09-26",
     "summary": "Scene text spotting remains challenging for arbitrarily shaped text instances such as curved signs and dense multi-oriented characters in natural images, where tightly coupled architectures propagate ...",
     "category": "models",
-    "id": 19
+    "id": 35
   },
   {
     "title": "Multimodal Routing and Region Refinement for Language-Guided Medical Image Segmentation",
@@ -181,7 +337,7 @@
     "date": "2026-09-26",
     "summary": "Textual descriptions can reduce ambiguity in medical image segmentation by specifying the finding and location to be delineated. Existing text-guided methods mainly improve where image and language fe...",
     "category": "models",
-    "id": 20
+    "id": 36
   },
   {
     "title": "ViRDM: Taming Representation Distribution Matching for Few-Step Causal Video Generation",
@@ -190,7 +346,7 @@
     "date": "2026-09-26",
     "summary": "Few-step autoregressive (AR) video diffusion enables low-latency streaming generation, but existing post-training methods predominantly rely on Distribution Matching Distillation (DMD), requiring both...",
     "category": "research",
-    "id": 21
+    "id": 37
   },
   {
     "title": "PlenoCI: Plenoptic CharacterIstics for View Dependence Aware Change Classification",
@@ -199,7 +355,7 @@
     "date": "2026-09-26",
     "summary": "Radiance field representations such as 3D Gaussian Splatting (3DGS) natively encode complex visual phenomena such as occlusions and view dependence, but they are inherently underconstrained. Independe...",
     "category": "research",
-    "id": 22
+    "id": 38
   },
   {
     "title": "HelloWorld: Towards Practical Applications of Generative Driving World Models",
@@ -208,7 +364,7 @@
     "date": "2026-09-26",
     "summary": "Driving world models provide a promising route toward scalable counterfactual data generation and interactive simulation beyond recorded driving logs. Realizing this potential requires a system that c...",
     "category": "tools",
-    "id": 23
+    "id": 39
   },
   {
     "title": "Exploiting Target Knowledge from MLLMs for Robust Few-Shot Segmentation",
@@ -217,7 +373,7 @@
     "date": "2026-09-26",
     "summary": "Few-shot segmentation (FSS) aims to segment unseen object categories with a few (e.g., one or five) labeled examples, enabling efficient adaptation to novel classes. Conventional models typically rely...",
     "category": "models",
-    "id": 24
+    "id": 40
   },
   {
     "title": "MoVISA: Multi-Token Reasoning for Video Object Segmentation",
@@ -226,7 +382,7 @@
     "date": "2026-09-26",
     "summary": "Recent advances in video object segmentation with Multimodal Large Language Model (MLLM) reasoning have demonstrated the effectiveness of using a single textual token, such as SEG, to predict segmenta...",
     "category": "models",
-    "id": 25
+    "id": 41
   },
   {
     "title": "Beneath the Scores: Rethinking Hallucination Evaluation for Video Understanding Models",
@@ -235,7 +391,7 @@
     "date": "2026-09-26",
     "summary": "Video understanding is increasingly performed by multi-stage LLM agents that separate temporal grounding, visual observation, and reasoning. Yet these stages are typically evaluated on different bench...",
     "category": "research",
-    "id": 26
+    "id": 42
   },
   {
     "title": "Only What Was Seen: Observation-Gram Compaction of View-Dependent Appearance in 3D Gaussian Splatting",
@@ -244,7 +400,7 @@
     "date": "2026-09-26",
     "summary": "Most of the memory of a 3D Gaussian Splatting model holds spherical-harmonic colour coefficients, yet each Gaussian is seen only from the narrow cone of directions of the training cameras. We turn thi...",
     "category": "models",
-    "id": 27
+    "id": 43
   },
   {
     "title": "FluidRain: Incompressible Rain Flow as an Attention Bias for Loop-in-Loop Video Deraining",
@@ -253,7 +409,7 @@
     "date": "2026-09-26",
     "summary": "Existing video deraining methods typically exploit neighboring frames through either explicit alignment or implicit spatiotemporal aggregation. Explicit alignment relies on accurate motion estimation,...",
     "category": "models",
-    "id": 28
+    "id": 44
   },
   {
     "title": "RGBD20K: A Large-Scale Benchmark for RGB-D Semantic Segmentation",
@@ -262,7 +418,7 @@
     "date": "2026-09-26",
     "summary": "In this paper, we propose RGBD20K, a novel dataset for facilitating the development of more robust and general RGB-D semantic segmentation by encompassing abundant categories and high-quality annotati...",
     "category": "research",
-    "id": 29
+    "id": 45
   },
   {
     "title": "Where Hallucinations Live: A Cross-Architecture Circuit in VQ-Tokenized Vision-Language Models",
@@ -271,7 +427,7 @@
     "date": "2026-09-26",
     "summary": "Unified vision-language models (VLMs) that tokenize images through a vector-quantized (VQ) codebook routinely hallucinate objects on grounded yes/no benchmarks, yet existing decoding-time fixes treat ...",
     "category": "models",
-    "id": 30
+    "id": 46
   },
   {
     "title": "EIB-Net: Entropy-Guided Information Bottleneck for Generalizable AI-Generated Image Detection",
@@ -280,7 +436,7 @@
     "date": "2026-09-26",
     "summary": "The proliferation of photorealistic AI-generated images demands robust detection methods that generalize across diverse generative models. While existing approaches target manipulation-based forgeries...",
     "category": "models",
-    "id": 31
+    "id": 47
   },
   {
     "title": "Seeing Is Not Measuring: Tool-Augmented Metric Spatial Reasoning for Vision-Language Models",
@@ -289,7 +445,7 @@
     "date": "2026-09-26",
     "summary": "Vision-Language Models (VLMs) describe scenes well but reason poorly about metric 3D structure such as absolute distances, physical sizes, or egocentric directions. We present a modular, predictor agn...",
     "category": "models",
-    "id": 32
+    "id": 48
   },
   {
     "title": "WildHSR: Metric Feed-Forward 4D People-Scene Reconstruction from a 3D Foundation Model",
@@ -298,7 +454,7 @@
     "date": "2026-09-26",
     "summary": "3D foundation models recover video cameras and geometry in one forward pass, but some of the strongest are up to scale. Joint people-scene reconstruction then requires two missing outputs: metric scal...",
     "category": "models",
-    "id": 33
+    "id": 49
   },
   {
     "title": "Spectral Amplitude Purification in Distribution Matching for Diffusion Distillation",
@@ -306,150 +462,6 @@
     "source": "arXiv cs.CV",
     "date": "2026-09-26",
     "summary": "Distribution Matching Distillation (DMD) enables high-quality diffusion sampling in only a few steps, but its optimization dynamics remain dominated by coarse, low-frequency signals, delaying the reco...",
-    "category": "models",
-    "id": 34
-  },
-  {
-    "title": "UpDown-SC: Gravity-Canonicalized Dual-Envelope Scan Context for Indoor LiDAR Place Recognition",
-    "url": "https://arxiv.org/abs/2609.29118",
-    "source": "arXiv cs.CV",
-    "date": "2026-09-26",
-    "summary": "LiDAR place recognition is a key front end for loop closure and global relocalization, yet indoor retrieval remains difficult when attitude or sensor mounting height changes between mapping and query ...",
-    "category": "research",
-    "id": 35
-  },
-  {
-    "title": "Less is More: Encoder-only Audio-Visual Segmentation",
-    "url": "https://arxiv.org/abs/2609.29121",
-    "source": "arXiv cs.CV",
-    "date": "2026-09-26",
-    "summary": "Audio-Visual Semantic Segmentation (AVSS) aims to identify, segment, and classify sound-emitting objects in video frames. Previous Transformer-based AVSS approaches largely inherit design principles f...",
-    "category": "models",
-    "id": 36
-  },
-  {
-    "title": "FoCal: Frequency-Oriented Cross-Modal Interaction and Spectral Calibration for Aerial Visible-Infrared Object Detection",
-    "url": "https://arxiv.org/abs/2609.29125",
-    "source": "arXiv cs.CV",
-    "date": "2026-09-26",
-    "summary": "In aerial RGB--IR object detection, effectively exploiting complementary information across modalities is critical for robust perception under complex illumination and environmental conditions. Existi...",
-    "category": "models",
-    "id": 37
-  },
-  {
-    "title": "Recoverable Geographic Location Information in Earth-Observation Embeddings",
-    "url": "https://arxiv.org/abs/2609.29151",
-    "source": "arXiv cs.CV",
-    "date": "2026-09-26",
-    "summary": "Earth-observation (EO) foundation models provide reusable embeddings, yet downstream task accuracy does not reveal whether these representations encode geographic information, which may be beneficial ...",
-    "category": "models",
-    "id": 38
-  },
-  {
-    "title": "Med-AR: Autoregressive Vision-Language Pretraining for Long-Tailed Chest X-Ray Classification and Uncertainty-Aware Evaluation",
-    "url": "https://arxiv.org/abs/2609.29156",
-    "source": "arXiv cs.CV",
-    "date": "2026-09-26",
-    "summary": "Long-tailed chest X-ray classification requires visual representations that capture both common abnormalities and subtle, infrequent findings. We propose Med-AR-8B and Med-AR-2B, two radiology-native ...",
-    "category": "models",
-    "id": 39
-  },
-  {
-    "title": "An Automated Georeferencing Technique for Multi-Temporal Stope Point Clouds for Downstream Geotechnical Analysis",
-    "url": "https://arxiv.org/abs/2609.29186",
-    "source": "arXiv cs.CV",
-    "date": "2026-09-26",
-    "summary": "The increasing use of UAV laser scanning in underground mines has enabled frequent acquisition of 3D point clouds from challenging environments such as stopes, generating large volumes of multi-tempor...",
-    "category": "research",
-    "id": 40
-  },
-  {
-    "title": "FounRef: Robust, Structure-Preserving, and Fast Metric Refinement of Frozen Monocular Foundation Priors with Sparse Anchors",
-    "url": "https://arxiv.org/abs/2609.29224",
-    "source": "arXiv cs.CV",
-    "date": "2026-09-26",
-    "summary": "Dense metric depth from cameras is essential to real-world 3D applications, yet achieving accuracy, faithful surface geometry, and fast inference simultaneously remains challenging. Monocular foundati...",
-    "category": "research",
-    "id": 41
-  },
-  {
-    "title": "ComplexSync: High-Fidelity and Real-Time Lip Sync in Complex Scenarios",
-    "url": "https://arxiv.org/abs/2609.29225",
-    "source": "arXiv cs.CV",
-    "date": "2026-09-26",
-    "summary": "Lip synchronization aims to generate visual lip dynamics that align precisely with speech audio. Despite the high generation quality of diffusion models, they often struggle in complex scenarios and s...",
-    "category": "research",
-    "id": 42
-  },
-  {
-    "title": "SARFusion: Scene-Aware Routing Fusion for Robust Camera-LiDAR 3D Object Detection",
-    "url": "https://arxiv.org/abs/2609.29235",
-    "source": "arXiv cs.CV",
-    "date": "2026-09-26",
-    "summary": "Camera-LiDAR fusion has become a prevailing paradigm for 3D object detection in autonomous driving. However, existing fusion detectors often establish strong inter-modality dependencies by decoding ob...",
-    "category": "models",
-    "id": 43
-  },
-  {
-    "title": "TOLA: Text-aware One-Step Latent Adaptation for Diffusion-based Text Image Super-Resolution",
-    "url": "https://arxiv.org/abs/2609.29240",
-    "source": "arXiv cs.CV",
-    "date": "2026-09-26",
-    "summary": "Text image super-resolution (TSR) aims to recover visually faithful and readable text under unknown degradations. Existing diffusion-based methods typically rely on multi-step prediction of either the...",
-    "category": "models",
-    "id": 44
-  },
-  {
-    "title": "IronViT: Toward Efficient Generalist Visual Representation Learning",
-    "url": "https://arxiv.org/abs/2609.29252",
-    "source": "arXiv cs.CV",
-    "date": "2026-09-26",
-    "summary": "A generalist vision encoder must capture semantic, spatial, language-aligned, and action-relevant cues within a unified representation, yet softmax attention underlying today's most capable visual bac...",
-    "category": "research",
-    "id": 45
-  },
-  {
-    "title": "Deep learning of longitudinal visual fields predicts glaucoma progression rate and identifies fast progressors",
-    "url": "https://arxiv.org/abs/2609.29256",
-    "source": "arXiv cs.CV",
-    "date": "2026-09-26",
-    "summary": "Glaucoma is the leading cause of irreversible blindness, and timely identification of fast progressors is essential to prevent disability. Current practice estimates progression by ordinary least-squa...",
-    "category": "models",
-    "id": 46
-  },
-  {
-    "title": "PHOSA: Photorealistic 3D Sign Avatar Modeling and Benchmark",
-    "url": "https://arxiv.org/abs/2609.29292",
-    "source": "arXiv cs.CV",
-    "date": "2026-09-26",
-    "summary": "In this work, we focus on photorealistic sign avatar modeling, which is crucial for effective communication with the Deaf community and is characterized by complex hand gestures and nuanced facial exp...",
-    "category": "models",
-    "id": 47
-  },
-  {
-    "title": "Hyperbolic Multimodal Continual Learning: A Closest-Admissible Solution",
-    "url": "https://arxiv.org/abs/2609.29329",
-    "source": "arXiv cs.CV",
-    "date": "2026-09-26",
-    "summary": "Existing continual-learning methods protect parameters, replayed examples, or Euclidean feature subspaces. When applied to hyperbolic multimodal models, they do not explicitly preserve the Lorentz geo...",
-    "category": "models",
-    "id": 48
-  },
-  {
-    "title": "A Study of the Limits of Collaborative DCT-Based Image Denoising via Interpretable Neural Networks",
-    "url": "https://arxiv.org/abs/2609.29334",
-    "source": "arXiv cs.CV",
-    "date": "2026-09-26",
-    "summary": "Image denoising remains a fundamental problem in image restoration, with applications in photography, biomedical, and scientific imaging. Modern deep neural networks achieve strong performance by lear...",
-    "category": "research",
-    "id": 49
-  },
-  {
-    "title": "SEE Challenge 2026: Event-Guided Brightness Adjustment Across a Broad Illumination Range",
-    "url": "https://arxiv.org/abs/2609.29347",
-    "source": "arXiv cs.CV",
-    "date": "2026-09-26",
-    "summary": "Event cameras provide a high dynamic range and preserve brightness-change cues in lighting conditions where conventional RGB frames may be noisy or saturated. To benchmark event-guided restoration acr...",
     "category": "models",
     "id": 50
   }
