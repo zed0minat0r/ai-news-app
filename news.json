@@ -11,12 +11,12 @@
     "featured": true
   },
   {
-    "title": "Introducing GPT-6.1 Sol",
-    "url": "https://openai.com/index/introducing-gpt-6-1-sol",
+    "title": "DevDay 2026 Recap",
+    "url": "https://openai.com/index/devday-2026-recap",
     "source": "OpenAI Blog",
     "date": "2026-09-29",
-    "summary": "Meet GPT-6.1 Sol: near-Astra intelligence for coding, computer use, and professional work at one-fifth of Astra’s standard API input and output token prices.",
-    "category": "hardware",
+    "summary": "Explore more than 20 announcements from OpenAI DevDay 2026, including GPT-6 Astra, ChatGPT, Codex, APIs, security, and new tools for builders.",
+    "category": "tools",
     "id": 2
   },
   {
@@ -29,12 +29,12 @@
     "id": 3
   },
   {
-    "title": "DevDay 2026 Recap",
-    "url": "https://openai.com/index/devday-2026-recap",
+    "title": "Introducing GPT-6.1 Sol",
+    "url": "https://openai.com/index/introducing-gpt-6-1-sol",
     "source": "OpenAI Blog",
     "date": "2026-09-29",
-    "summary": "Explore more than 20 announcements from OpenAI DevDay 2026, including GPT-6 Astra, ChatGPT, Codex, APIs, security, and new tools for builders.",
-    "category": "tools",
+    "summary": "Meet GPT-6.1 Sol: near-Astra intelligence for coding, computer use, and professional work at one-fifth of Astra’s standard API input and output token prices.",
+    "category": "hardware",
     "id": 4
   },
   {
@@ -118,6 +118,36 @@
     "id": 12
   },
   {
+    "title": "The internet is convinced Elon Musk’s xAI trolled OpenAI’s ‘Dots’ launch",
+    "url": "https://techcrunch.com/2026/09/29/the-internet-is-convinced-elon-musks-xai-trolled-openais-dots-launch/",
+    "source": "TechCrunch",
+    "date": "2026-09-29",
+    "summary": "Before OpenAI launched its new AI agent, Dots, on Tuesday, Elon Musk's xAI had already acquired the domain name \"dot.com,\" which now redirects to the Grok chatbot download page.",
+    "category": "models",
+    "image": "https://techcrunch.com/wp-content/uploads/2025/02/elon-musk-election-afd-purple.jpg?resize=1200,826",
+    "id": 13
+  },
+  {
+    "title": "OpenAI’s latest features take direct aim at the app store model",
+    "url": "https://techcrunch.com/2026/09/29/openais-latest-features-take-direct-aim-at-the-app-store-model/",
+    "source": "TechCrunch",
+    "date": "2026-09-29",
+    "summary": "OpenAI is building out the pieces of an alternative to the traditional app store model, turning ChatGPT into a place where software can be discovered and used by people and AI agents alike.",
+    "category": "models",
+    "image": "https://techcrunch.com/wp-content/uploads/2026/09/openai-getty.jpg?resize=1200,800",
+    "id": 14
+  },
+  {
+    "title": "OpenAI repotedly in talks to raise $30B round at $1.4T valuation",
+    "url": "https://techcrunch.com/2026/09/29/openai-repotedly-in-talks-to-raise-30b-round-at-1-4t-valuation/",
+    "source": "TechCrunch",
+    "date": "2026-09-29",
+    "summary": "The new round is anticipated to be the company's last before its delayed 2027 public debut.",
+    "category": "industry",
+    "image": "https://techcrunch.com/wp-content/uploads/2026/02/GettyImages-2236544077.jpg?resize=1200,800",
+    "id": 15
+  },
+  {
     "title": "Here’s why OpenAI is absent from Nvidia’s industry-wide effort to end rogue AI agents",
     "url": "https://techcrunch.com/2026/09/29/heres-why-openai-is-absent-from-nvidias-industry-wide-effort-to-end-rogue-ai-agents/",
     "source": "TechCrunch",
@@ -125,27 +155,27 @@
     "summary": "OpenAI isn't a public supporter of Nvidia's Open Agent Safety Platform, but it is privately working with Nvidia, TechCrunch has learned.",
     "category": "hardware",
     "image": "https://techcrunch.com/wp-content/uploads/2023/11/Sam-Altman-OpenAI.jpg?resize=1200,680",
-    "id": 13
+    "id": 16
   },
   {
     "title": "OpenAI takes on Microsoft with the launch of what feels a whole lot like ChatGPT’s own office suite",
     "url": "https://techcrunch.com/2026/09/29/openai-takes-on-microsoft-with-the-launch-of-what-feels-a-whole-lot-like-chatgpts-own-office-suite/",
     "source": "TechCrunch",
     "date": "2026-09-29",
-    "summary": "OpenAI's newly announced suite of office features puts it into mor direct competition with more traditional software companies.",
+    "summary": "OpenAI's newly announced suite of office features puts it into more direct competition with more traditional software companies.",
     "category": "models",
     "image": "https://techcrunch.com/wp-content/uploads/2026/09/OpenAI.jpg?resize=1200,800",
-    "id": 14
+    "id": 17
   },
   {
     "title": "AI-powered app maker Wabi pivots to a messaging experience",
     "url": "https://techcrunch.com/2026/09/29/ai-powered-app-maker-wabi-pivots-to-a-messaging-experience/",
     "source": "TechCrunch",
     "date": "2026-09-29",
-    "summary": "Wabi is repositioning its prompt-based app builder as a personal AI agent that can create interfaces on demand, combining chat, apps and ongoing tasks.",
+    "summary": "Wabi is repositioning its prompt-based app builder as a personal AI agent that can create interfaces on demand, combining chat, apps, and ongoing tasks.",
     "category": "industry",
     "image": "https://techcrunch.com/wp-content/uploads/2026/09/wabi-20.jpg?resize=1200,620",
-    "id": 15
+    "id": 18
   },
   {
     "title": "OpenAI launches Dots, its bubbly agentic avatar",
@@ -155,47 +185,47 @@
     "summary": "Dots are meant to operate independent of any specific hardware or interface, pursuing user-defined goals continuously in the background with minimal oversight.",
     "category": "industry",
     "image": "https://techcrunch.com/wp-content/uploads/2026/09/Screenshot-2026-09-29-at-1.16.22-PM.jpg?w=988",
-    "id": 16
-  },
-  {
-    "title": "OpenAI launches GPT-6.1 Sol, says it nearly matches GPT-6 Astra and costs less",
-    "url": "https://techcrunch.com/2026/09/29/openai-launches-gpt-6-1-sol-says-it-nearly-matches-gpt-6-astra-and-costs-less/",
-    "source": "TechCrunch",
-    "date": "2026-09-29",
-    "summary": "OpenAI says GPT-6.1 Sol delivers significant improvements over GPT-6 Sol across complex professional tasks, including code writing and debugging, document understanding, and executing multi-step busin...",
-    "category": "models",
-    "image": "https://techcrunch.com/wp-content/uploads/2026/07/OpenAI-logo-in-Seoul.jpg?w=1024",
-    "id": 17
-  },
-  {
-    "title": "OpenAI expands ChatGPT’s plugins with app-like interfaces and automations",
-    "url": "https://techcrunch.com/2026/09/29/openai-expands-chatgpts-plugins-with-app-like-interfaces-and-automations/",
-    "source": "TechCrunch",
-    "date": "2026-09-29",
-    "summary": "OpenAI is expanding ChatGPT plugins with dedicated sidebar homes, interactive panels, file viewers, improved discovery, and support for automations.",
-    "category": "tools",
-    "image": "https://techcrunch.com/wp-content/uploads/2026/09/plugins-.jpg?resize=1200,690",
-    "id": 18
+    "id": 19
   },
   {
     "title": "OpenAI gives Codex reusable cloud environments that work across devices",
     "url": "https://techcrunch.com/2026/09/29/openai-gives-codex-reusable-cloud-environments-that-work-across-devices/",
     "source": "TechCrunch",
     "date": "2026-09-29",
-    "summary": "OpenAI is expanding Codex with reusable cloud development environments, a revamped CLI with voice controls, new code review tools and a security-focused product for scanning repositories and preparing...",
+    "summary": "OpenAI is expanding Codex with reusable cloud development environments, a revamped CLI with voice controls, new code review tools, and a security-focused product for scanning repositories and preparin...",
     "category": "tools",
     "image": "https://techcrunch.com/wp-content/uploads/2026/07/OpenAI-logo-green.jpg?w=1024",
-    "id": 19
+    "id": 20
+  },
+  {
+    "title": "OpenAI expands ChatGPT’s plug-ins with app-like interfaces and automations",
+    "url": "https://techcrunch.com/2026/09/29/openai-expands-chatgpts-plugins-with-app-like-interfaces-and-automations/",
+    "source": "TechCrunch",
+    "date": "2026-09-29",
+    "summary": "OpenAI is expanding ChatGPT plug-ins with dedicated sidebar homes, interactive panels, file viewers, improved discovery, and support for automations.",
+    "category": "models",
+    "image": "https://techcrunch.com/wp-content/uploads/2026/09/plugins-.jpg?resize=1200,690",
+    "id": 21
+  },
+  {
+    "title": "OpenAI launches GPT-6.1 Sol, says it nearly matches GPT-6 Astra and costs less",
+    "url": "https://techcrunch.com/2026/09/29/openai-launches-gpt-6-1-sol-says-it-nearly-matches-gpt-6-astra-and-costs-less/",
+    "source": "TechCrunch",
+    "date": "2026-09-29",
+    "summary": "OpenAI says GPT-6.1 Sol delivers significant improvements over GPT-6 Sol across complex professional tasks, including code writing and debugging, document understanding, and executing multistep busine...",
+    "category": "models",
+    "image": "https://techcrunch.com/wp-content/uploads/2026/07/OpenAI-logo-in-Seoul.jpg?w=1024",
+    "id": 22
   },
   {
     "title": "Can a chatbot fix the government maze? The White House is about to find out",
     "url": "https://techcrunch.com/2026/09/29/can-a-chatbot-fix-the-government-maze-the-white-house-is-about-to-find-out/",
     "source": "TechCrunch",
     "date": "2026-09-29",
-    "summary": "America.gov is intended to simplify the process of navigating government bureaucracy, but language models are imperfect and remain prone to hallucinations, which could cause new issues.",
+    "summary": "America.gov is intended to simplify the process of navigating government bureaucracy, but large language models are imperfect and remain prone to hallucinations, which could cause new issues.",
     "category": "models",
     "image": "https://techcrunch.com/wp-content/uploads/2026/06/GettyImages-2277839095.jpg?w=1024",
-    "id": 20
+    "id": 23
   },
   {
     "title": "Meta is expanding its AI agent Muse to small businesses",
@@ -205,7 +235,7 @@
     "summary": "The tech giant says the agent can help owners run their business and find new customers.",
     "category": "industry",
     "image": "https://techcrunch.com/wp-content/uploads/2026/09/GTM_Connectors_16x9-1.png?resize=1200,675",
-    "id": 21
+    "id": 24
   },
   {
     "title": "OpenAI apologizes to Australia after its AI agents breached government sites",
@@ -215,7 +245,7 @@
     "summary": "The company also detailed how some of those breaches had happened, and outlined additional measures it is taking to assess the impact of the events.",
     "category": "industry",
     "image": "https://techcrunch.com/wp-content/uploads/2026/09/openai-getty.jpg?resize=1200,800",
-    "id": 22
+    "id": 25
   },
   {
     "title": "Reco raises $55M as AI agent security startups crowd the market",
@@ -225,7 +255,7 @@
     "summary": "The round builds on a $30 million fundraise in February, taking the company's total funding to $140 million.",
     "category": "industry",
     "image": "https://techcrunch.com/wp-content/uploads/2023/08/getty-keys-red-background-locks.jpg?resize=1200,800",
-    "id": 23
+    "id": 26
   },
   {
     "title": "Anthropic’s prospectus details losses, growth, and, yes, a warning that its AI could end humanity",
@@ -235,7 +265,7 @@
     "summary": "In its prospectus, Anthropic just told investors it's losing tens of billions of dollars a year, but also growing like crazy, and — oh yeah — its own AI might pose an existential risk to humanity.",
     "category": "industry",
     "image": "https://techcrunch.com/wp-content/uploads/2024/12/GettyImages-1399936043.jpg?resize=1200,675",
-    "id": 24
+    "id": 27
   },
   {
     "title": "Peak XV ups Surge seed investment ceiling to $5M, unveils 18-startup cohort",
@@ -245,202 +275,7 @@
     "summary": "Thirteen of the 18 startups in Peak XV’s latest Surge cohort are targeting global markets, while more than half are based in India.",
     "category": "industry",
     "image": "https://techcrunch.com/wp-content/uploads/2026/09/rajan-anandan.jpg?resize=1200,800",
-    "id": 25
-  },
-  {
-    "title": "Anthropic warns AI may pose 'existential risks to humanity' in IPO filing",
-    "url": "https://www.reuters.com/business/finance/anthropic-warns-ai-may-pose-existential-risks-humanity-ipo-filing-2026-09-29/",
-    "source": "Hacker News",
-    "date": "2026-09-29",
-    "summary": "Article URL: https://www.reuters.com/business/finance/anthropic-warns-ai-may-pose-existential-risks-humanity-ipo-filing-2026-09-29/ Comments URL: https://news.ycombinator.com/item?id=49899221 Points: ...",
-    "category": "industry",
-    "id": 26
-  },
-  {
-    "title": "Nova: A Personal AI Built on Patterns",
-    "url": "https://singmypoem.com/nova-a-personal-ai-built-on-patterns/",
-    "source": "Hacker News",
-    "date": "2026-09-29",
-    "summary": "Article URL: https://singmypoem.com/nova-a-personal-ai-built-on-patterns/ Comments URL: https://news.ycombinator.com/item?id=49899129 Points: 1 # Comments: 0",
-    "category": "industry",
-    "image": "https://singmypoem.com/wp-content/uploads/2026/09/nova_gui-Views.webp",
-    "id": 27
-  },
-  {
-    "title": "AI could detect diabetes from voice recordings",
-    "url": "https://www.telegraph.co.uk/news/2026/09/29/ai-could-detect-diabetes-from-voice-recordings/",
-    "source": "Hacker News",
-    "date": "2026-09-29",
-    "summary": "Article URL: https://www.telegraph.co.uk/news/2026/09/29/ai-could-detect-diabetes-from-voice-recordings/ Comments URL: https://news.ycombinator.com/item?id=49899106 Points: 2 # Comments: 0",
-    "category": "industry",
-    "image": "https://www.telegraph.co.uk/content/dam/news/2026/09/28/TELEMMGLPICT000505137587_17906186274100_trans_NvBQzQNjv4BqpVlberWd9EgFPZtcLiMQf0Rf_Wk3V23H2268P_XkPxc.jpeg?impolicy=OG-Standard",
     "id": 28
-  },
-  {
-    "title": "AI needs $6T in annual revenue to justify data centre boom",
-    "url": "https://www.thenationalnews.com/future/technology/2026/09/29/ai-industry-needs-to-earn-6-trillion-by-2031-to-justify-data-centres/",
-    "source": "Hacker News",
-    "date": "2026-09-29",
-    "summary": "Article URL: https://www.thenationalnews.com/future/technology/2026/09/29/ai-industry-needs-to-earn-6-trillion-by-2031-to-justify-data-centres/ Comments URL: https://news.ycombinator.com/item?id=49898...",
-    "category": "industry",
-    "image": "https://www.thenationalnews.com/resizer/v2/AF2G77RA6A5SI26KUSHKI23WN4.jpg?auth=ecf4aabd37ddc7f9130f7d84174c84eed6ab9343d667ed95d2b8731b313ddfd0&smart=true&width=1200&height=630",
-    "id": 29
-  },
-  {
-    "title": "Show HN: Agentcap – eBPF exporter for AI-agent activity to Grafana",
-    "url": "https://github.com/yeet-src/agentcap",
-    "source": "Hacker News",
-    "date": "2026-09-29",
-    "summary": "Article URL: https://github.com/yeet-src/agentcap Comments URL: https://news.ycombinator.com/item?id=49898915 Points: 3 # Comments: 0",
-    "category": "industry",
-    "image": "https://repository-images.githubusercontent.com/1395919528/f26769ce-312b-4208-bf23-77228233f2fc",
-    "id": 30
-  },
-  {
-    "title": "I built a self-improving voice AI agent that runs offline on a RPi5",
-    "url": "https://github.com/mobium-app/ai_astro_public",
-    "source": "Hacker News",
-    "date": "2026-09-29",
-    "summary": "Article URL: https://github.com/mobium-app/ai_astro_public Comments URL: https://news.ycombinator.com/item?id=49898897 Points: 2 # Comments: 0",
-    "category": "industry",
-    "image": "https://opengraph.githubassets.com/15f29bfea8f1b217c6a0f3b2ed9f112934eaac04b051df29374b533cb6f66648/mobium-app/ai_astro_public",
-    "id": 31
-  },
-  {
-    "title": "LibreOffice Conference 2026: Building a free AI assistant extension for Writer [video]",
-    "url": "https://www.youtube.com/watch?v=QkzRPeZxmtE",
-    "source": "Hacker News",
-    "date": "2026-09-29",
-    "summary": "Article URL: https://www.youtube.com/watch?v=QkzRPeZxmtE Comments URL: https://news.ycombinator.com/item?id=49898853 Points: 1 # Comments: 0",
-    "category": "tools",
-    "id": 32
-  },
-  {
-    "title": "AI-Powered Financial Modeling Works Now",
-    "url": "https://www.modeloptic.com/blog/ai-financial-modeling-works-now",
-    "source": "Hacker News",
-    "date": "2026-09-29",
-    "summary": "Article URL: https://www.modeloptic.com/blog/ai-financial-modeling-works-now Comments URL: https://news.ycombinator.com/item?id=49898846 Points: 1 # Comments: 0",
-    "category": "industry",
-    "image": "https://modeloptic-public.s3.us-east-2.amazonaws.com/blog/ai-financial-modeling-works-now/og-2026-09-25.png",
-    "id": 33
-  },
-  {
-    "title": "How Long Will the AI Boom Last? Memory Stocks Offer Clues",
-    "url": "https://www.wsj.com/tech/ai/how-long-will-the-ai-boom-last-memory-stocks-offer-clues-622be948",
-    "source": "Hacker News",
-    "date": "2026-09-29",
-    "summary": "Article URL: https://www.wsj.com/tech/ai/how-long-will-the-ai-boom-last-memory-stocks-offer-clues-622be948 Comments URL: https://news.ycombinator.com/item?id=49898757 Points: 2 # Comments: 1",
-    "category": "hardware",
-    "id": 34
-  },
-  {
-    "title": "Designing a Programming Language for the AI Era",
-    "url": "https://zena-lang.dev/blog/2026/09/languages-for-the-ai-era/",
-    "source": "Hacker News",
-    "date": "2026-09-29",
-    "summary": "Article URL: https://zena-lang.dev/blog/2026/09/languages-for-the-ai-era/ Comments URL: https://news.ycombinator.com/item?id=49898748 Points: 1 # Comments: 0",
-    "category": "industry",
-    "image": "https://images.unsplash.com/photo-1526374965328-7f61d4dc18c5?auto=format&fit=crop&w=1600&q=80",
-    "id": 35
-  },
-  {
-    "title": "Yet Another AI Security OSS Externality",
-    "url": "http://blog.holdenkarau.com/2026/09/yet-another-ai-security-oss-externality.html",
-    "source": "Hacker News",
-    "date": "2026-09-29",
-    "summary": "Article URL: http://blog.holdenkarau.com/2026/09/yet-another-ai-security-oss-externality.html Comments URL: https://news.ycombinator.com/item?id=49898725 Points: 3 # Comments: 0",
-    "category": "industry",
-    "image": "https://blogger.googleusercontent.com/img/a/AVvXsEiJHGRXwkwlL-Vg8rU3idkjv7IA6ISTA49zsnyjBCrKOpvNkqE3Ur-T25DXAnH2WzmmVK6SiNlB2oVUxp_P2zqkT7cdjt3OmFdxjLP5kKHrUH2D-2YD8JcwzYf_8_xudUFO1TSYS7RWMOaZkfNSXhrb3da9b3Hs7yDehTF3BW9Rnl_RSmV4FRGw=w1200-h630-p-k-no-nu",
-    "id": 36
-  },
-  {
-    "title": "Diffusion Controller unifies and simplifies AI image generation",
-    "url": "https://research.google/blog/how-diffusion-controller-unifies-and-simplifies-ai-image-generation/",
-    "source": "Hacker News",
-    "date": "2026-09-29",
-    "summary": "Article URL: https://research.google/blog/how-diffusion-controller-unifies-and-simplifies-ai-image-generation/ Comments URL: https://news.ycombinator.com/item?id=49898656 Points: 1 # Comments: 0",
-    "category": "models",
-    "image": "https://storage.googleapis.com/gweb-research2023-media/images/HO_previewImage1.width-800.format-jpeg.jpg",
-    "id": 37
-  },
-  {
-    "title": "Blygger: AI-intertwingled diachronic-synchronic social publishing – blygger",
-    "url": "https://blygger.org/talks/2026-09-24-blygger/",
-    "source": "Hacker News",
-    "date": "2026-09-29",
-    "summary": "Article URL: https://blygger.org/talks/2026-09-24-blygger/ Comments URL: https://news.ycombinator.com/item?id=49898495 Points: 1 # Comments: 0",
-    "category": "industry",
-    "id": 38
-  },
-  {
-    "title": "GPT-6.1 Sol: Release Intelligence, Performance and Price",
-    "url": "https://artificialanalysis.ai/models/releases/gpt-6-1-sol",
-    "source": "Hacker News",
-    "date": "2026-09-29",
-    "summary": "Article URL: https://artificialanalysis.ai/models/releases/gpt-6-1-sol Comments URL: https://news.ycombinator.com/item?id=49898469 Points: 2 # Comments: 0",
-    "category": "models",
-    "image": "https://artificialanalysis.ai/opengraph-image.png?732728ccc2829321",
-    "id": 39
-  },
-  {
-    "title": "Anthropic's $518B AI buildout hinges largely on deals that cannot be canceled",
-    "url": "https://www.reuters.com/business/anthropics-518-billion-ai-buildout-hinges-largely-deals-that-cannot-be-canceled-2026-09-29/",
-    "source": "Hacker News",
-    "date": "2026-09-29",
-    "summary": "Article URL: https://www.reuters.com/business/anthropics-518-billion-ai-buildout-hinges-largely-deals-that-cannot-be-canceled-2026-09-29/ Comments URL: https://news.ycombinator.com/item?id=49898457 Po...",
-    "category": "industry",
-    "id": 40
-  },
-  {
-    "title": "The AI margin collapse is gathering pace",
-    "url": "https://martinalderson.com/posts/ai-margin-collapse-gathering-pace/",
-    "source": "Hacker News",
-    "date": "2026-09-29",
-    "summary": "Article URL: https://martinalderson.com/posts/ai-margin-collapse-gathering-pace/ Comments URL: https://news.ycombinator.com/item?id=49898418 Points: 5 # Comments: 0",
-    "category": "industry",
-    "image": "https://martinalderson.com/img/og/the-ai-margin-collapse-is-gathering-pace.png",
-    "id": 41
-  },
-  {
-    "title": "An LLM Workflow That Reproduces, Improves, Extends Published Economics Research",
-    "url": "https://www.nber.org/papers/w35782",
-    "source": "Hacker News",
-    "date": "2026-09-29",
-    "summary": "Article URL: https://www.nber.org/papers/w35782 Comments URL: https://news.ycombinator.com/item?id=49898416 Points: 2 # Comments: 1",
-    "category": "research",
-    "image": "https://www.nber.org/sites/default/files/2022-06/NBER-FB-Share-Tile-1200.jpg",
-    "id": 42
-  },
-  {
-    "title": "Show HN: Relay – a harness for AI coding agents that recover and verify",
-    "url": "https://relayevals.com",
-    "source": "Hacker News",
-    "date": "2026-09-29",
-    "summary": "I'm tired of AI coding agents which are good for 30 seconds and then completely fail on the slightest hiccup: a failing test, a temporarily unavailable dependency, an incorrect assumption. Sometimes I...",
-    "category": "models",
-    "image": "https://relayevals.com/opengraph-image.png?f7240ac36ac8f0e0",
-    "id": 43
-  },
-  {
-    "title": "GPT-6.1 Sol (Max): Intelligence, Performance and Price Analysis",
-    "url": "https://artificialanalysis.ai/models/gpt-6-1-sol",
-    "source": "Hacker News",
-    "date": "2026-09-29",
-    "summary": "Article URL: https://artificialanalysis.ai/models/gpt-6-1-sol Comments URL: https://news.ycombinator.com/item?id=49898379 Points: 4 # Comments: 0",
-    "category": "models",
-    "image": "https://artificialanalysis.ai/en/models/gpt-6-1-sol/opengraph-image?d392391ef847e7c2",
-    "id": 44
-  },
-  {
-    "title": "Attack your own AI agent in under 10 minutes – then secure it before deploying",
-    "url": "https://www.humanbound.ai/blog/attack-your-own-ai-agent-in-under-10-minutes-then-secure-it-before-deploying",
-    "source": "Hacker News",
-    "date": "2026-09-29",
-    "summary": "Article URL: https://www.humanbound.ai/blog/attack-your-own-ai-agent-in-under-10-minutes-then-secure-it-before-deploying Comments URL: https://news.ycombinator.com/item?id=49898362 Points: 1 # Comment...",
-    "category": "industry",
-    "image": "https://cdn.sanity.io/images/z4wrrolp/production/ba9cc183533f27671585e36b5494d6e33169dddf-1200x630.jpg",
-    "id": 45
   },
   {
     "title": "Making AI an asset, not an expense",
@@ -450,7 +285,7 @@
     "summary": "When customers talk about AI costs, the conversation usually starts with token prices and ends with access to the latest, most capable model in the cloud. Do they always need that level of capability?...",
     "category": "industry",
     "image": "https://wp.technologyreview.com/wp-content/uploads/2026/09/Cheri-blog.jpg?resize=1200,600",
-    "id": 46
+    "id": 29
   },
   {
     "title": "OpenAI Gets Sued Over the Hugging Face Hack",
@@ -460,7 +295,7 @@
     "summary": "A nonprofit in California is doing what Hugging Face has not—attempting to hold OpenAI legally accountable for the actions of its agents.",
     "category": "tools",
     "image": "https://media.wired.com/photos/6abbb935c1a080d8e4e23844/191:100/w_1280,c_limit/GettyImages-2265991617.jpg",
-    "id": 47
+    "id": 30
   },
   {
     "title": "Anthropic Says It Discovered a Crispr-Like System. Now What?",
@@ -470,7 +305,7 @@
     "summary": "“The experiments are still in the queue. The PR is already live,” says one expert.",
     "category": "industry",
     "image": "https://media.wired.com/photos/6abbc40baa4c41ce1b0d6fa0/191:100/w_1280,c_limit/092926-AI%20Science%20Discovery.jpg",
-    "id": 48
+    "id": 31
   },
   {
     "title": "OpenAI’s Dots Are Always-On AI Agents—and Its Answer to Meta’s Muse",
@@ -480,7 +315,7 @@
     "summary": "These cute agents are designed to connect to your apps and tackle multistep tasks.",
     "category": "industry",
     "image": "https://media.wired.com/photos/6abbcee9422fade848ea964d/191:100/w_1280,c_limit/Dots%20Hero%20Image.png",
-    "id": 49
+    "id": 32
   },
   {
     "title": "OpenAI Delays Release of Latest Model Over Safety Concerns",
@@ -490,6 +325,160 @@
     "summary": "The company said its latest Astra model would undergo more work to meet safety standards, and issued an apology for the way it handled the hacking of an Australian government website.",
     "category": "research",
     "image": "https://media.wired.com/photos/6abb79f89de9cbda7c9ca7ba/191:100/w_1280,c_limit/092926-OpenAI%20Scrap.jpg",
+    "id": 33
+  },
+  {
+    "title": "Timnit Gebru Believes There Is No ‘Existential Threat’ From AI",
+    "url": "https://www.wired.com/story/the-big-interview-podcast-timnit-gebru/",
+    "source": "Wired",
+    "date": "2026-09-29",
+    "summary": "One of AI’s fiercest critics believes the doom talk is about founders making money, not saving humanity.",
+    "category": "industry",
+    "image": "https://media.wired.com/photos/6ab58bd8630fd3fdf523eab4/191:100/w_1280,c_limit/Big-Interview-UV-Solo-Timnit-Gebru-2266305419-Business.jpg",
+    "id": 34
+  },
+  {
+    "title": "SMARtCARE: Privacy-Preserving Agentic AI Systems for Bounded-Autonomy Clinical Decision Support",
+    "url": "https://arxiv.org/abs/2609.31763",
+    "source": "arXiv cs.AI",
+    "date": "2026-09-29",
+    "summary": "Long-context clinical AI systems can miss relevant patient history when prior admissions fall outside the active reasoning context. In ICU monitoring, this can cause early vital-sign drift to appear n...",
+    "category": "research",
+    "id": 35
+  },
+  {
+    "title": "Witeness Overlap: Directional Provenance Inside Open-Weight Model Families",
+    "url": "https://arxiv.org/abs/2609.31784",
+    "source": "arXiv cs.AI",
+    "date": "2026-09-29",
+    "summary": "Open-weight models are often released, fine-tuned, aligned, merged, and re-released, making provenance audits ask not only whether checkpoints are related, but also which checkpoint came first. Many e...",
+    "category": "models",
+    "id": 36
+  },
+  {
+    "title": "CP-Agent: A Harness-Engineered Agent for Crystal Plasticity Simulation Workflows",
+    "url": "https://arxiv.org/abs/2609.31790",
+    "source": "arXiv cs.AI",
+    "date": "2026-09-29",
+    "summary": "Crystal plasticity (CP) simulations predict the mechanical behavior of polycrystalline metals, yet their routine use is hindered by the manual effort of configuring heterogeneous tools, orchestrating ...",
+    "category": "research",
+    "id": 37
+  },
+  {
+    "title": "ConflictVLA-Bench: Benchmarking Behavioral Responses of Vision-Language-Action Models to Premise Conflicts",
+    "url": "https://arxiv.org/abs/2609.31792",
+    "source": "arXiv cs.AI",
+    "date": "2026-09-29",
+    "summary": "While Vision-Language-Action (VLA) models perform strongly on manipulation tasks, their responses to invalid task premises remain underexplored. Existing evaluations of premise conflicts often focus o...",
+    "category": "research",
+    "id": 38
+  },
+  {
+    "title": "Working with AI: A Design Framework for Human-AI Collaboration",
+    "url": "https://arxiv.org/abs/2609.31793",
+    "source": "arXiv cs.AI",
+    "date": "2026-09-29",
+    "summary": "Artificial Intelligence (AI), particularly GenAI, is becoming an increasingly important part of modern work. In industrial settings, AI can support decision-making, automate routine activities, assist...",
+    "category": "research",
+    "id": 39
+  },
+  {
+    "title": "DriveHierarchy: A Benchmark for Diagnosing VLM Driving Capabilities from Open-Loop Understanding to Closed-Loop Execution",
+    "url": "https://arxiv.org/abs/2609.31814",
+    "source": "arXiv cs.AI",
+    "date": "2026-09-29",
+    "summary": "Evaluating VLM-based autonomous driving remains difficult because driving competence is composite, where a capable system must ground traffic participants and hazards, integrate context across views a...",
+    "category": "research",
+    "id": 40
+  },
+  {
+    "title": "LLM Judge Validation Under Sparse Overlap: From Inference to Design",
+    "url": "https://arxiv.org/abs/2609.31857",
+    "source": "arXiv cs.AI",
+    "date": "2026-09-29",
+    "summary": "Validating an LLM-as-a-judge requires estimating its agreement with humans, yet annotation budgets rarely allow every item to be multiply labeled. We prove that this \\emph{overlap sparsity} is the fir...",
+    "category": "research",
+    "id": 41
+  },
+  {
+    "title": "Metro-WM: Long-Horizon Latent Planning with Realisable Sub-Goals",
+    "url": "https://arxiv.org/abs/2609.31868",
+    "source": "arXiv cs.AI",
+    "date": "2026-09-29",
+    "summary": "Model-predictive control with Joint-Embedding Predictive Architectures (JEPAs) provides a strong zero-shot goal-reaching planner, but it is only effective over short planning horizons. Hierarchical ex...",
+    "category": "research",
+    "id": 42
+  },
+  {
+    "title": "IndustryLLM: Failure-Driven LLM Training for Industrial Procurement",
+    "url": "https://arxiv.org/abs/2609.31871",
+    "source": "arXiv cs.AI",
+    "date": "2026-09-29",
+    "summary": "Industrial procurement requires language models to bridge informal buyer jargon, sparse marketplace attributes, and authoritative engineering standards under strict safety tolerances. We present Indus...",
+    "category": "models",
+    "id": 43
+  },
+  {
+    "title": "COUNTERMEM: World-Model Verified Counter-Factual Memory for Language Agents",
+    "url": "https://arxiv.org/abs/2609.31874",
+    "source": "arXiv cs.AI",
+    "date": "2026-09-29",
+    "summary": "Existing agent memory frameworks mainly create memory through an agent's interaction with the factual world, e.g., remembering feedback from actions taken to improve performance on future tasks. Howev...",
+    "category": "models",
+    "id": 44
+  },
+  {
+    "title": "Context-dependent agent evaluation with orthogonal equilibrium learning",
+    "url": "https://arxiv.org/abs/2609.31897",
+    "source": "arXiv cs.AI",
+    "date": "2026-09-29",
+    "summary": "Many applications require to evaluate agents under contextual information (e.g., a prompt, task, or user group). We study how to perform such context-dependent agent evaluation from offline feedback. ...",
+    "category": "research",
+    "id": 45
+  },
+  {
+    "title": "Choir: An Open Protocol for Distributed Multi-Agent Autoformalization",
+    "url": "https://arxiv.org/abs/2609.31903",
+    "source": "arXiv cs.AI",
+    "date": "2026-09-29",
+    "summary": "AI agents can now formalize entire textbooks and major theorems in proof assistants such as Lean, but current efforts are typically centralized: a single team runs all agents and bears the full comput...",
+    "category": "models",
+    "id": 46
+  },
+  {
+    "title": "EmailBench: A Benchmark for Evaluating LLM Agents on Enterprise Email and Productivity Tasks",
+    "url": "https://arxiv.org/abs/2609.31906",
+    "source": "arXiv cs.AI",
+    "date": "2026-09-29",
+    "summary": "Enterprise email agents must combine information retrieval, structured state changes, temporal reasoning, and multi-step coordination. Recent agent benchmarks include productivity tasks, but few cente...",
+    "category": "research",
+    "id": 47
+  },
+  {
+    "title": "Improving Medical Calculation of LLMs with Embedded Coding",
+    "url": "https://arxiv.org/abs/2609.31908",
+    "source": "arXiv cs.AI",
+    "date": "2026-09-29",
+    "summary": "Large Language Models (LLMs) perform well on medical examinations and question-answering benchmarks, but remain unreliable on medical calculation tasks that require exact numerical outputs. These calc...",
+    "category": "models",
+    "id": 48
+  },
+  {
+    "title": "BioDyad: Synchronize Biomedical Discovery and Machine Learning Engineering",
+    "url": "https://arxiv.org/abs/2609.31939",
+    "source": "arXiv cs.AI",
+    "date": "2026-09-29",
+    "summary": "Agentic biomedical machine learning (ML) draws on complementary advances in biomedical evidence acquisition and executable program search. Existing systems connect aspects of these capabilities, but c...",
+    "category": "models",
+    "id": 49
+  },
+  {
+    "title": "Symbolic Guidance for LLM Agents in Distributed Multiagent Coordination",
+    "url": "https://arxiv.org/abs/2609.31963",
+    "source": "arXiv cs.AI",
+    "date": "2026-09-29",
+    "summary": "Large language models (LLMs) are increasingly deployed as autonomous agents in multi-agent systems, yet their ability to reliably execute distributed coordination protocols remains poorly understood. ...",
+    "category": "models",
     "id": 50
   }
 ]
