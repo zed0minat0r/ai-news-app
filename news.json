@@ -1,5 +1,66 @@
 [
   {
+    "title": "Buying used CPUs can expose users to existing bans from anti-cheat engines, and there's no way to check for violations before purchase",
+    "url": "https://www.tomshardware.com/video-games/pc-gaming/buying-used-cpus-can-expose-users-to-existing-bans-from-anti-cheat-engines-some-anti-cheat-engines-enforce-permanent-bans-while-others-have-an-expiration-date",
+    "source": "Tom's Hardware",
+    "date": "2026-10-03",
+    "summary": "The CPU's previous owner apparently used it for cheating on Valorant, with its HWID getting flagged by Vanguard. When the Redditor bought and installed it on their PC, their Valorant account received ...",
+    "category": "hardware",
+    "image": "https://cdn.mos.cms.futurecdn.net/cShj4QFjByrxQNScUGKzq3-1920-80.jpg",
+    "id": 1,
+    "featured": true
+  },
+  {
+    "title": "This week on Tom's Hardware Premium: October 3, 2026",
+    "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/this-week-on-toms-hardware-premium-october-3-2026-ai-chip-design-week-openai-interview-and-ai-agent-safety",
+    "source": "Tom's Hardware",
+    "date": "2026-10-03",
+    "summary": "This week on Tom's Hardware Premium, we open the floodgates with a free-to-access chip design week, including expert interviews, a sit-down with OpenAI on its custom ASIC, and much more.",
+    "category": "hardware",
+    "image": "https://cdn.mos.cms.futurecdn.net/xYwy6BphRNaiV52nCF7ghn-1920-80.jpg",
+    "id": 2
+  },
+  {
+    "title": "Steam hits record $1.7 billion in September 2026 despite soaring PC hardware costs",
+    "url": "https://www.tomshardware.com/video-games/pc-gaming/steam-revenue-hit-usd1-7-billion-in-september-2026-pc-gaming-spending-grows-despite-skyrocketing-hardware-costs",
+    "source": "Tom's Hardware",
+    "date": "2026-10-03",
+    "summary": "Steam's latest revenues highlight continued strength in PC gaming, with players continuing to spend heavily even as the cost of building and upgrading gaming PCs rises.",
+    "category": "industry",
+    "image": "https://cdn.mos.cms.futurecdn.net/UrZpYibo9huHdvNjjgUMjF-1920-80.png",
+    "id": 3
+  },
+  {
+    "title": "AI agents use 5x more tokens than humans as cached prompts explode, headed for 10x",
+    "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/futurum-ceo-says-agents-use-ai-5x-more-than-humans-number-will-eventually-hit-10x-but-agents-are-mostly-rereading-what-theyve-already-seen",
+    "source": "Tom's Hardware",
+    "date": "2026-10-03",
+    "summary": "Daniel Newman’s number comes from OpenRouter data, where agents passed humans in February and grew 14x by August.",
+    "category": "industry",
+    "image": "https://cdn.mos.cms.futurecdn.net/hNQivoNg7PnAeRNSivatuR-1920-80.png",
+    "id": 4
+  },
+  {
+    "title": "Google freezes open-source bug bounty program amid flood of invalid AI slop submissions",
+    "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/google-suspends-part-of-the-oss-vrp-bug-bounty-program-due-to-an-influx-of-invalid-ai-submissions-product-vulnerability-submissions-ended-october-1",
+    "source": "Tom's Hardware",
+    "date": "2026-10-03",
+    "summary": "Google suspends product vulnerability submissions to its Open Source Software Vulnerability Reward Program (OSS VRP) over an influx of invalid AI-driven reports.",
+    "category": "tools",
+    "image": "https://cdn.mos.cms.futurecdn.net/CrscyWC2mg69wBbrK9dcpa-1920-80.jpg",
+    "id": 5
+  },
+  {
+    "title": "California subpoenas OpenAI over rogue AI agents conducting hacking attacks",
+    "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/california-subpoenas-openai-as-it-investigates-huggingface-breach-doj-wants-more-information-on-cybersecurity-incidents-to-determine-developer-responsibility",
+    "source": "Tom's Hardware",
+    "date": "2026-10-03",
+    "summary": "California state Attorney General Rob Bonta issued a subpoena to OpenAI, compelling it to submit information on the hacking incidents that its models have been involved in. While the investigators hav...",
+    "category": "tools",
+    "image": "https://cdn.mos.cms.futurecdn.net/7kh2DN38axXggaLAdFogKm-1920-80.png",
+    "id": 6
+  },
+  {
     "title": "Amazon promises to spend $1 billion on communities close to its data centers, but critics push back",
     "url": "https://www.tomshardware.com/tech-industry/data-centers/amazon-promises-to-spend-usd1-billion-on-communities-close-to-its-data-centers-but-critics-push-back-planned-spend-accounts-for-just-0-1-percent-of-its-2026-ai-infrastructure-investments",
     "source": "Tom's Hardware",
@@ -7,8 +68,7 @@
     "summary": "AWS CEO Matt Garman said in a company blog post that it will allocate $1 billion over five years to key issues that data center communities raised, including education, workforce pathways, energy affo...",
     "category": "industry",
     "image": "https://cdn.mos.cms.futurecdn.net/SnihTFB2iy2sVR4QF2ETM8-1920-80.png",
-    "id": 1,
-    "featured": true
+    "id": 7
   },
   {
     "title": "AMD’s secret Zen 3 gaming CPU had 128MB of game-boosting L3 cache but never saw the light of day",
@@ -18,7 +78,7 @@
     "summary": "A user from the Chinese Chiphell forums shows off AMD's unreleased Ryzen 9 5900X3D, the X3D variant of the Ryzen 9 5900X.",
     "category": "hardware",
     "image": "https://cdn.mos.cms.futurecdn.net/m3dRq2q5uSJYsdSArrRdce-1920-80.jpg",
-    "id": 2
+    "id": 8
   },
   {
     "title": "ChatGPT-6 Astra plays World of Warcraft 'blind' and clears the orc starting zone in 40 minutes with no deaths",
@@ -28,188 +88,27 @@
     "summary": "The model created its own World of Warcraft pathfinder on a private server with one prompt in OpenAI's Codex.",
     "category": "models",
     "image": "https://cdn.mos.cms.futurecdn.net/ujZwJwwyt3MAzvTPaTAe34-1920-80.png",
-    "id": 3
-  },
-  {
-    "title": "Developers Delete Unit Test Lines with AI Shift",
-    "url": "https://x.com/i/trending/2106211685782483337",
-    "source": "Hacker News",
-    "date": "2026-10-03",
-    "summary": "Article URL: https://x.com/i/trending/2106211685782483337 Comments URL: https://news.ycombinator.com/item?id=49943189 Points: 1 # Comments: 0",
-    "category": "tools",
-    "image": "https://pbs.twimg.com/media/HTrJnpGbcAAkg2n?format=webp&name=medium",
-    "id": 4
-  },
-  {
-    "title": "Show HN: Germany's new sovereign AI model Kolibri",
-    "url": "https://tej.as/blog/aleph-alpha-kolibri",
-    "source": "Hacker News",
-    "date": "2026-10-03",
-    "summary": "Article URL: https://tej.as/blog/aleph-alpha-kolibri Comments URL: https://news.ycombinator.com/item?id=49943034 Points: 4 # Comments: 0",
-    "category": "industry",
-    "image": "https://tej.as/img/og/blog/aleph-alpha-kolibri.png",
-    "id": 5
-  },
-  {
-    "title": "Defensibility in AI Data: Lessons from Ads",
-    "url": "https://twitter.com/gokulr/status/2105838034646077890",
-    "source": "Hacker News",
-    "date": "2026-10-03",
-    "summary": "Article URL: https://twitter.com/gokulr/status/2105838034646077890 Comments URL: https://news.ycombinator.com/item?id=49942940 Points: 1 # Comments: 0",
-    "category": "industry",
-    "image": "https://pbs.twimg.com/media/HTlwZZ7WMAALeiq?format=webp&name=large",
-    "id": 6
-  },
-  {
-    "title": "Show HN: Beautiful form back end for AI agents – Nisuform",
-    "url": "https://nisuform.com/",
-    "source": "Hacker News",
-    "date": "2026-10-03",
-    "summary": "Hi! everyone, really excited to share my latest project, which is a form backend service that's very easy to setup. Feel free to ask anything about it :) Comments URL: https://news.ycombinator.com/ite...",
-    "category": "industry",
-    "image": "https://nisuform.com/og-image.png",
-    "id": 7
-  },
-  {
-    "title": "An AI agent emailed researchers for help. It told us why",
-    "url": "https://www.science.org/content/article/exclusive-ai-agent-emailed-hundreds-researchers-help-it-told-us-why",
-    "source": "Hacker News",
-    "date": "2026-10-03",
-    "summary": "Article URL: https://www.science.org/content/article/exclusive-ai-agent-emailed-hundreds-researchers-help-it-told-us-why Comments URL: https://news.ycombinator.com/item?id=49942865 Points: 34 # Commen...",
-    "category": "research",
-    "id": 8
-  },
-  {
-    "title": "Mystery AI Hype Theater 3000 [video]",
-    "url": "https://dair-institute.org/maiht3k/",
-    "source": "Hacker News",
-    "date": "2026-10-03",
-    "summary": "Article URL: https://dair-institute.org/maiht3k/ Comments URL: https://news.ycombinator.com/item?id=49942847 Points: 1 # Comments: 0",
-    "category": "industry",
-    "image": "https://cdn.sanity.io/images/wc2kmxvk/rebrand/796af217ffe26031dc6039bcb1562018f501673c-2829x1479.png",
     "id": 9
   },
   {
-    "title": "A document layer for AI agents",
-    "url": "https://www.claix.dev",
-    "source": "Hacker News",
+    "title": "All the AI agents that can live in your text messages",
+    "url": "https://techcrunch.com/2026/10/03/all-the-ai-agents-that-can-live-in-your-text-messages/",
+    "source": "TechCrunch",
     "date": "2026-10-03",
-    "summary": "Article URL: https://www.claix.dev Comments URL: https://news.ycombinator.com/item?id=49942838 Points: 1 # Comments: 0",
+    "summary": "We created a list of the most notable AI agents that can live in your text messages, from general assistants to agents designed for families, travel, and work.",
     "category": "industry",
+    "image": "https://techcrunch.com/wp-content/uploads/2017/12/gettyimages-673436934.jpg?resize=1200,813",
     "id": 10
   },
   {
-    "title": "AI-powered survey creation and analysis",
-    "url": "https://crowdlee.com/",
-    "source": "Hacker News",
+    "title": "Muse Creates Detailed Profiles of All Your Friends and Family",
+    "url": "https://www.wired.com/story/muse-creates-detailed-profiles-of-all-your-friends-and-family/",
+    "source": "Wired",
     "date": "2026-10-03",
-    "summary": "Article URL: https://crowdlee.com/ Comments URL: https://news.ycombinator.com/item?id=49942613 Points: 3 # Comments: 1",
+    "summary": "Millions have downloaded Meta’s AI agent Muse. But getting it to do your bidding comes with privacy costs.",
     "category": "industry",
+    "image": "https://media.wired.com/photos/6abda258fa5a1bd6e2b21507/191:100/w_1280,c_limit/Kernel-Panic-Muse-AI-Self-PWN-Security.jpg",
     "id": 11
-  },
-  {
-    "title": "Some topics are off limits inside popular Chinese-made free AI, researchers find",
-    "url": "https://www.cbsnews.com/news/china-ai-qwen-artificial-intelligence-bias-analysis/",
-    "source": "Hacker News",
-    "date": "2026-10-03",
-    "summary": "Article URL: https://www.cbsnews.com/news/china-ai-qwen-artificial-intelligence-bias-analysis/ Comments URL: https://news.ycombinator.com/item?id=49942578 Points: 2 # Comments: 0",
-    "category": "models",
-    "image": "https://assets2.cbsnewsstatic.com/hub/i/r/2026/10/02/00208f19-d10e-4717-9565-d8012802ac36/thumbnail/1200x630/a88081719b0870b71253bdf3fe7ad8cc/gettyimages-2297443797.jpg",
-    "id": 12
-  },
-  {
-    "title": "Show HN: GhostBench – do AI models recommend dead SaaS? I tested my own thesis",
-    "url": "https://github.com/kyv-attest/kyv",
-    "source": "Hacker News",
-    "date": "2026-10-03",
-    "summary": "Article URL: https://github.com/kyv-attest/kyv Comments URL: https://news.ycombinator.com/item?id=49942554 Points: 1 # Comments: 0",
-    "category": "industry",
-    "image": "https://opengraph.githubassets.com/dc76e5623795ca81e54f89765118060c9af81dce7e896428dbfc4a474f203d03/kyv-attest/kyv",
-    "id": 13
-  },
-  {
-    "title": "Show HN: UsageAtlas(OSS), All your AI coding usage insights. One beautiful view",
-    "url": "https://usageatlas.com",
-    "source": "Hacker News",
-    "date": "2026-10-03",
-    "summary": "Track AI coding usage across 14 providers. Token history, available cost estimates, credits, and usage limits in one free, open-source desktop app. Comments URL: https://news.ycombinator.com/item?id=4...",
-    "category": "hardware",
-    "image": "https://usageatlas.com/og/home.jpg",
-    "id": 14
-  },
-  {
-    "title": "Nobody Asked AI to Hack Hugging Face. So Why Did It?",
-    "url": "https://ankitjain.info/ankit/2026/09/28/ai-agents-sandboxes-hugging-face-incident/",
-    "source": "Hacker News",
-    "date": "2026-10-03",
-    "summary": "Article URL: https://ankitjain.info/ankit/2026/09/28/ai-agents-sandboxes-hugging-face-incident/ Comments URL: https://news.ycombinator.com/item?id=49942444 Points: 4 # Comments: 2",
-    "category": "tools",
-    "id": 15
-  },
-  {
-    "title": "Show HN: Collaborative AI Engineering",
-    "url": "https://griyd.com",
-    "source": "Hacker News",
-    "date": "2026-10-03",
-    "summary": "Hi HN! I launched Griyd a few days ago to help tackle some of the challenges we faced at my workplace. I’m really passionate about this project and think it has a lot of potential. I hope others will ...",
-    "category": "industry",
-    "image": "https://griyd.com/og-image.png",
-    "id": 16
-  },
-  {
-    "title": "AI Experts Want to Do High-Stakes Research Out in the Open",
-    "url": "https://www.wired.com/story/trillium-labs-wants-to-do-high-risk-ai-research-in-the-open/",
-    "source": "Hacker News",
-    "date": "2026-10-03",
-    "summary": "Article URL: https://www.wired.com/story/trillium-labs-wants-to-do-high-risk-ai-research-in-the-open/ Comments URL: https://news.ycombinator.com/item?id=49942380 Points: 1 # Comments: 0",
-    "category": "research",
-    "image": "https://media.wired.com/photos/6abfd54ac4eb41b65cf33011/191:100/w_1280,c_limit/Trillium-Labs-Risky-AI-Research-Business-edit.jpg",
-    "id": 17
-  },
-  {
-    "title": "Chamath says open AI models are \"commoditize your complement.\" Agree?",
-    "url": "https://news.ycombinator.com/item?id=49942208",
-    "source": "Hacker News",
-    "date": "2026-10-03",
-    "summary": "Chamath's argument (https://research.socialcapital.com/p/open-vs-closed): companies give away the thing they dont sell for free, so the thing they do sell is worth more. Meta makes money though ads, G...",
-    "category": "research",
-    "id": 18
-  },
-  {
-    "title": "In One Year I Went from AI Skeptic to AI Pilled",
-    "url": "https://openengine.cc/blog/ai-skeptic-to-ai-pilled/",
-    "source": "Hacker News",
-    "date": "2026-10-03",
-    "summary": "Article URL: https://openengine.cc/blog/ai-skeptic-to-ai-pilled/ Comments URL: https://news.ycombinator.com/item?id=49942107 Points: 2 # Comments: 0",
-    "category": "industry",
-    "id": 19
-  },
-  {
-    "title": "AI Effect",
-    "url": "https://en.wikipedia.org/wiki/AI_effect",
-    "source": "Hacker News",
-    "date": "2026-10-03",
-    "summary": "Article URL: https://en.wikipedia.org/wiki/AI_effect Comments URL: https://news.ycombinator.com/item?id=49942086 Points: 3 # Comments: 0",
-    "category": "industry",
-    "id": 20
-  },
-  {
-    "title": "French supercomputer maker Bull doubles output to boost Europe's AI ambitions",
-    "url": "https://www.reuters.com/world/europe/french-supercomputer-maker-bull-doubles-output-boost-europes-ai-ambitions-2026-10-01/",
-    "source": "Hacker News",
-    "date": "2026-10-03",
-    "summary": "Article URL: https://www.reuters.com/world/europe/french-supercomputer-maker-bull-doubles-output-boost-europes-ai-ambitions-2026-10-01/ Comments URL: https://news.ycombinator.com/item?id=49942023 Poin...",
-    "category": "hardware",
-    "id": 21
-  },
-  {
-    "title": "Would you use Hive-simpler AI agents?",
-    "url": "https://news.ycombinator.com/item?id=49941972",
-    "source": "Hacker News",
-    "date": "2026-10-03",
-    "summary": "We're building Hive — AI agents that are simpler and cheaper than existing solutions. Current problem: Existing platforms are too expensive and complex for small teams. Hive: Simple API. Actually work...",
-    "category": "tools",
-    "id": 22
   },
   {
     "title": "A model guide for the GPT-6 family",
@@ -218,7 +117,7 @@
     "date": "2026-10-02",
     "summary": "Learn how startups can choose GPT-6 models, tune reasoning effort, improve prompts and skills, coordinate tools, and prepare workflows for production.",
     "category": "models",
-    "id": 23
+    "id": 12
   },
   {
     "title": "Chatham scales its capital markets expertise with OpenAI",
@@ -227,7 +126,7 @@
     "date": "2026-10-02",
     "summary": "Chatham Financial uses Codex and GPT-5.6 to build technology and redesign workflows, cutting trade validation from 30 minutes to under 4.",
     "category": "models",
-    "id": 24
+    "id": 13
   },
   {
     "title": "The latest AI news we announced in September 2026",
@@ -237,7 +136,7 @@
     "summary": "Here are Google’s latest AI updates from September 2026",
     "category": "industry",
     "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/September_AI_Recap_hero.max-600x600.format-webp.webp",
-    "id": 25
+    "id": 14
   },
   {
     "title": "NVIDIA DGX Spark 64GB Gives Developers More Ways to Build and Scale Local AI",
@@ -247,7 +146,7 @@
     "summary": "Local AI is becoming more useful by the token. As AI agents move from experiments into everyday development, increasingly capable open models are shrinking to fit on more devices, giving builders more...",
     "category": "hardware",
     "image": "https://blogs.nvidia.com/wp-content/uploads/2026/10/nv-blog-1280x680-1.jpg",
-    "id": 26
+    "id": 15
   },
   {
     "title": "Apple changes full-disk access permissions to curb abuse from AI agents",
@@ -257,7 +156,7 @@
     "summary": "Meta says FDA isn't sufficient to Muse reading messages. Apple begs to differ.",
     "category": "industry",
     "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/02/gatekeeping-ai-agents-1152x648.jpg",
-    "id": 27
+    "id": 16
   },
   {
     "title": "Leaked Intel Nova Lake product list has three 'BFC' chips with up to 144MB of game-boosting L3 cache",
@@ -267,7 +166,7 @@
     "summary": "A table rumored to hold Intel's upcoming models for Nova Lake processors as surfaced, now referring to the heavily-rumored bLLC as \"BFC.\"",
     "category": "hardware",
     "image": "https://cdn.mos.cms.futurecdn.net/B4avSRi36yewaj7Wyj3k5Q-1920-80.jpg",
-    "id": 28
+    "id": 17
   },
   {
     "title": "California tech CEO arrested, faces up to 20 years in prison for smuggling $300 million in Nvidia AI servers to China",
@@ -277,7 +176,7 @@
     "summary": "U.S. authorities have arrested a California man accused of smuggling more than $300 million worth of export-controlled Nvidia-powered servers to China through Malaysia and Singapore, allegedly using f...",
     "category": "hardware",
     "image": "https://cdn.mos.cms.futurecdn.net/ZAPHkGJKVZQSB6dodho4D7-1920-80.jpg",
-    "id": 29
+    "id": 18
   },
   {
     "title": "Sony brings AI-powered upscaling to the standard PS5",
@@ -287,7 +186,7 @@
     "summary": "The base PS5 is getting an optimized version of Sony's AI-powered upscaling technology, offering developers a new way to improve image quality and stability without demanding more powerful hardware.",
     "category": "tools",
     "image": "https://cdn.mos.cms.futurecdn.net/nd79YEyZjKpereVXCPBBMD-1920-80.png",
-    "id": 30
+    "id": 19
   },
   {
     "title": "Amazon and Synopsys ink multi-year billion-dollar deal in multi-year IP agreement to accelerate AI chip design efforts",
@@ -297,7 +196,7 @@
     "summary": "Amazon and chip design tool maker Synopsys have inked a multi-year partnership worth over a billion dollars. As part of the arrangement, Amazon will license Synopsys' chip designs and its design tools...",
     "category": "industry",
     "image": "https://cdn.mos.cms.futurecdn.net/yobatAEjDQzCaExZNuCuof-1920-80.jpg",
-    "id": 31
+    "id": 20
   },
   {
     "title": "Nvidia introduces 64GB DGX Spark to throw local AI fans a lifeline amid the RAMpocalypse",
@@ -307,7 +206,7 @@
     "summary": "Nvidia is introducing a 64GB version of its DGX Spark local AI workstation that's tailored for a new generation of highly intelligent yet compact local models. Starting at $4999, the more affordable c...",
     "category": "hardware",
     "image": "https://cdn.mos.cms.futurecdn.net/D4D8sJFKUe4PFUpqUAPSfB-1920-80.jpg",
-    "id": 32
+    "id": 21
   },
   {
     "title": "OpenAI’s Jalapeño ASICs are deployed alongside AMD EPYC ‘Turin’ CPUs as hosts, not Nvidia's Vera",
@@ -317,7 +216,7 @@
     "summary": "OpenAI chose to pair rack-scale deployments of its Jalapeño ASIC with AMD EPYC Turin CPUs, not the wave of high-performance agentic chips like Arm’s AGI or Nvidia’s Vera.",
     "category": "hardware",
     "image": "https://cdn.mos.cms.futurecdn.net/9mJ37sc39kgcyEigsUfgNn-1920-80.jpg",
-    "id": 33
+    "id": 22
   },
   {
     "title": "Micro Center requires photo ID and signed no-export pledge to buy RTX 5090 gaming GPU",
@@ -327,7 +226,7 @@
     "summary": "The form requires RTX 5090 buyers to input their personal data before getting approved to make the purchase. However, it remains unclear how Micro Center can use this information to track illegally ex...",
     "category": "hardware",
     "image": "https://cdn.mos.cms.futurecdn.net/RH2UfQ4PEty8QdC39Tkoom-1920-80.jpg",
-    "id": 34
+    "id": 23
   },
   {
     "title": "PewDiePie unveils ‘uncensored’ Ajax AI model for home PCs",
@@ -337,7 +236,7 @@
     "summary": "PewDiePie says OpenAI banned him twice while he made Ajax, a fine-tuned Qwen3.5-9B agent.",
     "category": "models",
     "image": "https://cdn.mos.cms.futurecdn.net/EwKpSg7hHpSZWPEEPNNaT-1920-80.png",
-    "id": 35
+    "id": 24
   },
   {
     "title": "Sean Parker is rebuilding Stability AI around music",
@@ -347,7 +246,7 @@
     "summary": "Sean Parker, who once taught the music industry what asking for forgiveness looks like, is now back with the labels' blessing and money.",
     "category": "industry",
     "image": "https://techcrunch.com/wp-content/uploads/2026/10/Sean-Parker.jpg?w=1024",
-    "id": 36
+    "id": 25
   },
   {
     "title": "Apple says it’s tightening macOS ‘Full Disk Access’ controls due to new risks from AI agents",
@@ -357,7 +256,7 @@
     "summary": "Apple says it will add new controls around macOS’s Full Disk Access permission, warning that increasingly capable AI agents make broad access to users’ files, messages, mail, and browsing history risk...",
     "category": "industry",
     "image": "https://techcrunch.com/wp-content/uploads/2022/07/CMC_1580.jpg?resize=1200,800",
-    "id": 37
+    "id": 26
   },
   {
     "title": "Call it AI, call it Super Intelligence, only 2% of consumers are buying it",
@@ -367,7 +266,7 @@
     "summary": "This week, the White House got nearly every major tech CEO in one room — Zuckerberg, Bezos, Musk, and Anthropic’s Dario Amodei among them — to sign an AI safety pledge that President Donald Trump call...",
     "category": "industry",
     "image": "https://techcrunch.com/wp-content/uploads/2026/10/GettyImages-2297262633.jpg?resize=1200,800",
-    "id": 38
+    "id": 27
   },
   {
     "title": "It’s not AI anymore, it’s ‘super intelligence’ (according to the White House)",
@@ -377,7 +276,7 @@
     "summary": "This week, the White House got nearly every major tech CEO in one room — Zuckerberg, Bezos, Musk, and Anthropic’s Dario Amodei among them — to sign an AI safety pledge that President Donald Trump call...",
     "category": "industry",
     "image": "https://techcrunch.com/wp-content/uploads/2026/09/GettyImages-2297764008.jpg?w=1024",
-    "id": 39
+    "id": 28
   },
   {
     "title": "TechCrunch Disrupt 2026: Blackstone’s Jas Khaira on building the next generation of AI giants",
@@ -387,7 +286,7 @@
     "summary": "Blackstone's Jas Khaira will take the Builders Stage at TechCrunch Disrupt 2026 on building next-gen AI. Register for your pass and get 50% off a second.",
     "category": "industry",
     "image": "https://techcrunch.com/wp-content/uploads/2026/10/TCD26_1-Jas-Khaira_Speaker-16x9-Dark.png?resize=1200,675",
-    "id": 40
+    "id": 29
   },
   {
     "title": "Circuit Breaker Labs hopes to make AI safer for your kids (and you)",
@@ -397,7 +296,7 @@
     "summary": "With all the talk about how AI might one day kill us all, it's easy to forget that AI has already harmed some people psychologically. Circuit Breaker Labs has created \"crash-test dummies\" to solve tha...",
     "category": "industry",
     "image": "https://techcrunch.com/wp-content/uploads/2026/10/Circuit-Labs-founders-2.jpeg?resize=1200,1037",
-    "id": 41
+    "id": 30
   },
   {
     "title": "Pope Leo XIV is not a fan of AI-generated art",
@@ -407,7 +306,7 @@
     "summary": "\"There is an ontological difference, even before an aesthetic one, between art and what a machine can generate through statistical calculation based on millions of images created by others,\" the pope ...",
     "category": "research",
     "image": "https://techcrunch.com/wp-content/uploads/2025/06/Screenshot-2025-06-18-at-10.00.59AM.png?w=950",
-    "id": 42
+    "id": 31
   },
   {
     "title": "TechCrunch Disrupt 2026: Clay’s Kareem Amin on the rise of the GTM engineer",
@@ -417,7 +316,7 @@
     "summary": "Clay Co-founder and CEO Kareem Amin joins the AI Stage to discuss the rise of GTM engineer at TechCrunch Disrupt 2026. Register for your ticket and get a second pass at 50% off.",
     "category": "industry",
     "image": "https://techcrunch.com/wp-content/uploads/2026/10/TCD26_1-Kareem-Amin_Speaker-16x9-Dark.png?resize=1200,675",
-    "id": 43
+    "id": 32
   },
   {
     "title": "Redefining enterprise intelligence with autonomous AI",
@@ -427,7 +326,7 @@
     "summary": "Enterprise AI is no longer a future ambition. It is in full operational flight. Model capabilities are advancing faster than most organizations can absorb, while the cost of performance continues to f...",
     "category": "industry",
     "image": "https://wp.technologyreview.com/wp-content/uploads/2026/09/Uniphore-Social-Card-1.png?resize=1200,600",
-    "id": 44
+    "id": 33
   },
   {
     "title": "The Download: a biological de-aging contest and why LLMs don’t reason",
@@ -437,7 +336,7 @@
     "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. A new contest pits competitors against each other in a race to...",
     "category": "models",
     "image": "https://wp.technologyreview.com/wp-content/uploads/2026/09/healthy-habits.jpg?resize=1200,600",
-    "id": 45
+    "id": 34
   },
   {
     "title": "Don’t be fooled—LLMs don’t reason",
@@ -447,7 +346,17 @@
     "summary": "On an afternoon in Seoul in March 2016, I watched a program I helped build put a stone on the fifth line of a Go board in what looked like a gift to its human opponent. Move 37 in game two of the five...",
     "category": "models",
     "image": "https://wp.technologyreview.com/wp-content/uploads/2026/10/2llm-go.jpg?resize=1200,600",
-    "id": 46
+    "id": 35
+  },
+  {
+    "title": "These AI Experts Want to Do High-Stakes Research Out in the Open",
+    "url": "https://www.wired.com/story/trillium-labs-wants-to-do-high-risk-ai-research-in-the-open/",
+    "source": "Wired",
+    "date": "2026-10-02",
+    "summary": "Many frontier labs keep their risky research locked away. Trillium Labs wants to show off its work when it comes to self-improvement and model behavior.",
+    "category": "research",
+    "image": "https://media.wired.com/photos/6abfd54ac4eb41b65cf33011/191:100/w_1280,c_limit/Trillium-Labs-Risky-AI-Research-Business-edit.jpg",
+    "id": 36
   },
   {
     "title": "Trump’s Crazy AI Rebrand Was a Loyalty Test for Tech Execs—and It Worked",
@@ -457,7 +366,7 @@
     "summary": "For years these billionaires gushed obsessively about AI. But they meekly went along when Trump canceled the term.",
     "category": "industry",
     "image": "https://media.wired.com/photos/6abe8febd05dc665bd7e9bcd/191:100/w_1280,c_limit/Backchannel-Trump-AI-Business-2297413584.jpg",
-    "id": 47
+    "id": 37
   },
   {
     "title": "A Flaw in ChatGPT’s Mac App Could Have Let Hackers Grab Sensitive Data",
@@ -467,7 +376,7 @@
     "summary": "While the focus has been on AI agents’ hacking capabilities, a recently patched vulnerability in a ChatGPT app shows that AI software is itself an inviting—and vulnerable—target.",
     "category": "models",
     "image": "https://media.wired.com/photos/6abc2c32f3865c0127252ad0/191:100/w_1280,c_limit/GettyImages-2278945913.jpg",
-    "id": 48
+    "id": 38
   },
   {
     "title": "AI Is Making a Mess of Nurses’ Schedules. They Say It’s a Safety Issue",
@@ -477,7 +386,7 @@
     "summary": "A hospital giant and radiology network turned to Palantir to streamline scheduling, but nurses and other staff say the new software is causing errors, burnout, and frustration.",
     "category": "research",
     "image": "https://media.wired.com/photos/6abeb2ae10b6b4f5a5628f89/191:100/w_1280,c_limit/Palantir-Nurse-Strike-e2fab562-387a-496b-b88c-027860c47584.jpg",
-    "id": 49
+    "id": 39
   },
   {
     "title": "AutoSynthData: Generating Training Data for Enterprise Agents",
@@ -487,6 +396,103 @@
     "summary": "",
     "category": "industry",
     "image": "https://cdn-uploads.huggingface.co/production/uploads/68642da9885da181fde1ad70/8kSzlHLOdu5hchCtPnK8D.png",
+    "id": 40
+  },
+  {
+    "title": "The eternal complement",
+    "url": "https://openai.com/index/the-eternal-complement",
+    "source": "OpenAI Blog",
+    "date": "2026-10-01",
+    "summary": "Advanced AI may matter most for the routine work behind breakthrough ideas. Explore why execution could shape the next economy and the pace of progress.",
+    "category": "research",
+    "id": 41
+  },
+  {
+    "title": "How Albertsons Companies is reimagining retail from the inside out",
+    "url": "https://openai.com/index/albertsons-reimagining-retail",
+    "source": "OpenAI Blog",
+    "date": "2026-10-01",
+    "summary": "Albertsons Cos. is using ChatGPT Enterprise and the OpenAI API to help teams work faster and make grocery shopping easier for millions of customers.",
+    "category": "industry",
+    "id": 42
+  },
+  {
+    "title": "The Den frees up 10-15 hours a week to grow with ChatGPT Work",
+    "url": "https://openai.com/index/the-den-family-social",
+    "source": "OpenAI Blog",
+    "date": "2026-10-01",
+    "summary": "As it opens a new location, the social club prepares grant applications in 2 hours instead of 3 days and liquor-license materials in 3 hours instead of 4 days.",
+    "category": "models",
+    "id": 43
+  },
+  {
+    "title": "How NVIDIA GPUs Help Accelerate OpenAI’s GPT-6 Astra Ultrafast",
+    "url": "https://blogs.nvidia.com/blog/gpus-openai-gpt-6-astra-ultrafast/",
+    "source": "NVIDIA Blog",
+    "date": "2026-10-01",
+    "summary": "GPT-6 Astra Ultrafast, running on NVIDIA Blackwell GPUs, is available now in the OpenAI API and to eligible ChatGPT Work and Codex users. Accelerated by inference optimizations through OpenAI’s models...",
+    "category": "hardware",
+    "image": "https://blogs.nvidia.com/wp-content/uploads/2026/09/twitter-gif-2104993966043320759-v5.png",
+    "id": 44
+  },
+  {
+    "title": "Productive, Durable, Fungible: How NVIDIA AI Factories Maximize Return on Investment",
+    "url": "https://blogs.nvidia.com/blog/productive-durable-fungible-ai-factories/",
+    "source": "NVIDIA Blog",
+    "date": "2026-10-01",
+    "summary": "AI factories are built by the megawatt, even by the gigawatt. Each megawatt factory costs roughly $60 million, and AI factory operators will only commit capital on that scale with a clear view of the ...",
+    "category": "industry",
+    "image": "https://blogs.nvidia.com/wp-content/uploads/2026/09/fungibility-blog-1280x680-1.jpg",
+    "id": 45
+  },
+  {
+    "title": "Memory executives expect RAM shortage to continue through 2028",
+    "url": "https://arstechnica.com/information-technology/2026/10/memory-supplies-are-only-getting-tighter-micron-ceo-says/",
+    "source": "Ars Technica",
+    "date": "2026-10-01",
+    "summary": "Prices for memory sold for 2027 \"are much higher than 2026 prices.\"",
+    "category": "hardware",
+    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/GettyImages-1723107474-1024x648.jpg",
+    "id": 46
+  },
+  {
+    "title": "First Intel Panther Lake mini PC cooled with solid-state AirJet tech operates at less than 21 dBA",
+    "url": "https://www.tomshardware.com/desktops/mini-pcs/first-intel-panther-lake-mini-pc-cooled-with-solid-state-airjet-tech-operates-at-less-than-21-dba-aaeon-claims-its-fanless-up-xtreme-ptl-edge-air-is-also-slimmer-lighter-than-actively-cooled-rivals",
+    "source": "Tom's Hardware",
+    "date": "2026-10-01",
+    "summary": "Aaeon's UP Xtreme PTL Edge Air is the first Panther Lake mini PC we've seen with AirJet technology for ultra-low-noise active cooling.",
+    "category": "hardware",
+    "image": "https://cdn.mos.cms.futurecdn.net/25mCgthiTec6uCLuqgdUMa-1920-80.jpg",
+    "id": 47
+  },
+  {
+    "title": "Nvidia launches Open Agent Safety Platform to physically restrain rogue AI agents",
+    "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/nvidia-launches-open-agent-safety-platform-to-restrain-rogue-ai-agents-new-hardware-and-software-security-stack-can-quarantine-agents-in-milliseconds",
+    "source": "Tom's Hardware",
+    "date": "2026-10-01",
+    "summary": "Nvidia’s new Open Agent Safety Platform combines OpenShell sandboxing with BlueField-powered Sentry hardware to monitor and rapidly quarantine rogue AI agents",
+    "category": "tools",
+    "image": "https://cdn.mos.cms.futurecdn.net/hNQGdrGeYByzqyJFsM8WjY-1920-80.png",
+    "id": 48
+  },
+  {
+    "title": "AI's chipmaking frontier may face patent infringement hurdles as autonomous tools take over",
+    "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/ais-chipmaking-frontier-may-face-patent-infringement-hurdles-as-autonomous-tools-take-over-ai-can-spread-a-copied-design-or-infringed-patent-across-thousands-of-chips-before-anyone-notices-says-expert",
+    "source": "Tom's Hardware",
+    "date": "2026-10-01",
+    "summary": "Can AI outsmart the ingenuity of human thinking and design? If so, what does that mean for proprietary IP? We explore the tools, and the potential pitfalls.",
+    "category": "hardware",
+    "image": "https://cdn.mos.cms.futurecdn.net/aTNDY9X3ZaVC4xeexdN728-1920-80.jpg",
+    "id": 49
+  },
+  {
+    "title": "DeepSeek and Huawei release open-source Ascend AI programming tools to reduce reliance on Nvidia ecosystem",
+    "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/deepseek-and-huawei-release-open-source-ascend-ai-programming-tools-to-reduce-reliance-on-nvidia-ecosystem-tools-include-compute-and-communication-libraries-as-well-as-ascend-support-for-tilelang",
+    "source": "Tom's Hardware",
+    "date": "2026-10-01",
+    "summary": "DeepSeek and Huawei have released open-source programming tools for Ascend 950 AI chips, including compute and communication libraries, aimed at making Huawei hardware easier to program and optimize.",
+    "category": "hardware",
+    "image": "https://cdn.mos.cms.futurecdn.net/XshNMmxdYaq78TYvcLQQRL-1920-80.jpg",
     "id": 50
   }
 ]
