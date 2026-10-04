@@ -1,5 +1,26 @@
 [
   {
+    "title": "Open-source tool designs LEGO builds with more than 2,000 real pieces",
+    "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/open-source-tool-designs-lego-builds-with-more-than-2-000-real-pieces-their-programs-output-detailed-cad-files-but-no-models-have-been-built-yet",
+    "source": "Tom's Hardware",
+    "date": "2026-10-04",
+    "summary": "Carlos Antelo's open-source ldraw-nova lets GPT-6 Astra and Claude Opus 5.5 design LEGO models as LDraw CAD files.",
+    "category": "models",
+    "image": "https://cdn.mos.cms.futurecdn.net/9QRFisZJCpz9R7tVzm2UbT-1920-80.png",
+    "id": 1,
+    "featured": true
+  },
+  {
+    "title": "Free browser-based AI-generated Taipei GTA clone hits 1.2 million concurrent players in three days",
+    "url": "https://www.tomshardware.com/video-games/pc-gaming/free-browser-based-ai-generated-taipei-gta-clone-hits-1-2-million-concurrent-players-in-three-days-vibe-coded-game-cost-usd10-000-in-ai-tokens-to-build-is-set-on-the-streets-of-taipei",
+    "source": "Tom's Hardware",
+    "date": "2026-10-04",
+    "summary": "Developers AICodeWith have vibe-coded and published a free browser-based game dubbed Taipei GTA. It reportedly cost $10,000 in tokens to get to this state.",
+    "category": "tools",
+    "image": "https://cdn.mos.cms.futurecdn.net/S5US3fmrNKudMnNjeFAPRB-1920-80.jpg",
+    "id": 2
+  },
+  {
     "title": "7-year-old Nvidia Shield TV Pro gets shocking 50% price hike driven by AI memory shortage",
     "url": "https://www.tomshardware.com/service-providers/streaming/7-year-old-nvidia-shield-tv-pro-gets-shocking-50-percent-price-hike-driven-by-ai-memory-shortage-chipmaker-axes-entry-level-shield-tv-as-component-prices-soar",
     "source": "Tom's Hardware",
@@ -7,8 +28,7 @@
     "summary": "The Shield TV Pro remains one of Nvidia’s longest-running consumer devices, but its $299.99 price tag now makes the streaming box considerably more expensive than when it launched.",
     "category": "hardware",
     "image": "https://cdn.mos.cms.futurecdn.net/o6Rt8XTz7gaqvL46TZcxzg-1920-80.jpg",
-    "id": 1,
-    "featured": true
+    "id": 3
   },
   {
     "title": "Buying used CPUs can expose users to existing bans from anti-cheat engines, and there's no way to check for violations before purchase",
@@ -18,7 +38,7 @@
     "summary": "The CPU's previous owner apparently used it for cheating on Valorant, with its HWID getting flagged by Vanguard. When the Redditor bought and installed it on their PC, their Valorant account received ...",
     "category": "hardware",
     "image": "https://cdn.mos.cms.futurecdn.net/cShj4QFjByrxQNScUGKzq3-1920-80.jpg",
-    "id": 2
+    "id": 4
   },
   {
     "title": "This week on Tom's Hardware Premium: October 3, 2026",
@@ -28,7 +48,7 @@
     "summary": "This week on Tom's Hardware Premium, we open the floodgates with a free-to-access chip design week, including expert interviews, a sit-down with OpenAI on its custom ASIC, and much more.",
     "category": "hardware",
     "image": "https://cdn.mos.cms.futurecdn.net/xYwy6BphRNaiV52nCF7ghn-1920-80.jpg",
-    "id": 3
+    "id": 5
   },
   {
     "title": "Steam hits record $1.7 billion in September 2026 despite soaring PC hardware costs",
@@ -38,7 +58,7 @@
     "summary": "Steam's latest revenues highlight continued strength in PC gaming, with players continuing to spend heavily even as the cost of building and upgrading gaming PCs rises.",
     "category": "industry",
     "image": "https://cdn.mos.cms.futurecdn.net/UrZpYibo9huHdvNjjgUMjF-1920-80.png",
-    "id": 4
+    "id": 6
   },
   {
     "title": "AI agents use 5x more tokens than humans as cached prompts explode, headed for 10x",
@@ -48,7 +68,7 @@
     "summary": "Daniel Newman’s number comes from OpenRouter data, where agents passed humans in February and grew 14x by August.",
     "category": "industry",
     "image": "https://cdn.mos.cms.futurecdn.net/hNQivoNg7PnAeRNSivatuR-1920-80.png",
-    "id": 5
+    "id": 7
   },
   {
     "title": "Google freezes open-source bug bounty program amid flood of invalid AI slop submissions",
@@ -58,7 +78,7 @@
     "summary": "Google suspends product vulnerability submissions to its Open Source Software Vulnerability Reward Program (OSS VRP) over an influx of invalid AI-driven reports.",
     "category": "tools",
     "image": "https://cdn.mos.cms.futurecdn.net/CrscyWC2mg69wBbrK9dcpa-1920-80.jpg",
-    "id": 6
+    "id": 8
   },
   {
     "title": "California subpoenas OpenAI over rogue AI agents conducting hacking attacks",
@@ -68,7 +88,7 @@
     "summary": "California state Attorney General Rob Bonta issued a subpoena to OpenAI, compelling it to submit information on the hacking incidents that its models have been involved in. While the investigators hav...",
     "category": "tools",
     "image": "https://cdn.mos.cms.futurecdn.net/7kh2DN38axXggaLAdFogKm-1920-80.png",
-    "id": 7
+    "id": 9
   },
   {
     "title": "Amazon promises to spend $1 billion on communities close to its data centers, but critics push back",
@@ -78,7 +98,7 @@
     "summary": "AWS CEO Matt Garman said in a company blog post that it will allocate $1 billion over five years to key issues that data center communities raised, including education, workforce pathways, energy affo...",
     "category": "industry",
     "image": "https://cdn.mos.cms.futurecdn.net/SnihTFB2iy2sVR4QF2ETM8-1920-80.png",
-    "id": 8
+    "id": 10
   },
   {
     "title": "AMD’s secret Zen 3 gaming CPU had 128MB of game-boosting L3 cache but never saw the light of day",
@@ -88,7 +108,7 @@
     "summary": "A user from the Chinese Chiphell forums shows off AMD's unreleased Ryzen 9 5900X3D, the X3D variant of the Ryzen 9 5900X.",
     "category": "hardware",
     "image": "https://cdn.mos.cms.futurecdn.net/m3dRq2q5uSJYsdSArrRdce-1920-80.jpg",
-    "id": 9
+    "id": 11
   },
   {
     "title": "ChatGPT-6 Astra plays World of Warcraft 'blind' and clears the orc starting zone in 40 minutes with no deaths",
@@ -98,7 +118,7 @@
     "summary": "The model created its own World of Warcraft pathfinder on a private server with one prompt in OpenAI's Codex.",
     "category": "models",
     "image": "https://cdn.mos.cms.futurecdn.net/ujZwJwwyt3MAzvTPaTAe34-1920-80.png",
-    "id": 10
+    "id": 12
   },
   {
     "title": "Amazon responds to data center backlash, says it no longer uses NDAs",
@@ -108,7 +128,7 @@
     "summary": "The CEO of Amazon Web Services tried to push back against widespread suspicion of data centers.",
     "category": "hardware",
     "image": "https://techcrunch.com/wp-content/uploads/2026/08/GettyImages-2283113936-maller.jpg?w=1024",
-    "id": 11
+    "id": 13
   },
   {
     "title": "OpenAI safety employee resigns, claiming the company’s ‘culture is broken’",
@@ -118,7 +138,7 @@
     "summary": "By his own admission, David Robinson is “something of a cliché”: an employee at a leading AI company who issues a dire warning while resigning from their job.",
     "category": "research",
     "image": "https://techcrunch.com/wp-content/uploads/2026/05/openai-logo-code-background.jpg?resize=1200,798",
-    "id": 12
+    "id": 14
   },
   {
     "title": "All the AI agents that can live in your text messages",
@@ -128,7 +148,7 @@
     "summary": "We created a list of the most notable AI agents that can live in your text messages, from general assistants to agents designed for families, travel, and work.",
     "category": "industry",
     "image": "https://techcrunch.com/wp-content/uploads/2017/12/gettyimages-673436934.jpg?resize=1200,813",
-    "id": 13
+    "id": 15
   },
   {
     "title": "The Nvidia Shield TV Is 7 Years Old. It Just Got a $100 Price Hike",
@@ -138,7 +158,7 @@
     "summary": "The price of anything with memory is skyrocketing thanks to AI. Aging streaming devices are no exception.",
     "category": "hardware",
     "image": "https://media.wired.com/photos/6ac00d9bc910b804171a679e/191:100/w_1280,c_limit/GettyImages-474968764.jpg",
-    "id": 14
+    "id": 16
   },
   {
     "title": "Muse Creates Detailed Profiles of All Your Friends and Family",
@@ -148,7 +168,7 @@
     "summary": "Millions have downloaded Meta’s AI agent Muse. But getting it to do your bidding comes with privacy costs.",
     "category": "industry",
     "image": "https://media.wired.com/photos/6abda258fa5a1bd6e2b21507/191:100/w_1280,c_limit/Kernel-Panic-Muse-AI-Self-PWN-Security.jpg",
-    "id": 15
+    "id": 17
   },
   {
     "title": "A model guide for the GPT-6 family",
@@ -157,7 +177,7 @@
     "date": "2026-10-02",
     "summary": "Learn how startups can choose GPT-6 models, tune reasoning effort, improve prompts and skills, coordinate tools, and prepare workflows for production.",
     "category": "models",
-    "id": 16
+    "id": 18
   },
   {
     "title": "Chatham scales its capital markets expertise with OpenAI",
@@ -166,7 +186,7 @@
     "date": "2026-10-02",
     "summary": "Chatham Financial uses Codex and GPT-5.6 to build technology and redesign workflows, cutting trade validation from 30 minutes to under 4.",
     "category": "models",
-    "id": 17
+    "id": 19
   },
   {
     "title": "The latest AI news we announced in September 2026",
@@ -176,7 +196,7 @@
     "summary": "Here are Google’s latest AI updates from September 2026",
     "category": "industry",
     "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/September_AI_Recap_hero.max-600x600.format-webp.webp",
-    "id": 18
+    "id": 20
   },
   {
     "title": "NVIDIA DGX Spark 64GB Gives Developers More Ways to Build and Scale Local AI",
@@ -186,7 +206,7 @@
     "summary": "Local AI is becoming more useful by the token. As AI agents move from experiments into everyday development, increasingly capable open models are shrinking to fit on more devices, giving builders more...",
     "category": "hardware",
     "image": "https://blogs.nvidia.com/wp-content/uploads/2026/10/nv-blog-1280x680-1.jpg",
-    "id": 19
+    "id": 21
   },
   {
     "title": "Apple changes full-disk access permissions to curb abuse from AI agents",
@@ -196,7 +216,7 @@
     "summary": "Meta says FDA isn't sufficient to Muse reading messages. Apple begs to differ.",
     "category": "industry",
     "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/02/gatekeeping-ai-agents-1152x648.jpg",
-    "id": 20
+    "id": 22
   },
   {
     "title": "Leaked Intel Nova Lake product list has three 'BFC' chips with up to 144MB of game-boosting L3 cache",
@@ -206,7 +226,7 @@
     "summary": "A table rumored to hold Intel's upcoming models for Nova Lake processors as surfaced, now referring to the heavily-rumored bLLC as \"BFC.\"",
     "category": "hardware",
     "image": "https://cdn.mos.cms.futurecdn.net/B4avSRi36yewaj7Wyj3k5Q-1920-80.jpg",
-    "id": 21
+    "id": 23
   },
   {
     "title": "California tech CEO arrested, faces up to 20 years in prison for smuggling $300 million in Nvidia AI servers to China",
@@ -216,7 +236,7 @@
     "summary": "U.S. authorities have arrested a California man accused of smuggling more than $300 million worth of export-controlled Nvidia-powered servers to China through Malaysia and Singapore, allegedly using f...",
     "category": "hardware",
     "image": "https://cdn.mos.cms.futurecdn.net/ZAPHkGJKVZQSB6dodho4D7-1920-80.jpg",
-    "id": 22
+    "id": 24
   },
   {
     "title": "Sony brings AI-powered upscaling to the standard PS5",
@@ -226,7 +246,7 @@
     "summary": "The base PS5 is getting an optimized version of Sony's AI-powered upscaling technology, offering developers a new way to improve image quality and stability without demanding more powerful hardware.",
     "category": "tools",
     "image": "https://cdn.mos.cms.futurecdn.net/nd79YEyZjKpereVXCPBBMD-1920-80.png",
-    "id": 23
+    "id": 25
   },
   {
     "title": "Amazon and Synopsys ink multi-year billion-dollar deal in multi-year IP agreement to accelerate AI chip design efforts",
@@ -236,7 +256,7 @@
     "summary": "Amazon and chip design tool maker Synopsys have inked a multi-year partnership worth over a billion dollars. As part of the arrangement, Amazon will license Synopsys' chip designs and its design tools...",
     "category": "industry",
     "image": "https://cdn.mos.cms.futurecdn.net/yobatAEjDQzCaExZNuCuof-1920-80.jpg",
-    "id": 24
+    "id": 26
   },
   {
     "title": "Nvidia introduces 64GB DGX Spark to throw local AI fans a lifeline amid the RAMpocalypse",
@@ -246,7 +266,7 @@
     "summary": "Nvidia is introducing a 64GB version of its DGX Spark local AI workstation that's tailored for a new generation of highly intelligent yet compact local models. Starting at $4999, the more affordable c...",
     "category": "hardware",
     "image": "https://cdn.mos.cms.futurecdn.net/D4D8sJFKUe4PFUpqUAPSfB-1920-80.jpg",
-    "id": 25
+    "id": 27
   },
   {
     "title": "OpenAI’s Jalapeño ASICs are deployed alongside AMD EPYC ‘Turin’ CPUs as hosts, not Nvidia's Vera",
@@ -256,7 +276,7 @@
     "summary": "OpenAI chose to pair rack-scale deployments of its Jalapeño ASIC with AMD EPYC Turin CPUs, not the wave of high-performance agentic chips like Arm’s AGI or Nvidia’s Vera.",
     "category": "hardware",
     "image": "https://cdn.mos.cms.futurecdn.net/9mJ37sc39kgcyEigsUfgNn-1920-80.jpg",
-    "id": 26
+    "id": 28
   },
   {
     "title": "Micro Center requires photo ID and signed no-export pledge to buy RTX 5090 gaming GPU",
@@ -266,7 +286,7 @@
     "summary": "The form requires RTX 5090 buyers to input their personal data before getting approved to make the purchase. However, it remains unclear how Micro Center can use this information to track illegally ex...",
     "category": "hardware",
     "image": "https://cdn.mos.cms.futurecdn.net/RH2UfQ4PEty8QdC39Tkoom-1920-80.jpg",
-    "id": 27
+    "id": 29
   },
   {
     "title": "PewDiePie unveils ‘uncensored’ Ajax AI model for home PCs",
@@ -276,7 +296,7 @@
     "summary": "PewDiePie says OpenAI banned him twice while he made Ajax, a fine-tuned Qwen3.5-9B agent.",
     "category": "models",
     "image": "https://cdn.mos.cms.futurecdn.net/EwKpSg7hHpSZWPEEPNNaT-1920-80.png",
-    "id": 28
+    "id": 30
   },
   {
     "title": "Sean Parker is rebuilding Stability AI around music",
@@ -286,7 +306,7 @@
     "summary": "Sean Parker, who once taught the music industry what asking for forgiveness looks like, is now back with the labels' blessing and money.",
     "category": "industry",
     "image": "https://techcrunch.com/wp-content/uploads/2026/10/Sean-Parker.jpg?w=1024",
-    "id": 29
+    "id": 31
   },
   {
     "title": "Apple says it’s tightening macOS ‘Full Disk Access’ controls due to new risks from AI agents",
@@ -296,7 +316,7 @@
     "summary": "Apple says it will add new controls around macOS’s Full Disk Access permission, warning that increasingly capable AI agents make broad access to users’ files, messages, mail, and browsing history risk...",
     "category": "industry",
     "image": "https://techcrunch.com/wp-content/uploads/2022/07/CMC_1580.jpg?resize=1200,800",
-    "id": 30
+    "id": 32
   },
   {
     "title": "Call it AI, call it Super Intelligence, only 2% of consumers are buying it",
@@ -306,7 +326,7 @@
     "summary": "This week, the White House got nearly every major tech CEO in one room — Zuckerberg, Bezos, Musk, and Anthropic’s Dario Amodei among them — to sign an AI safety pledge that President Donald Trump call...",
     "category": "industry",
     "image": "https://techcrunch.com/wp-content/uploads/2026/10/GettyImages-2297262633.jpg?resize=1200,800",
-    "id": 31
+    "id": 33
   },
   {
     "title": "It’s not AI anymore, it’s ‘super intelligence’ (according to the White House)",
@@ -316,7 +336,7 @@
     "summary": "This week, the White House got nearly every major tech CEO in one room — Zuckerberg, Bezos, Musk, and Anthropic’s Dario Amodei among them — to sign an AI safety pledge that President Donald Trump call...",
     "category": "industry",
     "image": "https://techcrunch.com/wp-content/uploads/2026/09/GettyImages-2297764008.jpg?w=1024",
-    "id": 32
+    "id": 34
   },
   {
     "title": "TechCrunch Disrupt 2026: Blackstone’s Jas Khaira on building the next generation of AI giants",
@@ -326,7 +346,7 @@
     "summary": "Blackstone's Jas Khaira will take the Builders Stage at TechCrunch Disrupt 2026 on building next-gen AI. Register for your pass and get 50% off a second.",
     "category": "industry",
     "image": "https://techcrunch.com/wp-content/uploads/2026/10/TCD26_1-Jas-Khaira_Speaker-16x9-Dark.png?resize=1200,675",
-    "id": 33
+    "id": 35
   },
   {
     "title": "Circuit Breaker Labs hopes to make AI safer for your kids (and you)",
@@ -336,7 +356,7 @@
     "summary": "With all the talk about how AI might one day kill us all, it's easy to forget that AI has already harmed some people psychologically. Circuit Breaker Labs has created \"crash-test dummies\" to solve tha...",
     "category": "industry",
     "image": "https://techcrunch.com/wp-content/uploads/2026/10/Circuit-Labs-founders-2.jpeg?resize=1200,1037",
-    "id": 34
+    "id": 36
   },
   {
     "title": "Pope Leo XIV is not a fan of AI-generated art",
@@ -346,7 +366,7 @@
     "summary": "\"There is an ontological difference, even before an aesthetic one, between art and what a machine can generate through statistical calculation based on millions of images created by others,\" the pope ...",
     "category": "research",
     "image": "https://techcrunch.com/wp-content/uploads/2025/06/Screenshot-2025-06-18-at-10.00.59AM.png?w=950",
-    "id": 35
+    "id": 37
   },
   {
     "title": "TechCrunch Disrupt 2026: Clay’s Kareem Amin on the rise of the GTM engineer",
@@ -356,7 +376,7 @@
     "summary": "Clay Co-founder and CEO Kareem Amin joins the AI Stage to discuss the rise of GTM engineer at TechCrunch Disrupt 2026. Register for your ticket and get a second pass at 50% off.",
     "category": "industry",
     "image": "https://techcrunch.com/wp-content/uploads/2026/10/TCD26_1-Kareem-Amin_Speaker-16x9-Dark.png?resize=1200,675",
-    "id": 36
+    "id": 38
   },
   {
     "title": "Redefining enterprise intelligence with autonomous AI",
@@ -366,7 +386,7 @@
     "summary": "Enterprise AI is no longer a future ambition. It is in full operational flight. Model capabilities are advancing faster than most organizations can absorb, while the cost of performance continues to f...",
     "category": "industry",
     "image": "https://wp.technologyreview.com/wp-content/uploads/2026/09/Uniphore-Social-Card-1.png?resize=1200,600",
-    "id": 37
+    "id": 39
   },
   {
     "title": "The Download: a biological de-aging contest and why LLMs don’t reason",
@@ -376,7 +396,7 @@
     "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. A new contest pits competitors against each other in a race to...",
     "category": "models",
     "image": "https://wp.technologyreview.com/wp-content/uploads/2026/09/healthy-habits.jpg?resize=1200,600",
-    "id": 38
+    "id": 40
   },
   {
     "title": "Don’t be fooled—LLMs don’t reason",
@@ -386,7 +406,7 @@
     "summary": "On an afternoon in Seoul in March 2016, I watched a program I helped build put a stone on the fifth line of a Go board in what looked like a gift to its human opponent. Move 37 in game two of the five...",
     "category": "models",
     "image": "https://wp.technologyreview.com/wp-content/uploads/2026/10/2llm-go.jpg?resize=1200,600",
-    "id": 39
+    "id": 41
   },
   {
     "title": "These AI Experts Want to Do High-Stakes Research Out in the Open",
@@ -396,7 +416,7 @@
     "summary": "Many frontier labs keep their risky research locked away. Trillium Labs wants to show off its work when it comes to self-improvement and model behavior.",
     "category": "research",
     "image": "https://media.wired.com/photos/6abfd54ac4eb41b65cf33011/191:100/w_1280,c_limit/Trillium-Labs-Risky-AI-Research-Business-edit.jpg",
-    "id": 40
+    "id": 42
   },
   {
     "title": "Trump’s Crazy AI Rebrand Was a Loyalty Test for Tech Execs—and It Worked",
@@ -406,7 +426,7 @@
     "summary": "For years these billionaires gushed obsessively about AI. But they meekly went along when Trump canceled the term.",
     "category": "industry",
     "image": "https://media.wired.com/photos/6abe8febd05dc665bd7e9bcd/191:100/w_1280,c_limit/Backchannel-Trump-AI-Business-2297413584.jpg",
-    "id": 41
+    "id": 43
   },
   {
     "title": "A Flaw in ChatGPT’s Mac App Could Have Let Hackers Grab Sensitive Data",
@@ -416,7 +436,7 @@
     "summary": "While the focus has been on AI agents’ hacking capabilities, a recently patched vulnerability in a ChatGPT app shows that AI software is itself an inviting—and vulnerable—target.",
     "category": "models",
     "image": "https://media.wired.com/photos/6abc2c32f3865c0127252ad0/191:100/w_1280,c_limit/GettyImages-2278945913.jpg",
-    "id": 42
+    "id": 44
   },
   {
     "title": "AI Is Making a Mess of Nurses’ Schedules. They Say It’s a Safety Issue",
@@ -426,7 +446,7 @@
     "summary": "A hospital giant and radiology network turned to Palantir to streamline scheduling, but nurses and other staff say the new software is causing errors, burnout, and frustration.",
     "category": "research",
     "image": "https://media.wired.com/photos/6abeb2ae10b6b4f5a5628f89/191:100/w_1280,c_limit/Palantir-Nurse-Strike-e2fab562-387a-496b-b88c-027860c47584.jpg",
-    "id": 43
+    "id": 45
   },
   {
     "title": "AutoSynthData: Generating Training Data for Enterprise Agents",
@@ -436,7 +456,7 @@
     "summary": "",
     "category": "industry",
     "image": "https://cdn-uploads.huggingface.co/production/uploads/68642da9885da181fde1ad70/8kSzlHLOdu5hchCtPnK8D.png",
-    "id": 44
+    "id": 46
   },
   {
     "title": "The eternal complement",
@@ -445,7 +465,7 @@
     "date": "2026-10-01",
     "summary": "Advanced AI may matter most for the routine work behind breakthrough ideas. Explore why execution could shape the next economy and the pace of progress.",
     "category": "research",
-    "id": 45
+    "id": 47
   },
   {
     "title": "How Albertsons Companies is reimagining retail from the inside out",
@@ -454,7 +474,7 @@
     "date": "2026-10-01",
     "summary": "Albertsons Cos. is using ChatGPT Enterprise and the OpenAI API to help teams work faster and make grocery shopping easier for millions of customers.",
     "category": "industry",
-    "id": 46
+    "id": 48
   },
   {
     "title": "The Den frees up 10-15 hours a week to grow with ChatGPT Work",
@@ -463,7 +483,7 @@
     "date": "2026-10-01",
     "summary": "As it opens a new location, the social club prepares grant applications in 2 hours instead of 3 days and liquor-license materials in 3 hours instead of 4 days.",
     "category": "models",
-    "id": 47
+    "id": 49
   },
   {
     "title": "How NVIDIA GPUs Help Accelerate OpenAI’s GPT-6 Astra Ultrafast",
@@ -473,26 +493,6 @@
     "summary": "GPT-6 Astra Ultrafast, running on NVIDIA Blackwell GPUs, is available now in the OpenAI API and to eligible ChatGPT Work and Codex users. Accelerated by inference optimizations through OpenAI’s models...",
     "category": "hardware",
     "image": "https://blogs.nvidia.com/wp-content/uploads/2026/09/twitter-gif-2104993966043320759-v5.png",
-    "id": 48
-  },
-  {
-    "title": "Productive, Durable, Fungible: How NVIDIA AI Factories Maximize Return on Investment",
-    "url": "https://blogs.nvidia.com/blog/productive-durable-fungible-ai-factories/",
-    "source": "NVIDIA Blog",
-    "date": "2026-10-01",
-    "summary": "AI factories are built by the megawatt, even by the gigawatt. Each megawatt factory costs roughly $60 million, and AI factory operators will only commit capital on that scale with a clear view of the ...",
-    "category": "industry",
-    "image": "https://blogs.nvidia.com/wp-content/uploads/2026/09/fungibility-blog-1280x680-1.jpg",
-    "id": 49
-  },
-  {
-    "title": "Memory executives expect RAM shortage to continue through 2028",
-    "url": "https://arstechnica.com/information-technology/2026/10/memory-supplies-are-only-getting-tighter-micron-ceo-says/",
-    "source": "Ars Technica",
-    "date": "2026-10-01",
-    "summary": "Prices for memory sold for 2027 \"are much higher than 2026 prices.\"",
-    "category": "hardware",
-    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/GettyImages-1723107474-1024x648.jpg",
     "id": 50
   }
 ]
