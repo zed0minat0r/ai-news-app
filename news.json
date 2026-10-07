@@ -11,12 +11,12 @@
     "featured": true
   },
   {
-    "title": "Atlassian and OpenAI expand partnership to turn enterprise knowledge into action",
-    "url": "https://openai.com/index/atlassian-partnership",
+    "title": "Sharing AI progress in mathematics",
+    "url": "https://openai.com/index/sharing-ai-progress-in-mathematics",
     "source": "OpenAI Blog",
     "date": "2026-10-06",
-    "summary": "Atlassian and OpenAI are expanding their partnership to connect frontier models with enterprise knowledge and help teams plan, build, and deliver work.",
-    "category": "industry",
+    "summary": "OpenAI publishes new results on open problems in mathematics from an internal frontier model and shares Lean proof formalizations and research details on GitHub.",
+    "category": "research",
     "id": 2
   },
   {
@@ -29,14 +29,32 @@
     "id": 3
   },
   {
+    "title": "Atlassian and OpenAI expand partnership to turn enterprise knowledge into action",
+    "url": "https://openai.com/index/atlassian-partnership",
+    "source": "OpenAI Blog",
+    "date": "2026-10-06",
+    "summary": "Atlassian and OpenAI are expanding their partnership to connect frontier models with enterprise knowledge and help teams plan, build, and deliver work.",
+    "category": "industry",
+    "id": 4
+  },
+  {
+    "title": "How Jump Trading is scaling quant research with ChatGPT",
+    "url": "https://openai.com/index/jump-trading",
+    "source": "OpenAI Blog",
+    "date": "2026-10-06",
+    "summary": "Jump Trading uses OpenAI to expand quantitative research. See how longer-running AI workflows combine multiple data sources with human review.",
+    "category": "models",
+    "id": 5
+  },
+  {
     "title": "OpenAI agents tried to hack Wikipedia tools and flooded it with traffic",
     "url": "https://arstechnica.com/security/2026/10/openai-agents-tried-to-hack-wikipedia-tools-and-flooded-it-with-traffic/",
     "source": "Ars Technica",
     "date": "2026-10-06",
-    "summary": "The reports of OpenAI agents harming 3rd party sites keep coming.",
+    "summary": "The reports of OpenAI agents harming third-party sites keep coming.",
     "category": "tools",
     "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/ai-agentic-hacking-1152x648.jpg",
-    "id": 4
+    "id": 6
   },
   {
     "title": "Mac Mini docks add more ports and storage — get more out of your headless server, AI machine, or Apple workstation",
@@ -46,7 +64,7 @@
     "summary": "Mac Mini docks add more ports and allow for further internal storage. Many of them are molded to fit directly beneath Apple's popular mini PC.",
     "category": "hardware",
     "image": "https://cdn.mos.cms.futurecdn.net/Yg65ckDyAX6RzbiyWwP3N9-1920-80.jpg",
-    "id": 5
+    "id": 7
   },
   {
     "title": "Save up to 43% on these handy Hoto tools for PC builders and hobbyists, starting from $14",
@@ -56,7 +74,7 @@
     "summary": "Amazon's big discount event means that now is the perfect time to stock up on Hoto's tools for hobbyists and PC builders, with deals running until October 7.",
     "category": "tools",
     "image": "https://cdn.mos.cms.futurecdn.net/Se8NWQerUvZz8MrpAt3UWH-1920-80.png",
-    "id": 6
+    "id": 8
   },
   {
     "title": "AMD's Radeon RX 9070 GRE graphics card crashes to $529, below original MSRP",
@@ -66,7 +84,7 @@
     "summary": "Grab a new 12GB GPU for less than the MSRP launch price.",
     "category": "hardware",
     "image": "https://cdn.mos.cms.futurecdn.net/hpf2YPbGAQF9tNEBoNkHNQ-1920-80.jpg",
-    "id": 7
+    "id": 9
   },
   {
     "title": "EV charging company plans to deploy 100,000 Nvidia GPUs in pods at its roadside sites across the US",
@@ -76,7 +94,7 @@
     "summary": "EV charging firm Xeal plans to use its existing U.S. network to deploy the 'world’s first edge inference compute network using idle EV charging capacity.'",
     "category": "hardware",
     "image": "https://cdn.mos.cms.futurecdn.net/hFbZ3KFScLxacYUh5DPYmA-1920-80.jpg",
-    "id": 8
+    "id": 10
   },
   {
     "title": "Hackers suspected of using AI agents for cyberattacks on South Korean banks, exposing data from about 25,000 customers",
@@ -86,7 +104,7 @@
     "summary": "South Korean president Lee Jae Myung told his cabinet that there were signs that hackers used AI to execute the attacks on the banks.",
     "category": "industry",
     "image": "https://cdn.mos.cms.futurecdn.net/ZrusnZa5yvdJgXGqZTkaHm-1920-80.png",
-    "id": 9
+    "id": 11
   },
   {
     "title": "Data center construction spending hits record $85 billion annual pace",
@@ -96,7 +114,7 @@
     "summary": "Census Bureau data shows U.S. data center construction spending hit a record $85 billion annual rate in August, up 73% in a year.",
     "category": "hardware",
     "image": "https://cdn.mos.cms.futurecdn.net/nGz8oRAR5Rb9Rr4mhcqvjf-1920-80.jpg",
-    "id": 10
+    "id": 12
   },
   {
     "title": "Qualcomm will pay Huawei to license its patents for the first time in historic turnaround",
@@ -106,7 +124,7 @@
     "summary": "Huawei and Qualcomm sign a multi-year patent cross-license covering 5G and AI, with Qualcomm buying some Huawei US patents.",
     "category": "industry",
     "image": "https://cdn.mos.cms.futurecdn.net/XSSbgkkmLdjiDmyoCmPaeY-1920-80.png",
-    "id": 11
+    "id": 13
   },
   {
     "title": "OpenAI and Synopsys partner to build \"GPT-Synopsys\" for autonomous chip design",
@@ -116,7 +134,7 @@
     "summary": "OpenAI and Synopsys are developing GPT-Synopsys, a specialized semiconductor-design model that will directly operate Synopsys EDA tools",
     "category": "hardware",
     "image": "https://cdn.mos.cms.futurecdn.net/L5bu9i78ZpqMnudoVp2DSk-1920-80.jpg",
-    "id": 12
+    "id": 14
   },
   {
     "title": "Elon Musk pledges SpaceXSI rebrand after Trump's executive order to use 'Super Intelligence' moniker",
@@ -126,7 +144,27 @@
     "summary": "Elon Musk says he plans to rename SpaceXAI as SpaceXSI to reflect the new \"Super Intelligence\" moniker adopted in President Trump's executive order",
     "category": "hardware",
     "image": "https://cdn.mos.cms.futurecdn.net/No4Po8VzLyUaK3BZZSd9Fc-1920-80.jpg",
-    "id": 13
+    "id": 15
+  },
+  {
+    "title": "Ex-Ramp engineers raise $20M for platform Melius after scrapping their first product",
+    "url": "https://techcrunch.com/2026/10/06/ex-ramp-engineers-raise-20m-for-platform-melius-after-scrapping-their-first-product/",
+    "source": "TechCrunch",
+    "date": "2026-10-06",
+    "summary": "Instead of helping marketers manage and optimize ad spend, the company is focusing on building the tools that generate the creative assets and campaigns.",
+    "category": "tools",
+    "image": "https://techcrunch.com/wp-content/uploads/2026/10/Melius.jpg?resize=1200,800",
+    "id": 16
+  },
+  {
+    "title": "How AI decision models could change content moderation",
+    "url": "https://techcrunch.com/2026/10/06/how-ai-decision-models-could-change-content-moderation/",
+    "source": "TechCrunch",
+    "date": "2026-10-06",
+    "summary": "On Tuesday, Musubi announced a lightweight decision model made for real-time moderation called PolicyLM-1.7B, released with open weights.",
+    "category": "models",
+    "image": "https://techcrunch.com/wp-content/uploads/2026/10/ai-agents-chatbots-GettyImages-2243730029.jpg?resize=1200,675",
+    "id": 17
   },
   {
     "title": "AI computing startup Lambda to raise $4B ahead of planned IPO",
@@ -136,7 +174,7 @@
     "summary": "Nvidia-backed Lambda is raising up to $4 billion at a $14.5 billion pre-money valuation ahead of a planned 2027 IPO, led by Coatue and Blackstone.",
     "category": "industry",
     "image": "https://techcrunch.com/wp-content/uploads/2025/02/GettyImages-1148109686.jpg?resize=1200,687",
-    "id": 14
+    "id": 18
   },
   {
     "title": "The next hurdle for AI agents: getting websites to let them in",
@@ -146,7 +184,7 @@
     "summary": "Personal AI agents promise to shop, book flights, and make reservations for you. But deliberate blocks and anti-bot defenses are getting in the way, leaving consumers caught in the middle. A new stand...",
     "category": "industry",
     "image": "https://techcrunch.com/wp-content/uploads/2026/10/ai-agent-bots-GettyImages-2243729307.jpg?resize=1200,800",
-    "id": 15
+    "id": 19
   },
   {
     "title": "Hark releases an AI personal assistant with a focus on privacy",
@@ -156,7 +194,7 @@
     "summary": "The AI lab's personal assistant is an operating system from the future designed to compete with Muse, Dots, and Instinct.",
     "category": "industry",
     "image": "https://techcrunch.com/wp-content/uploads/2026/10/Hark-Panels.png?resize=1200,675",
-    "id": 16
+    "id": 20
   },
   {
     "title": "Mirror Particle is building a ‘world model’ of human behavior",
@@ -166,7 +204,7 @@
     "summary": "Mirror Particle will launch at TechCrunch Disrupt's Startup Battlefield 200 with a world model built from scratch to predict human behavior, arguing that LLM role-play falls short for market research ...",
     "category": "industry",
     "image": "https://techcrunch.com/wp-content/uploads/2026/10/GettyImages-1404749040.jpg?resize=1200,675",
-    "id": 17
+    "id": 21
   },
   {
     "title": "Anthropic is giving startups a free year of Claude Team and $1,000 in credits",
@@ -176,7 +214,7 @@
     "summary": "\"We created this program because we believe the benefits of AI will reach most people through the companies that build on top of models, rather than through the models alone.\"",
     "category": "models",
     "image": "https://techcrunch.com/wp-content/uploads/2026/06/Claude-photo.jpg?w=1024",
-    "id": 18
+    "id": 22
   },
   {
     "title": "LibreOffice says ‘no AI’ is now a software feature",
@@ -186,7 +224,7 @@
     "summary": "The maker of the open source document editor says it has no plans to add AI to its software's default configuration, citing user privacy.",
     "category": "tools",
     "image": "https://techcrunch.com/wp-content/uploads/2026/10/libreoffice.jpg?w=1016",
-    "id": 19
+    "id": 23
   },
   {
     "title": "Mistral’s new 1T model aims to leapfrog closed and open rivals",
@@ -196,7 +234,7 @@
     "summary": "French AI lab Mistral AI has released Mistral Large 4, a new large multimodal model aiming to leapfrog both American and Chinese rivals.",
     "category": "models",
     "image": "https://techcrunch.com/wp-content/uploads/2026/03/GettyImages-2264771189.jpg?resize=1200,800",
-    "id": 20
+    "id": 24
   },
   {
     "title": "Pinterest’s AI now turns beauty Pins into action plans",
@@ -206,158 +244,192 @@
     "summary": "Pinterest’s new AI-powered Beauty Guides translate hair and nail Pins into salon terminology, with estimated costs, appointment times, and maintenance needs.",
     "category": "industry",
     "image": "https://techcrunch.com/wp-content/uploads/2026/10/BeautyGuides_Newsroom.webp?resize=1200,675",
-    "id": 21
+    "id": 25
+  },
+  {
+    "title": "South Korea says AI agents appear to have been used to hack the country's banks",
+    "url": "https://www.reuters.com/world/south-koreas-lee-says-ai-appears-have-been-used-bank-hacks-2026-10-06/",
+    "source": "Hacker News",
+    "date": "2026-10-06",
+    "summary": "Article URL: https://www.reuters.com/world/south-koreas-lee-says-ai-appears-have-been-used-bank-hacks-2026-10-06/ Comments URL: https://news.ycombinator.com/item?id=49985861 Points: 8 # Comments: 1",
+    "category": "industry",
+    "id": 26
+  },
+  {
+    "title": "Where do we draw the line on AI in court filings?",
+    "url": "https://lexifina.com/blog/where-to-draw-the-line-on-ai-in-court-filings",
+    "source": "Hacker News",
+    "date": "2026-10-06",
+    "summary": "Article URL: https://lexifina.com/blog/where-to-draw-the-line-on-ai-in-court-filings Comments URL: https://news.ycombinator.com/item?id=49985587 Points: 2 # Comments: 0",
+    "category": "industry",
+    "image": "https://lexifina.com/social-preview-v3.png?v=20261006",
+    "id": 27
+  },
+  {
+    "title": "AI Hasn't Replaced Interpreters But It Has Degraded Their Working Conditions",
+    "url": "https://capitalandmain.com/ai-hasnt-replaced-these-interpreters-but-it-has-degraded-their-working-conditions",
+    "source": "Hacker News",
+    "date": "2026-10-06",
+    "summary": "Article URL: https://capitalandmain.com/ai-hasnt-replaced-these-interpreters-but-it-has-degraded-their-working-conditions Comments URL: https://news.ycombinator.com/item?id=49985287 Points: 2 # Commen...",
+    "category": "tools",
+    "image": "https://capitalandmain.com/wp-content/uploads/2026/09/IMG_2598-1000x600.jpeg",
+    "id": 28
+  },
+  {
+    "title": "An Open Letter to Steven Pinker on AI",
+    "url": "https://www.astralcodexten.com/p/an-open-letter-to-steven-pinker-on",
+    "source": "Hacker News",
+    "date": "2026-10-06",
+    "summary": "Article URL: https://www.astralcodexten.com/p/an-open-letter-to-steven-pinker-on Comments URL: https://news.ycombinator.com/item?id=49984947 Points: 11 # Comments: 0",
+    "category": "industry",
+    "image": "https://substackcdn.com/image/fetch/$s_!StDJ!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F00c3f692-512a-457b-898d-23866315bc91_1448x747.png",
+    "id": 29
+  },
+  {
+    "title": "Show HN: An AI agent runs ten web errands a day, every transcript published",
+    "url": "https://agentability.org/",
+    "source": "Hacker News",
+    "date": "2026-10-06",
+    "summary": "Article URL: https://agentability.org/ Comments URL: https://news.ycombinator.com/item?id=49984736 Points: 3 # Comments: 0",
+    "category": "industry",
+    "image": "https://agentability.org/og.png",
+    "id": 30
+  },
+  {
+    "title": "Penguin Mail – open-source Rust email client for Linux with AI",
+    "url": "https://penguin-mail.com/",
+    "source": "Hacker News",
+    "date": "2026-10-06",
+    "summary": "Article URL: https://penguin-mail.com/ Comments URL: https://news.ycombinator.com/item?id=49984716 Points: 31 # Comments: 9",
+    "category": "industry",
+    "image": "https://penguin-mail.com/brand/social-preview.png",
+    "id": 31
+  },
+  {
+    "title": "AI is going to run out of power",
+    "url": "https://www.transformernews.ai/p/ai-will-run-out-of-power",
+    "source": "Hacker News",
+    "date": "2026-10-06",
+    "summary": "Article URL: https://www.transformernews.ai/p/ai-will-run-out-of-power Comments URL: https://news.ycombinator.com/item?id=49984644 Points: 2 # Comments: 0",
+    "category": "models",
+    "image": "https://substackcdn.com/image/fetch/$s_!GvMG!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F475966d2-e4a4-4610-9933-29e998a56d4e_1920x1080.png",
+    "id": 32
+  },
+  {
+    "title": "Sulcus – observe and control AI agents while they run",
+    "url": "https://sulcus.dev/",
+    "source": "Hacker News",
+    "date": "2026-10-06",
+    "summary": "Article URL: https://sulcus.dev/ Comments URL: https://news.ycombinator.com/item?id=49984636 Points: 2 # Comments: 0",
+    "category": "industry",
+    "image": "https://sulcus.dev/og.png",
+    "id": 33
+  },
+  {
+    "title": "Italian PM files to trademark her voice against AI threats",
+    "url": "https://www.bbc.com/news/articles/ckly0g1ljq2yo",
+    "source": "Hacker News",
+    "date": "2026-10-06",
+    "summary": "Article URL: https://www.bbc.com/news/articles/ckly0g1ljq2yo Comments URL: https://news.ycombinator.com/item?id=49984617 Points: 1 # Comments: 0",
+    "category": "industry",
+    "image": "https://ichef.bbci.co.uk/news/1024/branded_news/cc57/live/ceb63ea0-c15f-11f1-ae7b-cfc528a6c828.jpg",
+    "id": 34
+  },
+  {
+    "title": "Meta open sources code to let you make Muse AI gadgets",
+    "url": "https://www.theverge.com/tech/1004330/meta-muse-ai-gadgets-home-link",
+    "source": "Hacker News",
+    "date": "2026-10-06",
+    "summary": "Article URL: https://www.theverge.com/tech/1004330/meta-muse-ai-gadgets-home-link Comments URL: https://news.ycombinator.com/item?id=49984547 Points: 2 # Comments: 0",
+    "category": "tools",
+    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/STKB394_MUSE_AI_CVIRGINIA_B.png?quality=90&strip=all&crop=0%2C9.9676601489831%2C100%2C80.064679702034&w=1200",
+    "id": 35
+  },
+  {
+    "title": "Mistral unveils new AI model it says rivals best open systems from China",
+    "url": "https://www.cnbc.com/2026/10/06/mistral-ai-model-le-chonk.html",
+    "source": "Hacker News",
+    "date": "2026-10-06",
+    "summary": "Article URL: https://www.cnbc.com/2026/10/06/mistral-ai-model-le-chonk.html Comments URL: https://news.ycombinator.com/item?id=49984444 Points: 1 # Comments: 1",
+    "category": "models",
+    "image": "https://image.cnbcfm.com/api/v1/image/108312961-1779950527402-gettyimages-2261818985-INDIA_AI_GOOGLE.jpeg?v=1779950533&w=1920&h=1080",
+    "id": 36
+  },
+  {
+    "title": "Top Open Problems in Math by LLM-Assessed Importance",
+    "url": "https://www.proofatlas.ai/open-problems/",
+    "source": "Hacker News",
+    "date": "2026-10-06",
+    "summary": "Article URL: https://www.proofatlas.ai/open-problems/ Comments URL: https://news.ycombinator.com/item?id=49984311 Points: 3 # Comments: 0",
+    "category": "models",
+    "id": 37
+  },
+  {
+    "title": "Daniel Kokotajlo's senate testimony on AI risk [pdf]",
+    "url": "https://www.hsgac.senate.gov/wp-content/uploads/Daniel-Kokotajlo-Testimony.pdf",
+    "source": "Hacker News",
+    "date": "2026-10-06",
+    "summary": "Article URL: https://www.hsgac.senate.gov/wp-content/uploads/Daniel-Kokotajlo-Testimony.pdf Comments URL: https://news.ycombinator.com/item?id=49984197 Points: 2 # Comments: 0",
+    "category": "industry",
+    "id": 38
+  },
+  {
+    "title": "Give Your AI Agent a Domain-Specific Language",
+    "url": "https://www.modeloptic.com/blog/give-your-ai-agent-a-dsl",
+    "source": "Hacker News",
+    "date": "2026-10-06",
+    "summary": "Article URL: https://www.modeloptic.com/blog/give-your-ai-agent-a-dsl Comments URL: https://news.ycombinator.com/item?id=49984029 Points: 3 # Comments: 0",
+    "category": "industry",
+    "image": "https://modeloptic-public.s3.us-east-2.amazonaws.com/blog/give-your-ai-agent-a-dsl/og-2026-09-25.png",
+    "id": 39
+  },
+  {
+    "title": "Record labels are in a spin over AI music",
+    "url": "https://www.economist.com/business/2026/10/05/record-labels-are-in-a-spin-over-ai-music",
+    "source": "Hacker News",
+    "date": "2026-10-06",
+    "summary": "Article URL: https://www.economist.com/business/2026/10/05/record-labels-are-in-a-spin-over-ai-music Comments URL: https://news.ycombinator.com/item?id=49983879 Points: 2 # Comments: 0",
+    "category": "industry",
+    "id": 40
+  },
+  {
+    "title": "Enterprise AI is vaporware without access to systems of record",
+    "url": "https://www.ampersand.ai/blog/series-a-integration-infrastructure-for-enterprise-agents",
+    "source": "Hacker News",
+    "date": "2026-10-06",
+    "summary": "Article URL: https://www.ampersand.ai/blog/series-a-integration-infrastructure-for-enterprise-agents Comments URL: https://news.ycombinator.com/item?id=49983597 Points: 2 # Comments: 0",
+    "category": "industry",
+    "image": "https://res.cloudinary.com/dycvts6vp/image/upload/c_fill,g_center,w_1200,h_630/q_auto/v1791303149/DSC05972_nyopx2.jpg",
+    "id": 41
+  },
+  {
+    "title": "Meta's Muse AI agent is building a dossier on you",
+    "url": "https://time.com/article/2026/10/06/meta-muse-ai-agent-privacy/",
+    "source": "Hacker News",
+    "date": "2026-10-06",
+    "summary": "Article URL: https://time.com/article/2026/10/06/meta-muse-ai-agent-privacy/ Comments URL: https://news.ycombinator.com/item?id=49983579 Points: 17 # Comments: 13",
+    "category": "industry",
+    "image": "https://static.time.com/v3/assets/bltea6093859af6183b/bltc7c35e85ac8a8f60/6ac4f7af15869b36aae973f8/GettyImages-2297134397.jpg?branch=production&width=1024&quality=75&auto=webp&crop=16:9",
+    "id": 42
+  },
+  {
+    "title": "Most AI data businesses should run as cash / dividend businesses",
+    "url": "https://twitter.com/gokulr/status/2107538431375241564",
+    "source": "Hacker News",
+    "date": "2026-10-06",
+    "summary": "Article URL: https://twitter.com/gokulr/status/2107538431375241564 Comments URL: https://news.ycombinator.com/item?id=49983467 Points: 1 # Comments: 0",
+    "category": "industry",
+    "image": "https://pbs.twimg.com/profile_images/967146848082321408/6IHD3HIa_400x400.jpg",
+    "id": 43
   },
   {
     "title": "OpenAI Dots: The New Always-On AI Agents from OpenAI",
     "url": "https://devnavigator.com/2026/10/06/openai-dots-always-on-ai-agents/",
     "source": "Hacker News",
     "date": "2026-10-06",
-    "summary": "Article URL: https://devnavigator.com/2026/10/06/openai-dots-always-on-ai-agents/ Comments URL: https://news.ycombinator.com/item?id=49983255 Points: 1 # Comments: 0",
+    "summary": "Article URL: https://devnavigator.com/2026/10/06/openai-dots-always-on-ai-agents/ Comments URL: https://news.ycombinator.com/item?id=49983255 Points: 1 # Comments: 1",
     "category": "industry",
-    "id": 22
-  },
-  {
-    "title": "Reducing the cognitive load of AI changes",
-    "url": "https://amoffat.github.io/blog/cognitive-load.html",
-    "source": "Hacker News",
-    "date": "2026-10-06",
-    "summary": "Article URL: https://amoffat.github.io/blog/cognitive-load.html Comments URL: https://news.ycombinator.com/item?id=49983006 Points: 1 # Comments: 0",
-    "category": "industry",
-    "id": 23
-  },
-  {
-    "title": "Show HN: HieraticBench – Can AI read ancient Egyptian handwriting?",
-    "url": "https://hieraticbench.vercel.app/",
-    "source": "Hacker News",
-    "date": "2026-10-06",
-    "summary": "I'm obsessed with Egyptology. During covid, I wanted to get a hieratic tattoo. For those who don't know, hieratic is the cursive form of hieroglyphs that was used in day-to-day life in ancient Egypt. ...",
-    "category": "models",
-    "image": "https://hieraticbench.vercel.app/og.png",
-    "id": 24
-  },
-  {
-    "title": "The biggest advance in AI since the LLM",
-    "url": "https://garymarcus.substack.com/p/the-biggest-advance-in-ai-since-the",
-    "source": "Hacker News",
-    "date": "2026-10-06",
-    "summary": "Article URL: https://garymarcus.substack.com/p/the-biggest-advance-in-ai-since-the Comments URL: https://news.ycombinator.com/item?id=49982799 Points: 1 # Comments: 0",
-    "category": "models",
-    "id": 25
-  },
-  {
-    "title": "LLM That Beat Frontier Models at Chess",
-    "url": "https://www.aidancooper.co.uk/the-2023-llm-that-beat-frontier-models-at-chess/",
-    "source": "Hacker News",
-    "date": "2026-10-06",
-    "summary": "Article URL: https://www.aidancooper.co.uk/the-2023-llm-that-beat-frontier-models-at-chess/ Comments URL: https://news.ycombinator.com/item?id=49982787 Points: 1 # Comments: 0",
-    "category": "models",
-    "image": "https://storage.ghost.io/c/36/28/362843d9-d91b-4b54-b9b1-bf5e6c6c5d54/content/images/size/w1200/2026/09/Screenshot-2026-09-27-at-16.13.43.png",
-    "id": 26
-  },
-  {
-    "title": "Hands-on comparison of Jev with Haiku 4.5, GPT-5.4-mini, and Gemini 3.5 Flash",
-    "url": "https://blog.oodle.ai/is-jev-the-right-model-for-your-use-case-a-walkthrough-comparing-haiku-4-5-gpt-5-4-mini-and-gemini-3-5-flash/",
-    "source": "Hacker News",
-    "date": "2026-10-06",
-    "summary": "Article URL: https://blog.oodle.ai/is-jev-the-right-model-for-your-use-case-a-walkthrough-comparing-haiku-4-5-gpt-5-4-mini-and-gemini-3-5-flash/ Comments URL: https://news.ycombinator.com/item?id=4998...",
-    "category": "models",
-    "image": "https://storage.ghost.io/c/b2/48/b2485d36-0dcd-4e46-b7bd-418ab6e38e18/content/images/size/w1200/2026/09/jev_blog_image.png",
-    "id": 27
-  },
-  {
-    "title": "Kent Beck: Software Engineering in the Age of AI [video]",
-    "url": "https://www.youtube.com/watch?v=F8fBgDCf2Y4",
-    "source": "Hacker News",
-    "date": "2026-10-06",
-    "summary": "Article URL: https://www.youtube.com/watch?v=F8fBgDCf2Y4 Comments URL: https://news.ycombinator.com/item?id=49982715 Points: 1 # Comments: 0",
-    "category": "industry",
-    "id": 28
-  },
-  {
-    "title": "Optimizing Away Learning with AI",
-    "url": "https://hilalmutlu.com/blog/optimizing-away-learning-with-ai/",
-    "source": "Hacker News",
-    "date": "2026-10-06",
-    "summary": "Article URL: https://hilalmutlu.com/blog/optimizing-away-learning-with-ai/ Comments URL: https://news.ycombinator.com/item?id=49982693 Points: 3 # Comments: 0",
-    "category": "industry",
-    "id": 29
-  },
-  {
-    "title": "Norway's biggest bank DNB to lay off around 400 staff amid AI-driven changes",
-    "url": "https://www.reuters.com/business/world-at-work/norways-biggest-bank-dnb-lay-off-around-400-staff-amid-ai-driven-changes-2026-10-06/",
-    "source": "Hacker News",
-    "date": "2026-10-06",
-    "summary": "Article URL: https://www.reuters.com/business/world-at-work/norways-biggest-bank-dnb-lay-off-around-400-staff-amid-ai-driven-changes-2026-10-06/ Comments URL: https://news.ycombinator.com/item?id=4998...",
-    "category": "industry",
-    "id": 30
-  },
-  {
-    "title": "The First Brain Manifesto: AI that amplifies the human brain",
-    "url": "https://github.com/Serhii2009/first-brain",
-    "source": "Hacker News",
-    "date": "2026-10-06",
-    "summary": "Article URL: https://github.com/Serhii2009/first-brain Comments URL: https://news.ycombinator.com/item?id=49982462 Points: 1 # Comments: 0",
-    "category": "industry",
-    "image": "https://opengraph.githubassets.com/9565fd59350d4204f771dc7568590c06c16f2ad93bfaee2f15bf30eaa1cb92ce/Serhii2009/first-brain",
-    "id": 31
-  },
-  {
-    "title": "UT Austin Math Chair says OpenAI preparing to release 400 AI-generated proofs",
-    "url": "https://twitter.com/Frances01896069/status/2107171555973185577",
-    "source": "Hacker News",
-    "date": "2026-10-06",
-    "summary": "Article URL: https://twitter.com/Frances01896069/status/2107171555973185577 Comments URL: https://news.ycombinator.com/item?id=49982415 Points: 1 # Comments: 0",
-    "category": "industry",
-    "image": "https://pbs.twimg.com/profile_images/1318299379904794626/RbTQT9rj_400x400.jpg",
-    "id": 32
-  },
-  {
-    "title": "Show HN: Prevo – AI voice interviewer for visa, citizenship, job and pitch prep",
-    "url": "https://www.prevoapp.com/",
-    "source": "Hacker News",
-    "date": "2026-10-06",
-    "summary": "Article URL: https://www.prevoapp.com/ Comments URL: https://news.ycombinator.com/item?id=49982299 Points: 1 # Comments: 0",
-    "category": "industry",
-    "image": "https://www.prevoapp.com/prevo-icon.png",
-    "id": 33
-  },
-  {
-    "title": "AI Just Became the Biggest Threat of Humanity [video]",
-    "url": "https://www.youtube.com/watch?v=ujkD4SxPKOI",
-    "source": "Hacker News",
-    "date": "2026-10-06",
-    "summary": "Article URL: https://www.youtube.com/watch?v=ujkD4SxPKOI Comments URL: https://news.ycombinator.com/item?id=49982067 Points: 3 # Comments: 2",
-    "category": "industry",
-    "id": 34
-  },
-  {
-    "title": "Ask HN: What Would You Like to See in a New AI Technology Release?",
-    "url": "https://news.ycombinator.com/item?id=49982033",
-    "source": "Hacker News",
-    "date": "2026-10-06",
-    "summary": "Hello, We’re Iki Software, an AI R&D company working on “SPC-AI”, our new AI technology. SPC is a different kind of AI from LLMs, transformers or neural networks. Instead of prompting, you use it as a...",
-    "category": "models",
-    "id": 35
-  },
-  {
-    "title": "The Metaphysical Impossibility of AI [video]",
-    "url": "https://www.youtube.com/watch?v=nzCtuKSt3gA",
-    "source": "Hacker News",
-    "date": "2026-10-06",
-    "summary": "Article URL: https://www.youtube.com/watch?v=nzCtuKSt3gA Comments URL: https://news.ycombinator.com/item?id=49981997 Points: 1 # Comments: 0",
-    "category": "industry",
-    "id": 36
-  },
-  {
-    "title": "Parents are using AI to generate pictures of their kids to save money",
-    "url": "https://www.dexerto.com/entertainment/parents-are-using-ai-to-generate-pictures-of-their-kids-to-save-money-on-school-photos-3416112/",
-    "source": "Hacker News",
-    "date": "2026-10-06",
-    "summary": "Article URL: https://www.dexerto.com/entertainment/parents-are-using-ai-to-generate-pictures-of-their-kids-to-save-money-on-school-photos-3416112/ Comments URL: https://news.ycombinator.com/item?id=49...",
-    "category": "industry",
-    "image": "https://www.dexerto.com/cdn-image/wp-content/uploads/2026/10/06/class-photo-ai-chatgpt.jpg",
-    "id": 37
+    "id": 44
   },
   {
     "title": "‘Artificial’ Roasts AI’s Creators—and Sends a Dark Warning About Its Dangers",
@@ -367,7 +439,7 @@
     "summary": "From their dorky parties to their weird walks, the movie holds OpenAI CEO Sam Altman and other stakeholders with contempt, while demonstrating their recklessness.",
     "category": "industry",
     "image": "https://media.wired.com/photos/6abeb0c6be4bdb85e3b4d7e4/191:100/w_1280,c_limit/Artificial-NYFF-Screening-Culture.jpg",
-    "id": 38
+    "id": 45
   },
   {
     "title": "OpenAI Is Pissing Off a Bunch of Mathematicians—Again",
@@ -377,7 +449,7 @@
     "summary": "“There’s a perception of mobster behavior” from leading AI companies, one mathematician tells WIRED as OpenAI prepares to release more than 100 new solutions to unsolved problems.",
     "category": "industry",
     "image": "https://media.wired.com/photos/6ac4301373c1ba905b24e9bd/191:100/w_1280,c_limit/science_openai_mathematicians_weird.jpg",
-    "id": 39
+    "id": 46
   },
   {
     "title": "Mistral Says Its New AI Model ‘Le Chonk’ Is the Best Open-Weight Offering Outside of China",
@@ -387,7 +459,7 @@
     "summary": "With the release of its new trillion-parameter model, Mistral is hoping to demonstrate it’s “still in the race” to build frontier-level artificial intelligence.",
     "category": "models",
     "image": "https://media.wired.com/photos/6ac4f176165d7d326c8d86b1/191:100/w_1280,c_limit/GettyImages-2277901311.jpg",
-    "id": 40
+    "id": 47
   },
   {
     "title": "Kevin Roose Didn’t Use AI to Write His Book About AI",
@@ -397,7 +469,7 @@
     "summary": "The author of The AGI Chronicles says his book “was written by a very tired, overworked, under-slept human being.”",
     "category": "industry",
     "image": "https://media.wired.com/photos/6ac390393e484daf0cf6af34/191:100/w_1280,c_limit/100516-Big%20Interview%20K%20Roose%20Solo.jpg",
-    "id": 41
+    "id": 48
   },
   {
     "title": "Training Numerical Intelligence via Auto-Diagnosis and Skill Discovery",
@@ -406,7 +478,7 @@
     "date": "2026-10-06",
     "summary": "AI agents are becoming increasingly capable of generating scientific code, but generating code is not the same as improving the algorithms behind it. For numerical solvers, execution feedback can expo...",
     "category": "models",
-    "id": 42
+    "id": 49
   },
   {
     "title": "REACT: Physically and Chemically Consistent Reconstruction of Marine Active Tracers",
@@ -415,69 +487,6 @@
     "date": "2026-10-06",
     "summary": "Reconstructing global sea surface pH from sparse observations is critical for monitoring ocean acidification and understanding marine carbon cycling. Traditional assimilation and inverse models are ph...",
     "category": "research",
-    "id": 43
-  },
-  {
-    "title": "Proxy Confidence: Auditing Black-Box LLM Agents with a Surrogate's Log-Probabilities",
-    "url": "https://arxiv.org/abs/2610.03894",
-    "source": "arXiv cs.AI",
-    "date": "2026-10-06",
-    "summary": "A deployed LLM agent emits tool calls, queries, and code that can be silently wrong -- by the time the error surfaces, the action has run. Frontier chat APIs hide the model's token probabilities; the ...",
-    "category": "models",
-    "id": 44
-  },
-  {
-    "title": "SGAnalog: An End-to-End Circuit Benchmark from Open-Source Silicon Tapeouts",
-    "url": "https://arxiv.org/abs/2610.03934",
-    "source": "arXiv cs.AI",
-    "date": "2026-10-06",
-    "summary": "Existing analog integrated circuit design benchmarks make two questions hard to answer: whether a model has learned transferable circuit skills rather than recalled familiar examples, and whether its ...",
-    "category": "models",
-    "id": 45
-  },
-  {
-    "title": "MLLMs Fail to Refuse when Using Tools Agentically",
-    "url": "https://arxiv.org/abs/2610.03938",
-    "source": "arXiv cs.AI",
-    "date": "2026-10-06",
-    "summary": "Agentic multimodal large language models (MLLMs) have recently pushed the frontier of visual reasoning by calling tools such as zooming and tagging. Despite the recent strong success of agentic MLLMs,...",
-    "category": "models",
-    "id": 46
-  },
-  {
-    "title": "Retrieval-Augmented Large Language Model Decision-Making for Autonomous Driving Guided by Chinese Philosophical Wisdom",
-    "url": "https://arxiv.org/abs/2610.03948",
-    "source": "arXiv cs.AI",
-    "date": "2026-10-06",
-    "summary": "Autonomous driving decision systems must balance safety, efficiency, and social norms in complex traffic interactions. Philosophical and ethical considerations have received limited attention in exist...",
-    "category": "models",
-    "id": 47
-  },
-  {
-    "title": "LatentQuant: Preserving the Policy-Facing Latent Contract under NVFP4 VAE Quantization",
-    "url": "https://arxiv.org/abs/2610.03959",
-    "source": "arXiv cs.AI",
-    "date": "2026-10-06",
-    "summary": "Recent world action models (WAMs) reuse pretrained video VAEs whose encoder latents directly condition downstream action policies. Quantization must therefore preserve not only reconstruction fidelity...",
-    "category": "hardware",
-    "id": 48
-  },
-  {
-    "title": "ROAR: Unifying Runs across Heterogeneous AI-Driven Research Systems",
-    "url": "https://arxiv.org/abs/2610.03966",
-    "source": "arXiv cs.AI",
-    "date": "2026-10-06",
-    "summary": "Each run of an AI-driven research system (ADRS) is an expensive search over a vast solution space, and dependable evaluation requires many runs, making run data both costly to produce and valuable to ...",
-    "category": "research",
-    "id": 49
-  },
-  {
-    "title": "Teaching Agents to Code Reliably",
-    "url": "https://arxiv.org/abs/2610.03984",
-    "source": "arXiv cs.AI",
-    "date": "2026-10-06",
-    "summary": "Autonomous coding agents solve repository issues by reading code, running commands, editing files, and submitting patches. Extra inference-time compute yields gains only when it produces a useful repa...",
-    "category": "models",
     "id": 50
   }
 ]
