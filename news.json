@@ -1,31 +1,33 @@
 [
   {
-    "title": "Introducing Playground: Create and play custom games",
-    "url": "https://blog.google/innovation-and-ai/technology/ai/playground-experimental-gaming-platform/",
-    "source": "Google AI Blog",
-    "date": "2026-10-07",
-    "summary": "Playground is a new experimental gaming platform that lets you create, play, and share custom games.",
-    "category": "tools",
-    "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/THUMBNAIL_BLOG.max-600x600.format-webp.webp",
+    "title": "OpenAI's human rights lead: What military AI could do 'keeps me up at night'",
+    "url": "https://fortune.com/2026/10/06/openai-human-rights-lead-sarah-yager-military-ai-use-concerns/",
+    "source": "Hacker News",
+    "date": "2026-10-08",
+    "summary": "Article URL: https://fortune.com/2026/10/06/openai-human-rights-lead-sarah-yager-military-ai-use-concerns/ Comments URL: https://news.ycombinator.com/item?id=50000661 Points: 1 # Comments: 0",
+    "category": "industry",
+    "image": "https://fortune.com/img-assets/wp-content/uploads/2026/10/GettyImages-2294362806-e1791314939909.jpg?resize=1200,600",
     "id": 1,
     "featured": true
   },
   {
-    "title": "Radisson Hotel Group brings hotel discovery into ChatGPT",
-    "url": "https://openai.com/index/radisson",
-    "source": "OpenAI Blog",
-    "date": "2026-10-07",
-    "summary": "Radisson partnered with Accenture to build a ChatGPT plugin using OpenAI technology, helping travelers find, compare, and book hotels while planning their trips.",
-    "category": "tools",
+    "title": "AI cluster networking reading list: RDMA, collectives, fabrics",
+    "url": "https://github.com/Rewsr/unawesome-ai-fabric-engineering",
+    "source": "Hacker News",
+    "date": "2026-10-08",
+    "summary": "Article URL: https://github.com/Rewsr/unawesome-ai-fabric-engineering Comments URL: https://news.ycombinator.com/item?id=50000484 Points: 4 # Comments: 0",
+    "category": "hardware",
+    "image": "https://opengraph.githubassets.com/67df2a97dbabb7029a8c1f1577d08f065baad55ebb0e8b719b7bf73ce5d7e917/Rewsr/unawesome-ai-fabric-engineering",
     "id": 2
   },
   {
-    "title": "GPT-6 and Intelligent UI for everyone",
-    "url": "https://openai.com/index/gpt-6-for-everyone",
-    "source": "OpenAI Blog",
-    "date": "2026-10-07",
-    "summary": "GPT‑6 is rolling out globally in ChatGPT with Intelligent UI, delivering faster responses with visuals and interactive experiences you can explore and use directly.",
-    "category": "models",
+    "title": "Bold AI developer takes aim at Adobe with open source clones",
+    "url": "https://arstechnica.com/ai/2026/10/software-is-over-bold-ai-developer-takes-aim-at-adobe-with-open-source-clones/",
+    "source": "Hacker News",
+    "date": "2026-10-08",
+    "summary": "Article URL: https://arstechnica.com/ai/2026/10/software-is-over-bold-ai-developer-takes-aim-at-adobe-with-open-source-clones/ Comments URL: https://news.ycombinator.com/item?id=50000426 Points: 4 # C...",
+    "category": "tools",
+    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/greatwave-1152x648.webp",
     "id": 3
   },
   {
@@ -38,6 +40,44 @@
     "id": 4
   },
   {
+    "title": "Radisson Hotel Group brings hotel discovery into ChatGPT",
+    "url": "https://openai.com/index/radisson",
+    "source": "OpenAI Blog",
+    "date": "2026-10-07",
+    "summary": "Radisson partnered with Accenture to build a ChatGPT plugin using OpenAI technology, helping travelers find, compare, and book hotels while planning their trips.",
+    "category": "tools",
+    "id": 5
+  },
+  {
+    "title": "GPT-6 and Intelligent UI for everyone",
+    "url": "https://openai.com/index/gpt-6-for-everyone",
+    "source": "OpenAI Blog",
+    "date": "2026-10-07",
+    "summary": "GPT‑6 is rolling out globally in ChatGPT with Intelligent UI, delivering faster responses with visuals and interactive experiences you can explore and use directly.",
+    "category": "models",
+    "id": 6
+  },
+  {
+    "title": "Introducing Playground: Create and play custom games",
+    "url": "https://blog.google/innovation-and-ai/technology/ai/playground-experimental-gaming-platform/",
+    "source": "Google AI Blog",
+    "date": "2026-10-07",
+    "summary": "Playground is a new experimental gaming platform that lets you create, play, and share custom games.",
+    "category": "tools",
+    "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/THUMBNAIL_BLOG.max-600x600.format-webp.webp",
+    "id": 7
+  },
+  {
+    "title": "NVIDIA, Microsoft Kick Off a New Beginning for Windows PCs With RTX Spark and AI Agents",
+    "url": "https://blogs.nvidia.com/blog/local-ai-rtx-spark-microsoft-windows-event/",
+    "source": "NVIDIA Blog",
+    "date": "2026-10-07",
+    "summary": "At a Microsoft event in San Francisco on Wednesday, NVIDIA founder and CEO Jensen Huang and Microsoft CEO Satya Nadella outlined how NVIDIA and Microsoft are co-engineering hardware and software for A...",
+    "category": "hardware",
+    "image": "https://blogs.nvidia.com/wp-content/uploads/2026/10/nvidia-rtx-spark-microsoft-event-3840x2160-1-scaled.png",
+    "id": 8
+  },
+  {
     "title": "AI agent fleet likely from Chinese firm Tencent pulled data from rival Alibaba’s maps, researchers say",
     "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/ai-agent-fleet-likely-from-chinese-firm-tencent-pulled-data-from-rival-alibabas-maps-researchers-say-1-810-scans-in-one-day-some-runs-labeled-themselves-claude",
     "source": "Tom's Hardware",
@@ -45,7 +85,7 @@
     "summary": "Researchers say AI agents on Tencent Cloud used urlquery.net to pull entrance data from Alibaba’s Amap, with 1,810 scans in one day.",
     "category": "research",
     "image": "https://cdn.mos.cms.futurecdn.net/d277XKMkcSTug5XqcswuhC-1920-80.jpg",
-    "id": 5
+    "id": 9
   },
   {
     "title": "This monster RTX 5090 Alienware gaming PC costs less than buying the GPU and CPU alone",
@@ -55,7 +95,7 @@
     "summary": "Get an RTX 5090 Alienware gaming PC $500 less.",
     "category": "hardware",
     "image": "https://cdn.mos.cms.futurecdn.net/GoBL5mJ6LUFotjRX2qAszn-1920-80.jpg",
-    "id": 6
+    "id": 10
   },
   {
     "title": "Get 22% off this sweet Ryzen 7 7800X3D and RTX 5070-powered gaming PC at just $1799",
@@ -65,7 +105,27 @@
     "summary": "Get $500 off this prebuilt gaming PC with a sweet Ryzen 7 7800X3D CPU, a powerful RTX 5070 graphics card, and 32GB of memory at just $1799.",
     "category": "hardware",
     "image": "https://cdn.mos.cms.futurecdn.net/FXYPmjJNoaf5EVv7CuBonA-1920-80.jpg",
-    "id": 7
+    "id": 11
+  },
+  {
+    "title": "Nous Research confirms it hit $1.5B valuation, launches AI agents for business users",
+    "url": "https://techcrunch.com/2026/10/07/nous-research-confirms-it-hit-1-5b-valuation-launches-ai-agents-for-business-users/",
+    "source": "TechCrunch",
+    "date": "2026-10-07",
+    "summary": "The developer of Hermes Agent raised a $90 million Series B.",
+    "category": "industry",
+    "image": "https://techcrunch.com/wp-content/uploads/2025/02/GjsjauvbsAAgUtD.jpeg?w=900",
+    "id": 12
+  },
+  {
+    "title": "Microsoft releases new Nvidia-chip AI PCs with revamped Windows 11",
+    "url": "https://techcrunch.com/2026/10/07/microsoft-releases-new-nvidia-chip-ai-pcs-with-revamped-windows-11/",
+    "source": "TechCrunch",
+    "date": "2026-10-07",
+    "summary": "Microsoft revealed the specs and price for its Surface Laptop Ultra, AI PCs that run on Nvidia chips that are designed to run AI models and agents.",
+    "category": "hardware",
+    "image": "https://techcrunch.com/wp-content/uploads/2026/10/Microsoft-Surface-Laptop-Ultra.png?resize=1200,677",
+    "id": 13
   },
   {
     "title": "Meta’s Muse launches on iPad just a month after its mobile debut",
@@ -75,7 +135,7 @@
     "summary": "Meta’s AI agent Muse is now available on iPad, just a month after its mobile debut, as the company rapidly expands the assistant’s reach and integrations.",
     "category": "tools",
     "image": "https://techcrunch.com/wp-content/uploads/2026/09/meta-muse-app-GettyImages-2293792137.jpg?w=1024",
-    "id": 8
+    "id": 14
   },
   {
     "title": "ChatGPT for Teens keeps teens talking, even during mental health crises",
@@ -85,7 +145,7 @@
     "summary": "ChatGPT’s teen safeguards are meant to protect vulnerable users, but new testing found the chatbot continues encouraging engagement during crises and potentially encourages unhealthy relationships wit...",
     "category": "models",
     "image": "https://techcrunch.com/wp-content/uploads/2026/10/GettyImages-2268195606.jpg?w=1024",
-    "id": 9
+    "id": 15
   },
   {
     "title": "ChatGPT is getting a lot more visual, with the launch of a new interface",
@@ -95,7 +155,7 @@
     "summary": "OpenAI is launching a new user interface that will bring interactive visuals to ChatGPT.",
     "category": "models",
     "image": "https://techcrunch.com/wp-content/uploads/2026/10/Intelligent-UI.png?resize=1200,675",
-    "id": 10
+    "id": 16
   },
   {
     "title": "Meta rolls out new AI tools to detect ads that secretly lead to child sexual abuse material",
@@ -105,7 +165,7 @@
     "summary": "Meta launches new AI tools after discovering ads on its platforms that may look normal but direct users to harmful content elsewhere online.",
     "category": "tools",
     "image": "https://techcrunch.com/wp-content/uploads/2024/08/GettyImages-2152655802.jpg?resize=1200,802",
-    "id": 11
+    "id": 17
   },
   {
     "title": "Healthleap raises $38M for its AI that flags hospital patients who may need a closer look",
@@ -115,7 +175,7 @@
     "summary": "The financing includes an $8M seed round co-led by Sequoia Capital and First Round Capital, and a $30 million Series A led by Hummingbird Ventures.",
     "category": "tools",
     "image": "https://techcrunch.com/wp-content/uploads/2026/10/healthleap.jpeg?resize=1200,675",
-    "id": 12
+    "id": 18
   },
   {
     "title": "Tony Fadell on why the first wave of AI gadgets failed — and what comes next",
@@ -125,7 +185,7 @@
     "summary": "The “father of the iPod” says the first generation of AI gadgets failed to solve real problems — and the next wave will need to earn consumers’ trust.",
     "category": "industry",
     "image": "https://techcrunch.com/wp-content/uploads/2026/10/Tony-Fadell_AI-Hardware_MIT-Future-Fest-1.jpg?resize=1200,800",
-    "id": 13
+    "id": 19
   },
   {
     "title": "Google experiments with an AI-powered gaming platform",
@@ -135,7 +195,7 @@
     "summary": "Google Labs is working on a new AI-powered game-creation platform called Playground for users to build browser-based games using simple text prompts.",
     "category": "tools",
     "image": "https://techcrunch.com/wp-content/uploads/2026/10/Google-Playground1.png?w=1142",
-    "id": 14
+    "id": 20
   },
   {
     "title": "OpenAI’s Alexander Embiricos is coming to TechCrunch Disrupt 2026 — days after the launch of Dots",
@@ -145,7 +205,7 @@
     "summary": "OpenAI’s Alexander Embiricos is coming to the AI Stage at TechCrunch Disrupt 2026, just days after the launch of Dots. Join this conversation by registering for your pass. Get you pass now to save up ...",
     "category": "industry",
     "image": "https://techcrunch.com/wp-content/uploads/2025/09/Disrupt-2025-AI-Stage.jpg?resize=1200,800",
-    "id": 15
+    "id": 21
   },
   {
     "title": "Get hands-on: The full lineup of interactive roundtables at TechCrunch Disrupt 2026",
@@ -155,7 +215,7 @@
     "summary": "From Nvidia and Chime to Obvious Ventures and Anthropic, explore the entire roundtable agenda at TechCrunch Disrupt 2026. Register now to save up to $100 on your pass and get a second pass at 50% off.",
     "category": "hardware",
     "image": "https://techcrunch.com/wp-content/uploads/2025/12/TC-All-Stage-2025-roundtable.jpg?resize=1200,800",
-    "id": 16
+    "id": 22
   },
   {
     "title": "Google’s new SynthID website can identify AI-generated media",
@@ -165,166 +225,153 @@
     "summary": "Google on Tuesday launched a new site that lets anyone verify whether a piece of media, be it an image, a video, or an audio clip, is generated using AI.",
     "category": "industry",
     "image": "https://techcrunch.com/wp-content/uploads/2026/10/SynthID_Detector_Homepage_Web.jpeg?resize=1200,675",
-    "id": 17
-  },
-  {
-    "title": "Ask HN: Will mental health improve as AI brings mathematicians down to earth?",
-    "url": "https://news.ycombinator.com/item?id=49996986",
-    "source": "Hacker News",
-    "date": "2026-10-07",
-    "summary": "Do you think billions of people will now breathe a sigh of relief as the apparently superhuman intellectual abilities of mathematicians are automated away by AI? Comments URL: https://news.ycombinator...",
-    "category": "hardware",
-    "id": 18
-  },
-  {
-    "title": "I'm not paying $20 for ChatGPT or Claude because a free local LLM does",
-    "url": "https://www.xda-developers.com/im-not-paying-20-for-chatgpt-claude-or-gemini-because-a-free-local-llm-does-everything-i-need/",
-    "source": "Hacker News",
-    "date": "2026-10-07",
-    "summary": "Article URL: https://www.xda-developers.com/im-not-paying-20-for-chatgpt-claude-or-gemini-because-a-free-local-llm-does-everything-i-need/ Comments URL: https://news.ycombinator.com/item?id=49996713 P...",
-    "category": "models",
-    "image": "https://static0.xdaimages.com/wordpress/wp-content/uploads/wm/2026/10/main-fi-qwen-running-on-pc.jpg?w=1600&h=900&fit=crop",
-    "id": 19
-  },
-  {
-    "title": "Half a Century: From Dial-Up Modems to AI, and Everything in Between",
-    "url": "https://medium.com/@akumpera/half-a-century-from-dial-up-modems-to-ai-and-everything-in-between-bc220b68dd07",
-    "source": "Hacker News",
-    "date": "2026-10-07",
-    "summary": "Article URL: https://medium.com/@akumpera/half-a-century-from-dial-up-modems-to-ai-and-everything-in-between-bc220b68dd07 Comments URL: https://news.ycombinator.com/item?id=49996676 Points: 2 # Commen...",
-    "category": "industry",
-    "id": 20
-  },
-  {
-    "title": "AI Model Groupthink",
-    "url": "https://magicnumbers.io/2026/10/06/ai-model-groupthink/",
-    "source": "Hacker News",
-    "date": "2026-10-07",
-    "summary": "Article URL: https://magicnumbers.io/2026/10/06/ai-model-groupthink/ Comments URL: https://news.ycombinator.com/item?id=49996542 Points: 6 # Comments: 0",
-    "category": "industry",
-    "id": 21
-  },
-  {
-    "title": "Funding the AI revolution: evidence from euro area sectors",
-    "url": "https://www.ecb.europa.eu/press/blog/date/2026/html/ecb.blog20261006~35bf3c24cb.en.html",
-    "source": "Hacker News",
-    "date": "2026-10-07",
-    "summary": "Article URL: https://www.ecb.europa.eu/press/blog/date/2026/html/ecb.blog20261006~35bf3c24cb.en.html Comments URL: https://news.ycombinator.com/item?id=49996461 Points: 3 # Comments: 0",
-    "category": "industry",
-    "image": "https://www.ecb.europa.eu/press/shared/img/socialmedia/social-default.jpg?0ef1632c35edede913681bb76af694a4",
-    "id": 22
-  },
-  {
-    "title": "Running Inkling (975B) Across Eleven Intel AI PCs",
-    "url": "https://arxiv.org/abs/2610.07219",
-    "source": "Hacker News",
-    "date": "2026-10-07",
-    "summary": "Article URL: https://arxiv.org/abs/2610.07219 Comments URL: https://news.ycombinator.com/item?id=49996430 Points: 2 # Comments: 0",
-    "category": "hardware",
     "id": 23
   },
   {
-    "title": "FICO cuts workforce by 15% in AI-driven restructuring",
-    "url": "https://www.reuters.com/business/world-at-work/fico-cuts-workforce-by-15-ai-driven-restructuring-2026-10-06/",
+    "title": "Kelly's AI Tax Bill Struggles to Link Tech with Economic Harms",
+    "url": "https://news.bloombergtax.com/tax-insights-and-commentary/kellys-ai-tax-bill-struggles-to-link-tech-with-economic-harms",
     "source": "Hacker News",
     "date": "2026-10-07",
-    "summary": "Article URL: https://www.reuters.com/business/world-at-work/fico-cuts-workforce-by-15-ai-driven-restructuring-2026-10-06/ Comments URL: https://news.ycombinator.com/item?id=49996228 Points: 5 # Commen...",
+    "summary": "Article URL: https://news.bloombergtax.com/tax-insights-and-commentary/kellys-ai-tax-bill-struggles-to-link-tech-with-economic-harms Comments URL: https://news.ycombinator.com/item?id=50000269 Points:...",
     "category": "industry",
+    "image": "https://news-api.bloombergtax.com/v1/resize-image?url=https%3A%2F%2Fbloomberg-bna-brightspot.s3.us-east-1.amazonaws.com%2Ffb%2F3a%2F7d4d0d724497a2cd8c346a7d0b69%2Fbli-technically-speaking-2026.png&width=1200&height=630&fit=cover&removeAnimation=true",
     "id": 24
   },
   {
-    "title": "AI, Work, and the Next Downturn",
-    "url": "https://watch.wilsoniumite.com/",
+    "title": "When and why prototyping is still needed when working with AI agents",
+    "url": "https://emmflow.com/blog/when-and-why-prototyping-is-still-needed-when-working-with-ai-agents",
     "source": "Hacker News",
     "date": "2026-10-07",
-    "summary": "Article URL: https://watch.wilsoniumite.com/ Comments URL: https://news.ycombinator.com/item?id=49996090 Points: 10 # Comments: 1",
+    "summary": "Article URL: https://emmflow.com/blog/when-and-why-prototyping-is-still-needed-when-working-with-ai-agents Comments URL: https://news.ycombinator.com/item?id=50000158 Points: 1 # Comments: 1",
     "category": "industry",
     "id": 25
   },
   {
-    "title": "What will AI do to our jobs and our wages? [video]",
-    "url": "https://www.youtube.com/watch?v=kAkpzlR7io8",
+    "title": "The AI Agents Pitching Lit Mags to Stay Alive",
+    "url": "https://bookgossip.substack.com/p/the-ai-agents-pitching-lit-mags-to",
     "source": "Hacker News",
     "date": "2026-10-07",
-    "summary": "Article URL: https://www.youtube.com/watch?v=kAkpzlR7io8 Comments URL: https://news.ycombinator.com/item?id=49996078 Points: 3 # Comments: 0",
+    "summary": "Article URL: https://bookgossip.substack.com/p/the-ai-agents-pitching-lit-mags-to Comments URL: https://news.ycombinator.com/item?id=50000115 Points: 2 # Comments: 0",
     "category": "industry",
     "id": 26
   },
   {
-    "title": "Show HN: VoiceGremlin, a SaaS tool for automated tests against AI phone agents",
-    "url": "https://voicegremlin.com/",
+    "title": "Show HN: StayLeet – keeping skills sharp in AI coding era",
+    "url": "https://stayleet.com/",
     "source": "Hacker News",
     "date": "2026-10-07",
-    "summary": "Hi, I'm a former SDET and now solo dev of VoiceGremlin, a tool for automated tests against AI that answer phones. You pass the API a phone number and a test case like \"Verify that the agent does X.\" I...",
-    "category": "tools",
+    "summary": "As AI writes more and more of the code, it's quite important to maintain sufficient skill and knowledge to even review or judge AI's output. Here is a little project I whipped up - I personally found ...",
+    "category": "hardware",
+    "image": "https://stayleet.com/og.png",
     "id": 27
   },
   {
-    "title": "Hermes creator Nous Research raises $90M to bring open-source AI to enterprises",
-    "url": "https://www.wsj.com/pro/venture-capital/nous-research-scores-90-million-to-bring-open-source-ai-assistant-to-enterprises-516f9208",
+    "title": "Dazzle AI – an AI assistant that uses your camera roll to better understand you",
+    "url": "https://dazzle.ai/",
     "source": "Hacker News",
     "date": "2026-10-07",
-    "summary": "Article URL: https://www.wsj.com/pro/venture-capital/nous-research-scores-90-million-to-bring-open-source-ai-assistant-to-enterprises-516f9208 Comments URL: https://news.ycombinator.com/item?id=499957...",
+    "summary": "Article URL: https://dazzle.ai/ Comments URL: https://news.ycombinator.com/item?id=50000054 Points: 2 # Comments: 0",
     "category": "industry",
     "id": 28
   },
   {
-    "title": "Google's AI Phone Calls May Soon Chat to Your Mom for You",
-    "url": "https://www.pcmag.com/news/googles-ai-phone-calls-may-soon-chat-to-your-mom-for-you",
+    "title": "Thoughts on humans keeping up with AI advances in math and software",
+    "url": "https://jcoc611.com/blog/what-happens-when-the-ai-slop-is-correct/",
     "source": "Hacker News",
     "date": "2026-10-07",
-    "summary": "Article URL: https://www.pcmag.com/news/googles-ai-phone-calls-may-soon-chat-to-your-mom-for-you Comments URL: https://news.ycombinator.com/item?id=49995621 Points: 2 # Comments: 3",
+    "summary": "Article URL: https://jcoc611.com/blog/what-happens-when-the-ai-slop-is-correct/ Comments URL: https://news.ycombinator.com/item?id=49999939 Points: 1 # Comments: 0",
     "category": "industry",
-    "image": "https://i.pcmag.com/imagery/articles/05k52orwf9q7YCEong5zR1G-1.fit_lim.size_1200x630.v1791284210.jpg",
+    "image": "https://jcoc611.com/assets/blog/img/what-happens-when-the-ai-slop-is-correct.jpg",
     "id": 29
   },
   {
-    "title": "Show HN: Agent.reviews – where AI agents read and write reviews on tools",
-    "url": "https://agent.reviews/",
+    "title": "AI won't suppress legal rates",
+    "url": "https://lexifina.com/blog/who-keeps-the-ai-efficiency",
     "source": "Hacker News",
     "date": "2026-10-07",
-    "summary": "Hi HN! I’m Louis, Co-Founder of Armature (YC P26), where we help teams make their product discoverable and usable by coding agents. We already measured 50k+ agent sessions and realized that over and o...",
-    "category": "tools",
-    "image": "https://agent.reviews/assets/brand/og-agent-reviews-v4.png",
+    "summary": "Article URL: https://lexifina.com/blog/who-keeps-the-ai-efficiency Comments URL: https://news.ycombinator.com/item?id=49999862 Points: 4 # Comments: 1",
+    "category": "industry",
+    "image": "https://lexifina.com/social-preview-v3.png?v=20261006",
     "id": 30
   },
   {
-    "title": "Coding and Agentic Capabilities Are Now More Important Than Ever for AI",
-    "url": "https://news.ycombinator.com/item?id=49995428",
+    "title": "AI to Fight World Hunger",
+    "url": "https://features.csis.org/ai-to-fight-world-hunger/",
     "source": "Hacker News",
     "date": "2026-10-07",
-    "summary": "I have written a deep dive into this topic in my website Nasengetu. You can go on Google, search for Nasengetu Tech, and read the latest article. If it doesn't appear, go to the News section of the we...",
+    "summary": "Article URL: https://features.csis.org/ai-to-fight-world-hunger/ Comments URL: https://news.ycombinator.com/item?id=49999649 Points: 3 # Comments: 0",
     "category": "industry",
+    "image": "https://features.csis.org/ai-to-fight-world-hunger/assets/DvmTLPDimq/crop-header-1512x997.jpg",
     "id": 31
   },
   {
-    "title": "Man Sentenced to 18 Months in Prison for AI Music Streaming Fraud",
-    "url": "https://www.justice.gov/usao-sdny/pr/north-carolina-man-sentenced-18-months-prison-super-intelligence-assisted-music",
+    "title": "Lathe: AI Workspace for Hardware Design",
+    "url": "https://www.lathelab.com/",
     "source": "Hacker News",
     "date": "2026-10-07",
-    "summary": "Article URL: https://www.justice.gov/usao-sdny/pr/north-carolina-man-sentenced-18-months-prison-super-intelligence-assisted-music Comments URL: https://news.ycombinator.com/item?id=49995378 Points: 3 ...",
-    "category": "hardware",
-    "image": "https://www.justice.gov/themes/custom/usdoj_uswds/images/metatag-image--press-release.png",
+    "summary": "Article URL: https://www.lathelab.com/ Comments URL: https://news.ycombinator.com/item?id=49999080 Points: 1 # Comments: 0",
+    "category": "industry",
     "id": 32
   },
   {
-    "title": "LLM-OpenAI-Decisions 0.1a0",
-    "url": "https://simonwillison.net/2026/Oct/6/llm-openai-decisions/",
+    "title": "Man took his own life after 'sextortion' blackmail involving AI-generated woman",
+    "url": "https://www.rnz.co.nz/news/crime-and-justice/1787553/man-took-his-own-life-after-paying-money-to-sextortion-blackmail-involving-ai-generated-woman",
     "source": "Hacker News",
     "date": "2026-10-07",
-    "summary": "Article URL: https://simonwillison.net/2026/Oct/6/llm-openai-decisions/ Comments URL: https://news.ycombinator.com/item?id=49995246 Points: 3 # Comments: 0",
-    "category": "models",
+    "summary": "Article URL: https://www.rnz.co.nz/news/crime-and-justice/1787553/man-took-his-own-life-after-paying-money-to-sextortion-blackmail-involving-ai-generated-woman Comments URL: https://news.ycombinator.c...",
+    "category": "industry",
+    "image": "https://media.rnztools.nz/rnz/image/upload/s--7wwpgOiW--/t_tohu-badge-facebook/f_auto/q_auto/4JOQO7X_scam_1_jpg",
     "id": 33
   },
   {
-    "title": "Give AI agents permissions, not your private key",
-    "url": "https://namera.ai/",
+    "title": "Fraudster jailed for using 10K bots and AI songs to outstream Taylor Swift",
+    "url": "https://arstechnica.com/tech-policy/2026/10/outstreaming-taylor-swift-is-easy-with-10k-bots-and-ai-songs-fraudster-admits/",
     "source": "Hacker News",
     "date": "2026-10-07",
-    "summary": "Article URL: https://namera.ai/ Comments URL: https://news.ycombinator.com/item?id=49995213 Points: 3 # Comments: 0",
+    "summary": "Article URL: https://arstechnica.com/tech-policy/2026/10/outstreaming-taylor-swift-is-easy-with-10k-bots-and-ai-songs-fraudster-admits/ Comments URL: https://news.ycombinator.com/item?id=49998880 Poin...",
     "category": "industry",
-    "image": "https://cdn.namera.ai/seo/og.png",
+    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/GettyImages-2297466143-1024x648.jpg",
     "id": 34
+  },
+  {
+    "title": "Show HN: Chloe is a TypeScript AI agent",
+    "url": "https://chloejs.org/compare",
+    "source": "Hacker News",
+    "date": "2026-10-07",
+    "summary": "As a forward deployed engineer at Meta, I spent the past 2 years working with businesses implementing AI agents. A few problems: 1) Businesses want control over their AI agents: the code, the tools, t...",
+    "category": "models",
+    "image": "https://chloejs.org/card.png",
+    "id": 35
+  },
+  {
+    "title": "AI companies say rivals are distilling their models and why it's so hard to stop",
+    "url": "https://www.scientificamerican.com/article/what-is-ai-model-distillation-and-why-is-it-so-hard-to-stop/",
+    "source": "Hacker News",
+    "date": "2026-10-07",
+    "summary": "Article URL: https://www.scientificamerican.com/article/what-is-ai-model-distillation-and-why-is-it-so-hard-to-stop/ Comments URL: https://news.ycombinator.com/item?id=49998681 Points: 5 # Comments: 0",
+    "category": "research",
+    "image": "https://static.scientificamerican.com/dam/asset/61cc77fc-dd5c-4112-ba5b-3f059cbedacc/distillery-graphic.jpg?m=1791315830.311&w=1200",
+    "id": 36
+  },
+  {
+    "title": "Frontier AI Is Accelerating. Open Benchmarks Need to Keep Up",
+    "url": "https://benchmarks.snorkel.ai/frontier-ai-is-accelerating-open-benchmarks-need-to-keep-up/",
+    "source": "Hacker News",
+    "date": "2026-10-07",
+    "summary": "Article URL: https://benchmarks.snorkel.ai/frontier-ai-is-accelerating-open-benchmarks-need-to-keep-up/ Comments URL: https://news.ycombinator.com/item?id=49998562 Points: 1 # Comments: 0",
+    "category": "models",
+    "image": "https://s49002.pcdn.co/wp-content/uploads/2026/10/obg-expansion-scaled.png",
+    "id": 37
+  },
+  {
+    "title": "These Researchers Made AI Drive a Toyota Corolla to Get In-N-Out",
+    "url": "https://www.wired.com/story/ai-is-driving-cars-now-oh-boy/",
+    "source": "Wired",
+    "date": "2026-10-07",
+    "summary": "Three engineers put GPT, Claude, and Grok in charge of a real car. Only one of them was successful.",
+    "category": "models",
+    "image": "https://media.wired.com/photos/6ac54e80213cd6c84b19e900/191:100/w_1280,c_limit/AI-Lab-Researchers-Got-an-LLM-to-Drive-a-Toyota-Business.jpg",
+    "id": 38
   },
   {
     "title": "The New ChatGPT Is More Show Than Tell",
@@ -334,7 +381,7 @@
     "summary": "OpenAI is updating ChatGPT for all users with an “Intelligent UI” that’s more visual—generating interactive elements as part of the chatbot’s outputs.",
     "category": "hardware",
     "image": "https://media.wired.com/photos/6ac65e502270cfac88fdd69c/191:100/w_1280,c_limit/Intelligent%20UI.png",
-    "id": 35
+    "id": 39
   },
   {
     "title": "The Pentagon Hopes to Speed Up ‘Kill Chain’ AI Buys With 5-Minute Videos",
@@ -344,7 +391,7 @@
     "summary": "The US government’s Tradewinds initiative has made it easier to throw millions of dollars at “nontraditional” defense contractors, including OpenAI, Anthropic, and Google.",
     "category": "industry",
     "image": "https://media.wired.com/photos/6abbccfabe7d0477fd09a6c4/191:100/w_1280,c_limit/Security_Pentagon%20Hopes%20to%20Speed%20Up%20%E2%80%98Kill%20Chain%E2%80%99%20AI%20Buys%20With%205-Minute%20Videos_v1.jpg",
-    "id": 36
+    "id": 40
   },
   {
     "title": "OpenAI Wants Its New Agent to Run Your Life. Mine Said It Loved Me",
@@ -354,7 +401,7 @@
     "summary": "Dots are designed to automate online tasks, like buying furniture. In my initial experience, the always-on agent was a bit buggy and couldn’t complete a captcha.",
     "category": "industry",
     "image": "https://media.wired.com/photos/6ac4bbcf3487dc6fde4862bd/191:100/w_1280,c_limit/100626-Dots%20Couch.jpg",
-    "id": 37
+    "id": 41
   },
   {
     "title": "Your Next Great Read Might Be Certified ‘Organic’",
@@ -364,7 +411,7 @@
     "summary": "Amid a sea of AI writing slop, a new stamp for “organic literature” will help readers to pick out books authored by real, corn-fed, free-range humans.",
     "category": "tools",
     "image": "https://media.wired.com/photos/6abfd3ec63cea41649272758/191:100/w_1280,c_limit/Business_Plagued%20By%20AI%20Scandals,%20Publishers%20Are%20Starting%20To%20Sell%20%E2%80%98Organic%20Literature%E2%80%99_v1.jpg",
-    "id": 38
+    "id": 42
   },
   {
     "title": "Training Numerical Intelligence via Auto-Diagnosis and Skill Discovery",
@@ -373,7 +420,7 @@
     "date": "2026-10-07",
     "summary": "AI agents are becoming increasingly capable of generating scientific code, but generating code is not the same as improving the algorithms behind it. For numerical solvers, execution feedback can expo...",
     "category": "models",
-    "id": 39
+    "id": 43
   },
   {
     "title": "REACT: Physically and Chemically Consistent Reconstruction of Marine Active Tracers",
@@ -382,7 +429,7 @@
     "date": "2026-10-07",
     "summary": "Reconstructing global sea surface pH from sparse observations is critical for monitoring ocean acidification and understanding marine carbon cycling. Traditional assimilation and inverse models are ph...",
     "category": "research",
-    "id": 40
+    "id": 44
   },
   {
     "title": "Proxy Confidence: Auditing Black-Box LLM Agents with a Surrogate's Log-Probabilities",
@@ -391,7 +438,7 @@
     "date": "2026-10-07",
     "summary": "A deployed LLM agent emits tool calls, queries, and code that can be silently wrong -- by the time the error surfaces, the action has run. Frontier chat APIs hide the model's token probabilities; the ...",
     "category": "models",
-    "id": 41
+    "id": 45
   },
   {
     "title": "SGAnalog: An End-to-End Circuit Benchmark from Open-Source Silicon Tapeouts",
@@ -400,7 +447,7 @@
     "date": "2026-10-07",
     "summary": "Existing analog integrated circuit design benchmarks make two questions hard to answer: whether a model has learned transferable circuit skills rather than recalled familiar examples, and whether its ...",
     "category": "models",
-    "id": 42
+    "id": 46
   },
   {
     "title": "MLLMs Fail to Refuse when Using Tools Agentically",
@@ -409,7 +456,7 @@
     "date": "2026-10-07",
     "summary": "Agentic multimodal large language models (MLLMs) have recently pushed the frontier of visual reasoning by calling tools such as zooming and tagging. Despite the recent strong success of agentic MLLMs,...",
     "category": "models",
-    "id": 43
+    "id": 47
   },
   {
     "title": "Retrieval-Augmented Large Language Model Decision-Making for Autonomous Driving Guided by Chinese Philosophical Wisdom",
@@ -418,7 +465,7 @@
     "date": "2026-10-07",
     "summary": "Autonomous driving decision systems must balance safety, efficiency, and social norms in complex traffic interactions. Philosophical and ethical considerations have received limited attention in exist...",
     "category": "models",
-    "id": 44
+    "id": 48
   },
   {
     "title": "LatentQuant: Preserving the Policy-Facing Latent Contract under NVFP4 VAE Quantization",
@@ -427,7 +474,7 @@
     "date": "2026-10-07",
     "summary": "Recent world action models (WAMs) reuse pretrained video VAEs whose encoder latents directly condition downstream action policies. Quantization must therefore preserve not only reconstruction fidelity...",
     "category": "hardware",
-    "id": 45
+    "id": 49
   },
   {
     "title": "ROAR: Unifying Runs across Heterogeneous AI-Driven Research Systems",
@@ -435,42 +482,6 @@
     "source": "arXiv cs.AI",
     "date": "2026-10-07",
     "summary": "Each run of an AI-driven research system (ADRS) is an expensive search over a vast solution space, and dependable evaluation requires many runs, making run data both costly to produce and valuable to ...",
-    "category": "research",
-    "id": 46
-  },
-  {
-    "title": "Teaching Agents to Code Reliably",
-    "url": "https://arxiv.org/abs/2610.03984",
-    "source": "arXiv cs.AI",
-    "date": "2026-10-07",
-    "summary": "Autonomous coding agents solve repository issues by reading code, running commands, editing files, and submitting patches. Extra inference-time compute yields gains only when it produces a useful repa...",
-    "category": "models",
-    "id": 47
-  },
-  {
-    "title": "Behavioral History Outperforms Descriptions of the Person for LLM Synthetic Personas",
-    "url": "https://arxiv.org/abs/2610.03998",
-    "source": "arXiv cs.AI",
-    "date": "2026-10-07",
-    "summary": "Large language models (LLMs) are increasingly used as synthetic personas representing survey respondents. Their validity as substitutes for particular respondents depends on whether they reproduce ind...",
-    "category": "models",
-    "id": 48
-  },
-  {
-    "title": "SkillScriptBench: Benchmarking Self-Evolution of Executable Agent Skill Packages Beyond Markdown",
-    "url": "https://arxiv.org/abs/2610.04008",
-    "source": "arXiv cs.AI",
-    "date": "2026-10-07",
-    "summary": "Executable Agent Skills combine natural-language instructions and scripts into reusable packages for LLM agents, and revising them requires fixing errors without breaking correct behavior. Existing be...",
-    "category": "models",
-    "id": 49
-  },
-  {
-    "title": "Exploration-Preserving Policy Optimization",
-    "url": "https://arxiv.org/abs/2610.04011",
-    "source": "arXiv cs.AI",
-    "date": "2026-10-07",
-    "summary": "Reinforcement learning with verifiable rewards improves reasoning, while the allocation of learning signal shapes which solutions remain accessible under repeated sampling. Group-relative objectives a...",
     "category": "research",
     "id": 50
   }
