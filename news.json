@@ -91,6 +91,16 @@
     "id": 9
   },
   {
+    "title": "Apple discloses deal to hire team and license tech from personalized podcast startup Huxe",
+    "url": "https://techcrunch.com/2026/10/10/apple-discloses-deal-to-hire-team-and-license-tech-from-personalized-podcast-startup-huxe/",
+    "source": "TechCrunch",
+    "date": "2026-10-10",
+    "summary": "Is Apple hoping to get into the AI-generated podcast business?",
+    "category": "industry",
+    "image": "https://techcrunch.com/wp-content/uploads/2024/01/apple-podcasts-1.jpg?w=1200",
+    "id": 10
+  },
+  {
     "title": "Here are the top AI agents that can live in your text messages",
     "url": "https://techcrunch.com/2026/10/10/all-the-ai-agents-that-can-live-in-your-text-messages/",
     "source": "TechCrunch",
@@ -98,7 +108,7 @@
     "summary": "We created a list of the most notable AI agents that can live in your text messages, from general assistants to agents designed for families, travel, and work.",
     "category": "industry",
     "image": "https://techcrunch.com/wp-content/uploads/2017/12/gettyimages-673436934.jpg?resize=1200,813",
-    "id": 10
+    "id": 11
   },
   {
     "title": "Anthropic can’t reliably control its AI agents. It’s cutting off its internal evals from the live internet instead",
@@ -108,195 +118,198 @@
     "summary": "Anthropic said it \"turned off live internet access\" for \"all our internal evaluations\" until further notice.",
     "category": "research",
     "image": "https://techcrunch.com/wp-content/uploads/2026/08/Claude-AI-app.jpg?resize=1200,842",
-    "id": 11
-  },
-  {
-    "title": "500B Tokens Later: Letting AI Agents Decompile a First-Person Shooter",
-    "url": "https://momo5502.com/posts/2026-10-09-game-decompilation/",
-    "source": "Hacker News",
-    "date": "2026-10-10",
-    "summary": "Article URL: https://momo5502.com/posts/2026-10-09-game-decompilation/ Comments URL: https://news.ycombinator.com/item?id=50034816 Points: 1 # Comments: 2",
-    "category": "industry",
-    "image": "https://momo5502.com/posts/2026-10-09-game-decompilation/images/game.png",
     "id": 12
   },
   {
-    "title": "Evolocity is hiring AI researchers and engineers in Los Altos",
-    "url": "https://evolocity.ai/careers/",
+    "title": "The Token Economy: Why Falling Token Prices Have Not Lowered AI Bills",
+    "url": "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=7562258",
     "source": "Hacker News",
     "date": "2026-10-10",
-    "summary": "Article URL: https://evolocity.ai/careers/ Comments URL: https://news.ycombinator.com/item?id=50034746 Points: 2 # Comments: 0",
+    "summary": "Article URL: https://papers.ssrn.com/sol3/papers.cfm?abstract_id=7562258 Comments URL: https://news.ycombinator.com/item?id=50037295 Points: 1 # Comments: 0",
     "category": "research",
     "id": 13
   },
   {
-    "title": "Anthropic AI Model Went Rogue, Submitted Fake Unsolved Murder Tip",
-    "url": "https://www.wsj.com/us-news/anthropic-ai-model-goes-rogue-submits-fake-unsolved-murder-tip-b0566f54",
+    "title": "GPT-Astra NFL Player Video Analysis",
+    "url": "https://twitter.com/robsandhu/status/2108987321786007853",
     "source": "Hacker News",
     "date": "2026-10-10",
-    "summary": "Article URL: https://www.wsj.com/us-news/anthropic-ai-model-goes-rogue-submits-fake-unsolved-murder-tip-b0566f54 Comments URL: https://news.ycombinator.com/item?id=50034742 Points: 2 # Comments: 1",
-    "category": "industry",
+    "summary": "Article URL: https://twitter.com/robsandhu/status/2108987321786007853 Comments URL: https://news.ycombinator.com/item?id=50037218 Points: 1 # Comments: 0",
+    "category": "models",
+    "image": "https://pbs.twimg.com/media/HUSgsY0bwAAVJ28?format=webp&name=large",
     "id": 14
   },
   {
-    "title": "How do Lightroom/DxO achieve such good AI denoising results?",
-    "url": "https://news.ycombinator.com/item?id=50034715",
+    "title": "I bet AI would invent its own language; Claude Opus's survived every copy",
+    "url": "https://claude.ai/artifact/KNR1u48RyraRAy6hi64wc8",
     "source": "Hacker News",
     "date": "2026-10-10",
-    "summary": "I'm curious about the technical details behind the RAW denoising in Adobe Lightroom, DxO DeepPRIME, etc. What makes these propreitary solutions so much better than open-source models like RawNIND? Com...",
+    "summary": "Article URL: https://claude.ai/artifact/KNR1u48RyraRAy6hi64wc8 Comments URL: https://news.ycombinator.com/item?id=50037145 Points: 1 # Comments: 0",
     "category": "models",
+    "image": "https://claude.ai/images/claude_ogimage.png",
     "id": 15
   },
   {
-    "title": "Boro: Nvidia's Open-Source Effort for AI-Assisted Linux Kernel Development",
-    "url": "https://www.phoronix.com/news/NVIDIA-Boro-Linux-Kernel-AI",
+    "title": "Show HN: Tutor, a self-hosted LLM tutor that teaches you your books or docs",
+    "url": "https://github.com/demetrius-edelin/tutor",
     "source": "Hacker News",
     "date": "2026-10-10",
-    "summary": "Article URL: https://www.phoronix.com/news/NVIDIA-Boro-Linux-Kernel-AI Comments URL: https://news.ycombinator.com/item?id=50034676 Points: 1 # Comments: 1",
-    "category": "hardware",
+    "summary": "Reading does not always guarantee retention, especially for complex materials. So I created this tool that extracts the concepts and teaches them back to you (and then tests you as much as you need) s...",
+    "category": "models",
+    "image": "https://opengraph.githubassets.com/59a268b51e1556d92638432cab25583664189d14f946d34dce8607d83493a7c8/demetrius-edelin/tutor",
     "id": 16
   },
   {
-    "title": "Show HN: I asked 10k people to describe AI in 1 word",
-    "url": "https://crowdle.gg/ai/",
+    "title": "Cyber Resilience Guide: Zero Trust, AI Security and Ransomware Recovery",
+    "url": "https://phpscientist.com/blog/cyber-resilience-implementation-guide-ai-ransomware-zero-trust/",
     "source": "Hacker News",
     "date": "2026-10-10",
-    "summary": "Article URL: https://crowdle.gg/ai/ Comments URL: https://news.ycombinator.com/item?id=50034454 Points: 2 # Comments: 0",
+    "summary": "Article URL: https://phpscientist.com/blog/cyber-resilience-implementation-guide-ai-ransomware-zero-trust/ Comments URL: https://news.ycombinator.com/item?id=50036718 Points: 3 # Comments: 0",
     "category": "industry",
-    "image": "https://pzlgames.com/shared/assets/images/og-new.png",
+    "image": "https://phpscientist.com/cdn-cgi/image/width=1200,height=630,fit=pad,background=%23ffffff,quality=85,format=auto/media/ai-era-cyber-resilience-implementation-guide-hero.png",
     "id": 17
   },
   {
-    "title": "AI Is Throwing a Roadside Picnic",
-    "url": "https://metedata.substack.com/p/ai-is-throwing-a-roadside-picnic",
+    "title": "AI Browser Agents: SEO, Security and Implementation Playbook for 2026",
+    "url": "https://phpscientist.com/blog/ai-browser-agents-seo-security-implementation-playbook-2026/",
     "source": "Hacker News",
     "date": "2026-10-10",
-    "summary": "Article URL: https://metedata.substack.com/p/ai-is-throwing-a-roadside-picnic Comments URL: https://news.ycombinator.com/item?id=50034363 Points: 12 # Comments: 9",
-    "category": "industry",
+    "summary": "Article URL: https://phpscientist.com/blog/ai-browser-agents-seo-security-implementation-playbook-2026/ Comments URL: https://news.ycombinator.com/item?id=50036711 Points: 1 # Comments: 0",
+    "category": "tools",
+    "image": "https://phpscientist.com/cdn-cgi/image/width=1200,height=630,fit=pad,background=%23ffffff,quality=85,format=auto/media/ai-browser-agents-agent-first-web-hero.png",
     "id": 18
   },
   {
-    "title": "Patient disputed $85,000 hospital bill, then an AI sweep added nearly $20k",
-    "url": "https://www.yahoo.com/news/us/articles/patient-disputed-85-000-hospital-032100813.html",
+    "title": "Try On-Device AI with FM",
+    "url": "https://eclecticlight.co/2026/10/10/try-on-device-ai-with-fm/",
     "source": "Hacker News",
     "date": "2026-10-10",
-    "summary": "Article URL: https://www.yahoo.com/news/us/articles/patient-disputed-85-000-hospital-032100813.html Comments URL: https://news.ycombinator.com/item?id=50034272 Points: 3 # Comments: 0",
+    "summary": "Article URL: https://eclecticlight.co/2026/10/10/try-on-device-ai-with-fm/ Comments URL: https://news.ycombinator.com/item?id=50036707 Points: 1 # Comments: 0",
     "category": "industry",
-    "image": "https://s.yimg.com/lo/mysterio/api/b76848251be6d40ccb8e5586aab5f662efbdcdcf0ff97c7c8edadf58769ca578/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fthe_cool_down_737%2F645bd91bdf69b32090de23e1b6da7f7a.jpg",
     "id": 19
   },
   {
-    "title": "AI stance is not binary",
-    "url": "https://carette.xyz/posts/ai-stance-is-not-binary/",
+    "title": "Is AI conscious? Anthropic says 'maybe'",
+    "url": "https://www.machinesociety.ai/p/why-anthropic-thinks-claude-might",
     "source": "Hacker News",
     "date": "2026-10-10",
-    "summary": "Article URL: https://carette.xyz/posts/ai-stance-is-not-binary/ Comments URL: https://news.ycombinator.com/item?id=50034187 Points: 1 # Comments: 0",
-    "category": "industry",
+    "summary": "Article URL: https://www.machinesociety.ai/p/why-anthropic-thinks-claude-might Comments URL: https://news.ycombinator.com/item?id=50036695 Points: 2 # Comments: 0",
+    "category": "models",
+    "image": "https://substackcdn.com/image/fetch/$s_!30kJ!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F69e3a220-beba-4671-a51f-9977bfaccc46_1410x1116.jpeg",
     "id": 20
   },
   {
-    "title": "Can AI Break Cryptography?",
-    "url": "https://a16zcrypto.substack.com/p/can-ai-really-break-cryptography",
+    "title": "The state of AI-assisted reverse-engineering of Apple Macs",
+    "url": "https://github.com/aurora-silicon/linux/discussions/70",
     "source": "Hacker News",
     "date": "2026-10-10",
-    "summary": "Article URL: https://a16zcrypto.substack.com/p/can-ai-really-break-cryptography Comments URL: https://news.ycombinator.com/item?id=50034170 Points: 1 # Comments: 0",
-    "category": "industry",
+    "summary": "Article URL: https://github.com/aurora-silicon/linux/discussions/70 Comments URL: https://news.ycombinator.com/item?id=50036511 Points: 3 # Comments: 0",
+    "category": "hardware",
+    "image": "https://opengraph.githubassets.com/f14569aa041d9a9a4a91d8b66d8673aa284fe1ffb2c66245a2f76ab3015c9026/aurora-silicon/linux/discussions/70",
     "id": 21
   },
   {
-    "title": "Book Publishers Are Quietly Using More AI. Staff Are Revolting",
-    "url": "https://www.wired.com/story/book-publishers-are-quietly-using-more-ai-staff-are-revolting/",
+    "title": "Integrated Circuits, AI, and Wallabies",
+    "url": "https://walkingtheworld.substack.com/p/integrated-circuits-ai-and-wallabies",
     "source": "Hacker News",
     "date": "2026-10-10",
-    "summary": "Article URL: https://www.wired.com/story/book-publishers-are-quietly-using-more-ai-staff-are-revolting/ Comments URL: https://news.ycombinator.com/item?id=50034045 Points: 1 # Comments: 0",
+    "summary": "Article URL: https://walkingtheworld.substack.com/p/integrated-circuits-ai-and-wallabies Comments URL: https://news.ycombinator.com/item?id=50036504 Points: 1 # Comments: 0",
     "category": "industry",
-    "image": "https://media.wired.com/photos/6ac81c8de30ca6995f7d2b30/191:100/w_1280,c_limit/Publishers-Using-AI-Staff-Pissed-Culture-962637114.jpg",
     "id": 22
   },
   {
-    "title": "Gauze Corrects LLM Responses",
-    "url": "https://github.com/ggeorgovassilis/llm-gauze",
+    "title": "Ask HN: What's your plan if AI takes your job?",
+    "url": "https://news.ycombinator.com/item?id=50036432",
     "source": "Hacker News",
     "date": "2026-10-10",
-    "summary": "Article URL: https://github.com/ggeorgovassilis/llm-gauze Comments URL: https://news.ycombinator.com/item?id=50033976 Points: 1 # Comments: 1",
-    "category": "models",
-    "image": "https://opengraph.githubassets.com/a38a7058e7c34f7326d4c9536561192f537805120a70f6079cc30d7d322c1926/ggeorgovassilis/llm-gauze",
+    "summary": "If AI took away my job and I cannot return to software engineering, I cannot imagine a fit for me at any place yet. I was wondering if anyone else had the same thought and what would you do? Comments ...",
+    "category": "industry",
     "id": 23
   },
   {
-    "title": "Enzo's – AI home search that shows cap rate and flags overpriced homes",
-    "url": "https://enzos.ai/",
+    "title": "I don't trust Lean code from AI",
+    "url": "https://karagila.org/2026/lean/",
     "source": "Hacker News",
     "date": "2026-10-10",
-    "summary": "Article URL: https://enzos.ai/ Comments URL: https://news.ycombinator.com/item?id=50033661 Points: 1 # Comments: 0",
-    "category": "industry",
+    "summary": "Article URL: https://karagila.org/2026/lean/ Comments URL: https://news.ycombinator.com/item?id=50036397 Points: 5 # Comments: 1",
+    "category": "research",
+    "image": "https://karagila.org/og-image.jpg",
     "id": 24
   },
   {
-    "title": "I tested whether AI agents obey text you never see. 4 of 8 did, every time",
-    "url": "https://smallprint.dev/blog/one-sentence-four-of-eight-agents",
+    "title": "Nicolas Cage Refused to Sign Amazon AI Waiver: 'I'm Not an AI-Friendly Actor'",
+    "url": "https://variety.com/2026/tv/news/nicolas-cage-ai-waiver-amazon-spider-noir-1236907564/",
     "source": "Hacker News",
     "date": "2026-10-10",
-    "summary": "Article URL: https://smallprint.dev/blog/one-sentence-four-of-eight-agents Comments URL: https://news.ycombinator.com/item?id=50033633 Points: 1 # Comments: 0",
+    "summary": "Article URL: https://variety.com/2026/tv/news/nicolas-cage-ai-waiver-amazon-spider-noir-1236907564/ Comments URL: https://news.ycombinator.com/item?id=50036390 Points: 23 # Comments: 7",
     "category": "industry",
-    "image": "https://smallprint.dev/blog/one-sentence-four-of-eight-agents/opengraph-image?14f3cc2d477e0439",
     "id": 25
   },
   {
-    "title": "Ask HN: Can we expect LLM-based coding agents to become noticeably faster?",
-    "url": "https://news.ycombinator.com/item?id=50033571",
+    "title": "Google AI Edge Foresight – meeting notetaker on-device",
+    "url": "https://developers.google.com/edge/foresight",
     "source": "Hacker News",
     "date": "2026-10-10",
-    "summary": "I am thinking primarily about \"single-threaded\" usage of Claude etc which I'm still using as if it was still 2025. I just don't find the mental context switching worth it. Comments URL: https://news.y...",
-    "category": "models",
+    "summary": "Article URL: https://developers.google.com/edge/foresight Comments URL: https://news.ycombinator.com/item?id=50036318 Points: 1 # Comments: 0",
+    "category": "tools",
+    "image": "https://developers.google.com/static/edge/images/share.png",
     "id": 26
   },
   {
-    "title": "My personal AI agent posted my bank details on company Slack",
-    "url": "https://www.businessinsider.com/personal-ai-agent-grok-bot-posted-bank-details-company-slack-2026-10",
+    "title": "AI and Bottlenecks in Software Production [pdf]",
+    "url": "https://fion.ac/jellyfish.pdf",
     "source": "Hacker News",
     "date": "2026-10-10",
-    "summary": "Article URL: https://www.businessinsider.com/personal-ai-agent-grok-bot-posted-bank-details-company-slack-2026-10 Comments URL: https://news.ycombinator.com/item?id=50033517 Points: 46 # Comments: 48",
-    "category": "models",
-    "image": "https://i.insider.com/6ac8a4967bf24b4467e699a7?width=724&format=jpeg",
+    "summary": "Article URL: https://fion.ac/jellyfish.pdf Comments URL: https://news.ycombinator.com/item?id=50036294 Points: 3 # Comments: 0",
+    "category": "industry",
     "id": 27
   },
   {
-    "title": "AI Is Supercharging a Scam Economy Bigger Than the Cocaine Trade",
-    "url": "https://www.bloomberg.com/graphics/2026-ai-supercharges-scam-economy/",
+    "title": "Is AI Killing the Value of Human Writing?",
+    "url": "https://transitions.substack.com/p/is-ai-killing-the-value-of-human",
     "source": "Hacker News",
     "date": "2026-10-10",
-    "summary": "Article URL: https://www.bloomberg.com/graphics/2026-ai-supercharges-scam-economy/ Comments URL: https://news.ycombinator.com/item?id=50033499 Points: 2 # Comments: 1",
+    "summary": "Article URL: https://transitions.substack.com/p/is-ai-killing-the-value-of-human Comments URL: https://news.ycombinator.com/item?id=50036289 Points: 4 # Comments: 4",
     "category": "industry",
     "id": 28
   },
   {
-    "title": "Google expands SynthID Detector for AI content",
-    "url": "https://blog.google/innovation-and-ai/models-and-research/google-deepmind/synth-id-ai-content/",
+    "title": "Ask HN: Why did Microsoft invest in AI that could rewrite its apps from scratch?",
+    "url": "https://news.ycombinator.com/item?id=50036146",
     "source": "Hacker News",
     "date": "2026-10-10",
-    "summary": "Article URL: https://blog.google/innovation-and-ai/models-and-research/google-deepmind/synth-id-ai-content/ Comments URL: https://news.ycombinator.com/item?id=50033483 Points: 2 # Comments: 0",
-    "category": "research",
-    "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Raccoon_Video_SynthIDDetector.max-1440x810.png",
+    "summary": "Maybe they didn't anticipate how good AI would become at vibe coding apps in general and its office apps in particular? Comments URL: https://news.ycombinator.com/item?id=50036146 Points: 4 # Comments...",
+    "category": "industry",
     "id": 29
   },
   {
-    "title": "Fired OpenAI Researchers Ask Company to Preserve Visibility into AI Reasoning",
-    "url": "https://www.wsj.com/tech/ai/fired-openai-researchers-ask-company-to-preserve-visibility-into-ai-reasoning-987c8c94",
+    "title": "Phonebox – Cloud Android phones for AI agents",
+    "url": "https://phonebox.dev/",
     "source": "Hacker News",
     "date": "2026-10-10",
-    "summary": "Article URL: https://www.wsj.com/tech/ai/fired-openai-researchers-ask-company-to-preserve-visibility-into-ai-reasoning-987c8c94 Comments URL: https://news.ycombinator.com/item?id=50033313 Points: 2 # ...",
-    "category": "research",
+    "summary": "Article URL: https://phonebox.dev/ Comments URL: https://news.ycombinator.com/item?id=50035912 Points: 5 # Comments: 2",
+    "category": "industry",
+    "image": "https://phonebox.dev/site/assets/media/phonebox-og.png",
     "id": 30
   },
   {
-    "title": "AI Assistance Reduces Persistence and Hurts Independent Performance",
-    "url": "https://arxiv.org/abs/2604.04721",
+    "title": "Nvidia in talks to acquire US 'open' model startup Reflection AI",
+    "url": "https://www.ft.com/content/052610c5-22b4-4dd4-932e-b7f9f0628b6a",
     "source": "Hacker News",
     "date": "2026-10-10",
-    "summary": "Article URL: https://arxiv.org/abs/2604.04721 Comments URL: https://news.ycombinator.com/item?id=50033262 Points: 1 # Comments: 0",
-    "category": "research",
+    "summary": "Article URL: https://www.ft.com/content/052610c5-22b4-4dd4-932e-b7f9f0628b6a Comments URL: https://news.ycombinator.com/item?id=50035886 Points: 74 # Comments: 44",
+    "category": "hardware",
     "id": 31
+  },
+  {
+    "title": "Nvidia in talks to acquire Reflection AI (makers of Beam)",
+    "url": "https://news.bloomberglaw.com/mergers-and-acquisitions/nvidia-in-talks-to-acquire-reflection-ai-ft",
+    "source": "Hacker News",
+    "date": "2026-10-10",
+    "summary": "Article URL: https://news.bloomberglaw.com/mergers-and-acquisitions/nvidia-in-talks-to-acquire-reflection-ai-ft Comments URL: https://news.ycombinator.com/item?id=50035862 Points: 1 # Comments: 0",
+    "category": "hardware",
+    "image": "https://news-cdn.bindg.com/indg/assets/news/images/Fallback-image.webp",
+    "id": 32
   },
   {
     "title": "AI Is Getting Really Good at Messing With Cybercriminals",
@@ -306,7 +319,7 @@
     "summary": "Anti-cybercrime initiatives are increasingly using AI to scam the scammers by tricking them into talking to lifelike bots that they think are real victims.",
     "category": "industry",
     "image": "https://media.wired.com/photos/6ac7e488d45774a31ff822a9/191:100/w_1280,c_limit/Kernel-Panic-AI-Getting-Really-Good-Fucking-With-Cybercriminals-Security.jpg",
-    "id": 32
+    "id": 33
   },
   {
     "title": "An Explainable Header-Centric Framework for Large-Scale Semantic Table Interpretation and Data Quality Assessment",
@@ -315,7 +328,7 @@
     "date": "2026-10-10",
     "summary": "Knowledge Graph (KG) quality depends not only on downstream graph validation, but also on the quality of tabular metadata used before integration. In metadata-only Semantic Table Interpretation (STI),...",
     "category": "research",
-    "id": 33
+    "id": 34
   },
   {
     "title": "Synthesis Through Simulation: Generating Coherent Enterprise Data via Scalable Agent-System Interaction",
@@ -324,7 +337,7 @@
     "date": "2026-10-10",
     "summary": "Tool-calling agents have become central to enterprise AI, yet training and evaluating them at scale remains severely constrained due to business and legal restrictions on enterprise systems, data, and...",
     "category": "tools",
-    "id": 34
+    "id": 35
   },
   {
     "title": "Agent-Controlled Forgetting for Tool-Using Agents: Reversible Context Curation in Practice",
@@ -333,7 +346,7 @@
     "date": "2026-10-10",
     "summary": "Tool-using agents repeatedly carry observations whose useful content can be much smaller than their original payload. We study agent-controlled forgetting: the acting model selects previously observed...",
     "category": "research",
-    "id": 35
+    "id": 36
   },
   {
     "title": "Verification and Self-Improvement in Agentic AI: Foundations and Limits",
@@ -342,7 +355,7 @@
     "date": "2026-10-10",
     "summary": "Agentic AI systems can improve by searching longer, receiving additional support, or modifying how they propose and verify outputs. A performance score does not distinguish these mechanisms. We compar...",
     "category": "hardware",
-    "id": 36
+    "id": 37
   },
   {
     "title": "The Harness as the Only Mutable Surface: Compliance-Bounded Self-Evolution of LLM Agents in Credit Pipelines, with a Measured Admission Gate",
@@ -351,7 +364,7 @@
     "date": "2026-10-10",
     "summary": "Self-improving LLM agents can adapt a credit pipeline to a changed rule, but an agent that rewrites itself destroys the artefact a supervisor reviews: a named change, a recorded test, an approval. We ...",
     "category": "models",
-    "id": 37
+    "id": 38
   },
   {
     "title": "Speaking the Navigator's Language: Trajectory-Grounded Instruction Translation for Frozen Aerial VLN Agents",
@@ -360,7 +373,7 @@
     "date": "2026-10-10",
     "summary": "Aerial vision-and-language navigation (VLN) agents are typically trained on detail-rich, trajectory-aligned commands, whereas users issue short, intent-driven instructions; on a frozen OpenFly navigat...",
     "category": "models",
-    "id": 38
+    "id": 39
   },
   {
     "title": "Plan-and-Patch: Diffusion Language Models for Agentic Planning",
@@ -369,7 +382,7 @@
     "date": "2026-10-10",
     "summary": "Planning is increasingly important for long-horizon agents, where successful execution requires coordinating subgoals, tool use, and intermediate outcomes over many steps. Yet assumptions made during ...",
     "category": "models",
-    "id": 39
+    "id": 40
   },
   {
     "title": "Whose Ground Truth? Embracing Ambiguity in Human-Centered AI",
@@ -378,7 +391,7 @@
     "date": "2026-10-10",
     "summary": "As AI systems increasingly interact with people and make decisions about them, understanding human interpretations becomes an important part of developing human-centered AI. Conventional machine learn...",
     "category": "research",
-    "id": 40
+    "id": 41
   },
   {
     "title": "On the Clock: Towards Punctual and Productive Time-Budgeted AI Agents",
@@ -387,7 +400,7 @@
     "date": "2026-10-10",
     "summary": "We study whether small LLM agents can operate effectively under explicit wall-clock time budgets by both respecting the allocated runtime and using available time productively. We evaluate Qwen3.6-27B...",
     "category": "models",
-    "id": 41
+    "id": 42
   },
   {
     "title": "Self-Supervised Keyframe Discovery for Horizon-Invariant Behavior Cloning",
@@ -396,7 +409,7 @@
     "date": "2026-10-10",
     "summary": "Behavior cloning (BC) in non-Markovian environments is a challenging problem because policies have to reason over contextual information over long horizons. Existing policy architectures rely on recur...",
     "category": "research",
-    "id": 42
+    "id": 43
   },
   {
     "title": "Reading the Room: Foundations, Design, and Challenges of Normative Competence in LLMs",
@@ -405,7 +418,7 @@
     "date": "2026-10-10",
     "summary": "Human communities are governed by normative systems: shared standards that produce \\textit{norms} dictating acceptable behavior, enforced through community sanctioning. Aligning increasingly autonomou...",
     "category": "research",
-    "id": 43
+    "id": 44
   },
   {
     "title": "StoreBench: A Live-Commerce Environment for Evaluating and Training Autonomous Operator Agents",
@@ -414,7 +427,7 @@
     "date": "2026-10-10",
     "summary": "Reinforcement learning environments are now a primary lever for improving large language model (LLM) capabilities in post-training, yet most agentic benchmarks remain static: the world moves only when...",
     "category": "models",
-    "id": 44
+    "id": 45
   },
   {
     "title": "Learning How to Search for Plans with Exponentially Less Space",
@@ -423,7 +436,7 @@
     "date": "2026-10-10",
     "summary": "Heuristic search for a plan can store exponentially many states, even when its heuristic is almost perfect. We instead learn search control, one specification per domain, written as an indexical polic...",
     "category": "models",
-    "id": 45
+    "id": 46
   },
   {
     "title": "How Narrative Wrapping Affects LLM Refusal: A Cross-Language Benchmark and Defense",
@@ -432,7 +445,7 @@
     "date": "2026-10-10",
     "summary": "Safety-aligned language models often refuse a harmful request stated directly but answer the same request inside a role-play or narrative wrapper. We measure this vulnerability across languages and re...",
     "category": "models",
-    "id": 46
+    "id": 47
   },
   {
     "title": "Curating Always-Loaded Context for LLM Agents: A Capacitated Assortment Model with Censored Feedback",
@@ -441,7 +454,7 @@
     "date": "2026-10-10",
     "summary": "At the start of every session, LLM agents load a fixed context file, such as $\\texttt{AGENTS.md}$. Each loaded token in the file is charged again in every later round of the session, and these files c...",
     "category": "models",
-    "id": 47
+    "id": 48
   },
   {
     "title": "Distillation for Incrimination and Distillation for Capabilities",
@@ -450,7 +463,7 @@
     "date": "2026-10-10",
     "summary": "Powerful misaligned AI models might recognize alignment evaluations and strategically behave well on them, rendering direct audits uninformative. However, distilling such a model into a weaker benign ...",
     "category": "research",
-    "id": 48
+    "id": 49
   },
   {
     "title": "AgentHorizon: Evaluating Agentic Judges for Long-Horizon Computer-Use Tasks",
@@ -459,15 +472,6 @@
     "date": "2026-10-10",
     "summary": "Computer-use agents are capable of completing complex tasks, increasing the use of automatic judges to determine success, either for training or for evaluation without human involvement. Despite their...",
     "category": "models",
-    "id": 49
-  },
-  {
-    "title": "Beyond Imitation: A Framework and Benchmark for LLM-Assisted Peer Review",
-    "url": "https://arxiv.org/abs/2610.11087",
-    "source": "arXiv cs.AI",
-    "date": "2026-10-10",
-    "summary": "The rapid growth of scientific publishing has strained peer review, particularly in machine learning, raising concerns about declining review quality and increasing reviewer workload. Large language m...",
-    "category": "research",
     "id": 50
   }
 ]
