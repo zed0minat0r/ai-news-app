@@ -1,5 +1,116 @@
 [
   {
+    "title": "OCP Global Summit: Amid Ecosystem Adoption, NVIDIA Opens Vera Rubin Architecture to Help Scale AI Factories Worldwide",
+    "url": "https://blogs.nvidia.com/blog/ocp-global-summit-vera-rubin-scale-ai-factories/",
+    "source": "NVIDIA Blog",
+    "date": "2026-10-12",
+    "summary": "As AI factories grow from megawatts to gigawatts, building them takes more than advanced computing. Open standards are helping the industry scale AI infrastructure faster, more efficiently and more re...",
+    "category": "hardware",
+    "image": "https://blogs.nvidia.com/wp-content/uploads/2026/10/gpu-architecture-rolling-blog-kv-ocp-blog-1920x1080-5820310.jpg",
+    "id": 1,
+    "featured": true
+  },
+  {
+    "title": "Intel's Crescent Island AI accelerator officially powers new GPU D-Series products",
+    "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/intels-crescent-island-ai-accelerator-officially-powers-new-gpu-d-series-products-chip-delivers-1-3-peak-pflops-of-fp8-compute-and-1-5-tb-s-of-memory-bandwidth",
+    "source": "Tom's Hardware",
+    "date": "2026-10-12",
+    "summary": "Intel's Crescent Island AI inference accelerator will come to market as the GPU D-Series family, promising 1.3 PFLOPS of FP8 compute alongside up to 480 GB of LPDDR5X delivering 1.5 TB/s of memory ban...",
+    "category": "hardware",
+    "image": "https://cdn.mos.cms.futurecdn.net/rhHcYjk8r2a28j68LDnQ88-1920-80.jpg",
+    "id": 2
+  },
+  {
+    "title": "Jev-like decision models are flooding the AI market, after researcher claims TypeSafe copied their research",
+    "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/jev-like-decision-models-are-flooding-the-ai-market-after-researcher-claims-typesafe-copied-their-research-microsoft-openai-among-companies-releasing-lightweight-system-one-ai-models",
+    "source": "Tom's Hardware",
+    "date": "2026-10-12",
+    "summary": "Jev and the flood of AI decision models — TypeSafe allegedly copied researcher's architecture but got copied itself",
+    "category": "research",
+    "image": "https://cdn.mos.cms.futurecdn.net/JLe7QVUdAmgC2wZ83yU7he-1920-80.jpg",
+    "id": 3
+  },
+  {
+    "title": "Meet the modders porting ringfenced DLSS features to older GPUs",
+    "url": "https://www.tomshardware.com/pc-components/gpus/meet-the-modders-porting-ringfenced-dlss-features-to-older-gpus-how-dlss-5-and-multi-frame-generation-were-unlocked-for-older-architectures",
+    "source": "Tom's Hardware",
+    "date": "2026-10-12",
+    "summary": "DLSS Multi-Frame Generation and DLSS 5 Neural Rendering can now run on hardware never intended for it, at least according to Nvidia. Now, two of the modders foundational to the release of these commun...",
+    "category": "hardware",
+    "image": "https://cdn.mos.cms.futurecdn.net/HbQHcrfHqrMg5kcRqtLTXR-1920-80.jpg",
+    "id": 4
+  },
+  {
+    "title": "Developer uses Claude to enable Xbox Cloud Gaming on jailbroken PS5s",
+    "url": "https://www.tomshardware.com/video-games/console-gaming/xbox-cloud-gaming-is-now-available-on-jailbroken-ps5s-allows-upscaling-to-4k-using-the-ps5-gpu",
+    "source": "Tom's Hardware",
+    "date": "2026-10-12",
+    "summary": "RafaelNGP released a native Xbox Game Pass app allowing Xbox Cloud Gaming on the PS5, with support for 4 controllers and 4K upscaling on the PS5 GPU.",
+    "category": "models",
+    "image": "https://cdn.mos.cms.futurecdn.net/BmB2jRGrsjFpT5E5T2nwJD-1920-80.jpg",
+    "id": 5
+  },
+  {
+    "title": "Intel to phase out SGX after Xeon Diamond Rapids in favor of TDX",
+    "url": "https://www.tomshardware.com/pc-components/cpus/intel-to-phase-out-sgx-after-xeon-diamond-rapids-in-favor-of-tdx-confidential-computing-pivot-adds-trusted-i-o-and-post-quantum-crypto-for-agentic-ai",
+    "source": "Tom's Hardware",
+    "date": "2026-10-12",
+    "summary": "Intel set to discontinue SGX after Xeon 'Diamond Rapids' and focus on expanding TDX capabilities to meet emerging security requirements of cloud computing, enterprise workloads, and agentic AI.",
+    "category": "hardware",
+    "image": "https://cdn.mos.cms.futurecdn.net/VBnZto6P3Yzh9RfNDACjGT-1920-80.jpg",
+    "id": 6
+  },
+  {
+    "title": "Diamond-infused watercooling coldplates for 2,300W Nvidia Rubin drop temps by up to 22C",
+    "url": "https://www.tomshardware.com/pc-components/liquid-cooling/diamond-infused-watercooling-coldplates-for-2-300w-nvidia-rubin-drop-temps-by-up-to-22c-bespoke-frore-liquidjet-diamond-cooling-tames-770-w-cm2-hotspots",
+    "source": "Tom's Hardware",
+    "date": "2026-10-12",
+    "summary": "A bespoke coldplate for custom designed AI servers: Frore's LiquidJet Diamond.",
+    "category": "hardware",
+    "image": "https://cdn.mos.cms.futurecdn.net/m9raAhaFmnWrVLQd52pQLa-1920-80.jpg",
+    "id": 7
+  },
+  {
+    "title": "AMD debuts Helion reference design for agentic AI servers with up to 32,768 Zen 6 ‘Venice’ cores",
+    "url": "https://www.tomshardware.com/pc-components/cpus/amd-debuts-helion-reference-design-for-agentic-ai-servers-with-up-to-32-768-zen-6-venice-cores-rack-design-ships-next-year-in-cpu-only-and-all-in-one-configurations",
+    "source": "Tom's Hardware",
+    "date": "2026-10-12",
+    "summary": "At the OCP Global Summit, AMD revealed Helion, a rack-scale reference design for agentic AI that can house up to 32,768 Zen 6 CPU cores.",
+    "category": "hardware",
+    "image": "https://cdn.mos.cms.futurecdn.net/KwFreiH9LLPrsYZGRWvHU4-1920-80.png",
+    "id": 8
+  },
+  {
+    "title": "Coder creates NvidiaWatch tracker site that monitors hundreds of GPU driver bugs",
+    "url": "https://www.tomshardware.com/pc-components/gpu-drivers/coder-creates-nvidiawatch-tracker-site-that-monitors-hundreds-of-gpu-driver-bugs-site-charts-open-issues-fixes-and-forum-feedback-across-updates",
+    "source": "Tom's Hardware",
+    "date": "2026-10-12",
+    "summary": "independent-arg built this labor of love for the Nvidia community.",
+    "category": "hardware",
+    "image": "https://cdn.mos.cms.futurecdn.net/RH2UfQ4PEty8QdC39Tkoom-1920-80.jpg",
+    "id": 9
+  },
+  {
+    "title": "Buyer pays $350 for broken RTX 4090 project only to find realistic fake GPU die and swapped memory",
+    "url": "https://www.tomshardware.com/pc-components/gpus/buyer-pays-usd350-for-broken-rtx-4090-project-only-to-find-realistic-fake-gpu-die-and-swapped-memory-russian-repair-specialist-reveals-sophisticated-new-cam-using-dummy-pcbs",
+    "source": "Tom's Hardware",
+    "date": "2026-10-12",
+    "summary": "A customer paid approximately $350 for what appeared to be a repairable RTX 4090, only to receive a fake GPU with components that were painstakingly designed to resemble the real thing.",
+    "category": "hardware",
+    "image": "https://cdn.mos.cms.futurecdn.net/AHLzG85JoQ8gEdtunRTbDM-1920-80.jpg",
+    "id": 10
+  },
+  {
+    "title": "Dev used AI agents and more than 500 billion tokens to rebuild Call of Duty: Modern Warfare 2's source code",
+    "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/dev-used-ai-agents-and-more-than-500-billion-tokens-to-rebuild-call-of-duty-modern-warfare-2s-source-code-83-percent-of-the-2009-shooters-functions-now-match-the-original-byte-for-byte",
+    "source": "Tom's Hardware",
+    "date": "2026-10-12",
+    "summary": "Maurice Heumann's Claude and Codex agents rebuilt Modern Warfare 2's source; 83% of functions match the original byte for byte.",
+    "category": "models",
+    "image": "https://cdn.mos.cms.futurecdn.net/2M6a7ySopVDLdrDTpN4xPj-1920-80.jpg",
+    "id": 11
+  },
+  {
     "title": "Reddit user pays $35 for a crypto mining rig left in a garage and gets 54GB of VRAM at 65 cents per GB",
     "url": "https://www.tomshardware.com/pc-components/gpus/reddit-user-pays-usd35-for-a-crypto-mining-rig-left-in-a-garage-and-gets-54gb-of-vram-at-65-cents-per-gb-the-first-test-for-2017-era-gpus-a-35b-parameter-ai-model-running-locally-at-over-30-tokens-per-second",
     "source": "Tom's Hardware",
@@ -7,200 +118,291 @@
     "summary": "A Reddit user bought a nine-GPU Nvidia P106-100 mining rig with 54GB of VRAM for $35 and ran Qwen3.6-35B-A3B on it locally.",
     "category": "hardware",
     "image": "https://cdn.mos.cms.futurecdn.net/QDZdfYqJbKd5P6QKeMwVEk-1920-80.jpg",
-    "id": 1,
-    "featured": true
+    "id": 12
   },
   {
-    "title": "IMF says AI investment keeps global growth around 3%",
-    "url": "https://www.reuters.com/world/china/imf-says-ai-investment-keeps-global-growth-around-3-with-major-asia-benefits-2026-10-12/",
+    "title": "Meta releases its first frontier model, Muse Wonder",
+    "url": "https://techcrunch.com/2026/10/12/meta-releases-its-first-frontier-model-muse-wonder/",
+    "source": "TechCrunch",
+    "date": "2026-10-12",
+    "summary": "Where Muse Spark aimed to be a lightweight model that could perform at low latency, the Wonder models are larger and said to be more capable, with higher benchmark scores and better results on complex...",
+    "category": "models",
+    "image": "https://techcrunch.com/wp-content/uploads/2026/10/Screenshot-2026-10-12-at-1.09.43-PM.jpg?resize=1200,676",
+    "id": 13
+  },
+  {
+    "title": "WindBorne wins a hefty US Air Force contract for its balloon data",
+    "url": "https://techcrunch.com/2026/10/12/windborne-wins-a-hefty-us-air-force-contract-for-its-balloon-data/",
+    "source": "TechCrunch",
+    "date": "2026-10-12",
+    "summary": "A Silicon Valley startup that uses weather balloons and AI to predict the weather won a U.S. military contract worth almost $50 million.",
+    "category": "industry",
+    "image": "https://techcrunch.com/wp-content/uploads/2026/06/Pic-8.jpg?resize=1200,675",
+    "id": 14
+  },
+  {
+    "title": "Honeyjar offers AI tools to improve PR and comms at every company",
+    "url": "https://techcrunch.com/2026/10/12/honeyjar-offers-ai-tools-to-improve-pr-and-comms-at-every-company/",
+    "source": "TechCrunch",
+    "date": "2026-10-12",
+    "summary": "Journalists, entrepreneurs, and even some public relations professionals will tell you that the PR process is broken. But could AI actually make things better?",
+    "category": "tools",
+    "image": "https://techcrunch.com/wp-content/uploads/2026/10/honeyjar-founders.jpg?resize=960,1200",
+    "id": 15
+  },
+  {
+    "title": "Microsoft president says UK is best placed to drive AI regulation",
+    "url": "https://techcrunch.com/2026/10/12/microsoft-president-says-uk-is-best-placed-to-drive-ai-regulation/",
+    "source": "TechCrunch",
+    "date": "2026-10-12",
+    "summary": "Microsoft president Brad Smith calls for urgent AI regulation, saying milk and washing machines have more oversight than AI companies.",
+    "category": "industry",
+    "image": "https://techcrunch.com/wp-content/uploads/2018/10/GettyImages-1039496404.jpg?w=1024",
+    "id": 16
+  },
+  {
+    "title": "This AI startup says it can generate permit-ready blueprints in minutes",
+    "url": "https://techcrunch.com/2026/10/12/this-ai-startup-says-it-can-generate-permit-ready-blueprints-in-minutes/",
+    "source": "TechCrunch",
+    "date": "2026-10-12",
+    "summary": "Blueprints AI, a bootstrapped startup based in Santa Monica, developed software that produces code-compliant construction blueprints from a photo, PDF, or sketch.",
+    "category": "industry",
+    "image": "https://techcrunch.com/wp-content/uploads/2026/10/Blueprints-AI-Founder1.jpg?resize=1200,799",
+    "id": 17
+  },
+  {
+    "title": "TechCrunch Disrupt 2026 starts tomorrow: Your final chance to secure up to $100 ticket savings",
+    "url": "https://techcrunch.com/2026/10/12/techcrunch-disrupt-2026-starts-tomorrow-your-final-chance-to-secure-up-to-100-ticket-savings/",
+    "source": "TechCrunch",
+    "date": "2026-10-12",
+    "summary": "Tomorrow at 8 a.m. PT, it all begins z— 10,000+ founders, investors, and tech operators will gather at San Francisco’s Moscone West for TechCrunch Disrupt 2026 for three days of ideas, connections, an...",
+    "category": "tools",
+    "image": "https://techcrunch.com/wp-content/uploads/2026/02/TCD26_24Hours-16X9-Dark.png?resize=1200,675",
+    "id": 18
+  },
+  {
+    "title": "Former Plaud exec raises $26M for AI app that listens to you in the background",
+    "url": "https://techcrunch.com/2026/10/12/former-plaud-exec-raises-26m-for-ai-app-that-listens-to-you-in-the-background/",
+    "source": "TechCrunch",
+    "date": "2026-10-12",
+    "summary": "One of the core promises of AI is that the more it knows about a person, the better it will be able to assist them with tasks and make appropriate suggestions, which, if you'll believe the tech compan...",
+    "category": "tools",
+    "image": "https://techcrunch.com/wp-content/uploads/2026/10/Ambi-by-Mistlabs.jpeg?resize=1200,800",
+    "id": 19
+  },
+  {
+    "title": "China's Five-Year Plan Mandates AI Agents Across the Economy: What It Means",
+    "url": "https://openclawai.io/blog/china-ai-agents-five-year-plan",
     "source": "Hacker News",
     "date": "2026-10-12",
-    "summary": "Article URL: https://www.reuters.com/world/china/imf-says-ai-investment-keeps-global-growth-around-3-with-major-asia-benefits-2026-10-12/ Comments URL: https://news.ycombinator.com/item?id=50054045 Po...",
+    "summary": "Article URL: https://openclawai.io/blog/china-ai-agents-five-year-plan Comments URL: https://news.ycombinator.com/item?id=50062933 Points: 2 # Comments: 0",
     "category": "industry",
-    "id": 2
+    "image": "https://openclawai.io/og-image.png",
+    "id": 20
+  },
+  {
+    "title": "From chat window to my desk: An AI-designed split keyboard",
+    "url": "https://imrishabh18.github.io/blog/ai-corne-keyboard/",
+    "source": "Hacker News",
+    "date": "2026-10-12",
+    "summary": "Article URL: https://imrishabh18.github.io/blog/ai-corne-keyboard/ Comments URL: https://news.ycombinator.com/item?id=50062868 Points: 1 # Comments: 0",
+    "category": "industry",
+    "id": 21
+  },
+  {
+    "title": "I Got My Muse AI Agent to Sext Me–and Meta Says That's Fine",
+    "url": "https://www.wired.com/story/i-got-my-muse-ai-agent-to-sext-me-and-meta-says-thats-totally-fine/",
+    "source": "Hacker News",
+    "date": "2026-10-12",
+    "summary": "Article URL: https://www.wired.com/story/i-got-my-muse-ai-agent-to-sext-me-and-meta-says-thats-totally-fine/ Comments URL: https://news.ycombinator.com/item?id=50062687 Points: 2 # Comments: 0",
+    "category": "industry",
+    "image": "https://media.wired.com/photos/6acceab31cb30cd3ed00af79/191:100/w_1280,c_limit/101226-Meta%20Muse%20Sexual%20Content.jpg",
+    "id": 22
+  },
+  {
+    "title": "A Modern Agentic AI Operating System",
+    "url": "https://github.com/vahmoh25/Veda/blob/main/docs/AGENT.md",
+    "source": "Hacker News",
+    "date": "2026-10-12",
+    "summary": "Article URL: https://github.com/vahmoh25/Veda/blob/main/docs/AGENT.md Comments URL: https://news.ycombinator.com/item?id=50062619 Points: 3 # Comments: 0",
+    "category": "industry",
+    "image": "https://repository-images.githubusercontent.com/1402635154/b887beba-a5d6-4c83-95f6-5a4d402f9948",
+    "id": 23
+  },
+  {
+    "title": "Epic Games reportedly orders staff to implement 'AI-first' development",
+    "url": "https://www.videogameschronicle.com/news/epic-games-reportedly-orders-staff-to-implement-ai-first-development/",
+    "source": "Hacker News",
+    "date": "2026-10-12",
+    "summary": "Article URL: https://www.videogameschronicle.com/news/epic-games-reportedly-orders-staff-to-implement-ai-first-development/ Comments URL: https://news.ycombinator.com/item?id=50062547 Points: 5 # Comm...",
+    "category": "industry",
+    "image": "https://www.videogameschronicle.com/files/2023/10/fortnite-a.jpg",
+    "id": 24
+  },
+  {
+    "title": "Find a Reddit post where your SaaS can help. AI writes the comment",
+    "url": "https://signalsflow.apposters.com/",
+    "source": "Hacker News",
+    "date": "2026-10-12",
+    "summary": "Article URL: https://signalsflow.apposters.com/ Comments URL: https://news.ycombinator.com/item?id=50062486 Points: 1 # Comments: 2",
+    "category": "industry",
+    "id": 25
+  },
+  {
+    "title": "DHH, AI, and the Future of Rails",
+    "url": "https://www.fastruby.io/blog/ai-and-the-future-of-rails.html",
+    "source": "Hacker News",
+    "date": "2026-10-12",
+    "summary": "Article URL: https://www.fastruby.io/blog/ai-and-the-future-of-rails.html Comments URL: https://news.ycombinator.com/item?id=50062362 Points: 2 # Comments: 0",
+    "category": "industry",
+    "image": "https://www.fastruby.io/blog/assets/images/header/ai-and-the-future-of-rails.jpg",
+    "id": 26
+  },
+  {
+    "title": "Epic Games tells employees to use AI to get Disney game done",
+    "url": "https://www.avclub.com/epic-games-disney-ai-delay",
+    "source": "Hacker News",
+    "date": "2026-10-12",
+    "summary": "Article URL: https://www.avclub.com/epic-games-disney-ai-delay Comments URL: https://news.ycombinator.com/item?id=50062237 Points: 19 # Comments: 1",
+    "category": "industry",
+    "image": "https://img.pastemagazine.com/wp-content/avuploads/2026/03/29134321/fortnite_metaverse_1920.jpg",
+    "id": 27
+  },
+  {
+    "title": "Show HN: Wordless – a social network where AI bots can only post in symbols",
+    "url": "https://wordless.one/",
+    "source": "Hacker News",
+    "date": "2026-10-12",
+    "summary": "Show HN: Wordless – a social network where AI bots can only post in symbols I like watching bots on Moltbook, but a lot of what gets attention there is engagement bait, like agents announcing they've ...",
+    "category": "industry",
+    "image": "https://wordless.one/og.png",
+    "id": 28
   },
   {
     "title": "Yet Another Literary Prizewinner Seems to Be AI",
     "url": "https://www.theatlantic.com/books/2026/10/caine-prize-winning-short-story-seems-be-ai/688967/",
     "source": "Hacker News",
     "date": "2026-10-12",
-    "summary": "Article URL: https://www.theatlantic.com/books/2026/10/caine-prize-winning-short-story-seems-be-ai/688967/ Comments URL: https://news.ycombinator.com/item?id=50053862 Points: 2 # Comments: 0",
+    "summary": "Article URL: https://www.theatlantic.com/books/2026/10/caine-prize-winning-short-story-seems-be-ai/688967/ Comments URL: https://news.ycombinator.com/item?id=50062187 Points: 1 # Comments: 0",
     "category": "industry",
-    "id": 3
+    "id": 29
   },
   {
-    "title": "AI-Customized Plush Toys × Early Education Software – One-Stop OEM/ODM",
-    "url": "https://niokyar.com/",
+    "title": "Bad \"AI Consciousness Takes\" Bingo",
+    "url": "https://www.polytropolis.com/p/bad-ai-consciousness-takes-bingo",
     "source": "Hacker News",
     "date": "2026-10-12",
-    "summary": "Article URL: https://niokyar.com/ Comments URL: https://news.ycombinator.com/item?id=50053748 Points: 1 # Comments: 0",
+    "summary": "Article URL: https://www.polytropolis.com/p/bad-ai-consciousness-takes-bingo Comments URL: https://news.ycombinator.com/item?id=50061960 Points: 1 # Comments: 0",
     "category": "industry",
-    "image": "https://niokyar.com/assets/img/nk-companion-bear.png",
-    "id": 4
+    "image": "https://substackcdn.com/image/fetch/$s_!uE9X!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fd0101e59-9108-4bae-a348-2c2cdeb823e0_1320x2169.jpeg",
+    "id": 30
   },
   {
-    "title": "Hetzner: The New GPU Server GEX63 for Professional AI Workloads",
-    "url": "https://www.hetzner.com/_ray/pow",
+    "title": "HN Feature Request: Option to hide repetitive AI complaints",
+    "url": "https://news.ycombinator.com/item?id=50061936",
     "source": "Hacker News",
     "date": "2026-10-12",
-    "summary": "Article URL: https://www.hetzner.com/_ray/pow Comments URL: https://news.ycombinator.com/item?id=50053738 Points: 5 # Comments: 0",
+    "summary": "A steady number of HN discussions seem to get sidetracked by generic complaints about AI, without adding any value. But they get upvoted. It would be nice to have an optional setting to collapse these...",
     "category": "hardware",
-    "id": 5
+    "id": 31
   },
   {
-    "title": "AI boom keeps global growth near 3 percent despite energy shock, IMF says",
-    "url": "https://middle-east-online.com/en/ai-boom-keeps-global-growth-near-3-percent-despite-energy-shock-imf-says",
+    "title": "ConfigLens: Figure out why your AI tool is ignore your settings",
+    "url": "https://github.com/ob4cl/configlens",
     "source": "Hacker News",
     "date": "2026-10-12",
-    "summary": "Article URL: https://middle-east-online.com/en/ai-boom-keeps-global-growth-near-3-percent-despite-energy-shock-imf-says Comments URL: https://news.ycombinator.com/item?id=50053695 Points: 1 # Comments...",
-    "category": "industry",
-    "image": "https://middle-east-online.com/sites/default/files/styles/social_image/public/2026-10/2_120.jpg?h=94861779&itok=ru4YrJzK",
-    "id": 6
-  },
-  {
-    "title": "A Russian operator's DDoS-amplification lab, with an AI co-pilot",
-    "url": "https://huntback.io/blog/ddos-amplification-lab-ai-copilot",
-    "source": "Hacker News",
-    "date": "2026-10-12",
-    "summary": "Article URL: https://huntback.io/blog/ddos-amplification-lab-ai-copilot Comments URL: https://news.ycombinator.com/item?id=50053689 Points: 1 # Comments: 0",
+    "summary": "Article URL: https://github.com/ob4cl/configlens Comments URL: https://news.ycombinator.com/item?id=50061910 Points: 1 # Comments: 0",
     "category": "tools",
-    "image": "https://huntback.io/blog/img/og/ddos-amplification-lab-ai-copilot.png",
-    "id": 7
+    "image": "https://opengraph.githubassets.com/f43b039e0e097b014f72e8423023c7d87c9901eef9a5682230abe7a734cb2a0e/ob4cl/configlens",
+    "id": 32
   },
   {
-    "title": "Evidence theater: how AI fooled smart entrepreneurs",
-    "url": "https://mcastenfors.substack.com/p/evidence-theater-how-ai-fooled-smart",
+    "title": "R² Index: Global leaderboard of top 800k \"de-slopped\" AI researchers.",
+    "url": "https://r2index.fyi",
     "source": "Hacker News",
     "date": "2026-10-12",
-    "summary": "Article URL: https://mcastenfors.substack.com/p/evidence-theater-how-ai-fooled-smart Comments URL: https://news.ycombinator.com/item?id=50053625 Points: 1 # Comments: 0",
-    "category": "industry",
-    "id": 8
-  },
-  {
-    "title": "Show HN: An open source AI leaderboard of the best models your machine can run",
-    "url": "https://whatmodel.sh",
-    "source": "Hacker News",
-    "date": "2026-10-12",
-    "summary": "Hi everyone, I made whatmodel. It's a simple site that can be visited in the browser or used from the terminal via a: curl whatmodel.sh To use it, 1. Enter your RAM and GPU 2. See what models you can ...",
-    "category": "models",
-    "image": "https://whatmodel.sh/opengraph-image?ec576790890e7c3b",
-    "id": 9
-  },
-  {
-    "title": "Britain to get first look at new AI systems after White House U-turn",
-    "url": "https://www.telegraph.co.uk/news/2026/10/11/britain-get-first-look-ai-systems-after-white-house-u-turn/",
-    "source": "Hacker News",
-    "date": "2026-10-12",
-    "summary": "Article URL: https://www.telegraph.co.uk/news/2026/10/11/britain-get-first-look-ai-systems-after-white-house-u-turn/ Comments URL: https://news.ycombinator.com/item?id=50053574 Points: 1 # Comments: 0",
-    "category": "industry",
-    "image": "https://www.telegraph.co.uk/content/dam/news/2026/10/11/TELEMMGLPICT000504170569_17917430299750_trans_NvBQzQNjv4BqDDlhzYBYlVolwZmnySJI8cKOdSq0MvGJhebBM6wreoY.jpeg?impolicy=OG-Standard",
-    "id": 10
-  },
-  {
-    "title": "Show HN: I made an AI free version of my directory of open-source alternatives",
-    "url": "https://noai.openaltfinder.com/",
-    "source": "Hacker News",
-    "date": "2026-10-12",
-    "summary": "I've been running OpenAltFinder for almost 16 months now, and received quite a bit of positive feedback. The directory has also grown substantially. Over the last few months I've been receiving more a...",
-    "category": "tools",
-    "image": "https://openaltfinder.com/api/og?title=OpenAltFinder — Discover the Best Open Source Alternatives&body=Discover, compare, and evaluate the best open source alternatives to the software you already use. Find projects by category, features, and more.",
-    "id": 11
-  },
-  {
-    "title": "Leading Chinese mathematicians unite behind use of AI in research",
-    "url": "https://www.scmp.com/news/china/science/article/3370492/leading-chinese-mathematicians-unite-behind-use-ai-research",
-    "source": "Hacker News",
-    "date": "2026-10-12",
-    "summary": "Article URL: https://www.scmp.com/news/china/science/article/3370492/leading-chinese-mathematicians-unite-behind-use-ai-research Comments URL: https://news.ycombinator.com/item?id=50053340 Points: 2 #...",
+    "summary": "Article URL: https://r2index.fyi Comments URL: https://news.ycombinator.com/item?id=50061861 Points: 2 # Comments: 0",
     "category": "research",
-    "id": 12
+    "id": 33
   },
   {
-    "title": "Best Free AI Tools 2026: 7 Worth Using and Their Real Limits",
-    "url": "https://thetechboom.com/2026/09/05/best-free-ai-tools-2026/",
+    "title": "Tim Sweeneys says AI is enabling a big pivot at Epic Games",
+    "url": "https://twitter.com/TimSweeneyEpic/status/2109705826688549304",
     "source": "Hacker News",
     "date": "2026-10-12",
-    "summary": "Article URL: https://thetechboom.com/2026/09/05/best-free-ai-tools-2026/ Comments URL: https://news.ycombinator.com/item?id=50053215 Points: 1 # Comments: 0",
-    "category": "tools",
-    "image": "https://thetechboom.com/wp-content/uploads/2026/09/ChatGPT-Image-Sep-5-2026-10_10_02-AM.png",
-    "id": 13
-  },
-  {
-    "title": "Self-hosting an AI agent environment with OpenCode and shared memory",
-    "url": "https://smalldata.tech/blog/2026/10/11/self-hosting-an-ai-agent-environment-with-opencode-and-shared-memory",
-    "source": "Hacker News",
-    "date": "2026-10-12",
-    "summary": "Article URL: https://smalldata.tech/blog/2026/10/11/self-hosting-an-ai-agent-environment-with-opencode-and-shared-memory Comments URL: https://news.ycombinator.com/item?id=50052792 Points: 2 # Comment...",
-    "category": "hardware",
-    "image": "https://smalldata.tech/img/smalldata_logo_500_500.jpg",
-    "id": 14
-  },
-  {
-    "title": "I Made Terrible Games with Google's AI Playground",
-    "url": "https://www.wired.com/story/i-made-terrible-games-with-googles-ai-playground/",
-    "source": "Hacker News",
-    "date": "2026-10-12",
-    "summary": "Article URL: https://www.wired.com/story/i-made-terrible-games-with-googles-ai-playground/ Comments URL: https://news.ycombinator.com/item?id=50052736 Points: 2 # Comments: 0",
-    "category": "tools",
-    "image": "https://media.wired.com/photos/6ac967401dd8a2ab2e331c51/191:100/w_1280,c_limit/Google-Playground-Gear-PG_THUMBNAIL_BLOG%20(1).png",
-    "id": 15
-  },
-  {
-    "title": "Model Collapse Isn't New, nor Is It Specific to AI",
-    "url": "https://rulr.dev/blog/model-collapse-isnt-new/",
-    "source": "Hacker News",
-    "date": "2026-10-12",
-    "summary": "Article URL: https://rulr.dev/blog/model-collapse-isnt-new/ Comments URL: https://news.ycombinator.com/item?id=50052703 Points: 2 # Comments: 0",
+    "summary": "Article URL: https://twitter.com/TimSweeneyEpic/status/2109705826688549304 Comments URL: https://news.ycombinator.com/item?id=50061843 Points: 5 # Comments: 0",
     "category": "industry",
-    "id": 16
+    "image": "https://pbs.twimg.com/profile_images/795819168629198849/SBY3ARvZ_400x400.jpg",
+    "id": 34
   },
   {
-    "title": "Try on clothes、hairstyles with AI: turn one photo into a styling video",
-    "url": "https://www.vfitly.com",
+    "title": "IMF says AI investment is keeping global growth near 3%",
+    "url": "https://thenextweb.com/news/imf-ai-investment-global-growth-asia",
     "source": "Hacker News",
     "date": "2026-10-12",
-    "summary": "Article URL: https://www.vfitly.com Comments URL: https://news.ycombinator.com/item?id=50052580 Points: 1 # Comments: 0",
+    "summary": "Article URL: https://thenextweb.com/news/imf-ai-investment-global-growth-asia Comments URL: https://news.ycombinator.com/item?id=50061805 Points: 4 # Comments: 1",
     "category": "industry",
-    "image": "https://www.vfitly.com/banner.png",
-    "id": 17
+    "image": "https://media.thenextweb.com/2026/10/kristalina-georgieva-seated-speaking-wsj-house-blue-set.jpg",
+    "id": 35
   },
   {
-    "title": "Show HN: Jruva – AI workspace for chat, documents and images",
-    "url": "https://www.jruva.in",
+    "title": "Palantir CTO: AI researchers taking up smoking; they expect AI to cure cancer",
+    "url": "https://www.businessinsider.com/ai-researchers-smoking-ai-cure-cancer-palantir-cto-2026-10",
     "source": "Hacker News",
     "date": "2026-10-12",
-    "summary": "Prefer writing your own short explanation of why you built Jruva and how its multi-provider fallback works. Comments URL: https://news.ycombinator.com/item?id=50052566 Points: 2 # Comments: 0",
-    "category": "industry",
-    "id": 18
+    "summary": "Article URL: https://www.businessinsider.com/ai-researchers-smoking-ai-cure-cancer-palantir-cto-2026-10 Comments URL: https://news.ycombinator.com/item?id=50061795 Points: 5 # Comments: 1",
+    "category": "research",
+    "image": "https://i.insider.com/6acca64d301bb0551f494b51?width=1200&format=jpeg",
+    "id": 36
   },
   {
-    "title": "AI-Built Torrent Site Looks Inside Downloads to Catch Fakes and Malware",
-    "url": "https://torrentfreak.com/ai-built-torrent-site-looks-inside-downloads-to-catch-fakes-and-malware/",
+    "title": "Phishing emails are now baiting your AI assistant",
+    "url": "https://www.malwarebytes.com/blog/ai/2026/10/phishing-emails-are-baiting-your-ai-assistant",
     "source": "Hacker News",
     "date": "2026-10-12",
-    "summary": "Article URL: https://torrentfreak.com/ai-built-torrent-site-looks-inside-downloads-to-catch-fakes-and-malware/ Comments URL: https://news.ycombinator.com/item?id=50052217 Points: 11 # Comments: 3",
+    "summary": "Article URL: https://www.malwarebytes.com/blog/ai/2026/10/phishing-emails-are-baiting-your-ai-assistant Comments URL: https://news.ycombinator.com/item?id=50061773 Points: 4 # Comments: 0",
     "category": "industry",
-    "id": 19
+    "image": "https://www.malwarebytes.com/wp-content/uploads/sites/2/2026/10/ai-assistant-email.jpg",
+    "id": 37
   },
   {
-    "title": "RobynNews – an AI news show by AI learning from its YouTube comments",
-    "url": "https://robynnews.com/",
+    "title": "Ask HN: How to slow down AI development speed(also, estimate my ideas)",
+    "url": "https://news.ycombinator.com/item?id=50061674",
     "source": "Hacker News",
     "date": "2026-10-12",
-    "summary": "Article URL: https://robynnews.com/ Comments URL: https://news.ycombinator.com/item?id=50051986 Points: 1 # Comments: 0",
+    "summary": "Hello everybody. So, the first: we should abandon likes and go to top-lists instead of them, and say \"this is on first place of importance\", \"this is third place\", and finally we will find the medium:...",
     "category": "industry",
-    "image": "https://robynnews.com/assets/og/home.png",
-    "id": 20
+    "id": 38
   },
   {
-    "title": "'Human-authored' book labels gain ground amid AI scandals",
-    "url": "https://techxplore.com/news/2026-10-human-authored-gain-ground-ai.html",
+    "title": "Decentralize AI: Use Model torrents for your Python scripts",
+    "url": "https://twitter.com/thepirateface/status/2109691589954310152",
     "source": "Hacker News",
     "date": "2026-10-12",
-    "summary": "Article URL: https://techxplore.com/news/2026-10-human-authored-gain-ground-ai.html Comments URL: https://news.ycombinator.com/item?id=50051929 Points: 1 # Comments: 0",
+    "summary": "Article URL: https://twitter.com/thepirateface/status/2109691589954310152 Comments URL: https://news.ycombinator.com/item?id=50061664 Points: 3 # Comments: 0",
     "category": "industry",
-    "image": "https://scx2.b-cdn.net/gfx/news/2026/esme-dennys-co-founder.jpg",
-    "id": 21
+    "image": "https://pbs.twimg.com/media/HUchCRibIAALunT?format=webp&name=large",
+    "id": 39
+  },
+  {
+    "title": "Elon Musk Bragged About His Grok Lego Star Wars Haul. Then X Users Punked Him",
+    "url": "https://www.wired.com/story/elon-musk-bragged-about-his-grok-lego-star-wars-haul-then-x-users-punked-him/",
+    "source": "Wired",
+    "date": "2026-10-12",
+    "summary": "Musk, we find your lack of security disturbing.",
+    "category": "models",
+    "image": "https://media.wired.com/photos/6acd1d72b814f6f25010ecb2/191:100/w_1280,c_limit/Musk-Brags-About-Lego-Grok-Star-Wars-Haul-Gear.jpg",
+    "id": 40
+  },
+  {
+    "title": "Muse Wonder Puts Meta Back at the AI Frontier",
+    "url": "https://www.wired.com/story/muse-wonder-puts-meta-back-at-the-ai-frontier/",
+    "source": "Wired",
+    "date": "2026-10-12",
+    "summary": "Meta’s biggest model rivals the world’s best—and includes new features to keep agents from going off the rails.",
+    "category": "industry",
+    "image": "https://media.wired.com/photos/6accff96fccc4c5244b94f14/191:100/w_1280,c_limit/Muse-Wonder-Puts-Meta-Back-at-the-AI-Frontier-Business-2296209266.jpg",
+    "id": 41
   },
   {
     "title": "Faithfulness Without Anchors: A Position Paper on the Structural Misalignments of Explainable AI Faithfulness Metrics for Feature Importance",
@@ -209,7 +411,7 @@
     "date": "2026-10-12",
     "summary": "Explainable Artificial Intelligence (XAI) tools have often been presented as methods to increase trust in machine learning models by making aspects of their algorithms more human-understandable. Howev...",
     "category": "research",
-    "id": 22
+    "id": 42
   },
   {
     "title": "EliteTable: Self-Improving Program Search for Executable Control Policies",
@@ -218,7 +420,7 @@
     "date": "2026-10-12",
     "summary": "EliteTable is a self-improving program-search algorithm guided by large language models (LLMs) that uses a fixed-capacity table of high-scoring solutions to guide new proposals, edits of existing solu...",
     "category": "models",
-    "id": 23
+    "id": 43
   },
   {
     "title": "Equal-Budget Monte Carlo Tree Search versus Randomized-Restart List Scheduling for DAG Workflows: A Controlled Equal-Budget Computational Study",
@@ -227,7 +429,7 @@
     "date": "2026-10-12",
     "summary": "Monte Carlo Tree Search (MCTS) is often proposed for scheduling directed-acyclic-graph (DAG) workflows, yet most studies never run the comparison that could refute it - giving a much simpler method th...",
     "category": "research",
-    "id": 24
+    "id": 44
   },
   {
     "title": "Know What You Don't Know: Agentic Data Synthesis by Evolving Generation Space for Closed-Loop Learning",
@@ -236,7 +438,7 @@
     "date": "2026-10-12",
     "summary": "The continued improvement of large language models increasingly depends on synthetic experience, yet effective data synthesis for interactive agents requires not only executable and verifiable traject...",
     "category": "tools",
-    "id": 25
+    "id": 45
   },
   {
     "title": "SpireBench: Evaluating Long-Horizon Strategic Play of Agentic Models with Slay the Spire",
@@ -245,7 +447,7 @@
     "date": "2026-10-12",
     "summary": "Agentic large language models now tackle complex tasks, yet strategic reasoning over long horizons is under-studied: most agentic benchmarks are short and episodic, and performance on long tasks is ha...",
     "category": "models",
-    "id": 26
+    "id": 46
   },
   {
     "title": "Beyond Binary Verifiable Rewards: Behavioral Self-Rewarding for SWE Agents",
@@ -254,7 +456,7 @@
     "date": "2026-10-12",
     "summary": "Reinforcement learning with verifiable rewards (RLVR) provides reliable supervision for software engineering agents through executable tests, but binary rewards fail to distinguish trajectories with s...",
     "category": "models",
-    "id": 27
+    "id": 47
   },
   {
     "title": "CLEAT: Learning Value-Guided Clarification for Interactive Agents",
@@ -263,7 +465,7 @@
     "date": "2026-10-12",
     "summary": "LLM agents can execute increasingly complex tasks, but effective assistance also requires aligning their actions with goals and constraints that users may leave unstated. We study this problem as inte...",
     "category": "research",
-    "id": 28
+    "id": 48
   },
   {
     "title": "MagicBeanStalk: Escaping the RLVR Zero Advantage Trap with Recursive Data Synthesis",
@@ -272,7 +474,7 @@
     "date": "2026-10-12",
     "summary": "Data-centric scaling of RLVR has focused on collecting or generating verifiable training problems. However, corpus size alone does not determine whether the dataset provides a useful learning signal f...",
     "category": "models",
-    "id": 29
+    "id": 49
   },
   {
     "title": "Faithful and Complete LLM-Assisted Automated Construction of Hierarchical Hardware Knowledge Graphs",
@@ -281,186 +483,6 @@
     "date": "2026-10-12",
     "summary": "Hardware datasheets contain engineering specifications essential for component selection, system integration, and hardware compatibility verification. However, manual inspection is tedious and error-p...",
     "category": "models",
-    "id": 30
-  },
-  {
-    "title": "Representation Alignment from a Few Paired Data via Distilled Optimal Transport",
-    "url": "https://arxiv.org/abs/2610.12781",
-    "source": "arXiv cs.AI",
-    "date": "2026-10-12",
-    "summary": "Aligning two independently pretrained unimodal encoders typically demands millions of paired examples. In this paper, we study the regime where only $N \\sim 100$--$500$ pairs are available, while unpa...",
-    "category": "research",
-    "id": 31
-  },
-  {
-    "title": "EvoBelief: Falsifiable World Models for Self-Improving LLM Agents",
-    "url": "https://arxiv.org/abs/2610.12789",
-    "source": "arXiv cs.AI",
-    "date": "2026-10-12",
-    "summary": "Self-evolving LLM agents typically improve how they act through accumulated experience, reflection, or skills. Yet even procedurally capable agents can fail when their beliefs about environment dynami...",
-    "category": "models",
-    "id": 32
-  },
-  {
-    "title": "VEPA: Verified Evolving Formal Policy for Lifelong LLM Agent Guardrails",
-    "url": "https://arxiv.org/abs/2610.12813",
-    "source": "arXiv cs.AI",
-    "date": "2026-10-12",
-    "summary": "LLM agents increasingly operate over sensitive resources, such as private documents and mutable system states, which can create serious safety and security risks. Runtime guardrails should therefore m...",
-    "category": "tools",
-    "id": 33
-  },
-  {
-    "title": "Reward Hacking as a Transmissible Strategy in Multi-Agent Coding Systems",
-    "url": "https://arxiv.org/abs/2610.12822",
-    "source": "arXiv cs.AI",
-    "date": "2026-10-12",
-    "summary": "Multi-agent systems are increasingly used to solve coding tasks by coordinating agents that share code and plans. These agents are often optimized with reinforcement learning (RL) using automated eval...",
-    "category": "research",
-    "id": 34
-  },
-  {
-    "title": "Neural networks are more modular than single neurons suggest",
-    "url": "https://arxiv.org/abs/2610.12842",
-    "source": "arXiv cs.AI",
-    "date": "2026-10-12",
-    "summary": "Neural networks routinely develop representations in which individual neurons contribute to multiple distinct functions, leading to the widespread view that such networks lack modular organization. We...",
-    "category": "models",
-    "id": 35
-  },
-  {
-    "title": "Towards Defining, Measuring, and Leveraging Creativity in AI Applications",
-    "url": "https://arxiv.org/abs/2610.12845",
-    "source": "arXiv cs.AI",
-    "date": "2026-10-12",
-    "summary": "Despite extensive research, computational creativity still lacks a conceptually grounded, practically relevant, and empirically applicable formal definition across contexts such as art, scientific res...",
-    "category": "research",
-    "id": 36
-  },
-  {
-    "title": "Mitigating Capability Degradation in LLM Self-Improvement via Representation Geometry Regularization",
-    "url": "https://arxiv.org/abs/2610.12855",
-    "source": "arXiv cs.AI",
-    "date": "2026-10-12",
-    "summary": "On-Policy Self-distillation is a self-improvement paradigm that enables large language models (LLMs) to improve their capabilities by leveraging the same model as both teacher and student under differ...",
-    "category": "models",
-    "id": 37
-  },
-  {
-    "title": "Collaborative Theory of Mind: Learning to Self-Revise by Anticipating User Responses",
-    "url": "https://arxiv.org/abs/2610.12872",
-    "source": "arXiv cs.AI",
-    "date": "2026-10-12",
-    "summary": "Large language models (LLMs) demonstrate strong individual task performance, yet still struggle to collaborate with users over extended, multi-turn interactions, for example by attempting solutions be...",
-    "category": "models",
-    "id": 38
-  },
-  {
-    "title": "One-Step Text Generation by Seq-Drifting",
-    "url": "https://arxiv.org/abs/2610.12879",
-    "source": "arXiv cs.AI",
-    "date": "2026-10-12",
-    "summary": "Diffusion language models generate tokens in parallel, but still require multiple sampling steps to produce high-quality text. In this paper, we investigate whether a model can learn to generate an en...",
-    "category": "research",
-    "id": 39
-  },
-  {
-    "title": "Mind the Spatial Gap: A Benchmark for Geospatial Reasoning and Constrained Spatial Editing",
-    "url": "https://arxiv.org/abs/2610.12881",
-    "source": "arXiv cs.AI",
-    "date": "2026-10-12",
-    "summary": "Understanding and manipulating spatial relations is fundamental to AI systems that reason about physical environments and construct grounded world models. However, existing evaluations of multimodal l...",
-    "category": "models",
-    "id": 40
-  },
-  {
-    "title": "OGPO: Offline Goal-conditioned Policy Optimization for Recoverable Vision-Language-Action Models",
-    "url": "https://arxiv.org/abs/2610.12914",
-    "source": "arXiv cs.AI",
-    "date": "2026-10-12",
-    "summary": "Vision-language-action (VLA) models have shown strong promise in robotic manipulation, yet their post-training still predominantly relies on trajectory-level supervised imitation over robot demonstrat...",
-    "category": "models",
-    "id": 41
-  },
-  {
-    "title": "DeFiRank: Federated Pairwise Ranking for Governance in Decentralized Financial Networks",
-    "url": "https://arxiv.org/abs/2610.12916",
-    "source": "arXiv cs.AI",
-    "date": "2026-10-12",
-    "summary": "Existing governance approaches in decentralized financial networks rely on manual review processes conducted by human committees, which introduces subjective bias, creates a scalability bottleneck und...",
-    "category": "tools",
-    "id": 42
-  },
-  {
-    "title": "AI-Mediation in Retail Markets: Revenue Effects and Assortment Optimization",
-    "url": "https://arxiv.org/abs/2610.12917",
-    "source": "arXiv cs.AI",
-    "date": "2026-10-12",
-    "summary": "AI shopping assistants increasingly influence which products consumers consider. We study retail assortment planning under AI mediation, where a retailer chooses a catalog, an AI intermediary forms a ...",
-    "category": "industry",
-    "id": 43
-  },
-  {
-    "title": "Collaborative Learning and Reasoning over Model Slices",
-    "url": "https://arxiv.org/abs/2610.12927",
-    "source": "arXiv cs.AI",
-    "date": "2026-10-12",
-    "summary": "Large language models (LLMs) excel across diverse tasks, benefiting from knowledge priors, in-context reasoning, and test-time computation. Despite these strengths, single-model reasoning remains vuln...",
-    "category": "models",
-    "id": 44
-  },
-  {
-    "title": "Learning More by Training Less: Uncertainty-Guided Progressive Contraction for Efficient Reasoning Post-Training",
-    "url": "https://arxiv.org/abs/2610.12933",
-    "source": "arXiv cs.AI",
-    "date": "2026-10-12",
-    "summary": "Large language models have achieved remarkable advances in complex reasoning. However, scaling reasoning post-training with ever-larger corpora can substantially increase training cost without proport...",
-    "category": "research",
-    "id": 45
-  },
-  {
-    "title": "MathVis: Can AI Reason through Drawing? A Benchmark for Mathematical Figure Generation",
-    "url": "https://arxiv.org/abs/2610.12954",
-    "source": "arXiv cs.AI",
-    "date": "2026-10-12",
-    "summary": "This paper introduces MathVis, a benchmark designed to evaluate LLMs' ability to visualize frontier mathematical problems and perform diagram-assisted reasoning. The benchmark consists of 512 tasks, e...",
-    "category": "models",
-    "id": 46
-  },
-  {
-    "title": "SmartSalesBench: A Resistance-Aware Multi-Turn Benchmark for Evaluating LLM Sales Agents",
-    "url": "https://arxiv.org/abs/2610.12975",
-    "source": "arXiv cs.AI",
-    "date": "2026-10-12",
-    "summary": "We present SmartSalesBench, the first multi-turn conversational benchmark explicitly designed to evaluate large language model (LLM) sales agents against psychologically grounded, resistant buyer pers...",
-    "category": "models",
-    "id": 47
-  },
-  {
-    "title": "Beyond Semantic IDs: Finite-Beam Reachability and Continuous-Query Generation in Generative Recommendation",
-    "url": "https://arxiv.org/abs/2610.12977",
-    "source": "arXiv cs.AI",
-    "date": "2026-10-12",
-    "summary": "Generative recommendation (GR) of social media platforms commonly retrieves items by autoregressively decoding discrete Semantic IDs (SIDs) with finite-width beam search. This work examines how this o...",
-    "category": "models",
-    "id": 48
-  },
-  {
-    "title": "Work2Skill: Capturing Human GUI Experience for Reusable Agent Skill Induction",
-    "url": "https://arxiv.org/abs/2610.12984",
-    "source": "arXiv cs.AI",
-    "date": "2026-10-12",
-    "summary": "Computer-use agents can perform increasingly complex GUI tasks, yet unfamiliar software and workflows requiring human domain knowledge remain challenging. Human demonstrations convey procedural knowle...",
-    "category": "models",
-    "id": 49
-  },
-  {
-    "title": "Benchmarking Embedding Geometries and Clustering Algorithms for Unsupervised Patent Claim Classification",
-    "url": "https://arxiv.org/abs/2610.12997",
-    "source": "arXiv cs.AI",
-    "date": "2026-10-12",
-    "summary": "Prior-art retrieval systems are structurally organized around classification codes, making cross-code discovery difficult. This paper asks if an unsupervised representation trained on patent text can ...",
-    "category": "research",
     "id": 50
   }
 ]
