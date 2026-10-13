@@ -1,5 +1,26 @@
 [
   {
+    "title": "Gemini 4 Argon: Built to solve your hardest problems",
+    "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-argon/",
+    "source": "Google AI Blog",
+    "date": "2026-10-13",
+    "summary": "We’re giving developers, enterprises, scientists, and consumers access to Gemini 4 Argon, our latest frontier model.",
+    "category": "models",
+    "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/gemini-4-argon__blog-header__27.max-600x600.format-webp.webp",
+    "id": 1,
+    "featured": true
+  },
+  {
+    "title": "All Systems Go: Global PC App Ecosystem Ready for NVIDIA RTX Spark",
+    "url": "https://blogs.nvidia.com/blog/local-ai-rtx-spark-laptops-software-updates/",
+    "source": "NVIDIA Blog",
+    "date": "2026-10-13",
+    "summary": "NVIDIA RTX Spark is a new beginning for the PC — a reinvention combining the capabilities of a gaming PC, a creative studio and a personal AI supercomputer into a single superchip. With up to 128GB of...",
+    "category": "hardware",
+    "image": "https://blogs.nvidia.com/wp-content/uploads/2026/10/nv-raig-weekly-kit-10132026-nv-blog-1280x680-1.jpg",
+    "id": 2
+  },
+  {
     "title": "From Earth to Orbit, France’s Ecosystem Delivers Agentic Computing at Scale With NVIDIA",
     "url": "https://blogs.nvidia.com/blog/france-ecosystem-agentic-computing/",
     "source": "NVIDIA Blog",
@@ -7,200 +28,167 @@
     "summary": "Companies in France are deploying agentic computing across industries spanning space, financial services, the public sector and scientific research, demonstrating how the country’s ecosystem has moved...",
     "category": "hardware",
     "image": "https://blogs.nvidia.com/wp-content/uploads/2026/10/france-ai-ecosystem-gtc-berlin-updated.jpeg",
-    "id": 1,
-    "featured": true
-  },
-  {
-    "title": "Threat of AI share crash puts world financial stability at risk, says IMF",
-    "url": "https://www.theguardian.com/business/2026/oct/13/ai-share-crash-risk-global-imf-debt-corrowing-cyber-attacks",
-    "source": "Hacker News",
-    "date": "2026-10-13",
-    "summary": "Article URL: https://www.theguardian.com/business/2026/oct/13/ai-share-crash-risk-global-imf-debt-corrowing-cyber-attacks Comments URL: https://news.ycombinator.com/item?id=50067356 Points: 2 # Commen...",
-    "category": "industry",
-    "image": "https://i.guim.co.uk/img/media/e66d4b83821641865a2b61c557a735880c9734e0/936_0_4064_3251/master/4064.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=09d088172c992bc6ae7b21be63e1e523",
-    "id": 2
-  },
-  {
-    "title": "Ask HN: CAD for wood working with LLM support?",
-    "url": "https://news.ycombinator.com/item?id=50067325",
-    "source": "Hacker News",
-    "date": "2026-10-13",
-    "summary": "I’m a hobbyist woodworker. I manually design simple things in Shapr3d with a lot of patience when I build things. I wonder in the time of LLMs if there is an effective way to accelerate the 3D model d...",
-    "category": "models",
     "id": 3
   },
   {
-    "title": "Lossless Image Editing with AI",
-    "url": "https://jgibbs.dev/blogs/image-editing/",
-    "source": "Hacker News",
+    "title": "Framework Laptop 12 (Wildcat Lake) review: Growing up amid an unprecedented shortage",
+    "url": "https://www.tomshardware.com/laptops/framework-laptop-12-review-wildcat-lake",
+    "source": "Tom's Hardware",
     "date": "2026-10-13",
-    "summary": "Article URL: https://jgibbs.dev/blogs/image-editing/ Comments URL: https://news.ycombinator.com/item?id=50067303 Points: 1 # Comments: 0",
-    "category": "industry",
+    "summary": "The Framework Laptop 12 gets an infusion of 18A with Intel’s Wildcat Lake, but the poor display performance is a tough sell when prices often reach above $1,000.",
+    "category": "hardware",
+    "image": "https://cdn.mos.cms.futurecdn.net/d9pBRXbDTKEd4Reqt2RW9C-1920-80.jpg",
     "id": 4
   },
   {
-    "title": "'I use AI to do the things that I'm bad at': Linus Torvalds",
-    "url": "https://www.zdnet.com/tech/linus-torvalds-ai-coding-programming/",
-    "source": "Hacker News",
+    "title": "Chinese AI companies buy 1 million Nvidia GPUs in a single year, report claims",
+    "url": "https://www.tomshardware.com/pc-components/gpus/chinese-ai-companies-buy-1-million-nvidia-gpus-in-a-single-year-report-claims-export-control-compliant-chips-flood-the-market-to-bridge-gap-in-compute-demand",
+    "source": "Tom's Hardware",
     "date": "2026-10-13",
-    "summary": "Article URL: https://www.zdnet.com/tech/linus-torvalds-ai-coding-programming/ Comments URL: https://news.ycombinator.com/item?id=50067243 Points: 2 # Comments: 0",
-    "category": "industry",
-    "image": "https://www.zdnet.com/wp-content/uploads/sites/3/Linus.jpg",
+    "summary": "A new report has revealed China may have bought up 1 million Nvidia GPUs for AI this year.",
+    "category": "hardware",
+    "image": "https://cdn.mos.cms.futurecdn.net/U4acxp2Z82FdnqsZNYjLvX-1920-80.jpg",
     "id": 5
   },
   {
-    "title": "DocCloak – Browser-Based Document Anonymizer for AI Submissions",
-    "url": "https://github.com/WLojek/DocCloak",
-    "source": "Hacker News",
+    "title": "Anthropic warns of self-replicating AI worm threat that doesn't need data centers to self-improve and spread",
+    "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/anthropic-warns-of-self-replicating-ai-worm-threat-that-doesnt-need-data-centers-to-self-improve-and-spread-current-deployment-is-impractical-but-could-become-a-worry-as-tech-improves",
+    "source": "Tom's Hardware",
     "date": "2026-10-13",
-    "summary": "Article URL: https://github.com/WLojek/DocCloak Comments URL: https://news.ycombinator.com/item?id=50067141 Points: 1 # Comments: 0",
-    "category": "industry",
-    "image": "https://opengraph.githubassets.com/842e1df257b0092643457316d5258cf40b25e0f246dda5532d8ef80c667cc27c/WLojek/DocCloak",
+    "summary": "Anthropic’s paper establishes conceptual model capabilities, but doesn’t quite demonstrate a real threat until models improve further.",
+    "category": "hardware",
+    "image": "https://cdn.mos.cms.futurecdn.net/E8iSMKgnW5PaeepdDQjS4W-1920-80.jpg",
     "id": 6
   },
   {
-    "title": "LLM Agents Can Easily Tamper with Their Own Traces",
-    "url": "https://arxiv.org/abs/2609.30266",
-    "source": "Hacker News",
+    "title": "AI causes uproar in mathematics as experts warn against sharing research with LLMs after OpenAI shares 722 manuscripts and proofs",
+    "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/ai-causes-uproar-in-mathematics-as-experts-warn-against-sharing-research-with-llms-after-openai-shares-722-manuscripts-and-proofs-professor-argues-that-the-field-must-focus-on-building-community-over-raw-solutions",
+    "source": "Tom's Hardware",
     "date": "2026-10-13",
-    "summary": "Article URL: https://arxiv.org/abs/2609.30266 Comments URL: https://news.ycombinator.com/item?id=50066935 Points: 2 # Comments: 0",
+    "summary": "Last week, OpenAI shared over 400 results for longstanding mathematical formulas that have troubled humans for decades; now researchers say it could take years for humans to validate and prove all the...",
     "category": "models",
+    "image": "https://cdn.mos.cms.futurecdn.net/XL6skwap7n9uMaZN8gr3TY-1920-80.jpg",
     "id": 7
   },
   {
-    "title": "Things we've learned about building AI products",
-    "url": "https://newsletter.posthog.com/p/38-things-weve-learned-about-building",
-    "source": "Hacker News",
+    "title": "Epic Games reportedly delays Disney shooter title so it can pivot to AI coding",
+    "url": "https://www.tomshardware.com/video-games/pc-gaming/epic-games-reportedly-delays-disney-shooter-title-so-it-can-pivot-to-ai-coding-staff-allegedly-told-no-more-handwritten-code-with-art-generated-with-full-ai-workflows",
+    "source": "Tom's Hardware",
     "date": "2026-10-13",
-    "summary": "Article URL: https://newsletter.posthog.com/p/38-things-weve-learned-about-building Comments URL: https://news.ycombinator.com/item?id=50066927 Points: 2 # Comments: 0",
-    "category": "industry",
-    "image": "https://substackcdn.com/image/fetch/$s_!oh73!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F98a0b0d2-ed58-4ef4-83a4-a3719fec9228_1200x630.png",
+    "summary": "Developers working on an unnamed Disney shooter title for Epic Games were surprised when they were ordered to use as much AI as possible in their workflows.",
+    "category": "tools",
+    "image": "https://cdn.mos.cms.futurecdn.net/hqZprYFGquysurMYwZSP5E-1920-80.jpg",
     "id": 8
   },
   {
-    "title": "Software engineers don't get to be Luddites about AI",
-    "url": "https://www.seangoedecke.com/software-engineers-dont-get-to-be-luddites-about-ai/",
-    "source": "Hacker News",
+    "title": "Store-bought hardware crypto wallets had secret chips installed that enabled stealing crypto recovery phrases",
+    "url": "https://www.tomshardware.com/tech-industry/cryptocurrency/store-bought-hardware-crypto-wallets-had-secret-chips-installed-that-enabled-stealing-crypto-recovery-phrases-usd93-million-and-counting-stolen-thanks-to-implanted-esim-and-lte-modules-in-ledger-wallets",
+    "source": "Tom's Hardware",
     "date": "2026-10-13",
-    "summary": "Article URL: https://www.seangoedecke.com/software-engineers-dont-get-to-be-luddites-about-ai/ Comments URL: https://news.ycombinator.com/item?id=50066860 Points: 15 # Comments: 6",
-    "category": "industry",
+    "summary": "Store-bought Ledger hardware crypto wallets in Southeast Asia and Europe compromised in ongoing supply chain attack — $71 million and counting thanks to implanted eSIM and LTE modules",
+    "category": "hardware",
+    "image": "https://cdn.mos.cms.futurecdn.net/ahdW2YPo7PuwXntkDBzHcf-1920-80.jpg",
     "id": 9
   },
   {
-    "title": "Don't Feed the AI - Anonymizer Proxy for AI-assisted Pentesting",
-    "url": "https://github.com/zeroc00I/DontFeedTheAI",
-    "source": "Hacker News",
+    "title": "Satlyt, founded by a former Google and SpaceX product manager, raises $8M to run AI on satellites",
+    "url": "https://techcrunch.com/2026/10/13/satlyt-founded-by-a-former-google-and-spacex-product-manager-raises-8m-to-run-ai-on-satellites/",
+    "source": "TechCrunch",
     "date": "2026-10-13",
-    "summary": "Article URL: https://github.com/zeroc00I/DontFeedTheAI Comments URL: https://news.ycombinator.com/item?id=50066841 Points: 1 # Comments: 1",
+    "summary": "Satlyt wants to be the Android of orbital computing, offering open software that works on many companies' satellites, versus SpaceX's closed, all-in-one iPhone-style approach.",
     "category": "industry",
-    "image": "https://opengraph.githubassets.com/18e06071f31fe663fa608b5ce0983fb14ad239b2c0b8919ea9a40c9d58f5d999/zeroc00I/DontFeedTheAI",
+    "image": "https://techcrunch.com/wp-content/uploads/2026/09/Satlyt_Team_Group-Portrait_Steps.jpg?resize=1200,800",
     "id": 10
   },
   {
-    "title": "Show HN: GPT-3.5 answered, GPT-4 voided; I built an EOS gate for AGI",
-    "url": "https://getswiftapi.com",
-    "source": "Hacker News",
+    "title": "SpaceXSI bundles X Premium, Grok, and Cursor into one subscription",
+    "url": "https://techcrunch.com/2026/10/13/spacexsi-bundles-x-premium-grok-and-cursor-into-one-subscription/",
+    "source": "TechCrunch",
     "date": "2026-10-13",
-    "summary": "Article URL: https://getswiftapi.com Comments URL: https://news.ycombinator.com/item?id=50066837 Points: 1 # Comments: 0",
-    "category": "models",
+    "summary": "The new X Subscription combines X's paid features with AI tools like Grok and Cursor, offering plans ranging from $8 to $200 per month.",
+    "category": "tools",
+    "image": "https://techcrunch.com/wp-content/uploads/2023/07/x-twitter.jpg?resize=1200,550",
     "id": 11
   },
   {
-    "title": "Intel Accelerates Open Infrastructure for the Agentic AI Era",
-    "url": "https://www.intel.com/content/www/us/en/newsroom/news/artificial-intelligence/intel-accelerates-open-infrastructure-agentic-ai-era.html",
-    "source": "Hacker News",
+    "title": "The final Disrupt Stage lineup: Three days of conversations you won’t hear anywhere outside of TechCrunch Disrupt 2026",
+    "url": "https://techcrunch.com/2026/10/13/the-final-disrupt-stage-lineup-three-days-of-conversations-you-wont-hear-anywhere-outside-of-techcrunch-disrupt-2026/",
+    "source": "TechCrunch",
     "date": "2026-10-13",
-    "summary": "Article URL: https://www.intel.com/content/www/us/en/newsroom/news/artificial-intelligence/intel-accelerates-open-infrastructure-agentic-ai-era.html Comments URL: https://news.ycombinator.com/item?id=...",
-    "category": "hardware",
-    "image": "https://www.intel.com/etc.clientlibs/settings/wcm/designs/intel/us/en/images/resources/printlogo.png",
+    "summary": "The full TechCrunch Disrupt Stage lineup revealed, featuring Max Hodak, Mark Wahlberg, Benchmark partners, and more. Register now to save up to $100 on your pass and get a second at 50% off.",
+    "category": "models",
+    "image": "https://techcrunch.com/wp-content/uploads/2025/01/Disrupt-2024-main-stage.jpg?resize=1200,800",
     "id": 12
   },
   {
-    "title": "AI Mentions Checker: Track Your Brand Visibility in AI Search",
-    "url": "https://news.ycombinator.com/item?id=50066633",
-    "source": "Hacker News",
+    "title": "Amex introduces a framework to prevent AI agents from making unauthorized purchases",
+    "url": "https://techcrunch.com/2026/10/13/amex-introduces-a-framework-to-prevent-ai-agents-from-making-unauthorized-purchases/",
+    "source": "TechCrunch",
     "date": "2026-10-13",
-    "summary": "Check your brand visibility in AI search with SERPSpur’s AI Mentions Checker. Discover brand mentions and citation opportunities. Comments URL: https://news.ycombinator.com/item?id=50066633 Points: 1 ...",
-    "category": "hardware",
+    "summary": "American Express is introducing a new framework designed to ensure AI agents only make purchases their users have authorized, potentially preventing costly mistakes and disputes as AI-powered shopping...",
+    "category": "tools",
+    "image": "https://techcrunch.com/wp-content/uploads/2026/10/amex-GettyImages-171311164.jpg?resize=1200,800",
     "id": 13
   },
   {
-    "title": "Show HN: Search for AI agents with usefulness score built in",
-    "url": "https://github.com/Ayobamiu/usefulness-search",
-    "source": "Hacker News",
+    "title": "Just 5 years in, interactive chatbot platform Character.AI files for bankruptcy",
+    "url": "https://techcrunch.com/2026/10/13/just-5-years-in-interactive-chatbot-platform-character-ai-files-for-bankruptcy/",
+    "source": "TechCrunch",
     "date": "2026-10-13",
-    "summary": "Hi HN. I partnered with Simon Kley to build this project at innovation intelligence hackathon (Berkeley). Simply, we’re building a usefulness score on top of search for ai-agents. Instead of agents re...",
-    "category": "hardware",
-    "image": "https://opengraph.githubassets.com/b0c11de1c936ba3d2f7c029b3f5dad3d7fbe98cb6c64f929625775d3403c0bf8/Ayobamiu/usefulness-search",
+    "summary": "The startup will sell some of its assets to Disney for $20 million.",
+    "category": "industry",
+    "image": "https://techcrunch.com/wp-content/uploads/2025/04/Screenshot-2025-04-22-at-1.24.23PM.png?resize=1200,672",
     "id": 14
   },
   {
-    "title": "Can we change an AI model's architecture without retraining it from scratch?",
-    "url": "https://www.amazon.science/blog/can-we-change-an-ai-models-architecture-without-retraining-it-from-scratch",
-    "source": "Hacker News",
+    "title": "The Download: open model trade-offs and geothermal power’s promise",
+    "url": "https://www.technologyreview.com/2026/10/13/1146382/the-download-open-models-trade-offs-geothermal-power/",
+    "source": "MIT Tech Review",
     "date": "2026-10-13",
-    "summary": "Article URL: https://www.amazon.science/blog/can-we-change-an-ai-models-architecture-without-retraining-it-from-scratch Comments URL: https://news.ycombinator.com/item?id=50066477 Points: 1 # Comments...",
-    "category": "industry",
-    "image": "https://cdn.amazon.science/dims4/default/34de22a/2147483647/strip/true/crop/2270x1192+0+43/resize/1200x630!/quality/90/?url=https%3A%2F%2Famzn-science-production-science.s3.us-east-1.amazonaws.com%2Fscience%2F48%2Ffc%2Fcf86b92b484f9da3927d4c06f537%2Fstate-composition-16x9.png",
+    "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. Open models have real benefits. Do they outweigh the risks? An...",
+    "category": "models",
+    "image": "https://wp.technologyreview.com/wp-content/uploads/2026/09/260915_openaimodels.jpg?resize=1200,600",
     "id": 15
   },
   {
-    "title": "I used an AI QA agent to test Hacker News",
-    "url": "https://hitest.ai/blog/demo-hacker-news",
-    "source": "Hacker News",
+    "title": "Open models have real benefits. Do they outweigh the risks?",
+    "url": "https://www.technologyreview.com/2026/10/13/1146366/open-models-have-real-benefits-do-they-outweigh-the-risks/",
+    "source": "MIT Tech Review",
     "date": "2026-10-13",
-    "summary": "Article URL: https://hitest.ai/blog/demo-hacker-news Comments URL: https://news.ycombinator.com/item?id=50066288 Points: 1 # Comments: 0",
+    "summary": "MIT Technology Review Explains: Let our writers untangle the complex, messy world of science and technology to help you understand what’s coming next. You can read more from the series here. Late last...",
     "category": "industry",
-    "image": "https://hitest.ai/blog/demos/hacker-news-homepage.webp",
+    "image": "https://wp.technologyreview.com/wp-content/uploads/2026/09/260915_openaimodels.jpg?resize=1200,600",
     "id": 16
   },
   {
-    "title": "Ask HN: Now that AI makes the execution easy, do ideas matter more?",
-    "url": "https://news.ycombinator.com/item?id=50066263",
-    "source": "Hacker News",
+    "title": "AI labs are buying data from dead startups to train their models",
+    "url": "https://www.technologyreview.com/2026/10/13/1145755/ai-labs-buying-data-from-dead-startups-to-train-models/",
+    "source": "MIT Tech Review",
     "date": "2026-10-13",
-    "summary": "Do you think this is true? Comments URL: https://news.ycombinator.com/item?id=50066263 Points: 1 # Comments: 1",
+    "summary": "When Keelan Miskell began winding down his crypto startup this year, he didn’t think its data was worth much: the users were anonymous, the company just a few years old. But he’s since turned the firm...",
     "category": "industry",
+    "image": "https://wp.technologyreview.com/wp-content/uploads/2026/10/AI-Death_Redamonti_MIT-thumb.jpg?resize=1200,600",
     "id": 17
   },
   {
-    "title": "Is AI the End of Math as We Know It?",
-    "url": "https://www.quantamagazine.org/is-ai-the-end-of-math-as-we-know-it-20261005/",
-    "source": "Hacker News",
+    "title": "Wikipedians Believed AI Would Come and Go. They Were Wrong",
+    "url": "https://www.wired.com/story/book-excerpt-the-last-best-place-on-the-internet-wikipedia-artificial-intelligence/",
+    "source": "Wired",
     "date": "2026-10-13",
-    "summary": "Article URL: https://www.quantamagazine.org/is-ai-the-end-of-math-as-we-know-it-20261005/ Comments URL: https://news.ycombinator.com/item?id=50066231 Points: 1 # Comments: 1",
+    "summary": "In a world of AI Overviews, Wikipedia usage declines. But the real loss may be far more existential than website traffic.",
     "category": "industry",
-    "image": "https://www.quantamagazine.org/wp-content/uploads/2026/10/Qualia-MathWoes-cr.Eduardo-Ramon-Social.jpg",
+    "image": "https://media.wired.com/photos/6acd26155e2bb341ef93eb39/191:100/w_1280,c_limit/10122026_BE_Wikepidia_v2.jpg",
     "id": 18
   },
   {
-    "title": "Leading Chinese mathematicians unite behind use of AI in research",
-    "url": "https://www.scmp.com/news/china/science/article/3370492/leading-chinese-mathematicians-unite-behind-use-ai-research",
-    "source": "Hacker News",
+    "title": "The Biggest Pro-AI Super PAC Network Has Poured Millions Into Nevada Shell Companies",
+    "url": "https://www.wired.com/story/the-biggest-pro-ai-super-pac-network-has-poured-millions-into-nevada-shell-companies/",
+    "source": "Wired",
     "date": "2026-10-13",
-    "summary": "Article URL: https://www.scmp.com/news/china/science/article/3370492/leading-chinese-mathematicians-unite-behind-use-ai-research Comments URL: https://news.ycombinator.com/item?id=50066207 Points: 3 #...",
-    "category": "research",
+    "summary": "Backed by Silicon Valley titans, Leading the Future has raised huge sums to promote pro-AI candidates on both side of the aisle.",
+    "category": "hardware",
+    "image": "https://media.wired.com/photos/6ac8319b29e3fd337d6a55ac/191:100/w_1280,c_limit/Politics_The%20Biggest%20Pro-AI%20Super%20Pac%20Has%20Been%20Funneling%20Millions%20of%20Dollars%20Into%20Shell%20Companies%20in%20Nevada_v1.jpg",
     "id": 19
-  },
-  {
-    "title": "In 5 years, 95% of tokens used by AI agents will be for tasks humans never did",
-    "url": "https://twitter.com/levie/status/1986620885592113218",
-    "source": "Hacker News",
-    "date": "2026-10-13",
-    "summary": "Article URL: https://twitter.com/levie/status/1986620885592113218 Comments URL: https://news.ycombinator.com/item?id=50066144 Points: 5 # Comments: 0",
-    "category": "industry",
-    "image": "https://pbs.twimg.com/profile_images/885529357904510976/tM0vLiYS_400x400.jpg",
-    "id": 20
-  },
-  {
-    "title": "Army turning to AI in its fight against biological threats",
-    "url": "https://defensescoop.com/2026/10/12/army-turning-to-ai-in-its-fight-against-biological-threats/",
-    "source": "Hacker News",
-    "date": "2026-10-13",
-    "summary": "Article URL: https://defensescoop.com/2026/10/12/army-turning-to-ai-in-its-fight-against-biological-threats/ Comments URL: https://news.ycombinator.com/item?id=50065839 Points: 4 # Comments: 0",
-    "category": "industry",
-    "image": "https://defensescoop.com/wp-content/uploads/sites/8/2026/10/8676535-e1791838793315.jpg",
-    "id": 21
   },
   {
     "title": "OCP Global Summit: Amid Ecosystem Adoption, NVIDIA Opens Vera Rubin Architecture to Help Scale AI Factories Worldwide",
@@ -210,7 +198,7 @@
     "summary": "As AI factories grow from megawatts to gigawatts, building them takes more than advanced computing. Open standards are helping the industry scale AI infrastructure faster, more efficiently and more re...",
     "category": "hardware",
     "image": "https://blogs.nvidia.com/wp-content/uploads/2026/10/gpu-architecture-rolling-blog-kv-ocp-blog-1920x1080-5820310.jpg",
-    "id": 22
+    "id": 20
   },
   {
     "title": "Intel's Crescent Island AI accelerator officially powers new GPU D-Series products",
@@ -220,7 +208,7 @@
     "summary": "Intel's Crescent Island AI inference accelerator will come to market as the GPU D-Series family, promising 1.3 PFLOPS of FP8 compute alongside up to 480 GB of LPDDR5X delivering 1.5 TB/s of memory ban...",
     "category": "hardware",
     "image": "https://cdn.mos.cms.futurecdn.net/rhHcYjk8r2a28j68LDnQ88-1920-80.jpg",
-    "id": 23
+    "id": 21
   },
   {
     "title": "Jev-like decision models are flooding the AI market, after researcher claims TypeSafe copied their research",
@@ -230,7 +218,7 @@
     "summary": "Jev and the flood of AI decision models — TypeSafe allegedly copied researcher's architecture but got copied itself",
     "category": "research",
     "image": "https://cdn.mos.cms.futurecdn.net/JLe7QVUdAmgC2wZ83yU7he-1920-80.jpg",
-    "id": 24
+    "id": 22
   },
   {
     "title": "Meet the modders porting ringfenced DLSS features to older GPUs",
@@ -240,7 +228,7 @@
     "summary": "DLSS Multi-Frame Generation and DLSS 5 Neural Rendering can now run on hardware never intended for it, at least according to Nvidia. Now, two of the modders foundational to the release of these commun...",
     "category": "hardware",
     "image": "https://cdn.mos.cms.futurecdn.net/HbQHcrfHqrMg5kcRqtLTXR-1920-80.jpg",
-    "id": 25
+    "id": 23
   },
   {
     "title": "Developer uses Claude to enable Xbox Cloud Gaming on jailbroken PS5s",
@@ -250,7 +238,7 @@
     "summary": "RafaelNGP released a native Xbox Game Pass app allowing Xbox Cloud Gaming on the PS5, with support for 4 controllers and 4K upscaling on the PS5 GPU.",
     "category": "models",
     "image": "https://cdn.mos.cms.futurecdn.net/BmB2jRGrsjFpT5E5T2nwJD-1920-80.jpg",
-    "id": 26
+    "id": 24
   },
   {
     "title": "Intel to phase out SGX after Xeon Diamond Rapids in favor of TDX",
@@ -260,7 +248,7 @@
     "summary": "Intel set to discontinue SGX after Xeon 'Diamond Rapids' and focus on expanding TDX capabilities to meet emerging security requirements of cloud computing, enterprise workloads, and agentic AI.",
     "category": "hardware",
     "image": "https://cdn.mos.cms.futurecdn.net/VBnZto6P3Yzh9RfNDACjGT-1920-80.jpg",
-    "id": 27
+    "id": 25
   },
   {
     "title": "Diamond-infused watercooling coldplates for 2,300W Nvidia Rubin drop temps by up to 22C",
@@ -270,7 +258,7 @@
     "summary": "A bespoke coldplate for custom designed AI servers: Frore's LiquidJet Diamond.",
     "category": "hardware",
     "image": "https://cdn.mos.cms.futurecdn.net/m9raAhaFmnWrVLQd52pQLa-1920-80.jpg",
-    "id": 28
+    "id": 26
   },
   {
     "title": "AMD debuts Helion reference design for agentic AI servers with up to 32,768 Zen 6 ‘Venice’ cores",
@@ -280,7 +268,7 @@
     "summary": "At the OCP Global Summit, AMD revealed Helion, a rack-scale reference design for agentic AI that can house up to 32,768 Zen 6 CPU cores.",
     "category": "hardware",
     "image": "https://cdn.mos.cms.futurecdn.net/KwFreiH9LLPrsYZGRWvHU4-1920-80.png",
-    "id": 29
+    "id": 27
   },
   {
     "title": "Coder creates NvidiaWatch tracker site that monitors hundreds of GPU driver bugs",
@@ -290,7 +278,7 @@
     "summary": "independent-arg built this labor of love for the Nvidia community.",
     "category": "hardware",
     "image": "https://cdn.mos.cms.futurecdn.net/RH2UfQ4PEty8QdC39Tkoom-1920-80.jpg",
-    "id": 30
+    "id": 28
   },
   {
     "title": "Buyer pays $350 for broken RTX 4090 project only to find realistic fake GPU die and swapped memory",
@@ -300,7 +288,7 @@
     "summary": "A customer paid approximately $350 for what appeared to be a repairable RTX 4090, only to receive a fake GPU with components that were painstakingly designed to resemble the real thing.",
     "category": "hardware",
     "image": "https://cdn.mos.cms.futurecdn.net/AHLzG85JoQ8gEdtunRTbDM-1920-80.jpg",
-    "id": 31
+    "id": 29
   },
   {
     "title": "Dev used AI agents and more than 500 billion tokens to rebuild Call of Duty: Modern Warfare 2's source code",
@@ -310,7 +298,7 @@
     "summary": "Maurice Heumann's Claude and Codex agents rebuilt Modern Warfare 2's source; 83% of functions match the original byte for byte.",
     "category": "models",
     "image": "https://cdn.mos.cms.futurecdn.net/2M6a7ySopVDLdrDTpN4xPj-1920-80.jpg",
-    "id": 32
+    "id": 30
   },
   {
     "title": "Reddit user pays $35 for a crypto mining rig left in a garage and gets 54GB of VRAM at 65 cents per GB",
@@ -320,7 +308,7 @@
     "summary": "A Reddit user bought a nine-GPU Nvidia P106-100 mining rig with 54GB of VRAM for $35 and ran Qwen3.6-35B-A3B on it locally.",
     "category": "hardware",
     "image": "https://cdn.mos.cms.futurecdn.net/QDZdfYqJbKd5P6QKeMwVEk-1920-80.jpg",
-    "id": 33
+    "id": 31
   },
   {
     "title": "Meta releases its first frontier model, Muse Wonder",
@@ -330,7 +318,7 @@
     "summary": "Where Muse Spark aimed to be a lightweight model that could perform at low latency, the Wonder models are larger and said to be more capable, with higher benchmark scores and better results on complex...",
     "category": "models",
     "image": "https://techcrunch.com/wp-content/uploads/2026/10/Screenshot-2026-10-12-at-1.09.43-PM.jpg?resize=1200,676",
-    "id": 34
+    "id": 32
   },
   {
     "title": "WindBorne wins a hefty US Air Force contract for its balloon data",
@@ -340,7 +328,7 @@
     "summary": "A Silicon Valley startup that uses weather balloons and AI to predict the weather won a U.S. military contract worth almost $50 million.",
     "category": "industry",
     "image": "https://techcrunch.com/wp-content/uploads/2026/06/Pic-8.jpg?resize=1200,675",
-    "id": 35
+    "id": 33
   },
   {
     "title": "Honeyjar offers AI tools to improve PR and comms at every company",
@@ -350,7 +338,7 @@
     "summary": "Journalists, entrepreneurs, and even some public relations professionals will tell you that the PR process is broken. But could AI actually make things better?",
     "category": "tools",
     "image": "https://techcrunch.com/wp-content/uploads/2026/10/honeyjar-founders.jpg?resize=960,1200",
-    "id": 36
+    "id": 34
   },
   {
     "title": "Microsoft president says UK is best placed to drive AI regulation",
@@ -360,7 +348,7 @@
     "summary": "Microsoft president Brad Smith calls for urgent AI regulation, saying milk and washing machines have more oversight than AI companies.",
     "category": "industry",
     "image": "https://techcrunch.com/wp-content/uploads/2018/10/GettyImages-1039496404.jpg?w=1024",
-    "id": 37
+    "id": 35
   },
   {
     "title": "This AI startup says it can generate permit-ready blueprints in minutes",
@@ -370,7 +358,7 @@
     "summary": "Blueprints AI, a bootstrapped startup based in Santa Monica, developed software that produces code-compliant construction blueprints from a photo, PDF, or sketch.",
     "category": "industry",
     "image": "https://techcrunch.com/wp-content/uploads/2026/10/Blueprints-AI-Founder1.jpg?resize=1200,799",
-    "id": 38
+    "id": 36
   },
   {
     "title": "TechCrunch Disrupt 2026 starts tomorrow: Your final chance to secure up to $100 ticket savings",
@@ -380,7 +368,7 @@
     "summary": "Tomorrow at 8 a.m. PT, it all begins z— 10,000+ founders, investors, and tech operators will gather at San Francisco’s Moscone West for TechCrunch Disrupt 2026 for three days of ideas, connections, an...",
     "category": "tools",
     "image": "https://techcrunch.com/wp-content/uploads/2026/02/TCD26_24Hours-16X9-Dark.png?resize=1200,675",
-    "id": 39
+    "id": 37
   },
   {
     "title": "Former Plaud exec raises $26M for AI app that listens to you in the background",
@@ -390,7 +378,7 @@
     "summary": "One of the core promises of AI is that the more it knows about a person, the better it will be able to assist them with tasks and make appropriate suggestions, which, if you'll believe the tech compan...",
     "category": "tools",
     "image": "https://techcrunch.com/wp-content/uploads/2026/10/Ambi-by-Mistlabs.jpeg?resize=1200,800",
-    "id": 40
+    "id": 38
   },
   {
     "title": "Elon Musk Bragged About His Grok Lego Star Wars Haul. Then X Users Punked Him",
@@ -400,7 +388,7 @@
     "summary": "Musk, we find your lack of security disturbing.",
     "category": "models",
     "image": "https://media.wired.com/photos/6acd1d72b814f6f25010ecb2/191:100/w_1280,c_limit/Musk-Brags-About-Lego-Grok-Star-Wars-Haul-Gear.jpg",
-    "id": 41
+    "id": 39
   },
   {
     "title": "Muse Wonder Puts Meta Back at the AI Frontier",
@@ -410,7 +398,7 @@
     "summary": "Meta’s biggest model rivals the world’s best—and includes new features to keep agents from going off the rails.",
     "category": "industry",
     "image": "https://media.wired.com/photos/6accff96fccc4c5244b94f14/191:100/w_1280,c_limit/Muse-Wonder-Puts-Meta-Back-at-the-AI-Frontier-Business-2296209266.jpg",
-    "id": 42
+    "id": 40
   },
   {
     "title": "Canadian YouTuber builds 'Flock-like' camera to exclusively track police vehicles",
@@ -420,7 +408,7 @@
     "summary": "Canadian YouTuber Anthony Sistilli says police questioned him after he built an ALPR camera designed to track police vehicles, leading to an ironic discussion over the privacy risks of mass license-pl...",
     "category": "hardware",
     "image": "https://cdn.mos.cms.futurecdn.net/WJrY9d2HjL3PDjrJgd8Hg3-1920-80.jpg",
-    "id": 43
+    "id": 41
   },
   {
     "title": "Cryptomining malware used poetry to infect more than 3,400 servers, researchers say",
@@ -430,7 +418,7 @@
     "summary": "Lumen's Black Lotus Labs says PoeLLM malware has hit more than 3,400 servers, most of them exposed AI tools like LiteLLM and Ollama.",
     "category": "models",
     "image": "https://cdn.mos.cms.futurecdn.net/aqPrPS4qzkg5HW3n7K9Ypn-1920-80.png",
-    "id": 44
+    "id": 42
   },
   {
     "title": "Creator of free Adobe clones unveils open-source Microsoft Office Excel, PowerPoint, and Word replications",
@@ -440,7 +428,7 @@
     "summary": "ArtCraft is expanding its roster of open-source creative tools as cross-platform alternatives to predatory subscription models.",
     "category": "tools",
     "image": "https://cdn.mos.cms.futurecdn.net/iPvfpzYoJfo4RCLhXPfRAb-1920-80.jpg",
-    "id": 45
+    "id": 43
   },
   {
     "title": "Can the AI industry persuade data center opponents by getting rid of NDAs?",
@@ -450,7 +438,7 @@
     "summary": "On Equity, we debate the impact of data center moratoriums and whether the AI industry has a communication problem.",
     "category": "hardware",
     "image": "https://techcrunch.com/wp-content/uploads/2026/09/9-DSCF1649.jpg?resize=800,1200",
-    "id": 46
+    "id": 44
   },
   {
     "title": "These execs think voice AI hasn’t reached its ChatGPT moment yet",
@@ -460,7 +448,7 @@
     "summary": "Voice AI often misses important points for its context layer, and causes the whole pipeline to break.",
     "category": "models",
     "image": "https://techcrunch.com/wp-content/uploads/2026/10/Screenshot-2026-10-10-at-2.42.28-PM.jpg?resize=1200,624",
-    "id": 47
+    "id": 45
   },
   {
     "title": "I Made Terrible Games With Google’s AI Playground",
@@ -470,7 +458,7 @@
     "summary": "A long day’s haul in the video game slop mines.",
     "category": "tools",
     "image": "https://media.wired.com/photos/6ac967401dd8a2ab2e331c51/191:100/w_1280,c_limit/Google-Playground-Gear-PG_THUMBNAIL_BLOG%20(1).png",
-    "id": 48
+    "id": 46
   },
   {
     "title": "SoftBank seeks $100 billion for AI-refined projects from Middle Eastern investors",
@@ -480,7 +468,7 @@
     "summary": "SoftBank plans to buy companies that do not use AI or robotics, then apply new technologies to improve their operations and valuation.",
     "category": "industry",
     "image": "https://cdn.mos.cms.futurecdn.net/NJE7ecUR7gWFdjcKJvSty6-1920-80.jpg",
-    "id": 49
+    "id": 47
   },
   {
     "title": "Super Micro smuggling co-conspirator pleads guilty to sending AI chips to China",
@@ -490,6 +478,26 @@
     "summary": "Ting-Wei \"Willy\" Sun, one of the three people charged of smuggling Super Micro servers with advanced Nvidia AI chips to China, has pleaded guilty, with sentencing set for September of next year.",
     "category": "hardware",
     "image": "https://cdn.mos.cms.futurecdn.net/MvLWd3opRKpJ3mfGeTKp8n-1920-80.jpg",
+    "id": 48
+  },
+  {
+    "title": "Microsoft’s Satya Nadella says AI models need an ‘emergency brake’",
+    "url": "https://techcrunch.com/2026/10/10/microsofts-satya-nadella-says-ai-models-need-an-emergency-brake/",
+    "source": "TechCrunch",
+    "date": "2026-10-10",
+    "summary": "In a Saturday morning post, Microsoft's CEO wrote that it’s time “to step back and assess the trust architecture” of AI.",
+    "category": "industry",
+    "image": "https://techcrunch.com/wp-content/uploads/2023/11/satya-nadella-2_web.png?w=1000",
+    "id": 49
+  },
+  {
+    "title": "Apple discloses deal to hire team and license tech from personalized podcast startup Huxe",
+    "url": "https://techcrunch.com/2026/10/10/apple-discloses-deal-to-hire-team-and-license-tech-from-personalized-podcast-startup-huxe/",
+    "source": "TechCrunch",
+    "date": "2026-10-10",
+    "summary": "Is Apple hoping to get into the AI-generated podcast business?",
+    "category": "industry",
+    "image": "https://techcrunch.com/wp-content/uploads/2024/01/apple-podcasts-1.jpg?w=1200",
     "id": 50
   }
 ]
