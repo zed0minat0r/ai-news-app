@@ -1,5 +1,25 @@
 [
   {
+    "title": "Open From Data Center to Desktop: NVIDIA Expands Nemotron Family With Highest Efficiency Super VL and Bolt Models",
+    "url": "https://blogs.nvidia.com/blog/nemotron-3-5-super-vl/",
+    "source": "NVIDIA Blog",
+    "date": "2026-10-15",
+    "summary": "NVIDIA today released Nemotron 3.5 Super VL, an open 120-billion-parameter model that delivers the fastest task completion and highest accuracy for specialized always-on agents. Joining it are two new...",
+    "category": "hardware",
+    "image": "https://blogs.nvidia.com/wp-content/uploads/2026/10/FIRST-agentic-ai-nemotron-3.5-super-vl-blog-1920x1080-5783765.jpeg",
+    "id": 1,
+    "featured": true
+  },
+  {
+    "title": "Teaching students to think and learn through questions",
+    "url": "https://openai.com/index/teaching-students-to-think-and-learn-through-questions",
+    "source": "OpenAI Blog",
+    "date": "2026-10-15",
+    "summary": "Celebrate Teachers’ Day with AI for Educators in Brazilian Portuguese and see how Study Mode can help teachers support active, step-by-step learning.",
+    "category": "research",
+    "id": 2
+  },
+  {
     "title": "NVIDIA Expands Advanced Technology Access for Europe’s Scientific Community Through Open Learning Resources, Collaborations and Compute",
     "url": "https://blogs.nvidia.com/blog/ec-scientific-computing-pledge/",
     "source": "NVIDIA Blog",
@@ -7,8 +27,7 @@
     "summary": "Much of today’s scientific progress begins with computation. But turning accelerated computing’s potential into scientific progress — modeling climate systems, designing molecules, simulating material...",
     "category": "research",
     "image": "https://blogs.nvidia.com/wp-content/uploads/2026/10/ai-in-science-enablers-1920x1080-1.jpg",
-    "id": 1,
-    "featured": true
+    "id": 3
   },
   {
     "title": "The Nordics and NVIDIA Show What’s Possible When a Region Commits to Advanced Computing",
@@ -18,17 +37,67 @@
     "summary": "The Nordic countries have become the European leader in unicorn startup density, producing the most emerging companies valued at $1 billion or more per capita on the continent. Now, a new chapter for ...",
     "category": "industry",
     "image": "https://blogs.nvidia.com/wp-content/uploads/2026/10/nordics-embrace-social-1920x1080-5822300.jpeg",
-    "id": 2
+    "id": 4
   },
   {
-    "title": "Russian chipmakers demo homegrown RISC-V and Arm silicon with retro games",
+    "title": "Nvidia RTX 5090 disappears from Micro Center amid rumors of a production halt",
+    "url": "https://www.tomshardware.com/pc-components/gpus/nvidia-rtx-5090-disappears-from-micro-center-amid-rumors-of-a-production-halt-retailer-flags-flagship-as-not-carried-as-stock-mysteriously-vanishes",
+    "source": "Tom's Hardware",
+    "date": "2026-10-15",
+    "summary": "Micro Center has reclassified Nvidia GeForce RTX 5090 graphics cards as 'Not Carried,' and almost all units are out of stock at its stores.",
+    "category": "hardware",
+    "image": "https://cdn.mos.cms.futurecdn.net/TqLyVxwJGqn4MccosMTiQc-1920-80.jpg",
+    "id": 5
+  },
+  {
+    "title": "Sipeed reveals Chinese-made DGX Spark and Ryzen AI Halo rival, expected to cost $3,999",
+    "url": "https://www.tomshardware.com/desktops/mini-pcs/sipeed-reveals-chinese-made-dgx-spark-and-ryzen-ai-halo-rival-expected-to-cost-usd3-999-maixstation-pairs-axeras-ax8860p-with-128gb-of-lpddr5x-at-273-gb-s-with-promising-local-ai-performance-claims",
+    "source": "Tom's Hardware",
+    "date": "2026-10-15",
+    "summary": "Sipeed’s MaixStation pairs Axera’s AX8860P with 128GB of LPDDR5X at 273 GB/s to take on Nvidia’s DGX Spark and AMD’s Ryzen AI Halo.",
+    "category": "hardware",
+    "image": "https://cdn.mos.cms.futurecdn.net/qJ8AzHF86C7AK4DgmNfWmf-1920-80.jpg",
+    "id": 6
+  },
+  {
+    "title": "We tested the RTX Spark Superchip in Microsoft's Surface Laptop Ultra",
+    "url": "https://www.tomshardware.com/laptops/we-test-the-rtx-spark-superchip-in-microsofts-surface-laptop-ultra-nvidias-windows-on-arm-platform-impresses-in-local-ai-but-gaming-isnt-its-strong-suit",
+    "source": "Tom's Hardware",
+    "date": "2026-10-15",
+    "summary": "We've tested Nvidia's RTX Spark against the latest and greatest from Apple and AMD to see how Nvidia's efforts to transform the PC for the agentic AI era stack up.",
+    "category": "hardware",
+    "image": "https://cdn.mos.cms.futurecdn.net/xVBG4cA4gTfEi6s5iBT2i-1920-80.jpg",
+    "id": 7
+  },
+  {
+    "title": "ASML struggling to keep up with demand for chipmaking equipment as AI spending continues to boom",
+    "url": "https://www.tomshardware.com/tech-industry/semiconductors/asml-struggling-to-keep-up-with-demand-for-chipmaking-equipment-as-ai-spending-continues-to-boom-chipmakers-are-already-looking-to-place-orders-for-2029-and-2030-output-ceo-says-demand-could-surpass-capacity-despite-massive-expansion-plans",
+    "source": "Tom's Hardware",
+    "date": "2026-10-15",
+    "summary": "ASML says customers are already placing orders for advanced chipmaking tools years in advance, with AI-driven semiconductor demand remaining strong enough to strain capacity despite planned expansions",
+    "category": "hardware",
+    "image": "https://cdn.mos.cms.futurecdn.net/sTYxT4FqfMMyrwcpqmHrQW-1920-80.jpg",
+    "id": 8
+  },
+  {
+    "title": "Elon Musk calls out memory makers over 'extortionate' chip pricing, says Micron is playing smart for long-term loyalty",
+    "url": "https://www.tomshardware.com/pc-components/dram/elon-musk-accuses-samsung-sk-hynix-of-unreasonable-memory-pricing",
+    "source": "Tom's Hardware",
+    "date": "2026-10-15",
+    "summary": "Elon Musk condemns memory makers citing unreasonable prices of memory, but claims Micron is different.",
+    "category": "hardware",
+    "image": "https://cdn.mos.cms.futurecdn.net/9o8QuQPFBFKJfLnpN89LcH-1920-80.jpg",
+    "id": 9
+  },
+  {
+    "title": "Russian chipmakers demo homegrown RISC-V and Arm chips with retro games",
     "url": "https://www.tomshardware.com/tech-industry/semiconductors/russian-semiconductor-players-shows-off-bespoke-cpu-and-soc-designs-arm-and-elbrus-architectures-on-display",
     "source": "Tom's Hardware",
     "date": "2026-10-15",
     "summary": "Russian semiconductor players shows off bespoke CPU and SoC designs — Arm and Elbrus architectures on display",
     "category": "hardware",
     "image": "https://cdn.mos.cms.futurecdn.net/pM5BCD8fJywaDVZrTjPrCY-1920-80.jpg",
-    "id": 3
+    "id": 10
   },
   {
     "title": "Unsupervised AI agent deletes TV show’s entire edit weeks before release; program can't air",
@@ -38,7 +107,7 @@
     "summary": "The Challenge Sweden's season 2 edit was deleted by an AI agent put on the production server. The program director blames \"the human factor\" instead of AI.",
     "category": "hardware",
     "image": "https://cdn.mos.cms.futurecdn.net/DUzGnaB8GtmLQ2chJJuC5E-1920-80.jpg",
-    "id": 4
+    "id": 11
   },
   {
     "title": "Two killed, one seriously hurt in explosion at Intel’s chip plant in Israel",
@@ -48,7 +117,37 @@
     "summary": "Two workers have died in an explosion at Intel’s Kiryat Gat chip plant; police suspect a gas cylinder malfunction.",
     "category": "hardware",
     "image": "https://cdn.mos.cms.futurecdn.net/ED4WQzEgWUAejm3NEcpoG7-1920-80.jpg",
-    "id": 5
+    "id": 12
+  },
+  {
+    "title": "AI agents are coming to Rivian’s cars",
+    "url": "https://techcrunch.com/2026/10/15/ai-agents-are-coming-to-rivians-cars/",
+    "source": "TechCrunch",
+    "date": "2026-10-15",
+    "summary": "We'll likely learn more about how this will work at the company's upcoming \"AI & Autonomy Day\" event in December.",
+    "category": "industry",
+    "image": "https://techcrunch.com/wp-content/uploads/2026/10/55587802359_b756c3c3bd_k.jpg?resize=1200,800",
+    "id": 13
+  },
+  {
+    "title": "Google’s Universal Cart shopping tool launches in the US",
+    "url": "https://techcrunch.com/2026/10/15/googles-universal-cart-shopping-tool-launches-in-the-us/",
+    "source": "TechCrunch",
+    "date": "2026-10-15",
+    "summary": "The new shopping tool is available in the U.S. across Google Search and the Gemini app.",
+    "category": "models",
+    "image": "https://techcrunch.com/wp-content/uploads/2026/10/Google-UniversalCart.png?w=1200",
+    "id": 14
+  },
+  {
+    "title": "Amazon’s Bee launches two new personal AI devices, starting at $75",
+    "url": "https://techcrunch.com/2026/10/15/amazons-bee-launches-two-new-personal-ai-devices-starting-at-75/",
+    "source": "TechCrunch",
+    "date": "2026-10-15",
+    "summary": "Amazon-owned Bee has launched its first new AI devices since its acquisition, including an updated wearable and a credit-card-sized recorder that attaches to smartphones. The devices can summarize con...",
+    "category": "industry",
+    "image": "https://techcrunch.com/wp-content/uploads/2026/10/BEE_FAMILY_01_1080x1080.jpg?w=1080",
+    "id": 15
   },
   {
     "title": "Ricursive Intelligence is betting on AI-designed chips to help solve the compute crisis",
@@ -58,210 +157,17 @@
     "summary": "The founders detailed how their startup is developing AI that can design chips, learn from each iteration, and improve subsequent designs, all with the goal of automating and accelerating the chip des...",
     "category": "hardware",
     "image": "https://techcrunch.com/wp-content/uploads/2026/10/55590095286_7fe28ddb94_o.jpg?resize=1200,800",
-    "id": 6
+    "id": 16
   },
   {
     "title": "Gudea leverages AI to help organizations prevent social media crises before they erupt",
     "url": "https://techcrunch.com/2026/10/14/gudea-leverages-ai-to-help-organizations-prevent-social-media-crises-before-they-erupt/",
     "source": "TechCrunch",
     "date": "2026-10-15",
-    "summary": "Every day, conversations unfold across social media and websites around the world. A seemingly insignificant post—whether it involves AI-generated misinformation, hate speech, or a damaging rumor—can ...",
+    "summary": "Gudea, a company that tracks how stories and rumors spread online that describes itself as the “storm tracker for the internet,” is using AI to help organizations spot trouble brewing online before it...",
     "category": "hardware",
     "image": "https://techcrunch.com/wp-content/uploads/2025/03/GettyImages-2197117084.jpg?resize=1200,843",
-    "id": 7
-  },
-  {
-    "title": "Run: AI Now Open Source",
-    "url": "https://github.com/dsx-ai-factory/run-ai",
-    "source": "Hacker News",
-    "date": "2026-10-15",
-    "summary": "Article URL: https://github.com/dsx-ai-factory/run-ai Comments URL: https://news.ycombinator.com/item?id=50101962 Points: 1 # Comments: 0",
-    "category": "tools",
-    "image": "https://opengraph.githubassets.com/dd122512e11666f911969f11f4776936abacd1e12c5808c0c47450d4a8e56800/dsx-ai-factory/run-ai",
-    "id": 8
-  },
-  {
-    "title": "Will AI Grow the Pie or Just Hand It to Fewer People?",
-    "url": "https://www.vincentschmalbach.com/will-ai-grow-the-pie-or-hand-it-to-fewer-people/",
-    "source": "Hacker News",
-    "date": "2026-10-15",
-    "summary": "Article URL: https://www.vincentschmalbach.com/will-ai-grow-the-pie-or-hand-it-to-fewer-people/ Comments URL: https://news.ycombinator.com/item?id=50101851 Points: 1 # Comments: 0",
-    "category": "industry",
-    "image": "https://www.vincentschmalbach.com/wp-content/uploads/pressqueue/social/will-ai-grow-the-pie-or-hand-it-to-fewer-people-4463-485129be.jpg",
-    "id": 9
-  },
-  {
-    "title": "Anthropic warns of AI 'worms' spreading across smart gadgets",
-    "url": "https://techxplore.com/news/2026-10-anthropic-ai-worms-smart-gadgets.html",
-    "source": "Hacker News",
-    "date": "2026-10-15",
-    "summary": "Article URL: https://techxplore.com/news/2026-10-anthropic-ai-worms-smart-gadgets.html Comments URL: https://news.ycombinator.com/item?id=50101761 Points: 1 # Comments: 0",
-    "category": "industry",
-    "image": "https://scx2.b-cdn.net/gfx/news/hires/2023/ai-2.jpg",
-    "id": 10
-  },
-  {
-    "title": "Sipeed announces MaixStation local AI computer",
-    "url": "https://sipeed.com/maixstation/",
-    "source": "Hacker News",
-    "date": "2026-10-15",
-    "summary": "Article URL: https://sipeed.com/maixstation/ Comments URL: https://news.ycombinator.com/item?id=50101750 Points: 1 # Comments: 0",
-    "category": "industry",
-    "image": "https://sipeed.com/maixstation/img/og.jpg",
-    "id": 11
-  },
-  {
-    "title": "Management in the Age of AI",
-    "url": "https://staysaasy.com/management-in-the-age-of-ai/",
-    "source": "Hacker News",
-    "date": "2026-10-15",
-    "summary": "Article URL: https://staysaasy.com/management-in-the-age-of-ai/ Comments URL: https://news.ycombinator.com/item?id=50101724 Points: 2 # Comments: 0",
-    "category": "industry",
-    "image": "https://staysaasy.com/assets/template/stay-saasy-black-ogimage.jpeg",
-    "id": 12
-  },
-  {
-    "title": "How Researchers Made Contact with a Chinese AI Agent Fleet",
-    "url": "https://quickchat.ai/post/chinese-ai-agent-fleet",
-    "source": "Hacker News",
-    "date": "2026-10-15",
-    "summary": "Article URL: https://quickchat.ai/post/chinese-ai-agent-fleet Comments URL: https://news.ycombinator.com/item?id=50101662 Points: 3 # Comments: 0",
-    "category": "research",
-    "image": "https://quickchat.ai/blog-assets/posts/chinese-ai-agent-fleet_bg.png",
-    "id": 13
-  },
-  {
-    "title": "How are you centralising AI for development at your company?",
-    "url": "https://news.ycombinator.com/item?id=50101587",
-    "source": "Hacker News",
-    "date": "2026-10-15",
-    "summary": "I'm asking this because I'm seeing some frustrating patterns and if I may be bold, I think my answer is the correct one. Here's one I'm seeing: its the SDLC agent pattern and I think its wrong. Step 1...",
-    "category": "tools",
-    "id": 14
-  },
-  {
-    "title": "Anthropic's Claude AI submitted false murder tip to Philadelphia police",
-    "url": "https://arstechnica.com/tech-policy/2026/10/anthropics-claude-ai-submitted-false-murder-tip-to-philadelphia-police/",
-    "source": "Hacker News",
-    "date": "2026-10-15",
-    "summary": "Article URL: https://arstechnica.com/tech-policy/2026/10/anthropics-claude-ai-submitted-false-murder-tip-to-philadelphia-police/ Comments URL: https://news.ycombinator.com/item?id=50101586 Points: 2 #...",
-    "category": "models",
-    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/03/claude-app-1152x648.jpg",
-    "id": 15
-  },
-  {
-    "title": "Costs of Switching AI Models",
-    "url": "https://www.youtube.com/watch?v=zUCeaaGCRuc",
-    "source": "Hacker News",
-    "date": "2026-10-15",
-    "summary": "Article URL: https://www.youtube.com/watch?v=zUCeaaGCRuc Comments URL: https://news.ycombinator.com/item?id=50101472 Points: 3 # Comments: 0",
-    "category": "industry",
-    "id": 16
-  },
-  {
-    "title": "Show HN: I built a rogue AI game, then let five AI models play it",
-    "url": "https://www.viberant.app/view.php?id=82",
-    "source": "Hacker News",
-    "date": "2026-10-15",
-    "summary": "Article URL: https://www.viberant.app/view.php?id=82 Comments URL: https://news.ycombinator.com/item?id=50101275 Points: 1 # Comments: 0",
-    "category": "industry",
-    "image": "https://www.viberant.app/uploads/project-previews/82/cover.jpg",
     "id": 17
-  },
-  {
-    "title": "AI has changed my engineering leadership role",
-    "url": "https://bjorg.bjornroche.com/management/AI-leadership/",
-    "source": "Hacker News",
-    "date": "2026-10-15",
-    "summary": "Article URL: https://bjorg.bjornroche.com/management/AI-leadership/ Comments URL: https://news.ycombinator.com/item?id=50101212 Points: 1 # Comments: 0",
-    "category": "industry",
-    "image": "https://bjorg.bjornroche.com/assets/2026/AI-leadership.jpg",
-    "id": 18
-  },
-  {
-    "title": "Even Without AI, the Risk of a Biological Attack Is Terrifying",
-    "url": "https://www.motherjones.com/politics/2026/09/ai-anthropic-pandemic-biological-war-scenario-bioterrorism-annie-jacobsen-book-gain-function-research-pathogens-ethics/",
-    "source": "Hacker News",
-    "date": "2026-10-15",
-    "summary": "Article URL: https://www.motherjones.com/politics/2026/09/ai-anthropic-pandemic-biological-war-scenario-bioterrorism-annie-jacobsen-book-gain-function-research-pathogens-ethics/ Comments URL: https://...",
-    "category": "research",
-    "id": 19
-  },
-  {
-    "title": "Show HN: Reproducible failure drills for AI coding agents",
-    "url": "https://github.com/second-time-is-a-bug-book/book-companion",
-    "source": "Hacker News",
-    "date": "2026-10-15",
-    "summary": "Article URL: https://github.com/second-time-is-a-bug-book/book-companion Comments URL: https://news.ycombinator.com/item?id=50101157 Points: 1 # Comments: 0",
-    "category": "industry",
-    "image": "https://opengraph.githubassets.com/2b32b0b018b8e058da0bc52fe445b9914d31da8f74c05a88f8cdd097cb7c7a3b/second-time-is-a-bug-book/book-companion",
-    "id": 20
-  },
-  {
-    "title": "WSP MCP – Free WordPress MCP for Connecting AI Coding Agents",
-    "url": "https://github.com/bilalnaseer/wsp-wordpress-mcp",
-    "source": "Hacker News",
-    "date": "2026-10-15",
-    "summary": "Article URL: https://github.com/bilalnaseer/wsp-wordpress-mcp Comments URL: https://news.ycombinator.com/item?id=50100970 Points: 1 # Comments: 0",
-    "category": "industry",
-    "image": "https://opengraph.githubassets.com/b5ad0da3fe1e4e756dfa3e10cc478ecdbdee35410817e92d1934280966498107/bilalnaseer/wsp-wordpress-mcp",
-    "id": 21
-  },
-  {
-    "title": "Kerno 1.0 – AI Back End Runtime QA Engineer",
-    "url": "https://kerno.io/blog/kerno-v1/",
-    "source": "Hacker News",
-    "date": "2026-10-15",
-    "summary": "Article URL: https://kerno.io/blog/kerno-v1/ Comments URL: https://news.ycombinator.com/item?id=50100881 Points: 2 # Comments: 0",
-    "category": "industry",
-    "image": "https://kerno.io/blog/images/kerno-v1/cover.png",
-    "id": 22
-  },
-  {
-    "title": "REA – I tested AI agent reverse engineering",
-    "url": "https://korben.info/en/rea-ai-agent-reverse-engineering-test.html",
-    "source": "Hacker News",
-    "date": "2026-10-15",
-    "summary": "Article URL: https://korben.info/en/rea-ai-agent-reverse-engineering-test.html Comments URL: https://news.ycombinator.com/item?id=50100843 Points: 2 # Comments: 0",
-    "category": "industry",
-    "id": 23
-  },
-  {
-    "title": "AI was great until it was not",
-    "url": "https://thetheorygirlie.substack.com/p/ai-was-great-until-it-was-not",
-    "source": "Hacker News",
-    "date": "2026-10-15",
-    "summary": "Article URL: https://thetheorygirlie.substack.com/p/ai-was-great-until-it-was-not Comments URL: https://news.ycombinator.com/item?id=50100791 Points: 78 # Comments: 56",
-    "category": "industry",
-    "id": 24
-  },
-  {
-    "title": "Forensic Analysis of RL/RLHF-Induced Privilege Escalation in AI Agents",
-    "url": "https://arxiv.org/abs/2610.20437",
-    "source": "Hacker News",
-    "date": "2026-10-15",
-    "summary": "Article URL: https://arxiv.org/abs/2610.20437 Comments URL: https://news.ycombinator.com/item?id=50100728 Points: 1 # Comments: 0",
-    "category": "models",
-    "id": 25
-  },
-  {
-    "title": "Show HN: Working on Plug and play AI memory that works across AI agents",
-    "url": "https://news.ycombinator.com/item?id=50100700",
-    "source": "Hacker News",
-    "date": "2026-10-15",
-    "summary": "So I've been working on a project (Make0 AI) for a long time where I wanted to give common context to both Codex and Claude Code. The problem is simple - while working on Claude and after exhausting t...",
-    "category": "models",
-    "id": 26
-  },
-  {
-    "title": "LLM-gauze fixes LLM errors",
-    "url": "https://github.com/ggeorgovassilis/llm-gauze",
-    "source": "Hacker News",
-    "date": "2026-10-15",
-    "summary": "Article URL: https://github.com/ggeorgovassilis/llm-gauze Comments URL: https://news.ycombinator.com/item?id=50100681 Points: 1 # Comments: 1",
-    "category": "models",
-    "image": "https://opengraph.githubassets.com/d547fae79c2ab6bdd5ae9b75e1aef2c3f4f23f394744608172075e7c4510398c/ggeorgovassilis/llm-gauze",
-    "id": 27
   },
   {
     "title": "Artificiality's First Exam: An LLM-Referenced C-test for Supraintelligence",
@@ -270,7 +176,7 @@
     "date": "2026-10-15",
     "summary": "Under the accelerated pace of AI development, any benchmark whose difficulty is calibrated with humans or current AI systems becomes circular, or saturates soon. How can we then evaluate machines that...",
     "category": "models",
-    "id": 28
+    "id": 18
   },
   {
     "title": "The Silent Failures in Agentic Data Science",
@@ -279,7 +185,7 @@
     "date": "2026-10-15",
     "summary": "Large language models have significantly lowered the barrier to writing code. Naturally, this has also led to the development of data science agents that promise automating the design and execution of...",
     "category": "research",
-    "id": 29
+    "id": 19
   },
   {
     "title": "ClawLoop: Self-Improving Agents via Harness-Native Training Loop",
@@ -288,7 +194,7 @@
     "date": "2026-10-15",
     "summary": "The rapid advancement of Large Language Models (LLMs) has driven their deployment toward general-purpose harness environments, where LLM-based agents operate in sandbox workspaces and interact directl...",
     "category": "models",
-    "id": 30
+    "id": 20
   },
   {
     "title": "Correction Training for Diffusion Models",
@@ -297,7 +203,7 @@
     "date": "2026-10-15",
     "summary": "Iterative sampling in diffusion models can lead to error accumulation due to exposure bias. The denoiser is trained on real images interpolated with noise, but at inference its inputs are constructed ...",
     "category": "models",
-    "id": 31
+    "id": 21
   },
   {
     "title": "Long-Horizon-Terminal-Bench 2.0: Automating Diverse Task Construction and Measuring Sustained Agent Progress",
@@ -306,7 +212,7 @@
     "date": "2026-10-15",
     "summary": "Long-horizon terminal benchmarks measure whether an agent can sustain progress through extended workflows with process rewards, not only whether its final state passes a binary check. We present Long-...",
     "category": "research",
-    "id": 32
+    "id": 22
   },
   {
     "title": "VETNET: Assembling Benchmark Datasets for AI-Driven Veterinary Innovation",
@@ -315,7 +221,7 @@
     "date": "2026-10-15",
     "summary": "VETNET represents an ecosystem of live benchmark datasets and evaluation frameworks designed to accelerate AI-driven innovation in animal science and veterinary medicine through standardized, high-qua...",
     "category": "research",
-    "id": 33
+    "id": 23
   },
   {
     "title": "Unconstrained CTI-REALM with Open-Weights",
@@ -324,7 +230,7 @@
     "date": "2026-10-15",
     "summary": "Organisations that want language-model agents for security work face a choice between open-weight models, which they can run and audit themselves, and far more expensive closed frontier models. We stu...",
     "category": "models",
-    "id": 34
+    "id": 24
   },
   {
     "title": "Visualizing the World Model in an Agent's Value Function",
@@ -333,7 +239,7 @@
     "date": "2026-10-15",
     "summary": "Could model-free reinforcement learning algorithms actually be learning a model of the environment? In this work, we apply counterfactual interventions which hold everything about a state fixed, besid...",
     "category": "research",
-    "id": 35
+    "id": 25
   },
   {
     "title": "Cross-Modal Latent Influence: Patch-Level Training Sample Attribution for Vision-Language Models",
@@ -342,7 +248,7 @@
     "date": "2026-10-15",
     "summary": "Explaining a vision--language model (VLM) prediction requires tracing training-example influence to the multimodal evidence that mediates it, yet existing attribution methods largely operate only at t...",
     "category": "models",
-    "id": 36
+    "id": 26
   },
   {
     "title": "Harness^2: Recursive Agent Harnessing for an Open World",
@@ -351,7 +257,7 @@
     "date": "2026-10-15",
     "summary": "LLM agents' capabilities depend not only on their underlying models but also on their execution harnesses. Recursive self-improvement (RSI) offers a promising approach to automatically evolve these ha...",
     "category": "models",
-    "id": 37
+    "id": 27
   },
   {
     "title": "Echo: Error-Compensated 4-Bit Tensor-Parallel Communication for LLM Training and Inference",
@@ -360,7 +266,7 @@
     "date": "2026-10-15",
     "summary": "Tensor parallelism ends every layer with an all-reduce that sits between two dependent matrix multiplications, so its cost cannot be hidden and grows as compute outpaces interconnect bandwidth. Sendin...",
     "category": "models",
-    "id": 38
+    "id": 28
   },
   {
     "title": "Controllable Diverse Sampling through Pullback Directions",
@@ -369,7 +275,7 @@
     "date": "2026-10-15",
     "summary": "Conditional diffusion models can generate high-quality images that align closely with a given prompt. However, samples generated from different random seeds may remain visually similar, limiting creat...",
     "category": "research",
-    "id": 39
+    "id": 29
   },
   {
     "title": "Which Metadata Matters for LLM Tool Selection in MCP? Evidence from Controlled Factor-Level Interventions",
@@ -378,7 +284,7 @@
     "date": "2026-10-15",
     "summary": "In Model Context Protocol (MCP) systems, LLMs select tools from metadata rather than from their implementations. Names and descriptions summarize what a tool does, while the parameter schema specifies...",
     "category": "models",
-    "id": 40
+    "id": 30
   },
   {
     "title": "Actionable Meta-Requirements for AI Robustness Auditing",
@@ -387,7 +293,7 @@
     "date": "2026-10-15",
     "summary": "AI-enabled systems must remain dependable when the conditions under which they operate change (e.g., due to input perturbations, distribution shifts, or changes in external dependencies). This makes r...",
     "category": "research",
-    "id": 41
+    "id": 31
   },
   {
     "title": "When Pleasing the User Compromises Care: AI Sycophancy in Caregiver-Mediated Healthcare",
@@ -396,7 +302,7 @@
     "date": "2026-10-15",
     "summary": "Large language model (LLM) alignment often assumes that the user interacting with a model is also the primary beneficiary of its behavior. Yet in many consequential settings, one person directs the sy...",
     "category": "models",
-    "id": 42
+    "id": 32
   },
   {
     "title": "ACED-Bench: Evaluating How LLM Agents Acquire and Act on Causal Evidence",
@@ -405,7 +311,7 @@
     "date": "2026-10-15",
     "summary": "Large language models are increasingly used as scientific assistants, yet we still lack reliable ways to evaluate whether they can investigate a system rather than merely answer a prompt. A useful eva...",
     "category": "models",
-    "id": 43
+    "id": 33
   },
   {
     "title": "ANASSA: From High-Level Framework to Low-Level Architecture for Spatial Agentic AI",
@@ -414,7 +320,7 @@
     "date": "2026-10-15",
     "summary": "Agentic AI systems operating over geospatial data require more than autonomous reasoning and tool use; they must also support explicit orchestration, spatial validation, governance, provenance, failur...",
     "category": "research",
-    "id": 44
+    "id": 34
   },
   {
     "title": "Measuring the Inference Energy Efficiency of Open-Weight LLMs across Benchmarks, Reasoning Modes, and Hardware",
@@ -423,7 +329,7 @@
     "date": "2026-10-15",
     "summary": "Benchmark scores tell us what an LLM can do, but not how much energy is required to deliver that capability. We directly measure this trade-off for 86 open-weight model checkpoints, evaluated on seven...",
     "category": "models",
-    "id": 45
+    "id": 35
   },
   {
     "title": "SAT-RL: Training Language Models for Logical Reasoning with Symbolic Solvers",
@@ -432,7 +338,7 @@
     "date": "2026-10-15",
     "summary": "Large language models (LLMs) have achieved strong performance in mathematical and logical reasoning, yet they still suffer from the curse of complexity and struggle as problem difficulty increases wit...",
     "category": "research",
-    "id": 46
+    "id": 36
   },
   {
     "title": "Frustratingly Easy Agentic RAG via Portable Skills: A Case Study in Customer Support",
@@ -441,7 +347,7 @@
     "date": "2026-10-15",
     "summary": "Enterprise workflow automation typically requires retrieving a complete and accurate set of relevant information from large operational document corpora (SOPs, policy documents) given a specific scena...",
     "category": "tools",
-    "id": 47
+    "id": 37
   },
   {
     "title": "AlignPoison: Conditional Targeted Poisoning of Generative Recommenders via Decoding-Aligned Prefixes",
@@ -450,7 +356,7 @@
     "date": "2026-10-15",
     "summary": "Generative recommendation models based on autoregressive decoding have been adopted as alternatives to classical ranking-based systems. While their modeling flexibility has been widely studied, their ...",
     "category": "research",
-    "id": 48
+    "id": 38
   },
   {
     "title": "HiPPT: Physiology-Grounded Wearable PPG Representation Learning via Multi-Scope Text Alignment",
@@ -459,7 +365,7 @@
     "date": "2026-10-15",
     "summary": "Reusable wearable PPG representations should capture local pulse morphology and broader physiological regularities. Existing pretraining objectives, however, usually apply supervision at the recording...",
     "category": "models",
-    "id": 49
+    "id": 39
   },
   {
     "title": "Reels-RSI: Program-Level Self-Improvement for Code-Rendered Explainer Videos",
@@ -468,6 +374,96 @@
     "date": "2026-10-15",
     "summary": "Explainer videos -- a worked geometry problem, why the sky is blue, how a dynasty fell -- are usually one more target for pixel video generation. We argue they are a different kind of artifact: a prog...",
     "category": "models",
+    "id": 40
+  },
+  {
+    "title": "MontageFlow: Physically Valid High Fidelity EEG Generation",
+    "url": "https://arxiv.org/abs/2610.14507",
+    "source": "arXiv cs.AI",
+    "date": "2026-10-15",
+    "summary": "Generative modeling offers a promising solution to the scarcity of labeled clinical electroencephalography (EEG) data under strict privacy constraints. Although recent generative models report substan...",
+    "category": "models",
+    "id": 41
+  },
+  {
+    "title": "ScienceBuddy-PV: A Verifier-Governed Recursive Improvement Protocol for Panvascular Intervention Research",
+    "url": "https://arxiv.org/abs/2610.14523",
+    "source": "arXiv cs.AI",
+    "date": "2026-10-15",
+    "summary": "ScienceBuddy-PV adapts the ScienceBuddy recursive-in-recursive design to panvascular intervention research through a structured evidence ledger, device-vessel ontology, abstention contract and retaine...",
+    "category": "research",
+    "id": 42
+  },
+  {
+    "title": "Energy Ring: Stabilizing Feature Energy for Reliable Test-Time Discovery",
+    "url": "https://arxiv.org/abs/2610.14525",
+    "source": "arXiv cs.AI",
+    "date": "2026-10-15",
+    "summary": "Test-Time Discovery (TTD) aims to recognize known classes and detect novel ones while the model is already deployed, operating directly on a continual unlabeled test-time stream. Existing TTD methods ...",
+    "category": "hardware",
+    "id": 43
+  },
+  {
+    "title": "FDE-Bench: Evaluating End-to-End Delivery from Underspecified Real-World Business Requests",
+    "url": "https://arxiv.org/abs/2610.14539",
+    "source": "arXiv cs.AI",
+    "date": "2026-10-15",
+    "summary": "Real-world business requests often leave key requirements unstated because frontline practitioners struggle to articulate rules they know from experience. Forward-deployed engineers (FDEs) must elicit...",
+    "category": "research",
+    "id": 44
+  },
+  {
+    "title": "Are Multimodal Benchmarks Really Useful? Item-Level Multimodal Benchmark Diagnosis via Structure-Response Co-Calibration",
+    "url": "https://arxiv.org/abs/2610.14542",
+    "source": "arXiv cs.AI",
+    "date": "2026-10-15",
+    "summary": "Multimodal benchmarks are central to evaluating whether models can reason over information from multiple modalities. However, existing literature has revealed that some benchmarks may contain shortcut...",
+    "category": "models",
+    "id": 45
+  },
+  {
+    "title": "PsyMemBehav: Psychology-Informed and Memory-Grounded Two-Level Identity-to-Action Reasoning for Social-Media Behavior Simulation",
+    "url": "https://arxiv.org/abs/2610.14570",
+    "source": "arXiv cs.AI",
+    "date": "2026-10-15",
+    "summary": "Large language models (LLMs) support social simulation, but faithfully reproducing real users requires grounding both structured platform decisions and language in sparse, noisy behavioral evidence. W...",
+    "category": "models",
+    "id": 46
+  },
+  {
+    "title": "CB-Agent: Concept-Based In-Context Learning for Sequential Action Selection",
+    "url": "https://arxiv.org/abs/2610.14574",
+    "source": "arXiv cs.AI",
+    "date": "2026-10-15",
+    "summary": "In-context learning (ICL) allows large language models to use demonstrations without updating their parameters. For interactive agents, demonstrations are trajectories of reasoning, actions, and obser...",
+    "category": "research",
+    "id": 47
+  },
+  {
+    "title": "Iterate on an LLM, Serve on an SLM",
+    "url": "https://arxiv.org/abs/2610.14576",
+    "source": "arXiv cs.AI",
+    "date": "2026-10-15",
+    "summary": "As frontier LLMs gain more capabilities, the cost to run them also goes up. At the same time, small language models (SLMs) also gain more capabilities but have largely been able to keep their cost sta...",
+    "category": "models",
+    "id": 48
+  },
+  {
+    "title": "Decoupling Knowledge Forgetting and Refusal Learning in MLLM Unlearning",
+    "url": "https://arxiv.org/abs/2610.14605",
+    "source": "arXiv cs.AI",
+    "date": "2026-10-15",
+    "summary": "Current evaluations of multimodal unlearning typically focus on whether a model stops outputting target information. This surface-level criterion, however, masks two critical failure modes. First, kno...",
+    "category": "research",
+    "id": 49
+  },
+  {
+    "title": "From Existing Methods to New Research Ideas: Two Perspectives on Recursive Self-Improvement",
+    "url": "https://arxiv.org/abs/2610.14625",
+    "source": "arXiv cs.AI",
+    "date": "2026-10-15",
+    "summary": "Recursive self-improvement (RSI) offers a route to AI systems that participate in their own continued development. Recent methods allow language agents to retain changes to their parameters, memory, s...",
+    "category": "research",
     "id": 50
   }
 ]
