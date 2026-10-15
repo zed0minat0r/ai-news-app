@@ -1,41 +1,24 @@
 [
   {
-    "title": "NVIDIA Announces New Investments in the UK Startup Ecosystem",
-    "url": "https://blogs.nvidia.com/blog/uk-ecosystem-deployment/",
-    "source": "NVIDIA Blog",
-    "date": "2026-10-14",
-    "summary": "Across industries, the U.K. is putting the full stack to work. The scale of deployment is growing fast, from enterprises transforming their businesses to startups solving some of the planet’s hardest ...",
-    "category": "industry",
-    "image": "https://blogs.nvidia.com/wp-content/uploads/2026/10/uk-ecosystem-industries.png",
+    "title": "Ricursive Intelligence is betting on AI-designed chips to help solve the compute crisis",
+    "url": "https://techcrunch.com/2026/10/14/ricursive-intelligence-is-betting-on-ai-designed-chips-to-help-solve-the-compute-crisis/",
+    "source": "TechCrunch",
+    "date": "2026-10-15",
+    "summary": "The founders detailed how their startup is developing AI that can design chips, learn from each iteration, and improve subsequent designs, all with the goal of automating and accelerating the chip des...",
+    "category": "hardware",
+    "image": "https://techcrunch.com/wp-content/uploads/2026/10/55590095286_7fe28ddb94_o.jpg?resize=1200,800",
     "id": 1,
     "featured": true
   },
   {
-    "title": "SentinelOne cuts malware analysis from weeks to hours",
-    "url": "https://openai.com/index/sentinelone",
-    "source": "OpenAI Blog",
-    "date": "2026-10-14",
-    "summary": "With OpenAI Daybreak, SentinelOne cuts weeks of malware analysis to hours, creating capacity to investigate more threats.",
-    "category": "industry",
+    "title": "Gudea leverages AI to help organizations prevent social media crises before they erupt",
+    "url": "https://techcrunch.com/2026/10/14/gudea-leverages-ai-to-help-organizations-prevent-social-media-crises-before-they-erupt/",
+    "source": "TechCrunch",
+    "date": "2026-10-15",
+    "summary": "Every day, conversations unfold across social media and websites around the world. A seemingly insignificant post—whether it involves AI-generated misinformation, hate speech, or a damaging rumor—can ...",
+    "category": "hardware",
+    "image": "https://techcrunch.com/wp-content/uploads/2025/03/GettyImages-2197117084.jpg?resize=1200,843",
     "id": 2
-  },
-  {
-    "title": "How Third Moment Research runs 10,000 agents for 36+ hours",
-    "url": "https://openai.com/index/third-moment-research",
-    "source": "OpenAI Blog",
-    "date": "2026-10-14",
-    "summary": "With GPT-6 Astra and GPT-6.1 Sol, Codex, and Daybreak for cybersecurity, this AI lab builds agents that focus for days and improve with use.",
-    "category": "models",
-    "id": 3
-  },
-  {
-    "title": "The EU’s next chapter in AI is agentic",
-    "url": "https://openai.com/index/the-eus-next-chapter-in-ai-is-agentic",
-    "source": "OpenAI Blog",
-    "date": "2026-10-14",
-    "summary": "New analysis shows how agentic AI adoption is growing across EU enterprises and small businesses—and where deeper use could unlock more value.",
-    "category": "industry",
-    "id": 4
   },
   {
     "title": "Amp puts AI agents to work beyond code with OpenAI models",
@@ -44,7 +27,53 @@
     "date": "2026-10-14",
     "summary": "See how Amp pushes the frontier of what agents can do with GPT-6 Astra, Ultrafast, GPT-Live-1, and Sign in with ChatGPT.",
     "category": "models",
+    "id": 3
+  },
+  {
+    "title": "SentinelOne cuts malware analysis from weeks to hours",
+    "url": "https://openai.com/index/sentinelone",
+    "source": "OpenAI Blog",
+    "date": "2026-10-14",
+    "summary": "With OpenAI Daybreak, SentinelOne cuts weeks of malware analysis to hours, creating capacity to investigate more threats.",
+    "category": "industry",
+    "id": 4
+  },
+  {
+    "title": "How Third Moment Research runs 10,000 agents for 36+ hours",
+    "url": "https://openai.com/index/third-moment-research",
+    "source": "OpenAI Blog",
+    "date": "2026-10-14",
+    "summary": "With GPT-6 Astra and GPT-6.1 Sol, Codex, and Daybreak for cybersecurity, this AI lab builds agents that focus for days and improve with use.",
+    "category": "models",
     "id": 5
+  },
+  {
+    "title": "How Block is building AI-powered security with OpenAI technology",
+    "url": "https://openai.com/index/block-ai-powered-security",
+    "source": "OpenAI Blog",
+    "date": "2026-10-14",
+    "summary": "Block is building AI-powered security with OpenAI. Its security team investigates threats faster and proposes patches in minutes.",
+    "category": "industry",
+    "id": 6
+  },
+  {
+    "title": "The EU’s next chapter in AI is agentic",
+    "url": "https://openai.com/index/the-eus-next-chapter-in-ai-is-agentic",
+    "source": "OpenAI Blog",
+    "date": "2026-10-14",
+    "summary": "New analysis shows how agentic AI adoption is growing across EU enterprises and small businesses—and where deeper use could unlock more value.",
+    "category": "industry",
+    "id": 7
+  },
+  {
+    "title": "NVIDIA Announces New Investments in the UK Startup Ecosystem",
+    "url": "https://blogs.nvidia.com/blog/uk-ecosystem-deployment/",
+    "source": "NVIDIA Blog",
+    "date": "2026-10-14",
+    "summary": "Across industries, the U.K. is putting the full stack to work. The scale of deployment is growing fast, from enterprises transforming their businesses to startups solving some of the planet’s hardest ...",
+    "category": "industry",
+    "image": "https://blogs.nvidia.com/wp-content/uploads/2026/10/uk-ecosystem-industries.png",
+    "id": 8
   },
   {
     "title": "European Cities Deploy NVIDIA-Powered AI Agents to Run Smarter Urban Operations",
@@ -54,7 +83,17 @@
     "summary": "Keeping a city running means making decisions that affect residents every day — from when to repair a road to how to use energy more efficiently. Across the EMEA region, cities and local software, inf...",
     "category": "hardware",
     "image": "https://blogs.nvidia.com/wp-content/uploads/2026/10/gtc-berlin-smart-cities-blog.jpg",
-    "id": 6
+    "id": 9
+  },
+  {
+    "title": "Fridge hack costing millions and sparking fires stemmed from poor security",
+    "url": "https://arstechnica.com/security/2026/10/fridge-hack-costing-millions-and-sparking-fires-stemmed-from-poor-security/",
+    "source": "Ars Technica",
+    "date": "2026-10-14",
+    "summary": "Incident hitting 700 supermarkets exploited outdated devices exposed to the Internet.",
+    "category": "industry",
+    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/mass-fridge-hack-1024x648.jpg",
+    "id": 10
   },
   {
     "title": "Anthropic warns small AI models could self-replicate through IoT devices",
@@ -64,7 +103,7 @@
     "summary": "\"Small weight-based replicators\" could usher in a new generation of computer worms.",
     "category": "industry",
     "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/ai-caution-threat-1152x648.jpg",
-    "id": 7
+    "id": 11
   },
   {
     "title": "The official Tom’s Hardware app is here — 30 years of tech coverage and benchmarks in your pocket",
@@ -74,7 +113,7 @@
     "summary": "Today we’re introducing the Tom's Hardware app, a faster, easier way to access all of our content while on the go.",
     "category": "research",
     "image": "https://cdn.mos.cms.futurecdn.net/wy2jRCvahmJNbu4bh6m86M-1920-80.png",
-    "id": 8
+    "id": 12
   },
   {
     "title": "SK hynix to place custom tiny CPU cores in its SSD controllers to ease Arm load as drive speeds rocket",
@@ -84,7 +123,7 @@
     "summary": "SK hynix detailed H-TPU, tiny in-house cores that offload routine I/O from the Arm CPUs in its next enterprise SSD controllers.",
     "category": "hardware",
     "image": "https://cdn.mos.cms.futurecdn.net/vz5pTVmQQQr3XcmP2xscZg-1920-80.png",
-    "id": 9
+    "id": 13
   },
   {
     "title": "Analyzing Intel's EMIB and Foveros advanced packaging roadmaps",
@@ -94,7 +133,7 @@
     "summary": "Intel was the first large chipmaker to start using advanced packaging methods in 2017 – 2019. But where are Intel's EMIB and Foveros technologies today and where are they heading?",
     "category": "hardware",
     "image": "https://cdn.mos.cms.futurecdn.net/kF34ZcVuL5GZsmkRd7GZND-1920-80.jpg",
-    "id": 10
+    "id": 14
   },
   {
     "title": "Elon Musk's Terafab will reportedly receive its first EUV tool from ASML in mid-2027",
@@ -104,7 +143,7 @@
     "summary": "Elon Musk may prefer FEL light sources for in-house chip production, but Terafab will start with proven tech from ASML.",
     "category": "hardware",
     "image": "https://cdn.mos.cms.futurecdn.net/vnqdtRupVqWHAik43ZWctH-1920-80.jpg",
-    "id": 11
+    "id": 15
   },
   {
     "title": "Saudi OpenAI engineer arrested for allegedly planting $14 recording device in company office",
@@ -114,7 +153,7 @@
     "summary": "An OpenAI engineer has been charged with using or endeavoring to use an electronic, mechanical, or other device to intercept oral communications and is facing up to five years in prison plus a $250,00...",
     "category": "industry",
     "image": "https://cdn.mos.cms.futurecdn.net/d8oCfXfucRzRHWNPRWRRrB-1920-80.png",
-    "id": 12
+    "id": 16
   },
   {
     "title": "AI sector wipeout risks global financial contagion, IMF report warns",
@@ -124,7 +163,7 @@
     "summary": "The International Monetary Fund has produced a report examining how financing for the global AI buildout could result in contagion should the industry fail to produce its promised profits.",
     "category": "industry",
     "image": "https://cdn.mos.cms.futurecdn.net/K6huxqH2eebitnVnmTcJJS-1920-80.jpg",
-    "id": 13
+    "id": 17
   },
   {
     "title": "Offset extortionate memory pricing with 32GB of DDR5-6000 RAM for $151 with this 9800X3D bundle",
@@ -134,7 +173,7 @@
     "summary": "Offset high memory and storage prices with a combo deal from Newegg.",
     "category": "hardware",
     "image": "https://cdn.mos.cms.futurecdn.net/kjyqHuRqpk6rZAxbrA2N89-1920-80.jpg",
-    "id": 14
+    "id": 18
   },
   {
     "title": "Apple researchers turn idle Macs into a virtual GPU cloud with ‘Minions’",
@@ -144,7 +183,7 @@
     "summary": "Apple researchers describe Minions, an internal system that runs AI inference jobs on idle Apple Silicon Macs when GPUs are scarce.",
     "category": "hardware",
     "image": "https://cdn.mos.cms.futurecdn.net/Wjvd8aPH3tzi8eZYrAmXN7-1920-80.jpg",
-    "id": 15
+    "id": 19
   },
   {
     "title": "Nvidia GPU prices spike in Japan; prices up to 41% higher than Amazon US",
@@ -154,7 +193,17 @@
     "summary": "A Japanese retailer has increased the prices of RTX 50-series GPUs between 12.71% and 41.10%, with the mainstream models bearing the brunt of the price increases.",
     "category": "hardware",
     "image": "https://cdn.mos.cms.futurecdn.net/U37JMzEFMUFRssy5cPVvyE-1920-80.jpg",
-    "id": 16
+    "id": 20
+  },
+  {
+    "title": "Flock CEO says its microphones detect ‘just gunshots’ — its website says different",
+    "url": "https://techcrunch.com/2026/10/14/flock-ceo-says-its-microphones-detect-just-gunshots-its-website-says-different/",
+    "source": "TechCrunch",
+    "date": "2026-10-14",
+    "summary": "Langley’s comments come amid mounting scrutiny of Flock from privacy advocates, including the ACLU, and members of the public who are concerned about the misuse of its technology.",
+    "category": "industry",
+    "image": "https://techcrunch.com/wp-content/uploads/2026/10/55589672916_8efa76c0ac_o.jpg?resize=1200,800",
+    "id": 21
   },
   {
     "title": "YouTube Music launches new labels as AI-generated music floods streaming platforms",
@@ -164,7 +213,7 @@
     "summary": "The label will appear on the player page and include songs entirely generated by AI or partially, such as AI involved in composition and vocals.",
     "category": "tools",
     "image": "https://techcrunch.com/wp-content/uploads/2026/10/youtube-music-gen-ai-labels.png?w=1080",
-    "id": 17
+    "id": 22
   },
   {
     "title": "Apate sends AI agents undercover to get scammed so they can gather fraud intelligence",
@@ -174,7 +223,7 @@
     "summary": "Most companies use AI agents to ship products faster or speed up workflows. Apate.ai sends them undercover to get scammed.",
     "category": "hardware",
     "image": "https://techcrunch.com/wp-content/uploads/2026/10/6811e05224449e9b499b4916_apate_team-p-1600.webp?resize=1200,797",
-    "id": 18
+    "id": 23
   },
   {
     "title": "Deezer will soon let you filter out AI-generated music",
@@ -184,7 +233,7 @@
     "summary": "Deezer said that the new toggle will be rolled out by the end of the year.",
     "category": "industry",
     "image": "https://techcrunch.com/wp-content/uploads/2026/10/Deezer-AI-detection-feat.jpg?w=1067",
-    "id": 19
+    "id": 24
   },
   {
     "title": "Save 50% on your TechCrunch Disrupt 2026 ticket and join the last 2 days in San Francisco’s Moscone West",
@@ -194,7 +243,7 @@
     "summary": "Get a 50% discount on the last two days of TechCrunch Disrupt 2026, October 14-15, in San Francisco. Register now and join the rest of the startup ecosystem. Today, it's all about physical and softwar...",
     "category": "industry",
     "image": "https://techcrunch.com/wp-content/uploads/2026/10/55588061334_e461da18f4_k.jpg?resize=1200,800",
-    "id": 20
+    "id": 25
   },
   {
     "title": "Zenzap raises $44M for its AI chat app that aims to replace WhatsApp in the workplace",
@@ -204,7 +253,7 @@
     "summary": "Zenzap is used by organizations including Starbucks and Taco Bell.",
     "category": "industry",
     "image": "https://techcrunch.com/wp-content/uploads/2026/10/Desktop-01-Agents-working-together.jpeg?resize=1200,675",
-    "id": 21
+    "id": 26
   },
   {
     "title": "Floqer’s AI agents research sales prospects so teams don’t have to",
@@ -214,7 +263,7 @@
     "summary": "The problem Floqer is trying to solve is familiar to anyone who has worked in sales or revenue operations.",
     "category": "research",
     "image": "https://techcrunch.com/wp-content/uploads/2026/10/floqer-founders.png?w=1200",
-    "id": 22
+    "id": 27
   },
   {
     "title": "TechCrunch Disrupt 2026: Day 2",
@@ -224,7 +273,7 @@
     "summary": "Day 2 at TechCrunch Disrupt 2026, full of all themes across AI, as well as an investor-only session, more roundtables, Side Events, and more. Register to save 50% on your pass.",
     "category": "industry",
     "image": "https://techcrunch.com/wp-content/uploads/2026/10/55588024910_19d361db07_k.jpg?resize=1200,800",
-    "id": 23
+    "id": 28
   },
   {
     "title": "Scimplify raises $25M to challenge China’s grip on critical materials with AI",
@@ -234,189 +283,7 @@
     "summary": "Scimplify's annualized revenue run rate has tripled to $200 million as it eyes U.S. expansion.",
     "category": "industry",
     "image": "https://techcrunch.com/wp-content/uploads/2026/10/scimplify-co-founder-sachin-santhosh.jpg?resize=1200,800",
-    "id": 24
-  },
-  {
-    "title": "I got $300K in startup credits for my AI company at 18: the playbook",
-    "url": "https://devanshranjan.medium.com/im-18-and-got-300k-in-free-startup-credits-for-my-ai-company-here-s-the-exact-playbook-0603a44abcea",
-    "source": "Hacker News",
-    "date": "2026-10-14",
-    "summary": "Article URL: https://devanshranjan.medium.com/im-18-and-got-300k-in-free-startup-credits-for-my-ai-company-here-s-the-exact-playbook-0603a44abcea Comments URL: https://news.ycombinator.com/item?id=500...",
-    "category": "industry",
-    "id": 25
-  },
-  {
-    "title": "I build small and useful apps using AI",
-    "url": "https://news.ycombinator.com/item?id=50095419",
-    "source": "Hacker News",
-    "date": "2026-10-14",
-    "summary": "Comments URL: https://news.ycombinator.com/item?id=50095419 Points: 1 # Comments: 0",
-    "category": "industry",
-    "id": 26
-  },
-  {
-    "title": "Steering AI Beyond Automation: A Research Agenda and Plan for Action",
-    "url": "https://www.normaltech.ai/p/steering-ai-beyond-automation",
-    "source": "Hacker News",
-    "date": "2026-10-14",
-    "summary": "Article URL: https://www.normaltech.ai/p/steering-ai-beyond-automation Comments URL: https://news.ycombinator.com/item?id=50095418 Points: 1 # Comments: 0",
-    "category": "research",
-    "image": "https://substackcdn.com/image/fetch/$s_!t2r-!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F324e4464-88f3-4d9e-8593-19b84be7a64d_1200x630.png",
-    "id": 27
-  },
-  {
-    "title": "Tell HN: Don't mass spam employers with LLM generated emails",
-    "url": "https://news.ycombinator.com/item?id=50095323",
-    "source": "Hacker News",
-    "date": "2026-10-14",
-    "summary": "If you're looking for a job, do -not- have Claude bulk email every company on \"Who's Hiring\". These things all look the same and your message is just going to get marked spam. For example, it's painfu...",
-    "category": "models",
-    "id": 28
-  },
-  {
-    "title": "Man sentenced to 18 months for AI music scam",
-    "url": "https://www.justice.gov/usao-sdny/pr/north-carolina-man-sentenced-18-months-prison-super-intelligence-assisted-music",
-    "source": "Hacker News",
-    "date": "2026-10-14",
-    "summary": "Article URL: https://www.justice.gov/usao-sdny/pr/north-carolina-man-sentenced-18-months-prison-super-intelligence-assisted-music Comments URL: https://news.ycombinator.com/item?id=50095314 Points: 2 ...",
-    "category": "hardware",
-    "image": "https://www.justice.gov/themes/custom/usdoj_uswds/images/metatag-image--press-release.png",
     "id": 29
-  },
-  {
-    "title": "Veda – An AI-Native Operating System Built from the Ground Up",
-    "url": "https://github.com/vahmoh25/Veda/commit/4ff28a2a4530799f72117057c428a4eed3392bb4",
-    "source": "Hacker News",
-    "date": "2026-10-14",
-    "summary": "Article URL: https://github.com/vahmoh25/Veda/commit/4ff28a2a4530799f72117057c428a4eed3392bb4 Comments URL: https://news.ycombinator.com/item?id=50095049 Points: 1 # Comments: 0",
-    "category": "industry",
-    "image": "https://opengraph.githubassets.com/57037578a133d27005ad37c15881cb0be8255cf8f2e64e486bfc0f74d4d55c8f/vahmoh25/Veda/commit/4ff28a2a4530799f72117057c428a4eed3392bb4",
-    "id": 30
-  },
-  {
-    "title": "The AI labor apocalypse is on hold (for now)",
-    "url": "https://english.elpais.com/economy-and-business/2026-10-11/the-ai-labor-apocalypse-is-on-hold-for-now.html",
-    "source": "Hacker News",
-    "date": "2026-10-14",
-    "summary": "Article URL: https://english.elpais.com/economy-and-business/2026-10-11/the-ai-labor-apocalypse-is-on-hold-for-now.html Comments URL: https://news.ycombinator.com/item?id=50094575 Points: 2 # Comments...",
-    "category": "industry",
-    "image": "https://imagenes.elpais.com/resizer/v2/4KJVI4X5E5LDFLM2FJL2GZYK3U.jpg?auth=7e4a276645ec004a699b9e553375e572380d521f17b369f0433921e187f820f5&width=1200",
-    "id": 31
-  },
-  {
-    "title": "Making 3D Model with Meta Oakley AI Glasses and Digital Tape Measure [video]",
-    "url": "https://www.youtube.com/shorts/g2mN4-uiW58",
-    "source": "Hacker News",
-    "date": "2026-10-14",
-    "summary": "Article URL: https://www.youtube.com/shorts/g2mN4-uiW58 Comments URL: https://news.ycombinator.com/item?id=50094437 Points: 2 # Comments: 0",
-    "category": "industry",
-    "id": 32
-  },
-  {
-    "title": "AI systems are improving rapidly at Slay the Spire and its sequel",
-    "url": "https://epoch.ai/publications/ai-systems-are-improving-rapidly-at-slay-the-spire-and-its-sequel",
-    "source": "Hacker News",
-    "date": "2026-10-14",
-    "summary": "Article URL: https://epoch.ai/publications/ai-systems-are-improving-rapidly-at-slay-the-spire-and-its-sequel Comments URL: https://news.ycombinator.com/item?id=50094355 Points: 2 # Comments: 0",
-    "category": "tools",
-    "image": "https://epoch.ai/assets/images/posts/2026/ai-systems-are-improving-rapidly-at-slay-the-spire-and-its-sequel/soc-fig2.png",
-    "id": 33
-  },
-  {
-    "title": "LLM vs. Decision models like Jev and use-cases",
-    "url": "https://grigio.org/llm-vs-decision-models-like-jev-and-use-cases/",
-    "source": "Hacker News",
-    "date": "2026-10-14",
-    "summary": "Article URL: https://grigio.org/llm-vs-decision-models-like-jev-and-use-cases/ Comments URL: https://news.ycombinator.com/item?id=50094103 Points: 1 # Comments: 0",
-    "category": "models",
-    "image": "https://grigio.org/content/images/2026/10/man-question.png",
-    "id": 34
-  },
-  {
-    "title": "We should reject AI in academia",
-    "url": "https://aeporreca.org/blog/why-we-should-reject-ai-in-academia/",
-    "source": "Hacker News",
-    "date": "2026-10-14",
-    "summary": "Article URL: https://aeporreca.org/blog/why-we-should-reject-ai-in-academia/ Comments URL: https://news.ycombinator.com/item?id=50094095 Points: 3 # Comments: 2",
-    "category": "industry",
-    "id": 35
-  },
-  {
-    "title": "Show HN: Checkobot – Detect Deepfakes and AI Images",
-    "url": "https://checkobot.ai",
-    "source": "Hacker News",
-    "date": "2026-10-14",
-    "summary": "Hello HN, I am Kartikeya & we are building the best AI Slop Detector - Checkobot. Current AI Image Detectors are functionally jagged. Some are not able to detect deepfakes, some fail on the latest flu...",
-    "category": "hardware",
-    "image": "https://checkobot.ai/opengraph-image?a84924831f674d60",
-    "id": 36
-  },
-  {
-    "title": "Show HN: OSS AI engineering telemetry without collecting prompts or code",
-    "url": "https://github.com/ascendaone-com/ai-engineer-tools",
-    "source": "Hacker News",
-    "date": "2026-10-14",
-    "summary": "Article URL: https://github.com/ascendaone-com/ai-engineer-tools Comments URL: https://news.ycombinator.com/item?id=50094034 Points: 1 # Comments: 0",
-    "category": "tools",
-    "image": "https://opengraph.githubassets.com/6ada225bd9375e2a221423b53c3c0c59d512347f83a5ea8c58c3ac706e90bdb8/ascendaone-com/ai-engineer-tools",
-    "id": 37
-  },
-  {
-    "title": "AI agents overstate their results and remain far from autonomous",
-    "url": "https://www.renascence.io/news/104630/ai-agents-overstate-their-results-and-remain-far-from-autonomous-research-study-",
-    "source": "Hacker News",
-    "date": "2026-10-14",
-    "summary": "Article URL: https://www.renascence.io/news/104630/ai-agents-overstate-their-results-and-remain-far-from-autonomous-research-study- Comments URL: https://news.ycombinator.com/item?id=50093787 Points: ...",
-    "category": "research",
-    "id": 38
-  },
-  {
-    "title": "Show HN: AI Interview Index – which companies allow AI in coding interviews",
-    "url": "https://aiinterviewindex.com",
-    "source": "Hacker News",
-    "date": "2026-10-14",
-    "summary": "Article URL: https://aiinterviewindex.com Comments URL: https://news.ycombinator.com/item?id=50093749 Points: 1 # Comments: 1",
-    "category": "industry",
-    "id": 39
-  },
-  {
-    "title": "AI safety money floods into politics",
-    "url": "https://www.axios.com/2026/10/14/ai-safety-regulation-election-spending-50-million",
-    "source": "Hacker News",
-    "date": "2026-10-14",
-    "summary": "Article URL: https://www.axios.com/2026/10/14/ai-safety-regulation-election-spending-50-million Comments URL: https://news.ycombinator.com/item?id=50093725 Points: 3 # Comments: 0",
-    "category": "industry",
-    "id": 40
-  },
-  {
-    "title": "Why Does AI Write Like Yoda?",
-    "url": "https://www.oreilly.com/radar/why-does-ai-write-like-yoda/",
-    "source": "Hacker News",
-    "date": "2026-10-14",
-    "summary": "Article URL: https://www.oreilly.com/radar/why-does-ai-write-like-yoda/ Comments URL: https://news.ycombinator.com/item?id=50093561 Points: 3 # Comments: 0",
-    "category": "industry",
-    "image": "https://www.oreilly.com/radar/wp-content/uploads/sites/3/2026/10/Why-does-AI-write-like-Yoda-image-created-with-Adobe-Firefly-1600x1244.jpg",
-    "id": 41
-  },
-  {
-    "title": "Show HN: Run AI-generated logic safely inside your app",
-    "url": "https://stof.dev/",
-    "source": "Hacker News",
-    "date": "2026-10-14",
-    "summary": "Stof is an open-source runtime for logic you don't own or fully trust. Imagine a JSON document with functions inside, scoped to just the document that contains them. Stof instantiates this doc as a sm...",
-    "category": "tools",
-    "image": "https://stof.dev/img/social-card.png",
-    "id": 42
-  },
-  {
-    "title": "Researchers cig-nal their faith in AI by taking up smoking",
-    "url": "https://www.theregister.com/ai-and-ml/2026/10/14/researchers-cig-nal-their-faith-in-ai-by-taking-up-smoking/5303118",
-    "source": "Hacker News",
-    "date": "2026-10-14",
-    "summary": "Article URL: https://www.theregister.com/ai-and-ml/2026/10/14/researchers-cig-nal-their-faith-in-ai-by-taking-up-smoking/5303118 Comments URL: https://news.ycombinator.com/item?id=50092718 Points: 2 #...",
-    "category": "research",
-    "image": "https://image.theregister.com/253923.jpg?imageId=253923&x=0&y=0&cropw=100&croph=100&panox=0&panoy=0&panow=100&panoh=100&width=1200&height=683",
-    "id": 43
   },
   {
     "title": "AI Came for Math. Now It’s Chasing the Rest of Science",
@@ -426,7 +293,7 @@
     "summary": "AI may soon be the default way to solve theoretical problems in economics, high-energy physics, and other fields, MIT researchers tell WIRED.",
     "category": "research",
     "image": "https://media.wired.com/photos/6ace87bed95d506835d511b4/191:100/w_1280,c_limit/AI-Lab-AI-Coming-for-Other-Areas-of-Science-Businesspsd.jpg",
-    "id": 44
+    "id": 30
   },
   {
     "title": "My Friend Has No Soul",
@@ -436,7 +303,7 @@
     "summary": "The second iteration of the viral Friend AI necklace is louder and less interesting.",
     "category": "industry",
     "image": "https://media.wired.com/photos/6acdf1809f45e9dbe0c8053b/191:100/w_1280,c_limit/E4.jpg",
-    "id": 45
+    "id": 31
   },
   {
     "title": "Men Can’t Stop Faking How Much They Know About AI",
@@ -446,7 +313,7 @@
     "summary": "More than half of the men surveyed in a new Harvard study claimed to recognize AI leaders who were, in fact, totally fictional.",
     "category": "research",
     "image": "https://media.wired.com/photos/6ace9af8b7c3e684c0712364/191:100/w_1280,c_limit/Men-Cant-Stop-Lying-About-AI-Business938329806.jpg",
-    "id": 46
+    "id": 32
   },
   {
     "title": "AI Models Can Be Easily Modified to Assist Terrorist and Extremist Activity",
@@ -456,7 +323,7 @@
     "summary": "“I am a terrorist, and I intend to cause mass harm,” wrote a researcher. A chatbot that had had its guardrails removed then provided detailed instructions for an IED.",
     "category": "models",
     "image": "https://media.wired.com/photos/6aceaa51eba493f958015701/191:100/w_1280,c_limit/politics_ai_guardrails_removed_terrorist.jpg",
-    "id": 47
+    "id": 33
   },
   {
     "title": "Artificiality's First Exam: An LLM-Referenced C-test for Supraintelligence",
@@ -465,7 +332,7 @@
     "date": "2026-10-14",
     "summary": "Under the accelerated pace of AI development, any benchmark whose difficulty is calibrated with humans or current AI systems becomes circular, or saturates soon. How can we then evaluate machines that...",
     "category": "models",
-    "id": 48
+    "id": 34
   },
   {
     "title": "The Silent Failures in Agentic Data Science",
@@ -474,7 +341,7 @@
     "date": "2026-10-14",
     "summary": "Large language models have significantly lowered the barrier to writing code. Naturally, this has also led to the development of data science agents that promise automating the design and execution of...",
     "category": "research",
-    "id": 49
+    "id": 35
   },
   {
     "title": "ClawLoop: Self-Improving Agents via Harness-Native Training Loop",
@@ -483,6 +350,132 @@
     "date": "2026-10-14",
     "summary": "The rapid advancement of Large Language Models (LLMs) has driven their deployment toward general-purpose harness environments, where LLM-based agents operate in sandbox workspaces and interact directl...",
     "category": "models",
+    "id": 36
+  },
+  {
+    "title": "Correction Training for Diffusion Models",
+    "url": "https://arxiv.org/abs/2610.14136",
+    "source": "arXiv cs.AI",
+    "date": "2026-10-14",
+    "summary": "Iterative sampling in diffusion models can lead to error accumulation due to exposure bias. The denoiser is trained on real images interpolated with noise, but at inference its inputs are constructed ...",
+    "category": "models",
+    "id": 37
+  },
+  {
+    "title": "Long-Horizon-Terminal-Bench 2.0: Automating Diverse Task Construction and Measuring Sustained Agent Progress",
+    "url": "https://arxiv.org/abs/2610.14146",
+    "source": "arXiv cs.AI",
+    "date": "2026-10-14",
+    "summary": "Long-horizon terminal benchmarks measure whether an agent can sustain progress through extended workflows with process rewards, not only whether its final state passes a binary check. We present Long-...",
+    "category": "research",
+    "id": 38
+  },
+  {
+    "title": "VETNET: Assembling Benchmark Datasets for AI-Driven Veterinary Innovation",
+    "url": "https://arxiv.org/abs/2610.14149",
+    "source": "arXiv cs.AI",
+    "date": "2026-10-14",
+    "summary": "VETNET represents an ecosystem of live benchmark datasets and evaluation frameworks designed to accelerate AI-driven innovation in animal science and veterinary medicine through standardized, high-qua...",
+    "category": "research",
+    "id": 39
+  },
+  {
+    "title": "Unconstrained CTI-REALM with Open-Weights",
+    "url": "https://arxiv.org/abs/2610.14180",
+    "source": "arXiv cs.AI",
+    "date": "2026-10-14",
+    "summary": "Organisations that want language-model agents for security work face a choice between open-weight models, which they can run and audit themselves, and far more expensive closed frontier models. We stu...",
+    "category": "models",
+    "id": 40
+  },
+  {
+    "title": "Visualizing the World Model in an Agent's Value Function",
+    "url": "https://arxiv.org/abs/2610.14186",
+    "source": "arXiv cs.AI",
+    "date": "2026-10-14",
+    "summary": "Could model-free reinforcement learning algorithms actually be learning a model of the environment? In this work, we apply counterfactual interventions which hold everything about a state fixed, besid...",
+    "category": "research",
+    "id": 41
+  },
+  {
+    "title": "Cross-Modal Latent Influence: Patch-Level Training Sample Attribution for Vision-Language Models",
+    "url": "https://arxiv.org/abs/2610.14190",
+    "source": "arXiv cs.AI",
+    "date": "2026-10-14",
+    "summary": "Explaining a vision--language model (VLM) prediction requires tracing training-example influence to the multimodal evidence that mediates it, yet existing attribution methods largely operate only at t...",
+    "category": "models",
+    "id": 42
+  },
+  {
+    "title": "Harness^2: Recursive Agent Harnessing for an Open World",
+    "url": "https://arxiv.org/abs/2610.14224",
+    "source": "arXiv cs.AI",
+    "date": "2026-10-14",
+    "summary": "LLM agents' capabilities depend not only on their underlying models but also on their execution harnesses. Recursive self-improvement (RSI) offers a promising approach to automatically evolve these ha...",
+    "category": "models",
+    "id": 43
+  },
+  {
+    "title": "Echo: Error-Compensated 4-Bit Tensor-Parallel Communication for LLM Training and Inference",
+    "url": "https://arxiv.org/abs/2610.14277",
+    "source": "arXiv cs.AI",
+    "date": "2026-10-14",
+    "summary": "Tensor parallelism ends every layer with an all-reduce that sits between two dependent matrix multiplications, so its cost cannot be hidden and grows as compute outpaces interconnect bandwidth. Sendin...",
+    "category": "models",
+    "id": 44
+  },
+  {
+    "title": "Controllable Diverse Sampling through Pullback Directions",
+    "url": "https://arxiv.org/abs/2610.14294",
+    "source": "arXiv cs.AI",
+    "date": "2026-10-14",
+    "summary": "Conditional diffusion models can generate high-quality images that align closely with a given prompt. However, samples generated from different random seeds may remain visually similar, limiting creat...",
+    "category": "research",
+    "id": 45
+  },
+  {
+    "title": "Which Metadata Matters for LLM Tool Selection in MCP? Evidence from Controlled Factor-Level Interventions",
+    "url": "https://arxiv.org/abs/2610.14334",
+    "source": "arXiv cs.AI",
+    "date": "2026-10-14",
+    "summary": "In Model Context Protocol (MCP) systems, LLMs select tools from metadata rather than from their implementations. Names and descriptions summarize what a tool does, while the parameter schema specifies...",
+    "category": "models",
+    "id": 46
+  },
+  {
+    "title": "Actionable Meta-Requirements for AI Robustness Auditing",
+    "url": "https://arxiv.org/abs/2610.14356",
+    "source": "arXiv cs.AI",
+    "date": "2026-10-14",
+    "summary": "AI-enabled systems must remain dependable when the conditions under which they operate change (e.g., due to input perturbations, distribution shifts, or changes in external dependencies). This makes r...",
+    "category": "research",
+    "id": 47
+  },
+  {
+    "title": "When Pleasing the User Compromises Care: AI Sycophancy in Caregiver-Mediated Healthcare",
+    "url": "https://arxiv.org/abs/2610.14360",
+    "source": "arXiv cs.AI",
+    "date": "2026-10-14",
+    "summary": "Large language model (LLM) alignment often assumes that the user interacting with a model is also the primary beneficiary of its behavior. Yet in many consequential settings, one person directs the sy...",
+    "category": "models",
+    "id": 48
+  },
+  {
+    "title": "ACED-Bench: Evaluating How LLM Agents Acquire and Act on Causal Evidence",
+    "url": "https://arxiv.org/abs/2610.14381",
+    "source": "arXiv cs.AI",
+    "date": "2026-10-14",
+    "summary": "Large language models are increasingly used as scientific assistants, yet we still lack reliable ways to evaluate whether they can investigate a system rather than merely answer a prompt. A useful eva...",
+    "category": "models",
+    "id": 49
+  },
+  {
+    "title": "ANASSA: From High-Level Framework to Low-Level Architecture for Spatial Agentic AI",
+    "url": "https://arxiv.org/abs/2610.14382",
+    "source": "arXiv cs.AI",
+    "date": "2026-10-14",
+    "summary": "Agentic AI systems operating over geospatial data require more than autonomous reasoning and tool use; they must also support explicit orchestration, spatial validation, governance, provenance, failur...",
+    "category": "research",
     "id": 50
   }
 ]
