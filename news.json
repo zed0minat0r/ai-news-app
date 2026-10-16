@@ -1,5 +1,26 @@
 [
   {
+    "title": "Microsoft Surface Laptop Ultra review: RTX Spark in a straight-up beautiful Windows PC",
+    "url": "https://www.tomshardware.com/tablets/microsoft-surface/microsoft-surface-laptop-ultra-rtx-spark-review",
+    "source": "Tom's Hardware",
+    "date": "2026-10-16",
+    "summary": "Microsoft’s Surface Laptop Ultra is its most beautiful laptop ever, but using Windows on it is the same as ever. Only AI enthusiasts will get the most out of RTX Spark.",
+    "category": "industry",
+    "image": "https://cdn.mos.cms.futurecdn.net/2euXU5qSKhStmYNM3oz75j-1920-80.jpg",
+    "id": 1,
+    "featured": true
+  },
+  {
+    "title": "Taiwan raising $4 billion to build industrial park in Texas to support US chipmaking supply chain",
+    "url": "https://www.tomshardware.com/tech-industry/semiconductors/taiwan-raising-usd4-billion-to-build-industrial-park-in-texas-to-support-us-chipmaking-supply-chain-project-to-support-countless-small-manufacturers-crucial-to-tsmc-foxconn-supply-chain",
+    "source": "Tom's Hardware",
+    "date": "2026-10-16",
+    "summary": "This $4 billion industrial park would make it easier for smaller Taiwanese companies who can't afford to build their own sites in the U.S. to expand and follow major Taiwanese manufacturers like TSMC ...",
+    "category": "hardware",
+    "image": "https://cdn.mos.cms.futurecdn.net/XjkMDozaarDNseTKi7bvDf-1920-80.png",
+    "id": 2
+  },
+  {
     "title": "Linus Torvalds posts his first AI-assisted patch to the Linux kernel, synthetic test clocks 23x performance leap",
     "url": "https://www.tomshardware.com/software/linux/linus-torvalds-posts-his-first-llm-assisted-patch-to-the-linux-kernel-after-issuing-clear-pro-ai-directives-the-bossman-makes-use-of-ai-tooling-himself",
     "source": "Tom's Hardware",
@@ -7,8 +28,7 @@
     "summary": "Linus Torvalds posts his first LLM-assisted patch to the Linux kernel — after issuing clear pro-AI directives, the bossman makes use of AI tooling himself",
     "category": "models",
     "image": "https://cdn.mos.cms.futurecdn.net/8ukjVdLc3rtpkr4AXLkY9j-1920-80.jpg",
-    "id": 1,
-    "featured": true
+    "id": 3
   },
   {
     "title": "Jailbroken PS5s can now run local AI models at over 100+ tokens per second",
@@ -18,186 +38,235 @@
     "summary": "PS5LM gets a fork, allowing it to run natively and use the GPU and more RAM to run larger LLMs, even running Qwen3.8-27B at 20 tokens per second.",
     "category": "models",
     "image": "https://cdn.mos.cms.futurecdn.net/p6RKS3uArE9EvG6rNBgPYb-1920-80.jpg",
-    "id": 2
-  },
-  {
-    "title": "I spent 48 hours in SF hanging out with billionaires, data labs and AI founders",
-    "url": "https://twitter.com/gregisenberg/status/2110414696037716372",
-    "source": "Hacker News",
-    "date": "2026-10-16",
-    "summary": "Article URL: https://twitter.com/gregisenberg/status/2110414696037716372 Comments URL: https://news.ycombinator.com/item?id=50116759 Points: 1 # Comments: 1",
-    "category": "industry",
-    "image": "https://pbs.twimg.com/media/HUmxH1EXsAAXxld?format=webp&name=large",
-    "id": 3
-  },
-  {
-    "title": "AlbertCode, an AI software engineering agent for building applications",
-    "url": "https://www.albertcode.dev",
-    "source": "Hacker News",
-    "date": "2026-10-16",
-    "summary": "Article URL: https://www.albertcode.dev Comments URL: https://news.ycombinator.com/item?id=50116533 Points: 2 # Comments: 2",
-    "category": "industry",
-    "image": "https://www.albertcode.dev/opengraph-image?c7fc71a19567d7da",
     "id": 4
   },
   {
-    "title": "Memory Under Noise: Why AI-Assistant Memory Engines Lose the Evidence",
-    "url": "https://www.aai-labs.com/en/research/memory-under-noise",
-    "source": "Hacker News",
+    "title": "Elorian’s first AI model wants to reason with images, not just about them",
+    "url": "https://techcrunch.com/2026/10/16/elorians-first-ai-model-wants-to-reason-with-images-not-just-about-them/",
+    "source": "TechCrunch",
     "date": "2026-10-16",
-    "summary": "Article URL: https://www.aai-labs.com/en/research/memory-under-noise Comments URL: https://news.ycombinator.com/item?id=50116468 Points: 1 # Comments: 0",
-    "category": "hardware",
+    "summary": "according to Elorian's evaluations, Glimpse outperforms even GPT-6 Astra on scientific chart reasoning and short-form video captioning, with competitive results on other visual reasoning tasks.",
+    "category": "research",
+    "image": "https://techcrunch.com/wp-content/uploads/2026/10/image-1.png?resize=1200,675",
     "id": 5
   },
   {
-    "title": "Show HN: Control how much your AI agent can spend with Keydris",
-    "url": "https://www.youtube.com/watch?v=fboNucIC3uU",
-    "source": "Hacker News",
+    "title": "Jev is Vercel’s fastest-adopted AI model ever",
+    "url": "https://techcrunch.com/2026/10/16/jev-is-vercels-fastest-adopted-ai-model-ever/",
+    "source": "TechCrunch",
     "date": "2026-10-16",
-    "summary": "Article URL: https://www.youtube.com/watch?v=fboNucIC3uU Comments URL: https://news.ycombinator.com/item?id=50116382 Points: 1 # Comments: 0",
-    "category": "industry",
+    "summary": "The data comes from Vercel's AI gateway, a unified API service similar to OpenRouter.",
+    "category": "tools",
+    "image": "https://techcrunch.com/wp-content/uploads/2026/04/vercel-2249343327-smaller.jpg?resize=1200,800",
     "id": 6
   },
   {
-    "title": "Writing Books with AI: How Do Manually Written Books Stay Relevant?",
-    "url": "https://www.ssp.sh/brain/writing-books-with-ai-study/",
-    "source": "Hacker News",
+    "title": "Mark Wahlberg on using AI in film ‘the right way’ and being open to an AI clone carrying on his legacy",
+    "url": "https://techcrunch.com/2026/10/16/mark-wahlberg-on-using-ai-in-film-the-right-way-and-being-open-to-an-ai-clone-carrying-on-his-legacy/",
+    "source": "TechCrunch",
     "date": "2026-10-16",
-    "summary": "Article URL: https://www.ssp.sh/brain/writing-books-with-ai-study/ Comments URL: https://news.ycombinator.com/item?id=50116122 Points: 3 # Comments: 0",
-    "category": "research",
-    "image": "https://www.ssp.sh/brain/_img/feature/gen/writing-books-with-ai--study.webp",
+    "summary": "Actor and angel investor Mark Wahlberg says he's OK with using AI in filmmaking, provided it's used \"to enhance what you're doing.\"",
+    "category": "industry",
+    "image": "https://techcrunch.com/wp-content/uploads/2026/10/55591094982_b63d06fba8_o.jpg?resize=1200,800",
     "id": 7
   },
   {
-    "title": "AI Safety Is Not a Corporate Plot",
-    "url": "https://www.astralcodexten.com/p/ai-safety-is-not-a-corporate-plot",
-    "source": "Hacker News",
+    "title": "Veritas expands its anti-counterfeit chip to jewelry, trophies, and fragrance bottles",
+    "url": "https://techcrunch.com/2026/10/16/veritas-is-building-a-chip-to-verify-luxury-goods/",
+    "source": "TechCrunch",
     "date": "2026-10-16",
-    "summary": "Article URL: https://www.astralcodexten.com/p/ai-safety-is-not-a-corporate-plot Comments URL: https://news.ycombinator.com/item?id=50115968 Points: 1 # Comments: 0",
-    "category": "research",
-    "image": "https://substackcdn.com/image/fetch/$s_!SJ-4!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F2f995ca4-2135-4a45-b1b6-e2fd3c1e5466_400x307.jpeg",
+    "summary": "Counterfeiters are getting better at replicating brands' marks and passing off dupes, known as \"superfakes,\" as genuine items. A startup called Veritas wants to tackle the problem with its own chip th...",
+    "category": "hardware",
+    "image": "https://techcrunch.com/wp-content/uploads/2026/10/Tiffany-Crown-e1791967522628.jpeg?resize=1200,675",
     "id": 8
   },
   {
-    "title": "LibreNT – how AI slop infects Windows clean-room engineering",
-    "url": "https://github.com/ahmedarif193/LiberNT",
-    "source": "Hacker News",
+    "title": "Replit’s CEO says the future of work is the ‘self-driving company’",
+    "url": "https://techcrunch.com/2026/10/16/replits-ceo-says-the-future-of-work-is-the-self-driving-company/",
+    "source": "TechCrunch",
     "date": "2026-10-16",
-    "summary": "Article URL: https://github.com/ahmedarif193/LiberNT Comments URL: https://news.ycombinator.com/item?id=50115828 Points: 2 # Comments: 1",
-    "category": "industry",
-    "image": "https://opengraph.githubassets.com/2f74704687ce95e37f847d46ad80c524e2226df7ee783e9f0c88a79dc50e48d1/ahmedarif193/LiberNT",
+    "summary": "Replit CEO Amjad Masad envisions a future of “self-driving companies,” where AI agents handle day-to-day tasks and people focus on higher-level decisions.",
+    "category": "tools",
+    "image": "https://techcrunch.com/wp-content/uploads/2026/10/GettyImages-2300415994.jpg?w=1024",
     "id": 9
   },
   {
-    "title": "Video Cutter AI – turn long videos into short clips",
-    "url": "https://video-cutter.ai/",
+    "title": "Show HN: Aegis – Network Firewall for AI Security",
+    "url": "https://aegisfw.com/",
     "source": "Hacker News",
     "date": "2026-10-16",
-    "summary": "Article URL: https://video-cutter.ai/ Comments URL: https://news.ycombinator.com/item?id=50115816 Points: 1 # Comments: 0",
+    "summary": "Article URL: https://aegisfw.com/ Comments URL: https://news.ycombinator.com/item?id=50120286 Points: 1 # Comments: 1",
     "category": "industry",
-    "image": "https://cdn.video-cutter.ai/videocutter/static/home/banner.webp",
     "id": 10
   },
   {
-    "title": "Skill that will matter most in the AI age: computationalizing (S.Wolfram)[video]",
-    "url": "https://www.youtube.com/shorts/DmA01hM5B4E",
+    "title": "What AI is revealing about education, what education must confront about itself",
+    "url": "https://vanessaandreotti.substack.com/p/in-the-digital-waters",
     "source": "Hacker News",
     "date": "2026-10-16",
-    "summary": "Article URL: https://www.youtube.com/shorts/DmA01hM5B4E Comments URL: https://news.ycombinator.com/item?id=50115727 Points: 2 # Comments: 2",
+    "summary": "Article URL: https://vanessaandreotti.substack.com/p/in-the-digital-waters Comments URL: https://news.ycombinator.com/item?id=50120190 Points: 1 # Comments: 0",
     "category": "industry",
     "id": 11
   },
   {
-    "title": "AI will lose to Human when it comes to gambling",
-    "url": "https://www.youtube.com/watch?v=19hdzsbeBHY",
+    "title": "Fixing \"AI\" UIs",
+    "url": "https://malerchen.com/fixing-ai-uis/",
     "source": "Hacker News",
     "date": "2026-10-16",
-    "summary": "Article URL: https://www.youtube.com/watch?v=19hdzsbeBHY Comments URL: https://news.ycombinator.com/item?id=50115628 Points: 2 # Comments: 2",
+    "summary": "Article URL: https://malerchen.com/fixing-ai-uis/ Comments URL: https://news.ycombinator.com/item?id=50120166 Points: 1 # Comments: 0",
     "category": "industry",
     "id": 12
   },
   {
-    "title": "Show HN: WP Replai – AI chatbot built right into WordPress",
-    "url": "https://wpreplai.com/",
+    "title": "AI Revolution vs. Computing Revolution",
+    "url": "https://news.ycombinator.com/item?id=50120075",
     "source": "Hacker News",
     "date": "2026-10-16",
-    "summary": "Article URL: https://wpreplai.com/ Comments URL: https://news.ycombinator.com/item?id=50115538 Points: 1 # Comments: 0",
+    "summary": "I have been reading a lot about computing revolution in 60s/70s. Seeing a lot of parallels to today. A bunch of enterprises spent millions on these IBM/DEC machines but didn't see any ROI. But then a ...",
     "category": "industry",
     "id": 13
   },
   {
-    "title": "A 4B LLM learns to write tools that other LLMs can use",
-    "url": "https://tool-use-smith.github.io/",
+    "title": "Postgres 19 delayed after AI reviewers find more bugs than humans can fix",
+    "url": "https://www.theregister.com/databases/2026/10/16/postgres-19-delayed-after-ai-reviewers-find-more-bugs-than-humans-can-fix/5303471",
     "source": "Hacker News",
     "date": "2026-10-16",
-    "summary": "Article URL: https://tool-use-smith.github.io/ Comments URL: https://news.ycombinator.com/item?id=50115527 Points: 1 # Comments: 0",
-    "category": "models",
+    "summary": "Article URL: https://www.theregister.com/databases/2026/10/16/postgres-19-delayed-after-ai-reviewers-find-more-bugs-than-humans-can-fix/5303471 Comments URL: https://news.ycombinator.com/item?id=50119...",
+    "category": "industry",
+    "image": "https://image.theregister.com/228745.jpg?imageId=228745&x=0&y=0&cropw=100&croph=100&panox=0&panoy=0&panow=100&panoh=100&width=1200&height=683",
     "id": 14
   },
   {
-    "title": "Kern – a zero-trust verification gateway for AI-generated code",
-    "url": "https://github.com/newmathphys/kern",
+    "title": "How to avoid AI brainrot – Miles Cranmer",
+    "url": "https://www.youtube.com/watch?v=uXC7OuCas2Q",
     "source": "Hacker News",
     "date": "2026-10-16",
-    "summary": "Article URL: https://github.com/newmathphys/kern Comments URL: https://news.ycombinator.com/item?id=50115409 Points: 1 # Comments: 0",
+    "summary": "Article URL: https://www.youtube.com/watch?v=uXC7OuCas2Q Comments URL: https://news.ycombinator.com/item?id=50119957 Points: 4 # Comments: 0",
     "category": "industry",
-    "image": "https://opengraph.githubassets.com/698936dcfd74cea53c7fbc68574e8191afd669e4af0801f232f42ff5edbebb99/newmathphys/kern",
     "id": 15
   },
   {
-    "title": "AI as a part of capitalism – the right way to go",
-    "url": "https://news.ycombinator.com/item?id=50115335",
+    "title": "Imagine Every AI Agent on Earth Buying the Same Cheap Paper Towels",
+    "url": "https://www.theatlantic.com/technology/2026/10/ai-agent-chaos-e-commerce/689010/",
     "source": "Hacker News",
     "date": "2026-10-16",
-    "summary": "The way things go now are obsiously flawed. 1. AI companies objective is to get rid of a very large part of jobs, thus converting a large part of consumers into jobless people - who are very bad at co...",
-    "category": "models",
+    "summary": "Article URL: https://www.theatlantic.com/technology/2026/10/ai-agent-chaos-e-commerce/689010/ Comments URL: https://news.ycombinator.com/item?id=50119926 Points: 3 # Comments: 0",
+    "category": "research",
     "id": 16
   },
   {
-    "title": "AI is driving a boom in modestly successful software projects",
-    "url": "https://www.seangoedecke.com/ai-is-driving-a-boom-in-modestly-successful-software/",
+    "title": "No More Heroes – Terence Tao Talks to Numberphile About AI",
+    "url": "https://www.youtube.com/watch?v=bAnwMdfcMVw",
     "source": "Hacker News",
     "date": "2026-10-16",
-    "summary": "Article URL: https://www.seangoedecke.com/ai-is-driving-a-boom-in-modestly-successful-software/ Comments URL: https://news.ycombinator.com/item?id=50115251 Points: 4 # Comments: 1",
+    "summary": "Article URL: https://www.youtube.com/watch?v=bAnwMdfcMVw Comments URL: https://news.ycombinator.com/item?id=50119922 Points: 2 # Comments: 1",
     "category": "industry",
     "id": 17
   },
   {
-    "title": "How AI proof is my business?",
-    "url": "https://keithbrown.com/tools/ai-proof",
+    "title": "Perplexity to give away its AI security software",
+    "url": "https://www.semafor.com/article/10/15/2026/perplexity-to-give-away-its-ai-security-software",
     "source": "Hacker News",
     "date": "2026-10-16",
-    "summary": "Article URL: https://keithbrown.com/tools/ai-proof Comments URL: https://news.ycombinator.com/item?id=50114999 Points: 2 # Comments: 1",
+    "summary": "Article URL: https://www.semafor.com/article/10/15/2026/perplexity-to-give-away-its-ai-security-software Comments URL: https://news.ycombinator.com/item?id=50119881 Points: 2 # Comments: 0",
     "category": "tools",
-    "image": "https://keithbrown.com/og-default.jpg",
+    "image": "https://img.semafor.com/8545c4af86aaf1909371469d1ed3ccbf63c520a7-3490x2148.jpg?rect=0,158,3490,1832&w=1200&h=630&q=75&auto=format",
     "id": 18
   },
   {
-    "title": "AI Prompt Hub – 150 categories of ready-to-use AI prompts and custom generator",
-    "url": "https://play.google.com/store/apps/details?id=com.ai_prompt_hub.setuvio&hl=en_IN",
+    "title": "I miss crappy AI art",
+    "url": "https://blog.alexbeals.com/posts/i-miss-crappy-ai-art",
     "source": "Hacker News",
     "date": "2026-10-16",
-    "summary": "Article URL: https://play.google.com/store/apps/details?id=com.ai_prompt_hub.setuvio&hl=en_IN Comments URL: https://news.ycombinator.com/item?id=50114944 Points: 1 # Comments: 0",
+    "summary": "Article URL: https://blog.alexbeals.com/posts/i-miss-crappy-ai-art Comments URL: https://news.ycombinator.com/item?id=50119876 Points: 2 # Comments: 3",
     "category": "industry",
+    "image": "https://blog.alexbeals.com/images/i-miss-crappy-ai-art/2.png",
     "id": 19
   },
   {
-    "title": "AI has killed my passion for coding [video]",
-    "url": "https://www.youtube.com/watch?v=Htdy1dsuSLY",
+    "title": "C++ and AI at CppCon: We have to use agents – more or less?",
+    "url": "https://www.sandordargo.com/blog/2026/10/07/cpp-and-ai-at-cppcon",
     "source": "Hacker News",
     "date": "2026-10-16",
-    "summary": "Article URL: https://www.youtube.com/watch?v=Htdy1dsuSLY Comments URL: https://news.ycombinator.com/item?id=50114936 Points: 2 # Comments: 0",
+    "summary": "Article URL: https://www.sandordargo.com/blog/2026/10/07/cpp-and-ai-at-cppcon Comments URL: https://news.ycombinator.com/item?id=50119824 Points: 1 # Comments: 0",
     "category": "industry",
     "id": 20
   },
   {
-    "title": "Investors dump data centre bonds as AI borrowers face 'Darwin moment'",
-    "url": "https://www.ft.com/content/678bcd31-6c2a-447b-a68c-ce6dec220bbc",
+    "title": "China proposes export controls on AI technologies",
+    "url": "https://m.bjnews.com.cn/detail/1792137269129878.html",
     "source": "Hacker News",
     "date": "2026-10-16",
-    "summary": "Article URL: https://www.ft.com/content/678bcd31-6c2a-447b-a68c-ce6dec220bbc Comments URL: https://news.ycombinator.com/item?id=50114723 Points: 5 # Comments: 1",
+    "summary": "Article URL: https://m.bjnews.com.cn/detail/1792137269129878.html Comments URL: https://news.ycombinator.com/item?id=50119804 Points: 1 # Comments: 3",
     "category": "industry",
+    "image": "https://media.bjnews.com.cn/cover/2026/10/03/5770396232157570376.jpeg?x-oss-process=image/resize,w_200/quality,q_60",
     "id": 21
+  },
+  {
+    "title": "Building AI Products, Feature Factory at 10 – Food for Agile Thought 566",
+    "url": "https://age-of-product.com/food-agile-thought-566-building-ai-products/",
+    "source": "Hacker News",
+    "date": "2026-10-16",
+    "summary": "Article URL: https://age-of-product.com/food-agile-thought-566-building-ai-products/ Comments URL: https://news.ycombinator.com/item?id=50119800 Points: 1 # Comments: 0",
+    "category": "industry",
+    "id": 22
+  },
+  {
+    "title": "Show HN: Termexo – one AI operating your other coding agents, on Windows",
+    "url": "https://github.com/gemron/Termexo",
+    "source": "Hacker News",
+    "date": "2026-10-16",
+    "summary": "Article URL: https://github.com/gemron/Termexo Comments URL: https://news.ycombinator.com/item?id=50119778 Points: 1 # Comments: 0",
+    "category": "industry",
+    "image": "https://opengraph.githubassets.com/d81ec6b5cdd2a9ed7864584869e25f4c6aeb5b3576b1c6ace93e1ff272ae897f/gemron/Termexo",
+    "id": 23
+  },
+  {
+    "title": "Pry, a browser agent that redacts private data before anything reaches AI model",
+    "url": "https://chromewebstore.google.com/detail/pry-agent/aocmnoompdjlgbfjlimikkpoebooolog",
+    "source": "Hacker News",
+    "date": "2026-10-16",
+    "summary": "Article URL: https://chromewebstore.google.com/detail/pry-agent/aocmnoompdjlgbfjlimikkpoebooolog Comments URL: https://news.ycombinator.com/item?id=50119709 Points: 2 # Comments: 0",
+    "category": "industry",
+    "id": 24
+  },
+  {
+    "title": "Build offline-first apps to earn trust in AI SaaS slop era",
+    "url": "http://blog.geckocode.pl/2026/10/16/privacy-first-apps.html",
+    "source": "Hacker News",
+    "date": "2026-10-16",
+    "summary": "Article URL: http://blog.geckocode.pl/2026/10/16/privacy-first-apps.html Comments URL: https://news.ycombinator.com/item?id=50119623 Points: 1 # Comments: 0",
+    "category": "industry",
+    "id": 25
+  },
+  {
+    "title": "Nvidia RTX Spark: AI Platform, Laptop Chip and DLSS 5",
+    "url": "https://www.igorslab.de/en/nvidia-rtx-spark-ai-superchip-laptop-platform-dlss-push/",
+    "source": "Hacker News",
+    "date": "2026-10-16",
+    "summary": "Article URL: https://www.igorslab.de/en/nvidia-rtx-spark-ai-superchip-laptop-platform-dlss-push/ Comments URL: https://news.ycombinator.com/item?id=50119594 Points: 1 # Comments: 0",
+    "category": "hardware",
+    "image": "https://www.igorslab.de/wp-content/uploads/2026/10/ai-teaser-crop-335102-nvidia-rtx-spark-ki-superchip-laptop-plattform-und-dlss-offensive.jpg",
+    "id": 26
+  },
+  {
+    "title": "The EU wants an AI revolution. But on whose terms?",
+    "url": "https://www.dw.com/en/the-eu-wants-an-ai-revolution-but-on-whose-terms/a-79673456",
+    "source": "Hacker News",
+    "date": "2026-10-16",
+    "summary": "Article URL: https://www.dw.com/en/the-eu-wants-an-ai-revolution-but-on-whose-terms/a-79673456 Comments URL: https://news.ycombinator.com/item?id=50119442 Points: 3 # Comments: 0",
+    "category": "industry",
+    "image": "https://static.dw.com/image/79668352_6.jpg",
+    "id": 27
+  },
+  {
+    "title": "It took an octillion calculations to train GPT 6 Astra",
+    "url": "https://www.nytimes.com/interactive/2026/10/15/upshot/ai-data-center-math.html",
+    "source": "Hacker News",
+    "date": "2026-10-16",
+    "summary": "Article URL: https://www.nytimes.com/interactive/2026/10/15/upshot/ai-data-center-math.html Comments URL: https://news.ycombinator.com/item?id=50119432 Points: 4 # Comments: 0",
+    "category": "models",
+    "id": 28
   },
   {
     "title": "This implant can restore sight for patients with macular degeneration",
@@ -207,7 +276,7 @@
     "summary": "Age-related macular degeneration (AMD) affects more than 5 million people around the world. And until now, no treatment could restore their vision. The Prima system, which was approved in Europe in Ju...",
     "category": "hardware",
     "image": "https://wp.technologyreview.com/wp-content/uploads/2026/10/prima-implant-2026.jpg?resize=1200,600",
-    "id": 22
+    "id": 29
   },
   {
     "title": "Kids are outsmarting social media bans. That’s not a problem we need to solve.",
@@ -217,7 +286,27 @@
     "summary": "Social media bans are stacking up. In July, France joined Australia in restricting minors from accessing social media—barring children under 15 from major platforms, before the ban was blocked by the ...",
     "category": "tools",
     "image": "https://wp.technologyreview.com/wp-content/uploads/2026/10/GettyImages-2250456863.jpg?resize=1200,600",
-    "id": 23
+    "id": 30
+  },
+  {
+    "title": "Maybe Chatbots Shouldn’t Get to Say ‘I’ or ‘Me’",
+    "url": "https://www.wired.com/story/maybe-chatbots-shouldnt-get-to-say-i-or-me/",
+    "source": "Wired",
+    "date": "2026-10-16",
+    "summary": "MIT professor Sherry Turkle warns that people have become dangerously enmeshed with chatbots.",
+    "category": "industry",
+    "image": "https://media.wired.com/photos/6ad14b37762b59cd2aa2c0c9/191:100/w_1280,c_limit/Backchannel-Sherry-Turkle-Business-458911186.jpg",
+    "id": 31
+  },
+  {
+    "title": "AI-Generated Hot Girls Are Ripping Off Comedians to Boost Their Horny Content",
+    "url": "https://www.wired.com/story/ai-generated-hot-girls-are-ripping-off-comedians-to-boost-their-horny-content/",
+    "source": "Wired",
+    "date": "2026-10-16",
+    "summary": "A network of AI-generated models is using comics’ material to funnel views to their OnlyFans and Fanvue accounts—and there’s not much comedians can do about it.",
+    "category": "industry",
+    "image": "https://media.wired.com/photos/6ad1662e14d5ead8303dffcb/191:100/w_1280,c_limit/Business_Comedians%20Are%20Getting%20Ripped%20Off%20By%20AI%20Hot%20Girls_v5.jpg",
+    "id": 32
   },
   {
     "title": "The World Won't Wait: Evaluating and Teaching Agents Under a Live Clock",
@@ -226,7 +315,7 @@
     "date": "2026-10-16",
     "summary": "Large language model (LLM) agents can solve complex interactive tasks, yet reasoning and tool calls take time. In continuously changing environments, an otherwise correct action may arrive too late. W...",
     "category": "models",
-    "id": 24
+    "id": 33
   },
   {
     "title": "Evaluating Model Capabilities After Benchmark Saturation",
@@ -235,7 +324,7 @@
     "date": "2026-10-16",
     "summary": "Rapid advances in AI capabilities are causing benchmarks to saturate. Once several models approach perfect scores, a benchmark loses its power to differentiate between them, and with it its utility fo...",
     "category": "research",
-    "id": 25
+    "id": 34
   },
   {
     "title": "Value-Informed Schedule Trimming for Accelerated Sequential Monte Carlo Guidance in Discrete Diffusion",
@@ -244,7 +333,7 @@
     "date": "2026-10-16",
     "summary": "Reward-guided discrete diffusion enables test-time alignment with downstream objectives, but applying Sequential Monte Carlo (SMC) guidance at every denoising step is computationally expensive. Active...",
     "category": "research",
-    "id": 26
+    "id": 35
   },
   {
     "title": "AlphaDiana: A Measurement System for Agents in Verifiable Reasoning Tasks",
@@ -253,7 +342,7 @@
     "date": "2026-10-16",
     "summary": "Agents pair reasoning models with harnesses that organize model calls, execute tools, load skill instructions, and retain history in memory. Understanding agent performance requires linking execution ...",
     "category": "models",
-    "id": 27
+    "id": 36
   },
   {
     "title": "When Correctness Feedback Erases Evidence: Phase-Separated Completeness Auditing in Verus",
@@ -262,7 +351,7 @@
     "date": "2026-10-16",
     "summary": "Correctness feedback suppresses the very evidence that specification-completeness auditing is designed to uncover: programs that satisfy a written contract but violate intended behavior. We demonstrat...",
     "category": "research",
-    "id": 28
+    "id": 37
   },
   {
     "title": "Counterfactual Neighborhood Risk Fields: Evidence-Grounded Selective Safety for Vision-Language Models",
@@ -271,7 +360,7 @@
     "date": "2026-10-16",
     "summary": "Representation-based safety defenses for vision-language models (VLMs) often learn to separate harmful from benign inputs, but separation alone does not establish what a risk score means or when it sh...",
     "category": "models",
-    "id": 29
+    "id": 38
   },
   {
     "title": "IneqAgent: Agentic Inequality Proving in Lean with Symbolic Computation",
@@ -280,7 +369,7 @@
     "date": "2026-10-16",
     "summary": "Formal inequality proving requires mathematical reasoning and exact computation, often connected through intermediate lemmas and goal reformulations. We introduce IneqAgent, an agentic framework combi...",
     "category": "models",
-    "id": 30
+    "id": 39
   },
   {
     "title": "L2G-SR: Learning to Guide LLM-based Symbolic Regression",
@@ -289,7 +378,7 @@
     "date": "2026-10-16",
     "summary": "Symbolic regression searches for an equation that explains observed data. Numerical error is commonly used to guide the search, but it alone can favor an accurate surrogate over a candidate with the r...",
     "category": "tools",
-    "id": 31
+    "id": 40
   },
   {
     "title": "When Reality Outpaces Cognition: A New Scaling Principle for Reliable Intelligence",
@@ -298,7 +387,7 @@
     "date": "2026-10-16",
     "summary": "This paper challenges the understanding capabilities of existing AI paradigms and emerging world models by asking a fundamental question: How quickly can reality change before an intelligent system ca...",
     "category": "models",
-    "id": 32
+    "id": 41
   },
   {
     "title": "ARIA: Runtime Inspection and Amendment for Multi-Agent Systems",
@@ -307,7 +396,7 @@
     "date": "2026-10-16",
     "summary": "In LLM-based multi-agent systems (MAS), a local mistake can propagate as other agents build on it, turning a correctable error into a failed task. Diagnosing completed runs or repeatedly re-executing ...",
     "category": "models",
-    "id": 33
+    "id": 42
   },
   {
     "title": "Open-world AI: a Tale of Three Requirements",
@@ -316,7 +405,7 @@
     "date": "2026-10-16",
     "summary": "The closed world asks AI for specialized competence and lets it manufacture the iid data its theory assumes: a fixed criterion licenses collecting examples until the task is covered. The open world as...",
     "category": "models",
-    "id": 34
+    "id": 43
   },
   {
     "title": "EvolvingBrain: An Adaptive Skill System for Multi-modal Agents Self-Evolution in Open Worlds",
@@ -325,7 +414,7 @@
     "date": "2026-10-16",
     "summary": "Multi-modal agents have made significant progress in interacting with open worlds. However, their ability to self-evolve remains limited. Supervised fine-tuning enables imitation but not active experi...",
     "category": "models",
-    "id": 35
+    "id": 44
   },
   {
     "title": "When Reasoning Traces Conflict with Evidence: How Answer Configuration Shapes Evidence Following",
@@ -334,7 +423,7 @@
     "date": "2026-10-16",
     "summary": "A reasoning trace retained at answer time plays two roles: it can raise accuracy, and it can compete with the current evidence when the two disagree. We disentangle these roles by crossing verified ev...",
     "category": "models",
-    "id": 36
+    "id": 45
   },
   {
     "title": "A Self-Improving Agent that Grows its Own DSL: Oracle-Free Operator Induction for Exact Question Answering",
@@ -343,7 +432,7 @@
     "date": "2026-10-16",
     "summary": "A self-improving agent has to decide which new skills to keep, and in practice it keeps whatever earns a high reward, convinces a judge model, or compresses its library, even when the skill is wrong. ...",
     "category": "hardware",
-    "id": 37
+    "id": 46
   },
   {
     "title": "Temporal Specification Guidance for Text-to-Video Generation",
@@ -352,7 +441,7 @@
     "date": "2026-10-16",
     "summary": "Text-to-video models often generate the visual concepts requested in natural language prompts but fail to satisfy their intended ordering, timing, and persistence requirements. We propose representing...",
     "category": "models",
-    "id": 38
+    "id": 47
   },
   {
     "title": "Confidence-Calibrated Inference Expansion for Evaluator-Guided Test-Time Reasoning",
@@ -361,7 +450,7 @@
     "date": "2026-10-16",
     "summary": "Evaluator-guided reasoning presents a local control problem at every step: trust the current answer, return a fallback, or spend more inference. We formulate this choice as a compute-aware three-actio...",
     "category": "models",
-    "id": 39
+    "id": 48
   },
   {
     "title": "Evolving Together, Failing Apart: The Skill-Policy Co-evolution Trap in Self-Improving Agents",
@@ -370,7 +459,7 @@
     "date": "2026-10-16",
     "summary": "Skill-policy co-evolution, in which an agent's policy model and its skill bank improve each other during training, is a promising paradigm for self-improving agents. Current evaluations score the co-e...",
     "category": "research",
-    "id": 40
+    "id": 49
   },
   {
     "title": "Anticipatory Commonsense with Moving Objects: An ASP-Based Framework for Predictive Reasoning with Interacting Trajectories",
@@ -378,87 +467,6 @@
     "source": "arXiv cs.AI",
     "date": "2026-10-16",
     "summary": "We present a general declarative framework for anticipatory reasoning about interactive motion in complex dynamic environments. Our focus is on (explainable) anticipatory space-time mental model forma...",
-    "category": "research",
-    "id": 41
-  },
-  {
-    "title": "A Multi-Tiered AI Accessibility Model (MAIAM): Proportionate Access and Capability Limits for Comprehensive Frontier AI Safety",
-    "url": "https://arxiv.org/abs/2610.20921",
-    "source": "arXiv cs.AI",
-    "date": "2026-10-16",
-    "summary": "Most debate about releasing capable AI systems treats the choice as binary: keep the model behind an API, or publish the weights. That framing runs together two separate decisions. One is how capable ...",
-    "category": "research",
-    "id": 42
-  },
-  {
-    "title": "Defining and Generating Compositional Structure",
-    "url": "https://arxiv.org/abs/2610.20922",
-    "source": "arXiv cs.AI",
-    "date": "2026-10-16",
-    "summary": "Compositional structure is pervasive in nature and across scales: atoms combine into molecules, molecules into cells, and cells into organisms, while further compositional hierarchies appear within ea...",
-    "category": "research",
-    "id": 43
-  },
-  {
-    "title": "SkillNEO: Non-Elitist Evolutionary Optimization of Agent Skills",
-    "url": "https://arxiv.org/abs/2610.20926",
-    "source": "arXiv cs.AI",
-    "date": "2026-10-16",
-    "summary": "Agent skills turn procedural knowledge into reusable artifacts, allowing LLM agents to accumulate and refine expertise through experience. Building on this, skill evolution iteratively improves skills...",
-    "category": "models",
-    "id": 44
-  },
-  {
-    "title": "RAC: A Relational Agent Contract for Constraint-Governed Engineering Tasks",
-    "url": "https://arxiv.org/abs/2610.20935",
-    "source": "arXiv cs.AI",
-    "date": "2026-10-16",
-    "summary": "Engineering agents must produce artifacts that satisfy exact, coupled constraints. Existing solutions often require agents to make semantic decisions and also derive consequences such as precise geome...",
-    "category": "research",
-    "id": 45
-  },
-  {
-    "title": "MAI-Gym: An Open All-in-One Platform for GUI Agent Evaluation and RL Training across Mobile and Computer Environments",
-    "url": "https://arxiv.org/abs/2610.20939",
-    "source": "arXiv cs.AI",
-    "date": "2026-10-16",
-    "summary": "Online reinforcement learning (RL) with verifiable rewards has driven rapid progress in mathematics, coding, and tool use, but scaling this success to GUI agents remains challenging due to the high co...",
-    "category": "research",
-    "id": 46
-  },
-  {
-    "title": "LEV: Thinking Fast and Deep with Looped Decision Models",
-    "url": "https://arxiv.org/abs/2610.20951",
-    "source": "arXiv cs.AI",
-    "date": "2026-10-16",
-    "summary": "Decision models answer typed questions about an input with one probability per option, computed in a single forward pass without generating text. Like the fast System 1 of dual-process theory, they an...",
-    "category": "models",
-    "id": 47
-  },
-  {
-    "title": "StepSafe: Learning Timely Intervention with Context-Aware Safety Reasoning",
-    "url": "https://arxiv.org/abs/2610.20960",
-    "source": "arXiv cs.AI",
-    "date": "2026-10-16",
-    "summary": "Safety in agentic systems is inherently sequential: whether an action is safe depends on prior actions, tool outputs, information disclosures, and interactions among agents. Recent work has shifted ag...",
-    "category": "research",
-    "id": 48
-  },
-  {
-    "title": "MSP: Modality Self-Play for Training Multimodal LLMs Without Paired Cross-Modal Data",
-    "url": "https://arxiv.org/abs/2610.20965",
-    "source": "arXiv cs.AI",
-    "date": "2026-10-16",
-    "summary": "Large multimodal models have achieved remarkable progress by scaling model capacity and training on massive paired multimodal data. However, this paradigm introduces a fundamental bottleneck: aligned ...",
-    "category": "models",
-    "id": 49
-  },
-  {
-    "title": "Deep Reinforcement Learning for HPC Job Scheduling: A Statistical Evaluation",
-    "url": "https://arxiv.org/abs/2610.21008",
-    "source": "arXiv cs.AI",
-    "date": "2026-10-16",
-    "summary": "Deep Reinforcement Learning (DRL) offers learned job selection for High-Performance Computing (HPC), but performance against heuristics alone does not establish value beyond action masking. Six DRL tr...",
     "category": "research",
     "id": 50
   }
