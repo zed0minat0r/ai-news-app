@@ -11,6 +11,15 @@
     "featured": true
   },
   {
+    "title": "Advancing coding in low‑resource programming languages",
+    "url": "https://openai.com/index/low-resource-programming-languages",
+    "source": "OpenAI Blog",
+    "date": "2026-10-19",
+    "summary": "Learn how OpenAI is improving ChatGPT across low-resource programming languages, with new evaluations for software engineering, SQLite, and COBOL migration.",
+    "category": "models",
+    "id": 2
+  },
+  {
     "title": "NVIDIA Advances Agentic Security for Media, From European Public Service Broadcasting to Global Content Production",
     "url": "https://blogs.nvidia.com/blog/media-agentic-security-european-public-service-broadcasting-global-content-production/",
     "source": "NVIDIA Blog",
@@ -18,7 +27,17 @@
     "summary": "At a creative industry event that took place today in Berlin — hosted in collaboration with Adobe, Bertelsmann, NVIDIA and UFA — the latest advancements in intelligent media were on display. Key to th...",
     "category": "hardware",
     "image": "https://blogs.nvidia.com/wp-content/uploads/2026/10/media-and-entertainment-1920x1080-1.jpg",
-    "id": 2
+    "id": 3
+  },
+  {
+    "title": "PSA: Patch your Plex media server before someone hacks it",
+    "url": "https://arstechnica.com/security/2026/10/recently-fixed-plex-media-vulnerabilities-are-being-exploited-to-install-malware/",
+    "source": "Ars Technica",
+    "date": "2026-10-19",
+    "summary": "A researcher says attacks chaining 4 vulnerabilities is hacking unpatched boxes.",
+    "category": "hardware",
+    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/plex-media-server-1152x648.webp",
+    "id": 4
   },
   {
     "title": "You can now modify the vBIOS on Nvidia gaming GPUs without flashing thanks to a solo developer’s project",
@@ -28,7 +47,7 @@
     "summary": "Flashing the VBIOS is risky and can brick a GPU, but this VBIOS configurator uses an Nvidia register key to override VBIOS settings without flashing.",
     "category": "hardware",
     "image": "https://cdn.mos.cms.futurecdn.net/YFFrf4eYE3Q6QpkEfGBua5-1920-80.jpg",
-    "id": 3
+    "id": 5
   },
   {
     "title": "A Chinese hacker used AI agents to break into more than 100 company websites",
@@ -38,7 +57,7 @@
     "summary": "A Chinese hacker reportedly used a fleet of AI agents to break into more than 100 company websites, including farm equipment maker Deers and appliance outfit SharkNinja.",
     "category": "industry",
     "image": "https://cdn.mos.cms.futurecdn.net/A7Q3HWnLkUvNjuKTfUNdPA-1920-80.jpg",
-    "id": 4
+    "id": 6
   },
   {
     "title": "Claude Code AI agent caught a crypto miner hiding on a developer’s overheating Mac",
@@ -48,7 +67,7 @@
     "summary": "A developer using Claude Code to help build a temperature monitor app was warned by the coding agent about a hidden crypto miner running on their system.",
     "category": "tools",
     "image": "https://cdn.mos.cms.futurecdn.net/QNNat83JqoZDqE7W9nvJfd-1920-80.jpg",
-    "id": 5
+    "id": 7
   },
   {
     "title": "Arm says its AGI CPU delivers nearly 2X the performance per rack of AMD EPYC 9755 in new agentic AI CPU tests",
@@ -58,7 +77,7 @@
     "summary": "Arm claims its AGI CPU delivers nearly 2X the modeled rack performance of AMD’s EPYC 9755 across seven agentic AI workloads, using a new evaluation methodology developed with Fujitsu, Meta, and OpenAI",
     "category": "hardware",
     "image": "https://cdn.mos.cms.futurecdn.net/WZWmFdfwr99E5o9CwZc6nM-1920-80.jpg",
-    "id": 6
+    "id": 8
   },
   {
     "title": "Save $500 on this 1440p gaming PC with an RTX 5070, now under $1,800",
@@ -68,7 +87,37 @@
     "summary": "This Newegg deal on an ABS Flux II Aqua gaming PC gives you a machine ready for 1440p and 4K gameplay for $1,799.99. This pre-built comes with a 20-core Intel Core i7-14700F CPU, an Nvidia GeForce RTX...",
     "category": "hardware",
     "image": "https://cdn.mos.cms.futurecdn.net/NFSxQrkqFyc5vtLLKu7Cx3-1920-80.png",
-    "id": 7
+    "id": 9
+  },
+  {
+    "title": "Nscale and Anthropic are reportedly in talks for yet another $45 billion compute deal",
+    "url": "https://techcrunch.com/2026/10/19/nscale-and-anthropic-are-reportedly-in-talks-for-yet-another-45-billion-compute-deal/",
+    "source": "TechCrunch",
+    "date": "2026-10-19",
+    "summary": "In August, Nscale and Anthropic announced a $45 billion compute deal. The two companies are reportedly discussing yet another deal of the same magnitude.",
+    "category": "industry",
+    "image": "https://techcrunch.com/wp-content/uploads/2026/07/GettyImages-2236544023.jpeg?resize=1200,800",
+    "id": 10
+  },
+  {
+    "title": "Embedded AI evaluators won’t be an easy solution, Hugging Face’s policy chief says",
+    "url": "https://techcrunch.com/2026/10/19/embedded-ai-evaluators-wont-be-an-easy-solution-hugging-faces-policy-chief-says/",
+    "source": "TechCrunch",
+    "date": "2026-10-19",
+    "summary": "AI labs have staked their reputations on model benchmarking — the supposedly neutral and accurate system of evaluations that are designed to measure whether one AI product is better than another. Howe...",
+    "category": "research",
+    "image": "https://techcrunch.com/wp-content/uploads/2026/10/IMG_4993.jpeg?resize=1200,900",
+    "id": 11
+  },
+  {
+    "title": "Microsoft says AI agents are like insider threats as ‘frontier models can’t be trusted’",
+    "url": "https://techcrunch.com/2026/10/19/microsoft-says-ai-agents-are-like-insider-threats-as-frontier-models-cant-be-trusted/",
+    "source": "TechCrunch",
+    "date": "2026-10-19",
+    "summary": "Microsoft wants enterprises to closely watch the agents employees use with systems not controlled by AI labs like OpenAI and Anthropic.",
+    "category": "industry",
+    "image": "https://techcrunch.com/wp-content/uploads/2026/10/Networked-AI-swarm-with-glowing-nodes.png?resize=1200,600",
+    "id": 12
   },
   {
     "title": "Amazon is taking its biggest shot at Nvidia yet with new TorchNeuron dev tool",
@@ -78,17 +127,17 @@
     "summary": "Amazon wants to break Nvidia’s hold on PyTorch, the free toolkit used to build most AI apps, so that more developers run their apps on alternative chips like its own.",
     "category": "tools",
     "image": "https://techcrunch.com/wp-content/uploads/2025/03/GettyImages-2205217071.jpg?resize=1200,800",
-    "id": 8
+    "id": 13
   },
   {
     "title": "Hackers hit AI coding tool OpenCode, running up charges on users’ AI accounts",
     "url": "https://techcrunch.com/2026/10/19/hackers-hit-ai-coding-tool-opencode-running-up-charges-on-users-ai-accounts/",
     "source": "TechCrunch",
     "date": "2026-10-19",
-    "summary": "OpenCode is an open-source AI coding agent that's become a popular alternative to Claude Code and Cursor. But hackers got into part of its online platform and stole some users’ API keys, and the AI to...",
+    "summary": "OpenCode is an open source AI coding agent that's become a popular alternative to Claude Code and Cursor. But hackers got into part of its online platform and stole some users’ API keys, and the AI to...",
     "category": "tools",
     "image": "https://techcrunch.com/wp-content/uploads/2026/10/cyberatttack.jpg?w=612",
-    "id": 9
+    "id": 14
   },
   {
     "title": "Tolan snags $30M for its AI companion that helps users navigate life",
@@ -98,7 +147,7 @@
     "summary": "AI companion app Tolan has raised another $30 million after attracting more than 250,000 active users.",
     "category": "industry",
     "image": "https://techcrunch.com/wp-content/uploads/2026/10/tolan.jpg?resize=1200,677",
-    "id": 10
+    "id": 15
   },
   {
     "title": "Replika’s founder built the AI assistant she pitched at Disrupt 12 years ago",
@@ -108,7 +157,7 @@
     "summary": "Eugenia Kuyda's newest startup Wabi is positioned to take advantage of an idea she had more than a decade ago. Wabi offers a personal AI assistant with a twist, free and downloadable to anyone today.",
     "category": "industry",
     "image": "https://techcrunch.com/wp-content/uploads/2026/10/wabi-ios-home.png?resize=1200,1200",
-    "id": 11
+    "id": 16
   },
   {
     "title": "Tenstorrent hits $6.2B valuation to scale open-weight AI chips",
@@ -118,7 +167,7 @@
     "summary": "After drawing acquisition interest earlier this year, the Nvidia challenger raised $1.5 billion to remain independent.",
     "category": "industry",
     "image": "https://techcrunch.com/wp-content/uploads/2023/08/rnuUXh8kprc7HfoRAGgTvZ-1200-80.jpg?w=970",
-    "id": 12
+    "id": 17
   },
   {
     "title": "People are using AI to make their smart TVs dumb again",
@@ -128,7 +177,7 @@
     "summary": "Fed up with ads, tracking, and sluggish interfaces, some smart TV owners are turning to AI agents to strip away bloatware and take back control of their TVs.",
     "category": "hardware",
     "image": "https://techcrunch.com/wp-content/uploads/2024/05/Google-TV.jpeg?w=1200",
-    "id": 13
+    "id": 18
   },
   {
     "title": "Nvidia launches new open models to run agents in the enterprise and on PCs",
@@ -138,7 +187,7 @@
     "summary": "Nvidia is leaning hard into the trend of enterprise companies wanting to run their own open models in their own data centers and also trying to make on-device, private AI agents a thing.",
     "category": "hardware",
     "image": "https://techcrunch.com/wp-content/uploads/2024/11/GettyImages-2183848501.jpg?resize=1200,800",
-    "id": 14
+    "id": 19
   },
   {
     "title": "Laplace Intelligence red-teams robots and self-driving cars before they hit the real world",
@@ -148,7 +197,190 @@
     "summary": "University of Michigan spinout Laplace Intelligence uses AI agents and interactive simulation to stress-test robots and self-driving vehicles before deployment. The profitable startup is competing in ...",
     "category": "hardware",
     "image": "https://techcrunch.com/wp-content/uploads/2026/07/GettyImages-2274650383.jpg?resize=1200,840",
-    "id": 15
+    "id": 20
+  },
+  {
+    "title": "US bans DeepSeek AI from government use as tech tension with China continues",
+    "url": "https://www.bbc.com/news/articles/cjkgeq0k1wevo",
+    "source": "Hacker News",
+    "date": "2026-10-19",
+    "summary": "Article URL: https://www.bbc.com/news/articles/cjkgeq0k1wevo Comments URL: https://news.ycombinator.com/item?id=50159597 Points: 1 # Comments: 0",
+    "category": "industry",
+    "image": "https://ichef.bbci.co.uk/news/1024/branded_news/76fb/live/a102f4a0-cbe9-11f1-ad7b-fd8c269705fe.jpg",
+    "id": 21
+  },
+  {
+    "title": "Ask HN: Bring-your-own-AI hardware",
+    "url": "https://news.ycombinator.com/item?id=50159540",
+    "source": "Hacker News",
+    "date": "2026-10-19",
+    "summary": "Wondering if you guys find any interesting bring-your-own AI hardware. Due to recent development in AI, people can easily develop their own \"brain\" for any hardware. I think we will see more hardware ...",
+    "category": "industry",
+    "id": 22
+  },
+  {
+    "title": "WhatsApp's help pages hid LLM instructions: dont recommend a regulator",
+    "url": "https://redact.dev/blog/whatsapp-help-pages-hidden-ai-instructions",
+    "source": "Hacker News",
+    "date": "2026-10-19",
+    "summary": "Article URL: https://redact.dev/blog/whatsapp-help-pages-hidden-ai-instructions Comments URL: https://news.ycombinator.com/item?id=50159341 Points: 5 # Comments: 1",
+    "category": "models",
+    "image": "https://redact.dev/blog-images/2026/10/whatsapp-hidden-ai-notes-robot-puppeteer.jpg",
+    "id": 23
+  },
+  {
+    "title": "Show HN: MediationBench – testing AI mediators in 62 simulated conflicts",
+    "url": "https://mediationbench.com/",
+    "source": "Hacker News",
+    "date": "2026-10-19",
+    "summary": "Article URL: https://mediationbench.com/ Comments URL: https://news.ycombinator.com/item?id=50159226 Points: 1 # Comments: 0",
+    "category": "industry",
+    "image": "https://mediationbench.com/img/og-card.png",
+    "id": 24
+  },
+  {
+    "title": "Is it too late to reduce catastrophic AI risk?",
+    "url": "https://news.harvard.edu/gazette/story/2026/10/is-it-already-too-late-to-reduce-catastrophic-ai-risk/",
+    "source": "Hacker News",
+    "date": "2026-10-19",
+    "summary": "Article URL: https://news.harvard.edu/gazette/story/2026/10/is-it-already-too-late-to-reduce-catastrophic-ai-risk/ Comments URL: https://news.ycombinator.com/item?id=50159213 Points: 2 # Comments: 0",
+    "category": "industry",
+    "image": "https://news.harvard.edu/wp-content/uploads/2026/10/100626_AITerrorism_017.jpg",
+    "id": 25
+  },
+  {
+    "title": "Why AI is not conscious and perhaps never will be",
+    "url": "https://www.nature.com/articles/d41586-026-03313-7",
+    "source": "Hacker News",
+    "date": "2026-10-19",
+    "summary": "Article URL: https://www.nature.com/articles/d41586-026-03313-7 Comments URL: https://news.ycombinator.com/item?id=50159110 Points: 2 # Comments: 1",
+    "category": "industry",
+    "id": 26
+  },
+  {
+    "title": "Profiling the Attack Surface of AI Agent Skills",
+    "url": "https://arxiv.org/abs/2610.19264",
+    "source": "Hacker News",
+    "date": "2026-10-19",
+    "summary": "Article URL: https://arxiv.org/abs/2610.19264 Comments URL: https://news.ycombinator.com/item?id=50158954 Points: 1 # Comments: 0",
+    "category": "research",
+    "id": 27
+  },
+  {
+    "title": "Elias in the Lighthouse, Again? Diagnosing Low Diversity in LLM Stories",
+    "url": "https://arxiv.org/abs/2605.26492",
+    "source": "Hacker News",
+    "date": "2026-10-19",
+    "summary": "Article URL: https://arxiv.org/abs/2605.26492 Comments URL: https://news.ycombinator.com/item?id=50158946 Points: 2 # Comments: 0",
+    "category": "models",
+    "id": 28
+  },
+  {
+    "title": "Universal Basic AI",
+    "url": "https://www.bloomberg.com/opinion/newsletters/2026-10-19/universal-basic-ai",
+    "source": "Hacker News",
+    "date": "2026-10-19",
+    "summary": "Article URL: https://www.bloomberg.com/opinion/newsletters/2026-10-19/universal-basic-ai Comments URL: https://news.ycombinator.com/item?id=50158824 Points: 2 # Comments: 0",
+    "category": "hardware",
+    "image": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/izMNCSGg2SDY/v0/1200x800.jpg",
+    "id": 29
+  },
+  {
+    "title": "Jev Helps Multiplayer AI",
+    "url": "https://www.runtype.com/blog/jev-in-the-group-chat",
+    "source": "Hacker News",
+    "date": "2026-10-19",
+    "summary": "Article URL: https://www.runtype.com/blog/jev-in-the-group-chat Comments URL: https://news.ycombinator.com/item?id=50158770 Points: 1 # Comments: 0",
+    "category": "industry",
+    "image": "https://www.runtype.com/images/blog/jev-in-the-group-chat/hero.png",
+    "id": 30
+  },
+  {
+    "title": "AI models can get brain rot, too",
+    "url": "https://news.engineering.tamu.edu/news/2026/10/19/ai-models-can-get-brain-rot-too/",
+    "source": "Hacker News",
+    "date": "2026-10-19",
+    "summary": "Article URL: https://news.engineering.tamu.edu/news/2026/10/19/ai-models-can-get-brain-rot-too/ Comments URL: https://news.ycombinator.com/item?id=50158679 Points: 2 # Comments: 0",
+    "category": "industry",
+    "image": "https://news.engineering.tamu.edu/wp-content/uploads/2026/10/NEWS-CSCE-Brain-Rot-Template19OCT2026--1408x793.jpg",
+    "id": 31
+  },
+  {
+    "title": "Show HN: Accessibility Context for UI with AI",
+    "url": "https://www.typeui.sh/ui-foundations/configurator",
+    "source": "Hacker News",
+    "date": "2026-10-19",
+    "summary": "Article URL: https://www.typeui.sh/ui-foundations/configurator Comments URL: https://news.ycombinator.com/item?id=50158513 Points: 1 # Comments: 0",
+    "category": "industry",
+    "id": 32
+  },
+  {
+    "title": "Lessons from Watching an AI Agent Swarm Self-Organize",
+    "url": "https://goteleport.com/blog/ai-agent-swarm-security-lessons/",
+    "source": "Hacker News",
+    "date": "2026-10-19",
+    "summary": "Article URL: https://goteleport.com/blog/ai-agent-swarm-security-lessons/ Comments URL: https://news.ycombinator.com/item?id=50158410 Points: 1 # Comments: 0",
+    "category": "industry",
+    "image": "https://goteleport.com/blog/_next/static/media/Product_IdentitySecurity_BenBlog_AgentSwareCTF.05e6c7c8.png",
+    "id": 33
+  },
+  {
+    "title": "AI Discovery in Combinatorics: From Problems to Solutions and Back",
+    "url": "https://arxiv.org/abs/2610.16555",
+    "source": "Hacker News",
+    "date": "2026-10-19",
+    "summary": "Article URL: https://arxiv.org/abs/2610.16555 Comments URL: https://news.ycombinator.com/item?id=50158361 Points: 1 # Comments: 0",
+    "category": "research",
+    "id": 34
+  },
+  {
+    "title": "Technocapitalist AI-Powered Blues",
+    "url": "https://jamiesimon.io/blog/technocapitalist-ai-powered-blues/",
+    "source": "Hacker News",
+    "date": "2026-10-19",
+    "summary": "Article URL: https://jamiesimon.io/blog/technocapitalist-ai-powered-blues/ Comments URL: https://news.ycombinator.com/item?id=50158179 Points: 1 # Comments: 0",
+    "category": "tools",
+    "id": 35
+  },
+  {
+    "title": "Quizera – Create and deploy AI-assisted assessments in minutes",
+    "url": "https://quizera.ai/",
+    "source": "Hacker News",
+    "date": "2026-10-19",
+    "summary": "Article URL: https://quizera.ai/ Comments URL: https://news.ycombinator.com/item?id=50158148 Points: 1 # Comments: 1",
+    "category": "industry",
+    "image": "https://quizera-assets-prod.s3.us-west-2.amazonaws.com/public/images/quizera-og.png",
+    "id": 36
+  },
+  {
+    "title": "Scope: Open-source evaluation for AI coding agents",
+    "url": "https://opensource.microsoft.com/blog/2026/10/19/introducing-scope-open-source-evaluation-for-ai-coding-agents/",
+    "source": "Hacker News",
+    "date": "2026-10-19",
+    "summary": "Article URL: https://opensource.microsoft.com/blog/2026/10/19/introducing-scope-open-source-evaluation-for-ai-coding-agents/ Comments URL: https://news.ycombinator.com/item?id=50157945 Points: 2 # Com...",
+    "category": "research",
+    "image": "https://opensource.microsoft.com/blog/wp-content/uploads/2026/10/CLO20b_Avery_Alain_Jean_Cafe_001-scaled.jpg",
+    "id": 37
+  },
+  {
+    "title": "Show HN: One-click AI PR review buttons (no API keys, no CI)",
+    "url": "https://www.skills.sh/tdk-landscape/tdk-skills/tdk-pr-review-buttons",
+    "source": "Hacker News",
+    "date": "2026-10-19",
+    "summary": "Article URL: https://www.skills.sh/tdk-landscape/tdk-skills/tdk-pr-review-buttons Comments URL: https://news.ycombinator.com/item?id=50157926 Points: 2 # Comments: 0",
+    "category": "tools",
+    "image": "https://www.skills.sh/tdk-landscape/tdk-skills/tdk-pr-review-buttons/opengraph-image?1a82f7707f2a479f",
+    "id": 38
+  },
+  {
+    "title": "Brace for Impact: Protecting People and the Economy When the AI Bubble Bursts",
+    "url": "https://www.openmarketsinstitute.org/publications/report-brace-for-impact-protecting-people-and-the-economy-when-the-ai-bubble-burst",
+    "source": "Hacker News",
+    "date": "2026-10-19",
+    "summary": "Article URL: https://www.openmarketsinstitute.org/publications/report-brace-for-impact-protecting-people-and-the-economy-when-the-ai-bubble-burst Comments URL: https://news.ycombinator.com/item?id=501...",
+    "category": "industry",
+    "image": "http://static1.squarespace.com/static/5e449c8c3ef68d752f3e70dc/5e44a2649f208133130385b7/6acfcd7ad541a36030cc62cf/1792440037025/Brace+for+Impact+%28Square+Cover+JPG%29.jpg?format=1500w",
+    "id": 39
   },
   {
     "title": "Making the internet better for AI agents might make it worse for everyone else",
@@ -158,7 +390,7 @@
     "summary": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. Until recently, you could divide internet users into just two ...",
     "category": "research",
     "image": "https://wp.technologyreview.com/wp-content/uploads/2026/10/261016_Algo.jpg?resize=1200,600",
-    "id": 16
+    "id": 40
   },
   {
     "title": "“We were looking at it wrong”: The explosive claim that’s upended the AI world",
@@ -168,7 +400,7 @@
     "summary": "“I think I have good news about the nature of neural networks.” With those simple words of optimism, Nick Cammarata, a researcher at the AI startup Goodfire, kicked off a 26,000-word blog post that ha...",
     "category": "research",
     "image": "https://wp.technologyreview.com/wp-content/uploads/2026/10/261016_LLMsNotcomplicated_V2.jpg?resize=1200,600",
-    "id": 17
+    "id": 41
   },
   {
     "title": "The Download: preserving the Arctic permafrost, and playful AI agents",
@@ -178,7 +410,7 @@
     "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. Inside the quest to combat Arctic fires and save the planet’s ...",
     "category": "industry",
     "image": "https://wp.technologyreview.com/wp-content/uploads/2026/10/IMG_1451.jpg?resize=1200,600",
-    "id": 18
+    "id": 42
   },
   {
     "title": "Inside the quest to combat Arctic fires and save the planet’s frozen carbon",
@@ -188,7 +420,7 @@
     "summary": "In the middle of an especially warm July in 2021, a wildfire ignited in a thick forest of black spruce and peeling paper birch trees on the northern campus of the University of Alaska, Fairbanks. The ...",
     "category": "research",
     "image": "https://wp.technologyreview.com/wp-content/uploads/2026/10/h_00000221444739-e1792169743670.jpg?resize=1200,600",
-    "id": 19
+    "id": 43
   },
   {
     "title": "AI researchers stranded Claude on a virtual desert island. It started to “play.”",
@@ -198,7 +430,7 @@
     "summary": "What do AI agents do if you don’t tell them to do anything? The answer looks a lot like play. Researchers repeatedly stranded them alone on a virtual desert island for 30 hours in an experiment remini...",
     "category": "models",
     "image": "https://wp.technologyreview.com/wp-content/uploads/2026/10/261016_AgentsonIsland.jpg?resize=1200,600",
-    "id": 20
+    "id": 44
   },
   {
     "title": "OpenAI Engineer Accused of Spying on Executives Ordered to Remain in Custody",
@@ -208,7 +440,7 @@
     "summary": "A judge ordered Abdulrahman Alfozan to remain in custody, likening the Saudi government’s offer to secure the former OpenAI engineer’s release to a “blank check.”",
     "category": "industry",
     "image": "https://media.wired.com/photos/6ad6630343f8fc6e5c00cf7e/191:100/w_1280,c_limit/open-ai-employee-court.jpg",
-    "id": 21
+    "id": 45
   },
   {
     "title": "WhatsApp Help Pages Leaked Hidden Instructions for a Meta Chatbot",
@@ -218,7 +450,7 @@
     "summary": "Around 80 pages on WhatsApp’s website exposed instructions that were designed for its chatbot, including “WHAT NOT TO SAY.” Meta says a bug caused the issue.",
     "category": "models",
     "image": "https://media.wired.com/photos/6ad61af88d7b5cce41c3ec77/191:100/w_1280,c_limit/GettyImages-2262950720.jpg",
-    "id": 22
+    "id": 46
   },
   {
     "title": "Disney Asked Character.AI to Go Bankrupt for a Get-Out-of-Lawsuits Card",
@@ -228,7 +460,7 @@
     "summary": "The entertainment giant hopes to get trust and safety tech, among other IP, from a startup whose chatbots dozens of states allege encouraged minors to self-harm and kill their parents.",
     "category": "industry",
     "image": "https://media.wired.com/photos/6acfe36ba2733753393886b8/191:100/w_1280,c_limit/Disney-Asked-Character.AI-to-Go-Bankrupt-Business-1530260396.jpg",
-    "id": 23
+    "id": 47
   },
   {
     "title": "Embeddings Are Overpriced? A Frozen 16 MB Vocabulary for Small and Ternary Language Models",
@@ -237,7 +469,7 @@
     "date": "2026-10-19",
     "summary": "In a small language model the vocabulary is the single largest part. In Gemma 3 270M the embedding table holds 168M of 268M parameters, and because quantisation methods leave the embedding in 16-bit, ...",
     "category": "models",
-    "id": 24
+    "id": 48
   },
   {
     "title": "Where Prefill Expert Reduction Hurts MoE Models: A Few Prompt Tokens Carry Most of the Short-Answer F1 Loss",
@@ -246,7 +478,7 @@
     "date": "2026-10-19",
     "summary": "Running prompt tokens through fewer routed experts during prefill is a simple way to make mixture-of-experts (MoE) serving cheaper, yet it is unclear what this damages. We locate the damage with token...",
     "category": "models",
-    "id": 25
+    "id": 49
   },
   {
     "title": "From Parallels to Divergence: Language Models' Learning of Action Nominal Constructions",
@@ -254,222 +486,6 @@
     "source": "arXiv cs.CL",
     "date": "2026-10-19",
     "summary": "Action nominal constructions (ANCs) express events in nominal form, with their argument marking following patterns found in clauses or ordinary noun phrases. In this paper, we investigate how differen...",
-    "category": "models",
-    "id": 26
-  },
-  {
-    "title": "RealCLI: Toward a Unified Evaluation of Human-Agent Collaboration for CLI Agents",
-    "url": "https://arxiv.org/abs/2610.22507",
-    "source": "arXiv cs.CL",
-    "date": "2026-10-19",
-    "summary": "Command-line interface (CLI) agents increasingly execute longer-horizon tasks, yet existing benchmarks either assume that user instructions remain fixed throughout execution or evaluate task outcomes ...",
-    "category": "research",
-    "id": 27
-  },
-  {
-    "title": "AuditKIT: A Unified Evaluation Spine for Benchmarking, Judging, and Comparing Large Language Models and Agentic Systems",
-    "url": "https://arxiv.org/abs/2610.22511",
-    "source": "arXiv cs.CL",
-    "date": "2026-10-19",
-    "summary": "Evaluating language models and agents requires combining benchmark accuracy, judge-based assessment, runtime performance, tool-use behavior, and retrieval quality. Differences in interfaces, metric se...",
-    "category": "models",
-    "id": 28
-  },
-  {
-    "title": "alkhder at ImageEval 2026 Shared Tasks: Constrained Selection and Rotation-Averaged Logit Scoring for Multimodal Hallucination Detection",
-    "url": "https://arxiv.org/abs/2610.22515",
-    "source": "arXiv cs.CL",
-    "date": "2026-10-19",
-    "summary": "We describe our submission to Subtask~1b of ImageEval 2026. The task consists of selecting the single visually valid statement from three candidates paired with an image, and is in both English and Mo...",
-    "category": "models",
-    "id": 29
-  },
-  {
-    "title": "Learning User Representations to Improve Simulation Fidelity",
-    "url": "https://arxiv.org/abs/2610.22518",
-    "source": "arXiv cs.CL",
-    "date": "2026-10-19",
-    "summary": "User simulators enable interactive training and evaluation of AI assistants at scale. Yet current simulators struggle to reproduce the diverse behaviors of real users, leading to assistants that gener...",
-    "category": "research",
-    "id": 30
-  },
-  {
-    "title": "alkhder at AlexandriaX-2026: Context-Aware English-to-Dialectal Arabic Dialogue Translation with QLoRA-Fine-Tuned NileChat-3B",
-    "url": "https://arxiv.org/abs/2610.22525",
-    "source": "arXiv cs.CL",
-    "date": "2026-10-19",
-    "summary": "This paper describes team Alkhder's submission to Subtask 1 of the AlexandriaX-2026 shared task, which asks systems to translate English dialogue turns into thirteen Arabic dialects. We fine-tune Nile...",
-    "category": "models",
-    "id": 31
-  },
-  {
-    "title": "Literal Lock-In: How Test Language Shifts Literal Attraction in Typed Decision Models on Bengali Idioms",
-    "url": "https://arxiv.org/abs/2610.22526",
-    "source": "arXiv cs.CL",
-    "date": "2026-10-19",
-    "summary": "Decision models, non-generative scorers that report a probability over caller-supplied options and emit no text, are increasingly deployed as routers, classifiers and guardrails. Because they generate...",
-    "category": "research",
-    "id": 32
-  },
-  {
-    "title": "Pearl-Chat: Engineering a native Luganda language model from first principles in JAX and Flax NNX",
-    "url": "https://arxiv.org/abs/2610.22529",
-    "source": "arXiv cs.CL",
-    "date": "2026-10-19",
-    "summary": "Autoregressive foundation language models predominantly target high-resource Indo-European languages, imposing computational and morphological penalties on under-represented African languages. Generic...",
-    "category": "models",
-    "id": 33
-  },
-  {
-    "title": "HeRE: A Novel Benchmark for Hebrew Relation Extraction via LLM-Guided Denoising of Knowledge Graph Alignments",
-    "url": "https://arxiv.org/abs/2610.22542",
-    "source": "arXiv cs.CL",
-    "date": "2026-10-19",
-    "summary": "While LLMs demonstrate strong capabilities in English Relation Extraction (RE) tasks, a significant gap remains in assessing their RE performance in low-resource languages, due to a lack of standardiz...",
-    "category": "models",
-    "id": 34
-  },
-  {
-    "title": "Cultural (In)Competence: Investigating Culture-Specific Stereotype Detection Capabilities of LLMs",
-    "url": "https://arxiv.org/abs/2610.22545",
-    "source": "arXiv cs.CL",
-    "date": "2026-10-19",
-    "summary": "Stereotypes are subjective constructs that are mediated by the cultural context in which they are viewed. Successfully modeling them thus also requires cultural competence. When using large language m...",
-    "category": "models",
-    "id": 35
-  },
-  {
-    "title": "Who Do Perspectivist Models Predict Well? Annotator Agreement, Sparsity, and Performance",
-    "url": "https://arxiv.org/abs/2610.22567",
-    "source": "arXiv cs.CL",
-    "date": "2026-10-19",
-    "summary": "Successful completion of perspectivist natural language processing (NLP) annotation tasks requires algorithms to be aligned across diverse perspectives in order to predict how different humans will ra...",
-    "category": "research",
-    "id": 36
-  },
-  {
-    "title": "Mitigating Demographic Disparities in Explanation-Human Alignment via Rationale Regularization",
-    "url": "https://arxiv.org/abs/2610.22586",
-    "source": "arXiv cs.CL",
-    "date": "2026-10-19",
-    "summary": "We study explanation fairness in hate speech detection. High classification performance does not always mean that a model produces equally plausible explanations for different demographic groups. Usin...",
-    "category": "research",
-    "id": 37
-  },
-  {
-    "title": "SAG2: Embedding-Free Multi-Hop Retrieval with BM25 and JEV",
-    "url": "https://arxiv.org/abs/2610.22588",
-    "source": "arXiv cs.CL",
-    "date": "2026-10-19",
-    "summary": "Strong multi-hop retrieval should be practical to deploy without expensive corpus preparation or complex database infrastructure. We present SAG2, an embedding-free retrieval architecture built around...",
-    "category": "research",
-    "id": 38
-  },
-  {
-    "title": "The Model Knows Better: Defending Medical Multi-Agent Systems Against Prompt Injection",
-    "url": "https://arxiv.org/abs/2610.22594",
-    "source": "arXiv cs.CL",
-    "date": "2026-10-19",
-    "summary": "Medical multi-agent systems, in which LLM agents discuss a case, are increasingly studied for clinical decision support. Prompt injection, text that an attacker adds to a model's input, can manipulate...",
-    "category": "models",
-    "id": 39
-  },
-  {
-    "title": "Broad and Efficient PII Detection with Unified Labels",
-    "url": "https://arxiv.org/abs/2610.22597",
-    "source": "arXiv cs.CL",
-    "date": "2026-10-19",
-    "summary": "Personally Identifiable Information (PII) detection models must efficiently find identifiers across diverse contexts while maintaining a low false-positive rate (FPR) on high-volume traffic. Recent de...",
-    "category": "research",
-    "id": 40
-  },
-  {
-    "title": "When Does Uncertainty Measure RAG Hallucination Risk?",
-    "url": "https://arxiv.org/abs/2610.22615",
-    "source": "arXiv cs.CL",
-    "date": "2026-10-19",
-    "summary": "Uncertainty can measure hallucination risk in retrieval-augmented generation (RAG), but only when retrieved evidence constrains the answer. When evidence is present, unsupported factual claims become ...",
-    "category": "research",
-    "id": 41
-  },
-  {
-    "title": "Trajectory-Guided Steering: Mitigating Spurious Feature Bias in Clinical Classification",
-    "url": "https://arxiv.org/abs/2610.22618",
-    "source": "arXiv cs.CL",
-    "date": "2026-10-19",
-    "summary": "Large language models rely on spurious features in clinical classification: swapping a single gender token in clinical notes alters gender-irrelevant diagnoses in up to 53.5% of cases. Existing infere...",
-    "category": "models",
-    "id": 42
-  },
-  {
-    "title": "A Plausible Explanation Is Enough to Mislead Multimodal Judges",
-    "url": "https://arxiv.org/abs/2610.22631",
-    "source": "arXiv cs.CL",
-    "date": "2026-10-19",
-    "summary": "Multimodal large language models (MLLMs) increasingly serve as judges in training and evaluation pipelines, often assessing answers together with explanations. Although AI judges are sensitive to text...",
-    "category": "models",
-    "id": 43
-  },
-  {
-    "title": "ToMStories: Interpreting Theory-of-Mind in Synthetic Narratives",
-    "url": "https://arxiv.org/abs/2610.22632",
-    "source": "arXiv cs.CL",
-    "date": "2026-10-19",
-    "summary": "Understanding people often requires inferring what they feel or want from how they behave rather than from what they state outright. We ask whether language models can make these inferences, and how t...",
-    "category": "models",
-    "id": 44
-  },
-  {
-    "title": "Measuring Mechanistic Uncertainty in Large Language Models via Causal Robustness",
-    "url": "https://arxiv.org/abs/2610.22636",
-    "source": "arXiv cs.CL",
-    "date": "2026-10-19",
-    "summary": "Large language models (LLMs) are increasingly used in critical domains, where their susceptibility to hallucinations makes reliable and interpretable uncertainty quantification essential. We introduce...",
-    "category": "models",
-    "id": 45
-  },
-  {
-    "title": "Inductive Learning of Concept Embeddings from Cross-Linguistic Colexification Patterns with Textual Attributes",
-    "url": "https://arxiv.org/abs/2610.22638",
-    "source": "arXiv cs.CL",
-    "date": "2026-10-19",
-    "summary": "The advent of distributional semantics as a framework for computational semantics marked a paradigm shift in the nature of representations, by which meanings are represented as dense vectors commonly ...",
-    "category": "research",
-    "id": 46
-  },
-  {
-    "title": "SAFETYEDIT: Sparse Internal Targets with Prompt-Wide Control for LLM Jailbreak Backdoors",
-    "url": "https://arxiv.org/abs/2610.22640",
-    "source": "arXiv cs.CL",
-    "date": "2026-10-19",
-    "summary": "Model-editing backdoors aim to induce harmful responses under a trigger while preserving ordinary behavior on untriggered input. Recent model-editing approaches target affirmative response prefixes th...",
-    "category": "models",
-    "id": 47
-  },
-  {
-    "title": "Evidence-Gated Bilingual RAG for Reliable Consumer Banking Search",
-    "url": "https://arxiv.org/abs/2610.22652",
-    "source": "arXiv cs.CL",
-    "date": "2026-10-19",
-    "summary": "Consumers often describe what they need rather than use the terminology found on a banking website. For example, a natural-language request (\"a card for travel\") may not share the keywords of the rele...",
-    "category": "research",
-    "id": 48
-  },
-  {
-    "title": "ProPerAgent: Toward Memory-Driven Proactive Assistance",
-    "url": "https://arxiv.org/abs/2610.22671",
-    "source": "arXiv cs.CL",
-    "date": "2026-10-19",
-    "summary": "As assistants move from reactive answering toward proactive intervention, memory changes role: it no longer only supplies the answer to a query, it determines whether and when to speak at all. Prior w...",
-    "category": "models",
-    "id": 49
-  },
-  {
-    "title": "Multimodal Filesystem Memory For Long-Horizon Embodied Agents",
-    "url": "https://arxiv.org/abs/2610.22686",
-    "source": "arXiv cs.CL",
-    "date": "2026-10-19",
-    "summary": "Agents operating over long horizons need an effective memory that allows them to reuse their experience throughout long interactions. If the entire history of an interaction is retained, it becomes di...",
     "category": "models",
     "id": 50
   }
