@@ -11,14 +11,42 @@
     "featured": true
   },
   {
-    "title": "Mysterious AMD Zen 6 APU with 24GB of LPDDR5 memory appears in benchmarks — chip may be for next-gen Steam Deck or gaming handhelds",
+    "title": "OpenAI acquires Orchestra Bio",
+    "url": "https://openai.com/index/openai-to-acquire-orchestra-bio",
+    "source": "OpenAI Blog",
+    "date": "2026-10-20",
+    "summary": "OpenAI is acquiring Orchestra Bio to bring AI-powered operations to life sciences R&D, helping biopharma teams accelerate drug development and advance new treatments.",
+    "category": "industry",
+    "id": 2
+  },
+  {
+    "title": "Franchisee reconciles cash in 94% less time with ChatGPT Work",
+    "url": "https://openai.com/index/ted-taylor-restaurant",
+    "source": "OpenAI Blog",
+    "date": "2026-10-20",
+    "summary": "An independent Schlotzsky’s and Cinnabon franchisee cut menu repricing time by 95% and built a workflow that could free up $100K in cash flow.",
+    "category": "models",
+    "id": 3
+  },
+  {
+    "title": "AMD's FSR 4.1 now works on Radeon RX 6000 cards, Xbox Series X and S, and Ryzen AI Max, AI 9, and Z2 SoCs",
+    "url": "https://www.tomshardware.com/pc-components/gpu-drivers/amds-fsr-4-1-now-works-on-radeon-rx-6000-gpus-xbox-series-x-and-s-and-ryzen-ai-max-ai-9-and-z2-socs-new-release-brings-cutting-edge-tech-to-older-hardware-with-a-small-performance-cost",
+    "source": "Tom's Hardware",
+    "date": "2026-10-20",
+    "summary": "AMD has released a version of its cutting-edge FSR 4.1 upscaler that now works on Radeon RX 6000 GPUs, Xbox Series X and Series S consoles, and Ryzen AI Max, AI 9, and Z2 chips.",
+    "category": "hardware",
+    "image": "https://cdn.mos.cms.futurecdn.net/FKEfLV3WiguWYAz37vRmyW-1920-80.png",
+    "id": 4
+  },
+  {
+    "title": "Mysterious AMD Zen 6 APU with 24GB of LPDDR5 memory appears in benchmarks",
     "url": "https://www.tomshardware.com/pc-components/cpus/mysterious-amd-zen-6-apu-with-24gb-of-lpddr5-memory-appears-in-benchmarks-chip-may-be-for-next-gen-steam-deck-or-gaming-handhelds",
     "source": "Tom's Hardware",
     "date": "2026-10-20",
     "summary": "The engineering sample features six CPU cores, 24GB of LPDDR5 memory running at 9,600 MT/s, and an integrated GPU clocked at 2.4 GHz, although its connection to a future Steam Deck remains unconfirmed...",
     "category": "hardware",
     "image": "https://cdn.mos.cms.futurecdn.net/F2eBRdr2oBGZeuWJZ9qPYQ-1920-80.jpg",
-    "id": 2
+    "id": 5
   },
   {
     "title": "U.S. Army developing program that would deploy AI agents to autonomously seek and destroy targets in enemy digital infrastructures",
@@ -28,7 +56,7 @@
     "summary": "The U.S. Army is developing a program to deploy autonomous AI agents that can navigate digital and network infrastructures, identify targets, and “neutralize” them.",
     "category": "industry",
     "image": "https://cdn.mos.cms.futurecdn.net/HGtGAPrJEdQs4vEjEa2p98-1920-80.jpg",
-    "id": 3
+    "id": 6
   },
   {
     "title": "US restarts three shut-down nuclear reactors to feed AI data centers",
@@ -38,7 +66,7 @@
     "summary": "The U.S. government is helping fund projects to bring nuclear reactors back online in an attempt to provide more energy capacity to AI data centers.",
     "category": "hardware",
     "image": "https://cdn.mos.cms.futurecdn.net/LcooCRpkUqJsx2v5ieXJcZ-1920-80.jpg",
-    "id": 4
+    "id": 7
   },
   {
     "title": "Oblivion gamer uses Claude AI to boost average FPS gains up to 48%, stutters slashed by 90%",
@@ -48,7 +76,7 @@
     "summary": "The new Oblivion Remastered Performance Fix mod is a pure code fix, with no changes to game assets or the game's visuals, yet it offers massive gains.",
     "category": "models",
     "image": "https://cdn.mos.cms.futurecdn.net/jZKXZNanDyqWYzFxNBfimL-1920-80.jpg",
-    "id": 5
+    "id": 8
   },
   {
     "title": "China’s tech giants drop $35 billion on export-compliant Nvidia RTX Pro 5500 workstation GPU orders to power AI ambitions, according to reports",
@@ -58,7 +86,7 @@
     "summary": "$35 billion worth of Nvidia RTX Pro 5500 GPUs have been bought by Chinese trio Tencent, Alibaba and ByteDance, with demand far exceeding Nvidia's planned production, according to report.",
     "category": "hardware",
     "image": "https://cdn.mos.cms.futurecdn.net/ZQ7uixLax7MyxKpVHFVxEC-1920-80.jpg",
-    "id": 6
+    "id": 9
   },
   {
     "title": "Modal taps Nvidia Vera CPUs after firm's internal tests show 2x throughput over Intel and AMD chips",
@@ -68,7 +96,7 @@
     "summary": "Nvidia's Vera CPU delivers twice the performance of Intel and AMD chips in AI agent workloads, Modal claims.",
     "category": "hardware",
     "image": "https://cdn.mos.cms.futurecdn.net/vnqdtRupVqWHAik43ZWctH-1920-80.jpg",
-    "id": 7
+    "id": 10
   },
   {
     "title": "Intel asks FCC for waiver to buy foreign robots",
@@ -78,7 +106,7 @@
     "summary": "Intel is concerned that the sweeping ban on foreign-made robots means that it could not update or maintain its fleet of AGVs.",
     "category": "hardware",
     "image": "https://cdn.mos.cms.futurecdn.net/qMfEcWXZUKrABwGqtRncud-1920-80.png",
-    "id": 8
+    "id": 11
   },
   {
     "title": "Windows 98 SE users get a Thunderbolt 4 driver, thanks to AI assistance",
@@ -88,7 +116,7 @@
     "summary": "Windows 98 devotees now have (experimental) support for USB4 and Thunderbolt 3/4. Vibe coded driver also supports Windows Me, XP, Vista, and 7.",
     "category": "industry",
     "image": "https://cdn.mos.cms.futurecdn.net/NoWyHSrvf9AM6sJicvFink-1920-80.jpg",
-    "id": 9
+    "id": 12
   },
   {
     "title": "Google DeepMind claims four AI agents beat Minecraft in 27 hours by writing 2,783 programs of their own",
@@ -98,7 +126,57 @@
     "summary": "Google DeepMind researchers say four Gemini 4 Argon agents beat Minecraft in 27 hours, writing 2,783 programs with no human help.",
     "category": "models",
     "image": "https://cdn.mos.cms.futurecdn.net/8xm4j5uRLtAMLxQ7kgph8k-1920-80.png",
-    "id": 10
+    "id": 13
+  },
+  {
+    "title": "Google has joined Amazon in attacking Nvidia’s stronghold with AI app developers",
+    "url": "https://techcrunch.com/2026/10/20/google-has-joined-amazon-in-attacking-nvidias-stronghold-with-ai-app-developers/",
+    "source": "TechCrunch",
+    "date": "2026-10-20",
+    "summary": "Google has joined Amazon in releasing a developer tool that makes it easy for PyTorch users to move their apps off Nvidia GPUs.",
+    "category": "tools",
+    "image": "https://techcrunch.com/wp-content/uploads/2025/05/GettyImages-2215577882.jpg?resize=1200,800",
+    "id": 14
+  },
+  {
+    "title": "ChatGPT now lets you lock your chats",
+    "url": "https://techcrunch.com/2026/10/20/chatgpt-now-lets-you-lock-your-chats/",
+    "source": "TechCrunch",
+    "date": "2026-10-20",
+    "summary": "The company says the feature is designed for situations where users might be discussing something personal or planning a surprise and want to keep those conversations private when handing their device...",
+    "category": "models",
+    "image": "https://techcrunch.com/wp-content/uploads/2026/09/openai-getty.jpg?resize=1200,800",
+    "id": 15
+  },
+  {
+    "title": "Eric Schmidt reportedly owns about half as much of Anthropic as CEO Dario Amodei",
+    "url": "https://techcrunch.com/2026/10/20/eric-schmidt-reportedly-owns-about-half-as-much-of-anthropic-as-ceo-dario-amodei/",
+    "source": "TechCrunch",
+    "date": "2026-10-20",
+    "summary": "The former Google CEO owns about 1% stake in the leading AI lab, Bloomberg reported.",
+    "category": "industry",
+    "image": "https://techcrunch.com/wp-content/uploads/2026/10/Eric-Schmidt.jpg?w=1024",
+    "id": 16
+  },
+  {
+    "title": "Meta’s Muse hits 10M U.S. downloads in 40 days, a milestone reached by only 11 other apps",
+    "url": "https://techcrunch.com/2026/10/20/metas-muse-hits-10m-u-s-downloads-in-40-days-a-milestone-reached-by-only-11-other-apps/",
+    "source": "TechCrunch",
+    "date": "2026-10-20",
+    "summary": "Meta's AI companion Muse has surpassed 10 million U.S. downloads in its first 40 days, joining an exclusive group of apps that includes Threads. New data also shows Muse is retaining users at higher r...",
+    "category": "industry",
+    "image": "https://techcrunch.com/wp-content/uploads/2026/09/meta-muse-app-GettyImages-2293792137.jpg?w=1024",
+    "id": 17
+  },
+  {
+    "title": "Plants can speak using electricity, so this startup built an AI model to decipher their language",
+    "url": "https://techcrunch.com/2026/10/20/plants-can-speak-using-electricity-so-this-startup-built-an-ai-model-to-decipher-their-language/",
+    "source": "TechCrunch",
+    "date": "2026-10-20",
+    "summary": "Electric Plant has built an AI-powered translator to help humans listen to what plants are saying with the subtle electricity coursing through their stems.",
+    "category": "industry",
+    "image": "https://techcrunch.com/wp-content/uploads/2026/10/electric-plant-bud-sensor.jpeg?resize=1200,800",
+    "id": 18
   },
   {
     "title": "US orders federal agencies to remove China’s DeepSeek AI from their systems",
@@ -108,7 +186,7 @@
     "summary": "The US has ordered federal civilian agencies to remove DeepSeek products and third-party services built using its technology, citing national security concerns.",
     "category": "models",
     "image": "https://techcrunch.com/wp-content/uploads/2025/01/GettyImages-2195703830.jpg?w=1024",
-    "id": 11
+    "id": 19
   },
   {
     "title": "Eka is worth $1.45B thanks to a physical AI model that has experts raving",
@@ -118,17 +196,7 @@
     "summary": "Eka Robotics may be the first robotic arm that is actually good at picking a wide range of objects up, and it is so smooth and human-like, it is wowing the industry.",
     "category": "industry",
     "image": "https://techcrunch.com/wp-content/uploads/2026/10/Screenshot-2026-10-19-at-1.21.23-PM.png?resize=1200,974",
-    "id": 12
-  },
-  {
-    "title": "Yelp can now call on your behalf to check wait times at a restaurant",
-    "url": "https://techcrunch.com/2026/10/20/yelp-can-now-call-on-your-behalf-to-check-wait-times-at-a-restaurant/",
-    "source": "TechCrunch",
-    "date": "2026-10-20",
-    "summary": "Yelp is embedding numerous new AI features into its app that can do everything from call to check on restaurant wait times to create personalized recommendations that remember your preferences.",
-    "category": "research",
-    "image": "https://techcrunch.com/wp-content/uploads/2026/10/Yelp-waitlist.jpg?resize=1200,675",
-    "id": 13
+    "id": 20
   },
   {
     "title": "Otter.ai raises $320 million from General Catalyst’s growth fund for its meeting tool",
@@ -138,7 +206,17 @@
     "summary": "Meeting note-taking tool Otter.ai announced on Tuesday that it has raised $320 million from General Catalyst’s Customer Value Fund (CVF), which provides capital to startups without diluting equity and...",
     "category": "industry",
     "image": "https://techcrunch.com/wp-content/uploads/2026/04/Otter-feat.jpg?resize=1200,675",
-    "id": 14
+    "id": 21
+  },
+  {
+    "title": "Yelp can now call on your behalf to check wait times at a restaurant",
+    "url": "https://techcrunch.com/2026/10/20/yelp-can-now-call-on-your-behalf-to-check-wait-times-at-a-restaurant/",
+    "source": "TechCrunch",
+    "date": "2026-10-20",
+    "summary": "Yelp is embedding numerous new AI features into its app that can do everything from call to check on restaurant wait times to create personalized recommendations that remember your preferences.",
+    "category": "research",
+    "image": "https://techcrunch.com/wp-content/uploads/2026/10/Yelp-waitlist.jpg?resize=1200,675",
+    "id": 22
   },
   {
     "title": "Mamdani says feds have abdicated on AI, urges New Yorkers to push back",
@@ -148,7 +226,17 @@
     "summary": "Mayor Zohran Mamdani said Monday night that New Yorkers must resist the narrative that an AI takeover is inevitable and demand regulations that protect the public and put power back in their hands.",
     "category": "hardware",
     "image": "https://techcrunch.com/wp-content/uploads/2026/10/IMG_1933.jpg?resize=1200,900",
-    "id": 15
+    "id": 23
+  },
+  {
+    "title": "The new economics of enterprise AI",
+    "url": "https://www.technologyreview.com/2026/10/20/1146937/the-new-economics-of-enterprise-ai/",
+    "source": "MIT Tech Review",
+    "date": "2026-10-20",
+    "summary": "Imagine your company just discovered electricity. At first only a few machines run on it, and nobody worries about efficiency — consumption is low and the value is obvious. But once electricity become...",
+    "category": "industry",
+    "image": "https://wp.technologyreview.com/wp-content/uploads/2026/10/HPE-iStock-1168748420.jpg?resize=1200,600",
+    "id": 24
   },
   {
     "title": "The Download: the claim shaking up AI and the internet’s agent problem",
@@ -158,7 +246,7 @@
     "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. “We were looking at it wrong”: The explosive claim that’s upen...",
     "category": "industry",
     "image": "https://wp.technologyreview.com/wp-content/uploads/2026/10/261016_LLMsNotcomplicated_V2.jpg?resize=1200,600",
-    "id": 16
+    "id": 25
   },
   {
     "title": "AI adoption by industry shows what other sectors can learn",
@@ -168,7 +256,7 @@
     "summary": "The current narrative around artificial intelligence in the workplace is largely driven by Silicon Valley. But treating the tech sector as an island misses the actual trends in technology adoption–tec...",
     "category": "hardware",
     "image": "https://wp.technologyreview.com/wp-content/uploads/2026/10/TripleTen-MIT-cover.png?resize=1200,600",
-    "id": 17
+    "id": 26
   },
   {
     "title": "A visit to Samsung’s massive new semiconductor hub",
@@ -178,7 +266,27 @@
     "summary": "Generative AI models run on powerful chips known as GPUs, which depend on stacks of specialized memory chips packaged with the processor. To meet growing demand for memory, Samsung is building a massi...",
     "category": "hardware",
     "image": "https://wp.technologyreview.com/wp-content/uploads/2026/10/GettyImages-2277893810.jpg?resize=1200,600",
-    "id": 18
+    "id": 27
+  },
+  {
+    "title": "French Government Calls Emergency Meetings With Platforms Over Protests",
+    "url": "https://www.wired.com/story/french-government-calls-emergency-meetings-with-platforms-over-protests/",
+    "source": "Wired",
+    "date": "2026-10-20",
+    "summary": "TikTok and other sites were told to curb protest footage and AI-altered images, while online retailers like Vinted and eBay reportedly signed an agreement stop looted goods from flooding resale sites.",
+    "category": "tools",
+    "image": "https://media.wired.com/photos/6ad772c1fca8f52b99e9eedc/191:100/w_1280,c_limit/GettyImages-2300075055.jpg",
+    "id": 28
+  },
+  {
+    "title": "An AI Agent Joined a Listserv of Top Internet Researchers. The Reply-All Chaos Is Still Unfolding",
+    "url": "https://www.wired.com/story/an-ai-agent-joined-a-listserv-of-top-internet-researchers-the-reply-all-chaos-is-still-unfolding/",
+    "source": "Wired",
+    "date": "2026-10-20",
+    "summary": "Hysteria over the agent's appearance in a 7,500-person group reveals that internet experts have outdated notions of privacy.",
+    "category": "research",
+    "image": "https://media.wired.com/photos/6ad2cc7064b24534a6bc5044/191:100/w_1280,c_limit/culture_ai_agent_internet_research_listserv.jpg",
+    "id": 29
   },
   {
     "title": "GardenBench: A lightweight, daily evaluation of LLM capabilities",
@@ -187,7 +295,7 @@
     "date": "2026-10-20",
     "summary": "We introduce GardenBench, a benchmark with 11 test suites that evaluate the capabilities of Large Language Models (LLMs) across a range of tasks. By systematically prompting LLMs with various lightwei...",
     "category": "models",
-    "id": 19
+    "id": 30
   },
   {
     "title": "Doing Less with More: A First-Principles Exploration of the Suitability of Agentic Computing over Alternative Architectural Choices",
@@ -196,7 +304,7 @@
     "date": "2026-10-20",
     "summary": "There is growing interest in automating business activities with Agentic Artificial Intelligence (AI) due to latter's seeming ease of use. Never has it been easier, or costlier, to do less with more. ...",
     "category": "models",
-    "id": 20
+    "id": 31
   },
   {
     "title": "A Controlled LLM Workflow for Evidence-Grounded Diagnosis of Risk Score Differences",
@@ -205,7 +313,7 @@
     "date": "2026-10-20",
     "summary": "We propose a controlled Large Language Model (LLM) workflow for explaining risk score differences using similar historical transactions. The workflow combines reference retrieval and contrastive SHapl...",
     "category": "models",
-    "id": 21
+    "id": 32
   },
   {
     "title": "What Social Media Teaches Us About Accumulative AI Risks",
@@ -214,7 +322,7 @@
     "date": "2026-10-20",
     "summary": "Prominent AI safety discussions emphasize existential threats and catastrophic events, such as AI-enabled nuclear conflict or engineered biological outbreaks. This position paper argues that there is ...",
     "category": "research",
-    "id": 22
+    "id": 33
   },
   {
     "title": "Beyond Explicit Intent: Discovering and Shaping Artistic Intent through Human-AI Co-Creation",
@@ -223,7 +331,7 @@
     "date": "2026-10-20",
     "summary": "Generative AI is becoming an important medium for artistic creation, yet existing interactions often assume that creators can specify intentions in advance and accurately communicate them through text...",
     "category": "research",
-    "id": 23
+    "id": 34
   },
   {
     "title": "Unified Multiparadigm Fusion Intelligence for Rare Disease Diagnosis",
@@ -232,7 +340,7 @@
     "date": "2026-10-20",
     "summary": "Rare diseases (RDs) affect an estimated 300 million people globally, leaving patients to navigate a protracted diagnostic odyssey constrained by clinical scarcity and fragmented medical knowledge. Art...",
     "category": "research",
-    "id": 24
+    "id": 35
   },
   {
     "title": "LogicVal:A Logic-Formalized Benchmark for Constraint Satisfaction in Text-to-Image Generation",
@@ -241,7 +349,7 @@
     "date": "2026-10-20",
     "summary": "Text-to-Image (T2I) generative models have made significant progress in producing high-fidelity images from natural-language prompts. Alongside this progress, numerous benchmarks have been developed t...",
     "category": "research",
-    "id": 25
+    "id": 36
   },
   {
     "title": "World of SWECraft: Agent Collaboration at Scale via Simulated Software Worlds",
@@ -250,7 +358,7 @@
     "date": "2026-10-20",
     "summary": "As teams of AI agents take on larger projects and long-standing open problems, agent collaboration offers another dimension for scaling inference-time compute. To understand what makes such collaborat...",
     "category": "research",
-    "id": 26
+    "id": 37
   },
   {
     "title": "Persistent Memory and Iterative Improvement in an LLM Agent for Chinese-Character Drawing",
@@ -259,7 +367,7 @@
     "date": "2026-10-20",
     "summary": "Does persistent memory accumulated from previous attempts help an LLM agent solve new problems, and does memory design affect that benefit? We study programmatic Chinese-character drawing across five ...",
     "category": "research",
-    "id": 27
+    "id": 38
   },
   {
     "title": "Cache2LoRA: Understanding and Improving Context Internalization",
@@ -268,7 +376,7 @@
     "date": "2026-10-20",
     "summary": "Context-to-LoRA methods encode documents as low-rank parameter updates, allowing language models to answer without retaining the source text in their decoding context. How reliably do these updates pr...",
     "category": "models",
-    "id": 28
+    "id": 39
   },
   {
     "title": "Joint, Decoupled, or Agent: When Each Multimodal Alignment Paradigm Wins",
@@ -277,7 +385,7 @@
     "date": "2026-10-20",
     "summary": "Jointly pretrained multimodal encoders are a common way to combine modalities, while alternatives integrate their information during downstream training or inference. When does each approach win? We c...",
     "category": "models",
-    "id": 29
+    "id": 40
   },
   {
     "title": "A Conditional No-Hair Theorem for Transformers: How Language Models Forget Their Prompt",
@@ -286,7 +394,7 @@
     "date": "2026-10-20",
     "summary": "We ask how much an autoregressive transformer retains of its prompt after generating $t$ tokens. Consider two different prompts followed by the same continuation text, so that any difference in their ...",
     "category": "models",
-    "id": 30
+    "id": 41
   },
   {
     "title": "Agents' Last Doubt: Knowing When to Act and When to Step Back in Tool-Using Agents",
@@ -295,7 +403,7 @@
     "date": "2026-10-20",
     "summary": "Tool-using LLM agents repeatedly face decision points under uncertainty, choosing between autonomous action, additional information gathering, and human escalation. These decisions require balancing t...",
     "category": "models",
-    "id": 31
+    "id": 42
   },
   {
     "title": "Distillation, Self-Training, and the Fragility of Learned Chemical Reasoning",
@@ -304,7 +412,7 @@
     "date": "2026-10-20",
     "summary": "Automating synthesis planning for small-molecule drug design requires chemical reasoners that are accurate as well as open to inspection and adaptation, yet frontier language models remain unreliable ...",
     "category": "research",
-    "id": 32
+    "id": 43
   },
   {
     "title": "Training-Free Prompt Selection for Efficient Reinforcement Learning With Partial Rollouts",
@@ -313,7 +421,7 @@
     "date": "2026-10-20",
     "summary": "Reinforcement learning with verifiable rewards (RLVR) has emerged as a prominent paradigm for training reasoning models, but its computational cost makes efficient data selection increasingly importan...",
     "category": "research",
-    "id": 33
+    "id": 44
   },
   {
     "title": "Probing Ambiguity: Adversarial Intent Resolution for Robust Text-to-SQL",
@@ -322,7 +430,7 @@
     "date": "2026-10-20",
     "summary": "Text-to-SQL systems typically assume a one-to-one mapping between natural-language queries and correct SQL translations. In practice, however, many queries are inherently ambiguous, admitting multiple...",
     "category": "research",
-    "id": 34
+    "id": 45
   },
   {
     "title": "Cortex: A Fixed-Point Theory of Governed Coding Agents - Technical Report",
@@ -331,7 +439,7 @@
     "date": "2026-10-20",
     "summary": "A coding agent combines a large language model (LLM) with a harness that plans, edits, and executes code. We study Cortex, a supervisory layer for pre-execution governance, requirement tracking, and i...",
     "category": "models",
-    "id": 35
+    "id": 46
   },
   {
     "title": "AM-Bench: A Unified Taxonomy and Evaluation Suite for Agentic Misalignment",
@@ -340,7 +448,7 @@
     "date": "2026-10-20",
     "summary": "As LLM-based agents are deployed with increasing autonomy in real-world environments, a critical failure mode emerges: agentic misalignment, where agents choose harmful actions over failure. However, ...",
     "category": "models",
-    "id": 36
+    "id": 47
   },
   {
     "title": "Can Compact Open-Weight Large Language Models Recover Mobility Events from Incomplete Trajectories? A Controlled Evaluation Using Air Trips",
@@ -349,7 +457,7 @@
     "date": "2026-10-20",
     "summary": "Incomplete mobility trajectories can obscure the observations needed to identify important travel events and their endpoints. This study evaluates whether compact, locally deployed large language mode...",
     "category": "models",
-    "id": 37
+    "id": 48
   },
   {
     "title": "From SEC Filings to Financial Signals: Evaluating LLMs on Stock Market Reactions and Analyst Forecasts",
@@ -358,7 +466,7 @@
     "date": "2026-10-20",
     "summary": "Form 10-Q MD&A sections combine long-form management narrative with accounting and forward-looking information. Benchmarks for financial filings commonly evaluate question answering or numerical reaso...",
     "category": "models",
-    "id": 38
+    "id": 49
   },
   {
     "title": "SteerSearch: Interactive Search Reasoning with Mid-Response Steering",
@@ -366,105 +474,6 @@
     "source": "arXiv cs.AI",
     "date": "2026-10-20",
     "summary": "Search-augmented language models increasingly serve as long-horizon research agents, yet most open training methods assume a fixed user goal throughout search. We study mid-response steering, where us...",
-    "category": "research",
-    "id": 39
-  },
-  {
-    "title": "Not Every User Says It All: Training Tool-Using Agents Beyond Ideal Simulated Users",
-    "url": "https://arxiv.org/abs/2610.24294",
-    "source": "arXiv cs.AI",
-    "date": "2026-10-20",
-    "summary": "Tool-using agents are trained and evaluated almost exclusively with strong simulated users who state every detail clearly, yet real users are often weaker. We construct weak users by masking sentences...",
-    "category": "models",
-    "id": 40
-  },
-  {
-    "title": "Who Speaks, Who Authorizes, Who Acts? Understanding Trust Boundaries in Multi-Agent LLMs",
-    "url": "https://arxiv.org/abs/2610.24298",
-    "source": "arXiv cs.AI",
-    "date": "2026-10-20",
-    "summary": "Multi-agent LLM systems exchange messages before acting through tools, but message delivery, signing authority, and tool-side enforcement are separate trust boundaries. We represent them as communicat...",
-    "category": "models",
-    "id": 41
-  },
-  {
-    "title": "CME-SpectrumBench: Can LLMs Analyze Condensed Matter Spectral Data?",
-    "url": "https://arxiv.org/abs/2610.24304",
-    "source": "arXiv cs.AI",
-    "date": "2026-10-20",
-    "summary": "Large Language Models (LLMs) are presently well assessed by expert-level mathematics and physics benchmarks which focus on theoretical, symbolic reasoning. However, we lack experimental benchmarks tha...",
-    "category": "models",
-    "id": 42
-  },
-  {
-    "title": "The Judge Can Debias Itself: Awareness and Self-Debiasing for Reliable LLM-as-a-Judge",
-    "url": "https://arxiv.org/abs/2610.24320",
-    "source": "arXiv cs.AI",
-    "date": "2026-10-20",
-    "summary": "LLM-as-a-Judge systems are increasingly employed for automated evaluation, yet remain susceptible to systematic biases that undermine their reliability. We demonstrate that the judge can effectively d...",
-    "category": "models",
-    "id": 43
-  },
-  {
-    "title": "Continuous Ontology Assurance through External Resources -- An Ontology Engineering Method with a Case Study in Software Language Engineering",
-    "url": "https://arxiv.org/abs/2610.24322",
-    "source": "arXiv cs.AI",
-    "date": "2026-10-20",
-    "summary": "Domain ontologies require review against knowledge recorded in evolving external resources. We propose COATER, a method that manages executable review components called arrows. Each arrow compares a s...",
-    "category": "research",
-    "id": 44
-  },
-  {
-    "title": "Screening LLM Judges Without Ground Truth: A Preliminary Evaluation of an AI Dental Hygiene Coach",
-    "url": "https://arxiv.org/abs/2610.24335",
-    "source": "arXiv cs.AI",
-    "date": "2026-10-20",
-    "summary": "Evaluating a fine-tuned coaching model with expert graders is slow and expensive, and an LLM judge cannot be trusted without ground truth. We present a staged pipeline that screens candidate LLM judge...",
-    "category": "models",
-    "id": 45
-  },
-  {
-    "title": "FlashRT-PAI: Fast Kernels Are Not Fast Pipelines for Physical AI Inference",
-    "url": "https://arxiv.org/abs/2610.24349",
-    "source": "arXiv cs.AI",
-    "date": "2026-10-20",
-    "summary": "Vision-language-action (VLA), video-action (VA), and world action models (WAMs) form the backbone of modern physical AI systems, yet their real-time single-batch inference remains a defining bottlenec...",
-    "category": "tools",
-    "id": 46
-  },
-  {
-    "title": "DKnown-Jev: Fine-Tuning and Evaluation of a JEV-Style Model for Tasks Involving Normative Knowledge",
-    "url": "https://arxiv.org/abs/2610.24358",
-    "source": "arXiv cs.AI",
-    "date": "2026-10-20",
-    "summary": "Tasks involving normative knowledge include concept interpretation, eligibility determination, procedure explanation, material requirements, and service-outcome assessment, all of which require rules ...",
-    "category": "models",
-    "id": 47
-  },
-  {
-    "title": "A Two-Stage Hybrid Framework for Inferring Air Trips from Mobile Location-based Service (LBS) Data under Incomplete Airport Sightings",
-    "url": "https://arxiv.org/abs/2610.24366",
-    "source": "arXiv cs.AI",
-    "date": "2026-10-20",
-    "summary": "Mobile device location-based service (LBS) data provide large-scale spatiotemporal observations that can help airport planners understand air travelers' mobility patterns. However, airport sightings a...",
-    "category": "research",
-    "id": 48
-  },
-  {
-    "title": "WAQS: Weight Absorption for Quadratic Probing and Affine Steering",
-    "url": "https://arxiv.org/abs/2610.24367",
-    "source": "arXiv cs.AI",
-    "date": "2026-10-20",
-    "summary": "Activation steering provides a lightweight alternative to fine-tuning for controlling large language model behavior. Existing methods, however, often face a trade-off between efficiency and expressive...",
-    "category": "models",
-    "id": 49
-  },
-  {
-    "title": "Beyond Next-Screen Prediction: The Decision Value of GUI World Models",
-    "url": "https://arxiv.org/abs/2610.24372",
-    "source": "arXiv cs.AI",
-    "date": "2026-10-20",
-    "summary": "GUI world models are increasingly used to improve action selection by predicting the consequences of candidate actions, but it is unclear how much of the resulting gain comes from prediction itself ra...",
     "category": "research",
     "id": 50
   }
