@@ -20,6 +20,95 @@
     "id": 2
   },
   {
+    "title": "Rapidly scaling online storage to serve over 1 billion ChatGPT users (Part II)",
+    "url": "https://openai.com/index/scaling-storage-one-billion-users-part-two",
+    "source": "OpenAI Blog",
+    "date": "2026-10-23",
+    "summary": "Learn how OpenAI scaled Habitat with reliable multi-tenancy, global caching, and Azure Cosmos DB to deliver 12× faster reads for ChatGPT.",
+    "category": "models",
+    "id": 3
+  },
+  {
+    "title": "Razer Basilisk V4 Pro Review: Tried and true and now with AI",
+    "url": "https://www.tomshardware.com/peripherals/gaming-mice/razer-basilisk-v4-pro-review",
+    "source": "Tom's Hardware",
+    "date": "2026-10-23",
+    "summary": "Razer's Basilisk V4 Pro gaming mouse features an ergonomic shape, a lighter weight, and a couple of extra buttons, plus Razer's Focus Pro 50K optical sensor.",
+    "category": "industry",
+    "image": "https://cdn.mos.cms.futurecdn.net/WLV3Dh2bAiKLgohuRRaYY9-1920-80.jpg",
+    "id": 4
+  },
+  {
+    "title": "Solidigm confirms plans to build a fab in the US, abandons IPO plans",
+    "url": "https://www.tomshardware.com/pc-components/ssds/solidigm-confirms-plans-to-build-a-fab-in-the-us-abandons-ipo-plans-unfavorable-stock-market-conditions-and-semiconductor-share-price-trends-reasons-given",
+    "source": "Tom's Hardware",
+    "date": "2026-10-23",
+    "summary": "SK hynix abandons IPO plans for Solidigm, confirms plans to build a Solidigm 3D NAND fab in the U.S.",
+    "category": "industry",
+    "image": "https://cdn.mos.cms.futurecdn.net/vdguSryvDxvr9spm9qGncn-1920-80.jpg",
+    "id": 5
+  },
+  {
+    "title": "Gigabyte Z890M Aorus Elite WiFi7 Motherboard Review: Icy-white SFF board offers full-size features for Intel",
+    "url": "https://www.tomshardware.com/pc-components/motherboards/gigabyte-z890m-aorus-elite-wifi7-motherboard-review",
+    "source": "Tom's Hardware",
+    "date": "2026-10-23",
+    "summary": "The $209 Gigabyte Z890M Aorus Elite Wifi 7 Ice is one of the better-looking Micro ATX boards, with an icy-white aesthetic and full heatsink coverage that give it a premium vibe for white-themed Intel ...",
+    "category": "hardware",
+    "image": "https://cdn.mos.cms.futurecdn.net/3H68kTuxq7PEgdfpZT2XPm-1920-80.jpg",
+    "id": 6
+  },
+  {
+    "title": "Amazon bows to local backlash over AI data centers, scraps plans to build four new facilities in Northern Virginia",
+    "url": "https://www.tomshardware.com/tech-industry/data-centers/amazon-bows-to-local-backlash-over-ai-data-centers-scraps-plans-to-build-four-new-facilities-in-northern-virginia-site-to-be-repurposed-for-mixed-use-and-residential-development",
+    "source": "Tom's Hardware",
+    "date": "2026-10-23",
+    "summary": "Amazon has ditched its plans to build four new data centers in Loudoun County, Northern Virginia, following an outcry from local residents and officials. The land will now be repurposed for mixed and ...",
+    "category": "hardware",
+    "image": "https://cdn.mos.cms.futurecdn.net/eUBbKqSoTbmPLiP7oLHcvh-1920-80.jpg",
+    "id": 7
+  },
+  {
+    "title": "Illegal Nvidia Blackwell Ultra B300 GPUs found inside state-owned China Telecom's network",
+    "url": "https://www.tomshardware.com/tech-industry/data-centers/illegal-nvidia-blackwell-ultra-b300-gpus-found-inside-state-owned-china-telecoms-network-nvidia-says-chip-smuggling-a-drop-in-the-bucket-insists-smuggling-remains-a-nonfactor",
+    "source": "Tom's Hardware",
+    "date": "2026-10-23",
+    "summary": "A security firm has been able to identify 32 Nvidia Blackwell Ultra B300 AI chips running inside a China Telecom network, but it's unclear where the export-barred components are physically located.",
+    "category": "hardware",
+    "image": "https://cdn.mos.cms.futurecdn.net/kPWDNNZTPJyoeQtTCpMqQi-1920-80.jpg",
+    "id": 8
+  },
+  {
+    "title": "FCC issues first bans under new chip-level rule",
+    "url": "https://www.tomshardware.com/tech-industry/cyber-security/fcc-bans-first-two-devices-from-the-us-under-new-chip-level-rule-huawei-subsidiary-chip-boasts-face-detection-algorithm",
+    "source": "Tom's Hardware",
+    "date": "2026-10-23",
+    "summary": "FCC bans a dashcam and wireless video transmitter produced by HiSilicon, a subsidiary of Huawei for containing an AI chip that advertises face detection algorithms.",
+    "category": "hardware",
+    "image": "https://cdn.mos.cms.futurecdn.net/FhrgMpu9kjGuT5ZVpNWx6g-1920-80.jpg",
+    "id": 9
+  },
+  {
+    "title": "Deepseek's latest AI model is smarter than ever, but its low running costs come at a price",
+    "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/deepseeks-latest-ai-model-is-smarter-than-ever-but-its-low-running-costs-come-at-a-price-open-weight-model-is-fit-for-agentic-workloads-but-is-more-prone-to-hallucination-than-proprietary-competitors",
+    "source": "Tom's Hardware",
+    "date": "2026-10-23",
+    "summary": "Deepseek 4.1 Flash 1017 drives cost-per-task further down still — open-weight model is fit for agentic workloads and exceedingly cheap to run",
+    "category": "models",
+    "image": "https://cdn.mos.cms.futurecdn.net/QzsaWZn9raSdwCW8ecQ7gi-1920-80.jpg",
+    "id": 10
+  },
+  {
+    "title": "US banks scramble to restrict AI agent activity",
+    "url": "https://www.tomshardware.com/tech-industry/cyber-security/us-banks-scramble-to-restrict-ai-agent-activity-agents-detected-accessing-customer-accounts-or-even-attempting-to-make-transactions-in-breach-of-policy",
+    "source": "Tom's Hardware",
+    "date": "2026-10-23",
+    "summary": "Several U.S. banks are blocking AI agents from making transactions on their platforms. They fear that those agents could go rogue and there's no way to tell if the moves they make are legitimate or no...",
+    "category": "tools",
+    "image": "https://cdn.mos.cms.futurecdn.net/pS86PgwskdTyusDMAhY3Qo-1920-80.png",
+    "id": 11
+  },
+  {
     "title": "Claude and Grok among AI agents used to automate attacks on Latin American institutions",
     "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/cybercartel-hacking-gang-used-claude-and-grok-ai-agents-to-automate-attacks-on-latin-american-institutions-passwords-and-details-stolen-from-over-400-institutions-including-banks-and-payment-apps",
     "source": "Tom's Hardware",
@@ -27,7 +116,7 @@
     "summary": "Claude and Grok are among the AI agents that are being used to automate attacks on Latin American institutions, including banks and payment apps, by a group calling themselves CyberCartel.",
     "category": "models",
     "image": "https://cdn.mos.cms.futurecdn.net/vRpHVXiNv3LEuAqzNwhCkY-1920-80.jpg",
-    "id": 3
+    "id": 12
   },
   {
     "title": "China-aligned hackers deploy AI agents in massive ConnectWise supply chain attack",
@@ -37,7 +126,7 @@
     "summary": "Microsoft says China-aligned Storm-0940 used the ARTEX AI agent framework in the ConnectWise Cloud Backup supply chain attack.",
     "category": "tools",
     "image": "https://cdn.mos.cms.futurecdn.net/wA2Noe6WhknviBc6VQJqFo-1920-80.jpg",
-    "id": 4
+    "id": 13
   },
   {
     "title": "Wolves roam into Finnish villages after Google destroys 1,300 acres of forest for AI data centers",
@@ -47,7 +136,7 @@
     "summary": "Wolves, who used to live in the forests recently cleared for Google data center development, are now roaming into Finnish villages nearby.",
     "category": "hardware",
     "image": "https://cdn.mos.cms.futurecdn.net/jdtik9ACK8EYqi9fwXEuH9-1920-80.jpg",
-    "id": 5
+    "id": 14
   },
   {
     "title": "The original Apple iPod debuted 25 years ago today",
@@ -57,17 +146,17 @@
     "summary": "On this day in 2001, Apple CEO Steve Jobs unveiled the original iPod. He began the presentation by teasing 'a breakthrough digital device that’s not a Mac.'",
     "category": "industry",
     "image": "https://cdn.mos.cms.futurecdn.net/4GpCU4zzRohTA7G6eGmnd3-1920-80.jpg",
-    "id": 6
+    "id": 15
   },
   {
-    "title": "Uber rival inDrive eyes 2027 robotaxi tests in Central Asia with Pony.ai and Nvidia",
+    "title": "Uber rival inDrive eyes 2027 robotaxi tests in Central Asia with Pony AI and Nvidia",
     "url": "https://techcrunch.com/2026/10/22/uber-rival-indrive-eyes-2027-robotaxi-tests-in-central-asia-with-pony-ai-and-nvidia/",
     "source": "TechCrunch",
     "date": "2026-10-23",
-    "summary": "inDrive plans to begin testing Pony.ai's robotaxis in Kazakhstan's capital in the first half of 2027.",
+    "summary": "The company plans to begin testing Pony.ai's robotaxis in Kazakhstan's capital in the first half of 2027.",
     "category": "hardware",
     "image": "https://techcrunch.com/wp-content/uploads/2026/10/indrive-pony-ai-kazakhstan.jpg?resize=1200,800",
-    "id": 7
+    "id": 16
   },
   {
     "title": "Left alone with nothing to do, AI agents started playing",
@@ -77,7 +166,170 @@
     "summary": "MIT researchers marooned 13 AIs on a virtual island, and they responded by inventing games, mourning a lost ring and, eventually, getting better at their jobs.",
     "category": "research",
     "image": "https://techcrunch.com/wp-content/uploads/2026/10/Screenshot-2026-10-22-at-5.42.44-PM.png?resize=1200,590",
-    "id": 8
+    "id": 17
+  },
+  {
+    "title": "Why AI Can't Replace Engineering Teams",
+    "url": "https://spectrum.ieee.org/engineering-jobs-that-ai-cant-replace",
+    "source": "Hacker News",
+    "date": "2026-10-23",
+    "summary": "Article URL: https://spectrum.ieee.org/engineering-jobs-that-ai-cant-replace Comments URL: https://news.ycombinator.com/item?id=50211659 Points: 1 # Comments: 0",
+    "category": "industry",
+    "image": "https://spectrum.ieee.org/media-library/an-illustration-of-stylized-people-wearing-business-casual-clothing.webp?id=61876810&width=1200&height=600&coordinates=0%2C150%2C0%2C150",
+    "id": 18
+  },
+  {
+    "title": "AI Safety Is Mostly a Sex Cult in Berkeley, California",
+    "url": "https://www.verysane.ai/p/ai-safety-is-mostly-a-sex-cult-in-berkeley-california",
+    "source": "Hacker News",
+    "date": "2026-10-23",
+    "summary": "Article URL: https://www.verysane.ai/p/ai-safety-is-mostly-a-sex-cult-in-berkeley-california Comments URL: https://news.ycombinator.com/item?id=50211618 Points: 1 # Comments: 1",
+    "category": "research",
+    "image": "https://substackcdn.com/image/fetch/$s_!hJTf!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F3d44d6d6-1eda-4432-b5c3-b4c2995951fa_1000x667.jpeg",
+    "id": 19
+  },
+  {
+    "title": "Teams of AI agents that don't loop: handoff maps, three modes, hard budgets",
+    "url": "https://awflow.io/blog/ai-agent-teams-that-dont-loop",
+    "source": "Hacker News",
+    "date": "2026-10-23",
+    "summary": "Article URL: https://awflow.io/blog/ai-agent-teams-that-dont-loop Comments URL: https://news.ycombinator.com/item?id=50211593 Points: 1 # Comments: 0",
+    "category": "industry",
+    "image": "https://awflow.io/_astro/cover-en.qW91zdNO_ixkE4.jpg",
+    "id": 20
+  },
+  {
+    "title": "Open Source Mobile-Use MCP and AI Agent",
+    "url": "https://github.com/ghorbelhamdi/buddy-android",
+    "source": "Hacker News",
+    "date": "2026-10-23",
+    "summary": "Article URL: https://github.com/ghorbelhamdi/buddy-android Comments URL: https://news.ycombinator.com/item?id=50211548 Points: 1 # Comments: 1",
+    "category": "hardware",
+    "image": "https://repository-images.githubusercontent.com/1408730569/6a887636-619a-4685-96a4-96ffd734ab03",
+    "id": 21
+  },
+  {
+    "title": "Show HN: Koala – Run AI Agents in Isolated Linux VMs on macOS",
+    "url": "https://kunalkushwaha.github.io/homebrew-koala/",
+    "source": "Hacker News",
+    "date": "2026-10-23",
+    "summary": "Article URL: https://kunalkushwaha.github.io/homebrew-koala/ Comments URL: https://news.ycombinator.com/item?id=50211429 Points: 2 # Comments: 0",
+    "category": "industry",
+    "id": 22
+  },
+  {
+    "title": "AI: A Threat or a Mirror of Our Own Mistakes?",
+    "url": "https://medium.com/@kate8382/ai-a-threat-or-a-mirror-of-our-own-mistakes-ebfa19e3fd65",
+    "source": "Hacker News",
+    "date": "2026-10-23",
+    "summary": "Article URL: https://medium.com/@kate8382/ai-a-threat-or-a-mirror-of-our-own-mistakes-ebfa19e3fd65 Comments URL: https://news.ycombinator.com/item?id=50211384 Points: 1 # Comments: 0",
+    "category": "industry",
+    "id": 23
+  },
+  {
+    "title": "Unstructured's New Models Outparse GPT-6, Claude and Gemini",
+    "url": "https://unstructured.io/blog/unstructured-transform-faster-more-accurate-for-your-hardest-documents",
+    "source": "Hacker News",
+    "date": "2026-10-23",
+    "summary": "Article URL: https://unstructured.io/blog/unstructured-transform-faster-more-accurate-for-your-hardest-documents Comments URL: https://news.ycombinator.com/item?id=50211236 Points: 1 # Comments: 0",
+    "category": "models",
+    "image": "https://cdn.sanity.io/images/d35hevy9/production/c8ec5ec1204d377e1c8a2869df684bec2bc4d30c-1200x675.jpg?rect=0,23,1200,630&w=1200&h=630&max-h=3840&max-w=3840&q=85&auto=format",
+    "id": 24
+  },
+  {
+    "title": "LLM Multi-Agent Systems Are Vulnerable to Herding and Runaway Cascades",
+    "url": "https://arxiv.org/abs/2610.30769",
+    "source": "Hacker News",
+    "date": "2026-10-23",
+    "summary": "Article URL: https://arxiv.org/abs/2610.30769 Comments URL: https://news.ycombinator.com/item?id=50211188 Points: 1 # Comments: 0",
+    "category": "models",
+    "id": 25
+  },
+  {
+    "title": "We gave an AI $100k to trade on leverage. Here's what it did",
+    "url": "https://twitter.com/DeployFinance/status/2113642187074195945",
+    "source": "Hacker News",
+    "date": "2026-10-23",
+    "summary": "Article URL: https://twitter.com/DeployFinance/status/2113642187074195945 Comments URL: https://news.ycombinator.com/item?id=50211142 Points: 1 # Comments: 0",
+    "category": "research",
+    "image": "https://pbs.twimg.com/profile_images/2010848696003379200/wtyYCwnM_400x400.png",
+    "id": 26
+  },
+  {
+    "title": "Ask HN: How do you get AI loops to converge?",
+    "url": "https://news.ycombinator.com/item?id=50211080",
+    "source": "Hacker News",
+    "date": "2026-10-23",
+    "summary": "For any arbitrary coding task, how can a Ralph loop break out of a local minima and converge, such that, even if the loop runs again, there are no tasks left to complete? These tasks are somewhat non-...",
+    "category": "tools",
+    "id": 27
+  },
+  {
+    "title": "Local AI Is Not as Private as You Think [video]",
+    "url": "https://www.youtube.com/watch?v=3mx84MRj8lY",
+    "source": "Hacker News",
+    "date": "2026-10-23",
+    "summary": "Article URL: https://www.youtube.com/watch?v=3mx84MRj8lY Comments URL: https://news.ycombinator.com/item?id=50210986 Points: 1 # Comments: 0",
+    "category": "industry",
+    "id": 28
+  },
+  {
+    "title": "Who Cares Whether Academics Use AI to Write?",
+    "url": "https://www.chronicle.com/article/who-cares-whether-academics-use-ai-to-write",
+    "source": "Hacker News",
+    "date": "2026-10-23",
+    "summary": "Article URL: https://www.chronicle.com/article/who-cares-whether-academics-use-ai-to-write Comments URL: https://news.ycombinator.com/item?id=50210696 Points: 2 # Comments: 0",
+    "category": "industry",
+    "id": 29
+  },
+  {
+    "title": "Elon Musk and AI rivals pledge to give away nearly $300B",
+    "url": "https://www.washingtonpost.com/technology/2026/10/22/elon-musk-ai-rivals-pledge-give-away-more-than-300-billion/",
+    "source": "Hacker News",
+    "date": "2026-10-23",
+    "summary": "Article URL: https://www.washingtonpost.com/technology/2026/10/22/elon-musk-ai-rivals-pledge-give-away-more-than-300-billion/ Comments URL: https://news.ycombinator.com/item?id=50210664 Points: 3 # Co...",
+    "category": "industry",
+    "id": 30
+  },
+  {
+    "title": "AI Isn't Sovereign Because You Host It Yourself",
+    "url": "https://www.jamiecadvisory.com/perspectives/your-ai-isnt-sovereign-because-you-host-it-yourself/",
+    "source": "Hacker News",
+    "date": "2026-10-23",
+    "summary": "Article URL: https://www.jamiecadvisory.com/perspectives/your-ai-isnt-sovereign-because-you-host-it-yourself/ Comments URL: https://news.ycombinator.com/item?id=50210646 Points: 2 # Comments: 0",
+    "category": "industry",
+    "image": "https://www.jamiecadvisory.com/assets/jamie-c-advisory-social.png",
+    "id": 31
+  },
+  {
+    "title": "Retro gaming is being overrun with AI",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/1015430/ai-retro-games-decomp-recomp-port",
+    "source": "Hacker News",
+    "date": "2026-10-23",
+    "summary": "Article URL: https://www.theverge.com/ai-artificial-intelligence/1015430/ai-retro-games-decomp-recomp-port Comments URL: https://news.ycombinator.com/item?id=50210583 Points: 1 # Comments: 0",
+    "category": "hardware",
+    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/01/STK465_VIDEO_GAMES_EMULATOR__CVirginia_D.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+    "id": 32
+  },
+  {
+    "title": "Show HN: Gsearch – Real Google Search for AI Agents(MCP)",
+    "url": "https://github.com/RayenMlayeh/gsearch",
+    "source": "Hacker News",
+    "date": "2026-10-23",
+    "summary": "Article URL: https://github.com/RayenMlayeh/gsearch Comments URL: https://news.ycombinator.com/item?id=50210576 Points: 1 # Comments: 0",
+    "category": "industry",
+    "image": "https://repository-images.githubusercontent.com/1423899300/6cc8e222-5ab6-4c1d-8874-8b730ce8cf69",
+    "id": 33
+  },
+  {
+    "title": "Google Ads AI Automation is a team of 41 AI agents",
+    "url": "https://github.com/aipsyhelp/ai_ads_google",
+    "source": "Hacker News",
+    "date": "2026-10-23",
+    "summary": "Article URL: https://github.com/aipsyhelp/ai_ads_google Comments URL: https://news.ycombinator.com/item?id=50210566 Points: 1 # Comments: 0",
+    "category": "industry",
+    "image": "https://opengraph.githubassets.com/7cdf21d37e01899fb6c4a10436cb39350106d8ac4996555b73999256cc822b1b/aipsyhelp/ai_ads_google",
+    "id": 34
   },
   {
     "title": "The Cost of Saying Hello: An Empirical Study of Handshake Overhead in AI Agent Communication Protocols",
@@ -86,7 +338,7 @@
     "date": "2026-10-23",
     "summary": "Every interaction between AI agents begins with a handshake: the initiating agent must locate its counterpart, learn what it can do, and establish a session before the first useful message can be sent...",
     "category": "models",
-    "id": 9
+    "id": 35
   },
   {
     "title": "MCP vs CLI for AI Agents: A Comparative Analysis of Tool Integration Strategies for Autonomous Systems",
@@ -95,7 +347,7 @@
     "date": "2026-10-23",
     "summary": "AI agents require interfaces to interact with external systems such as files, APIs, databases, and cloud services. Two competing paradigms have emerged: CLI (Command Line Interface), where agents exec...",
     "category": "tools",
-    "id": 10
+    "id": 36
   },
   {
     "title": "Accelerating Wildfire Hazard Mapping Across Canada with an AI Surrogate Modelling Framework",
@@ -104,7 +356,7 @@
     "date": "2026-10-23",
     "summary": "Canada's increasing wildfire activity requires frequent national hazard mapping to guide proactive mitigation, including fuel management, land-use planning, infrastructure protection, and evacuation r...",
     "category": "hardware",
-    "id": 11
+    "id": 37
   },
   {
     "title": "Neural Networks with Differentiable Belief-Function Layers",
@@ -113,7 +365,7 @@
     "date": "2026-10-23",
     "summary": "Yager's 1987 rule of combination $\\boxplus$ was proposed on epistemic grounds: under high conflict, mass should be redistributed to ignorance rather than renormalised onto the class simplex. We observ...",
     "category": "hardware",
-    "id": 12
+    "id": 38
   },
   {
     "title": "When Stable and Preferred Semantics Agree: A Path-Based Approach",
@@ -122,7 +374,7 @@
     "date": "2026-10-23",
     "summary": "We investigate structural conditions under which preferred and stable semantics agree in abstract argumentation frameworks. Our approach is based on suitably chosen sets of paths in the attack graph a...",
     "category": "tools",
-    "id": 13
+    "id": 39
   },
   {
     "title": "Feedback That Backfires in Games: Do LLM Players Repeat the Move They Just Watched Fail?",
@@ -131,7 +383,7 @@
     "date": "2026-10-23",
     "summary": "When an LLM agent's move fails, the harness writes the move and the failure message into the transcript and asks again. In tool calling, this record makes small models more likely to repeat the failed...",
     "category": "models",
-    "id": 14
+    "id": 40
   },
   {
     "title": "Breaking the high-degree barrier in Lehmer's problem with a human-AI discovery loop",
@@ -140,7 +392,7 @@
     "date": "2026-10-23",
     "summary": "While artificial intelligence has made rapid progress in mathematical reasoning, many open problems depend on structure that is revealed only through large-scale computational exploration and analytic...",
     "category": "research",
-    "id": 15
+    "id": 41
   },
   {
     "title": "Route-and-Generate: KL-Regularized Router Improvement for Reasoning Routing in LLMs",
@@ -149,7 +401,7 @@
     "date": "2026-10-23",
     "summary": "Large language models often apply complex reasoning indiscriminately, leading to overthinking on simple tasks and underthinking on harder ones. We present Route-and-Generate (Rouge), a hierarchical tr...",
     "category": "research",
-    "id": 16
+    "id": 42
   },
   {
     "title": "Soft Ontology Priors over Latent Concept Posteriors for Weakly Supervised Neuro-Symbolic Learning",
@@ -158,7 +410,7 @@
     "date": "2026-10-23",
     "summary": "Neuro-symbolic (NeSy) predictors that supervise only the task label suffer from reasoning shortcuts: distinct concept mappings achieve the same maximum likelihood, leaving the recovered concepts unide...",
     "category": "research",
-    "id": 17
+    "id": 43
   },
   {
     "title": "RoleFlow: Self-Evolving Multi-Role Agentic Collaboration via Structural Adaptation",
@@ -167,7 +419,7 @@
     "date": "2026-10-23",
     "summary": "Large language model (LLM) based multi-agent systems often rely on predefined collaboration structures, limiting their adaptability to evolving task requirements. Although recent approaches enable dyn...",
     "category": "models",
-    "id": 18
+    "id": 44
   },
   {
     "title": "Secure Agentic AI and Multimodal Intelligence in 6G Communication Systems",
@@ -176,7 +428,7 @@
     "date": "2026-10-23",
     "summary": "Sixth-generation (6G) communication systems are expected to support immersive, intent-driven, and latency-critical services through tight integration of multimodal intelligence, edge computing, and au...",
     "category": "hardware",
-    "id": 19
+    "id": 45
   },
   {
     "title": "SpecMAGIC: Specification-Guided Multi-Task Generalization in Multi-Agent Reinforcement Learning",
@@ -185,7 +437,7 @@
     "date": "2026-10-23",
     "summary": "Multi-task generalization is an important yet underexplored problem in multi-agent reinforcement learning (MARL). Many real-world applications require multi-agent systems to generalize across complex,...",
     "category": "research",
-    "id": 20
+    "id": 46
   },
   {
     "title": "A Three-Pillar Governance Framework for Safe and Trustworthy AI Agents",
@@ -194,7 +446,7 @@
     "date": "2026-10-23",
     "summary": "AI agents capable of autonomous decision-making introduce significant challenges related to safety, alignment, accountability, and human oversight. Existing Human-in-the-Loop (HITL) and responsible AI...",
     "category": "research",
-    "id": 21
+    "id": 47
   },
   {
     "title": "Same Beliefs, Different Policies: Learning Reusable Representations for Early Stopping in LLM Reasoning",
@@ -203,7 +455,7 @@
     "date": "2026-10-23",
     "summary": "Reasoning LLMs often continue reasoning after reaching a correct answer, wasting computation and sometimes replacing it with an incorrect one. Deciding when to stop is a metareasoning problem: the mod...",
     "category": "models",
-    "id": 22
+    "id": 48
   },
   {
     "title": "Why Bother Me Again? Benchmarking Personal Agent Memory for Interaction Preferences",
@@ -212,7 +464,7 @@
     "date": "2026-10-23",
     "summary": "Personal intelligence systems are taking on increasingly complex everyday tasks, yet repeated questions, unnecessary confirmations, and unwanted outreach can turn capable assistance into interaction b...",
     "category": "research",
-    "id": 23
+    "id": 49
   },
   {
     "title": "From Single-Actor Environments to Multi-Actor Event Worlds: Can LLMs Be Event World Models?",
@@ -221,240 +473,6 @@
     "date": "2026-10-23",
     "summary": "World models help agents assess the consequences of their actions before acting. Many real systems, however, involve multiple actors who make their own decisions, can evolve even when the agent takes ...",
     "category": "models",
-    "id": 24
-  },
-  {
-    "title": "What the Trace Shows and What the Label Says: Auditing Behavioral Detectors in Agent Evaluation",
-    "url": "https://arxiv.org/abs/2610.30491",
-    "source": "arXiv cs.AI",
-    "date": "2026-10-23",
-    "summary": "LLM agents are often evaluated by reducing execution traces to labels such as final-answer correctness, tool verification, and fault propagation. These labels are measurements produced by parsers, beh...",
-    "category": "research",
-    "id": 25
-  },
-  {
-    "title": "From Prose to Properties: Testing Research Claims with ARATest for Agent-Native Science",
-    "url": "https://arxiv.org/abs/2610.30495",
-    "source": "arXiv cs.AI",
-    "date": "2026-10-23",
-    "summary": "AI agents now run experiments and report findings, so research produces claims faster than researchers can check them. Each empirical claim implies a property that must hold over its cases, but it sta...",
-    "category": "research",
-    "id": 26
-  },
-  {
-    "title": "Can LLMs Improve Their Own Harness? A Controlled Study on ARC-AGI-3",
-    "url": "https://arxiv.org/abs/2610.30499",
-    "source": "arXiv cs.AI",
-    "date": "2026-10-23",
-    "summary": "A generally intelligent system acquires new skills efficiently without requiring humans to redesign its software scaffold for every new task. Yet language models rarely act alone. A harness is a symbo...",
-    "category": "models",
-    "id": 27
-  },
-  {
-    "title": "PLE: Physical-Engineering's Last Exam",
-    "url": "https://arxiv.org/abs/2610.30537",
-    "source": "arXiv cs.AI",
-    "date": "2026-10-23",
-    "summary": "Frontier language models now score above 90% on popular knowledge benchmarks and are increasingly deployed as agents that carry out multi-hour professional work. Yet no existing benchmark tests whethe...",
-    "category": "models",
-    "id": 28
-  },
-  {
-    "title": "Governed Self-Evolution for Autonomous Investing: A Multi-Agent LLM System with an Invariant Core",
-    "url": "https://arxiv.org/abs/2610.30557",
-    "source": "arXiv cs.AI",
-    "date": "2026-10-23",
-    "summary": "LLM agents that act on live Web data must combine heterogeneous evidence, remember what they have done and improve from outcomes without weakening their own safeguards. We study this problem in autono...",
-    "category": "models",
-    "id": 29
-  },
-  {
-    "title": "Diagnosing Personalization Failures in Mobile GUI Agents",
-    "url": "https://arxiv.org/abs/2610.30573",
-    "source": "arXiv cs.AI",
-    "date": "2026-10-23",
-    "summary": "Unlike conventional GUI agents, personalized GUI agents require user preferences to guide sequential execution over changing GUI states. This raises two challenges: determining HOW each preference sho...",
-    "category": "research",
-    "id": 30
-  },
-  {
-    "title": "Model Organisms of Collusion: Corrective Transfer in Untrusted Monitors",
-    "url": "https://arxiv.org/abs/2610.30582",
-    "source": "arXiv cs.AI",
-    "date": "2026-10-23",
-    "summary": "AI control protocols aim to get useful work from models that may be misaligned by monitoring their behaviour. One approach uses a second copy of the same model as the monitor. This avoids relying on a...",
-    "category": "models",
-    "id": 31
-  },
-  {
-    "title": "Better Reasoning, Not Just Bigger Models: A Structure-Grounded Framework for Efficient and Reliable Inference",
-    "url": "https://arxiv.org/abs/2610.30611",
-    "source": "arXiv cs.AI",
-    "date": "2026-10-23",
-    "summary": "Scaling large language models has substantially improved linguistic fluency, yet reliable autonomous agents require more than fluent generation. In multi-turn inference, current agentic systems often ...",
-    "category": "research",
-    "id": 32
-  },
-  {
-    "title": "Large language models show systematic failures in incorporating evolving medical knowledge",
-    "url": "https://arxiv.org/abs/2610.30631",
-    "source": "arXiv cs.AI",
-    "date": "2026-10-23",
-    "summary": "Medical knowledge evolves as clinical guidelines revise recommendations, yet whether large language models (LLMs) faithfully incorporate such changes remains unclear. We introduce ChronoEvo, comprisin...",
-    "category": "models",
-    "id": 33
-  },
-  {
-    "title": "Speculative Acceptance Does Not Decay with Position: A Full-Length Diagnostic on Long Chain-of-Thought with Independent Drafts",
-    "url": "https://arxiv.org/abs/2610.30644",
-    "source": "arXiv cs.AI",
-    "date": "2026-10-23",
-    "summary": "The claim that speculative-decoding acceptance rate decays as a chain-of-thought grows longer has become a de facto industry narrative, motivating draft-model co-design and position-aware training. Ne...",
-    "category": "models",
-    "id": 34
-  },
-  {
-    "title": "Anticipating Social Consequences with Distributional World Models",
-    "url": "https://arxiv.org/abs/2610.30657",
-    "source": "arXiv cs.AI",
-    "date": "2026-10-23",
-    "summary": "Social world models predict how interactions develop after an action, helping agents negotiate, cooperate and mediate. In these situations, one action can lead to several plausible futures, hence pred...",
-    "category": "models",
-    "id": 35
-  },
-  {
-    "title": "A Topology-Guided GeoAI Agentic Framework for Urban Flood Screening",
-    "url": "https://arxiv.org/abs/2610.30660",
-    "source": "arXiv cs.AI",
-    "date": "2026-10-23",
-    "summary": "Open-world geographic artificial intelligence (GeoAI) agents can transform public geospatial data into accessible decision support for real-world challenges, but must balance autonomous reasoning with...",
-    "category": "models",
-    "id": 36
-  },
-  {
-    "title": "Group Relative Policy Optimisation Improves Multilingual Speech Recognition in Low-Resource Languages",
-    "url": "https://arxiv.org/abs/2610.30663",
-    "source": "arXiv cs.AI",
-    "date": "2026-10-23",
-    "summary": "Autoregressive encoder-decoder speech recognition models trained with teacher forcing can suffer from exposure bias, limiting their ability to recover from their own prediction errors at inference tim...",
-    "category": "research",
-    "id": 37
-  },
-  {
-    "title": "Scaling Laws for Safety Probes",
-    "url": "https://arxiv.org/abs/2610.30678",
-    "source": "arXiv cs.AI",
-    "date": "2026-10-23",
-    "summary": "Safety probes trained on a model's activations are a standard tool for monitoring language models in real time. Each time a new model is released or a new harm area needs to be monitored, the probe mu...",
-    "category": "research",
-    "id": 38
-  },
-  {
-    "title": "Disentangling Robustness and Sycophancy in Multilingual LLMs",
-    "url": "https://arxiv.org/abs/2610.30696",
-    "source": "arXiv cs.AI",
-    "date": "2026-10-23",
-    "summary": "When a multilingual LLM agrees with a user's false premise, is it being sycophantic, or does it simply not know better in that language? Current research does not distinguish these cases: they record ...",
-    "category": "research",
-    "id": 39
-  },
-  {
-    "title": "Governance-State Corruption in Long-Term Memory for LLM Agents: A Cross-Model Stress Test",
-    "url": "https://arxiv.org/abs/2610.30698",
-    "source": "arXiv cs.AI",
-    "date": "2026-10-23",
-    "summary": "An LLM agent can retrieve a memory correctly yet use it incorrectly after its validity state changes. We study governance-state corruption: faults that alter which retained records enter model-visible...",
-    "category": "hardware",
-    "id": 40
-  },
-  {
-    "title": "Faithful Latent Harm Monitors Work No Better Than the Models Own Behaviour at a Matched False Alarm Rate",
-    "url": "https://arxiv.org/abs/2610.30727",
-    "source": "arXiv cs.AI",
-    "date": "2026-10-23",
-    "summary": "Large language models have been reported to encode the harmfulness of a request separately from their decision to refuse it, and latent safety monitors such as Latent Guard build on this report by cla...",
-    "category": "models",
-    "id": 41
-  },
-  {
-    "title": "AgentTriage: Replayable Security Diagnosis Across Heterogeneous Agent Runtimes",
-    "url": "https://arxiv.org/abs/2610.30738",
-    "source": "arXiv cs.AI",
-    "date": "2026-10-23",
-    "summary": "When tool-use agents write files, execute code, or send data, their final responses do not explain the resulting security events, and heterogeneous runtimes expose the relevant evidence through incomp...",
-    "category": "research",
-    "id": 42
-  },
-  {
-    "title": "How Firm Are AI Models' Ethical Boundaries? A Pay-Stub Editing Test of 15 Models",
-    "url": "https://arxiv.org/abs/2610.30751",
-    "source": "arXiv cs.AI",
-    "date": "2026-10-23",
-    "summary": "Can a small change in wording move an AI model from refusing a sensitive request to acting on it? We test 15 models on the same request to increase the income shown on a pay stub. Across 445 observabl...",
-    "category": "models",
-    "id": 43
-  },
-  {
-    "title": "Is Complex Agentic Memory Always Needed? Naive RAG Is Stronger Than We Thought",
-    "url": "https://arxiv.org/abs/2610.30755",
-    "source": "arXiv cs.AI",
-    "date": "2026-10-23",
-    "summary": "LLM memory is widely used in long-term conversation understanding. Agentic memory systems often use mutation, structural organization, learned retrieval strategies, or other complex operations. Is thi...",
-    "category": "research",
-    "id": 44
-  },
-  {
-    "title": "Can Loan Processors and Underwriters Spot AI-Edited Statements? An Empirical Study",
-    "url": "https://arxiv.org/abs/2610.30758",
-    "source": "arXiv cs.AI",
-    "date": "2026-10-23",
-    "summary": "AI-assisted editing can produce loan documents that preserve familiar issuer layouts while changing the applicant's identity. We investigated whether experienced underwriters and loan processors ident...",
-    "category": "research",
-    "id": 45
-  },
-  {
-    "title": "AgentDP: Towards Automated Model Deployment for Heterogeneous Embedded AI Applications",
-    "url": "https://arxiv.org/abs/2610.30760",
-    "source": "arXiv cs.AI",
-    "date": "2026-10-23",
-    "summary": "This paper presents AgentDP, which aims to deploy pre-trained AI models on heterogeneous embedded devices by fully automating model optimization and adaptation (O&A) with Large Language Model (LLM) ag...",
-    "category": "models",
-    "id": 46
-  },
-  {
-    "title": "Scaling Laws for Generative Reward Models",
-    "url": "https://arxiv.org/abs/2610.30765",
-    "source": "arXiv cs.AI",
-    "date": "2026-10-23",
-    "summary": "We study generative reward models (GenRMs) as online preference providers for policy optimization in creative writing. Across Qwen3 reward-model sizes from 0.6B to 14B, Thinking judges trained with GR...",
-    "category": "research",
-    "id": 47
-  },
-  {
-    "title": "LLM Multi-Agent Systems Are Vulnerable to Herding and Runaway Cascades",
-    "url": "https://arxiv.org/abs/2610.30769",
-    "source": "arXiv cs.AI",
-    "date": "2026-10-23",
-    "summary": "Large language models (LLMs) increasingly operate in multi-agent systems where they collaborate by responding to others' choices, creating endogenous feedback loops with vulnerability to social influe...",
-    "category": "models",
-    "id": 48
-  },
-  {
-    "title": "ProQuant: Preserving Expert Quality over Quantity in Ultra-Low-Bit Quantization of Mixture-of-Experts Models",
-    "url": "https://arxiv.org/abs/2610.30779",
-    "source": "arXiv cs.AI",
-    "date": "2026-10-23",
-    "summary": "Mixture-of-Experts (MoE) large language models reduce computation through sparse activation but still incur substantial storage costs. Mixed-precision post-training quantization (PTQ) reduces these co...",
-    "category": "research",
-    "id": 49
-  },
-  {
-    "title": "An Introduction to World Models for Generalist Agents",
-    "url": "https://arxiv.org/abs/2610.30789",
-    "source": "arXiv cs.AI",
-    "date": "2026-10-23",
-    "summary": "World models have recently emerged as a promising direction toward developing generalist agents capable of understanding, predicting, and interacting with diverse environments. However, despite growin...",
-    "category": "research",
     "id": 50
   }
 ]
