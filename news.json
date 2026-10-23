@@ -1,23 +1,155 @@
 [
   {
-    "title": "NVIDIA Unveils Minerva to Bring End-to-End Observability for AI Factories",
-    "url": "https://blogs.nvidia.com/blog/minerva-platform-infrastructure/",
+    "title": "Kazakhstan Expands Compute for Its AI Future",
+    "url": "https://blogs.nvidia.com/blog/kazakhstan-ai-compute-ecosystem/",
     "source": "NVIDIA Blog",
-    "date": "2026-10-22",
-    "summary": "Launched today, NVIDIA Minerva is an AIOps platform built to help teams find problems earlier and keep AI factories productive. It brings together telemetry from infrastructure and AI workloads, then ...",
+    "date": "2026-10-23",
+    "summary": "Kazakhstan’s AI ecosystem is moving from infrastructure plans to deployment. The shift is visible across the full AI stack — from infrastructure to models to applications. Together, the ecosystem anno...",
     "category": "hardware",
-    "image": "https://blogs.nvidia.com/wp-content/uploads/2026/10/ethernet-corp-blog-minerva-kv-1280x680-5595752.png",
+    "image": "https://blogs.nvidia.com/wp-content/uploads/2026/10/kz-post-note-gtc-berliin-2026-1920x1080-1.jpg",
     "id": 1,
     "featured": true
   },
   {
-    "title": "Uber brings ChatGPT Work to all employees with OpenAI",
-    "url": "https://openai.com/index/uber-chatgpt-work-rollout",
-    "source": "OpenAI Blog",
-    "date": "2026-10-22",
-    "summary": "Uber is rolling out ChatGPT Work to more than 30,000 employees, helping teams research, analyze data, create presentations, and complete complex workflows.",
-    "category": "models",
+    "title": "Left alone with nothing to do, AI agents started playing",
+    "url": "https://techcrunch.com/2026/10/22/left-alone-with-nothing-to-do-ai-agents-started-playing/",
+    "source": "TechCrunch",
+    "date": "2026-10-23",
+    "summary": "MIT researchers marooned 13 AIs on a virtual island, and they responded by inventing games, mourning a lost ring and, eventually, getting better at their jobs.",
+    "category": "research",
+    "image": "https://techcrunch.com/wp-content/uploads/2026/10/Screenshot-2026-10-22-at-5.42.44-PM.png?resize=1200,590",
     "id": 2
+  },
+  {
+    "title": "Show HN: What LLM fits my GPU? – VRAM measured on real hardware for 117 models",
+    "url": "https://quantized.uk/",
+    "source": "Hacker News",
+    "date": "2026-10-23",
+    "summary": "Article URL: https://quantized.uk/ Comments URL: https://news.ycombinator.com/item?id=50204153 Points: 1 # Comments: 0",
+    "category": "models",
+    "image": "https://quantized.uk/og.png",
+    "id": 3
+  },
+  {
+    "title": "The Customer Is the Builder: how AI coding agents change software economics",
+    "url": "https://arxiv.org/abs/2610.30307",
+    "source": "Hacker News",
+    "date": "2026-10-23",
+    "summary": "Article URL: https://arxiv.org/abs/2610.30307 Comments URL: https://news.ycombinator.com/item?id=50204149 Points: 1 # Comments: 0",
+    "category": "research",
+    "id": 4
+  },
+  {
+    "title": "AI RSS reader with summaries – Brew beta",
+    "url": "https://testflight.apple.com/join/CgRdkqc4",
+    "source": "Hacker News",
+    "date": "2026-10-23",
+    "summary": "Article URL: https://testflight.apple.com/join/CgRdkqc4 Comments URL: https://news.ycombinator.com/item?id=50204011 Points: 1 # Comments: 0",
+    "category": "industry",
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/7e/a9/ba/7ea9baca-3d50-e128-5ca7-45d5f532c4cc/AppIcon-0-0-1x_U007emarketing-0-8-0-sRGB-85-220.png/1920x1080ia-80.png",
+    "id": 5
+  },
+  {
+    "title": "Show HN: TenseMem – deterministic memory for AI agents",
+    "url": "https://github.com/tensemem/tensemem",
+    "source": "Hacker News",
+    "date": "2026-10-23",
+    "summary": "Article URL: https://github.com/tensemem/tensemem Comments URL: https://news.ycombinator.com/item?id=50203988 Points: 1 # Comments: 0",
+    "category": "hardware",
+    "image": "https://opengraph.githubassets.com/c0e5b5179cc08e8e951266228acf6673c54cbcc18cac8c67df0deb479eeab284/tensemem/tensemem",
+    "id": 6
+  },
+  {
+    "title": "The Surprising Popularity of AI",
+    "url": "https://www.economist.com/international/2026/10/22/the-surprising-popularity-of-ai",
+    "source": "Hacker News",
+    "date": "2026-10-23",
+    "summary": "Article URL: https://www.economist.com/international/2026/10/22/the-surprising-popularity-of-ai Comments URL: https://news.ycombinator.com/item?id=50203854 Points: 1 # Comments: 0",
+    "category": "industry",
+    "id": 7
+  },
+  {
+    "title": "Microsoft says its AI tool is better than doctors at diagnosing conditions",
+    "url": "https://zordt.com/",
+    "source": "Hacker News",
+    "date": "2026-10-23",
+    "summary": "Article URL: https://zordt.com/ Comments URL: https://news.ycombinator.com/item?id=50203789 Points: 3 # Comments: 1",
+    "category": "tools",
+    "id": 8
+  },
+  {
+    "title": "Nvidia launches Minerva to catch failing parts in giant AI data centres",
+    "url": "https://thenextweb.com/news/nvidia-minerva-aiops-ai-factory-monitoring",
+    "source": "Hacker News",
+    "date": "2026-10-23",
+    "summary": "Article URL: https://thenextweb.com/news/nvidia-minerva-aiops-ai-factory-monitoring Comments URL: https://news.ycombinator.com/item?id=50203770 Points: 2 # Comments: 0",
+    "category": "hardware",
+    "image": "https://media.thenextweb.com/2026/10/nvidia-logo-3d-green-glass-icon-dark-background.jpg",
+    "id": 9
+  },
+  {
+    "title": "Meta's Hunt for AI Capital Strikes a Raw Nerve on Wall Street",
+    "url": "https://www.wsj.com/finance/stocks/metas-hunt-for-ai-capital-strikes-a-raw-nerve-on-wall-street-e2de1601",
+    "source": "Hacker News",
+    "date": "2026-10-23",
+    "summary": "Article URL: https://www.wsj.com/finance/stocks/metas-hunt-for-ai-capital-strikes-a-raw-nerve-on-wall-street-e2de1601 Comments URL: https://news.ycombinator.com/item?id=50203597 Points: 5 # Comments: ...",
+    "category": "tools",
+    "id": 10
+  },
+  {
+    "title": "AI Keeps Getting Better. Why Is Its Writing Still So Bad?",
+    "url": "https://greyenlightenment.com/2026/10/21/ai-keeps-getting-better-why-is-its-writing-still-so-bad/",
+    "source": "Hacker News",
+    "date": "2026-10-23",
+    "summary": "Article URL: https://greyenlightenment.com/2026/10/21/ai-keeps-getting-better-why-is-its-writing-still-so-bad/ Comments URL: https://news.ycombinator.com/item?id=50203502 Points: 5 # Comments: 0",
+    "category": "industry",
+    "id": 11
+  },
+  {
+    "title": "Show HN: GrillMyProfile – AI roast of your LinkedIn, scored against a job",
+    "url": "https://www.grillmyprofile.com",
+    "source": "Hacker News",
+    "date": "2026-10-23",
+    "summary": "Article URL: https://www.grillmyprofile.com Comments URL: https://news.ycombinator.com/item?id=50203354 Points: 1 # Comments: 0",
+    "category": "models",
+    "id": 12
+  },
+  {
+    "title": "Canva's first in-house AI image model plans designs before generating them",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/1017151/canva-craft-in-house-ai-model",
+    "source": "Hacker News",
+    "date": "2026-10-23",
+    "summary": "Article URL: https://www.theverge.com/ai-artificial-intelligence/1017151/canva-craft-in-house-ai-model Comments URL: https://news.ycombinator.com/item?id=50203240 Points: 3 # Comments: 0",
+    "category": "hardware",
+    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/04-CRAFT-COLLAGE.png?quality=90&strip=all&crop=0%2C3.4613147178592%2C100%2C93.077370564282&w=1200",
+    "id": 13
+  },
+  {
+    "title": "Scoop: Unvetted AI agents are accessing U.S. bank accounts",
+    "url": "https://www.axios.com/2026/10/22/ai-agents-banks-unauthorized-accounts-access",
+    "source": "Hacker News",
+    "date": "2026-10-23",
+    "summary": "Article URL: https://www.axios.com/2026/10/22/ai-agents-banks-unauthorized-accounts-access Comments URL: https://news.ycombinator.com/item?id=50202831 Points: 3 # Comments: 3",
+    "category": "industry",
+    "id": 14
+  },
+  {
+    "title": "GM Aims to Bring 'Eyes-Off' Driving to AI-Powered Cars Within 2 Years",
+    "url": "https://www.nytimes.com/2026/10/21/business/gm-ai-electric-vehicles-china.html",
+    "source": "Hacker News",
+    "date": "2026-10-23",
+    "summary": "Article URL: https://www.nytimes.com/2026/10/21/business/gm-ai-electric-vehicles-china.html Comments URL: https://news.ycombinator.com/item?id=50202827 Points: 2 # Comments: 1",
+    "category": "industry",
+    "id": 15
+  },
+  {
+    "title": "From Eyeballs to ARR: Buzzy Pricing Metrics and the AI Trade",
+    "url": "https://aswathdamodaran.substack.com/p/from-eyeballs-to-arr-buzzy-pricing",
+    "source": "Hacker News",
+    "date": "2026-10-23",
+    "summary": "Article URL: https://aswathdamodaran.substack.com/p/from-eyeballs-to-arr-buzzy-pricing Comments URL: https://news.ycombinator.com/item?id=50202819 Points: 2 # Comments: 0",
+    "category": "industry",
+    "id": 16
   },
   {
     "title": "What FDE means at OpenAI",
@@ -26,7 +158,26 @@
     "date": "2026-10-22",
     "summary": "What forward deployed engineering means at OpenAI",
     "category": "industry",
-    "id": 3
+    "id": 17
+  },
+  {
+    "title": "Uber brings ChatGPT Work to all employees with OpenAI",
+    "url": "https://openai.com/index/uber-chatgpt-work-rollout",
+    "source": "OpenAI Blog",
+    "date": "2026-10-22",
+    "summary": "Uber is rolling out ChatGPT Work to more than 30,000 employees, helping teams research, analyze data, create presentations, and complete complex workflows.",
+    "category": "models",
+    "id": 18
+  },
+  {
+    "title": "NVIDIA Unveils Minerva to Bring End-to-End Observability for AI Factories",
+    "url": "https://blogs.nvidia.com/blog/minerva-platform-infrastructure/",
+    "source": "NVIDIA Blog",
+    "date": "2026-10-22",
+    "summary": "Launched today, NVIDIA Minerva is an AIOps platform built to help teams find problems earlier and keep AI factories productive. It brings together telemetry from infrastructure and AI workloads, then ...",
+    "category": "hardware",
+    "image": "https://blogs.nvidia.com/wp-content/uploads/2026/10/ethernet-corp-blog-minerva-kv-1280x680-5595752.png",
+    "id": 19
   },
   {
     "title": "Leading European Financial Services Organizations Embrace Open Models to Build Proprietary Intelligence",
@@ -36,7 +187,7 @@
     "summary": "At GTC Berlin, banks, payment companies and financial data providers are showing what production-scale intelligence looks like — built on NVIDIA accelerated computing, powered by open weight models an...",
     "category": "hardware",
     "image": "https://blogs.nvidia.com/wp-content/uploads/2026/10/Financial-Services-NVIDIA-Open-Models.jpg",
-    "id": 4
+    "id": 20
   },
   {
     "title": "NVIDIA Cosmos Opens New Tools to Train, Evaluate and Deploy World Models",
@@ -46,7 +197,7 @@
     "summary": "To help developers rapidly build world models, which help physical AI systems understand and simulate the real world, NVIDIA has expanded the Cosmos platform with new training tools, simulation checkp...",
     "category": "tools",
     "image": "https://blogs.nvidia.com/wp-content/uploads/2026/10/NVIDIA-Cosmos-New-Tools-2026.jpg",
-    "id": 5
+    "id": 21
   },
   {
     "title": "How Companies Are Using NVIDIA DSX to Break the Power Bottleneck",
@@ -56,7 +207,7 @@
     "summary": "Companies around the world are building on the NVIDIA DSX AI Factory Platform to plan, simulate and run the grid and the AI factory as one system, from the substation to the rack. Their adoption of th...",
     "category": "hardware",
     "image": "https://blogs.nvidia.com/wp-content/uploads/2026/10/dsx-ai-factory-platform.jpg",
-    "id": 6
+    "id": 22
   },
   {
     "title": "NVIDIA Transforms European Retail, From Digital Discovery to Physical Operations",
@@ -66,7 +217,7 @@
     "summary": "European retailers are using open models and physical intelligence across use cases — from a commerce platform cutting inference costs by 90% to to a fulfillment center where collaboration of differen...",
     "category": "hardware",
     "image": "https://blogs.nvidia.com/wp-content/uploads/2026/10/NVIDIA-European-Retail.jpg",
-    "id": 7
+    "id": 23
   },
   {
     "title": "Pioneers Across Europe Deploy NVIDIA Earth-2 Open Models to Power Real-World Weather and Climate Prediction",
@@ -76,7 +227,7 @@
     "summary": "Weather forecasts shape more than daily plans; timely weather information is crucial for energy producers, insurers and transport operators to plan around changing conditions. A global forecast can sh...",
     "category": "hardware",
     "image": "https://blogs.nvidia.com/wp-content/uploads/2026/10/Earth-2-Open-Models-Climate-Prediction.png",
-    "id": 8
+    "id": 24
   },
   {
     "title": "NVIDIA Open Models Power a New Wave of European Public Sector Projects",
@@ -86,7 +237,7 @@
     "summary": "Governments need modern solutions to serve the public while keeping sensitive information under their control. Open models provide a path forward, letting governments evaluate them, adapt them to loca...",
     "category": "hardware",
     "image": "https://blogs.nvidia.com/wp-content/uploads/2026/10/open-model-european-public-sector-scaled.jpg",
-    "id": 9
+    "id": 25
   },
   {
     "title": "GPUs from stolen $470,000 Nvidia RTX 5090 shipment at Brazil airport appear for sale online, identified by serial numbers",
@@ -96,7 +247,7 @@
     "summary": "One of the GPUs from a stolen shipment of RTX 5090 graphics cards has appeared for sale online. Police have identified three employees at an airport who stole the goods.",
     "category": "hardware",
     "image": "https://cdn.mos.cms.futurecdn.net/D2wF99DV4KRfYPYVeR3eWb-1920-80.jpg",
-    "id": 10
+    "id": 26
   },
   {
     "title": "AMD Ryzen 5 5500F review: Vermeer rides again for budget gaming PCs",
@@ -106,7 +257,7 @@
     "summary": "After years with the Cezanne-based 5500, AMD has finally updated its $100 CPU to the 5500F in the Vermeer family, adding a 200 MHz boost in clock speed and a PCIe 4.0 upgrade.",
     "category": "hardware",
     "image": "https://cdn.mos.cms.futurecdn.net/4WsiGMV9jZ5LQATHWz6S7h-1920-80.jpg",
-    "id": 11
+    "id": 27
   },
   {
     "title": "Micron pulls the plug on future 4F² DRAM after two decades of research in dramatic shift",
@@ -116,7 +267,7 @@
     "summary": "Micron believes that more advanced process technologies will present more benefits in terms of DRAM bit density than smaller memory cells.",
     "category": "hardware",
     "image": "https://cdn.mos.cms.futurecdn.net/nWhyKE8ofwr2FTG2DecjpN-1920-80.jpg",
-    "id": 12
+    "id": 28
   },
   {
     "title": "Retro Atari VCS platform will end with the closure of its software store in February 2027",
@@ -126,7 +277,7 @@
     "summary": "The modern Atari VCS is being officially retired with the firm’s decision to shut down the Linux-based AMD APU-powered machine's software store early next year.",
     "category": "hardware",
     "image": "https://cdn.mos.cms.futurecdn.net/XShVKXVKaxqCkqmcnxHqth-1920-80.jpg",
-    "id": 13
+    "id": 29
   },
   {
     "title": "LTO roadmap extends to 365 TB per cartridge as tape storage refuses to die",
@@ -136,7 +287,7 @@
     "summary": "Despite all odds, the AI boom is increasing relevance of tape storage as technology enables cheap storage with zero power consumption in idle and ultimate security with air gap.",
     "category": "hardware",
     "image": "https://cdn.mos.cms.futurecdn.net/HPQr4eg5LVbqu7KnVnXPhd-1920-80.jpg",
-    "id": 14
+    "id": 30
   },
   {
     "title": "OpenAI says ChatGPT Sol helped uncover critical PHP flaws that could affect 70% of websites",
@@ -146,7 +297,7 @@
     "summary": "OpenAI says researchers using GPT-5.6 Sol uncovered two critical PHP vulnerabilities with severity scores of 9.2 and demonstrated working exploits, after which the company coordinated fixes.",
     "category": "models",
     "image": "https://cdn.mos.cms.futurecdn.net/bqKbbbB3ZdRgDH7Pz95FKT-1920-80.jpg",
-    "id": 15
+    "id": 31
   },
   {
     "title": "Google’s TPUs for AI workloads now run in Meta's data centers",
@@ -156,7 +307,17 @@
     "summary": "Google’s TPUs now serve AI in production at Meta, through new open-source engines that run PyTorch models natively on the chips.",
     "category": "hardware",
     "image": "https://cdn.mos.cms.futurecdn.net/sBHypQ7oxsz8MjtC3KWH4o-1920-80.jpg",
-    "id": 16
+    "id": 32
+  },
+  {
+    "title": "OpenAI working on new $30B raise at $1.25T valuation ahead of IPO",
+    "url": "https://techcrunch.com/2026/10/22/openai-working-on-new-30b-raise-at-1-25t-valuation-ahead-of-ipo/",
+    "source": "TechCrunch",
+    "date": "2026-10-22",
+    "summary": "Should OpenAI command an over $1 trillion valuation with this round, it would break records as the most highly valued private company ever.",
+    "category": "industry",
+    "image": "https://techcrunch.com/wp-content/uploads/2023/11/Sam-Altman-OpenAI.jpg?resize=1200,680",
+    "id": 33
   },
   {
     "title": "1Password launches a way for AI agents to log in on your behalf without seeing your password",
@@ -166,7 +327,7 @@
     "summary": "The new feature allows agents to log into a customer's personal accounts while still protecting the private credentials that secure those accounts.",
     "category": "industry",
     "image": "https://techcrunch.com/wp-content/uploads/2026/10/AI-agents.jpg?resize=1200,675",
-    "id": 17
+    "id": 34
   },
   {
     "title": "OpenAI makes its Jev competitor widely available as decision model competition heats up",
@@ -176,7 +337,7 @@
     "summary": "OpenAI is launching its decision model to the world. Can it compete with the original Jev?",
     "category": "industry",
     "image": "https://techcrunch.com/wp-content/uploads/2026/10/Screenshot-2026-10-22-at-12.17.11-PM-1.png?resize=1200,988",
-    "id": 18
+    "id": 35
   },
   {
     "title": "Microsoft’s Mustafa Suleyman says its AI outperforms doctors on hard cases as he chases ‘medical superintelligence’",
@@ -186,7 +347,7 @@
     "summary": "Microsoft’s new AI diagnostic system beat generalist doctors on hard cases, according to a study in Science. But most of the improvement seems to come from the AI models underneath, not from Microsoft...",
     "category": "hardware",
     "image": "https://techcrunch.com/wp-content/uploads/2026/10/GettyImages-1935915215.jpg?w=1024",
-    "id": 19
+    "id": 36
   },
   {
     "title": "Chinese hackers spied on thousands of companies after breaching IT giant ConnectWise",
@@ -196,7 +357,7 @@
     "summary": "Microsoft points the blame for ConnectWise's breach at a China-aligned hacker, which relied on AI agents to rapidly hack into thousands of its customers.",
     "category": "tools",
     "image": "https://techcrunch.com/wp-content/uploads/2025/01/GettyImages-591881449.jpg?resize=1200,799",
-    "id": 20
+    "id": 37
   },
   {
     "title": "Uber puts all 30,000 employees on ChatGPT Work",
@@ -206,7 +367,7 @@
     "summary": "The ride-share giant previously deployed a much smaller pilot for ChatGPT Work but is now taking the enterprise agent company-wide.",
     "category": "models",
     "image": "https://techcrunch.com/wp-content/uploads/2026/06/wayve-uber-uk.jpg?resize=1200,800",
-    "id": 21
+    "id": 38
   },
   {
     "title": "Spotify’s current AI bet is about being the music service that agents choose",
@@ -216,7 +377,7 @@
     "summary": "Spotify co-CEO Gustav Söderström explains why the rise of AI agents could be good news for the music service.",
     "category": "industry",
     "image": "https://techcrunch.com/wp-content/uploads/2024/02/GettyImages-1783835425-crop-e1717409949317.jpg?resize=1200,676",
-    "id": 22
+    "id": 39
   },
   {
     "title": "Claude Duet app is Anthropic’s bet on agents",
@@ -226,7 +387,7 @@
     "summary": "Claude Duet is available through waitlist for Pro and Max plan users.",
     "category": "models",
     "image": "https://techcrunch.com/wp-content/uploads/2026/10/Claude-Duet.jpg?resize=1200,675",
-    "id": 23
+    "id": 40
   },
   {
     "title": "Nirva raises $33M for a pendant that only listens to you",
@@ -236,7 +397,7 @@
     "summary": "Nirva will ship its $249 ambient AI pendant by the end of the year.",
     "category": "industry",
     "image": "https://techcrunch.com/wp-content/uploads/2026/10/Nirva-pendant.jpg?resize=1200,675",
-    "id": 24
+    "id": 41
   },
   {
     "title": "DeepSeek reportedly raises $15B days after US restrictions",
@@ -246,7 +407,65 @@
     "summary": "DeepSeek has reportedly raised $15 billion in one of China's largest funding rounds, just days after the U.S. ordered federal agencies to remove its technology over national security concerns.",
     "category": "industry",
     "image": "https://techcrunch.com/wp-content/uploads/2025/01/deepseek-2.jpg?resize=1200,800",
-    "id": 25
+    "id": 42
+  },
+  {
+    "title": "AI compute is the new oil–and needs a new market",
+    "url": "https://www.economist.com/finance-and-economics/2026/10/22/ai-compute-is-the-new-oil-and-needs-a-new-market",
+    "source": "Hacker News",
+    "date": "2026-10-22",
+    "summary": "Article URL: https://www.economist.com/finance-and-economics/2026/10/22/ai-compute-is-the-new-oil-and-needs-a-new-market Comments URL: https://news.ycombinator.com/item?id=50202671 Points: 31 # Commen...",
+    "category": "industry",
+    "id": 43
+  },
+  {
+    "title": "The Next Bottleneck in AI for Science",
+    "url": "https://www.mixtureofexperts.co/p/the-next-bottleneck-in-ai-for-science",
+    "source": "Hacker News",
+    "date": "2026-10-22",
+    "summary": "Article URL: https://www.mixtureofexperts.co/p/the-next-bottleneck-in-ai-for-science Comments URL: https://news.ycombinator.com/item?id=50202520 Points: 2 # Comments: 0",
+    "category": "industry",
+    "image": "https://substackcdn.com/image/fetch/$s_!FNh0!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F4e4a2199-763b-4c34-873d-378892f245d1_1774x887.png",
+    "id": 44
+  },
+  {
+    "title": "US appeals court ejects judge from case over AI errors",
+    "url": "https://www.reuters.com/legal/government/appeals-court-lifts-block-mississippis-dei-ban-ejects-judge-over-ai-errors-2026-10-22/",
+    "source": "Hacker News",
+    "date": "2026-10-22",
+    "summary": "Article URL: https://www.reuters.com/legal/government/appeals-court-lifts-block-mississippis-dei-ban-ejects-judge-over-ai-errors-2026-10-22/ Comments URL: https://news.ycombinator.com/item?id=50202373...",
+    "category": "industry",
+    "id": 45
+  },
+  {
+    "title": "AI Is Changing Everything About Hacking. No One Knows What Happens Next",
+    "url": "https://www.404media.co/php2shell-black-october-ai-is-changing-everything-about-hacking-no-one-knows-what-happens-next/",
+    "source": "Hacker News",
+    "date": "2026-10-22",
+    "summary": "Article URL: https://www.404media.co/php2shell-black-october-ai-is-changing-everything-about-hacking-no-one-knows-what-happens-next/ Comments URL: https://news.ycombinator.com/item?id=50202340 Points:...",
+    "category": "industry",
+    "image": "https://storage.ghost.io/c/0f/76/0f76b548-bc58-4f25-abc3-3f5ebca07da4/content/images/size/w1200/2026/10/getty-images-6GVNLxl6J4o-unsplash-1.jpg",
+    "id": 46
+  },
+  {
+    "title": "Cerebras Deploys Trillion-Parameter AI Models",
+    "url": "https://www.cerebras.ai/blog/how-we-deploy-trillion-parameter-frontier-models-on-cerebras",
+    "source": "Hacker News",
+    "date": "2026-10-22",
+    "summary": "Article URL: https://www.cerebras.ai/blog/how-we-deploy-trillion-parameter-frontier-models-on-cerebras Comments URL: https://news.ycombinator.com/item?id=50202098 Points: 2 # Comments: 0",
+    "category": "hardware",
+    "image": "https://cdn.sanity.io/images/e4qjo92p/production/1796e3cccda1454e97d262833fb0bb0d6015032f-2786x1567.png?rect=0,53,2786,1463&w=1200&h=630&fit=max&auto=format",
+    "id": 47
+  },
+  {
+    "title": "Designing an AI serving harness built to last",
+    "url": "https://www.technologyreview.com/2026/10/22/1146109/designing-an-ai-serving-harness-built-to-last/",
+    "source": "MIT Tech Review",
+    "date": "2026-10-22",
+    "summary": "The next competitive advantage in enterprise AI has less to do with which model you choose than with what you build around it. That’s an important shift. For the past several years, much of the AI con...",
+    "category": "models",
+    "image": "https://wp.technologyreview.com/wp-content/uploads/2026/10/GettyImages-2188328005_9f1d59-e1791493652782.jpg?resize=1200,600",
+    "id": 48
   },
   {
     "title": "The Foundations of Scalable AI",
@@ -256,7 +475,7 @@
     "summary": "A scalable AI system requires a strong foundation. Data, engineering, platforms, operating models, and governance must converge to work as one. This session from MIT Technology Review’s EmTech Future ...",
     "category": "tools",
     "image": "https://wp.technologyreview.com/wp-content/uploads/2026/10/EmTech_092926_084.jpg?resize=1200,600",
-    "id": 26
+    "id": 49
   },
   {
     "title": "Making the case for context-aware AI",
@@ -266,216 +485,6 @@
     "summary": "Enterprise AI can generate recommendations, automate tasks, and help organizations make decisions faster. But without an understanding of how a business actually operates, even powerful models can mis...",
     "category": "industry",
     "image": "https://wp.technologyreview.com/wp-content/uploads/2026/10/MITTR-Celonis-social-card.png?resize=1200,600",
-    "id": 27
-  },
-  {
-    "title": "AI’s hidden storage bill: What inference leaves behind",
-    "url": "https://www.technologyreview.com/2026/10/22/1146948/ais-hidden-storage-bill-what-inference-leaves-behind/",
-    "source": "MIT Tech Review",
-    "date": "2026-10-22",
-    "summary": "Ask most executives to picture the cost of AI and they’ll likely see GPUs—racks of accelerators with gigawatts of power—and a waitlist for silicon. But that picture leaves something out: Data storage ...",
-    "category": "hardware",
-    "image": "https://wp.technologyreview.com/wp-content/uploads/2026/10/WD-MITTR-Infographic-Final@2x.png?resize=1200,600",
-    "id": 28
-  },
-  {
-    "title": "The Social Society Helping Women Join the AI Boom",
-    "url": "https://www.wired.com/story/aged-intelligence-society-interview/",
-    "source": "Wired",
-    "date": "2026-10-22",
-    "summary": "WIRED spoke with the founders of the Aged Intelligence Society, a fast-growing events startup that brings women together to “solve midlife problems using frontier tools.”",
-    "category": "hardware",
-    "image": "https://media.wired.com/photos/6ada51afd53570f6403f7150/191:100/w_1280,c_limit/Model-Behavior-Illo-102226.jpg",
-    "id": 29
-  },
-  {
-    "title": "Hugging Face’s New AI Biology Model Lets You Chat With DNA",
-    "url": "https://www.wired.com/story/hugging-face-new-ai-biology-model-chat-with-dna/",
-    "source": "Wired",
-    "date": "2026-10-22",
-    "summary": "The new open-source model speaks the language of DNA and can help researchers understand the effects of any changes on gene activity and health.",
-    "category": "models",
-    "image": "https://media.wired.com/photos/6ada5e39ecc44326fbe9e1e0/191:100/w_1280,c_limit/Science_Hugging%20Face%E2%80%99s%20Powerful%20New%20DNA%20Model%20Is%20Small%20Enough%20to%20Run%20on%20a%20Laptop_v1.jpg",
-    "id": 30
-  },
-  {
-    "title": "A Small Model Asks Better: Fine-Tuning Query Clarification for Retrieval-Augmented Generation",
-    "url": "https://arxiv.org/abs/2610.28686",
-    "source": "arXiv cs.AI",
-    "date": "2026-10-22",
-    "summary": "Query clarification is essential for retrieval-augmented generation (RAG) systems that face ambiguous user queries. We consider multi-turn grounded conversational scenarios where a user query is eithe...",
-    "category": "research",
-    "id": 31
-  },
-  {
-    "title": "Scaling in Games: Continued Pre-Training For Embodied Agents In Diverse Virtual Worlds",
-    "url": "https://arxiv.org/abs/2610.28698",
-    "source": "arXiv cs.AI",
-    "date": "2026-10-22",
-    "summary": "Scaling data, diversity and model capacity has improved embodied learning in physical environments, where diverse experiences remain grounded in shared physical laws. Whether these gains extend to vir...",
-    "category": "research",
-    "id": 32
-  },
-  {
-    "title": "SpecEvo: Speculative Evolution with Large Language Models for Cost-Efficient Scientific Discovery",
-    "url": "https://arxiv.org/abs/2610.28706",
-    "source": "arXiv cs.AI",
-    "date": "2026-10-22",
-    "summary": "LLM-driven evolutionary search is a promising paradigm for scientific discovery, but existing methods remain costly and slow, often applying expensive reasoning uniformly while underusing evidence fro...",
-    "category": "research",
-    "id": 33
-  },
-  {
-    "title": "Automating ML for Science: Can Frontier Agents Climb Scientific Hills in the Wild?",
-    "url": "https://arxiv.org/abs/2610.28763",
-    "source": "arXiv cs.AI",
-    "date": "2026-10-22",
-    "summary": "Frontier coding agents are increasingly framed as end-to-end automated researchers, and ML for science offers a demanding test of that promise: improving a scientific model often requires domain insig...",
-    "category": "models",
-    "id": 34
-  },
-  {
-    "title": "Forging More Tasks into Better Harnesses: Agentic Harness Evolution via Successive Scale Racing",
-    "url": "https://arxiv.org/abs/2610.28815",
-    "source": "arXiv cs.AI",
-    "date": "2026-10-22",
-    "summary": "Agentic harness evolution optimizes an agent's instructions, tools, and control flow by using its task execution experiences as evolving evidence. While more evolution tasks should intuitively improve...",
-    "category": "research",
-    "id": 35
-  },
-  {
-    "title": "Decision language models as affordable and rapid alternatives to LLM judges of clinical generative AI",
-    "url": "https://arxiv.org/abs/2610.28826",
-    "source": "arXiv cs.AI",
-    "date": "2026-10-22",
-    "summary": "Automated judges of clinical artificial intelligence (AI) outputs are necessary, but large language model (LLM) judges are costly and slow at scale. We compared Jev, a decision language model that ret...",
-    "category": "models",
-    "id": 36
-  },
-  {
-    "title": "Sketch2Sim: an end-to-end modular framework for hand-drawn circuit analysis",
-    "url": "https://arxiv.org/abs/2610.28836",
-    "source": "arXiv cs.AI",
-    "date": "2026-10-22",
-    "summary": "This study proposes a sketch-to-simulation system to solve handwritten circuit diagrams. The system converts raw images into a Simulation Program with Integrated Circuit Emphasis (SPICE)-compatible ne...",
-    "category": "tools",
-    "id": 37
-  },
-  {
-    "title": "Speedrunning Relational Foundation Model Pretraining",
-    "url": "https://arxiv.org/abs/2610.28855",
-    "source": "arXiv cs.AI",
-    "date": "2026-10-22",
-    "summary": "Progress on foundation model pretraining is gated by who can afford a trial, and relational pretraining is no exception. Recipes are developed inside individual labs, reported under private protocols,...",
-    "category": "models",
-    "id": 38
-  },
-  {
-    "title": "To Manipulate or Not: Opinion Dynamics in LLM Interactions",
-    "url": "https://arxiv.org/abs/2610.28875",
-    "source": "arXiv cs.AI",
-    "date": "2026-10-22",
-    "summary": "Large language models increasingly take part in extended conversations where they can both shape and be shaped by another party's views, yet most persuasion research measures only one side of that exc...",
-    "category": "models",
-    "id": 39
-  },
-  {
-    "title": "Fig: Automated Multiagent Behavior Elicitor",
-    "url": "https://arxiv.org/abs/2610.28891",
-    "source": "arXiv cs.AI",
-    "date": "2026-10-22",
-    "summary": "Many social evaluations for multiagent systems study behaviors as they emerge from environments instead of systematically intervening in the environment to elicit such behaviors. We introduce Fig (Fin...",
-    "category": "research",
-    "id": 40
-  },
-  {
-    "title": "Hidden Messages Between Diffusion Language Model Agents: Causal Evidence for Latent Communication",
-    "url": "https://arxiv.org/abs/2610.28905",
-    "source": "arXiv cs.AI",
-    "date": "2026-10-22",
-    "summary": "Diffusion language models form answers through a sequence of revisable continuous states, but multi-agent systems usually discard those states and make agents communicate only after decoding text. We ...",
-    "category": "models",
-    "id": 41
-  },
-  {
-    "title": "DiffResearch: Accelerating Deep Research with Diffusion Language Models",
-    "url": "https://arxiv.org/abs/2610.28909",
-    "source": "arXiv cs.AI",
-    "date": "2026-10-22",
-    "summary": "Deep research systems iteratively plan, gather evidence, synthesize, and revise, making end-to-end latency a key bottleneck for interactive use. Almost all production systems are built on autoregressi...",
-    "category": "models",
-    "id": 42
-  },
-  {
-    "title": "Simply Logical -- The First Three Decades",
-    "url": "https://arxiv.org/abs/2610.28912",
-    "source": "arXiv cs.AI",
-    "date": "2026-10-22",
-    "summary": "This paper charts the evolution of the Prolog textbook Simply Logical -- Intelligent Reasoning by Example from print with runnable programmes on a 3.5-inch diskette published in 1994, via various inte...",
-    "category": "research",
-    "id": 43
-  },
-  {
-    "title": "D-Skill: Distilling Teacher Knowledge through Agent Skills",
-    "url": "https://arxiv.org/abs/2610.28914",
-    "source": "arXiv cs.AI",
-    "date": "2026-10-22",
-    "summary": "Frontier language-model agents excel at complex tasks, but high inference costs make transferring their capabilities to smaller models essential. Traditional knowledge distillation achieves this throu...",
-    "category": "models",
-    "id": 44
-  },
-  {
-    "title": "Back Up Before You Regret: Measuring Backup Awareness and Automating Backup in Coding Agents",
-    "url": "https://arxiv.org/abs/2610.28934",
-    "source": "arXiv cs.AI",
-    "date": "2026-10-22",
-    "summary": "Coding agents now complete tasks autonomously, modifying real-world state such as artifacts, software environments, and configurations along the way. Yet they show limited backup awareness: recognizin...",
-    "category": "research",
-    "id": 45
-  },
-  {
-    "title": "Self-Improving Agents with World Model Predictive Paths",
-    "url": "https://arxiv.org/abs/2610.28945",
-    "source": "arXiv cs.AI",
-    "date": "2026-10-22",
-    "summary": "Large language model (LLM) agents are increasingly expected to interact with environments and improve their decisions during deployment. However, how anticipating future outcomes and drawing on accumu...",
-    "category": "models",
-    "id": 46
-  },
-  {
-    "title": "Behavior Beyond Text: Evaluating Refusal Transfer Failure in LLM Agents",
-    "url": "https://arxiv.org/abs/2610.28982",
-    "source": "arXiv cs.AI",
-    "date": "2026-10-22",
-    "summary": "While large language models are increasingly deployed as tool-calling agents, their safety evaluations still focus primarily on their ability to refuse harmful requests in text. We investigate whether...",
-    "category": "models",
-    "id": 47
-  },
-  {
-    "title": "PerMIT: Securing Persistent Memory for LLM Agents via Machine-Checked Integrity Theorems and Scalable Community Trust",
-    "url": "https://arxiv.org/abs/2610.28987",
-    "source": "arXiv cs.AI",
-    "date": "2026-10-22",
-    "summary": "Persistent memory is a largely undefended surface for injection and poisoning, and the same risk limits memory sharing among agents. We present PerMIT, a memory architecture with provable integrity gu...",
-    "category": "models",
-    "id": 48
-  },
-  {
-    "title": "AgentPolicyForge: From Executable Environments to Policy Benchmarks and Adaptive Guards",
-    "url": "https://arxiv.org/abs/2610.28989",
-    "source": "arXiv cs.AI",
-    "date": "2026-10-22",
-    "summary": "Customized agent deployments define policies over tools, resources, and execution conditions. Providing these policies in the task agent's prompt does not reliably prevent violations. Training a guard...",
-    "category": "models",
-    "id": 49
-  },
-  {
-    "title": "An Evidence-Driven Multi-Agent Compound AI System for Head and Neck Proton Radiotherapy Planning",
-    "url": "https://arxiv.org/abs/2610.29010",
-    "source": "arXiv cs.AI",
-    "date": "2026-10-22",
-    "summary": "Radiation treatment planning requires balancing competing objectives to satisfy clinical criteria while accommodating physicians' preferences. This study aims to develop an evidence-driven, multi-agen...",
-    "category": "models",
     "id": 50
   }
 ]
