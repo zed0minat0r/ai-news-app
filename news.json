@@ -158,6 +158,26 @@
     "id": 16
   },
   {
+    "title": "OpenAI says it will no longer train its AI models on the live internet, citing “significant risks”",
+    "url": "https://techcrunch.com/2026/10/23/openai-says-it-will-no-longer-train-its-ai-models-on-the-live-internet-citing-significant-risks/",
+    "source": "TechCrunch",
+    "date": "2026-10-23",
+    "summary": "OpenAI will cut frontier models off from the internet weeks after one of its engineers said that solution wouldn't work.",
+    "category": "industry",
+    "image": "https://techcrunch.com/wp-content/uploads/2026/05/openai-logo-code-background.jpg?resize=1200,798",
+    "id": 17
+  },
+  {
+    "title": "Hottest toy for Christmas? Nvidia CEO plays with adorable Microduck robots, 20,000 sell",
+    "url": "https://techcrunch.com/2026/10/23/hottest-toy-for-christmas-nvidia-ceo-plays-with-adorable-microduck-robots-20000-sell/",
+    "source": "TechCrunch",
+    "date": "2026-10-23",
+    "summary": "The robots, stomping their little feet and making tiny R2-D2 noises, sat, fell down dead for a \"nap,\" and summersaulted on voice command.",
+    "category": "hardware",
+    "image": "https://techcrunch.com/wp-content/uploads/2026/10/microduck-kickabout.jpg?resize=1200,676",
+    "id": 18
+  },
+  {
     "title": "From Toast to Bessemer: Who founders will hear from at TechCrunch Founder Summit 2026",
     "url": "https://techcrunch.com/2026/10/23/from-toast-to-bessemer-who-founders-will-hear-from-at-techcrunch-founder-summit-2026/",
     "source": "TechCrunch",
@@ -165,7 +185,7 @@
     "summary": "Hosted by TechCrunch in partnership with Fidelity Private Shares, the full-day event goes beyond fundraising and AI to explore the realities of finding customers, building teams, sharpening a pitch, d...",
     "category": "industry",
     "image": "https://techcrunch.com/wp-content/uploads/2026/01/TC-All-Stage-2025-Breakout-QA.jpg?resize=1200,800",
-    "id": 17
+    "id": 19
   },
   {
     "title": "Uber rival inDrive eyes 2027 robotaxi tests in Central Asia with Pony AI and Nvidia",
@@ -175,7 +195,7 @@
     "summary": "The company plans to begin testing Pony.ai's robotaxis in Kazakhstan's capital in the first half of 2027.",
     "category": "hardware",
     "image": "https://techcrunch.com/wp-content/uploads/2026/10/indrive-pony-ai-kazakhstan.jpg?resize=1200,800",
-    "id": 18
+    "id": 20
   },
   {
     "title": "Left alone with nothing to do, AI agents started playing",
@@ -185,7 +205,7 @@
     "summary": "MIT researchers marooned 13 AIs on a virtual island, and they responded by inventing games, mourning a lost ring and, eventually, getting better at their jobs.",
     "category": "research",
     "image": "https://techcrunch.com/wp-content/uploads/2026/10/Screenshot-2026-10-22-at-5.42.44-PM.png?resize=1200,590",
-    "id": 19
+    "id": 21
   },
   {
     "title": "The Cost of Saying Hello: An Empirical Study of Handshake Overhead in AI Agent Communication Protocols",
@@ -194,7 +214,7 @@
     "date": "2026-10-23",
     "summary": "Every interaction between AI agents begins with a handshake: the initiating agent must locate its counterpart, learn what it can do, and establish a session before the first useful message can be sent...",
     "category": "models",
-    "id": 20
+    "id": 22
   },
   {
     "title": "MCP vs CLI for AI Agents: A Comparative Analysis of Tool Integration Strategies for Autonomous Systems",
@@ -203,7 +223,7 @@
     "date": "2026-10-23",
     "summary": "AI agents require interfaces to interact with external systems such as files, APIs, databases, and cloud services. Two competing paradigms have emerged: CLI (Command Line Interface), where agents exec...",
     "category": "tools",
-    "id": 21
+    "id": 23
   },
   {
     "title": "Accelerating Wildfire Hazard Mapping Across Canada with an AI Surrogate Modelling Framework",
@@ -212,7 +232,7 @@
     "date": "2026-10-23",
     "summary": "Canada's increasing wildfire activity requires frequent national hazard mapping to guide proactive mitigation, including fuel management, land-use planning, infrastructure protection, and evacuation r...",
     "category": "hardware",
-    "id": 22
+    "id": 24
   },
   {
     "title": "Neural Networks with Differentiable Belief-Function Layers",
@@ -221,7 +241,7 @@
     "date": "2026-10-23",
     "summary": "Yager's 1987 rule of combination $\\boxplus$ was proposed on epistemic grounds: under high conflict, mass should be redistributed to ignorance rather than renormalised onto the class simplex. We observ...",
     "category": "hardware",
-    "id": 23
+    "id": 25
   },
   {
     "title": "When Stable and Preferred Semantics Agree: A Path-Based Approach",
@@ -230,7 +250,7 @@
     "date": "2026-10-23",
     "summary": "We investigate structural conditions under which preferred and stable semantics agree in abstract argumentation frameworks. Our approach is based on suitably chosen sets of paths in the attack graph a...",
     "category": "tools",
-    "id": 24
+    "id": 26
   },
   {
     "title": "Feedback That Backfires in Games: Do LLM Players Repeat the Move They Just Watched Fail?",
@@ -239,7 +259,7 @@
     "date": "2026-10-23",
     "summary": "When an LLM agent's move fails, the harness writes the move and the failure message into the transcript and asks again. In tool calling, this record makes small models more likely to repeat the failed...",
     "category": "models",
-    "id": 25
+    "id": 27
   },
   {
     "title": "Breaking the high-degree barrier in Lehmer's problem with a human-AI discovery loop",
@@ -248,7 +268,7 @@
     "date": "2026-10-23",
     "summary": "While artificial intelligence has made rapid progress in mathematical reasoning, many open problems depend on structure that is revealed only through large-scale computational exploration and analytic...",
     "category": "research",
-    "id": 26
+    "id": 28
   },
   {
     "title": "Route-and-Generate: KL-Regularized Router Improvement for Reasoning Routing in LLMs",
@@ -257,7 +277,7 @@
     "date": "2026-10-23",
     "summary": "Large language models often apply complex reasoning indiscriminately, leading to overthinking on simple tasks and underthinking on harder ones. We present Route-and-Generate (Rouge), a hierarchical tr...",
     "category": "research",
-    "id": 27
+    "id": 29
   },
   {
     "title": "Soft Ontology Priors over Latent Concept Posteriors for Weakly Supervised Neuro-Symbolic Learning",
@@ -266,7 +286,7 @@
     "date": "2026-10-23",
     "summary": "Neuro-symbolic (NeSy) predictors that supervise only the task label suffer from reasoning shortcuts: distinct concept mappings achieve the same maximum likelihood, leaving the recovered concepts unide...",
     "category": "research",
-    "id": 28
+    "id": 30
   },
   {
     "title": "RoleFlow: Self-Evolving Multi-Role Agentic Collaboration via Structural Adaptation",
@@ -275,7 +295,7 @@
     "date": "2026-10-23",
     "summary": "Large language model (LLM) based multi-agent systems often rely on predefined collaboration structures, limiting their adaptability to evolving task requirements. Although recent approaches enable dyn...",
     "category": "models",
-    "id": 29
+    "id": 31
   },
   {
     "title": "Secure Agentic AI and Multimodal Intelligence in 6G Communication Systems",
@@ -284,7 +304,7 @@
     "date": "2026-10-23",
     "summary": "Sixth-generation (6G) communication systems are expected to support immersive, intent-driven, and latency-critical services through tight integration of multimodal intelligence, edge computing, and au...",
     "category": "hardware",
-    "id": 30
+    "id": 32
   },
   {
     "title": "SpecMAGIC: Specification-Guided Multi-Task Generalization in Multi-Agent Reinforcement Learning",
@@ -293,7 +313,7 @@
     "date": "2026-10-23",
     "summary": "Multi-task generalization is an important yet underexplored problem in multi-agent reinforcement learning (MARL). Many real-world applications require multi-agent systems to generalize across complex,...",
     "category": "research",
-    "id": 31
+    "id": 33
   },
   {
     "title": "A Three-Pillar Governance Framework for Safe and Trustworthy AI Agents",
@@ -302,7 +322,7 @@
     "date": "2026-10-23",
     "summary": "AI agents capable of autonomous decision-making introduce significant challenges related to safety, alignment, accountability, and human oversight. Existing Human-in-the-Loop (HITL) and responsible AI...",
     "category": "research",
-    "id": 32
+    "id": 34
   },
   {
     "title": "Same Beliefs, Different Policies: Learning Reusable Representations for Early Stopping in LLM Reasoning",
@@ -311,7 +331,7 @@
     "date": "2026-10-23",
     "summary": "Reasoning LLMs often continue reasoning after reaching a correct answer, wasting computation and sometimes replacing it with an incorrect one. Deciding when to stop is a metareasoning problem: the mod...",
     "category": "models",
-    "id": 33
+    "id": 35
   },
   {
     "title": "Why Bother Me Again? Benchmarking Personal Agent Memory for Interaction Preferences",
@@ -320,7 +340,7 @@
     "date": "2026-10-23",
     "summary": "Personal intelligence systems are taking on increasingly complex everyday tasks, yet repeated questions, unnecessary confirmations, and unwanted outreach can turn capable assistance into interaction b...",
     "category": "research",
-    "id": 34
+    "id": 36
   },
   {
     "title": "From Single-Actor Environments to Multi-Actor Event Worlds: Can LLMs Be Event World Models?",
@@ -329,7 +349,7 @@
     "date": "2026-10-23",
     "summary": "World models help agents assess the consequences of their actions before acting. Many real systems, however, involve multiple actors who make their own decisions, can evolve even when the agent takes ...",
     "category": "models",
-    "id": 35
+    "id": 37
   },
   {
     "title": "What the Trace Shows and What the Label Says: Auditing Behavioral Detectors in Agent Evaluation",
@@ -338,7 +358,7 @@
     "date": "2026-10-23",
     "summary": "LLM agents are often evaluated by reducing execution traces to labels such as final-answer correctness, tool verification, and fault propagation. These labels are measurements produced by parsers, beh...",
     "category": "research",
-    "id": 36
+    "id": 38
   },
   {
     "title": "From Prose to Properties: Testing Research Claims with ARATest for Agent-Native Science",
@@ -347,7 +367,7 @@
     "date": "2026-10-23",
     "summary": "AI agents now run experiments and report findings, so research produces claims faster than researchers can check them. Each empirical claim implies a property that must hold over its cases, but it sta...",
     "category": "research",
-    "id": 37
+    "id": 39
   },
   {
     "title": "Can LLMs Improve Their Own Harness? A Controlled Study on ARC-AGI-3",
@@ -356,7 +376,7 @@
     "date": "2026-10-23",
     "summary": "A generally intelligent system acquires new skills efficiently without requiring humans to redesign its software scaffold for every new task. Yet language models rarely act alone. A harness is a symbo...",
     "category": "models",
-    "id": 38
+    "id": 40
   },
   {
     "title": "PLE: Physical-Engineering's Last Exam",
@@ -365,7 +385,7 @@
     "date": "2026-10-23",
     "summary": "Frontier language models now score above 90% on popular knowledge benchmarks and are increasingly deployed as agents that carry out multi-hour professional work. Yet no existing benchmark tests whethe...",
     "category": "models",
-    "id": 39
+    "id": 41
   },
   {
     "title": "Governed Self-Evolution for Autonomous Investing: A Multi-Agent LLM System with an Invariant Core",
@@ -374,7 +394,7 @@
     "date": "2026-10-23",
     "summary": "LLM agents that act on live Web data must combine heterogeneous evidence, remember what they have done and improve from outcomes without weakening their own safeguards. We study this problem in autono...",
     "category": "models",
-    "id": 40
+    "id": 42
   },
   {
     "title": "Diagnosing Personalization Failures in Mobile GUI Agents",
@@ -383,7 +403,7 @@
     "date": "2026-10-23",
     "summary": "Unlike conventional GUI agents, personalized GUI agents require user preferences to guide sequential execution over changing GUI states. This raises two challenges: determining HOW each preference sho...",
     "category": "research",
-    "id": 41
+    "id": 43
   },
   {
     "title": "Model Organisms of Collusion: Corrective Transfer in Untrusted Monitors",
@@ -392,7 +412,7 @@
     "date": "2026-10-23",
     "summary": "AI control protocols aim to get useful work from models that may be misaligned by monitoring their behaviour. One approach uses a second copy of the same model as the monitor. This avoids relying on a...",
     "category": "models",
-    "id": 42
+    "id": 44
   },
   {
     "title": "Better Reasoning, Not Just Bigger Models: A Structure-Grounded Framework for Efficient and Reliable Inference",
@@ -401,7 +421,7 @@
     "date": "2026-10-23",
     "summary": "Scaling large language models has substantially improved linguistic fluency, yet reliable autonomous agents require more than fluent generation. In multi-turn inference, current agentic systems often ...",
     "category": "research",
-    "id": 43
+    "id": 45
   },
   {
     "title": "Large language models show systematic failures in incorporating evolving medical knowledge",
@@ -410,7 +430,7 @@
     "date": "2026-10-23",
     "summary": "Medical knowledge evolves as clinical guidelines revise recommendations, yet whether large language models (LLMs) faithfully incorporate such changes remains unclear. We introduce ChronoEvo, comprisin...",
     "category": "models",
-    "id": 44
+    "id": 46
   },
   {
     "title": "Speculative Acceptance Does Not Decay with Position: A Full-Length Diagnostic on Long Chain-of-Thought with Independent Drafts",
@@ -419,7 +439,7 @@
     "date": "2026-10-23",
     "summary": "The claim that speculative-decoding acceptance rate decays as a chain-of-thought grows longer has become a de facto industry narrative, motivating draft-model co-design and position-aware training. Ne...",
     "category": "models",
-    "id": 45
+    "id": 47
   },
   {
     "title": "Anticipating Social Consequences with Distributional World Models",
@@ -428,7 +448,7 @@
     "date": "2026-10-23",
     "summary": "Social world models predict how interactions develop after an action, helping agents negotiate, cooperate and mediate. In these situations, one action can lead to several plausible futures, hence pred...",
     "category": "models",
-    "id": 46
+    "id": 48
   },
   {
     "title": "A Topology-Guided GeoAI Agentic Framework for Urban Flood Screening",
@@ -437,7 +457,7 @@
     "date": "2026-10-23",
     "summary": "Open-world geographic artificial intelligence (GeoAI) agents can transform public geospatial data into accessible decision support for real-world challenges, but must balance autonomous reasoning with...",
     "category": "models",
-    "id": 47
+    "id": 49
   },
   {
     "title": "Group Relative Policy Optimisation Improves Multilingual Speech Recognition in Low-Resource Languages",
@@ -445,24 +465,6 @@
     "source": "arXiv cs.AI",
     "date": "2026-10-23",
     "summary": "Autoregressive encoder-decoder speech recognition models trained with teacher forcing can suffer from exposure bias, limiting their ability to recover from their own prediction errors at inference tim...",
-    "category": "research",
-    "id": 48
-  },
-  {
-    "title": "Scaling Laws for Safety Probes",
-    "url": "https://arxiv.org/abs/2610.30678",
-    "source": "arXiv cs.AI",
-    "date": "2026-10-23",
-    "summary": "Safety probes trained on a model's activations are a standard tool for monitoring language models in real time. Each time a new model is released or a new harm area needs to be monitored, the probe mu...",
-    "category": "research",
-    "id": 49
-  },
-  {
-    "title": "Disentangling Robustness and Sycophancy in Multilingual LLMs",
-    "url": "https://arxiv.org/abs/2610.30696",
-    "source": "arXiv cs.AI",
-    "date": "2026-10-23",
-    "summary": "When a multilingual LLM agrees with a user's false premise, is it being sycophantic, or does it simply not know better in that language? Current research does not distinguish these cases: they record ...",
     "category": "research",
     "id": 50
   }
