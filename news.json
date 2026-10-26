@@ -1,5 +1,92 @@
 [
   {
+    "title": "Our newest AI Quest: Mapping the human brain",
+    "url": "https://blog.google/products-and-platforms/products/education/ai-quests-polar-peaks/",
+    "source": "Google AI Blog",
+    "date": "2026-10-26",
+    "summary": "Learn AI literacy via Google’s latest AI Quests lesson on neuroscience, “Polar Peaks.”",
+    "category": "industry",
+    "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/social_sharing_updated.max-600x600.format-webp.webp",
+    "id": 1,
+    "featured": true
+  },
+  {
+    "title": "How Fanatics and OpenAI streamline the fan experience",
+    "url": "https://openai.com/index/fanatics-streamline-fan-experience",
+    "source": "OpenAI Blog",
+    "date": "2026-10-26",
+    "summary": "Fanatics uses OpenAI to help fans complete their game-day outfits with Shop the Look. Testing across roughly 30,000 MLB products showed 10% higher engagement.",
+    "category": "industry",
+    "id": 2
+  },
+  {
+    "title": "How Ultrafast cut incident investigation from hours to minutes at OpenAI",
+    "url": "https://openai.com/index/openai-cut-incident-investigation",
+    "source": "OpenAI Blog",
+    "date": "2026-10-26",
+    "summary": "See how OpenAI engineers use Codex Ultrafast to investigate incidents in minutes. Explore faster security analysis, code refactoring, and daily workflows.",
+    "category": "industry",
+    "id": 3
+  },
+  {
+    "title": "Introducing GPT-6.1 Terra",
+    "url": "https://openai.com/index/introducing-gpt-6-1-terra",
+    "source": "OpenAI Blog",
+    "date": "2026-10-26",
+    "summary": "Bringing fast and capable computer use to everyone",
+    "category": "models",
+    "id": 4
+  },
+  {
+    "title": "ChatGPT’s expanding world of work",
+    "url": "https://openai.com/index/chatgpt-expanding-world-of-work",
+    "source": "OpenAI Blog",
+    "date": "2026-10-26",
+    "summary": "Explore OpenAI Signals data on 165 work activities across nearly 100 countries, revealing how people use ChatGPT for work and how usage changes over time.",
+    "category": "models",
+    "id": 5
+  },
+  {
+    "title": "Intel quietly confirms Raptor Lake Next CPUs through internal driver publication",
+    "url": "https://www.tomshardware.com/pc-components/cpus/intel-quietly-confirms-raptor-lake-next-cpus-through-internal-driver-publication-lga-1700-chips-also-appear-in-shipping-manifests-dating-back-to-august",
+    "source": "Tom's Hardware",
+    "date": "2026-10-26",
+    "summary": "An internal driver and a shipping manifest reveal that Intel's desktop Raptor Lake Next parts may be on the way right now.",
+    "category": "hardware",
+    "image": "https://cdn.mos.cms.futurecdn.net/sQkjcrWci3QikXR5qNxa4d-1920-80.jpg",
+    "id": 6
+  },
+  {
+    "title": "Leaked 256-core Zen 6c EPYC CPU destroys Zen 5 in early single-threaded benchmarks hints at 24% IPC gain",
+    "url": "https://www.tomshardware.com/pc-components/cpus/leaked-256-core-zen-6c-epyc-cpu-destroys-zen-5-in-early-single-threaded-benchmarks-hints-at-24-percent-ipc-gain-early-single-threaded-benchmarks-point-to-huge-amd-zen-6-improvements",
+    "source": "Tom's Hardware",
+    "date": "2026-10-26",
+    "summary": "A benchmark leak and a direct clock-matched comparison from an enthusiast seed the idea that Zen 6 may come with a decent IPC bump as well as increased clocks.",
+    "category": "models",
+    "image": "https://cdn.mos.cms.futurecdn.net/fqE7uiQeMahN3tCxTd8qRV-1920-80.jpg",
+    "id": 7
+  },
+  {
+    "title": "Cadence reveals Maestro, fine-tuned AI models built to run specialized chip design agents, with early access coming for 'select customers' in Q4 2026",
+    "url": "https://www.tomshardware.com/tech-industry/semiconductors/cadence-reveals-maestro-fine-tuned-ai-models-built-to-run-specialized-chip-design-agents-with-early-access-coming-for-select-customers-in-q4-2026-claims-up-to-30-percent-higher-quality-results-and-up-to-5x-token-efficiency-over-a-general-purpose-ai-model",
+    "source": "Tom's Hardware",
+    "date": "2026-10-26",
+    "summary": "Cadence unveiled Maestro, domain-specialized AI models for its chip design agents, with early access for select customers in Q4 2026.",
+    "category": "models",
+    "image": "https://cdn.mos.cms.futurecdn.net/P8XPrtLpMc8eqkqoGb66Vo-1920-80.png",
+    "id": 8
+  },
+  {
+    "title": "Intel's Lip-Bu Tan has spoken with Lisa Su about potential collaboration with AMD",
+    "url": "https://www.tomshardware.com/tech-industry/semiconductors/intel-explores-potential-collaboration-with-amd-as-lip-bu-tan-pushes-customer-focused-turnaround-ceo-targets-custom-chips-advanced-packaging-and-stronger-foundry-business",
+    "source": "Tom's Hardware",
+    "date": "2026-10-26",
+    "summary": "Intel CEO Lip-Bu Tan has reportedly discussed potential areas of cooperation with AMD chief Lisa Su as Intel works to rebuild its CPU business and expand its foundry operations. The companies have alr...",
+    "category": "hardware",
+    "image": "https://cdn.mos.cms.futurecdn.net/wbhpXv9wcgo6udYTmNjvVX-1920-80.jpg",
+    "id": 9
+  },
+  {
     "title": "Modder turns NES into a Windows-like desktop with original hardware",
     "url": "https://www.tomshardware.com/video-games/retro-gaming/modder-turns-nes-into-a-windows-like-desktop-with-original-hardware-emulates-a-full-retro-experience-with-a-cd-drive-and-slow-internet",
     "source": "Tom's Hardware",
@@ -7,8 +94,7 @@
     "summary": "Throaty Mumbo turns his NES into a Windows-like desktop using an FPGA cartridge emulating an old Intel CPU, complete with a CD drive and internet capabilities, all without tearing the NES apart.",
     "category": "hardware",
     "image": "https://cdn.mos.cms.futurecdn.net/5YAgjC7T45UsgSSqWjoYeT-1920-80.png",
-    "id": 1,
-    "featured": true
+    "id": 10
   },
   {
     "title": "Nvidia RTX 20, 30, and 40-series GPUs hacked to remove a half-speed AI throttle",
@@ -18,7 +104,7 @@
     "summary": "Linux kernel modules lift Nvidia’s half-rate AI tensor limit on GeForce RTX 20, 30, and 40-series GPUs.",
     "category": "hardware",
     "image": "https://cdn.mos.cms.futurecdn.net/4Yvp7ck4v6d8JPBoNXVPfe-1920-80.jpg",
-    "id": 2
+    "id": 11
   },
   {
     "title": "Bitcoin reward offered to anyone who could break into an unpatched server running PHP, hacker cracks site and claims bounty",
@@ -28,7 +114,7 @@
     "summary": "The “Steal My Bitcoin” challenge offers a bounty to anyone who can breach a deliberately vulnerable PHP website using the recently disclosed PHP2Shell flaws. The challenge follows previous recoveries ...",
     "category": "hardware",
     "image": "https://cdn.mos.cms.futurecdn.net/nR46h5GnedCeKyZtVqZr3L-1920-80.jpg",
-    "id": 3
+    "id": 12
   },
   {
     "title": "Reddit’s r/opensource bans AI-made and AI-focused projects, also bans non-English speakers",
@@ -38,7 +124,77 @@
     "summary": "Reddit’s r/opensource has barred AI-built, AI-focused, and AI-using projects under new rules announced October 24. The crackdown also imposes strict requirements on project age and contributors, while...",
     "category": "industry",
     "image": "https://cdn.mos.cms.futurecdn.net/wA2Noe6WhknviBc6VQJqFo-1920-80.jpg",
-    "id": 4
+    "id": 13
+  },
+  {
+    "title": "Anthropic’s IPO filing reveals its strategy for keeping enterprise customers hooked",
+    "url": "https://techcrunch.com/2026/10/26/anthropics-ipo-filing-reveals-its-strategy-for-keeping-enterprise-customers-hooked/",
+    "source": "TechCrunch",
+    "date": "2026-10-26",
+    "summary": "Anthropic’s S-1 shows more than half of its $100,000-plus customers now use both the Claude Platform and a first-party app, a cross-selling playbook reminiscent of Amazon that’s making enterprise cust...",
+    "category": "industry",
+    "image": "https://techcrunch.com/wp-content/uploads/2026/10/GettyImages-2278152325.jpg?w=1024",
+    "id": 14
+  },
+  {
+    "title": "SpaceX locks in $40B GPU financing deal with Apollo",
+    "url": "https://techcrunch.com/2026/10/26/spacex-locks-in-40b-gpu-financing-deal-with-apollo/",
+    "source": "TechCrunch",
+    "date": "2026-10-26",
+    "summary": "SpaceX has locked in a binding commitment for roughly $40 billion in financing to pay for AI chips and related data center equipment, the company disclosed in a regulatory filing Monday. In a statemen...",
+    "category": "hardware",
+    "image": "https://techcrunch.com/wp-content/uploads/2026/10/Screenshot-2026-10-20-at-2.40.46-PM-e1793033116950.png?resize=1200,911",
+    "id": 15
+  },
+  {
+    "title": "Anthropic officially files for its public debut",
+    "url": "https://techcrunch.com/2026/10/26/anthropic-officially-files-for-its-public-debut/",
+    "source": "TechCrunch",
+    "date": "2026-10-26",
+    "summary": "Anthropic has officially filed for an IPO, revealing soaring revenue, mounting losses, major enterprise adoption, and an unusual governance structure designed to preserve founder control and its AI sa...",
+    "category": "industry",
+    "image": "https://techcrunch.com/wp-content/uploads/2026/10/GettyImages-2295579000.jpg?resize=1200,800",
+    "id": 16
+  },
+  {
+    "title": "Will the real Anthropic please stand up",
+    "url": "https://www.technologyreview.com/2026/10/26/1147672/will-the-real-anthropic-please-stand-up/",
+    "source": "MIT Tech Review",
+    "date": "2026-10-26",
+    "summary": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. After weeks of frenzied speculation, Anthropic has filed its I...",
+    "category": "research",
+    "image": "https://wp.technologyreview.com/wp-content/uploads/2026/10/anthropic-dario1a.jpg?resize=1200,600",
+    "id": 17
+  },
+  {
+    "title": "The Download: everyday AI harms and the race to nuclear spaceflight",
+    "url": "https://www.technologyreview.com/2026/10/26/1147650/the-download-everyday-ai-harms-nuclear-spaceflight/",
+    "source": "MIT Tech Review",
+    "date": "2026-10-26",
+    "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. Opinion: The focus on AI safety disasters ignores everyday har...",
+    "category": "research",
+    "image": "https://wp.technologyreview.com/wp-content/uploads/2026/10/monkeys-teen3.jpg?resize=1200,600",
+    "id": 18
+  },
+  {
+    "title": "The focus on AI safety disasters ignores everyday harms",
+    "url": "https://www.technologyreview.com/2026/10/26/1147645/the-focus-on-ai-safety-disasters-ignores-everyday-harms/",
+    "source": "MIT Tech Review",
+    "date": "2026-10-26",
+    "summary": "Consider what passes for success in technology policy. An AI company promises that its chatbot will not encourage suicide. A social media platform makes it more difficult for children to buy fentanyl....",
+    "category": "research",
+    "image": "https://wp.technologyreview.com/wp-content/uploads/2026/10/monkeys-teen3.jpg?resize=1200,600",
+    "id": 19
+  },
+  {
+    "title": "Anthropic’s IPO Prospectus Reveals What’s Under the Hood",
+    "url": "https://www.wired.com/story/anthropic-ipo-filings-reveal-finances-risks-strategy/",
+    "source": "Wired",
+    "date": "2026-10-26",
+    "summary": "Anthropic on Monday filed documents ahead of a blockbuster IPO that offers insight into the company’s financials, risk factors, and views on the future of AI.",
+    "category": "industry",
+    "image": "https://media.wired.com/photos/6adf6c00ca47359863df5ba5/191:100/w_1280,c_limit/102626-Anthropic%20IPO.jpg",
+    "id": 20
   },
   {
     "title": "Meet the AI Agents Trying to Be Real-Life Journalists",
@@ -48,7 +204,7 @@
     "summary": "Jayden, Sam, and Zack are eagerly pitching editors on reported stories and investigative features. The catch? They're all AI agents.",
     "category": "industry",
     "image": "https://media.wired.com/photos/6adcfb8cc56cd60fecb6db05/191:100/w_1280,c_limit/AI%20journalists%202.jpg",
-    "id": 5
+    "id": 21
   },
   {
     "title": "This AI Radio Host Speaks Spanish and Backs Immigrants. It’s Winning Over Listeners",
@@ -58,7 +214,7 @@
     "summary": "Coyotec is bilingual, swears, and tells listeners how to defend themselves against ICE. Its popularity comes as more broadcasters are experimenting with artificial personalities.",
     "category": "industry",
     "image": "https://media.wired.com/photos/6adbe71b429a21d2813df7cd/191:100/w_1280,c_limit/GGC%20-%205-watermarked.jpg",
-    "id": 6
+    "id": 22
   },
   {
     "title": "Tradeoff-Aware Territory Design: A Multi-Objective Decision System for Enterprise Customer-to-Seller Allocation",
@@ -67,7 +223,7 @@
     "date": "2026-10-26",
     "summary": "Enterprise customer journeys are shaped not only by product experiences and marketing, but also by recurring resource-allocation decisions. In B2B go-to-market (GTM) organizations, territory carving d...",
     "category": "industry",
-    "id": 7
+    "id": 23
   },
   {
     "title": "Phronix: The Capability-Centric Learning Paradigm for Agents",
@@ -76,7 +232,7 @@
     "date": "2026-10-26",
     "summary": "Scientific computing increasingly relies on large language model-based agents for performance engineering tasks such as instrumentation, analysis, and workflow porting. However, agent effectiveness de...",
     "category": "models",
-    "id": 8
+    "id": 24
   },
   {
     "title": "Patronizing and Condescending Language Detection in English and Mandarin",
@@ -85,7 +241,7 @@
     "date": "2026-10-26",
     "summary": "Patronizing and condescending language (PCL) is a form of harmful language that belittles and assumes pity for vulnerable groups, reinforcing negative societal stereotypes. However, unlike overt hate ...",
     "category": "models",
-    "id": 9
+    "id": 25
   },
   {
     "title": "PaperFormalizer: Author-in-the-Loop Autoformalization of Research Papers in Lean",
@@ -94,7 +250,7 @@
     "date": "2026-10-26",
     "summary": "Even a carefully proofread paper can leave small gaps in its proofs or its stated assumptions. We introduce PaperFormalizer, a Lean-based agentic pipeline that helps authors find and close such gaps i...",
     "category": "research",
-    "id": 10
+    "id": 26
   },
   {
     "title": "Don't Forget What You Just Learned: Self-Directed Repair Turns Agent Mistakes Into Lasting Lessons",
@@ -103,7 +259,7 @@
     "date": "2026-10-26",
     "summary": "Intelligent agents should learn from their mistakes so that experience leads to continuous improvement. Yet today's agents recover from a mistake only temporarily: in-context reflections are easily fo...",
     "category": "models",
-    "id": 11
+    "id": 27
   },
   {
     "title": "TACS-RF: Tool-driven Agentic Circuit Synthesis of RF and mmWave Modules",
@@ -112,7 +268,7 @@
     "date": "2026-10-26",
     "summary": "We present the framework of TACS-RF - a Tool-driven Agentic Circuit Synthesis of RF and mmWave modules. In this framework, a large-language-model (LLM) coding agent (Claude Opus 4.8) directly drives i...",
     "category": "models",
-    "id": 12
+    "id": 28
   },
   {
     "title": "Permission to Retry: A Study of Authorization and Recovery in AI Agent Workflows",
@@ -121,7 +277,7 @@
     "date": "2026-10-26",
     "summary": "A durable agent can resume a consequential action while its authority changes and the action's external outcome remains uncertain. We study execution-time reliability of tool-using AI agents, isolatin...",
     "category": "research",
-    "id": 13
+    "id": 29
   },
   {
     "title": "Beyond On-Policy vs. Off-Policy: At What Level Should LLM Agent Distillation Follow the Student?",
@@ -130,7 +286,7 @@
     "date": "2026-10-26",
     "summary": "Distilling interactive LLM agents requires choosing between teacher-generated demonstrations and student-generated experience, corresponding broadly to off-policy and on-policy distillation. While bot...",
     "category": "research",
-    "id": 14
+    "id": 30
   },
   {
     "title": "$M^3$: A Multi-LLM System for Multi-Turn Jailbreaking as a Markov Decision Process",
@@ -139,7 +295,7 @@
     "date": "2026-10-26",
     "summary": "Modern Large Language Models (LLMs) remain vulnerable to carefully orchestrated multi-turn interactions that progressively bypass safety mechanisms. However, many existing red-teaming approaches rely ...",
     "category": "models",
-    "id": 15
+    "id": 31
   },
   {
     "title": "Knowing Whom to Trust is not Enough: The Trust--Agreement Gap in Repeated Multi-Party LLM Negotiation",
@@ -148,7 +304,7 @@
     "date": "2026-10-26",
     "summary": "Large language model (LLM) agents increasingly participate in negotiations on behalf of individuals and organizations, yet they remain vulnerable to manipulation, particularly in repeated multi-party ...",
     "category": "research",
-    "id": 16
+    "id": 32
   },
   {
     "title": "Reproducible Evaluation as the Substrate for Safe Prompt Compression in Production Agents",
@@ -157,7 +313,7 @@
     "date": "2026-10-26",
     "summary": "Evaluating conversational agents that act on live, mutable enterprise data is hard: replayed sessions drift as backend state changes, and a benchmark built today can silently go stale as the data it d...",
     "category": "research",
-    "id": 17
+    "id": 33
   },
   {
     "title": "The Helpful Agent Problem: When Emergent Cooperation Among LLM Agents Bypasses Intended Workflows",
@@ -166,7 +322,7 @@
     "date": "2026-10-26",
     "summary": "LLM agents are increasingly deployed in collaborative settings where they pursue separate tasks while sharing resources and operating under review or oversight processes. Such settings create safety r...",
     "category": "research",
-    "id": 18
+    "id": 34
   },
   {
     "title": "CEMIR vs. FISER: a comparative study of reasoning-based and enrichment-based approaches to pragmatic intent recognition",
@@ -175,7 +331,7 @@
     "date": "2026-10-26",
     "summary": "Intent recognition in human-robot interaction requires agents to resolve ambiguous natural language instructions by inferring the speaker's underlying goals. Research has increasingly focused on two n...",
     "category": "models",
-    "id": 19
+    "id": 35
   },
   {
     "title": "BARC-Bench: Benign Asks, Risky Consequences",
@@ -184,7 +340,7 @@
     "date": "2026-10-26",
     "summary": "Task instructions from users for agents are inherently underspecified, especially regarding safety boundaries--creating behavioral risks. To study these risks, we introduce BARC-Bench, a collection of...",
     "category": "research",
-    "id": 20
+    "id": 36
   },
   {
     "title": "RSI-Opt: Recursive Self-Improvement Optimizer Agents For Model Training",
@@ -193,7 +349,7 @@
     "date": "2026-10-26",
     "summary": "Conventional neural-network training typically follows a predefined optimization recipe, motivating a LLM agent that monitors training dynamics and adjusts optimizer settings as training progresses, b...",
     "category": "models",
-    "id": 21
+    "id": 37
   },
   {
     "title": "PPO vs. SAC: A Comparative Study for Cooperative Motion Control of Dual-Arm Space Robots",
@@ -202,7 +358,7 @@
     "date": "2026-10-26",
     "summary": "The growing population of orbital debris has intensified interest in active debris removal and on-orbit servicing, for which dual-arm space manipulators offer improved grasping stability and load dist...",
     "category": "research",
-    "id": 22
+    "id": 38
   },
   {
     "title": "Do AI-for-Science Agents Preserve Model Safety?",
@@ -211,7 +367,7 @@
     "date": "2026-10-26",
     "summary": "AI-for-Science agents are increasingly being used for formulating scientific hypotheses, running autonomous experiments, and interpreting evidence. These agents are constructed by integrating a large ...",
     "category": "models",
-    "id": 23
+    "id": 39
   },
   {
     "title": "Can Test-Time Memory Evolution Outperform Test-Time Training for Scientific Discovery?",
@@ -220,7 +376,7 @@
     "date": "2026-10-26",
     "summary": "Recent \\emph{test-time training} (TTT) frameworks have enabled open-weight large language models (LLMs) to outperform inference-only frameworks powered by frontier models on scientific discovery tasks...",
     "category": "models",
-    "id": 24
+    "id": 40
   },
   {
     "title": "HyScale: Scaling Long-Context Training for Learned Sparse Attention",
@@ -229,7 +385,7 @@
     "date": "2026-10-26",
     "summary": "We present HyScale, a long-context training system for learned sparse attention. Learned sparse attention is a promising architecture for million-token contexts, widely adopted in production since Dee...",
     "category": "models",
-    "id": 25
+    "id": 41
   },
   {
     "title": "Understanding Communication Failures in Multi-Agent LLM Systems",
@@ -238,7 +394,7 @@
     "date": "2026-10-26",
     "summary": "Multi-agent LLM systems aim to improve reasoning through debate, evidence sharing, and mutual correction, but interaction can also introduce failures that final accuracy alone cannot explain. Agents m...",
     "category": "models",
-    "id": 26
+    "id": 42
   },
   {
     "title": "DriveMind: Mind-Evolving Belief Tracking for Closed-Loop Autonomous Driving",
@@ -247,7 +403,7 @@
     "date": "2026-10-26",
     "summary": "Recent multimodal large language models (MLLMs) can perceive a traffic scene, reason about it, and propose a driving action within a single model. However, existing MLLM-based drivers reason from scra...",
     "category": "models",
-    "id": 27
+    "id": 43
   },
   {
     "title": "Behaviour analysis for large language model-driven agents",
@@ -256,7 +412,7 @@
     "date": "2026-10-26",
     "summary": "Understanding language-agent behaviour requires learning how actions are organised across a trajectory and how this organisation relates to context and outcomes. We propose a general framework that co...",
     "category": "research",
-    "id": 28
+    "id": 44
   },
   {
     "title": "DELA: Learning Controllable Edits for Diffusion Language Models",
@@ -265,7 +421,7 @@
     "date": "2026-10-26",
     "summary": "Diffusion language models (DLMs) support bidirectional denoising and iterative refinement, but generation remains largely controlled by token-level masking schedules. This leaves draft-level refinemen...",
     "category": "models",
-    "id": 29
+    "id": 45
   },
   {
     "title": "Learning Nonlinear Waveform Fusion Across Scales for Integrated Sensing and Communication",
@@ -274,7 +430,7 @@
     "date": "2026-10-26",
     "summary": "Fixed source superposition and frequency partitioning constrain how communication content interacts with a probing reference in integrated sensing and communication (ISAC). We learn nonlinear waveform...",
     "category": "models",
-    "id": 30
+    "id": 46
   },
   {
     "title": "PersonaScienceBench: Evaluating Scientific Agents with Diverse Simulated Researchers",
@@ -283,7 +439,7 @@
     "date": "2026-10-26",
     "summary": "Scientific agents collaborate with researchers whose expertise and preferences differ, but benchmarks usually hold the collaborator fixed. We introduce PersonaScienceBench: 200 tasks from five benchma...",
     "category": "models",
-    "id": 31
+    "id": 47
   },
   {
     "title": "Who Verifies the Tools? How Warped Formatters Mislead Agents and Their Verifiers",
@@ -292,7 +448,7 @@
     "date": "2026-10-26",
     "summary": "Agents and verifiers often rely on the text a tool prints, and that text can misrepresent what the tool actually did, even when the tool's computation is correct. We saw this happen in a production RA...",
     "category": "research",
-    "id": 32
+    "id": 48
   },
   {
     "title": "MPQ: A Message-Passing View of Post-Training Quantization",
@@ -301,7 +457,7 @@
     "date": "2026-10-26",
     "summary": "Post-training quantization (PTQ) is a key technique for efficiently deploying large language models, as it compresses weights into low-bit representations without retraining. Existing PTQ solvers, inc...",
     "category": "models",
-    "id": 33
+    "id": 49
   },
   {
     "title": "$\\Psi$-0.6: Adaptive Streams of Thought in a Unified Vision-Language World Model",
@@ -310,150 +466,6 @@
     "date": "2026-10-26",
     "summary": "Humans reason about the physical world by flexibly combining different forms of inference as a problem unfolds. Achieving this flexibility is a major open challenge in AI: capabilities often remain se...",
     "category": "research",
-    "id": 34
-  },
-  {
-    "title": "Not All Information Is Worth Asking For: Decision-Informed Information Seeking with LLMs",
-    "url": "https://arxiv.org/abs/2610.32181",
-    "source": "arXiv cs.AI",
-    "date": "2026-10-26",
-    "summary": "Large language models (LLMs) are increasingly used to support decisions under incomplete information, where deciding what to look up and when to stop matters as much as the final answer. However, LLMs...",
-    "category": "models",
-    "id": 35
-  },
-  {
-    "title": "Evidence-Grounded SLM Behavioral Prediction Architecture for Future Assistance Use",
-    "url": "https://arxiv.org/abs/2610.32193",
-    "source": "arXiv cs.AI",
-    "date": "2026-10-26",
-    "summary": "Users often exhibit changes in interaction behavior before explicitly seeking assistance, enabling systems to anticipate future assistance use. This is especially important in high-stakes environments...",
-    "category": "models",
-    "id": 36
-  },
-  {
-    "title": "SWE-Shift: Evaluating Coding Agents in Evolving Workspaces",
-    "url": "https://arxiv.org/abs/2610.32196",
-    "source": "arXiv cs.AI",
-    "date": "2026-10-26",
-    "summary": "Repository-level coding benchmarks largely assume that tasks and environments remain unchanged throughout execution. In software development, code, dependencies, runtime state, and requirements can ch...",
-    "category": "models",
-    "id": 37
-  },
-  {
-    "title": "Watermarking Diffusion Language Models with Learned Foresight and Balanced Bands",
-    "url": "https://arxiv.org/abs/2610.32205",
-    "source": "arXiv cs.AI",
-    "date": "2026-10-26",
-    "summary": "Green-red watermarks favor tokens from a green list that a secret key derives from the preceding tokens. Diffusion language models, however, often choose a token before its preceding tokens, and the t...",
-    "category": "models",
-    "id": 38
-  },
-  {
-    "title": "PEAR: Adaptive Advantage Reshaping for Perception and Exploration in Large Vision-Language Models",
-    "url": "https://arxiv.org/abs/2610.32216",
-    "source": "arXiv cs.AI",
-    "date": "2026-10-26",
-    "summary": "Effective multimodal reasoning requires a model to reliably utilize visual information while sufficiently exploring diverse reasoning paths. To achieve this goal, prior work combines visual dependency...",
-    "category": "models",
-    "id": 39
-  },
-  {
-    "title": "RxnExBench: Benchmarking Vision-Language Models for Structured Chemical Reaction Extraction from Scientific Literature",
-    "url": "https://arxiv.org/abs/2610.32221",
-    "source": "arXiv cs.AI",
-    "date": "2026-10-26",
-    "summary": "Screen Tables and Substrate Scopes are information-dense figures widely used in synthetic chemistry literature, yet automated extraction of structured reaction data from them remains challenging. We i...",
-    "category": "research",
-    "id": 40
-  },
-  {
-    "title": "Correct Answers, Closed Gates: SolveBind for GUI Agents at the Verification Barrier",
-    "url": "https://arxiv.org/abs/2610.32223",
-    "source": "arXiv cs.AI",
-    "date": "2026-10-26",
-    "summary": "Websites and applications deploy CAPTCHAs and anti-automation mechanisms that use behavioral signals such as interaction trajectories and timing, not outcomes alone, to distinguish humans from automat...",
-    "category": "tools",
-    "id": 41
-  },
-  {
-    "title": "Training an MoE LLM in MXFP4: How We Closed the Gap to BF16",
-    "url": "https://arxiv.org/abs/2610.32229",
-    "source": "arXiv cs.AI",
-    "date": "2026-10-26",
-    "summary": "Training large language models (LLMs) in sub-8-bit arithmetic promises substantial gains in memory bandwidth and compute throughput, yet FP4 formats introduce quantization error severe enough to desta...",
-    "category": "models",
-    "id": 42
-  },
-  {
-    "title": "Financial Context-Rich Strategy for Actor-Critic based Agents: A Deep Reinforcement Learning Approach for Stock Trading",
-    "url": "https://arxiv.org/abs/2610.32237",
-    "source": "arXiv cs.AI",
-    "date": "2026-10-26",
-    "summary": "In modern financial markets, more than 3/4th of the large volume trade is executed by algorithmic trading based on advanced trading strategies to attain higher precision and speed than traditional hum...",
-    "category": "research",
-    "id": 43
-  },
-  {
-    "title": "Spatial Heuristic Strategy based Diffusion Reinforcement Learning for Online 3D Bin Packing",
-    "url": "https://arxiv.org/abs/2610.32241",
-    "source": "arXiv cs.AI",
-    "date": "2026-10-26",
-    "summary": "Traditional heuristic methods have accumulated mature experience in core objectives, such as space utilization and layout compactness of 3D bin packing, relying on artificially designed rule-based log...",
-    "category": "research",
-    "id": 44
-  },
-  {
-    "title": "Minimum Description Length Unsupervisedly Separates Law-Grade from Statistical-Grade Knowledge in a Self-Improving Science Agent - and Reveals 86% of Its Own Discoveries Are Statistical",
-    "url": "https://arxiv.org/abs/2610.32245",
-    "source": "arXiv cs.AI",
-    "date": "2026-10-26",
-    "summary": "AI systems that discover scientific relations now generate candidate \"laws\" at scale, but the bottleneck has shifted from generation to vetting: which candidates deserve belief? We show that a deploye...",
-    "category": "industry",
-    "id": 45
-  },
-  {
-    "title": "RSIHub: A Composable Framework for Agent-Evolution Methods",
-    "url": "https://arxiv.org/abs/2610.32253",
-    "source": "arXiv cs.AI",
-    "date": "2026-10-26",
-    "summary": "Agent-evolution methods use execution feedback to improve prompts, skills, tools, and orchestration, but their implementations often rebuild the same experimental machinery. We present RSIHub, an open...",
-    "category": "research",
-    "id": 46
-  },
-  {
-    "title": "MedCaseAgent: From Multimodal Clinical Evidence to Rare Disease Case Reports",
-    "url": "https://arxiv.org/abs/2610.32258",
-    "source": "arXiv cs.AI",
-    "date": "2026-10-26",
-    "summary": "Although Large Language Models (LLMs) have demonstrated potential in clinical documentation, generating the rigorous, evidence-based reasoning required for unprecedented, atypical, and rare disease ca...",
-    "category": "models",
-    "id": 47
-  },
-  {
-    "title": "Trial by Trace: Benchmarking AI Agent Harnesses for Reliability and Failure Attribution",
-    "url": "https://arxiv.org/abs/2610.32285",
-    "source": "arXiv cs.AI",
-    "date": "2026-10-26",
-    "summary": "LLM agents are increasingly used to solve real-world problems, and their effectiveness depends on both the underlying models and the harnesses that support their operation. However, most existing benc...",
-    "category": "research",
-    "id": 48
-  },
-  {
-    "title": "Lifelong Context Adaptation through Bidirectional Memory-Skill Learning",
-    "url": "https://arxiv.org/abs/2610.32295",
-    "source": "arXiv cs.AI",
-    "date": "2026-10-26",
-    "summary": "Lifelong LLM agents must learn from an expanding history of interactions while making each decision within a bounded context window. Memory makes past experience available, but the agent may still nee...",
-    "category": "models",
-    "id": 49
-  },
-  {
-    "title": "DMAIC-Bench: From Self-Reflection to Self-Restraint for Agents in Multi-Stage Analytical Tasks",
-    "url": "https://arxiv.org/abs/2610.32305",
-    "source": "arXiv cs.AI",
-    "date": "2026-10-26",
-    "summary": "Multi-stage analytical tasks require LLM agents to use intermediate evidence to decide whether to continue, redirect or stop. Self-reflection, in which an agent critiques its output, is widely studied...",
-    "category": "models",
     "id": 50
   }
 ]
