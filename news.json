@@ -1,5 +1,223 @@
 [
   {
+    "title": "The latest AI news we announced in October 2026",
+    "url": "https://blog.google/innovation-and-ai/technology/ai/google-ai-updates-october-2026/",
+    "source": "Google AI Blog",
+    "date": "2026-11-02",
+    "summary": "Here are Google’s latest AI updates from October 2026",
+    "category": "industry",
+    "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Oct_AI_Recap_social.max-600x600.format-webp.webp",
+    "id": 1,
+    "featured": true
+  },
+  {
+    "title": "LifeVal",
+    "url": "https://openai.com/index/lifeval",
+    "source": "OpenAI Blog",
+    "date": "2026-11-02",
+    "summary": "Introducing LifeVal, a benchmark measuring how well AI helps people complete everyday tasks, from finding childcare to managing finances and government paperwork.",
+    "category": "research",
+    "id": 2
+  },
+  {
+    "title": "Qodo builds context into AI code review with Codex",
+    "url": "https://openai.com/index/qodo-codex-plugin",
+    "source": "OpenAI Blog",
+    "date": "2026-11-02",
+    "summary": "Qodo brings company knowledge and coding standards into Codex, helping developers catch P0 issues across repositories before opening a pull request.",
+    "category": "tools",
+    "id": 3
+  },
+  {
+    "title": "Introducing the Grid Protectors Program",
+    "url": "https://openai.com/index/grid-protectors-program",
+    "source": "OpenAI Blog",
+    "date": "2026-11-02",
+    "summary": "OpenAI’s Grid Protectors Program will work with utilities to help future compute campuses support grid reliability and protect consumer electricity costs.",
+    "category": "industry",
+    "id": 4
+  },
+  {
+    "title": "OpenAI considers rebranding data centers to 'AI compute campuses\" as data center backlash intensifies",
+    "url": "https://www.tomshardware.com/tech-industry/data-centers/openai-considers-rebranding-data-centers-to-ai-compute-campuses-as-data-center-backlash-intensifies-company-reportedly-sees-2028-presidential-election-becoming-an-ai-issue",
+    "source": "Tom's Hardware",
+    "date": "2026-11-02",
+    "summary": "OpenAI expects AI to become a major issue in the 2028 presidential election and is preparing a policy and public relations push after the U.S. midterm elections. The company is also promoting the term...",
+    "category": "hardware",
+    "image": "https://cdn.mos.cms.futurecdn.net/bqKbbbB3ZdRgDH7Pz95FKT-1920-80.jpg",
+    "id": 5
+  },
+  {
+    "title": "Tachyum, developer of heavily-delayed universal Prodigy processor, voluntarily files for bankruptcy",
+    "url": "https://www.tomshardware.com/pc-components/cpus/tachyum-developer-of-heavily-delayed-universal-prodigy-processor-voluntarily-files-for-bankruptcy-future-of-prodigy-ip-unknown-as-company-begins-bankruptcy-proceedings",
+    "source": "Tom's Hardware",
+    "date": "2026-11-02",
+    "summary": "Tachyum files for bankruptcy, the court in Bratislava initiates bankruptcy proceedings.",
+    "category": "tools",
+    "image": "https://cdn.mos.cms.futurecdn.net/TEL2Ff3vNLxwnB8DXnCW5F-1920-80.png",
+    "id": 6
+  },
+  {
+    "title": "'America hates data centers' — New data highlights public sentiment",
+    "url": "https://www.tomshardware.com/tech-industry/data-centers/america-hates-data-centers-new-database-reveals-more-than-90-percent-of-10-000-public-comments-are-negative-only-21-percent-mention-ai-73-percent-of-meetings-had-no-data-center-supporters-water-is-the-number-one-concern",
+    "source": "Tom's Hardware",
+    "date": "2026-11-02",
+    "summary": "A new website seeks to distill over 10,000 public comments about data centers in the community across more than 410 local governments, and the consensus is that people don't like them one bit.",
+    "category": "hardware",
+    "image": "https://cdn.mos.cms.futurecdn.net/DBEu4bZrZJ6U9xKfFtWxPg-1920-80.jpg",
+    "id": 7
+  },
+  {
+    "title": "Nvidia Brev security breach may have exposed SSH keys used to access customer VMs",
+    "url": "https://www.tomshardware.com/tech-industry/cyber-security/nvidia-brev-security-breach-may-have-exposed-ssh-keys-used-to-access-customer-vms-investigation-finds-unauthorized-activity-spanning-16-days-but-no-evidence-of-misuse",
+    "source": "Tom's Hardware",
+    "date": "2026-11-02",
+    "summary": "Nvidia is investigating a security incident involving its Brev cloud development platform after detecting unauthorized activity between October 4 and October 20. The incident may have exposed SSH keys...",
+    "category": "hardware",
+    "image": "https://cdn.mos.cms.futurecdn.net/m9yYaGTygKCKaxm9GgKnKV-1920-80.png",
+    "id": 8
+  },
+  {
+    "title": "AI model gets a 32-bit RISC-V CPU compiled directly into its weights, then runs DOOM on it",
+    "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/ai-engineer-successfully-compiles-a-32-bit-risc-v-cpu-in-qwen-3-5-4b-llm-inserted-directly-into-its-weights-built-in-cpu-can-run-processor-arithmetic-operations-code-and-of-course-doom",
+    "source": "Tom's Hardware",
+    "date": "2026-11-02",
+    "summary": "Qwenputer is an experimental blend of the stock Qwen 3.5 4B LLM with a 32-bit RISC-V CPU compiled and inserted directly into its weights.",
+    "category": "models",
+    "image": "https://cdn.mos.cms.futurecdn.net/vDamaQXjMra2LE6RAc87N6-1920-80.jpg",
+    "id": 9
+  },
+  {
+    "title": "Anthropic confirms new Claude Code limits to prevent game cloning, users report blocking reverse engineering tasks",
+    "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/anthropic-confirms-new-claude-code-limits-to-prevent-game-cloning-users-report-opus-5-5-is-also-actively-blocking-reverse-engineering-tasks",
+    "source": "Tom's Hardware",
+    "date": "2026-11-02",
+    "summary": "Anthropic employee confirms that Claude Code now has orders not to reproduce game IP — company \"iterating to ensure [...] the right balance\"",
+    "category": "models",
+    "image": "https://cdn.mos.cms.futurecdn.net/qziRh5FuRAUAAnNS3QuCiU-1920-80.jpg",
+    "id": 10
+  },
+  {
+    "title": "Elon Musk mocks OpenAI CEO Sam Altman's claim that PCs having RAM is terrible",
+    "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/elon-musk-mocks-openai-ceo-sam-altmans-claim-that-pcs-having-ram-is-terrible-the-people-deserve-to-have-their-ram-too",
+    "source": "Tom's Hardware",
+    "date": "2026-11-02",
+    "summary": "SpaceX CEO Musk posted a meme to X mocking Altman's belief that it's \"",
+    "category": "industry",
+    "image": "https://cdn.mos.cms.futurecdn.net/tpcMxmS65pozfyjCrFmyWZ-1920-80.jpg",
+    "id": 11
+  },
+  {
+    "title": "SpaceX loses bid to dismiss lawsuit over xAI data center pollution",
+    "url": "https://www.tomshardware.com/tech-industry/data-centers/spacex-loses-bid-to-dismiss-lawsuit-over-xai-data-center-pollution-judge-rules-mississippi-gas-turbines-are-not-exempt-from-the-clean-air-act",
+    "source": "Tom's Hardware",
+    "date": "2026-11-02",
+    "summary": "SpaceX loses latest legal fight over xAI's gas-powered data centers in Mississippi — court rejects arguments that mobile turbines are exempt from air permits",
+    "category": "hardware",
+    "image": "https://cdn.mos.cms.futurecdn.net/EGD7PmkSMgK6t3rpCaCefg-1920-80.jpg",
+    "id": 12
+  },
+  {
+    "title": "Grab a $450 saving on this 4K-ready gaming PC with an RTX 5070 Ti and 32GB DDR5 right now",
+    "url": "https://www.tomshardware.com/desktops/gaming-pcs/grab-a-usd450-saving-on-this-4k-ready-gaming-pc-with-an-rtx-5070-ti-and-32gb-ddr5-right-now-abs-rig-from-newegg-ships-with-24-core-intel-cpu-and-a-2tb-ssd-for-usd2-549-99",
+    "source": "Tom's Hardware",
+    "date": "2026-11-02",
+    "summary": "This ABS Stratos II Aqua gaming PC has dropped to $2,549.99 at Newegg right now, giving you a rig with a 24-core Intel Core i9-14900KF CPU, an Nvidia GeForce RTX 5070 Ti GPU, a 2TB SSD, and 32GB of DD...",
+    "category": "hardware",
+    "image": "https://cdn.mos.cms.futurecdn.net/8fowww56bytYgw4hzapaoY-1920-80.png",
+    "id": 13
+  },
+  {
+    "title": "Sony's final 4K Blu-ray player listed as out of stock in Japan, firm may be preparing to abandon standalone players",
+    "url": "https://www.tomshardware.com/video-games/playstation/sonys-final-4k-blu-ray-player-listed-as-out-of-stock-in-japan-firm-may-be-preparing-to-abandon-standalone-players-retailers-reportedly-told-not-to-expect-new-stock-of-its-remaining-model",
+    "source": "Tom's Hardware",
+    "date": "2026-11-02",
+    "summary": "Sony may be preparing to abandon the standalone 4K Blu-ray player market after retailers in Japan reportedly stopped expecting new shipments of its final remaining model, the UBP-X700K. The company ha...",
+    "category": "industry",
+    "image": "https://cdn.mos.cms.futurecdn.net/5DBb3EC4wHqhYfPaC3rczS-1920-80.png",
+    "id": 14
+  },
+  {
+    "title": "Military explores commercial 5G networks for enemy drone defense",
+    "url": "https://www.tomshardware.com/networking/military-explores-commercial-5g-networks-for-enemy-drone-defense-ai-agents-developed-the-system-recently-used-in-battlefield-trials-in-latvia",
+    "source": "Tom's Hardware",
+    "date": "2026-11-02",
+    "summary": "The military is looking at leveraging commercial 5G networks to sense and track drone incursions.",
+    "category": "hardware",
+    "image": "https://cdn.mos.cms.futurecdn.net/ATjdgYQePNDxpwcfdLGsmn-1920-80.jpg",
+    "id": 15
+  },
+  {
+    "title": "New York Times and other outlets sue web browser Brave over alleged content scraping",
+    "url": "https://techcrunch.com/2026/11/02/new-york-times-and-other-outlets-sue-web-browser-brave-over-alleged-content-scraping/",
+    "source": "TechCrunch",
+    "date": "2026-11-02",
+    "summary": "The New York Times is suing privacy-focused web browser company Brave for allegedly scraping the outlet’s copyrighted content and unlawfully distributing it to its own customers, like Anthropic and Pe...",
+    "category": "tools",
+    "image": "https://techcrunch.com/wp-content/uploads/2024/08/brave-browser.jpg?resize=1200,800",
+    "id": 16
+  },
+  {
+    "title": "42AI comes out of stealth with $62.5M and a world model that can ‘predict human behavior’",
+    "url": "https://techcrunch.com/2026/11/02/42ai-comes-out-of-stealth-with-62-5m-and-a-world-model-that-can-predict-human-behavior/",
+    "source": "TechCrunch",
+    "date": "2026-11-02",
+    "summary": "Here's a question straight out of sci-fi: What if AI could predict what you were going to do before you decided to, even in a completely new situation?",
+    "category": "industry",
+    "image": "https://techcrunch.com/wp-content/uploads/2026/11/IMG_3572.jpeg?resize=1200,895",
+    "id": 17
+  },
+  {
+    "title": "Omen AI adds liquid know-how in $16 million Aquatic Labs acquisition",
+    "url": "https://techcrunch.com/2026/11/02/omen-ai-adds-liquid-know-how-in-16-million-aquatic-labs-acquisition/",
+    "source": "TechCrunch",
+    "date": "2026-11-02",
+    "summary": "Two startups tackling the data center water problem are joining forces in a $16 million deal.",
+    "category": "industry",
+    "image": "https://techcrunch.com/wp-content/uploads/2026/11/DSCF1932.jpg?resize=1200,800",
+    "id": 18
+  },
+  {
+    "title": "OpenAI is finally merging ChatGPT’s Chat and Work tabs",
+    "url": "https://techcrunch.com/2026/11/02/openai-is-finally-merging-chatgpts-chat-and-work-tabs/",
+    "source": "TechCrunch",
+    "date": "2026-11-02",
+    "summary": "OpenAI said that ChatGPT and Codex will draw usage from the same allocation pool after this change.",
+    "category": "models",
+    "image": "https://techcrunch.com/wp-content/uploads/2026/09/openai-getty.jpg?resize=1200,800",
+    "id": 19
+  },
+  {
+    "title": "Raising the quality of insights in agentic analytics",
+    "url": "https://www.technologyreview.com/2026/11/02/1147660/raising-the-quality-of-insights-in-agentic-analytics/",
+    "source": "MIT Tech Review",
+    "date": "2026-11-02",
+    "summary": "In just a few years, generative AI has changed the face of enterprise analytics, notably by making analytics accessible to users across the organization. Agentic AI promises to do even more, by automa...",
+    "category": "industry",
+    "image": "https://wp.technologyreview.com/wp-content/uploads/2026/10/Snowflake-Social-Card-2026.png?resize=1200,600",
+    "id": 20
+  },
+  {
+    "title": "Stop counting tokens, start counting what ships",
+    "url": "https://www.technologyreview.com/2026/11/02/1147702/stop-counting-tokens-start-counting-what-ships/",
+    "source": "MIT Tech Review",
+    "date": "2026-11-02",
+    "summary": "When a developer gives an AI agent a coding task, the agent does more than answer once. It plans, generates code, runs tests, and repeats the process to correct errors. A single task can use 10 to 50 ...",
+    "category": "hardware",
+    "image": "https://wp.technologyreview.com/wp-content/uploads/2026/10/iStock-2297734847.jpg?resize=1200,600",
+    "id": 21
+  },
+  {
+    "title": "When You Should—and Shouldn’t—Use AI to Search the Web",
+    "url": "https://www.wired.com/story/when-you-should-and-shouldnt-use-ai-to-search-the-web/",
+    "source": "Wired",
+    "date": "2026-11-02",
+    "summary": "Chatbots are often quite good at retrieving the information you want from the web. But sometimes you’ll get better results by typing your query into a good old search engine.",
+    "category": "industry",
+    "image": "https://media.wired.com/photos/6ae34e2b3b99c3ad51af9ec6/191:100/w_1280,c_limit/102926-AI%20Web_.jpg",
+    "id": 22
+  },
+  {
     "title": "Hundreds of Mundane AI Apps Are Hiding Sexually Abusive Deepfake Features",
     "url": "https://www.wired.com/story/hundreds-of-mundane-ai-apps-are-hiding-abusive-deepfake-features/",
     "source": "Wired",
@@ -7,8 +225,7 @@
     "summary": "WIRED uncovered some 400 apps and websites linked to Chinese-language developers that look like regular AI tools but had secret features that let users create violent AI-generated images and video.",
     "category": "tools",
     "image": "https://media.wired.com/photos/6adfc11328ba980ed3d0219a/191:100/w_1280,c_limit/Security_ChinaAppsBehindDeepFakes_v1.jpg",
-    "id": 1,
-    "featured": true
+    "id": 23
   },
   {
     "title": "More Rules, Longer Lists? Benchmarking Self-Evolving Agents on a Hidden-Rule Curriculum",
@@ -17,7 +234,7 @@
     "date": "2026-11-02",
     "summary": "Self-evolving agents rewrite a persistent state from feedback, but it is largely untested whether this lets them learn a rule nobody told them. An agent can also pass by writing down each correction a...",
     "category": "models",
-    "id": 2
+    "id": 24
   },
   {
     "title": "Beyond Plausible Prediction: Safety Sufficiency in Web World Models",
@@ -26,7 +243,7 @@
     "date": "2026-11-02",
     "summary": "Web world models increasingly predict the consequences of candidate actions before agents act, yet a plausible predicted future does not necessarily support the correct safety decision. In a matched h...",
     "category": "research",
-    "id": 3
+    "id": 25
   },
   {
     "title": "Circumventing the Computational Hardness of Computational Arbitrage",
@@ -35,7 +252,7 @@
     "date": "2026-11-02",
     "summary": "AI model marketplaces host providers with heterogeneous costs and capabilities. These differences create an opportunity for computational arbitrage (Olmedo et al., 2026), in which an intermediary purc...",
     "category": "industry",
-    "id": 4
+    "id": 26
   },
   {
     "title": "Incongruence-Aware Evaluation of Multimodal Speech Emotion Recognition in Audio Large Language Models",
@@ -44,7 +261,7 @@
     "date": "2026-11-02",
     "summary": "Voice-interactive large language models process both what a speaker says and how they say it, yet the two channels do not always agree. We ask whether that disagreement degrades speech emotion recogni...",
     "category": "models",
-    "id": 5
+    "id": 27
   },
   {
     "title": "ChatGPT as a Surveillance Assistant? An Exploratory Case Study of AI-Assisted Surveillance Risks",
@@ -53,7 +270,7 @@
     "date": "2026-11-02",
     "summary": "Large language models (LLMs) can generate detailed guidance, functional code, and persuasive text at scale. As one of the most widely used consumer language model products as of 2026, ChatGPT gives br...",
     "category": "models",
-    "id": 6
+    "id": 28
   },
   {
     "title": "Does Recursive Knowledge Construction Help Agents Verify Consensus Claims in Science?",
@@ -62,7 +279,7 @@
     "date": "2026-11-02",
     "summary": "Recent scientific agents build knowledge recursively by retrieving evidence, constructing an intermediate state, and judging whether that state contains sufficient information. These agents are evalua...",
     "category": "models",
-    "id": 7
+    "id": 29
   },
   {
     "title": "Towards Portable Specification of the Agent Harness",
@@ -71,7 +288,7 @@
     "date": "2026-11-02",
     "summary": "Large language models act only through the infrastructure that surrounds them. That infrastructure, the harness, determines what a model can accomplish and how it fails, yet it has no settled definiti...",
     "category": "tools",
-    "id": 8
+    "id": 30
   },
   {
     "title": "Agentic World Modeling for Agent Test-time Scaling without Environment Replica",
@@ -80,7 +297,7 @@
     "date": "2026-11-02",
     "summary": "Test-time scaling (TTS) improves large language model agents by sampling and selecting among multiple candidate trajectories, but common realizations assume that these trajectories can be executed in ...",
     "category": "industry",
-    "id": 9
+    "id": 31
   },
   {
     "title": "DiRAFT: Privacy-Aware Financial Transcript Synthesis from Aggregate Discourse Priors",
@@ -89,7 +306,7 @@
     "date": "2026-11-02",
     "summary": "Using customer conversations to train and evaluate financial language models raises confidentiality concerns because non-public financial facts can remain after direct identifiers are masked. Syntheti...",
     "category": "industry",
-    "id": 10
+    "id": 32
   },
   {
     "title": "The First Few Tokens Matter: Understanding Chain-of-Thought Controllability",
@@ -98,7 +315,7 @@
     "date": "2026-11-02",
     "summary": "Chain-of-thought (CoT) monitoring is a promising way to oversee increasingly capable agents. It succeeds in part because current models appear limited in their ability to control what they verbalize i...",
     "category": "research",
-    "id": 11
+    "id": 33
   },
   {
     "title": "Benchmarking Forecasting Agents on Yesterday's Tomorrows",
@@ -107,7 +324,7 @@
     "date": "2026-11-02",
     "summary": "Digital agents can now gather and organize information, reason over it, and use tools to complete complex tasks. Forecasting puts all of these abilities to the test: it requires integrating incomplete...",
     "category": "research",
-    "id": 12
+    "id": 34
   },
   {
     "title": "Opening the Box Changes the Cat: LLMs Detect Chain-of-Thought Monitoring - What now?",
@@ -116,7 +333,7 @@
     "date": "2026-11-02",
     "summary": "Chain-of-thought (CoT) reasoning allows large language models (LLMs) to generate intermediate reasoning traces in natural language while solving complex tasks. These traces can support safety monitori...",
     "category": "research",
-    "id": 13
+    "id": 35
   },
   {
     "title": "P-ContextBench: From Personal Fact Recall to Personalized Agent Behavior",
@@ -125,7 +342,7 @@
     "date": "2026-11-02",
     "summary": "Large language models (LLMs) are increasingly used for personal tasks, yet evaluating their safe use of personal context remains difficult because such contexts are private, fragmented, dynamic, and s...",
     "category": "models",
-    "id": 14
+    "id": 36
   },
   {
     "title": "Nedimo: An Evidence-Grounded Multilingual Pipeline for AI-Generated Sleep Stories",
@@ -134,7 +351,7 @@
     "date": "2026-11-02",
     "summary": "Generative audio systems can produce large libraries of personalized bedtime content, but ordinary media objectives (retention, completion, and novelty) are poorly aligned with the goal of supporting ...",
     "category": "models",
-    "id": 15
+    "id": 37
   },
   {
     "title": "The psychophysics of affect in large language models",
@@ -143,7 +360,7 @@
     "date": "2026-11-02",
     "summary": "Good decisions often require considering how outcomes will feel. Yet large language models (LLMs) increasingly enter decision workflows, despite little being known about how they map outcomes to feeli...",
     "category": "models",
-    "id": 16
+    "id": 38
   },
   {
     "title": "Can Personal Requirements Become Supervision for Planning?",
@@ -152,7 +369,7 @@
     "date": "2026-11-02",
     "summary": "Managing multiple chronic conditions through diet requires satisfying disease- and medication-specific requirements jointly across meals and days while preserving established eating habits. These requ...",
     "category": "models",
-    "id": 17
+    "id": 39
   },
   {
     "title": "Violet Teaming in Practice: Lessons from a Pilot Expert Workshop on Governing Complex AI Systems",
@@ -161,7 +378,7 @@
     "date": "2026-11-02",
     "summary": "Violet teaming has been proposed as a method to integrate technical, policy, and societal considerations into the evaluation of emerging technologies. Here, we document a pilot expert workshop used to...",
     "category": "industry",
-    "id": 18
+    "id": 40
   },
   {
     "title": "ReplayRCA: Measuring Post-hoc Diagnosis and Live Oversight of Agent Failures by Counterfactual Replay",
@@ -170,7 +387,7 @@
     "date": "2026-11-02",
     "summary": "When a language-model agent fails a multi-step task, can another model find the decisive mistake and fix it with a single action? We introduce ReplayRCA, a benchmark that scores such diagnoses by inte...",
     "category": "models",
-    "id": 19
+    "id": 41
   },
   {
     "title": "Capability-Grounded Agentic Planning",
@@ -179,7 +396,7 @@
     "date": "2026-11-02",
     "summary": "LLM agents serve natural-language requests through tools, data sources, and other agents, and even simple requests often need several interdependent calls. Typically, the LLM picks these calls by tria...",
     "category": "hardware",
-    "id": 20
+    "id": 42
   },
   {
     "title": "Consensus Within, Competition Between: Decentralized LLM Teams for Perimeter Defense",
@@ -188,7 +405,7 @@
     "date": "2026-11-02",
     "summary": "The use of large language models (LLMs) to coordinate multi-agent teams raises a fundamental architectural question: whether task allocation should be centralized in a single LLM controller or distrib...",
     "category": "models",
-    "id": 21
+    "id": 43
   },
   {
     "title": "LanG 2.0: Energy-Efficient Agentic AI for Semi-Automated Security Operations at Scale",
@@ -197,7 +414,7 @@
     "date": "2026-11-02",
     "summary": "Security operations centers (SOCs) need to turn terabytes of alerts, logs and flows into trusted, affordable decisions to unveil hidden threats. We present LanG 2.0, an agentic system that detects thr...",
     "category": "models",
-    "id": 22
+    "id": 44
   },
   {
     "title": "BABA-Bench: Evaluating Long-Horizon Patient-Advocacy Agents",
@@ -206,7 +423,7 @@
     "date": "2026-11-02",
     "summary": "An LLM agent that helps a patient get care must do two things. It must reach the correct outcome, and it must follow the necessary procedure. For example, the agent must get the patient's permission b...",
     "category": "models",
-    "id": 23
+    "id": 45
   },
   {
     "title": "Optimization Techniques for Solving the Minimum Red--Blue Separating Set Problem with an Application to Human--AI Text Separation",
@@ -215,7 +432,7 @@
     "date": "2026-11-02",
     "summary": "We study the so-called Minimum Red''Blue Separating Set Problem (MRBSSP) which arises from computational geometry. In particular, we propose a compact Set-Cover ILP formulation, safe preprocessing rul...",
     "category": "research",
-    "id": 24
+    "id": 46
   },
   {
     "title": "Payroll Fraud Detection in Synthetic HR/ERP Graphs: An Inductive Comparison of Rules, Path Features, and Graph Neural Networks",
@@ -224,7 +441,7 @@
     "date": "2026-11-02",
     "summary": "Payroll-fraud screening requires finding hidden employee--payee links while distinguishing suspicious relationships from legitimate ones. We formulate this problem as inductive link prediction and ent...",
     "category": "research",
-    "id": 25
+    "id": 47
   },
   {
     "title": "CIRCE Divines LLM Task Complexity from Constraint Structure",
@@ -233,7 +450,7 @@
     "date": "2026-11-02",
     "summary": "Estimating whether a problem is too complex for a large language model (LLM) before the model attempts it can guide model routing, how to allocate test-time compute, and suggest the need for new tools...",
     "category": "models",
-    "id": 26
+    "id": 48
   },
   {
     "title": "Verifying Text-to-SQL Queries under Changing Business Semantics",
@@ -242,7 +459,7 @@
     "date": "2026-11-02",
     "summary": "In text-to-SQL and AI-agent analytics, successful SQL execution does not establish semantic correctness under changing business definitions. We study revalidation of fixed queries after changes to ref...",
     "category": "research",
-    "id": 27
+    "id": 49
   },
   {
     "title": "QUAL: Quantile Alignment Improves Zero-Shot Time-Series Foundation Models",
@@ -251,204 +468,6 @@
     "date": "2026-11-02",
     "summary": "Time-series foundation models (TSFMs) provide zero-shot forecasts for unseen series, but their accuracy varies across datasets. Combining several models can reduce this variability, yet zero-shot depl...",
     "category": "research",
-    "id": 28
-  },
-  {
-    "title": "Differential rank preservation manifold learning",
-    "url": "https://arxiv.org/abs/2610.41107",
-    "source": "arXiv cs.AI",
-    "date": "2026-11-02",
-    "summary": "Manifold learning methods like t-SNE and UMAP preserve local neighborhoods, but they do not preserve the ranking of the neighbors inside them. Two embeddings can return the same neighbor set while dis...",
-    "category": "research",
-    "id": 29
-  },
-  {
-    "title": "Calibration of Large Model Quantization based on HiFloat4 Format",
-    "url": "https://arxiv.org/abs/2610.41112",
-    "source": "arXiv cs.AI",
-    "date": "2026-11-02",
-    "summary": "Quantization of Large Language Models (LLMs) has be- coming increasingly important for reducing the computa- tional costs and resource requirements for practical deploy- ment.Growinginterestinthisarea...",
-    "category": "models",
-    "id": 30
-  },
-  {
-    "title": "Predicting Human-Gain Curves under Local Proxy Optimization from Repeated Ratings",
-    "url": "https://arxiv.org/abs/2610.41114",
-    "source": "arXiv cs.AI",
-    "date": "2026-11-02",
-    "summary": "Optimizing a proxy objective can improve human-perceived quality, but the resulting gain can vary with optimization strength. Average proxy-human correlation alone does not reveal how human-perceived ...",
-    "category": "research",
-    "id": 31
-  },
-  {
-    "title": "Confident Fools or Careful Searchers? A Behavioural Study of When LLMs Search Beyond Their Static Internal Memory",
-    "url": "https://arxiv.org/abs/2610.41124",
-    "source": "arXiv cs.AI",
-    "date": "2026-11-02",
-    "summary": "Agentic LLM assistants must repeatedly decide whether to answer from memory or to call a tool such as web search. Unnecessary searches cost latency and money; missing ones yield confident but unsuppor...",
-    "category": "models",
-    "id": 32
-  },
-  {
-    "title": "When Should AI Agents Ask? Clarification Requests Under Limited Human Attention",
-    "url": "https://arxiv.org/abs/2610.41129",
-    "source": "arXiv cs.AI",
-    "date": "2026-11-02",
-    "summary": "AI agents increasingly carry out delegated tasks in parallel, with one person overseeing several of them at once. In practice, an agent often lacks information its task requires, such as an unstated p...",
-    "category": "research",
-    "id": 33
-  },
-  {
-    "title": "Counterfactual Pairwise Augmentation Improves Small Pointwise LLM Judges",
-    "url": "https://arxiv.org/abs/2610.41149",
-    "source": "arXiv cs.AI",
-    "date": "2026-11-02",
-    "summary": "Agentic systems increasingly gate individual steps with a pointwise judge that scores a response against a criterion. Small language models are attractive for this role because they can be served and ...",
-    "category": "models",
-    "id": 34
-  },
-  {
-    "title": "Lifelong Learning of Scheduling Rules with Surrogate-assisted Genetic Programming for Dynamic Flexible Job Shop Scheduling",
-    "url": "https://arxiv.org/abs/2610.41158",
-    "source": "arXiv cs.AI",
-    "date": "2026-11-02",
-    "summary": "Genetic programming (GP) has been widely used to learn scheduling rules for dynamic flexible job shop scheduling (DFJSS). However, trained rules tend to only generalise to tasks of similar scales and ...",
-    "category": "models",
-    "id": 35
-  },
-  {
-    "title": "FrontierMat: Benchmarking Language Models at the Frontier of Materials R&D",
-    "url": "https://arxiv.org/abs/2610.41162",
-    "source": "arXiv cs.AI",
-    "date": "2026-11-02",
-    "summary": "To accelerate materials discovery, language models must be able to address problems at the research frontier. Yet textbook- and examination-derived benchmarks primarily assess established knowledge, l...",
-    "category": "research",
-    "id": 36
-  },
-  {
-    "title": "LLM Detoxification via Transition-Aware Reward-Guided Representation Sampling",
-    "url": "https://arxiv.org/abs/2610.41165",
-    "source": "arXiv cs.AI",
-    "date": "2026-11-02",
-    "summary": "Large Language Models (LLMs) can generate toxic content, motivating effective test-time detoxification. Existing representation steering methods often rely on static or coarse interventions and provid...",
-    "category": "models",
-    "id": 37
-  },
-  {
-    "title": "ImplicitHop: Evaluating knowledge integration across context and memory",
-    "url": "https://arxiv.org/abs/2610.41169",
-    "source": "arXiv cs.AI",
-    "date": "2026-11-02",
-    "summary": "The ability to integrate new information and deduce its consequences is central to learning, understanding, and reasoning in large language models (LLMs). Whether information arrives during training o...",
-    "category": "models",
-    "id": 38
-  },
-  {
-    "title": "Researcher-in-the-Loop Evolutionary Discovery of Entanglement-Assisted Quantum Code Families",
-    "url": "https://arxiv.org/abs/2610.41183",
-    "source": "arXiv cs.AI",
-    "date": "2026-11-02",
-    "summary": "LLM-guided program evolution can produce mathematical constructions, but validity, generality, and reproducibility require distinct evidence. We develop a researcher-in-the-loop discovery pipeline tha...",
-    "category": "research",
-    "id": 39
-  },
-  {
-    "title": "RTL-Interact: Training EDA-Interactive Models for Multi-Task RTL Design",
-    "url": "https://arxiv.org/abs/2610.41225",
-    "source": "arXiv cs.AI",
-    "date": "2026-11-02",
-    "summary": "Large language models offer a promising route to register-transfer-level (RTL) design, but reliable implementations require checking and revision based on electronic design automation (EDA) tools' fee...",
-    "category": "research",
-    "id": 40
-  },
-  {
-    "title": "TRIDENT and SHAKTI: A Framework and Benchmark for Hindi AI-Text Detection",
-    "url": "https://arxiv.org/abs/2610.41232",
-    "source": "arXiv cs.AI",
-    "date": "2026-11-02",
-    "summary": "As Large Language Models (LLMs) become increasingly multilingual, distinguishing human-written from AI-generated text is essential for maintaining information integrity. However, research remains Engl...",
-    "category": "research",
-    "id": 41
-  },
-  {
-    "title": "Experts Exhibit Structured Redundancy: Structure-Preserving Expert Pruning for Mixture-of-Experts Large Language Models",
-    "url": "https://arxiv.org/abs/2610.41236",
-    "source": "arXiv cs.AI",
-    "date": "2026-11-02",
-    "summary": "Sparse MoE mechanism significantly improves the trade-off between model capacity and inference efficiency. However, practical deployment still requires storing all experts, resulting in substantial me...",
-    "category": "models",
-    "id": 42
-  },
-  {
-    "title": "MEMIG: Self-evolving Memory Construction for Antibody Optimization",
-    "url": "https://arxiv.org/abs/2610.41245",
-    "source": "arXiv cs.AI",
-    "date": "2026-11-02",
-    "summary": "Memory has become central to self-evolving LLM agents, which store and retrieve experience from past rollouts to guide future decisions. Existing systems represent this experience as free-form natural...",
-    "category": "models",
-    "id": 43
-  },
-  {
-    "title": "Rome Wasn't Built in One Turn: Replay-Grounded Reward Signals for Long-Horizon Freeciv Agents",
-    "url": "https://arxiv.org/abs/2610.41264",
-    "source": "arXiv cs.AI",
-    "date": "2026-11-02",
-    "summary": "Training language-model agents to play long-horizon strategy games is hard because deterministic feedback is sparse and often arrives only at the end of a game. In-game scores can offer dense signals,...",
-    "category": "models",
-    "id": 44
-  },
-  {
-    "title": "From 1D Benchmarks to Complex 3D Geometries: Can Agents Reliably Specify Problems for Automated PDE Simulation?",
-    "url": "https://arxiv.org/abs/2610.41267",
-    "source": "arXiv cs.AI",
-    "date": "2026-11-02",
-    "summary": "Turning an engineering request into a simulation requires consistent geometry, physics, boundary conditions, and numerical settings. Recent agent-assisted systems automate simulation setup, but succes...",
-    "category": "research",
-    "id": 45
-  },
-  {
-    "title": "SciGraphSelect: Auditable Scientific Data Selection through Knowledge--Reasoning Graphs",
-    "url": "https://arxiv.org/abs/2610.41280",
-    "source": "arXiv cs.AI",
-    "date": "2026-11-02",
-    "summary": "Scientific data selection is typically driven by relevance or utility scores, providing limited insight into why a document is retained. We introduce SciGraphSelect, a reference-grounded framework for...",
-    "category": "research",
-    "id": 46
-  },
-  {
-    "title": "SAT-ACT: Learning CDCL Branching from Outcome-Derived Action Preferences",
-    "url": "https://arxiv.org/abs/2610.41290",
-    "source": "arXiv cs.AI",
-    "date": "2026-11-02",
-    "summary": "Learning-based approaches have increasingly been explored for SAT solving, with particular attention to improving branching decisions in conflict-driven clause learning (CDCL) solvers. These approache...",
-    "category": "models",
-    "id": 47
-  },
-  {
-    "title": "Self-Improvement with Auxiliary Rewards: Learning from Verified Traces and Evaluating Transfer",
-    "url": "https://arxiv.org/abs/2610.41296",
-    "source": "arXiv cs.AI",
-    "date": "2026-11-02",
-    "summary": "Answer-level rewards cannot distinguish reasoning traces with equally correct outcomes. We study whether auxiliary trajectory preferences improve small-language-model self-improvement and transfer und...",
-    "category": "research",
-    "id": 48
-  },
-  {
-    "title": "Subliminal Reinforcement Learning: traits travel through a judge's scores",
-    "url": "https://arxiv.org/abs/2610.41301",
-    "source": "arXiv cs.AI",
-    "date": "2026-11-02",
-    "summary": "Subliminal learning, the transfer of a model's trait through data with no semantic trace of it, has been shown for students trained on a teacher's text. Post-training relies on group relative policy o...",
-    "category": "research",
-    "id": 49
-  },
-  {
-    "title": "SERIAL-7: Deriving, Realizing, and Preserving Machine-Verifiable Outputs Across Representations",
-    "url": "https://arxiv.org/abs/2610.41308",
-    "source": "arXiv cs.AI",
-    "date": "2026-11-02",
-    "summary": "Large language models increasingly generate structured outputs consumed by programs and downstream systems, where semantic correctness alone does not guarantee reliable execution. We introduce SERIAL-...",
-    "category": "models",
     "id": 50
   }
 ]
