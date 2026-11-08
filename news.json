@@ -1,5 +1,46 @@
 [
   {
+    "title": "Diamond Foundry creates world's first 200mm single-crystal diamond wafer",
+    "url": "https://www.tomshardware.com/pc-components/cooling/diamond-foundry-creates-worlds-first-200mm-single-crystal-diamond-wafer-massive-gem-aims-to-solve-ai-chip-cooling-crisis-envisioned-as-a-cooling-material-for-semiconductors",
+    "source": "Tom's Hardware",
+    "date": "2026-11-08",
+    "summary": "This 200mm single-crystal diamond wafer is designed to efficiently remove heat and prevent hotspots from forming on AI processors.",
+    "category": "hardware",
+    "image": "https://cdn.mos.cms.futurecdn.net/PhYnHgbq2oQkd3ZZoMnZXj-1920-80.png",
+    "id": 1,
+    "featured": true
+  },
+  {
+    "title": "The end of an era as Linux 7.5 purges the last 30-year-old Intel MMX optimizations from Pentium age",
+    "url": "https://www.tomshardware.com/software/linux/the-end-of-an-era-as-linux-7-5-purges-the-last-30-year-old-intel-mmx-optimizations-from-pentium-age-open-source-os-retires-ancient-1997-pentium-instructions-to-streamline-code",
+    "source": "Tom's Hardware",
+    "date": "2026-11-08",
+    "summary": "Linux developers are preparing to make Intel’s ancient MultiMedia eXtensions irrelevant, with the last MMX code now set to be removed from the kernel.",
+    "category": "tools",
+    "image": "https://cdn.mos.cms.futurecdn.net/rXG5LfQBM4KrVowgfX4A3g-1920-80.jpg",
+    "id": 2
+  },
+  {
+    "title": "Nvidia released its 8800 GTX GPU 20 years ago today, celebrates with Steam game homage",
+    "url": "https://www.tomshardware.com/pc-components/gpus/nvidia-released-its-8800-gtx-gpu-20-years-ago-today-celebrates-with-steam-game-homage-interactive-demos-eye-watering-minimum-requirements-include-rtx-4070-32gb-ram-and-30gb-storage",
+    "source": "Tom's Hardware",
+    "date": "2026-11-08",
+    "summary": "On this day in 2006, Nvidia released the legendary GeForce 8800 GTX graphics card and it is celebrating the event with a very demanding (but free) interactive Steam demo.",
+    "category": "hardware",
+    "image": "https://cdn.mos.cms.futurecdn.net/TmUVtxVZfu7Yc9Rnd5tCtA-1920-80.jpg",
+    "id": 3
+  },
+  {
+    "title": "Two Chinese companies cleared to buy banned Nvidia AI chips have empty offices and unknown addresses",
+    "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/two-chinese-companies-cleared-to-buy-banned-nvidia-ai-chips-have-empty-offices-and-unknown-addresses-investigation-reveals-businesses-have-ties-to-sanctioned-chinese-military-suppliers",
+    "source": "Tom's Hardware",
+    "date": "2026-11-08",
+    "summary": "The offices for New Matrix and Maginfra, both approved to receive H200 chips, appear abandoned, and people in the buildings say they're unfamiliar with the companies or have never seen anyone working ...",
+    "category": "hardware",
+    "image": "https://cdn.mos.cms.futurecdn.net/RAnrUYUPEDMbGSwoqAPETM-1920-80.png",
+    "id": 4
+  },
+  {
     "title": "PC's with 64GB of RAM plummet 18% as memory prices soar",
     "url": "https://www.tomshardware.com/pc-components/ram/pcs-with-64gb-of-ram-plummet-18-percent-as-memory-prices-soar-cpu-z-install-base-data-shows-ddr4-making-a-surprise-comeback",
     "source": "Tom's Hardware",
@@ -7,8 +48,7 @@
     "summary": "CPU-Z data reveals PC memory capacity is dropping for the first time ever. Driven by skyrocketing AI DRAM prices, 64GB RAM adoption plummeted 18% YoY.",
     "category": "hardware",
     "image": "https://cdn.mos.cms.futurecdn.net/vp5VEBetgZmgodQQoxWEvY-1920-80.jpg",
-    "id": 1,
-    "featured": true
+    "id": 5
   },
   {
     "title": "Homelabber uses second-gen Optane memory sticks to run a 2.8-trillion-parameter AI model on CPU alone",
@@ -18,7 +58,7 @@
     "summary": "A Reddit homelab user ran Moonshot AI’s 2.8-trillion-parameter Kimi K3 CPU-only on Optane PMem 200 at 0.85 tokens/s with a 1-bit quant.",
     "category": "hardware",
     "image": "https://cdn.mos.cms.futurecdn.net/Wpdi2avEo8ZBZMremLVgaU-1920-80.jpg",
-    "id": 2
+    "id": 6
   },
   {
     "title": "WoW: Forever launch used 70,480 CPU cores and 251 terabytes of RAM",
@@ -28,200 +68,194 @@
     "summary": "Inside the astonishing hardware behind World of Warcraft: Forever. 251TB of RAM and 70K cores kept millions of players online without a hitch.",
     "category": "hardware",
     "image": "https://cdn.mos.cms.futurecdn.net/TNCBNhGaotv4BgQQDz5pbj-1920-80.jpg",
-    "id": 3
-  },
-  {
-    "title": "LLMs are terrible at designing AI systems",
-    "url": "https://www.seangoedecke.com/llms-are-terrible-at-designing-ai-systems/",
-    "source": "Hacker News",
-    "date": "2026-11-08",
-    "summary": "Article URL: https://www.seangoedecke.com/llms-are-terrible-at-designing-ai-systems/ Comments URL: https://news.ycombinator.com/item?id=50412713 Points: 2 # Comments: 0",
-    "category": "models",
-    "id": 4
-  },
-  {
-    "title": "Why Your AI Agent Can't Solve CTF Challenges",
-    "url": "https://h4c.team/en/posts/97",
-    "source": "Hacker News",
-    "date": "2026-11-08",
-    "summary": "Article URL: https://h4c.team/en/posts/97 Comments URL: https://news.ycombinator.com/item?id=50412675 Points: 1 # Comments: 0",
-    "category": "industry",
-    "image": "https://h4c.team/og/posts/97.png?lang=en",
-    "id": 5
-  },
-  {
-    "title": "Empires of AI – The Rise and Fall of a New Global Order",
-    "url": "https://www.foreignaffairs.com/china/empires-artificial-intelligence-niall-ferguson-eric-schmidt",
-    "source": "Hacker News",
-    "date": "2026-11-08",
-    "summary": "Article URL: https://www.foreignaffairs.com/china/empires-artificial-intelligence-niall-ferguson-eric-schmidt Comments URL: https://news.ycombinator.com/item?id=50412645 Points: 1 # Comments: 1",
-    "category": "hardware",
-    "image": "https://cdn-live.foreignaffairs.com/sites/default/files/styles/social_share/public/images/2026/10/07/Ferguson_etal.jpg?itok=0lWZI0XD",
-    "id": 6
-  },
-  {
-    "title": "Etsy AI training terms change",
-    "url": "https://consumerrights.wiki/w/Etsy_AI_training_terms_change_(2026)",
-    "source": "Hacker News",
-    "date": "2026-11-08",
-    "summary": "Article URL: https://consumerrights.wiki/w/Etsy_AI_training_terms_change_(2026) Comments URL: https://news.ycombinator.com/item?id=50412447 Points: 1 # Comments: 0",
-    "category": "industry",
-    "image": "https://consumerrights.wiki/images/logo/new_fixed_logo.png",
     "id": 7
   },
   {
-    "title": "Aiport: A self-improving local LLM gateway for the erratic vibe coder",
-    "url": "https://github.com/harelix/aiport",
+    "title": "Etsy changes terms to train AI on your creations, while blocking you doing it [video]",
+    "url": "https://www.youtube.com/watch?v=zrlLUUdqDJI",
     "source": "Hacker News",
     "date": "2026-11-08",
-    "summary": "Article URL: https://github.com/harelix/aiport Comments URL: https://news.ycombinator.com/item?id=50412418 Points: 1 # Comments: 0",
-    "category": "models",
-    "image": "https://repository-images.githubusercontent.com/1442299893/eab4e873-f9be-4afe-88da-39536401e783",
+    "summary": "Article URL: https://www.youtube.com/watch?v=zrlLUUdqDJI Comments URL: https://news.ycombinator.com/item?id=50416103 Points: 1 # Comments: 0",
+    "category": "industry",
     "id": 8
   },
   {
-    "title": "AI Alignment Considered Harmful",
-    "url": "http://togelius.blogspot.com/2026/11/ai-alignment-considered-harmful.html",
+    "title": "Ask HN- Will AI agents behave differently in a swarm?",
+    "url": "https://world.emergence.ai/",
     "source": "Hacker News",
     "date": "2026-11-08",
-    "summary": "Article URL: http://togelius.blogspot.com/2026/11/ai-alignment-considered-harmful.html Comments URL: https://news.ycombinator.com/item?id=50412294 Points: 3 # Comments: 0",
-    "category": "research",
+    "summary": "Article URL: https://world.emergence.ai/ Comments URL: https://news.ycombinator.com/item?id=50416075 Points: 1 # Comments: 1",
+    "category": "industry",
+    "image": "https://world.emergence.ai/opengraph.jpg",
     "id": 9
   },
   {
-    "title": "What Can AI Hack? Inside Frontier Labs' Tests",
-    "url": "https://dorcohen.dev/posts/what-can-ai-actually-hack/",
+    "title": "Canada's AI translation tool keeps making hilarious mistakes",
+    "url": "https://www.blogto.com/tech/2026/11/canada-ai-translation-tool-making-mistakes/",
     "source": "Hacker News",
     "date": "2026-11-08",
-    "summary": "Article URL: https://dorcohen.dev/posts/what-can-ai-actually-hack/ Comments URL: https://news.ycombinator.com/item?id=50411752 Points: 1 # Comments: 0",
-    "category": "industry",
-    "image": "https://dorcohen.dev/og/what-can-ai-actually-hack.png",
+    "summary": "Article URL: https://www.blogto.com/tech/2026/11/canada-ai-translation-tool-making-mistakes/ Comments URL: https://news.ycombinator.com/item?id=50415905 Points: 3 # Comments: 0",
+    "category": "tools",
     "id": 10
   },
   {
-    "title": "Researchers unveiled new techniques to protect AI from backdoor attacks",
-    "url": "https://news.ncsu.edu/2026/11/new-techniques-to-prevent-backdoor-attacks/",
+    "title": "The Heavy Cloud: Hydrosocial Dispossession and the Water Coloniality of AI Infra",
+    "url": "https://rgs-ibg.onlinelibrary.wiley.com/doi/10.1002/geo2.70113",
     "source": "Hacker News",
     "date": "2026-11-08",
-    "summary": "Article URL: https://news.ncsu.edu/2026/11/new-techniques-to-prevent-backdoor-attacks/ Comments URL: https://news.ycombinator.com/item?id=50411704 Points: 2 # Comments: 1",
-    "category": "research",
-    "image": "https://news.ncsu.edu/wp-content/uploads/2026/11/Kim-backdoor-header-2026.jpg",
+    "summary": "Article URL: https://rgs-ibg.onlinelibrary.wiley.com/doi/10.1002/geo2.70113 Comments URL: https://news.ycombinator.com/item?id=50415854 Points: 1 # Comments: 0",
+    "category": "tools",
     "id": 11
   },
   {
-    "title": "ThinkStream – AI generates the work. We still need to understand it",
-    "url": "https://thinkstream.app/",
+    "title": "Silicon Valley Promises AI Will Cure Disease. Drugmaker CEOs Aren't Buying It",
+    "url": "https://www.wsj.com/tech/ai/silicon-valley-promises-ai-will-cure-disease-drugmaker-ceos-arent-buying-it-5218511c",
     "source": "Hacker News",
     "date": "2026-11-08",
-    "summary": "Article URL: https://thinkstream.app/ Comments URL: https://news.ycombinator.com/item?id=50411638 Points: 10 # Comments: 0",
-    "category": "industry",
+    "summary": "Article URL: https://www.wsj.com/tech/ai/silicon-valley-promises-ai-will-cure-disease-drugmaker-ceos-arent-buying-it-5218511c Comments URL: https://news.ycombinator.com/item?id=50415817 Points: 17 # C...",
+    "category": "hardware",
     "id": 12
   },
   {
-    "title": "AI Companies Want to Buy Your Work Files and Emails",
-    "url": "https://www.wired.com/story/ai-companies-really-really-want-to-buy-your-work-files-and-emails/",
+    "title": "Show HN: LLM-cost-watch – Ask Claude why your LLM bill jumped",
+    "url": "https://github.com/rohith0707/llm-cost-watch",
     "source": "Hacker News",
     "date": "2026-11-08",
-    "summary": "Article URL: https://www.wired.com/story/ai-companies-really-really-want-to-buy-your-work-files-and-emails/ Comments URL: https://news.ycombinator.com/item?id=50411618 Points: 3 # Comments: 1",
-    "category": "industry",
-    "image": "https://media.wired.com/photos/6aece5b7cb93131011507281/191:100/w_1280,c_limit/Backchannel-11062026_Option2.jpg",
+    "summary": "Article URL: https://github.com/rohith0707/llm-cost-watch Comments URL: https://news.ycombinator.com/item?id=50415785 Points: 1 # Comments: 0",
+    "category": "models",
+    "image": "https://opengraph.githubassets.com/81709581a883dc22aa1db0125b856984ddf05f23400fd20bc3388a5753b1f036/rohith0707/llm-cost-watch",
     "id": 13
   },
   {
-    "title": "Being a line cook without talking to AI",
-    "url": "https://knhash.in/no-ai-line-cook/",
+    "title": "Show HN: Is your product AI slop?",
+    "url": "https://slopcalculator.com/",
     "source": "Hacker News",
     "date": "2026-11-08",
-    "summary": "Article URL: https://knhash.in/no-ai-line-cook/ Comments URL: https://news.ycombinator.com/item?id=50411352 Points: 1 # Comments: 0",
+    "summary": "Article URL: https://slopcalculator.com/ Comments URL: https://news.ycombinator.com/item?id=50415740 Points: 3 # Comments: 1",
     "category": "industry",
-    "image": "https://media.knhash.in/apple-touch-icon.png",
+    "image": "https://slopcalculator.com/og.png",
     "id": 14
   },
   {
-    "title": "Show HN: Ramen – an AI agent that has to earn its own rent",
-    "url": "https://usdt-kit-production.up.railway.app/ramen",
+    "title": "Etsy Expands AI Training Rights over Content, Restricts 3rd Party Training",
+    "url": "https://www.valueaddedresource.net/etsy-expands-ai-training-rights/",
     "source": "Hacker News",
     "date": "2026-11-08",
-    "summary": "Article URL: https://usdt-kit-production.up.railway.app/ramen Comments URL: https://news.ycombinator.com/item?id=50411182 Points: 1 # Comments: 1",
+    "summary": "Article URL: https://www.valueaddedresource.net/etsy-expands-ai-training-rights/ Comments URL: https://news.ycombinator.com/item?id=50415265 Points: 2 # Comments: 0",
     "category": "industry",
     "id": 15
   },
   {
-    "title": "Ask HN: LLM-Resistant Publishing Strategies",
-    "url": "https://news.ycombinator.com/item?id=50411036",
+    "title": "GPT-6 Luna and GPT-6.1 Sol are 90% off the listed price",
+    "url": "https://anyrouter.dev/blog/releases/2026-11-03-llamport",
     "source": "Hacker News",
     "date": "2026-11-08",
-    "summary": "As has been discussed at length, LLM companies carried out the most egregious theft of labor [0] and intellectual property [1] in human history. I am one among the many (artists, musicians, writers, d...",
-    "category": "industry",
+    "summary": "Article URL: https://anyrouter.dev/blog/releases/2026-11-03-llamport Comments URL: https://news.ycombinator.com/item?id=50415103 Points: 4 # Comments: 0",
+    "category": "models",
+    "image": "https://anyrouter.dev/social/blog/releases/2026-11-03-llamport.png",
     "id": 16
   },
   {
-    "title": "Show HN: I built an AI code editor that for teams",
-    "url": "https://www.rxcode.dev/",
+    "title": "China's AI models, led by Kimi, dominate open-source enterprise spending",
+    "url": "https://www.scmp.com/tech/tech-trends/article/3373550/chinas-ai-models-led-kimi-dominate-open-source-enterprise-spending",
     "source": "Hacker News",
     "date": "2026-11-08",
-    "summary": "I built an open-source AI code editor for team collaboration, featuring a built-in sprint board and the ability to assign tasks to different agents. I’d love to get your feedback and suggestions! PR a...",
+    "summary": "Article URL: https://www.scmp.com/tech/tech-trends/article/3373550/chinas-ai-models-led-kimi-dominate-open-source-enterprise-spending Comments URL: https://news.ycombinator.com/item?id=50414719 Points...",
     "category": "industry",
-    "image": "https://code.rxlab.app/opengraph-image?6f11d0e293d2dcbf",
+    "image": "https://cdn.i-scmp.com/sites/default/files/styles/og_image_scmp_generic/public/d8/images/canvas/2026/11/06/adac839a-e18e-4f31-b2ab-3a11edba2620_cbc2f90e.jpg?itok=AkwcHkde&v=1793956533",
     "id": 17
   },
   {
-    "title": "AI labs are paying $100K–$2M for internal company workflow data",
-    "url": "https://calendly.com/d/d3ss-w9w-7vs",
+    "title": "One of Classical Music's Biggest Stars Says AI Is Degrading Our Taste",
+    "url": "https://www.bloomberg.com/features/2026-max-richter-weekend-interview/",
     "source": "Hacker News",
     "date": "2026-11-08",
-    "summary": "Article URL: https://calendly.com/d/d3ss-w9w-7vs Comments URL: https://news.ycombinator.com/item?id=50410816 Points: 2 # Comments: 2",
+    "summary": "Article URL: https://www.bloomberg.com/features/2026-max-richter-weekend-interview/ Comments URL: https://news.ycombinator.com/item?id=50414699 Points: 6 # Comments: 2",
     "category": "industry",
     "id": 18
   },
   {
-    "title": "70% of Brits say please or thank you when speaking to AI, some even apologize",
-    "url": "https://www.techradar.com/pro/70-percent-of-brits-say-please-or-thank-you-when-speaking-to-ai-and-some-even-apologize",
+    "title": "Show HN: ModelRefs – Interactive reference hub for AI models",
+    "url": "https://modelrefs.com/",
     "source": "Hacker News",
     "date": "2026-11-08",
-    "summary": "Article URL: https://www.techradar.com/pro/70-percent-of-brits-say-please-or-thank-you-when-speaking-to-ai-and-some-even-apologize Comments URL: https://news.ycombinator.com/item?id=50410796 Points: 7...",
+    "summary": "Article URL: https://modelrefs.com/ Comments URL: https://news.ycombinator.com/item?id=50414668 Points: 1 # Comments: 0",
     "category": "industry",
-    "image": "https://cdn.mos.cms.futurecdn.net/8vLsLeC4LHKgwTpJRXEWKZ-1920-80.jpg",
+    "image": "https://modelrefs.com/modelrefs-icon-blue-512.png?v=20260810",
     "id": 19
   },
   {
-    "title": "Show HN: Codend – Build and publish web apps with AI agents",
-    "url": "https://codend.dev",
+    "title": "The 0rwx framework for AI usage attribution",
+    "url": "http://0rwx.com",
     "source": "Hacker News",
     "date": "2026-11-08",
-    "summary": "Article URL: https://codend.dev Comments URL: https://news.ycombinator.com/item?id=50410758 Points: 1 # Comments: 0",
-    "category": "industry",
-    "image": "https://codend.dev/assets/og/home.png",
+    "summary": "Article URL: http://0rwx.com Comments URL: https://news.ycombinator.com/item?id=50414502 Points: 2 # Comments: 1",
+    "category": "tools",
     "id": 20
   },
   {
-    "title": "Interleaf: An experimental tool for LLM assisted knowledge exploration",
-    "url": "https://news.ycombinator.com/item?id=50410733",
+    "title": "Show HN: Cinnamon AI – an agent you can share with your household",
+    "url": "https://getcinnamon.ai/",
     "source": "Hacker News",
     "date": "2026-11-08",
-    "summary": "Comments URL: https://news.ycombinator.com/item?id=50410733 Points: 1 # Comments: 1",
-    "category": "models",
+    "summary": "Article URL: https://getcinnamon.ai/ Comments URL: https://news.ycombinator.com/item?id=50414485 Points: 1 # Comments: 0",
+    "category": "industry",
+    "image": "https://getcinnamon.ai/images/og.png",
     "id": 21
   },
   {
-    "title": "AI Live Speech Rewriting Patent",
-    "url": "https://patentlyze.com/patent/microsoft-live-ai-video-rewrites-speech/",
+    "title": "Show HN: Jurex in House – Handles Legal Side of Your Business with AI",
+    "url": "https://inhouse.jurex.ai/login",
     "source": "Hacker News",
     "date": "2026-11-08",
-    "summary": "Article URL: https://patentlyze.com/patent/microsoft-live-ai-video-rewrites-speech/ Comments URL: https://news.ycombinator.com/item?id=50410729 Points: 2 # Comments: 0",
-    "category": "industry",
-    "image": "https://docs.patentlyze.com/share/20260341309-afd3af3e.png",
+    "summary": "Hi, Jurex-in-house is a Tool you & legal teams can use to handle the legal side of your business. Best in Class Drafting, research & complete contract to matter management in US, UK, India & singapore...",
+    "category": "research",
     "id": 22
   },
   {
-    "title": "VindexLLM – Windows Vulkan GPU GGUF LLM inference engine written in Delphi 12",
-    "url": "https://github.com/tinyBigGAMES/VindexLLM",
+    "title": "Apple CEO Presses Software Chief to Pursue More Ambitious AI Strategy",
+    "url": "https://www.bloomberg.com/news/newsletters/2026-11-08/apple-explores-turning-siri-ai-into-chatgpt-dots-like-agent-ios-28-shake-up",
     "source": "Hacker News",
     "date": "2026-11-08",
-    "summary": "Article URL: https://github.com/tinyBigGAMES/VindexLLM Comments URL: https://news.ycombinator.com/item?id=50410646 Points: 1 # Comments: 0",
+    "summary": "Article URL: https://www.bloomberg.com/news/newsletters/2026-11-08/apple-explores-turning-siri-ai-into-chatgpt-dots-like-agent-ios-28-shake-up Comments URL: https://news.ycombinator.com/item?id=504140...",
     "category": "models",
-    "image": "https://repository-images.githubusercontent.com/1209887455/f6aaff9b-abe8-4edc-a734-1afa5b98ce47",
     "id": 23
+  },
+  {
+    "title": "I made an open-web protocol for local LLM storage sharing",
+    "url": "https://joshuadd79.github.io/bring-your-own-brain/",
+    "source": "Hacker News",
+    "date": "2026-11-08",
+    "summary": "Article URL: https://joshuadd79.github.io/bring-your-own-brain/ Comments URL: https://news.ycombinator.com/item?id=50413739 Points: 2 # Comments: 0",
+    "category": "models",
+    "id": 24
+  },
+  {
+    "title": "We review 4x more AI code without reading every line",
+    "url": "https://thenewstack.io/scale-ai-code-reviews/",
+    "source": "Hacker News",
+    "date": "2026-11-08",
+    "summary": "Article URL: https://thenewstack.io/scale-ai-code-reviews/ Comments URL: https://news.ycombinator.com/item?id=50413647 Points: 3 # Comments: 2",
+    "category": "industry",
+    "id": 25
+  },
+  {
+    "title": "AI stance is not binary",
+    "url": "https://carette.xyz/posts/ai-stance-is-not-binary/",
+    "source": "Hacker News",
+    "date": "2026-11-08",
+    "summary": "Article URL: https://carette.xyz/posts/ai-stance-is-not-binary/ Comments URL: https://news.ycombinator.com/item?id=50413632 Points: 9 # Comments: 0",
+    "category": "industry",
+    "id": 26
+  },
+  {
+    "title": "Mercedes Gives Its Cars an AI Upgrade",
+    "url": "https://www.wsj.com/cio-journal/mercedes-gives-its-cars-an-ai-upgrade-607daae2",
+    "source": "Hacker News",
+    "date": "2026-11-08",
+    "summary": "Article URL: https://www.wsj.com/cio-journal/mercedes-gives-its-cars-an-ai-upgrade-607daae2 Comments URL: https://news.ycombinator.com/item?id=50413615 Points: 1 # Comments: 1",
+    "category": "industry",
+    "id": 27
   },
   {
     "title": "World Models Will Soon Be Inescapable. Here’s What You Need to Know",
@@ -231,7 +265,7 @@
     "summary": "Moving AI from text to 3D space, world models simulate real-world physics to teach robots and autonomous cars how to navigate reality.",
     "category": "industry",
     "image": "https://media.wired.com/photos/6aee7497bf81da8802edc3e6/191:100/w_1280,c_limit/gear-ai-world-models-3d.jpg",
-    "id": 24
+    "id": 28
   },
   {
     "title": "US intelligence believes Jensen Huang had affair with Chinese spy in honeypot operation",
@@ -241,7 +275,7 @@
     "summary": "U.S. intelligence sources suggest that Nvidia chief Jensen Huang was targeted by Chinese intelligence in a 'honeypot' operation involving Megaspeed executive Alice Huang.",
     "category": "hardware",
     "image": "https://cdn.mos.cms.futurecdn.net/fjFkN4c5HUsWwQPK4dVKZR-1920-80.png",
-    "id": 25
+    "id": 29
   },
   {
     "title": "Nvidia's Jensen Huang officially called to Congress due to reports of a Chinese spy plot",
@@ -251,7 +285,7 @@
     "summary": "Nvidia's Jensen Huang officially called to Congress due to reports of Chinese plot — officials mention growing concerns over national security",
     "category": "hardware",
     "image": "https://cdn.mos.cms.futurecdn.net/umLVLKxLCxcj2CWHug2Wb8-1920-80.jpg",
-    "id": 26
+    "id": 30
   },
   {
     "title": "TSMC denies exploring 3D DRAM at Nvidia's request",
@@ -261,7 +295,7 @@
     "summary": "Nvidia reportedly asks TSMC to produce '3D DRAM' to address memory shortages.",
     "category": "hardware",
     "image": "https://cdn.mos.cms.futurecdn.net/inWCPzXNVFbyYDRmxtthn3-1920-80.jpg",
-    "id": 27
+    "id": 31
   },
   {
     "title": "Enthusiast abandons self-hosted Microsoft Exchange after 27 years, moving mailboxes to Microsoft 365",
@@ -271,7 +305,7 @@
     "summary": "A homelab enthusiast is retiring a Microsoft Exchange installation that began with Exchange 5.5 on Windows NT 4 in 1999. After migrating mailboxes to Microsoft 365, he kept Exchange 2019 running to re...",
     "category": "hardware",
     "image": "https://cdn.mos.cms.futurecdn.net/GpApBtoCh4tb9AUh89kM3m-1920-80.jpg",
-    "id": 28
+    "id": 32
   },
   {
     "title": "Megaspeed exec was recruited to spy on Nvidia CEO, according to US intelligence memo",
@@ -281,7 +315,7 @@
     "summary": "A memo circulated earlier this year reportedly claimed that China’s Ministry of State Security recruited a female technology executive to spy on Nvidia's CEO.",
     "category": "hardware",
     "image": "https://techcrunch.com/wp-content/uploads/2026/09/GettyImages-2294936867.jpg?resize=1200,800",
-    "id": 29
+    "id": 33
   },
   {
     "title": "Crusoe sells troubled Wyoming data center project to Google",
@@ -291,7 +325,7 @@
     "summary": "The deal highlights the challenges of developing massive AI data centers.",
     "category": "hardware",
     "image": "https://techcrunch.com/wp-content/uploads/2026/09/crusoe-ceo-getty.jpg?resize=1200,800",
-    "id": 30
+    "id": 34
   },
   {
     "title": "Apps for Caregivers Get a Dose of AI, but That Might Not Be Enough",
@@ -301,7 +335,7 @@
     "summary": "The apps and platforms that help family caregivers manage their loved ones’ needs are becoming more capable, but the broader issue of caregivers’ well-being remains unsolved.",
     "category": "tools",
     "image": "https://media.wired.com/photos/6aed04343576db1689ab3d03/191:100/w_1280,c_limit/Caregiving%20app.jpg",
-    "id": 31
+    "id": 35
   },
   {
     "title": "Partnering with Hacktron to find vulnerabilities in OpenAI’s systems",
@@ -310,7 +344,7 @@
     "date": "2026-11-06",
     "summary": "OpenAI is partnering with Hacktron to find vulnerabilities, test connections with third-party services, and strengthen defenses with frontier AI.",
     "category": "industry",
-    "id": 32
+    "id": 36
   },
   {
     "title": "Measuring how AI agents handle everyday wet-lab science",
@@ -319,7 +353,7 @@
     "date": "2026-11-06",
     "summary": "OpenAI introduces BioBasicsBench, a 100-task benchmark measuring how well AI agents interpret raw experimental data and handle everyday wet-lab science.",
     "category": "models",
-    "id": 33
+    "id": 37
   },
   {
     "title": "How NVIDIA Open Source Tools Are Helping Researchers Build Next-Generation 6G Networks",
@@ -329,7 +363,7 @@
     "summary": "A year ago, NVIDIA open sourced its Aerial wireless software, joining Sionna and a broader suite of open source tools for accelerating next-generation 6G network development. Together, they give resea...",
     "category": "tools",
     "image": "https://blogs.nvidia.com/wp-content/uploads/2026/11/Screenshot-2026-11-05-at-8.30.25-PM-scaled.png",
-    "id": 34
+    "id": 38
   },
   {
     "title": "Chainalysis says hackers stole credentials and tokens for all of its customers",
@@ -339,7 +373,7 @@
     "summary": "Company said a \"multifront cyberattack\" included AI agents and an on-path data snatch.",
     "category": "industry",
     "image": "https://cdn.arstechnica.net/wp-content/uploads/2022/08/getty-blockchain-1152x648.jpg",
-    "id": 35
+    "id": 39
   },
   {
     "title": "Elegoo M1 Ultra review: A good first entry into the scanner market",
@@ -349,7 +383,7 @@
     "summary": "Elegoo’s first scanner is a useful tool, but it requires a little extra work.",
     "category": "tools",
     "image": "https://cdn.mos.cms.futurecdn.net/i66usdGjdEJZNFU6ocr58a-1920-80.jpg",
-    "id": 36
+    "id": 40
   },
   {
     "title": "Protesters storm Microsoft AI data center construction site",
@@ -359,7 +393,7 @@
     "summary": "The protesters stormed over the walls and took over the construction site, with the Stop Dirty Data Centers coalition saying that more actions are planned across Europe.",
     "category": "hardware",
     "image": "https://cdn.mos.cms.futurecdn.net/xXzamwF8bgCcyR6kJW47Pb-1920-80.png",
-    "id": 37
+    "id": 41
   },
   {
     "title": "Nvidia tightens tracking of AI GPUs in Southeast Asia as Chinese chip smuggling draws scrutiny, report claims",
@@ -369,7 +403,7 @@
     "summary": "Nvidia is requiring Southeast Asian cloud providers seeking Nvidia Cloud Partner status to enroll in its Fleet Intelligence tracking program, giving the chipmaker greater visibility into where its AI ...",
     "category": "hardware",
     "image": "https://cdn.mos.cms.futurecdn.net/bBGEYE8htq38xZgt4xCdTQ-1920-80.jpg",
-    "id": 38
+    "id": 42
   },
   {
     "title": "Six pallets of Nvidia GPUs worth $11.4 million stolen in California cargo heist",
@@ -379,7 +413,7 @@
     "summary": "The latest incident comes amid growing concerns over GPU theft, with experts warning that advanced Nvidia chips can command significantly higher prices abroad and could end up in black-market channels...",
     "category": "hardware",
     "image": "https://cdn.mos.cms.futurecdn.net/WJysu4KWtLyywCbvdHhuLF-1920-80.jpg",
-    "id": 39
+    "id": 43
   },
   {
     "title": "Nvidia wants to repurpose over 130 old telco buildings as tiny data centers, report claims",
@@ -389,7 +423,7 @@
     "summary": "Brightspeed has over 130 facilities located across the U.S., with Nvidia estimating that they could produce up to 1GW of compute capacity.",
     "category": "hardware",
     "image": "https://cdn.mos.cms.futurecdn.net/sxvDhNiPDVHWxcdqjWitH4-1920-80.png",
-    "id": 40
+    "id": 44
   },
   {
     "title": "Rogue AI tasked with renumbering pages accidentally deletes law professor's entire syllabus, one year of lecture notes",
@@ -399,7 +433,7 @@
     "summary": "A University of Chicago lecturer has revealed a rogue Claude AI agent deleted his entire syllabus and year's worth of lecture notes by mistake.",
     "category": "models",
     "image": "https://cdn.mos.cms.futurecdn.net/ee2RHsQxMkag3gfYBWeoA5-1920-80.jpg",
-    "id": 41
+    "id": 45
   },
   {
     "title": "Tesla unveils AI accelerator roadmap, adopts new 'SI' branding in 'Super Intelligence' push",
@@ -409,7 +443,7 @@
     "summary": "Tesla is ramping up its custom silicon ambitions with training-oriented Dojo D3 that can eventually go to orbital data centers and massive SI6 inference accelerator.",
     "category": "hardware",
     "image": "https://cdn.mos.cms.futurecdn.net/c7SXsstwCWqWGyvTD7KQAA-1920-80.jpg",
-    "id": 42
+    "id": 46
   },
   {
     "title": "Intel’s next-gen Nova Lake needs new motherboards — what we expect from Nova Point and Z990, Z970, and B960 chipsets",
@@ -419,7 +453,7 @@
     "summary": "New Intel CPUs mean a new LGA 1954 socket and new motherboards. Here’s what we know about Nova Point’s Z990, Z970, and B960 chipsets, including more PCIe 5.0, Thunderbolt 5, faster base RAM speeds, an...",
     "category": "hardware",
     "image": "https://cdn.mos.cms.futurecdn.net/3JguTaB6k8VyZTixTzb5tE-1920-80.jpg",
-    "id": 43
+    "id": 47
   },
   {
     "title": "Gelsinger-backed Nagare Labs’ Z2RAM promises SRAM speed at DRAM density",
@@ -429,7 +463,7 @@
     "summary": "Georgia Tech spinout Nagare Labs, backed by Playground Global, unveils Z2RAM, a capacitorless memory to stack on AI accelerators.",
     "category": "hardware",
     "image": "https://cdn.mos.cms.futurecdn.net/wBsiTVdEXUvLhGduqG9Q2d-1920-80.jpg",
-    "id": 44
+    "id": 48
   },
   {
     "title": "OpenAI reportedly raises an additional $11 billion at a $1.25 trillion valuation",
@@ -439,7 +473,7 @@
     "summary": "OpenAI has reportedly raised an additional $11 billion as part of a funding round that hasn't closed yet but is expected to in the coming weeks.",
     "category": "industry",
     "image": "https://techcrunch.com/wp-content/uploads/2026/07/OpenAI-logo-green.jpg?w=1024",
-    "id": 45
+    "id": 49
   },
   {
     "title": "Hundreds of Artex AI hacking tools found publicly exposed to the web",
@@ -449,46 +483,6 @@
     "summary": "Security researchers found hundreds of servers hosting the penetration testing tool Artex exposed to the internet, allowing anyone access to the hacking tool.",
     "category": "hardware",
     "image": "https://techcrunch.com/wp-content/uploads/2024/02/GettyImages-1424498694.jpg?resize=1200,800",
-    "id": 46
-  },
-  {
-    "title": "Meta introduces Spaces, a new way to collaborate with your Muse agent",
-    "url": "https://techcrunch.com/2026/11/06/meta-introduces-spaces-a-new-way-to-collaborate-with-your-muse-agent/",
-    "source": "TechCrunch",
-    "date": "2026-11-06",
-    "summary": "Meta's Muse agents continue to get new features and integrations. Spaces promises to be a new way to interact with the AI helpers.",
-    "category": "industry",
-    "image": "https://techcrunch.com/wp-content/uploads/2026/09/muse-ai-meta.jpg?w=1200",
-    "id": 47
-  },
-  {
-    "title": "How a Blue Wave midterm might reshape the AI industry",
-    "url": "https://techcrunch.com/podcast/how-a-blue-wave-midterm-might-reshape-the-ai-industry/",
-    "source": "TechCrunch",
-    "date": "2026-11-06",
-    "summary": "Democrats’ historic victories in this week’s U.S. midterm elections could also transform the tech industry. The public voted on 41 data center-related ballot measures on Tuesday — in all but one, the ...",
-    "category": "hardware",
-    "image": "https://techcrunch.com/wp-content/uploads/2022/11/GettyImages-1368458052.jpg?resize=1200,750",
-    "id": 48
-  },
-  {
-    "title": "After the midterms, is the AI industry in for a rough two years?",
-    "url": "https://techcrunch.com/video/after-the-midterms-is-the-ai-industry-in-for-a-rough-two-years/",
-    "source": "TechCrunch",
-    "date": "2026-11-06",
-    "summary": "Democrats’ historic victories in this week’s U.S. midterm elections could also transform the tech industry. The public voted on 41 data center-related ballot measures on Tuesday — in all but one, the ...",
-    "category": "hardware",
-    "image": "https://techcrunch.com/wp-content/uploads/2026/11/GettyImages-2236543888.jpg?resize=1200,800",
-    "id": 49
-  },
-  {
-    "title": "Ramp data shows AI spending stalling just as Anthropic nears its IPO",
-    "url": "https://techcrunch.com/2026/11/06/ramp-data-shows-ai-spending-stalling-just-as-anthropic-nears-its-ipo/",
-    "source": "TechCrunch",
-    "date": "2026-11-06",
-    "summary": "AI usage keeps climbing, but spending has stalled. Price cuts and smarter cost controls among the biggest spenders could challenge investor assumptions about AI hypergrowth.",
-    "category": "industry",
-    "image": "https://techcrunch.com/wp-content/uploads/2026/11/ara-stripe-5.png?resize=1200,779",
     "id": 50
   }
 ]
