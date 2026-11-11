@@ -1,12 +1,12 @@
 [
   {
-    "title": "How AI Helps Recyclers Turn Mixed Waste Into Reusable Material",
-    "url": "https://blogs.nvidia.com/blog/ai-recycling-startups/",
-    "source": "NVIDIA Blog",
+    "title": "Gemini Decisions API: Fast, calibrated multimodal decisions",
+    "url": "https://blog.google/innovation-and-ai/technology/developers-tools/gemini-decisions-api/",
+    "source": "Google AI Blog",
     "date": "2026-11-11",
-    "summary": "Vision AI and robotics pick what’s worth recovering out of conveyor belts of used clothing, bottles and mixed recyclables, diverting thousands of tons of materials from landfills.",
-    "category": "industry",
-    "image": "https://blogs.nvidia.com/wp-content/uploads/2026/11/recycling-company-grid-1920x1080-1.png",
+    "summary": "Meet the Gemini Decisions API, powered by our state-of-the-art model Gemini Decision for fast, calibrated multimodal decisions.",
+    "category": "models",
+    "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/gemini__decisions__blog-header_2784x1566.width-1300.png",
     "id": 1,
     "featured": true
   },
@@ -20,13 +20,82 @@
     "id": 2
   },
   {
+    "title": "JioStar’s chief architect on AI discovery at 500M-user scale",
+    "url": "https://openai.com/index/jiostar-vijay-seshadri",
+    "source": "OpenAI Blog",
+    "date": "2026-11-11",
+    "summary": "JioStar’s Vijay Seshadri explains AI discovery at 500M-user scale. Read his lessons on evals, guardrails, and taking AI into production.",
+    "category": "industry",
+    "id": 3
+  },
+  {
     "title": "Gilbert + Tobin rethinks the business of law with AI",
     "url": "https://openai.com/index/gilbert-tobin-sam-nickless",
     "source": "OpenAI Blog",
     "date": "2026-11-12",
     "summary": "A conversation with Sam Nickless, Partner and Chief Executive Officer at Gilbert + Tobin.",
     "category": "industry",
-    "id": 3
+    "id": 4
+  },
+  {
+    "title": "How AI Helps Recyclers Turn Mixed Waste Into Reusable Material",
+    "url": "https://blogs.nvidia.com/blog/ai-recycling-startups/",
+    "source": "NVIDIA Blog",
+    "date": "2026-11-11",
+    "summary": "Vision AI and robotics pick what’s worth recovering out of conveyor belts of used clothing, bottles and mixed recyclables, diverting thousands of tons of materials from landfills.",
+    "category": "industry",
+    "image": "https://blogs.nvidia.com/wp-content/uploads/2026/11/recycling-company-grid-1920x1080-1.png",
+    "id": 5
+  },
+  {
+    "title": "AMD’s Venice-X maxes out family at 5.3 GHz, returning 3D V-Cache to data center after four years",
+    "url": "https://www.tomshardware.com/pc-components/cpus/amds-venice-x-maxes-out-family-at-5-3-ghz-returning-3d-v-cache-to-data-center-after-four-years-chips-target-hpc-workloads-with-pcie-6-0-and-1-6-tb-s-memory-bandwidth",
+    "source": "Tom's Hardware",
+    "date": "2026-11-11",
+    "summary": "AMD's Venice-X CPUs launch in the second half of 2027, bringing 3D V-Cache back to the data center after four years on the sidelines.",
+    "category": "hardware",
+    "image": "https://cdn.mos.cms.futurecdn.net/aLSGanWgBzwJhr9LcYMiwb-1920-80.jpg",
+    "id": 6
+  },
+  {
+    "title": "Prusa launches new carbon-fiber and carbon-nanotube-filled 3D printing filament for electronics manufacturing",
+    "url": "https://www.tomshardware.com/3d-printing/prusa-launches-new-carbon-3d-printing-filament-for-electronics-manufacturing-carbon-fiber-and-carbon-nanotube-filled-material-dissipates-electrostatic-energy-for-static-sensitive-electronics",
+    "source": "Tom's Hardware",
+    "date": "2026-11-11",
+    "summary": "Prusament PETG ESD is the cheapest ESD filament on the market, while being carbon-fiber reinforced, something the competition doesn't have.",
+    "category": "industry",
+    "image": "https://cdn.mos.cms.futurecdn.net/aBKxZmq6X4ehfScb2L2N4L-1920-80.jpg",
+    "id": 7
+  },
+  {
+    "title": "OpenAI and Georgia county leaders hit with Mafia-style RICO racketeering lawsuit over $30 billion AI data center",
+    "url": "https://www.tomshardware.com/tech-industry/data-centers/georgia-politicians-openai-slapped-with-racketeering-lawsuit-over-3-2-gigawatt-ai-data-centers-plaintiffs-allege-multiple-violations-were-part-of-a-coordinated-scheme-to-get-project-camellia-approved",
+    "source": "Tom's Hardware",
+    "date": "2026-11-11",
+    "summary": "The plaintiffs alleged that the parties committed fraud and concealment through NDAs and misleading public statements.",
+    "category": "hardware",
+    "image": "https://cdn.mos.cms.futurecdn.net/rqn39aj9hMqYUZdPPwgxYd-1920-80.jpg",
+    "id": 8
+  },
+  {
+    "title": "SpaceX develops its own ‘Kessel’ rack-scale system featuring 72 Nvidia Rubin GPUs for data centers in space, report claims",
+    "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/spacex-develops-its-own-kessel-rack-scale-system-featuring-72-nvidia-rubin-gpus-for-data-centers-in-space-report-claims-replaces-conventional-nvlink-cable-assemblies-with-a-massive-84-layer-printed-circuit-board",
+    "source": "Tom's Hardware",
+    "date": "2026-11-11",
+    "summary": "SpaceX is reportedly developing a 'Kessel' rack-scale system design with 72 Nvidia Rubin GPUs that relies on a massive 84-layer PCB midplane.",
+    "category": "hardware",
+    "image": "https://cdn.mos.cms.futurecdn.net/H9AoDYcDEGHaWVoTNcrLHK-1920-80.png",
+    "id": 9
+  },
+  {
+    "title": "Softbank loses $3.7 billion on canceled AI data center gas turbine orders days after denying Elon Musk’s claim it was defaulting",
+    "url": "https://www.tomshardware.com/tech-industry/data-centers/softbank-loses-usd3-7-billion-on-canceled-ai-data-center-gas-turbine-orders-days-after-denying-elon-musks-claim-it-was-defaulting-company-kills-reserved-13-gigawatts-of-power-more-than-six-hoover-dams-worth-of-capacity",
+    "source": "Tom's Hardware",
+    "date": "2026-11-11",
+    "summary": "SoftBank might not have defaulted on a raft of gas turbine orders, but it has pulled out of deals for unwanted power units after overestimating how many it could use amid the AI data center buildout b...",
+    "category": "industry",
+    "image": "https://cdn.mos.cms.futurecdn.net/oVtZCcAvC5GeZw8jGbrs65-1920-80.jpg",
+    "id": 10
   },
   {
     "title": "Nintendo unleashes DMCA takedown wave against open-source Switch modchip firmware, 144 tools disabled",
@@ -36,7 +105,7 @@
     "summary": "Nintendo is going after the open-source firmware behind hardware modchips on Nintendo Switch",
     "category": "hardware",
     "image": "https://cdn.mos.cms.futurecdn.net/2DevTBcqmofqZHBebZKQwm-1920-80.jpg",
-    "id": 4
+    "id": 11
   },
   {
     "title": "Cognichip reveals how its new AI-assisted program can slash chip design times from months to days — automating labor-intensive tasks cuts design time down, Chief Product Officer explains",
@@ -46,7 +115,7 @@
     "summary": "Cognichip claims its AI can slash chip design time from months to days, only that that design must be very simplistic.",
     "category": "hardware",
     "image": "https://cdn.mos.cms.futurecdn.net/SZynBTpuLwfL9Qk53EYMmW-1920-80.jpg",
-    "id": 5
+    "id": 12
   },
   {
     "title": "Congress could issue subpoena to Nvidia CEO Jensen Huang if he doesn’t respond by today to request for a ‘joint, closed-door briefing’",
@@ -56,7 +125,7 @@
     "summary": "Three committee chairpersons want to grill Jensen Huang about his company's 'security protocols against foreign adversary espionage,' as a former CIA agent says that he had a target on his back as the...",
     "category": "industry",
     "image": "https://cdn.mos.cms.futurecdn.net/xRiMrDdQU2QcoBsh5XsQ53-1920-80.png",
-    "id": 6
+    "id": 13
   },
   {
     "title": "Cyanogen co-founder unveils Kora, a Linux OS that splits AI models across the CPU, GPU, and NPU",
@@ -66,7 +135,7 @@
     "summary": "Kora, a Linux desktop OS with built-in AI models and agents for local agentic work, is coming to PCs in 2027, including Snapdragon X2 Elite machines.",
     "category": "hardware",
     "image": "https://cdn.mos.cms.futurecdn.net/rJ9DVssjvfgAJwQazxQhbm-1920-80.jpg",
-    "id": 7
+    "id": 14
   },
   {
     "title": "Linux kernel reviewer steps down from memory management duties due to influx of AI slop patches",
@@ -76,7 +145,7 @@
     "summary": "Linux kernel memory-management code reviewer steps down due to influx of AI slop patches — volume of submissions coupled with low manpower forces the step back",
     "category": "hardware",
     "image": "https://cdn.mos.cms.futurecdn.net/kon7SwBMMWzk9ubzEnMVjY-1920-80.jpg",
-    "id": 8
+    "id": 15
   },
   {
     "title": "AMD shares how it can retain 95% of server performance with just half the DRAM, sidestepping memory shortages with MEXT",
@@ -86,7 +155,7 @@
     "summary": "Following AMD’s acquisition of MEXT earlier this year, the company has revealed its own IT infrastructure is using the technology to run servers at 50% DRAM capacity while achieving 95% of the perform...",
     "category": "hardware",
     "image": "https://cdn.mos.cms.futurecdn.net/Yr76o6YXagRHfHkjYNTT3D-1920-80.jpg",
-    "id": 9
+    "id": 16
   },
   {
     "title": "Elon Musk wants to build a s $24 billion gas-powered AI supercomputer in Texas company town",
@@ -96,7 +165,7 @@
     "summary": "The city of Starbase, Texas, is set to vote on a proposed $24 billion data center to be built within its limits, but the SpaceX company town may not provide the friendly regulatory environment that ow...",
     "category": "hardware",
     "image": "https://cdn.mos.cms.futurecdn.net/KzqUCmsNrH724aKp9BRVbh-1920-80.png",
-    "id": 10
+    "id": 17
   },
   {
     "title": "Ukrainian drone operations squeezed by fiber optic cable shortage triggered by AI data center buildouts",
@@ -106,7 +175,7 @@
     "summary": "Ukrainian drone manufacturer BlueBird Tech says that limited fiber optic supplies are making it harder to build jam-proof fiber optic drones.",
     "category": "hardware",
     "image": "https://cdn.mos.cms.futurecdn.net/HsufzbCgC237BKecGthTMA-1920-80.png",
-    "id": 11
+    "id": 18
   },
   {
     "title": "Grab 32GB DDR5 for $351 with this Newegg bundle with the 9800X3D, $87 less than the next cheapest memory",
@@ -116,7 +185,7 @@
     "summary": "Another brilliant Newegg combo deal has combined the eight-core AMD Ryzen 7 9850X3D with 32GB of V-Color DDR5-6400 RAM, all for just $650, saving you a whopping $348.99 in the process.",
     "category": "hardware",
     "image": "https://cdn.mos.cms.futurecdn.net/i4SJQEZLmqbjtjVsvMMzu3-1920-80.png",
-    "id": 12
+    "id": 19
   },
   {
     "title": "3,500 laser-armed AI submarine drones patrol Norwegian salmon farms, killing sea lice and protecting 112 million fish",
@@ -126,7 +195,292 @@
     "summary": "3,500 Stingray AI laser robots deployed around salmon pens along the Norwegian coast 24/7 protect over 112 million fish from sea lice.",
     "category": "industry",
     "image": "https://cdn.mos.cms.futurecdn.net/CcJj3zzJzKto8sKy4SRuze-1920-80.jpg",
-    "id": 13
+    "id": 20
+  },
+  {
+    "title": "Why the data center you dread might never even be built",
+    "url": "https://techcrunch.com/video/why-the-data-center-you-dread-might-never-even-be-built/",
+    "source": "TechCrunch",
+    "date": "2026-11-11",
+    "summary": "The data center boom is running into serious real-world obstacles, from widespread local opposition and permitting delays to a scramble for electricity. Before those challenges even come into play, th...",
+    "category": "hardware",
+    "image": "https://techcrunch.com/wp-content/uploads/2026/09/5-DSCF1634.jpg?resize=1200,800",
+    "id": 21
+  },
+  {
+    "title": "How backlash and red tape continue to slow data centers post-Blue Wave",
+    "url": "https://techcrunch.com/podcast/how-backlash-and-red-tape-continue-to-slow-data-centers-post-blue-wave/",
+    "source": "TechCrunch",
+    "date": "2026-11-11",
+    "summary": "The data center boom is running into serious real-world obstacles, from widespread local opposition and permitting delays to a scramble for electricity. Before those challenges even come into play, th...",
+    "category": "hardware",
+    "image": "https://techcrunch.com/wp-content/uploads/2026/03/ASW-Chip_tour-servers.jpg?resize=1200,900",
+    "id": 22
+  },
+  {
+    "title": "CoreWeave turns to customer prepayments, shorter contracts to fund AI growth",
+    "url": "https://techcrunch.com/2026/11/11/coreweave-turns-to-customer-prepayments-shorter-contracts-to-fund-ai-growth/",
+    "source": "TechCrunch",
+    "date": "2026-11-11",
+    "summary": "CoreWeave is increasingly asking customers to pay upfront, borrowing against specific contracts, and even looking to short-term deals that could lead to higher prices, according to the company’s third...",
+    "category": "industry",
+    "image": "https://techcrunch.com/wp-content/uploads/2026/11/GettyImages-2304376406.jpg?w=1024",
+    "id": 23
+  },
+  {
+    "title": "With $720M round, Britain’s Fractile gets a leg up in the race for AI chips",
+    "url": "https://techcrunch.com/2026/11/11/with-720m-round-britains-fractile-gets-a-leg-up-in-the-race-for-ai-chips/",
+    "source": "TechCrunch",
+    "date": "2026-11-11",
+    "summary": "Fractile has now become one of the top-funded players in the race for purpose-built AI chips.",
+    "category": "hardware",
+    "image": "https://techcrunch.com/wp-content/uploads/2026/11/GettyImages-2183896789.jpg?resize=1200,800",
+    "id": 24
+  },
+  {
+    "title": "Congress to call Jensen Huang in to answer for alleged Chinese spy affair",
+    "url": "https://techcrunch.com/2026/11/11/congress-to-call-jensen-huang-in-to-answer-for-alleged-chinese-spy-affair/",
+    "source": "TechCrunch",
+    "date": "2026-11-11",
+    "summary": "Nvidia CEO Jensen Huang has until the end of the day Wednesday to answer a call from House Republicans for a closed-door briefing on his affair with alleged Chinese spy.",
+    "category": "industry",
+    "image": "https://techcrunch.com/wp-content/uploads/2026/11/Jensen-Huang.jpg?w=1024",
+    "id": 25
+  },
+  {
+    "title": "Is Jensen Huang’s bad behavior more commonplace than it seems?",
+    "url": "https://techcrunch.com/2026/11/11/is-jensen-huangs-bad-behavior-more-commonplace-than-it-seems/",
+    "source": "TechCrunch",
+    "date": "2026-11-11",
+    "summary": "“There are a lot of senior people in the industry that know this is happening, and are effectively condoning it,” an investment intel consultant said.",
+    "category": "hardware",
+    "image": "https://techcrunch.com/wp-content/uploads/2026/03/GettyImages-2266475966.jpg?w=1024",
+    "id": 26
+  },
+  {
+    "title": "OpenAI’s quarterly revenue reportedly crosses $10B for the first time",
+    "url": "https://techcrunch.com/2026/11/11/openais-quarterly-revenue-reportedly-crosses-10b-for-the-first-time/",
+    "source": "TechCrunch",
+    "date": "2026-11-11",
+    "summary": "Sales of $10 billion represents an almost 50% jump from revenue of $6.7 billion the company recorded in the second quarter.",
+    "category": "industry",
+    "image": "https://techcrunch.com/wp-content/uploads/2024/05/openAI-spiral-rose.jpg?resize=1200,675",
+    "id": 27
+  },
+  {
+    "title": "Databricks’ new AI agent tells CEO Ali Ghodsi the unvarnished truth",
+    "url": "https://techcrunch.com/2026/11/11/databricks-new-ai-agent-tells-ceo-ali-ghodsi-the-unvarnished-truth/",
+    "source": "TechCrunch",
+    "date": "2026-11-11",
+    "summary": "With Databricks at 12,000 employees, AI Ghodsi is the first to admit that he can't know everyone and that they are unlikely to confess the things that go wrong to him. But he doesn't need them to. He ...",
+    "category": "industry",
+    "image": "https://techcrunch.com/wp-content/uploads/2021/04/Ali_Ghodsi.jpg?resize=1200,1200",
+    "id": 28
+  },
+  {
+    "title": "Plurai wants to help AI agents work better using the same approach that helped get self-driving cars to roads",
+    "url": "https://techcrunch.com/2026/11/11/plurai-wants-to-help-ai-agents-work-better-using-the-same-approach-that-helped-get-self-driving-cars-to-roads/",
+    "source": "TechCrunch",
+    "date": "2026-11-11",
+    "summary": "Like the end-to-end models trained to drive cars, AI agents are probabilistic systems operating in unpredictable environments.",
+    "category": "industry",
+    "image": "https://techcrunch.com/wp-content/uploads/2026/11/Plurai-team-photo.-Credit-Guy-Hamoy.jpg?resize=1200,800",
+    "id": 29
+  },
+  {
+    "title": "An AI-assisted RP2040 audio board that worked on first spin in 5 days",
+    "url": "https://solderable.dev/blog/fluid",
+    "source": "Hacker News",
+    "date": "2026-11-11",
+    "summary": "Article URL: https://solderable.dev/blog/fluid Comments URL: https://news.ycombinator.com/item?id=50459119 Points: 1 # Comments: 0",
+    "category": "industry",
+    "image": "https://solderable.dev/images/blog/fluid/cover.png",
+    "id": 30
+  },
+  {
+    "title": "Pundit Claims – Open-Source Register of AI Claims by Gary Marcus and Ed Zitron",
+    "url": "https://punditclaims.ai/",
+    "source": "Hacker News",
+    "date": "2026-11-11",
+    "summary": "Article URL: https://punditclaims.ai/ Comments URL: https://news.ycombinator.com/item?id=50459075 Points: 2 # Comments: 2",
+    "category": "industry",
+    "image": "https://punditclaims.ai/og/site.png",
+    "id": 31
+  },
+  {
+    "title": "Some IGF Jurors released a statement about AI usage",
+    "url": "https://blog.lauramichet.com/some-igf-jurors-released-a-statement-about-ai-usage/",
+    "source": "Hacker News",
+    "date": "2026-11-11",
+    "summary": "Article URL: https://blog.lauramichet.com/some-igf-jurors-released-a-statement-about-ai-usage/ Comments URL: https://news.ycombinator.com/item?id=50459020 Points: 1 # Comments: 0",
+    "category": "industry",
+    "image": "https://bearblog.dev/static/og-image.png",
+    "id": 32
+  },
+  {
+    "title": "Is the AI Singularity Coming?",
+    "url": "https://www.youtube.com/watch?v=IlgvRtTwaUs",
+    "source": "Hacker News",
+    "date": "2026-11-11",
+    "summary": "Article URL: https://www.youtube.com/watch?v=IlgvRtTwaUs Comments URL: https://news.ycombinator.com/item?id=50458955 Points: 1 # Comments: 0",
+    "category": "industry",
+    "id": 33
+  },
+  {
+    "title": "United Airlines bans AI agents from booking flights on behalf of travelers",
+    "url": "https://www.cbsnews.com/news/united-airlines-bans-ai-agents-booking-flights/",
+    "source": "Hacker News",
+    "date": "2026-11-11",
+    "summary": "Article URL: https://www.cbsnews.com/news/united-airlines-bans-ai-agents-booking-flights/ Comments URL: https://news.ycombinator.com/item?id=50458900 Points: 10 # Comments: 3",
+    "category": "industry",
+    "image": "https://assets3.cbsnewsstatic.com/hub/i/r/2026/11/11/abfecdbe-5571-42df-95f8-6c22131067aa/thumbnail/1200x630/526b47f241e8e11c31cb47bc82f1f68c/gettyimages-2296986024-1.jpg",
+    "id": 34
+  },
+  {
+    "title": "Apple II Agent: An AI Coding Environment for the Apple II",
+    "url": "https://www.vintagecomputing.com/index.php/archives/3746/apple-ii-agent-an-ai-coding-environment-for-the-apple-ii",
+    "source": "Hacker News",
+    "date": "2026-11-11",
+    "summary": "Article URL: https://www.vintagecomputing.com/index.php/archives/3746/apple-ii-agent-an-ai-coding-environment-for-the-apple-ii Comments URL: https://news.ycombinator.com/item?id=50458850 Points: 1 # C...",
+    "category": "industry",
+    "id": 35
+  },
+  {
+    "title": "Show HN: Version History for Your Synced Notes (AI Agent Safety)",
+    "url": "https://blog.etherpk.com/version-history-for-your-synced-notes-additional-safety-for-working-alongside-ai-agents",
+    "source": "Hacker News",
+    "date": "2026-11-11",
+    "summary": "In addition to real-time multiplayer collaboration, your markdown notes in a synced graph in EtherPK - https://app.etherpk.com now keep a version history for every page and journal entry. It also keep...",
+    "category": "hardware",
+    "id": 36
+  },
+  {
+    "title": "The role of natural scientists and hardware engineers in AI safety",
+    "url": "https://www.reinvent.science/p/the-role-of-natural-scientists-and",
+    "source": "Hacker News",
+    "date": "2026-11-11",
+    "summary": "Article URL: https://www.reinvent.science/p/the-role-of-natural-scientists-and Comments URL: https://news.ycombinator.com/item?id=50458814 Points: 1 # Comments: 0",
+    "category": "research",
+    "image": "https://substackcdn.com/image/fetch/$s_!jtaZ!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F3fdc02e9-2906-4d1d-92bb-571b3e856d0f_1536x1024.png",
+    "id": 37
+  },
+  {
+    "title": "SFT for professionals in software, AI, systems, science and others",
+    "url": "https://app.outlier.ai/en/expert/referrals/link/3FKWhSGJnWvE8htqBdLKT9ZdU-w",
+    "source": "Hacker News",
+    "date": "2026-11-11",
+    "summary": "Article URL: https://app.outlier.ai/en/expert/referrals/link/3FKWhSGJnWvE8htqBdLKT9ZdU-w Comments URL: https://news.ycombinator.com/item?id=50458761 Points: 1 # Comments: 0",
+    "category": "industry",
+    "id": 38
+  },
+  {
+    "title": "Reprogramming Dormant Neurons to Backdoor AI Agents",
+    "url": "https://x.com/dimitrispapail/status/2120245027804705121?a=yp1VXtQi8Dep0GmUnxo",
+    "source": "Hacker News",
+    "date": "2026-11-11",
+    "summary": "Article URL: https://x.com/dimitrispapail/status/2120245027804705121?a=yp1VXtQi8Dep0GmUnxo Comments URL: https://news.ycombinator.com/item?id=50458653 Points: 4 # Comments: 1",
+    "category": "industry",
+    "image": "https://pbs.twimg.com/media/HWpWE9aWMAAJQY3?format=webp&name=large",
+    "id": 39
+  },
+  {
+    "title": "Towards Verifiable LLM Infra: Agent-Driven Proof of Agent-Implemented Inference",
+    "url": "https://haoailab.com/blogs/verifiable-llm-infra/",
+    "source": "Hacker News",
+    "date": "2026-11-11",
+    "summary": "Article URL: https://haoailab.com/blogs/verifiable-llm-infra/ Comments URL: https://news.ycombinator.com/item?id=50458579 Points: 4 # Comments: 0",
+    "category": "models",
+    "image": "https://haoailab.com/blogs/verifiable-llm-infra/img/cover.png",
+    "id": 40
+  },
+  {
+    "title": "AI has made it 'close to impossible' to assess university coursework",
+    "url": "https://www.theguardian.com/education/2026/nov/11/ai-close-to-impossible-assess-university-coursework-regulator",
+    "source": "Hacker News",
+    "date": "2026-11-11",
+    "summary": "Article URL: https://www.theguardian.com/education/2026/nov/11/ai-close-to-impossible-assess-university-coursework-regulator Comments URL: https://news.ycombinator.com/item?id=50458512 Points: 6 # Com...",
+    "category": "industry",
+    "image": "https://i.guim.co.uk/img/media/d3a1271d3a03313b67f28cd9ca99f9f80e115ce7/671_0_5849_4679/master/5849.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=e2d387c03ee68e491945ef880c521fec",
+    "id": 41
+  },
+  {
+    "title": "I made an AI harness / orchestrator that *actually* gives you decent limits",
+    "url": "https://scoutcode.dev",
+    "source": "Hacker News",
+    "date": "2026-11-11",
+    "summary": "Article URL: https://scoutcode.dev Comments URL: https://news.ycombinator.com/item?id=50458487 Points: 5 # Comments: 1",
+    "category": "industry",
+    "image": "https://scoutcode.dev/og.png",
+    "id": 42
+  },
+  {
+    "title": "Type 0.73: Earth on the Kardashev scale, and why AI is short of wire",
+    "url": "https://oliverdb.ai/blog/type-0-73.html",
+    "source": "Hacker News",
+    "date": "2026-11-11",
+    "summary": "Article URL: https://oliverdb.ai/blog/type-0-73.html Comments URL: https://news.ycombinator.com/item?id=50458361 Points: 3 # Comments: 0",
+    "category": "industry",
+    "image": "https://oliverdb.ai/blog/covers/type-0-73.jpg",
+    "id": 43
+  },
+  {
+    "title": "New York Launches Nation's First State AI Testing Program",
+    "url": "https://www.politico.com/news/2026/11/10/new-york-hochul-first-state-ai-testing-program-01157713",
+    "source": "Hacker News",
+    "date": "2026-11-11",
+    "summary": "Article URL: https://www.politico.com/news/2026/11/10/new-york-hochul-first-state-ai-testing-program-01157713 Comments URL: https://news.ycombinator.com/item?id=50458291 Points: 1 # Comments: 0",
+    "category": "industry",
+    "id": 44
+  },
+  {
+    "title": "I built an AI agent and the cloud it runs on. Alone",
+    "url": "https://ianberdin.com/",
+    "source": "Hacker News",
+    "date": "2026-11-11",
+    "summary": "Article URL: https://ianberdin.com/ Comments URL: https://news.ycombinator.com/item?id=50458224 Points: 1 # Comments: 0",
+    "category": "industry",
+    "image": "https://ianberdin.com/og-ruslan-ianberdin.jpg",
+    "id": 45
+  },
+  {
+    "title": "I Am Dr. Jekyll and Mr. Hyde about AI",
+    "url": "https://chollinger.com/blog/2026/11/i-am-dr-jekyll-and-mr-hyde-about-ai/",
+    "source": "Hacker News",
+    "date": "2026-11-11",
+    "summary": "Article URL: https://chollinger.com/blog/2026/11/i-am-dr-jekyll-and-mr-hyde-about-ai/ Comments URL: https://news.ycombinator.com/item?id=50458150 Points: 1 # Comments: 0",
+    "category": "industry",
+    "image": "https://chollinger.com/assets/og/2026-11_dr_jekyl_mr_hyde_opener.png",
+    "id": 46
+  },
+  {
+    "title": "The Feasibility of a Hardwired Pause of Frontier AI Training",
+    "url": "https://hardwired-pause.ai/",
+    "source": "Hacker News",
+    "date": "2026-11-11",
+    "summary": "Article URL: https://hardwired-pause.ai/ Comments URL: https://news.ycombinator.com/item?id=50458124 Points: 1 # Comments: 0",
+    "category": "industry",
+    "image": "https://hardwired-pause.ai/assets/social-card.png",
+    "id": 47
+  },
+  {
+    "title": "Call of the wild angler/fishing binary hack using LLM",
+    "url": "https://github.com/cryptoapebot/callofthewildanger-diamond",
+    "source": "Hacker News",
+    "date": "2026-11-11",
+    "summary": "Article URL: https://github.com/cryptoapebot/callofthewildanger-diamond Comments URL: https://news.ycombinator.com/item?id=50458062 Points: 2 # Comments: 2",
+    "category": "models",
+    "image": "https://opengraph.githubassets.com/8d9793b6f95f0b1609c216a565068007b3cacb4897e04a3f3cda0612eac35a40/cryptoapebot/callofthewildanger-diamond",
+    "id": 48
+  },
+  {
+    "title": "I built a dice football game solo with an AI coding assistant",
+    "url": "https://apps.apple.com/us/app/hex-soccer-dice-football/id6830311319",
+    "source": "Hacker News",
+    "date": "2026-11-11",
+    "summary": "Article URL: https://apps.apple.com/us/app/hex-soccer-dice-football/id6830311319 Comments URL: https://news.ycombinator.com/item?id=50458038 Points: 1 # Comments: 0",
+    "category": "industry",
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/54/39/16/543916c6-e2e9-15e2-f8a3-cb78af12b635/Placeholder.mill/1200x630wa.jpg",
+    "id": 49
   },
   {
     "title": "The Download: preserving minds and weighing open AI risks",
@@ -136,331 +490,6 @@
     "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. Six wild ideas for perpetuating your mind As we age, we forget...",
     "category": "industry",
     "image": "https://wp.technologyreview.com/wp-content/uploads/2026/10/eye-brains.jpg?resize=1200,600",
-    "id": 14
-  },
-  {
-    "title": "A 13-Year-Old Asked AI About Suicide on Her School Laptop. It Didn’t Get Flagged for Weeks",
-    "url": "https://www.wired.com/story/teen-girl-asked-gemini-about-suicide-for-months-until-it-was-flagged/",
-    "source": "Wired",
-    "date": "2026-11-11",
-    "summary": "The young girl’s parents allege that she used Gemini via her school Chromebook to plan her suicide, but the school’s monitoring systems didn’t know until it was almost too late.",
-    "category": "models",
-    "image": "https://media.wired.com/photos/6aee70f5276d9711716c9d02/191:100/w_1280,c_limit/Gemini-AI-Coached-Teen-Suicide-Business.jpg",
-    "id": 15
-  },
-  {
-    "title": "EarthRecord: From Pixels to Land Change with Multimodal Agents over Four Decades of Satellite Imagery",
-    "url": "https://arxiv.org/abs/2611.12934",
-    "source": "arXiv cs.AI",
-    "date": "2026-11-11",
-    "summary": "While multimodal agents now carry out complex data analysis with tools, their ability to turn decades of satellite imagery into reliable land-change analysis, crucial for Earth observation science, re...",
-    "category": "models",
-    "id": 16
-  },
-  {
-    "title": "Train on prefill, monitor at decode: Using sparse autoencoders for topic monitoring",
-    "url": "https://arxiv.org/abs/2611.12935",
-    "source": "arXiv cs.AI",
-    "date": "2026-11-11",
-    "summary": "Topic monitoring is the task of labelling the topic of each token in a model's response during generation. Activation-based monitors that run at generation time have so far been trained to detect harm...",
-    "category": "research",
-    "id": 17
-  },
-  {
-    "title": "LandslideFM: A Foundation Model Towards Unified Landslide Perception and Understanding",
-    "url": "https://arxiv.org/abs/2611.12936",
-    "source": "arXiv cs.AI",
-    "date": "2026-11-11",
-    "summary": "Intelligent landslide detection is essential for disaster prevention. However, existing models primarily focus on isolated visual tasks, require extensive labeled data, and lack deep analytical and sc...",
-    "category": "models",
-    "id": 18
-  },
-  {
-    "title": "Tracing Psychometric Inference in Large Language Models",
-    "url": "https://arxiv.org/abs/2611.12937",
-    "source": "arXiv cs.AI",
-    "date": "2026-11-11",
-    "summary": "Do large language models represent psychological constructs internally, or do they only generate outputs that resemble psychometric structure? We address this question using a cross-persona paradigm a...",
-    "category": "models",
-    "id": 19
-  },
-  {
-    "title": "Graph Visualizations in Prompts for Knowledge Graph Question Answering",
-    "url": "https://arxiv.org/abs/2611.12938",
-    "source": "arXiv cs.AI",
-    "date": "2026-11-11",
-    "summary": "We study when and how multimodal input improves knowledge graph question answering (KGQA) in large vision--language models. Using a controlled evaluation over 1,500 WebQSP and CWQ questions and six VL...",
-    "category": "research",
-    "id": 20
-  },
-  {
-    "title": "Reinforcement Learning based control of Cancer Chemotherapy treatments",
-    "url": "https://arxiv.org/abs/2611.12940",
-    "source": "arXiv cs.AI",
-    "date": "2026-11-11",
-    "summary": "Reinforcement Learning has achieved tremendous success in recent years. Extending its scope from the traditional complex games such as Atari, Go, Pokeman, and Chess, reinforcement learning has caught ...",
-    "category": "research",
-    "id": 21
-  },
-  {
-    "title": "AI Governance Should Prioritize Control and Knowledge Boundaries Over Limiting Intelligence",
-    "url": "https://arxiv.org/abs/2611.12941",
-    "source": "arXiv cs.AI",
-    "date": "2026-11-11",
-    "summary": "The rapid proliferation of autonomously acting AI agents makes the governance of agentic systems urgent. We propose the competence circuit, summarized as IKC + KC + C, that decomposes an agent's real-...",
-    "category": "tools",
-    "id": 22
-  },
-  {
-    "title": "Tabular Foundation Models vs Tuned Gradient Boosting for Telecom Churn: A Profit- and Calibration-Aware Evaluation",
-    "url": "https://arxiv.org/abs/2611.12942",
-    "source": "arXiv cs.AI",
-    "date": "2026-11-11",
-    "summary": "Tabular foundation models (TFMs) predict from a labelled context in a single forward pass. A recent benchmark reported that they decisively outperform tree ensembles for customer churn, but it compare...",
-    "category": "models",
-    "id": 23
-  },
-  {
-    "title": "SetPrint: Black-Box LLM Fingerprinting via Setwise Correspondence of Response Changes",
-    "url": "https://arxiv.org/abs/2611.12950",
-    "source": "arXiv cs.AI",
-    "date": "2026-11-11",
-    "summary": "Black-box LLM fingerprinting aims to determine whether a target model was derived from a source model when only the output responses to input queries are observable. One way to reveal this relationshi...",
-    "category": "models",
-    "id": 24
-  },
-  {
-    "title": "Agent Architecture Cost-Success Trade-offs: A Controlled Evaluation across Enterprise-Style SOPs",
-    "url": "https://arxiv.org/abs/2611.12953",
-    "source": "arXiv cs.AI",
-    "date": "2026-11-11",
-    "summary": "Enterprises increasingly use large language model agents to execute standard operating procedures (SOPs): long, branching, tool-intensive workflows. Yet there is little controlled evidence for choosin...",
-    "category": "industry",
-    "id": 25
-  },
-  {
-    "title": "Physics2Weight: Direct Neural Network Architecture and Weight Generation from Physical Laws Using Large Language Models",
-    "url": "https://arxiv.org/abs/2611.12954",
-    "source": "arXiv cs.AI",
-    "date": "2026-11-11",
-    "summary": "Recent advances in large language models (LLMs) have enabled weight-space programming (WSP), which directly generates neural network weights without gradient-based optimization. However, extending WSP...",
-    "category": "models",
-    "id": 26
-  },
-  {
-    "title": "Embodied Science Agents: Making Embodied Experimental Design Learnable",
-    "url": "https://arxiv.org/abs/2611.12958",
-    "source": "arXiv cs.AI",
-    "date": "2026-11-11",
-    "summary": "Recent advances in large models have accelerated AI for Science toward agentic science, where AI agents autonomously conduct scientific discovery. Realising this vision requires closing the loop betwe...",
-    "category": "hardware",
-    "id": 27
-  },
-  {
-    "title": "Monitoring One Channel Is Not Communication Control: Causal Evidence for Adaptive Reallocation of Joint Message--Route Codes",
-    "url": "https://arxiv.org/abs/2611.12959",
-    "source": "arXiv cs.AI",
-    "date": "2026-11-11",
-    "summary": "Monitoring a visible channel can change how learned agents communicate without removing why communication is useful. We test this distinction in an end-to-end game where a sender and receiver learn a ...",
-    "category": "research",
-    "id": 28
-  },
-  {
-    "title": "IIT Patna at \"ICPR 2026 TVRID Competition on Privacy-Preserving Person Re-Identification from Top-View RGB-Depth Camera\"",
-    "url": "https://arxiv.org/abs/2611.12960",
-    "source": "arXiv cs.AI",
-    "date": "2026-11-11",
-    "summary": "Privacy-aware person re-identification (Re-ID) from top-view cameras replaces frontal appearance with anthropometric shape, while depth sensing further reduces color-based identity cues. The ICPR 2026...",
-    "category": "hardware",
-    "id": 29
-  },
-  {
-    "title": "RBLA+: Efficient Rank-Specific LoRA Adapter Extraction for Federated Fine-Tuning with Heterogeneous Clients",
-    "url": "https://arxiv.org/abs/2611.12961",
-    "source": "arXiv cs.AI",
-    "date": "2026-11-11",
-    "summary": "Federated fine-tuning with low-rank adaptation (LoRA) reduces communication and computational overhead by training and exchanging compact trainable LoRA factors. Clients may use different LoRA ranks t...",
-    "category": "models",
-    "id": 30
-  },
-  {
-    "title": "BuySideFlow: A Point-in-Time Benchmark for LLM Agents in Investment Research",
-    "url": "https://arxiv.org/abs/2611.12966",
-    "source": "arXiv cs.AI",
-    "date": "2026-11-11",
-    "summary": "Large language models (LLMs) can generate SQL and SQL--Python workflows for investment research, but ensuring point-in-time (PIT) validity remains challenging. Agents must enforce disclosure cutoffs a...",
-    "category": "models",
-    "id": 31
-  },
-  {
-    "title": "TrustMod-SM: A Multi-Axis Benchmark for Evaluating Trustworthiness of LLMs in Social Media Content Moderation",
-    "url": "https://arxiv.org/abs/2611.12970",
-    "source": "arXiv cs.AI",
-    "date": "2026-11-11",
-    "summary": "Large Language Models (LLMs) show strong potential for social media content moderation, but their trustworthiness beyond overall accuracy remains underexplored. We introduce TrustMod-SM, a benchmark o...",
-    "category": "models",
-    "id": 32
-  },
-  {
-    "title": "Seeing Is Not Believing: Counterfactual Lesion Erasure Teaches a Small Medical Vision-Language Agent to Report Only What the Image Shows",
-    "url": "https://arxiv.org/abs/2611.13006",
-    "source": "arXiv cs.AI",
-    "date": "2026-11-11",
-    "summary": "Medical vision-language models (VLMs) often report a finding because the question names it; standard benchmarks miss this. From public segmentation datasets we build counterfactual views without manua...",
-    "category": "models",
-    "id": 33
-  },
-  {
-    "title": "From Questions to Decisions: Benchmarking How LLM Agents Acquire Decision-Relevant Information from Human Beings",
-    "url": "https://arxiv.org/abs/2611.13015",
-    "source": "arXiv cs.AI",
-    "date": "2026-11-11",
-    "summary": "LLM agents are increasingly asked to make plans for people, such as scheduling drivers or assigning nurses. However, people's requests are often incomplete, and the supporting information for decision...",
-    "category": "models",
-    "id": 34
-  },
-  {
-    "title": "Multi-Future Drafting: Mixture Block Drafters for Tree-Verified Speculative Decoding",
-    "url": "https://arxiv.org/abs/2611.13017",
-    "source": "arXiv cs.AI",
-    "date": "2026-11-11",
-    "summary": "Block drafters such as DFlash draft a block of future tokens in one forward pass, and draft trees such as DDTree verify the prefixes ranked highest by the product of the drafter's per-position distrib...",
-    "category": "models",
-    "id": 35
-  },
-  {
-    "title": "ChipOmni: A General-Purpose AI Agent for Electronic Design Automation",
-    "url": "https://arxiv.org/abs/2611.13020",
-    "source": "arXiv cs.AI",
-    "date": "2026-11-11",
-    "summary": "Electronic design automation (EDA) workflows remain highly fragmented, requiring engineers to coordinate heterogeneous representations, specialised software tools, and iterative verification across mu...",
-    "category": "research",
-    "id": 36
-  },
-  {
-    "title": "Understanding-First AI Engineering: Purposes, Reference Architecture, and Architectural Patterns for Human Understanding",
-    "url": "https://arxiv.org/abs/2611.13022",
-    "source": "arXiv cs.AI",
-    "date": "2026-11-11",
-    "summary": "AI systems can produce reliable results without developing human understanding. However, human understanding remains valuable for shaping subsequent AI-supported work, forming preferences, governing c...",
-    "category": "tools",
-    "id": 37
-  },
-  {
-    "title": "GRAP: Gender Rubric-Aware Probing for Analyzing Gender Bias in LLMs",
-    "url": "https://arxiv.org/abs/2611.13024",
-    "source": "arXiv cs.AI",
-    "date": "2026-11-11",
-    "summary": "As LLMs increasingly mediate everyday interactions, subtle gender biases in open-ended responses pose growing societal risks. Existing probing methods have two key limitations: they rely on fixed-form...",
-    "category": "models",
-    "id": 38
-  },
-  {
-    "title": "APS-VLA: Action-Guided and Future-Aware Token Pruning for Efficient Vision-Language-Action Models",
-    "url": "https://arxiv.org/abs/2611.13030",
-    "source": "arXiv cs.AI",
-    "date": "2026-11-11",
-    "summary": "Vision-language-action (VLA) policies have demonstrated strong generalization in robotic manipulation, yet processing dense visual tokens often incurs high inference latency. Visual token pruning offe...",
-    "category": "tools",
-    "id": 39
-  },
-  {
-    "title": "Trust, but verify, audit and attribute: a human-in-the-loop framework for checking AI-produced research results",
-    "url": "https://arxiv.org/abs/2611.13042",
-    "source": "arXiv cs.AI",
-    "date": "2026-11-11",
-    "summary": "Artificial intelligence (AI) systems now produce research results in bulk: in October 2026 a single laboratory released more than 700 AI-generated mathematics manuscripts, only part of them with machi...",
-    "category": "tools",
-    "id": 40
-  },
-  {
-    "title": "Elicitation of the parameters of a multi-criteria sorting model",
-    "url": "https://arxiv.org/abs/2611.13062",
-    "source": "arXiv cs.AI",
-    "date": "2026-11-11",
-    "summary": "Multiple-criteria decision aiding (MCDA) proposes models and methods for different types of decision problems such as choice, ranking or sorting. Such models involve various parameters that must be el...",
-    "category": "models",
-    "id": 41
-  },
-  {
-    "title": "Building World Models from Intrinsic Motivation",
-    "url": "https://arxiv.org/abs/2611.13113",
-    "source": "arXiv cs.AI",
-    "date": "2026-11-11",
-    "summary": "In the absence of extrinsic rewards or task supervision, human behavior is guided by intrinsic motivation---neural signals that drive curiosity, creativity, play, and other essential facets of intelli...",
-    "category": "hardware",
-    "id": 42
-  },
-  {
-    "title": "Activation-Guided Graph Retrieval for Cognitive Memory Reconstruction in Language Model Systems",
-    "url": "https://arxiv.org/abs/2611.13127",
-    "source": "arXiv cs.AI",
-    "date": "2026-11-11",
-    "summary": "Retrieval-augmented language model systems generally select context by query-conditioned relevance. We argue that long-lived AI systems require a second operator: activation-conditioned memory availab...",
-    "category": "models",
-    "id": 43
-  },
-  {
-    "title": "Agreeing on the Answer but Not the Reason: Measurement Limits of LLM Reasoning Failure Taxonomies",
-    "url": "https://arxiv.org/abs/2611.13140",
-    "source": "arXiv cs.AI",
-    "date": "2026-11-11",
-    "summary": "Failure taxonomies for LLM reasoning are increasingly reported as measurements: papers state what fraction of a model's errors fall into named categories, then compare those fractions across models. W...",
-    "category": "models",
-    "id": 44
-  },
-  {
-    "title": "Teaching the Harness: Student-Aware Skill Transfer for LLM Agents",
-    "url": "https://arxiv.org/abs/2611.13144",
-    "source": "arXiv cs.AI",
-    "date": "2026-11-11",
-    "summary": "Effective teaching requires reasoning about the learner as well as the task, a capacity that Theory of Mind describes as inferring another agent's latent state from its behavior. We ask whether a stro...",
-    "category": "models",
-    "id": 45
-  },
-  {
-    "title": "Cognitive Multi-Agent Search and Rescue: Language-Grounded Hierarchical Reinforcement Learning for Collaborative Robotics",
-    "url": "https://arxiv.org/abs/2611.13161",
-    "source": "arXiv cs.AI",
-    "date": "2026-11-11",
-    "summary": "Effective search and rescue (SAR) operations require autonomous systems capable of coordinating multiple heterogeneous agents, adapting to dynamic hazards, and aligning with human mission intent. Exis...",
-    "category": "research",
-    "id": 46
-  },
-  {
-    "title": "AI Alignment Is Neither Solvable nor Sufficient",
-    "url": "https://arxiv.org/abs/2611.13167",
-    "source": "arXiv cs.AI",
-    "date": "2026-11-11",
-    "summary": "Humans and AI systems increasingly act within the same social and economic environments. Alignment, the goal of ensuring that AI systems act in accordance with human values, is widely regarded as a ce...",
-    "category": "research",
-    "id": 47
-  },
-  {
-    "title": "From Process Models to Composable Agentic Workflows: Combining BPMN, Agents and Enterprise Knowledge",
-    "url": "https://arxiv.org/abs/2611.13196",
-    "source": "arXiv cs.AI",
-    "date": "2026-11-11",
-    "summary": "LLM-based agents can reason, use tools and collaborate. However, coordinating increasingly complex agentic applications becomes difficult to understand, monitor and improve. Decisions distributed acro...",
-    "category": "research",
-    "id": 48
-  },
-  {
-    "title": "Counting Under Disagreement: Dollar-Weighted Measurement, Selective Machine Labelling and Budgeted Human Review from Disagreeing AI Readers of Administrative Text",
-    "url": "https://arxiv.org/abs/2611.13215",
-    "source": "arXiv cs.AI",
-    "date": "2026-11-11",
-    "summary": "We study AI-assisted measurement when one text label applies to many administrative records, the target is a monetary total, and the human readings that anchor the machines disagree. The testbed is 12...",
-    "category": "models",
-    "id": 49
-  },
-  {
-    "title": "Reliability of Claude Code as an Agentic AI Grading System for Handwritten University Exams",
-    "url": "https://arxiv.org/abs/2611.13217",
-    "source": "arXiv cs.AI",
-    "date": "2026-11-11",
-    "summary": "This study examines the reliability of Claude Code, an agentic deployment of the Claude Opus 4.6 large language model, as a grading system for handwritten university exams. Four research questions add...",
-    "category": "models",
     "id": 50
   }
 ]
