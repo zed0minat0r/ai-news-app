@@ -1,5 +1,44 @@
 [
   {
+    "title": "Where was Nvidia’s security team?",
+    "url": "https://techcrunch.com/2026/11/14/where-was-nvidias-security-team/",
+    "source": "TechCrunch",
+    "date": "2026-11-15",
+    "summary": "Nvidia’s security chief quietly left in August, and now that CEO Jensen Huang has stepped down over his relationships, including one with an executive at a company suspected of funneling chips to Chin...",
+    "category": "hardware",
+    "image": "https://techcrunch.com/wp-content/uploads/2026/11/Jensen-Huang-1.jpg?w=1024",
+    "id": 1,
+    "featured": true
+  },
+  {
+    "title": "Microsoft patent describes using idle gaming GPUs into paid AI training hardware",
+    "url": "https://videocardz.com/newz/microsoft-could-pay-gamers-for-using-spare-gpu-capacity-to-train-ai",
+    "source": "Hacker News",
+    "date": "2026-11-15",
+    "summary": "Article URL: https://videocardz.com/newz/microsoft-could-pay-gamers-for-using-spare-gpu-capacity-to-train-ai Comments URL: https://news.ycombinator.com/item?id=50502675 Points: 2 # Comments: 0",
+    "category": "hardware",
+    "id": 2
+  },
+  {
+    "title": "The AI revolution is leaving younger tech workers behind",
+    "url": "https://twitter.com/KobeissiLetter/status/2121689817301819425",
+    "source": "Hacker News",
+    "date": "2026-11-15",
+    "summary": "Article URL: https://twitter.com/KobeissiLetter/status/2121689817301819425 Comments URL: https://news.ycombinator.com/item?id=50502522 Points: 3 # Comments: 0",
+    "category": "industry",
+    "image": "https://pbs.twimg.com/media/HWwSsnRWUAADwx_?format=webp&name=large",
+    "id": 3
+  },
+  {
+    "title": "DeepSeek's New LLM Engine Just Made GPUs 3x More Valuable [video]",
+    "url": "https://www.youtube.com/watch?v=2K_Rm8cho1I",
+    "source": "Hacker News",
+    "date": "2026-11-15",
+    "summary": "Article URL: https://www.youtube.com/watch?v=2K_Rm8cho1I Comments URL: https://news.ycombinator.com/item?id=50502453 Points: 1 # Comments: 2",
+    "category": "models",
+    "id": 4
+  },
+  {
     "title": "Samsung's 1TB 990 SSD drops to 19 cents per GB amid the memory crisis — grab it for $40 off",
     "url": "https://www.tomshardware.com/pc-components/samsungs-1tb-990-ssd-drops-to-19-cents-per-gb-amid-the-memory-crisis-grab-it-for-usd40-off",
     "source": "Tom's Hardware",
@@ -7,8 +46,7 @@
     "summary": "Whether you're building a new PC, expanding your gaming library, or replacing an older SATA drive, Samsung's 990 offers a straightforward way to add high-speed PCIe 4.0 storage to your system.",
     "category": "hardware",
     "image": "https://cdn.mos.cms.futurecdn.net/z9Tr9cwLtbapB8rpe8ZWCk-1920-80.jpg",
-    "id": 1,
-    "featured": true
+    "id": 5
   },
   {
     "title": "This week in Tom's Hardware Premium: November 14, 2026 — Mac Studio versus DGX Spark, AMD's MEXT cuts DRAM requirements in half, and the Huang saga reaches critical mass",
@@ -18,7 +56,7 @@
     "summary": "Catch up with everything we've published this week on our subscription service, Tom's Hardware Premium, including exclusive interviews, local AI deep dives, and much more.",
     "category": "hardware",
     "image": "https://cdn.mos.cms.futurecdn.net/pf5brSWLeHYxEan3spiqvT-1920-80.jpg",
-    "id": 2
+    "id": 6
   },
   {
     "title": "U.S. Treasury Secretary questions whether Nvidia knowingly sold AI GPUs to shell companies, says company itself is responsible",
@@ -28,7 +66,7 @@
     "summary": "Scott Bessent wonders whether Nvidia's management knew about selling restricted hardware to shell companies, but does not directly blame Jensen Huang of anything.",
     "category": "hardware",
     "image": "https://cdn.mos.cms.futurecdn.net/jakBnPpBNjF9ncTK4KKtGG-1920-80.jpg",
-    "id": 3
+    "id": 7
   },
   {
     "title": "Malaysia plans new law using data center power consumption to catch AI GPU smugglers",
@@ -38,7 +76,7 @@
     "summary": "Malaysia plans to track AI GPU imports and data center power consumption to combat chip smuggling. But will it be able to do so?",
     "category": "hardware",
     "image": "https://cdn.mos.cms.futurecdn.net/XC7BztBiYaLzNEMYPXdhWc-1920-80.jpg",
-    "id": 4
+    "id": 8
   },
   {
     "title": "AMD's fastest gaming CPU and the Radeon RX 9070 just hit a massive $550 discount",
@@ -48,7 +86,7 @@
     "summary": "Alongside the Ryzen 7 9800X3D and Radeon RX 9070, buyers get a 360mm AIO liquid cooler, 850W PSU, 32GB DDR5-5600 memory, and a 1TB SSD, all inside a premium mid-tower chassis with RGB lighting.",
     "category": "hardware",
     "image": "https://cdn.mos.cms.futurecdn.net/gXVr5e46qSaMd9JE7fJdb7-1920-80.jpg",
-    "id": 5
+    "id": 9
   },
   {
     "title": "Researchers allege DeepSeek, Kimi, and other Chinese AI models were trained using banned Nvidia Blackwell GPUs",
@@ -58,7 +96,7 @@
     "summary": "Researchers pinpoint that DeepSeek, Kimi, and other Chinese AI models were trained on export-controlled Nvidia Blackwell chips — statistical analysis on model weights reveals high correlation to Nvidi...",
     "category": "hardware",
     "image": "https://cdn.mos.cms.futurecdn.net/5aWG7kU6H464LoRvSKtru3-1920-80.jpg",
-    "id": 6
+    "id": 10
   },
   {
     "title": "Weeks after shipment was swiped by China, Pentagon ‘struggles to account for’ $31 billion in missing F-35 aircraft parts",
@@ -68,7 +106,7 @@
     "summary": "The Pentagon is struggling to track an astonishing 26 million F-35 warfighter parts, worth an estimated $31 billion, according to analysis published by the Government Accountability Office this week.",
     "category": "industry",
     "image": "https://cdn.mos.cms.futurecdn.net/EekQz3qCtB2JkSggFCv4aK-1920-80.jpg",
-    "id": 7
+    "id": 11
   },
   {
     "title": "Lawyer’s eight-V100 AI server moves DeepSeek from 2-bit to near-NVFP4 precision",
@@ -78,7 +116,7 @@
     "summary": "A lawyer’s eight-GPU Nvidia V100 server now runs DeepSeek V4.1 Flash’s most-used experts at NVFP4 precision instead of 2-bit.",
     "category": "hardware",
     "image": "https://cdn.mos.cms.futurecdn.net/iRobEeMPfpiSTatZm5zucg-1920-80.jpg",
-    "id": 8
+    "id": 12
   },
   {
     "title": "Nearly 20 years after launch, ancient AMD Radeon HD 2000 and 3000 GPUs finally get a Linux fix for corrupted video playback",
@@ -88,7 +126,7 @@
     "summary": "A new kernel contributor used AI to develop a patch for the drivers powering his nearly-20-year-old Radeon GPU.",
     "category": "hardware",
     "image": "https://cdn.mos.cms.futurecdn.net/hPxrCnciuXxmjC3PZZ3p95-1920-80.jpg",
-    "id": 9
+    "id": 13
   },
   {
     "title": "The AI graveyard: a running list of projects and startups that didn’t make it",
@@ -98,7 +136,7 @@
     "summary": "From Apple's repeatedly delayed Siri AI to OpenAI's messy \"super app\" launch, here's a look at the AI projects that shut down or missed expectations.",
     "category": "industry",
     "image": "https://techcrunch.com/wp-content/uploads/2019/12/GettyImages-95927766-1.jpg?resize=1200,797",
-    "id": 10
+    "id": 14
   },
   {
     "title": "Asian governments react to Nvidia CEO Jensen Huang’s exit",
@@ -108,190 +146,161 @@
     "summary": "Some governments moved to confirm chip supply commitments, while others are monitoring the impact on local projects or addressing ongoing investigations.",
     "category": "hardware",
     "image": "https://techcrunch.com/wp-content/uploads/2026/11/Jensen-Huang.jpg?w=1024",
-    "id": 11
-  },
-  {
-    "title": "AI Company Employees Should Unionize",
-    "url": "https://www.astralcodexten.com/p/ai-company-employees-should-unionize",
-    "source": "Hacker News",
-    "date": "2026-11-14",
-    "summary": "Article URL: https://www.astralcodexten.com/p/ai-company-employees-should-unionize Comments URL: https://news.ycombinator.com/item?id=50500137 Points: 1 # Comments: 0",
-    "category": "industry",
-    "image": "https://substackcdn.com/image/fetch/$s_!-Ohc!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fde52244f-534f-4b9b-8d91-933b36ddc16a_736x392.png",
-    "id": 12
-  },
-  {
-    "title": "WhatWeRun, a database of real production AI agent stacks",
-    "url": "https://whatwerun.dev",
-    "source": "Hacker News",
-    "date": "2026-11-14",
-    "summary": "Article URL: https://whatwerun.dev Comments URL: https://news.ycombinator.com/item?id=50500086 Points: 1 # Comments: 0",
-    "category": "industry",
-    "image": "https://whatwerun.dev/opengraph-image?f1e58f37c5ba8115",
-    "id": 13
-  },
-  {
-    "title": "Wojak-Bench 3D: Which AI is best at 3D printing?",
-    "url": "https://wojak-bench.dev.pion.dev/",
-    "source": "Hacker News",
-    "date": "2026-11-14",
-    "summary": "Article URL: https://wojak-bench.dev.pion.dev/ Comments URL: https://news.ycombinator.com/item?id=50500018 Points: 1 # Comments: 0",
-    "category": "industry",
-    "id": 14
-  },
-  {
-    "title": "Show HN: Smart Node, a self-hosted crew of AI agents for a small business",
-    "url": "https://github.com/dklymentiev/smart-node",
-    "source": "Hacker News",
-    "date": "2026-11-14",
-    "summary": "Article URL: https://github.com/dklymentiev/smart-node Comments URL: https://news.ycombinator.com/item?id=50499898 Points: 1 # Comments: 0",
-    "category": "industry",
-    "image": "https://opengraph.githubassets.com/d96f1a0eeb666615bc8325d77df30b918ead4f4d5f4f687caad27111f6198fe4/dklymentiev/smart-node",
     "id": 15
   },
   {
-    "title": "Tactical Team Changes from AI",
-    "url": "https://staysaasy.com/tactical-team-changes-from-ai/",
+    "title": "Ask HN: Is post-training make AI models dumber?",
+    "url": "https://news.ycombinator.com/item?id=50502344",
     "source": "Hacker News",
     "date": "2026-11-14",
-    "summary": "Article URL: https://staysaasy.com/tactical-team-changes-from-ai/ Comments URL: https://news.ycombinator.com/item?id=50499787 Points: 1 # Comments: 0",
-    "category": "industry",
-    "image": "https://staysaasy.com/assets/template/stay-saasy-black-ogimage.jpeg",
+    "summary": "Post-training is making models better at benchmarks. They seem more consistent at coding, but dumber to me and I want to know what y'all are noticing. Here are the big three I'm noticing (mostly in cl...",
+    "category": "models",
     "id": 16
   },
   {
-    "title": "Hacked 2013 Recon Jet sports glasses into a Linux camera/voice AI assistant",
-    "url": "https://blog.v0.net/converting-obsolete-sports-tech-into-ai-glasses-part-1/",
+    "title": "Bing is the anti-AI search engine you should be using",
+    "url": "https://www.pcworld.com/article/3115405/bing-is-the-anti-ai-search-engine-you-should-be-using.html",
     "source": "Hacker News",
     "date": "2026-11-14",
-    "summary": "Article URL: https://blog.v0.net/converting-obsolete-sports-tech-into-ai-glasses-part-1/ Comments URL: https://news.ycombinator.com/item?id=50499763 Points: 1 # Comments: 1",
+    "summary": "Article URL: https://www.pcworld.com/article/3115405/bing-is-the-anti-ai-search-engine-you-should-be-using.html Comments URL: https://news.ycombinator.com/item?id=50502314 Points: 1 # Comments: 1",
     "category": "industry",
-    "image": "https://blog.v0.net/content/images/size/w1200/2026/11/IMG_8176.gif",
     "id": 17
   },
   {
-    "title": "An update on AI's most important number",
-    "url": "https://epochai.substack.com/p/an-update-on-ais-most-important-number",
+    "title": "Microsoft Patent Tips Using Idle Gaming PCs to Train AI in Exchange for Rewards",
+    "url": "https://www.pcmag.com/news/microsoft-patent-describes-using-your-idle-gaming-pc-to-train-ai",
     "source": "Hacker News",
     "date": "2026-11-14",
-    "summary": "Article URL: https://epochai.substack.com/p/an-update-on-ais-most-important-number Comments URL: https://news.ycombinator.com/item?id=50499693 Points: 1 # Comments: 0",
+    "summary": "Article URL: https://www.pcmag.com/news/microsoft-patent-describes-using-your-idle-gaming-pc-to-train-ai Comments URL: https://news.ycombinator.com/item?id=50502137 Points: 1 # Comments: 0",
     "category": "industry",
-    "image": "https://substackcdn.com/image/fetch/$s_!zHKQ!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F61ba2f0b-1802-426e-b6f6-f49cac44f93e_1026x1283.png",
+    "image": "https://i.pcmag.com/imagery/articles/03Bs19qJGceZzv1C7roRHJ3-1.fit_lim.size_1200x630.v1794329218.jpg",
     "id": 18
   },
   {
-    "title": "Thousands turn out in Edinburgh to protest against AI data centres",
-    "url": "https://www.bbc.co.uk/news/articles/c8n50w445zgpo",
+    "title": "AI submissions cause end of game coding contest",
+    "url": "https://www.pcgamer.com/software/ai/educational-game-dev-program-cancelled-because-students-were-submitting-games-made-entirely-with-ai/",
     "source": "Hacker News",
     "date": "2026-11-14",
-    "summary": "Article URL: https://www.bbc.co.uk/news/articles/c8n50w445zgpo Comments URL: https://news.ycombinator.com/item?id=50499627 Points: 6 # Comments: 0",
+    "summary": "Article URL: https://www.pcgamer.com/software/ai/educational-game-dev-program-cancelled-because-students-were-submitting-games-made-entirely-with-ai/ Comments URL: https://news.ycombinator.com/item?id...",
     "category": "industry",
-    "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/a19c/live/42893b00-e03e-11f1-88e1-eb4e155225b3.jpg",
+    "image": "https://cdn.mos.cms.futurecdn.net/G9gk4ajHwYTMmxkGjFbr6X-2384-80.jpg",
     "id": 19
   },
   {
-    "title": "I Tried Every LLM Architecture Change Since 2020",
-    "url": "https://www.nikita-pavlichenko.com/blog/every-llm-architecture-change",
+    "title": "Show HN: Daily puzzles to keep AI users sharp",
+    "url": "https://brainsaver.app",
     "source": "Hacker News",
     "date": "2026-11-14",
-    "summary": "Article URL: https://www.nikita-pavlichenko.com/blog/every-llm-architecture-change Comments URL: https://news.ycombinator.com/item?id=50499588 Points: 2 # Comments: 0",
-    "category": "models",
-    "image": "https://www.nikita-pavlichenko.com/blog/every-llm-architecture-change/opengraph-image?3eba62b394102827",
+    "summary": "Article URL: https://brainsaver.app Comments URL: https://news.ycombinator.com/item?id=50502073 Points: 2 # Comments: 0",
+    "category": "industry",
     "id": 20
   },
   {
-    "title": "AI School Bus Cameras Cash in on Drivers Who Fail to Stop",
-    "url": "https://www.techspot.com/news/114489-america-school-buses-becoming-ai-powered-ticket-machines.html",
+    "title": "Toward a future space-based, highly scalable AI infrastructure system design",
+    "url": "https://www.cell.com/joule/fulltext/S2542-4351(26)00362-4",
     "source": "Hacker News",
     "date": "2026-11-14",
-    "summary": "Article URL: https://www.techspot.com/news/114489-america-school-buses-becoming-ai-powered-ticket-machines.html Comments URL: https://news.ycombinator.com/item?id=50499499 Points: 4 # Comments: 0",
+    "summary": "Article URL: https://www.cell.com/joule/fulltext/S2542-4351(26)00362-4 Comments URL: https://news.ycombinator.com/item?id=50502038 Points: 1 # Comments: 0",
     "category": "industry",
     "id": 21
   },
   {
-    "title": "Show HN: AI Time Estimator – how long Claude Code will take, from your own logs",
-    "url": "https://github.com/noambrand/ai-time-estimator",
+    "title": "AI Quest – Interactive sandboxes for agentic web apps",
+    "url": "https://ai-quest.dev/",
     "source": "Hacker News",
     "date": "2026-11-14",
-    "summary": "Article URL: https://github.com/noambrand/ai-time-estimator Comments URL: https://news.ycombinator.com/item?id=50499487 Points: 3 # Comments: 0",
-    "category": "models",
-    "image": "https://repository-images.githubusercontent.com/1457729785/99f68dde-b8ca-48e9-b2bf-595d8c0bc5b4",
+    "summary": "Article URL: https://ai-quest.dev/ Comments URL: https://news.ycombinator.com/item?id=50501701 Points: 1 # Comments: 0",
+    "category": "industry",
+    "image": "https://ai-quest.dev/ai-quest-dashboard.webp",
     "id": 22
   },
   {
-    "title": "How AI can achieve human-level intelligence: researchers call for change in tack",
-    "url": "https://www.nature.com/articles/d41586-025-00649-4",
+    "title": "Competition in Generative AI: Evidence from Consumer Demand",
+    "url": "https://www.nber.org/papers/w35953",
     "source": "Hacker News",
     "date": "2026-11-14",
-    "summary": "Article URL: https://www.nature.com/articles/d41586-025-00649-4 Comments URL: https://news.ycombinator.com/item?id=50499479 Points: 2 # Comments: 2",
-    "category": "hardware",
+    "summary": "Article URL: https://www.nber.org/papers/w35953 Comments URL: https://news.ycombinator.com/item?id=50501134 Points: 3 # Comments: 1",
+    "category": "research",
+    "image": "https://www.nber.org/sites/default/files/2022-06/NBER-FB-Share-Tile-1200.jpg",
     "id": 23
   },
   {
-    "title": "Nonna's ragù: AI skill files only get you started",
-    "url": "https://andreaazzini.com/notes/nonnas-ragu",
+    "title": "See and revoke what your AI coding agents can access",
+    "url": "https://github.com/dirmedmr-alt/ai-access-auditor",
     "source": "Hacker News",
     "date": "2026-11-14",
-    "summary": "Article URL: https://andreaazzini.com/notes/nonnas-ragu Comments URL: https://news.ycombinator.com/item?id=50499222 Points: 2 # Comments: 0",
-    "category": "research",
+    "summary": "Article URL: https://github.com/dirmedmr-alt/ai-access-auditor Comments URL: https://news.ycombinator.com/item?id=50501121 Points: 1 # Comments: 0",
+    "category": "industry",
+    "image": "https://opengraph.githubassets.com/5f783d9889cf7f15b0b886435c213a3e76e5478bbef4b918ccaaaf5fd4b936c6/dirmedmr-alt/ai-access-auditor",
     "id": 24
   },
   {
-    "title": "Christophe Pettus: Stop Using AI to Report PostgreSQL Bugs",
-    "url": "https://thebuild.com/blog/stop-using-ai-to-report-postgresql-bugs/",
+    "title": "From AI ambition to business impact",
+    "url": "https://blogs.microsoft.com/blog/2026/11/12/from-ai-ambition-to-business-impact/",
     "source": "Hacker News",
     "date": "2026-11-14",
-    "summary": "Article URL: https://thebuild.com/blog/stop-using-ai-to-report-postgresql-bugs/ Comments URL: https://news.ycombinator.com/item?id=50499186 Points: 5 # Comments: 1",
+    "summary": "Article URL: https://blogs.microsoft.com/blog/2026/11/12/from-ai-ambition-to-business-impact/ Comments URL: https://news.ycombinator.com/item?id=50500966 Points: 2 # Comments: 0",
     "category": "industry",
+    "image": "https://blogs.microsoft.com/wp-content/uploads/2026/11/OMB-Frontier-Co-Momentum-Hero-1024x576.jpg",
     "id": 25
   },
   {
-    "title": "Use LLM for direct robot control",
-    "url": "https://arxiv.org/abs/2610.28259",
+    "title": "New Research Tests Whether AI Models Know Their Own Thoughts",
+    "url": "https://www.quantamagazine.org/new-research-tests-whether-ai-models-know-their-own-thoughts-20261104/",
     "source": "Hacker News",
     "date": "2026-11-14",
-    "summary": "Article URL: https://arxiv.org/abs/2610.28259 Comments URL: https://news.ycombinator.com/item?id=50499150 Points: 1 # Comments: 1",
-    "category": "models",
+    "summary": "Article URL: https://www.quantamagazine.org/new-research-tests-whether-ai-models-know-their-own-thoughts-20261104/ Comments URL: https://news.ycombinator.com/item?id=50500961 Points: 1 # Comments: 0",
+    "category": "research",
+    "image": "https://www.quantamagazine.org/wp-content/uploads/2026/11/LLMIntrospection-crKristinaArmitage-Social.jpg",
     "id": 26
   },
   {
-    "title": "Show HN: YVD – Generate videos, images, and music in seconds with AI",
-    "url": "https://yvd.io/",
+    "title": "FAA expands AI advice to manage air traffic congestion across US airspace",
+    "url": "https://arstechnica.com/features/2026/11/faa-expands-ai-advice-to-manage-air-traffic-congestion-across-entire-us-airspace/",
     "source": "Hacker News",
     "date": "2026-11-14",
-    "summary": "YVD is an AI studio for creating videos, images, and music. Features include text-to-video, text-to-image, AI music generation, and PNG background removal. Built with Seedance and GPT image models. Fr...",
-    "category": "models",
-    "image": "https://yvd.io/brand/yvd-social.png",
+    "summary": "Article URL: https://arstechnica.com/features/2026/11/faa-expands-ai-advice-to-manage-air-traffic-congestion-across-entire-us-airspace/ Comments URL: https://news.ycombinator.com/item?id=50500743 Poin...",
+    "category": "industry",
+    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/Pilots-during-DFW-departure-2560x1440.jpg",
     "id": 27
   },
   {
-    "title": "Ask HN: Do I own the code I write with the help of AI?",
-    "url": "https://news.ycombinator.com/item?id=50498553",
+    "title": "The Collision: What AI Does to Us",
+    "url": "https://mitsloan.mit.edu/ideas-made-to-matter/collision-what-ai-does-to-us",
     "source": "Hacker News",
     "date": "2026-11-14",
-    "summary": "Hi folks, I wanted to ask this simple question: is the code I write with AI mine to license as I please? I hear from a lot of people that one can’t copyright works made with AI, can someone with knowl...",
+    "summary": "Article URL: https://mitsloan.mit.edu/ideas-made-to-matter/collision-what-ai-does-to-us Comments URL: https://news.ycombinator.com/item?id=50500656 Points: 2 # Comments: 0",
     "category": "industry",
+    "image": "https://mitsloan.mit.edu/sites/default/files/styles/og_image/public/2026-10/eric-so.jpg.webp?h=e5a814fa&itok=EpGB0XmP",
     "id": 28
   },
   {
-    "title": "Preventing an AI catastrophe, a brief into to analysis by synthesis",
-    "url": "https://shukla.io/blog/2026-11/analysis-by-synthesis.html",
+    "title": "0rwx: A simple model of AI usage, inspired by Unix permissions",
+    "url": "https://0rwx.com/",
     "source": "Hacker News",
     "date": "2026-11-14",
-    "summary": "Article URL: https://shukla.io/blog/2026-11/analysis-by-synthesis.html Comments URL: https://news.ycombinator.com/item?id=50498325 Points: 2 # Comments: 0",
+    "summary": "Article URL: https://0rwx.com/ Comments URL: https://news.ycombinator.com/item?id=50500600 Points: 2 # Comments: 0",
     "category": "industry",
-    "image": "https://shukla.io/blog/2026-11/petrov.jpg",
     "id": 29
   },
   {
-    "title": "Cowork – Self-hosted task queue and dashboard for Claude, Codex, and AI agents",
-    "url": "https://github.com/slashman413/cowork",
+    "title": "FAA's Smart AI System Now Active at All 22 ARTCCs [Nov 10]",
+    "url": "https://www.flyingmag.com/faa-smart-ai-now-active-at-22-artccs-nationwide/",
     "source": "Hacker News",
     "date": "2026-11-14",
-    "summary": "Article URL: https://github.com/slashman413/cowork Comments URL: https://news.ycombinator.com/item?id=50498282 Points: 3 # Comments: 0",
-    "category": "models",
-    "image": "https://opengraph.githubassets.com/c6d55c771af4cd5e6de75e04aededddd219c60c3fc16066662f250c3cecd8f42/slashman413/cowork",
+    "summary": "Article URL: https://www.flyingmag.com/faa-smart-ai-now-active-at-22-artccs-nationwide/ Comments URL: https://news.ycombinator.com/item?id=50500552 Points: 6 # Comments: 0",
+    "category": "industry",
+    "image": "https://www.flyingmag.com/wp-content/uploads/2026/11/800086884_2906827973015461_7432847830353577248_n.jpg",
     "id": 30
+  },
+  {
+    "title": "What I Learned Using AI When My Brother Got Sick",
+    "url": "https://www.getmakingthings.com/thoughts/ai-and-health/",
+    "source": "Hacker News",
+    "date": "2026-11-14",
+    "summary": "Article URL: https://www.getmakingthings.com/thoughts/ai-and-health/ Comments URL: https://news.ycombinator.com/item?id=50500483 Points: 2 # Comments: 0",
+    "category": "industry",
+    "id": 31
   },
   {
     "title": "Beware the New AI-Fueled Ransomware Boom",
@@ -301,7 +310,7 @@
     "summary": "Fully automated ransomware hasn’t arrived—yet. But seemingly unsophisticated attackers are using AI tools to wreak havoc.",
     "category": "tools",
     "image": "https://media.wired.com/photos/6af88e4339637940f3ecc20a/191:100/w_1280,c_limit/image%20(76).png",
-    "id": 31
+    "id": 32
   },
   {
     "title": "No Pilots. Few Air Traffic Controllers. What Could Go Wrong?",
@@ -311,7 +320,7 @@
     "summary": "Normally, aviation is slow to embrace new technology—but AI has come for the skies.",
     "category": "industry",
     "image": "https://media.wired.com/photos/6af209fa2480549f4d787257/191:100/w_1280,c_limit/ai_aviation.jpg",
-    "id": 32
+    "id": 33
   },
   {
     "title": "Introducing ChatGPT Wallet",
@@ -320,7 +329,7 @@
     "date": "2026-11-13",
     "summary": "Introducing ChatGPT Wallet, a secure way for agents in ChatGPT Work, Codex, and dots to complete purchases with user approval and existing card protections.",
     "category": "models",
-    "id": 33
+    "id": 34
   },
   {
     "title": "Shield helps technicians hand off legacy portal work with OpenAI",
@@ -329,7 +338,7 @@
     "date": "2026-11-13",
     "summary": "Shield uses OpenAI to help IT technicians hand off work in legacy portals. Its Forge agents navigate systems so technicians can focus on issues needing their judgment.",
     "category": "industry",
-    "id": 34
+    "id": 35
   },
   {
     "title": "How AI Is Helping Care Teams Get Patients the Right Care, Sooner",
@@ -339,7 +348,7 @@
     "summary": "From pediatric research to smart hospitals, AI is helping care teams spend less time on routine tasks and more time with patients. Health systems and startups are putting it to work across healthcare,...",
     "category": "research",
     "image": "https://blogs.nvidia.com/wp-content/uploads/2026/11/Screenshot-2026-11-12-at-9.25.28-AM-scaled.png",
-    "id": 35
+    "id": 36
   },
   {
     "title": "Nvidia board reportedly approached Arm CEO Rene Haas during replacement search",
@@ -349,7 +358,7 @@
     "summary": "Nvidia's board of directors reportedly approached Rene Haas, chief executive of Arm and a long-time Nvidia veteran, in CEO search.",
     "category": "industry",
     "image": "https://cdn.mos.cms.futurecdn.net/qBiTnikCtK5QZ46zhHfiXm-1920-80.jpg",
-    "id": 36
+    "id": 37
   },
   {
     "title": "Unannounced Intel Core Ultra 7 260K CPU surfaces in Newegg prebuilt gaming PCs",
@@ -359,7 +368,7 @@
     "summary": "The mysterious Intel Core Ultra 7 260K has surfaced in some prebuilt gaming PCs on Newegg, despite no official mention of the chip from Intel.",
     "category": "hardware",
     "image": "https://cdn.mos.cms.futurecdn.net/oyZG7mCstmm8dWyPWJmMqU-1920-80.jpg",
-    "id": 37
+    "id": 38
   },
   {
     "title": "Malaysia and Singapore step up Nvidia AI chip probes amidst Jensen Huang controversy",
@@ -369,7 +378,7 @@
     "summary": "Malaysia is investigating possible re-exports of Nvidia AI hardware amid concerns about circumvention of U.S. restrictions on China as Singapore charges an executive over suspicious purchases of 917 A...",
     "category": "hardware",
     "image": "https://cdn.mos.cms.futurecdn.net/Shoacr4XJZW9Mkip4RDNCA-1920-80.jpg",
-    "id": 38
+    "id": 39
   },
   {
     "title": "‘Broken and shattered’ Nvidia CEO Jensen Huang surrendered during resignation meeting, report claims",
@@ -379,7 +388,7 @@
     "summary": "Jensen Huang reportedly called himself 'a piece of sh--\" after his forced departure, but employees still want him back.",
     "category": "hardware",
     "image": "https://cdn.mos.cms.futurecdn.net/tCck6nnA9N6apg5MsvEC7k-1920-80.png",
-    "id": 39
+    "id": 40
   },
   {
     "title": "Mass smuggling of up to 1.5 million Nvidia AI GPUs could be the underlying cause of Jensen Huang's departure, analysts claim",
@@ -389,7 +398,7 @@
     "summary": "Top analyst firm SemiAnalysis says it has tracked staggering 1.5 gigawatts of banned AI accelerators flowing into China.",
     "category": "hardware",
     "image": "https://cdn.mos.cms.futurecdn.net/HVkaHhmB8KxE77YzmL6FR9-1920-80.jpg",
-    "id": 40
+    "id": 41
   },
   {
     "title": "How Shanghai fund manager Kang Wei introduced his wife Alice Huang to Jensen and built $7.5 billion Nvidia AI GPU smuggling operation",
@@ -399,7 +408,7 @@
     "summary": "While Alice Huang lives on the headlines, it was actually her husband who put her in the same room as Jensen Huang.",
     "category": "hardware",
     "image": "https://cdn.mos.cms.futurecdn.net/j4BGW2BkHVr8ACoUoyotye-1920-80.png",
-    "id": 41
+    "id": 42
   },
   {
     "title": "1994 Jeep Cherokee owner hacks 32-year-old car with Claude AI to pass California smog tests",
@@ -409,7 +418,7 @@
     "summary": "An AI enthusiast managed to get his old 1994 Jeep Cherokee to pass the California smog tests thanks to the help of AI, a little electronics wiring skill, and $15 of components.",
     "category": "models",
     "image": "https://cdn.mos.cms.futurecdn.net/BZRHW5BTLyqX6i4nsjHfrH-1920-80.jpg",
-    "id": 42
+    "id": 43
   },
   {
     "title": "Jensen Huang’s departure blasts big hole in AI startup funding, VCs and founders say",
@@ -419,7 +428,7 @@
     "summary": "Nvidia poured tens of billions into AI startups under Huang. Without him at the helm, founders and VCs are bracing for smaller checks and lower valuations.",
     "category": "industry",
     "image": "https://techcrunch.com/wp-content/uploads/2026/11/Jensen-Huang-nvidia.jpg?w=1024",
-    "id": 43
+    "id": 44
   },
   {
     "title": "AI agent startup LangChain hits $3B valuation",
@@ -429,7 +438,7 @@
     "summary": "LangChain now claims 7,000 customers of its model and platform agnostic agent management tool LangSmith.",
     "category": "tools",
     "image": "https://techcrunch.com/wp-content/uploads/2026/11/Raising-money.jpg?resize=1200,829",
-    "id": 44
+    "id": 45
   },
   {
     "title": "Export-banned Nvidia chips are behind China’s most powerful AI models — uh-oh, Jensen!",
@@ -439,7 +448,7 @@
     "summary": "New research shows the most advanced AI models from China were trained on banned Nvidia chips.",
     "category": "hardware",
     "image": "https://techcrunch.com/wp-content/uploads/2026/11/GettyImages-2301327883.jpg?resize=1200,795",
-    "id": 45
+    "id": 46
   },
   {
     "title": "ChatGPT’s new Wallet lets AI agents shop and check out for you",
@@ -449,7 +458,7 @@
     "summary": "ChatGPT Wallet lets AI agents shop and check out on users' behalf, starting with a limited rollout to U.S. Pro subscribers.",
     "category": "models",
     "image": "https://techcrunch.com/wp-content/uploads/2026/11/chatgpt-wallet.jpg?resize=1200,729",
-    "id": 46
+    "id": 47
   },
   {
     "title": "The unfolding Jensen Huang scandal: a timeline",
@@ -459,7 +468,7 @@
     "summary": "Jensen Huang has resigned from Nvidia following an affair, which could have ramifications for national security as the U.S. and China race to develop the most advanced AI infrastructure.",
     "category": "hardware",
     "image": "https://techcrunch.com/wp-content/uploads/2025/04/GettyImages-2205754389.jpg?w=1024",
-    "id": 47
+    "id": 48
   },
   {
     "title": "Israel’s VCs see opportunity for challengers in Nvidia’s turmoil",
@@ -469,7 +478,7 @@
     "summary": "Given Nvidia’s stronghold on AI and its importance in Israel, many in the country's startup ecosystem are worried about the impact of his departure.",
     "category": "hardware",
     "image": "https://techcrunch.com/wp-content/uploads/2026/11/GettyImages-2303769281.jpg?resize=1200,800",
-    "id": 48
+    "id": 49
   },
   {
     "title": "The Download: Silicon Valley’s blind spot and Nvidia’s chip-tracking plan",
@@ -477,16 +486,6 @@
     "source": "MIT Tech Review",
     "date": "2026-11-13",
     "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. Silicon Valley claims to know the future. So why did it get th...",
-    "category": "hardware",
-    "image": "https://wp.technologyreview.com/wp-content/uploads/2026/11/GettyImages-2297757667.jpg?resize=1200,600",
-    "id": 49
-  },
-  {
-    "title": "Silicon Valley claims to know the future. So why did it get the midterms so wrong?",
-    "url": "https://www.technologyreview.com/2026/11/13/1148498/silicon-valley-claims-to-know-the-future-so-why-did-it-get-the-midterms-so-wrong/",
-    "source": "MIT Tech Review",
-    "date": "2026-11-13",
-    "summary": "The self-styled visionaries of Silicon Valley, leaders like OpenAI chief executive Sam Altman and SpaceX boss Elon Musk, have built careers claiming to see the future. Long-term vision is currency: Me...",
     "category": "hardware",
     "image": "https://wp.technologyreview.com/wp-content/uploads/2026/11/GettyImages-2297757667.jpg?resize=1200,600",
     "id": 50
