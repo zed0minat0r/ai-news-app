@@ -1,14 +1,31 @@
 [
   {
-    "title": "AI Day Seoul Brings Together Korea’s Industry Leaders, Startups and Developer Communities",
-    "url": "https://blogs.nvidia.com/blog/ai-day-seoul-wrapup/",
-    "source": "NVIDIA Blog",
+    "title": "Broadening access to AI for scientists",
+    "url": "https://openai.com/index/expanding-chatgpt-for-academic-researchers",
+    "source": "OpenAI Blog",
     "date": "2026-11-16",
-    "summary": "Over two days at COEX, more than 2,000 attendees converged for AI Day Seoul, bringing together Korea’s industry leaders, startups and developer communities advancing physical AI and AI agents. At the ...",
-    "category": "hardware",
-    "image": "https://blogs.nvidia.com/wp-content/uploads/2026/11/ai-day-seoul-wrapup-1920x1080-1.jpg",
+    "summary": "We’re expanding our ChatGPT for Academic Researchers program to offer 200,000 researchers worldwide free access to our frontier models.",
+    "category": "models",
     "id": 1,
     "featured": true
+  },
+  {
+    "title": "Strengthening the fight against online child sexual abuse with new tools and support",
+    "url": "https://openai.com/index/strengthening-online-child-safety",
+    "source": "OpenAI Blog",
+    "date": "2026-11-16",
+    "summary": "New tools, practical guidance, and partnerships will help prevent, detect and respond to online child sexual exploitation and abuse.",
+    "category": "tools",
+    "id": 2
+  },
+  {
+    "title": "Science at the Frontier: How scientists use ChatGPT",
+    "url": "https://openai.com/index/science-at-the-frontier",
+    "source": "OpenAI Blog",
+    "date": "2026-11-16",
+    "summary": "Explore how more than 1,800 scientists use ChatGPT in research. See findings on daily workflows, reported productivity, and expectations for discovery.",
+    "category": "models",
+    "id": 3
   },
   {
     "title": "LVMH’s Media Division announces strategic partnership with OpenAI",
@@ -17,454 +34,460 @@
     "date": "2026-11-16",
     "summary": "LVMH’s Media Division and OpenAI announce a partnership to support journalism with AI and make its publications more accessible through ChatGPT.",
     "category": "models",
-    "id": 2
+    "id": 4
+  },
+  {
+    "title": "Our first phase of embedded assessments",
+    "url": "https://openai.com/index/our-first-phase-of-embedded-assessments",
+    "source": "OpenAI Blog",
+    "date": "2026-11-16",
+    "summary": "OpenAI begins embedded assessments with Apollo Research, METR, and Transluce, and Goodfire to independently evaluate model alignment, safeguards, and monitoring systems.",
+    "category": "research",
+    "id": 5
+  },
+  {
+    "title": "More ways to move care forward with ChatGPT for Healthcare",
+    "url": "https://openai.com/index/more-ways-to-move-care-forward-with-chatgpt-for-healthcare",
+    "source": "OpenAI Blog",
+    "date": "2026-11-16",
+    "summary": "Introducing computer-use agents, improved clinical answers, and new healthcare plugins that work across healthcare software to get real work done.",
+    "category": "models",
+    "id": 6
+  },
+  {
+    "title": "The King’s Trust and OpenAI launch £1m partnership",
+    "url": "https://openai.com/index/the-kings-trust-and-openai",
+    "source": "OpenAI Blog",
+    "date": "2026-11-16",
+    "summary": "The King’s Trust and OpenAI launch a £1m partnership to help up to 25,000 young people across the UK build practical AI skills for work.",
+    "category": "industry",
+    "id": 7
+  },
+  {
+    "title": "How the World’s Most Advanced AI Infrastructure Supply Chain Invents the Future",
+    "url": "https://blogs.nvidia.com/blog/ai-infrastructure-supply-chain/",
+    "source": "NVIDIA Blog",
+    "date": "2026-11-16",
+    "summary": "Deb Shoquist leads operations at NVIDIA, overseeing the supply chain and manufacturing behind its AI platforms. That description sums up the job, but it doesn’t begin to encompass what Shoquist has ma...",
+    "category": "hardware",
+    "image": "https://blogs.nvidia.com/wp-content/uploads/2026/11/IMG_9825-1-scaled.jpeg",
+    "id": 8
+  },
+  {
+    "title": "Lambda Boosts AI Factory Resiliency and Efficiency With NVIDIA Photonics",
+    "url": "https://blogs.nvidia.com/blog/lambda-photonics/",
+    "source": "NVIDIA Blog",
+    "date": "2026-11-16",
+    "summary": "To train an AI model, thousands of GPUs have to work together, requiring a network that’s fast, efficient and resilient. Lambda is tackling the network piece of the puzzle with NVIDIA Photonics co-pac...",
+    "category": "hardware",
+    "image": "https://blogs.nvidia.com/wp-content/uploads/2026/11/ethernet-lambda-blog-1920x1080-1.jpeg",
+    "id": 9
+  },
+  {
+    "title": "NVIDIA Expands Slurm to Bring Quantum Computing Into Supercomputing",
+    "url": "https://blogs.nvidia.com/blog/slurm-quantum-computing-supercomputing/",
+    "source": "NVIDIA Blog",
+    "date": "2026-11-16",
+    "summary": "Quantum processor deployments at supercomputing centers have grown nearly sevenfold over the past five years, with nearly 30 supercomputing centers around the world now in the process of deploying ove...",
+    "category": "hardware",
+    "image": "https://blogs.nvidia.com/wp-content/uploads/2026/11/quantum-computing-blog-slurm-kv-sc26-1920x1080-5942487.png",
+    "id": 10
+  },
+  {
+    "title": "NVIDIA Sweeps MLPerf Training and Endpoints as Vera Rubin Debuts With Leading Performance",
+    "url": "https://blogs.nvidia.com/blog/mlperf-training-endpoints-vera-rubin/",
+    "source": "NVIDIA Blog",
+    "date": "2026-11-16",
+    "summary": "In its MLPerf benchmarks debut, with results released today, the NVIDIA Vera Rubin platform delivers leading performance across training, post-training and agentic inference. NVIDIA swept every MLPerf...",
+    "category": "hardware",
+    "image": "https://blogs.nvidia.com/wp-content/uploads/2026/11/vera-rubin-mlperf-training-endpoints.png",
+    "id": 11
+  },
+  {
+    "title": "NVIDIA CUDA-X Libraries Give Agents the Tools to Accelerate Scientific Discovery",
+    "url": "https://blogs.nvidia.com/blog/cuda-x-libraries-agents-accelerate-scientific-discovery/",
+    "source": "NVIDIA Blog",
+    "date": "2026-11-16",
+    "summary": "With expanded NVIDIA CUDA-X libraries, including cuPhoton, cuPotential and cuSpa, researchers can sift through vast amounts of data to accelerate research, from astrophysics and materials science to s...",
+    "category": "hardware",
+    "image": "https://blogs.nvidia.com/wp-content/uploads/2026/11/hpc-for-dev-tech-blog-cuda-x-sc26-1920x1080-5818376.jpg",
+    "id": 12
+  },
+  {
+    "title": "CUDA at 20: How the Platform Transformed Scientific Computing",
+    "url": "https://blogs.nvidia.com/blog/20-years-cuda/",
+    "source": "NVIDIA Blog",
+    "date": "2026-11-16",
+    "summary": "This week at SC26, NVIDIA is marking two decades of CUDA by honoring the researchers, developers and engineers who helped make GPU computing a foundation for modern science and AI. CUDA’s 20th anniver...",
+    "category": "hardware",
+    "image": "https://blogs.nvidia.com/wp-content/uploads/2026/11/cuda-at-20-1920x1080-1.jpg",
+    "id": 13
+  },
+  {
+    "title": "NVIDIA Announces Rubin HPC — A New GPU to Accelerate Agents for Science, Engineering and Analytics",
+    "url": "https://blogs.nvidia.com/blog/rubin-hpc/",
+    "source": "NVIDIA Blog",
+    "date": "2026-11-16",
+    "summary": "Announced today at SC26, NVIDIA Rubin HPC is a new GPU in the NVIDIA Vera Rubin platform designed to accelerate simulation and data processing for science, engineering and analytics workflows. As agen...",
+    "category": "hardware",
+    "image": "https://blogs.nvidia.com/wp-content/uploads/2026/11/hpc-blog-rubin-hpc-gpu-1920x1080-5957124-1.jpg",
+    "id": 14
+  },
+  {
+    "title": "AI Day Seoul Brings Together Korea’s Industry Leaders, Startups and Developer Communities",
+    "url": "https://blogs.nvidia.com/blog/ai-day-seoul-wrapup/",
+    "source": "NVIDIA Blog",
+    "date": "2026-11-16",
+    "summary": "Over two days at COEX, more than 2,000 attendees converged for AI Day Seoul, bringing together Korea’s industry leaders, startups and developer communities advancing physical AI and AI agents. At the ...",
+    "category": "hardware",
+    "image": "https://blogs.nvidia.com/wp-content/uploads/2026/11/ai-day-seoul-wrapup-1920x1080-1.jpg",
+    "id": 15
+  },
+  {
+    "title": "Shareholders sue Intel, its CEO and CFO after stock drops 28.6 percent in one day",
+    "url": "https://arstechnica.com/tech-policy/2026/11/shareholders-sue-intel-its-ceo-and-cfo-after-stock-drops-28-6-percent-in-one-day/",
+    "source": "Ars Technica",
+    "date": "2026-11-16",
+    "summary": "The PC sales slump \"more than offset” AI boom gains, shareholders say.",
+    "category": "industry",
+    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/GettyImages-2231573847-1024x648.jpg",
+    "id": 16
+  },
+  {
+    "title": "Researchers ‘recognize that AI will never replace HPC,’ says AMD executive — high-precision workloads will ‘exist for a very long time’ even as AI usage expands",
+    "url": "https://www.tomshardware.com/tech-industry/supercomputers/researchers-recognize-that-ai-will-never-replace-hpc-says-amd-executive-high-precision-workloads-will-exist-for-a-very-long-time-even-as-ai-usage-expands",
+    "source": "Tom's Hardware",
+    "date": "2026-11-16",
+    "summary": "The emergence of AI has seemingly posed a threat to high-precision FP64 computation, but AMD doesn't think the HPC world is moving away from those complex calculations in the wake of AI.",
+    "category": "hardware",
+    "image": "https://cdn.mos.cms.futurecdn.net/odrYnFH3kdkxQe7pL2cCGb-1920-80.jpg",
+    "id": 17
+  },
+  {
+    "title": "AMD grabs over 40% of new TOP500 list for supercomputers, up 14% since last year",
+    "url": "https://www.tomshardware.com/tech-industry/supercomputers/amd-grabs-over-40-percent-of-new-top500-list-for-supercomputers-up-14-percent-since-last-year-new-lux-system-developed-between-amd-and-department-of-energy-debuts-at-no-14-with-epyc-cpus-and-instinct-mi355x-gpus",
+    "source": "Tom's Hardware",
+    "date": "2026-11-16",
+    "summary": "AMD's Lux supercomputer debuted at position 14 on the new TOP500 list published during SC26. It's one of two machines AMD is developing as part of a $1 billion deal with the U.S. Department of Energy.",
+    "category": "hardware",
+    "image": "https://cdn.mos.cms.futurecdn.net/kiQWCdGYbYcrsLVKdCSDi3-1920-80.jpg",
+    "id": 18
+  },
+  {
+    "title": "Nvidia announces Rubin HPC GPU with 'record number of CUDA cores' at Supercomputing 2026",
+    "url": "https://www.tomshardware.com/pc-components/gpus/nvidia-announces-rubin-hpc-gpu-with-record-number-of-cuda-cores-at-supercomputing-2026-new-chip-accelerates-agentic-hpc-workloads-arrives-in-2028",
+    "source": "Tom's Hardware",
+    "date": "2026-11-16",
+    "summary": "Nvidia took the wraps off its Rubin HPC GPU at Supercomputing 2026. This new GPU will give scientists, engineers, and analysts over 50,000 CUDA cores to speed up agentic HPC workloads when it arrives ...",
+    "category": "hardware",
+    "image": "https://cdn.mos.cms.futurecdn.net/wJ2qnaAhPDGJQVsKBgLAri-1920-80.png",
+    "id": 19
+  },
+  {
+    "title": "Trump calls for Jensen Huang reinstatement as Nvidia CEO",
+    "url": "https://www.tomshardware.com/tech-industry/trump-calls-for-jensen-huang-reinstatement-as-nvidia-ceo-nvidia-board-reportedly-refuses-to-reinstate-disgraced-ceo-due-to-ongoing-national-security-investigation-into-jensen",
+    "source": "Tom's Hardware",
+    "date": "2026-11-16",
+    "summary": "President Trump has called for Jensen Huang to return as Nvidia CEO, but a new report says the board is not considering the move.",
+    "category": "hardware",
+    "image": "https://cdn.mos.cms.futurecdn.net/AcvQdNE4MvE4MZ6pKF6f9Y-1920-80.jpg",
+    "id": 20
+  },
+  {
+    "title": "Intel bets on Classiq acquisition to turn Quantum efforts into commercially viable business — deal positions company as leading vendor of qubit chips, acquisition to close by the first half of 2027",
+    "url": "https://www.tomshardware.com/tech-industry/quantum-computing/intel-bets-on-classiq-acquisition-to-turn-quantum-efforts-into-commercially-viable-business-deal-positions-company-as-leading-vendor-of-qubit-chips-acquisition-to-close-by-the-first-half-of-2027",
+    "source": "Tom's Hardware",
+    "date": "2026-11-16",
+    "summary": "Intel aims to turn its quantum computing research effort into a commercial business by combining its silicon spin-qubit technology and manufacturing capabilities with Classiq’s established software pl...",
+    "category": "hardware",
+    "image": "https://cdn.mos.cms.futurecdn.net/jFuLeDoS3yepBpNT3uuUaN-1920-80.jpg",
+    "id": 21
+  },
+  {
+    "title": "Minisforum Elite Mini M2 Air-304 review: A quiet and compact Wildcat",
+    "url": "https://www.tomshardware.com/desktops/mini-pcs/minisforum-elite-mini-m2-air-304-review",
+    "source": "Tom's Hardware",
+    "date": "2026-11-16",
+    "summary": "With an Intel Wildcat Lake CPU, the Minisforum Elite Mini M2 Air-304 PC runs cool and quiet, but is only suitable for casual users. Due to the prices of RAM and storage, trying to save money using ent...",
+    "category": "hardware",
+    "image": "https://cdn.mos.cms.futurecdn.net/G3ccF7itdX36LKpD7tVq9i-1920-80.jpg",
+    "id": 22
+  },
+  {
+    "title": "Anthropic says Claude Mythos Preview cut AMD MI355X onboarding from up to 12 months to around three days",
+    "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/anthropic-says-claude-mythos-slashed-software-work-to-onboard-amd-gpus-from-up-to-12-months-to-around-three-days-writing-almost-100-percent-of-kernels-autonomously-chips-away-at-nvidias-cuda-moat",
+    "source": "Tom's Hardware",
+    "date": "2026-11-16",
+    "summary": "Anthropic says Claude Mythos Preview brought up prompt processing for one model on AMD Instinct MI355X GPUs in about three days.",
+    "category": "hardware",
+    "image": "https://cdn.mos.cms.futurecdn.net/jcG9LwCNh8XUGiSJ9Pxw7Z-1920-80.jpg",
+    "id": 23
+  },
+  {
+    "title": "Overlocker uses vibecoded BIOS modification to target Intel's non-K overclocking restrictions",
+    "url": "https://www.tomshardware.com/pc-components/cpus/overlocker-uses-vibecoded-bios-modification-to-target-intels-non-k-overclocking-restrictions-attempts-to-revive-asrocks-discontinued-skyoc-technology",
+    "source": "Tom's Hardware",
+    "date": "2026-11-16",
+    "summary": "ASRock discontinued SkyOC following Intel's efforts to block non-K CPU overclocking, but an enthusiast is now using AI to see if the old workaround can be adapted for newer platforms.",
+    "category": "hardware",
+    "image": "https://cdn.mos.cms.futurecdn.net/upv5CLs6eZgME2q4v4v9MX-1920-80.jpg",
+    "id": 24
+  },
+  {
+    "title": "Unlock Tom's Hardware Premium's SuperComputer 2026 coverage for free — sign up for an account to read detailed reports from the show",
+    "url": "https://www.tomshardware.com/tech-industry/unlock-toms-hardware-premiums-supercomputer-2026-coverage-for-free-sign-up-for-an-account-to-read-detailed-reports-from-the-show",
+    "source": "Tom's Hardware",
+    "date": "2026-11-16",
+    "summary": "For a limited time, you’ll be able to read all of our latest reports from SuperComputer 2026 with a Tom’s Hardware account, no payment required.",
+    "category": "hardware",
+    "image": "https://cdn.mos.cms.futurecdn.net/mGhDAAqYZfSzkURo9H7u5k-1920-80.jpg",
+    "id": 25
+  },
+  {
+    "title": "Jailbroken PS4 runs 9-billion-parameter AI model at up to 43 tokens per second",
+    "url": "https://www.tomshardware.com/video-games/playstation/jailbroken-ps4-runs-9-billion-parameter-ai-model-at-up-to-43-tokens-per-second-open-source-garlic-llm-bypasses-drivers-to-talk-directly-to-the-2013-era-gpu",
+    "source": "Tom's Hardware",
+    "date": "2026-11-16",
+    "summary": "Garlic LLM runs Alibaba’s Qwen3.5-9B on a jailbroken PlayStation 4’s GPU, fully offline, at 31 to 39 tokens per second.",
+    "category": "models",
+    "image": "https://cdn.mos.cms.futurecdn.net/NiEzQj4gSZE2jaQaCMEuvG-1920-80.jpg",
+    "id": 26
+  },
+  {
+    "title": "Intel sued by shareholders for misleading investors after stock plunges 29%",
+    "url": "https://www.tomshardware.com/pc-components/cpus/intel-sued-by-shareholders-for-misleading-investors-after-stock-plunges-29-percent-class-action-claims-the-company-downplayed-the-severity-of-pc-market-headwinds",
+    "source": "Tom's Hardware",
+    "date": "2026-11-16",
+    "summary": "The Southfield Fire and Police Retirement System pension fund accuses Intel of withholding important information about its business performance.",
+    "category": "hardware",
+    "image": "https://cdn.mos.cms.futurecdn.net/npZsVaRxf6Yq9ExTgeCwM6-1920-80.jpg",
+    "id": 27
+  },
+  {
+    "title": "Jensen Huang could be plotting return as Nvidia CEO, report claims",
+    "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/jensen-huang-could-be-plotting-return-as-nvidia-ceo-report-claims-allies-have-formed-a-war-room-to-drive-reinstatement-days-after-resignation-scandal",
+    "source": "Tom's Hardware",
+    "date": "2026-11-16",
+    "summary": "Jensen Huang could be back in his old Nvidia office soon as allies rally to push the AI chipmaker to take him back just days after he was ousted over an affair with an alleged Chinese spy.",
+    "category": "hardware",
+    "image": "https://cdn.mos.cms.futurecdn.net/tCck6nnA9N6apg5MsvEC7k-1920-80.png",
+    "id": 28
+  },
+  {
+    "title": "Nvidia amassed $530 billion in financial guarantees to corner the AI market",
+    "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/nvidia-amassed-usd530-billion-in-financial-guarantees-to-corner-the-ai-market-supply-commitments-rose-by-nearly-a-quarter-of-a-trillion-dollars-in-a-single-quarter",
+    "source": "Tom's Hardware",
+    "date": "2026-11-16",
+    "summary": "Nvidia amassed $530 billion in financial guarantees to corner the AI market",
+    "category": "industry",
+    "image": "https://cdn.mos.cms.futurecdn.net/xvsSkBmSjmjPCPZkKa3aUi-1920-80.jpg",
+    "id": 29
+  },
+  {
+    "title": "California state AG sues OpenAI over rogue agent incidents",
+    "url": "https://techcrunch.com/2026/11/16/california-state-ag-sues-openai-over-rogue-agent-incidents/",
+    "source": "TechCrunch",
+    "date": "2026-11-16",
+    "summary": "The California lawsuit represents one of the first attempts to hold an AI lab legally accountable for a rogue agent incident",
+    "category": "industry",
+    "image": "https://techcrunch.com/wp-content/uploads/2026/11/1920px-Rob_Bonta_at_Central_Bay_Operations_and_Maintenance_Facility_opening_December_2018.jpeg?resize=1200,981",
+    "id": 30
+  },
+  {
+    "title": "Trump says ex-Nvidia CEO Jensen Huang’s affair with an alleged Chinese spy did not threaten national security",
+    "url": "https://techcrunch.com/2026/11/16/trump-says-ex-nvidia-ceo-jensen-huangs-affair-with-an-alleged-chinese-spy-did-not-threaten-national-security/",
+    "source": "TechCrunch",
+    "date": "2026-11-16",
+    "summary": "Trump contradicted his own government's intelligence officials, who reportedly concluded that Alice Huang is a Chinese spy.",
+    "category": "hardware",
+    "image": "https://techcrunch.com/wp-content/uploads/2026/10/GettyImages-2297572109.jpg?w=1024",
+    "id": 31
+  },
+  {
+    "title": "Sam Altman on Nvidia without Jensen Huang: the industry will be ‘fine’",
+    "url": "https://techcrunch.com/2026/11/16/sam-altman-on-nvidia-without-jensen-huang-the-industry-will-be-fine/",
+    "source": "TechCrunch",
+    "date": "2026-11-16",
+    "summary": "OpenAI CEO Sam Altman acknowledged the special role Nvidia CEO Jensen Huang has played in the AI boom, but ultimately thinks the industry will be “fine” without him at the helm.",
+    "category": "hardware",
+    "image": "https://techcrunch.com/wp-content/uploads/2026/11/GettyImages-2297209338.jpg?w=1024",
+    "id": 32
+  },
+  {
+    "title": "FBI says Artex AI open-source hacking tool used to breach networks in ‘under three hours’",
+    "url": "https://techcrunch.com/2026/11/16/fbi-says-artex-ai-open-source-hacking-tool-used-to-breach-networks-in-under-three-hours/",
+    "source": "TechCrunch",
+    "date": "2026-11-16",
+    "summary": "The FBI says that the open-source hacking tool was used in cyberattacks targeting a U.S. IT giant and the South Korean financial industry.",
+    "category": "tools",
+    "image": "https://techcrunch.com/wp-content/uploads/2026/02/china-hacker-computer-flag.jpg?resize=1200,675",
+    "id": 33
+  },
+  {
+    "title": "Jordan Belfort’s new AI voice startup, Tone, wants to sell like the ‘Wolf of Wall Street’",
+    "url": "https://techcrunch.com/2026/11/16/jordan-belforts-new-ai-voice-startup-tone-wants-to-sell-like-the-wolf-of-wall-street/",
+    "source": "TechCrunch",
+    "date": "2026-11-16",
+    "summary": "Belfort claims his AI sales voice can already close deals almost as well as the best human salespeople, and he thinks it will catch up in a year.",
+    "category": "industry",
+    "image": "https://techcrunch.com/wp-content/uploads/2026/11/Jordan-Belfort.jpeg?resize=1200,675",
+    "id": 34
+  },
+  {
+    "title": "OpenAI will embed safety researchers to investigate AI subversion",
+    "url": "https://techcrunch.com/2026/11/16/openai-will-embed-apollo-researchers-to-investigate-ai-subversion/",
+    "source": "TechCrunch",
+    "date": "2026-11-16",
+    "summary": "OpenAI will embed six Apollo Research evaluators to investigate whether its AI models engage in subversive behavior, but restrictions on access and disclosure raise questions about their independence.",
+    "category": "research",
+    "image": "https://techcrunch.com/wp-content/uploads/2026/05/openai-logo-code-background.jpg?resize=1200,798",
+    "id": 35
+  },
+  {
+    "title": "OpenAI releases a new image classifier and ChatGPT warnings to combat CSAM",
+    "url": "https://techcrunch.com/2026/11/16/openai-releases-a-new-image-classifier-and-chatgpt-warnings-to-combat-csam/",
+    "source": "TechCrunch",
+    "date": "2026-11-16",
+    "summary": "ChatGPT will ban an account trying to access CSAM content for 24 hours as a warning.",
+    "category": "models",
+    "image": "https://techcrunch.com/wp-content/uploads/2026/11/OpenAI-chatgpt-CSAM.jpeg?resize=1200,675",
+    "id": 36
+  },
+  {
+    "title": "Audible turns to AI to help users discover audiobooks",
+    "url": "https://techcrunch.com/2026/11/16/audible-turns-to-ai-to-help-users-discover-audiobooks/",
+    "source": "TechCrunch",
+    "date": "2026-11-16",
+    "summary": "Audible's new AI-generated audio previews summarize a book's themes and what readers liked about it, in addition to playing the narrated sample.",
+    "category": "industry",
+    "image": "https://techcrunch.com/wp-content/uploads/2026/11/Audible_Audio_Discovery_Still.jpeg?resize=1200,824",
+    "id": 37
+  },
+  {
+    "title": "US tightens AI chip export controls to deter Chinese companies from accessing compute remotely",
+    "url": "https://techcrunch.com/2026/11/16/us-tightens-ai-chip-export-controls-to-deter-chinese-companies-from-accessing-compute-remotely/",
+    "source": "TechCrunch",
+    "date": "2026-11-16",
+    "summary": "Under the interim rule, the U.S. will require firms to get licenses to export AI chips if they may provide compute to China or other restricted countries.",
+    "category": "hardware",
+    "image": "https://techcrunch.com/wp-content/uploads/2026/11/us-commerce.jpg?w=564",
+    "id": 38
+  },
+  {
+    "title": "Freshworks alums raise $53M to take on Salesforce, HubSpot with AI-native CRM",
+    "url": "https://techcrunch.com/2026/11/16/freshworks-alums-raise-53m-to-take-on-salesforce-hubspot-with-ai-native-crm/",
+    "source": "TechCrunch",
+    "date": "2026-11-16",
+    "summary": "Dreamteam has signed up more than 100 customers across 13 countries, with some businesses switching from established CRMs.",
+    "category": "industry",
+    "image": "https://techcrunch.com/wp-content/uploads/2026/11/dreamteam-co-founders.jpg?resize=1200,800",
+    "id": 39
   },
   {
     "title": "Apple launches new app to study how people use AI for health",
     "url": "https://techcrunch.com/2026/11/15/apple-launches-new-app-to-study-how-people-use-ai-for-health/",
     "source": "TechCrunch",
     "date": "2026-11-16",
-    "summary": "Apple's new app for a study will answer everyday medical questions",
+    "summary": "Apple's new app for a study will answer everyday medical questions.",
     "category": "research",
     "image": "https://techcrunch.com/wp-content/uploads/2026/11/Apple-Health-AI-Usage-Study.jpg?resize=1200,800",
-    "id": 3
-  },
-  {
-    "title": "We found 1,698 Internet-visible AI offensive-security endpoints",
-    "url": "https://gcore.com/blog/ai-offensive-security-endpoints-artex-pentagi-cairn",
-    "source": "Hacker News",
-    "date": "2026-11-16",
-    "summary": "Article URL: https://gcore.com/blog/ai-offensive-security-endpoints-artex-pentagi-cairn Comments URL: https://news.ycombinator.com/item?id=50515662 Points: 2 # Comments: 0",
-    "category": "industry",
-    "image": "https://assets.gcore.pro/site-media/uploads/gcore_artex_2026_cybersecurity_threat_research_report_f239c5e20f.png",
-    "id": 4
-  },
-  {
-    "title": "Can AI Do Science? [video]",
-    "url": "https://www.youtube.com/watch?v=Mnhq6v_dvE4",
-    "source": "Hacker News",
-    "date": "2026-11-16",
-    "summary": "Article URL: https://www.youtube.com/watch?v=Mnhq6v_dvE4 Comments URL: https://news.ycombinator.com/item?id=50515343 Points: 1 # Comments: 0",
-    "category": "industry",
-    "id": 5
-  },
-  {
-    "title": "Irrigator: Local AI agent orchestration with recovery and spending limits",
-    "url": "https://irrigator.dev/",
-    "source": "Hacker News",
-    "date": "2026-11-16",
-    "summary": "Article URL: https://irrigator.dev/ Comments URL: https://news.ycombinator.com/item?id=50515284 Points: 3 # Comments: 0",
-    "category": "industry",
-    "image": "https://irrigator.dev/og-image.png",
-    "id": 6
-  },
-  {
-    "title": "Alibaba says new AI model cuts task costs by 60% and tightens cyber safeguards",
-    "url": "https://www.scmp.com/tech/big-tech/article/3374540/alibaba-says-new-flagship-ai-model-cuts-task-costs-60-while-tightening-cyber-guardrails",
-    "source": "Hacker News",
-    "date": "2026-11-16",
-    "summary": "Article URL: https://www.scmp.com/tech/big-tech/article/3374540/alibaba-says-new-flagship-ai-model-cuts-task-costs-60-while-tightening-cyber-guardrails Comments URL: https://news.ycombinator.com/item?...",
-    "category": "industry",
-    "id": 7
-  },
-  {
-    "title": "I'm Glad That Literary Awards Are Going to AI",
-    "url": "https://twitter.com/EneaszWrites/status/2122076407803363641",
-    "source": "Hacker News",
-    "date": "2026-11-16",
-    "summary": "Article URL: https://twitter.com/EneaszWrites/status/2122076407803363641 Comments URL: https://news.ycombinator.com/item?id=50515048 Points: 2 # Comments: 1",
-    "category": "industry",
-    "image": "https://pbs.twimg.com/media/HXMPTLXbAAAR3AI?format=webp&name=large",
-    "id": 8
-  },
-  {
-    "title": "OpenTelemetry and AI Agents' Observability",
-    "url": "https://signoz.io/blog/opentelemetry-ai-agent-observability/",
-    "source": "Hacker News",
-    "date": "2026-11-16",
-    "summary": "Article URL: https://signoz.io/blog/opentelemetry-ai-agent-observability/ Comments URL: https://news.ycombinator.com/item?id=50515018 Points: 8 # Comments: 0",
-    "category": "industry",
-    "image": "https://d3nu8xzr1i9u95.cloudfront.net/web/img/blog/common/ai-observability-trace-detail.webp",
-    "id": 9
-  },
-  {
-    "title": "Can We Fix AI?",
-    "url": "https://peterbloem.nl/blog/fix-ai-data",
-    "source": "Hacker News",
-    "date": "2026-11-16",
-    "summary": "Article URL: https://peterbloem.nl/blog/fix-ai-data Comments URL: https://news.ycombinator.com/item?id=50514958 Points: 3 # Comments: 0",
-    "category": "industry",
-    "image": "https://peterbloem.nl/images/icarus.jpg",
-    "id": 10
-  },
-  {
-    "title": "Show HN: Blue-harness – audit and harden binaries against AI-assisted reversing",
-    "url": "https://github.com/seifheakal/blue-harness",
-    "source": "Hacker News",
-    "date": "2026-11-16",
-    "summary": "Article URL: https://github.com/seifheakal/blue-harness Comments URL: https://news.ycombinator.com/item?id=50514943 Points: 1 # Comments: 0",
-    "category": "industry",
-    "image": "https://repository-images.githubusercontent.com/1433068262/ff290624-6bbe-48cf-900a-d344e7c6ff32",
-    "id": 11
-  },
-  {
-    "title": "Can You Trust AI Cybersecurity Tools?",
-    "url": "https://forenclarity.com/can-you-trust-ai-cybersecurity-tools/",
-    "source": "Hacker News",
-    "date": "2026-11-16",
-    "summary": "Article URL: https://forenclarity.com/can-you-trust-ai-cybersecurity-tools/ Comments URL: https://news.ycombinator.com/item?id=50514909 Points: 3 # Comments: 0",
-    "category": "tools",
-    "image": "https://forenclarity.com/wp-content/uploads/2026/11/forenclarity-social-card.jpg",
-    "id": 12
-  },
-  {
-    "title": "Show HN: Figma Like AI Landing Page Builder",
-    "url": "https://codecainehq.com/",
-    "source": "Hacker News",
-    "date": "2026-11-16",
-    "summary": "Article URL: https://codecainehq.com/ Comments URL: https://news.ycombinator.com/item?id=50514822 Points: 7 # Comments: 1",
-    "category": "industry",
-    "image": "https://codecainehq.com/og/home.jpg",
-    "id": 13
-  },
-  {
-    "title": "TrustGraph – ACLs that follow the data through your AI agents",
-    "url": "https://github.com/skishore23/trustgraph",
-    "source": "Hacker News",
-    "date": "2026-11-16",
-    "summary": "Article URL: https://github.com/skishore23/trustgraph Comments URL: https://news.ycombinator.com/item?id=50514746 Points: 2 # Comments: 0",
-    "category": "industry",
-    "image": "https://opengraph.githubassets.com/8ae23b8ef692597f2e9de99e765a04aafb6012635653e740023e7a4f5130e1f0/skishore23/trustgraph",
-    "id": 14
-  },
-  {
-    "title": "Skills for AI coding agents to create diagrams in Markdown",
-    "url": "https://github.com/markdown-viewer/skills",
-    "source": "Hacker News",
-    "date": "2026-11-16",
-    "summary": "Article URL: https://github.com/markdown-viewer/skills Comments URL: https://news.ycombinator.com/item?id=50514667 Points: 3 # Comments: 0",
-    "category": "industry",
-    "image": "https://opengraph.githubassets.com/354aaa2ad7a41e098af5e7f6e52ba8a76b8e831c575a08230523741b632a4620/markdown-viewer/skills",
-    "id": 15
-  },
-  {
-    "title": "Flova AI",
-    "url": "https://www.crunchbase.com/organization/flova-tech-inc",
-    "source": "Hacker News",
-    "date": "2026-11-16",
-    "summary": "Article URL: https://www.crunchbase.com/organization/flova-tech-inc Comments URL: https://news.ycombinator.com/item?id=50514646 Points: 2 # Comments: 0",
-    "category": "industry",
-    "id": 16
-  },
-  {
-    "title": "Vstack – AI for Management and Leadership",
-    "url": "https://github.com/ivikash/vstack",
-    "source": "Hacker News",
-    "date": "2026-11-16",
-    "summary": "Article URL: https://github.com/ivikash/vstack Comments URL: https://news.ycombinator.com/item?id=50514620 Points: 3 # Comments: 1",
-    "category": "industry",
-    "image": "https://opengraph.githubassets.com/ee5dcef803f46f0439a49254fc1e7a32f84ffb3be338e7dee859f1740408a126/ivikash/vstack",
-    "id": 17
-  },
-  {
-    "title": "Automatar – An Intelligent AI Guitar",
-    "url": "https://www.creativeapplications.net/member/automatar-an-intelligent-ai-guitar/",
-    "source": "Hacker News",
-    "date": "2026-11-16",
-    "summary": "Article URL: https://www.creativeapplications.net/member/automatar-an-intelligent-ai-guitar/ Comments URL: https://news.ycombinator.com/item?id=50514444 Points: 1 # Comments: 1",
-    "category": "hardware",
-    "image": "https://www.creativeapplications.net/wp-content/uploads/2026/11/automatar-1600x1000.jpg",
-    "id": 18
-  },
-  {
-    "title": "Show HN: OpenButterfly – Tracking the environmental impact of the AI ecosystem",
-    "url": "https://openbutterfly.com",
-    "source": "Hacker News",
-    "date": "2026-11-16",
-    "summary": "I built OpenButterfly to help people understand the environmental impact of the AI ecosystem. Openbutterfly tracks major AI companies (AI labs, cloud providers, chip makers and data center operators) ...",
-    "category": "models",
-    "image": "https://openbutterfly.com/og.png",
-    "id": 19
-  },
-  {
-    "title": "Google AI Ultra Subscription Not Worth It",
-    "url": "https://www.reddit.com/r/google_antigravity/comments/1xx9nl3/google_ai_ultra_subscription_not_worth_it/",
-    "source": "Hacker News",
-    "date": "2026-11-16",
-    "summary": "Article URL: https://www.reddit.com/r/google_antigravity/comments/1xx9nl3/google_ai_ultra_subscription_not_worth_it/ Comments URL: https://news.ycombinator.com/item?id=50514224 Points: 9 # Comments: 0",
-    "category": "industry",
-    "id": 20
-  },
-  {
-    "title": "Show HN: A benchmark that diffs the whole database after an AI agent's task",
-    "url": "https://github.com/shubhamjoshipromail-svg/software-world-model",
-    "source": "Hacker News",
-    "date": "2026-11-16",
-    "summary": "Article URL: https://github.com/shubhamjoshipromail-svg/software-world-model Comments URL: https://news.ycombinator.com/item?id=50514157 Points: 1 # Comments: 0",
-    "category": "models",
-    "image": "https://opengraph.githubassets.com/f7692036c21f2fecfe2ee96203c2c141080deeec288bae09a94da4d5c8c524d4/shubhamjoshipromail-svg/software-world-model",
-    "id": 21
-  },
-  {
-    "title": "Nvidia's Days as an Open Checkbook for the AI Economy Are Numbered",
-    "url": "https://www.wsj.com/tech/ai/nvidias-days-as-an-open-checkbook-for-the-ai-economy-are-numbered-90c7b388",
-    "source": "Hacker News",
-    "date": "2026-11-16",
-    "summary": "Article URL: https://www.wsj.com/tech/ai/nvidias-days-as-an-open-checkbook-for-the-ai-economy-are-numbered-90c7b388 Comments URL: https://news.ycombinator.com/item?id=50513876 Points: 19 # Comments: 5",
-    "category": "hardware",
-    "id": 22
-  },
-  {
-    "title": "Show HN: Free AI Background Remover with Local Browser Privacy Mode (No Sign-Up)",
-    "url": "https://toolifyhub.tools/tools/background-remover",
-    "source": "Hacker News",
-    "date": "2026-11-16",
-    "summary": "Article URL: https://toolifyhub.tools/tools/background-remover Comments URL: https://news.ycombinator.com/item?id=50513860 Points: 1 # Comments: 0",
-    "category": "tools",
-    "image": "https://toolifyhub.tools/background-remover.png",
-    "id": 23
-  },
-  {
-    "title": "When Should LLM Agents Forget? Memory Filtering Under Query-Critical Resolver Errors",
-    "url": "https://arxiv.org/abs/2611.17338",
-    "source": "arXiv cs.AI",
-    "date": "2026-11-16",
-    "summary": "LLM memory systems often delete facts classified as stale. We show that this hard-filtering step can reduce downstream accuracy when resolver errors delete query-critical facts. Across three models, a...",
-    "category": "models",
-    "id": 24
-  },
-  {
-    "title": "Does the Ranking Hold? A Practitioner-Facing Audit of Hallucination Detectors on Small, Quantized, On-Device LLMs",
-    "url": "https://arxiv.org/abs/2611.17339",
-    "source": "arXiv cs.AI",
-    "date": "2026-11-16",
-    "summary": "Hallucination detection for large language models is dominated by methods evaluated on 7B-70B research models with abundant sampling budgets and exact-match or ROUGE correctness labels. The small mode...",
-    "category": "models",
-    "id": 25
-  },
-  {
-    "title": "LoRAWeaver: Directional Adapter Routing in LoRA Representation Space",
-    "url": "https://arxiv.org/abs/2611.17340",
-    "source": "arXiv cs.AI",
-    "date": "2026-11-16",
-    "summary": "Large language models are expensive to update through full retraining. Parameter-efficient fine-tuning reduces the cost of adaptation, but repeated adaptation creates a growing pool of task-specific L...",
-    "category": "models",
-    "id": 26
-  },
-  {
-    "title": "Tabular Population Priors as Structured Retrieval for EHR Medication Set Prediction",
-    "url": "https://arxiv.org/abs/2611.17341",
-    "source": "arXiv cs.AI",
-    "date": "2026-11-16",
-    "summary": "Medication prediction from electronic health records is a fixed vocabulary structured prediction problem, yet recent clinical RAG systems often treat it like open ended case based reasoning: retrieve ...",
-    "category": "research",
-    "id": 27
-  },
-  {
-    "title": "An Operationalization of Opaque Serial Depth",
-    "url": "https://arxiv.org/abs/2611.17495",
-    "source": "arXiv cs.AI",
-    "date": "2026-11-16",
-    "summary": "Chain-of-thought (CoT) is currently a valuable tool for overseeing AI models, but some architectural shifts could significantly reduce CoT monitorability. We operationalize a measure that serves as a ...",
-    "category": "research",
-    "id": 28
-  },
-  {
-    "title": "Advancing Quantization for R&R Models with Microscaling Formats",
-    "url": "https://arxiv.org/abs/2611.17501",
-    "source": "arXiv cs.AI",
-    "date": "2026-11-16",
-    "summary": "Recommendation and Ranking (R&R) models, particularly in digital advertising, require massive inference throughput but exhibit extreme sensitivity to precision loss. Unlike Large Language Models (LLMs...",
-    "category": "models",
-    "id": 29
-  },
-  {
-    "title": "A Push Down the Mountain: Framing Effects and Internal State Interventions on Collusive Behavior in a Long-Horizon LLM Agent",
-    "url": "https://arxiv.org/abs/2611.17515",
-    "source": "arXiv cs.AI",
-    "date": "2026-11-16",
-    "summary": "Can sustained gain-loss (valence) framing sway an LLM agent toward market manipulation? We place Gemma 3 12B into the seat of a defendant in the London silver-fixing litigation, in a market simulation...",
-    "category": "industry",
-    "id": 30
-  },
-  {
-    "title": "Model Annealing: Data-Efficient Learning through Review and Consolidation",
-    "url": "https://arxiv.org/abs/2611.17524",
-    "source": "arXiv cs.AI",
-    "date": "2026-11-16",
-    "summary": "A small labelled dataset is memorized long before the training budget runs out, and the one-hot labels that remain to be fitted then mostly sharpen confidence. Model annealing spends the rest of the b...",
-    "category": "research",
-    "id": 31
-  },
-  {
-    "title": "Astrocyte Biocomputing: Astrocytic Contributions to Neural Network Computation",
-    "url": "https://arxiv.org/abs/2611.17532",
-    "source": "arXiv cs.AI",
-    "date": "2026-11-16",
-    "summary": "Conductors are critical for the performance of an orchestra even though they do not emit sound. Basic research and clinical studies in the last decade are revealing that astrocytes may be the \"conduct...",
-    "category": "hardware",
-    "id": 32
-  },
-  {
-    "title": "Verifiable pXRD: Hill-climbing pXRD structure determination with LLM agents",
-    "url": "https://arxiv.org/abs/2611.17539",
-    "source": "arXiv cs.AI",
-    "date": "2026-11-16",
-    "summary": "Autonomous crystal-structure determination from powder X-ray diffraction (pXRD) remains a key bottleneck for self-driving materials laboratories. We formulate the task of pXRD structure determination ...",
-    "category": "models",
-    "id": 33
-  },
-  {
-    "title": "AI-Voyager: A Public-Interest System for Human-AI Civic Reasoning to Contest and Shape the Rules That Govern AI",
-    "url": "https://arxiv.org/abs/2611.17564",
-    "source": "arXiv cs.AI",
-    "date": "2026-11-16",
-    "summary": "Governments are writing rules for artificial intelligence that decide what counts as an automated decision or a harm, often before the people they affect have a chance to question them. We introduce A...",
-    "category": "research",
-    "id": 34
-  },
-  {
-    "title": "More Agents, More Samples, or More Thinking? Untangling Coordination, Ensembling, and Test-Time Compute in Multi-Agent LLMs",
-    "url": "https://arxiv.org/abs/2611.17610",
-    "source": "arXiv cs.AI",
-    "date": "2026-11-16",
-    "summary": "Evaluations of multi-agent language models often compare communicating architectures against a single greedy pass. This practice confounds coordination with sample multiplicity and inference compute. ...",
-    "category": "research",
-    "id": 35
-  },
-  {
-    "title": "LLM-Guided Cluster Lifecycle Management: Deciding When and How to Evolve Behavioral Clusters",
-    "url": "https://arxiv.org/abs/2611.17616",
-    "source": "arXiv cs.AI",
-    "date": "2026-11-16",
-    "summary": "Behavioral clusters learned over user or item interactions drift as behavior evolves: some fragment into sub-behaviors, some converge, some disappear, and new patterns emerge. Two paradigms dominate t...",
-    "category": "models",
-    "id": 36
-  },
-  {
-    "title": "Safety Side Effects of Preventative Persona Steering: An Empirical Audit",
-    "url": "https://arxiv.org/abs/2611.17620",
-    "source": "arXiv cs.AI",
-    "date": "2026-11-16",
-    "summary": "High-level behaviors such as sycophancy and hallucination correspond to directions in a model's activation space (Chen et al., 2025). These directions, known as persona vectors, can suppress undesirab...",
-    "category": "research",
-    "id": 37
-  },
-  {
-    "title": "AscendGYM: A Cost-Aware Kernel Optimization Benchmark for Real-World Workloads on Ascend NPUs",
-    "url": "https://arxiv.org/abs/2611.17621",
-    "source": "arXiv cs.AI",
-    "date": "2026-11-16",
-    "summary": "Kernel optimization is essential for efficient large language model (LLM) training and inference on Ascend NPUs. Existing Ascend kernel benchmarks primarily focus on kernel generation, with less empha...",
-    "category": "models",
-    "id": 38
-  },
-  {
-    "title": "Generated Evaluation Suites as Diversity-Driven Search for Real Agent Regressions",
-    "url": "https://arxiv.org/abs/2611.17632",
-    "source": "arXiv cs.AI",
-    "date": "2026-11-16",
-    "summary": "Generating an evaluation suite from an agent's specification is diversity-driven search: a generator fills a descriptor space (requirements $\\times$ personas $\\times$ scenario kinds), and the suite it...",
-    "category": "research",
-    "id": 39
-  },
-  {
-    "title": "What LLM Agents See and What Users Say",
-    "url": "https://arxiv.org/abs/2611.17639",
-    "source": "arXiv cs.AI",
-    "date": "2026-11-16",
-    "summary": "Before an LLM agent cancels a reservation or deletes a folder for a user, what stops it from acting on a false assumption: what its tools show, or what the user says? In this work, we study this gap w...",
-    "category": "models",
     "id": 40
   },
   {
-    "title": "Learn then Bet: Learning Interpretable Rules for Reliable Agent Intervention",
-    "url": "https://arxiv.org/abs/2611.17662",
-    "source": "arXiv cs.AI",
+    "title": "Reports of AI-related child sexual abuse material rise 8,400% in two years",
+    "url": "https://www.theguardian.com/technology/2026/nov/16/ai-related-child-sexual-abuse-material-rise-exploitation-deepfakes",
+    "source": "Hacker News",
     "date": "2026-11-16",
-    "summary": "Autonomous agents now run for hundreds of steps with little or no human supervision. In practice, practitioners use runtime monitors such as turn limits and keyword filters to decide when a run should...",
-    "category": "research",
+    "summary": "Article URL: https://www.theguardian.com/technology/2026/nov/16/ai-related-child-sexual-abuse-material-rise-exploitation-deepfakes Comments URL: https://news.ycombinator.com/item?id=50523545 Points: 1...",
+    "category": "industry",
+    "image": "https://i.guim.co.uk/img/media/290c54f9326fd6704518afe33633827e4920b4e8/255_0_1269_1015/master/1269.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=a2409218b017c527425255b8d0940d9d",
     "id": 41
   },
   {
-    "title": "Aligned, Conflicting, or Unspecified? A Diagnostic Benchmark for Multimodal Time Series Forecasting",
-    "url": "https://arxiv.org/abs/2611.17680",
-    "source": "arXiv cs.AI",
+    "title": "Noeri: Launches with $110M to Empower Companies to Build and Own Their AI",
+    "url": "https://www.businesswire.com/news/home/20261116056631/en/Noeri-Founded-by-Leading-Stanford-AI-Professors-Launches-with-%24110-Million-to-Empower-Companies-to-Build-and-Own-Their-AI",
+    "source": "Hacker News",
     "date": "2026-11-16",
-    "summary": "Artificial Intelligence of Things (AIoT) systems increasingly combine sensed time series with external text such as expert reports and news, yet how reliably models use text that agrees or conflicts w...",
-    "category": "models",
+    "summary": "Article URL: https://www.businesswire.com/news/home/20261116056631/en/Noeri-Founded-by-Leading-Stanford-AI-Professors-Launches-with-%24110-Million-to-Empower-Companies-to-Build-and-Own-Their-AI Commen...",
+    "category": "industry",
     "id": 42
   },
   {
-    "title": "OCTAVE: A Capability-Resolved Benchmark for End-to-End HTML5 Game Generation",
-    "url": "https://arxiv.org/abs/2611.17681",
-    "source": "arXiv cs.AI",
+    "title": "Connecting Stock Market to Labor Market During AI Boom",
+    "url": "https://www.frbsf.org/research-and-insights/publications/economic-letter/2026/11/connecting-stock-market-to-labor-market-during-ai-boom/",
+    "source": "Hacker News",
     "date": "2026-11-16",
-    "summary": "Complete game generation requires agents to coordinate rules, interactions, states, and presentation over a long development process. A single aggregate score obscures which capabilities are implement...",
-    "category": "research",
+    "summary": "Article URL: https://www.frbsf.org/research-and-insights/publications/economic-letter/2026/11/connecting-stock-market-to-labor-market-during-ai-boom/ Comments URL: https://news.ycombinator.com/item?id...",
+    "category": "industry",
+    "image": "https://www.frbsf.org/wp-content/uploads/carousel_ER_EL_Connecting-Stock-Market-to-Labor-Market-During-the-AI-Boom_1116.jpg",
     "id": 43
   },
   {
-    "title": "Co-Sight Harness: Externalized Control Assets and Deterministic Enforcement for Long-Horizon Business Agents",
-    "url": "https://arxiv.org/abs/2611.17696",
-    "source": "arXiv cs.AI",
+    "title": "Show HN: Emergency-AI – Offline knowledge base and AI chat (with no Internet)",
+    "url": "https://github.com/skanga/Emergency-AI",
+    "source": "Hacker News",
     "date": "2026-11-16",
-    "summary": "Long-horizon business workflows fail in two ways: errors accumulate as a chain of activities lengthens, and the knowledge an activity needs is written in a different vocabulary from the user's request...",
-    "category": "research",
+    "summary": "Watch the video to understand the use cases for this Comments URL: https://news.ycombinator.com/item?id=50523427 Points: 1 # Comments: 0",
+    "category": "industry",
+    "image": "https://opengraph.githubassets.com/27fa0887a060a94b46a4375bdc38ff983bda0dbd783db21035c1dec02fbac631/skanga/Emergency-AI",
     "id": 44
   },
   {
-    "title": "An AI-enabled high-resolution chlorophyll-a forecasting model that outperforms the operational global biogeochemical system",
-    "url": "https://arxiv.org/abs/2611.17704",
-    "source": "arXiv cs.AI",
+    "title": "The civic intelligence in building AI data centers",
+    "url": "https://www.csmonitor.com/Editorials/the-monitors-view/2026/1116/The-civic-intelligence-in-building-AI-data-centers",
+    "source": "Hacker News",
     "date": "2026-11-16",
-    "summary": "Surface chlorophyll-a concentration is a key indicator of marine phytoplankton variability, and short-term forecasts of its distribution provide advance information for marine ecosystem monitoring and...",
-    "category": "research",
+    "summary": "Article URL: https://www.csmonitor.com/Editorials/the-monitors-view/2026/1116/The-civic-intelligence-in-building-AI-data-centers Comments URL: https://news.ycombinator.com/item?id=50523372 Points: 1 #...",
+    "category": "hardware",
+    "image": "https://images.csmonitor.com/csm/2026/11/1222443_1_Data%20center%20Nevada_standard.jpg?alias=standard_900x600",
     "id": 45
   },
   {
-    "title": "Cross-Linguistic Acoustic Biomarkers of Cognitive Impairment Across Interactive and Single-Speaker Speech Tasks",
-    "url": "https://arxiv.org/abs/2611.17710",
-    "source": "arXiv cs.AI",
+    "title": "California is suing OpenAI over its 'rogue' AI agent hack",
+    "url": "https://calmatters.org/economy/technology/2026/11/california-is-suing-openai-over-hugging-face-hack/",
+    "source": "Hacker News",
     "date": "2026-11-16",
-    "summary": "Multilingual dementia detection is essential for scalable and equitable screening. In recent years, automated speech analysis has emerged as a promising approach for supporting dementia detection by e...",
-    "category": "research",
+    "summary": "Article URL: https://calmatters.org/economy/technology/2026/11/california-is-suing-openai-over-hugging-face-hack/ Comments URL: https://news.ycombinator.com/item?id=50523359 Points: 6 # Comments: 0",
+    "category": "industry",
+    "image": "https://calmatters.org/wp-content/uploads/2026/08/051426-Rob-Bonta-GETTY-CM.jpg",
     "id": 46
   },
   {
-    "title": "Federated Soft Poly-Level Learning Over a Distributed Network with Guaranteed Convergence",
-    "url": "https://arxiv.org/abs/2611.17722",
-    "source": "arXiv cs.AI",
+    "title": "Show HN: Stromboli Open-source AI SRE agent focused on fast incident mitigation",
+    "url": "https://github.com/openstatusHQ/stromboli",
+    "source": "Hacker News",
     "date": "2026-11-16",
-    "summary": "Multi-level learning/optimization, e.g., bilevel optimization, has been recognized for its versatile applicability across a broad array of domains, spanning from signal processing to machine learning....",
-    "category": "models",
+    "summary": "Article URL: https://github.com/openstatusHQ/stromboli Comments URL: https://news.ycombinator.com/item?id=50523348 Points: 1 # Comments: 0",
+    "category": "industry",
+    "image": "https://opengraph.githubassets.com/bc71ceb3ca2ff6bf2f11ed64dd690e9d09851ed3283994c1a0a6b23321bc70ac/openstatusHQ/stromboli",
     "id": 47
   },
   {
-    "title": "A Spectral Framework for Universal Proxy Regularization in Model Merging",
-    "url": "https://arxiv.org/abs/2611.17728",
-    "source": "arXiv cs.AI",
+    "title": "The Fed Is Worried AI Agents Could Trigger a Bank Run",
+    "url": "https://gizmodo.com/the-fed-is-worried-ai-agents-could-trigger-a-bank-run-2000840566",
+    "source": "Hacker News",
     "date": "2026-11-16",
-    "summary": "Model merging constructs multi-task models without expensive joint training but often suffers from parameter interference. Some solutions mitigate this by constraining finetuning using data from the o...",
-    "category": "research",
+    "summary": "Article URL: https://gizmodo.com/the-fed-is-worried-ai-agents-could-trigger-a-bank-run-2000840566 Comments URL: https://news.ycombinator.com/item?id=50523346 Points: 3 # Comments: 0",
+    "category": "industry",
     "id": 48
   },
   {
-    "title": "Knowledge After Collapse: Context and Wording Shape Factual Accessibility in Language Models",
-    "url": "https://arxiv.org/abs/2611.17763",
-    "source": "arXiv cs.AI",
+    "title": "shields.io badge for disclosing use of AI",
+    "url": "https://img.shields.io/badge/made_by-humans_%F0%9F%A7%A0_%2B_%F0%9F%A4%96_ai-FAFAFA?style=flat&labelColor=334155",
+    "source": "Hacker News",
     "date": "2026-11-16",
-    "summary": "When a language model accepts a false correction in a factual discussion, its next answer can depend on how the conversation continues. We introduce Knowledge Answer Divergence (KAD), an event-conditi...",
-    "category": "models",
+    "summary": "Article URL: https://img.shields.io/badge/made_by-humans_%F0%9F%A7%A0_%2B_%F0%9F%A4%96_ai-FAFAFA?style=flat&labelColor=334155 Comments URL: https://news.ycombinator.com/item?id=50523319 Points: 1 # Co...",
+    "category": "industry",
     "id": 49
   },
   {
-    "title": "Certified Improvements to Best-Known Thomson-Problem Configurations with a Search Pipeline Built with Large Language Model Agents",
-    "url": "https://arxiv.org/abs/2611.17776",
-    "source": "arXiv cs.AI",
+    "title": "What I Wrote About Rogue AI in 2016, and What Changed",
+    "url": "https://bhooshan.com/what-i-wrote-about-rogue-ai-in-2016-and-what-changed/",
+    "source": "Hacker News",
     "date": "2026-11-16",
-    "summary": "The Thomson problem asks for N unit charges on a sphere with minimum Coulomb energy; for large N the best configurations known are curated in the Cambridge Cluster Database, whose largest-N entries we...",
-    "category": "models",
+    "summary": "Article URL: https://bhooshan.com/what-i-wrote-about-rogue-ai-in-2016-and-what-changed/ Comments URL: https://news.ycombinator.com/item?id=50523227 Points: 1 # Comments: 0",
+    "category": "industry",
+    "image": "https://bearblog.dev/static/og-image.png",
     "id": 50
   }
 ]
