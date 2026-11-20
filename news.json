@@ -1,14 +1,92 @@
 [
   {
-    "title": "OpenAI helped AMD improve its upcoming flagship GPU design by 14% PPA — GPT models also helped Lisa Su's outfit boost its new CPUs",
+    "title": "Anthropic mathematician claims to have solved 167-year-old math problem with Claude",
+    "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/anthropic-mathematician-claims-to-have-solved-167-year-old-math-problem-with-claude-riemann-hypothesis-proof-allegedly-discovered-but-remains-unconfirmed",
+    "source": "Tom's Hardware",
+    "date": "2026-11-20",
+    "summary": "An anthropic mathematician claims to have solved the Riemann hypothesis using Claude.",
+    "category": "models",
+    "image": "https://cdn.mos.cms.futurecdn.net/FpyrzhxuSBtv2GwT3GsT95-1920-80.jpg",
+    "id": 1,
+    "featured": true
+  },
+  {
+    "title": "Can AI help scientists identify promising drug candidates?",
+    "url": "https://openai.com/index/introducing-medchembench",
+    "source": "OpenAI Blog",
+    "date": "2026-11-20",
+    "summary": "MedChemBench evaluates how well AI models interpret molecular structures, reason from experimental evidence, and select compounds in early drug discovery.",
+    "category": "industry",
+    "id": 2
+  },
+  {
+    "title": "Combatting adversarial distillation",
+    "url": "https://openai.com/index/combatting-adversarial-distillation",
+    "source": "OpenAI Blog",
+    "date": "2026-11-20",
+    "summary": "OpenAI’s layered approach to adversarial distillation combines model training, safeguards, detection, and enforcement to protect against capability extraction.",
+    "category": "research",
+    "id": 3
+  },
+  {
+    "title": "Phison details SSD with a built-in NPU and 64GB of memory that supports AI frameworks on the drive",
+    "url": "https://www.tomshardware.com/pc-components/ssds/phison-details-ssd-with-a-built-in-npu-and-64gb-of-memory-that-supports-pytorch-and-llama-cpp-running-on-the-drive-second-design-merges-fast-pslc-cache-and-qlc-capacity-behind-one-controller",
+    "source": "Tom's Hardware",
+    "date": "2026-11-20",
+    "summary": "Phison showed a computational-storage SSD with an NPU and 64GB of memory, plus Mixed Media pSLC and QLC drives, at SC26.",
+    "category": "hardware",
+    "image": "https://cdn.mos.cms.futurecdn.net/BzuF4iUiRQ36JLAhHEkUKF-1920-80.jpg",
+    "id": 4
+  },
+  {
+    "title": "Lawyer’s $9,450 private AI server with 12 used Nvidia V100s now runs every DeepSeek V4.1 Flash expert",
+    "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/lawyers-usd9-450-private-ai-server-of-12-used-nvidia-v100s-now-runs-every-deepseek-v4-1-flash-expert-at-4-bit-nvfp4-up-to-184-tokens-per-second-on-code-and-long-documents-start-answering-in-about-half-the-time",
+    "source": "Tom's Hardware",
+    "date": "2026-11-20",
+    "summary": "A lawyer’s private AI server now runs DeepSeek V4.1 Flash on 12 used Nvidia V100 GPUs, with every expert at 4-bit NVFP4.",
+    "category": "hardware",
+    "image": "https://cdn.mos.cms.futurecdn.net/qrcXVadrnHCujLevKcYhvG-1920-80.jpg",
+    "id": 5
+  },
+  {
+    "title": "MSI EdgeMesa N AI+ review: RTX Spark power comes to Windows on Arm desktops, but there are trade-offs",
+    "url": "https://www.tomshardware.com/desktops/mini-pcs/msi-edgemesa-n-ai-plus-review",
+    "source": "Tom's Hardware",
+    "date": "2026-11-20",
+    "summary": "MSI's EdgeMesa N AI+ brings Nvidia RTX Spark N1X power to a Windows-on-Arm mini PC with 128GB of unified memory, strong local AI performance, and the ability to game on the side. But its high $7,499 p...",
+    "category": "hardware",
+    "image": "https://cdn.mos.cms.futurecdn.net/WPYDMgTLPyiFtgLo3Et3bn-1920-80.jpg",
+    "id": 6
+  },
+  {
+    "title": "Power and cooling limits force AI clusters with 100,000+ accelerators to use multiple data centers",
+    "url": "https://www.tomshardware.com/tech-industry/supercomputers/power-and-cooling-limits-push-100-000-accelerator-ai-clusters-past-single-data-centers-google-cisco-and-marvell-target-scale-across-networking-across-regions",
+    "source": "Tom's Hardware",
+    "date": "2026-11-20",
+    "summary": "Faster GPUs are no longer enough as power constraints, network congestion, and communication overhead force the industry to rethink how massive AI systems are built.",
+    "category": "hardware",
+    "image": "https://cdn.mos.cms.futurecdn.net/MQEF3FGDnEs6gC4KtkGjKG-1920-80.jpg",
+    "id": 7
+  },
+  {
+    "title": "Redditor forced to bring desktop PC in checked luggage on US-to-UK flight with GPU still installed",
+    "url": "https://www.tomshardware.com/desktops/gaming-pcs/redditor-puts-pc-into-checked-baggage-from-us-to-uk-flight-desktop-unit-miraculously-arrives-in-one-piece",
+    "source": "Tom's Hardware",
+    "date": "2026-11-20",
+    "summary": "A pissed traveler decided to check their desktop CPU after a check-in attendant refused to have it carried in the cabin, despite being historically allowed by the airline.",
+    "category": "hardware",
+    "image": "https://cdn.mos.cms.futurecdn.net/ZVUfmduJvkhQ95gx3zpH4a-1920-80.png",
+    "id": 8
+  },
+  {
+    "title": "OpenAI's AI models boost AMD's upcoming flagship GPU design by up to 14% in PPA",
     "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/openai-helped-amd-improve-its-upcoming-flagship-gpu-design-by-14-percent-ppa-gpt-models-also-helping-lisa-sus-outfit-boost-its-new-cpus",
     "source": "Tom's Hardware",
     "date": "2026-11-20",
     "summary": "OpenAI helped AMD improve its upcoming flagship GPU design by 14% PPA — GPT models also helping Lisa Su's outfit boost its new CPUs",
     "category": "hardware",
     "image": "https://cdn.mos.cms.futurecdn.net/yS3AgV3zrTm8EwpR26QH6k-1920-80.png",
-    "id": 1,
-    "featured": true
+    "id": 9
   },
   {
     "title": "Autonomous 5-ton John Deere skid-steer loader trained to perform acrobatic maneuvers using AI",
@@ -18,7 +96,47 @@
     "summary": "Videos of an incredibly acrobatic, nimble, and graceful John Deere 332G 5-tonne skid-steer loader have been shared by a group of researchers from the U.S. and Switzerland.",
     "category": "research",
     "image": "https://cdn.mos.cms.futurecdn.net/xCuvK8cV3WRwhWh3FfgPGN-1920-80.jpg",
-    "id": 2
+    "id": 10
+  },
+  {
+    "title": "AI claimed a solution to the 167 year-old Riemann Hypothesis — and a human did, too",
+    "url": "https://techcrunch.com/2026/11/20/ai-claimed-a-solution-to-the-167-year-old-riemann-hypothesis-and-a-human-did-too/",
+    "source": "TechCrunch",
+    "date": "2026-11-20",
+    "summary": "Mathematicians are having their minds blown by the latest AI-driven result—and there's a competing human solution, too.",
+    "category": "industry",
+    "image": "https://techcrunch.com/wp-content/uploads/2022/08/GettyImages-1219382595.jpg?resize=1200,750",
+    "id": 11
+  },
+  {
+    "title": "Chips can survive the space environment — can their financing?",
+    "url": "https://techcrunch.com/2026/11/20/chips-can-survive-the-space-environment-can-their-financing/",
+    "source": "TechCrunch",
+    "date": "2026-11-20",
+    "summary": "Lenders don't want SpaceX shooting their collateral into orbit. What does that mean for space data centers writ large?",
+    "category": "hardware",
+    "image": "https://techcrunch.com/wp-content/uploads/2026/06/SpaceXAIsatrender.jpg?resize=1200,639",
+    "id": 12
+  },
+  {
+    "title": "The fallout from Nvidia’s Jensen Huang scandal continues",
+    "url": "https://techcrunch.com/podcast/the-fallout-from-nvidias-jensen-huang-scandal-continues/",
+    "source": "TechCrunch",
+    "date": "2026-11-20",
+    "summary": "In the midst of dealing with the fallout from its ouster of CEO Jensen Huang, Nvidia delivered its latest earnings report this week, with healthy growth and promises that the good times will continue....",
+    "category": "hardware",
+    "image": "https://techcrunch.com/wp-content/uploads/2026/11/Jensen-Huang.jpg?w=1024",
+    "id": 13
+  },
+  {
+    "title": "Six AI-powered gadgets that could make your home office smarter",
+    "url": "https://techcrunch.com/2026/11/20/6-ai-powered-gadgets-that-could-make-your-home-office-smarter/",
+    "source": "TechCrunch",
+    "date": "2026-11-20",
+    "summary": "From notetakers to webcams, here are six AI-powered gadgets to upgrade your workspace.",
+    "category": "industry",
+    "image": "https://techcrunch.com/wp-content/uploads/2023/08/GettyImages-1348850409.jpg?resize=1200,800",
+    "id": 14
   },
   {
     "title": "Apple may be developing its own AI agent that runs your Mac",
@@ -28,7 +146,7 @@
     "summary": "The iPhone maker appears to be building agents that can compete with the likes of Meta Muse, Instinct, Claude, and OpenAI Dots.",
     "category": "models",
     "image": "https://techcrunch.com/wp-content/uploads/2026/06/iphone-usb-cable.jpg?resize=1200,800",
-    "id": 3
+    "id": 15
   },
   {
     "title": "Anthropic’s 7 founders cashed out nearly $2B in record-breaking IPO",
@@ -38,192 +156,199 @@
     "summary": "At the upgraded $83/share IPO price, Anthropic's seven founders each pocketed $280 million, while the company nabbed nearly $105 billion.",
     "category": "industry",
     "image": "https://techcrunch.com/wp-content/uploads/2026/11/antrhopic-openingday-getty.jpg?resize=1200,801",
-    "id": 4
-  },
-  {
-    "title": "Show HN: Interviewer assistant – AI open source",
-    "url": "https://github.com/blackarck/intaiassist",
-    "source": "Hacker News",
-    "date": "2026-11-20",
-    "summary": "Article URL: https://github.com/blackarck/intaiassist Comments URL: https://news.ycombinator.com/item?id=50572899 Points: 1 # Comments: 0",
-    "category": "tools",
-    "image": "https://opengraph.githubassets.com/2fbe63af0a08894f81441601e3d92f52440a9589965e62a4c85b8cbc16bc575f/blackarck/intaiassist",
-    "id": 5
-  },
-  {
-    "title": "Thoughts from Before and After AI",
-    "url": "https://chevyclutchfoot.substack.com/p/thought-process-before-and-after",
-    "source": "Hacker News",
-    "date": "2026-11-20",
-    "summary": "Article URL: https://chevyclutchfoot.substack.com/p/thought-process-before-and-after Comments URL: https://news.ycombinator.com/item?id=50572638 Points: 1 # Comments: 0",
-    "category": "industry",
-    "id": 6
-  },
-  {
-    "title": "Greece's PM Mitsotakis and Greek AI Founders [video]",
-    "url": "https://www.youtube.com/watch?v=Gis_2Y_pLOo",
-    "source": "Hacker News",
-    "date": "2026-11-20",
-    "summary": "Article URL: https://www.youtube.com/watch?v=Gis_2Y_pLOo Comments URL: https://news.ycombinator.com/item?id=50572626 Points: 1 # Comments: 0",
-    "category": "industry",
-    "id": 7
-  },
-  {
-    "title": "AI Is Making China's Jobs Slump Worse",
-    "url": "https://www.bloomberg.com/graphics/2026-china-ai-jobs-slump/",
-    "source": "Hacker News",
-    "date": "2026-11-20",
-    "summary": "Article URL: https://www.bloomberg.com/graphics/2026-china-ai-jobs-slump/ Comments URL: https://news.ycombinator.com/item?id=50572621 Points: 4 # Comments: 0",
-    "category": "industry",
-    "id": 8
-  },
-  {
-    "title": "Cool Flex AI Bro",
-    "url": "https://interconnected.org/home/2026/11/20/flex",
-    "source": "Hacker News",
-    "date": "2026-11-20",
-    "summary": "Article URL: https://interconnected.org/home/2026/11/20/flex Comments URL: https://news.ycombinator.com/item?id=50572577 Points: 2 # Comments: 0",
-    "category": "industry",
-    "image": "https://interconnected.org/home/2026/11/20/flex.png?v=1",
-    "id": 9
-  },
-  {
-    "title": "Google DeepMind AI predicts Hurricane Melissa path and strength",
-    "url": "https://hyper.ai/cn/stories/cd12451364b2d99638b382e350c3d12a",
-    "source": "Hacker News",
-    "date": "2026-11-20",
-    "summary": "Article URL: https://hyper.ai/cn/stories/cd12451364b2d99638b382e350c3d12a Comments URL: https://news.ycombinator.com/item?id=50572553 Points: 2 # Comments: 0",
-    "category": "industry",
-    "image": "https://hyper.ai/cn/stories/cd12451364b2d99638b382e350c3d12a/opengraph-image-1s22t9?32936e27efa0879c",
-    "id": 10
-  },
-  {
-    "title": "Frostbite: A new CPU architecture discovered, designed and verified by AI",
-    "url": "https://architectlabs.com/blog/frostbite",
-    "source": "Hacker News",
-    "date": "2026-11-20",
-    "summary": "Article URL: https://architectlabs.com/blog/frostbite Comments URL: https://news.ycombinator.com/item?id=50572503 Points: 57 # Comments: 38",
-    "category": "hardware",
-    "image": "https://main--gleeful-begonia-6bb5f3.netlify.app/_next/static/media/frostbite-cover.3n9ytugnquhlr.jpg",
-    "id": 11
-  },
-  {
-    "title": "Anatomy of an AI-driven attack: What ARTEX looks like in action",
-    "url": "https://bitrise.io/artex-incident-report",
-    "source": "Hacker News",
-    "date": "2026-11-20",
-    "summary": "Article URL: https://bitrise.io/artex-incident-report Comments URL: https://news.ycombinator.com/item?id=50572416 Points: 2 # Comments: 0",
-    "category": "industry",
-    "image": "https://bitrise.io/artex-incident-report/og.png",
-    "id": 12
-  },
-  {
-    "title": "AI incidents of 2026: Rogue agents, stolen keys, and other familiar stories",
-    "url": "https://www.aikido.dev/blog/ai-incidents-root-causes-patterns",
-    "source": "Hacker News",
-    "date": "2026-11-20",
-    "summary": "Article URL: https://www.aikido.dev/blog/ai-incidents-root-causes-patterns Comments URL: https://news.ycombinator.com/item?id=50572347 Points: 4 # Comments: 0",
-    "category": "industry",
-    "image": "https://cdn.prod.website-files.com/642adcaf364024654c71df23/6aff2c3ffdcb0c2a004e3e30_2026%27s_AI_security_incidents_OG.png",
-    "id": 13
-  },
-  {
-    "title": "Energy Wins Driving Optical Computing AI",
-    "url": "https://spectrum.ieee.org/optical-computing-ai",
-    "source": "Hacker News",
-    "date": "2026-11-20",
-    "summary": "Article URL: https://spectrum.ieee.org/optical-computing-ai Comments URL: https://news.ycombinator.com/item?id=50572344 Points: 3 # Comments: 0",
-    "category": "industry",
-    "image": "https://spectrum.ieee.org/media-library/close-up-of-a-green-circuit-board-with-a-central-microchip-and-intricate-traces.jpg?id=68692424&width=1200&height=600&coordinates=0%2C531%2C0%2C531",
-    "id": 14
-  },
-  {
-    "title": "Maintainers don't need more AI bug reports. They need fixes",
-    "url": "https://github.blog/open-source/maintainers/maintainers-dont-need-more-ai-bug-reports-they-need-fixes/",
-    "source": "Hacker News",
-    "date": "2026-11-20",
-    "summary": "Article URL: https://github.blog/open-source/maintainers/maintainers-dont-need-more-ai-bug-reports-they-need-fixes/ Comments URL: https://news.ycombinator.com/item?id=50572306 Points: 1 # Comments: 0",
-    "category": "industry",
-    "image": "https://github.blog/wp-content/uploads/2026/11/image-17.png",
-    "id": 15
-  },
-  {
-    "title": "Britain must not rely on foreign AI, says former military intelligence chief",
-    "url": "https://uk.news.yahoo.com/britain-must-not-rely-foreign-180000606.html",
-    "source": "Hacker News",
-    "date": "2026-11-20",
-    "summary": "Article URL: https://uk.news.yahoo.com/britain-must-not-rely-foreign-180000606.html Comments URL: https://news.ycombinator.com/item?id=50572295 Points: 3 # Comments: 0",
-    "category": "hardware",
-    "image": "https://s.yimg.com/lo/mysterio/api/808546d1c9f7bbdfbf8a75cf5e2a868edcc44b2324f24e0df434cf8f1f55a71c/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fthe_telegraph_818%2Fb4af5cdd2eeb19377f6e715eb92e712e.jpg_up.jpg",
     "id": 16
   },
   {
-    "title": "Being a designer in an AI-forward team",
-    "url": "https://langfuse.com/blog/2026-11-19-comfortable-with-being-uncomfortable",
+    "title": "The use of AI based tools to find bugs in Open Source software",
+    "url": "https://www.haproxy.com/blog/on-the-use-of-ai-based-tools-to-find-bugs-in-open-source-software",
     "source": "Hacker News",
     "date": "2026-11-20",
-    "summary": "Article URL: https://langfuse.com/blog/2026-11-19-comfortable-with-being-uncomfortable Comments URL: https://news.ycombinator.com/item?id=50572152 Points: 2 # Comments: 0",
-    "category": "industry",
-    "image": "https://langfuse.com/api/og?title=Comfortable+with+being+uncomfortable&description=What+it+means+to+be+a+designer+in+an+AI-forward+team&section=Blog",
+    "summary": "Article URL: https://www.haproxy.com/blog/on-the-use-of-ai-based-tools-to-find-bugs-in-open-source-software Comments URL: https://news.ycombinator.com/item?id=50580695 Points: 1 # Comments: 0",
+    "category": "tools",
+    "image": "https://www.haproxy.com/img/containers/posts/on-the-use-of-ai-based-tools-to-find-bugs-in-open-source-software.png/20d9dd7788fcfd8feb07f1fbd0114e12/on-the-use-of-ai-based-tools-to-find-bugs-in-open-source-software.png",
     "id": 17
   },
   {
-    "title": "AI Can Draw Any Frame. Animation Is Not Its Strong Suit",
-    "url": "https://sbsgames.dev/blog/ai-sprite-animation",
+    "title": "Dutch data watchdog highlights safety issues with AI glasses",
+    "url": "https://www.theregister.com/security/2026/11/20/dutch-data-watchdog-highlights-safety-issues-with-ai-glasses/5311345",
     "source": "Hacker News",
     "date": "2026-11-20",
-    "summary": "Article URL: https://sbsgames.dev/blog/ai-sprite-animation Comments URL: https://news.ycombinator.com/item?id=50572144 Points: 1 # Comments: 0",
-    "category": "industry",
-    "image": "https://sbsgames.dev/blog/ai-sprite-animation/cover.jpg",
+    "summary": "Article URL: https://www.theregister.com/security/2026/11/20/dutch-data-watchdog-highlights-safety-issues-with-ai-glasses/5311345 Comments URL: https://news.ycombinator.com/item?id=50580461 Points: 2 ...",
+    "category": "research",
+    "image": "https://image.theregister.com/5308699.jpg?imageId=5308699&x=0&y=0&cropw=100&croph=100&panox=0&panoy=0&panow=100&panoh=100&width=1200&height=683",
     "id": 18
   },
   {
-    "title": "WavePP: High-Throughput Pipeline Parallel LLM Prefill Under Prefix Reuse",
-    "url": "https://arxiv.org/abs/2609.35263",
+    "title": "Ask HN: How do you use AI for exploring new codebases",
+    "url": "https://news.ycombinator.com/item?id=50580331",
     "source": "Hacker News",
     "date": "2026-11-20",
-    "summary": "Article URL: https://arxiv.org/abs/2609.35263 Comments URL: https://news.ycombinator.com/item?id=50572029 Points: 1 # Comments: 0",
-    "category": "models",
+    "summary": "Joined a new team recently. Big monolithic monorepo. A huge and complex system with lots of inputs, outputs, knobs and extensions. Looking for a good way to tame the chaos and the overwhelming amount ...",
+    "category": "hardware",
     "id": 19
   },
   {
-    "title": "Enemy AI: chasing a player without Navigation2D or A* pathfinding (2020)",
-    "url": "https://abitawake.com/news/articles/enemy-ai-chasing-a-player-without-navigation2d-or-a-star-pathfinding",
+    "title": "Q4 2026 AI Patterns",
+    "url": "https://www.tbray.org/ongoing/When/202x/2026/11/18/AI-Patterns",
     "source": "Hacker News",
     "date": "2026-11-20",
-    "summary": "Article URL: https://abitawake.com/news/articles/enemy-ai-chasing-a-player-without-navigation2d-or-a-star-pathfinding Comments URL: https://news.ycombinator.com/item?id=50571783 Points: 2 # Comments: ...",
+    "summary": "Article URL: https://www.tbray.org/ongoing/When/202x/2026/11/18/AI-Patterns Comments URL: https://news.ycombinator.com/item?id=50580240 Points: 2 # Comments: 0",
     "category": "industry",
-    "image": "https://static.manakeep.com/photos/2020/04/08/1fy3e4avj6_enemy_ai_chasing.gif",
     "id": 20
   },
   {
-    "title": "Show HN: Prove what your AI agent did – sign actions, verify in the browser",
-    "url": "https://agentproofchain.com/try/",
+    "title": "Isolated Linux workstations for autonomous AI agents",
+    "url": "https://github.com/Sanne/incus-spawn",
     "source": "Hacker News",
     "date": "2026-11-20",
-    "summary": "Article URL: https://agentproofchain.com/try/ Comments URL: https://news.ycombinator.com/item?id=50571709 Points: 3 # Comments: 1",
+    "summary": "Article URL: https://github.com/Sanne/incus-spawn Comments URL: https://news.ycombinator.com/item?id=50580089 Points: 3 # Comments: 0",
     "category": "industry",
-    "image": "https://agentproofchain.com/try/card.png",
+    "image": "https://opengraph.githubassets.com/a34652d5f8d60dfdab87762ea04e95e0be730fa5bf7993b0006537c118f5481f/Sanne/incus-spawn",
     "id": 21
   },
   {
-    "title": "What Shaped Anthropic CEO Dario Amodei's Thinking on AI",
-    "url": "https://www.nytimes.com/2026/11/05/technology/dario-amodei-anthropic-ai.html",
+    "title": "'Just Ridiculous': A Famed Philosopher Takes on AI Consciousness",
+    "url": "https://www.wired.com/story/just-ridiculous-a-famed-philosopher-takes-on-ai-consciousness/",
     "source": "Hacker News",
     "date": "2026-11-20",
-    "summary": "Article URL: https://www.nytimes.com/2026/11/05/technology/dario-amodei-anthropic-ai.html Comments URL: https://news.ycombinator.com/item?id=50571432 Points: 1 # Comments: 0",
+    "summary": "Article URL: https://www.wired.com/story/just-ridiculous-a-famed-philosopher-takes-on-ai-consciousness/ Comments URL: https://news.ycombinator.com/item?id=50579985 Points: 2 # Comments: 0",
     "category": "industry",
+    "image": "https://media.wired.com/photos/6afcfb207b0def85d03dac43/191:100/w_1280,c_limit/Thomas-Nagel-QandA-Business.jpg",
     "id": 22
   },
   {
-    "title": "Austria launches public consultation for its national AI agenda",
-    "url": "https://www.kipppunkt.gv.at/",
+    "title": "Aura v0.2.0: Turning AI Anti-Fraud into a Deterministic Engine",
+    "url": "https://medium.com/@kate8382/aura-v0-2-0-turning-an-ai-anti-fraud-idea-into-a-real-engine-without-losing-my-mind-2e3e2022219d",
     "source": "Hacker News",
     "date": "2026-11-20",
-    "summary": "Article URL: https://www.kipppunkt.gv.at/ Comments URL: https://news.ycombinator.com/item?id=50571423 Points: 4 # Comments: 0",
+    "summary": "Article URL: https://medium.com/@kate8382/aura-v0-2-0-turning-an-ai-anti-fraud-idea-into-a-real-engine-without-losing-my-mind-2e3e2022219d Comments URL: https://news.ycombinator.com/item?id=50579604 P...",
     "category": "industry",
-    "image": "https://www.kipppunkt.gv.at/og.jpg",
     "id": 23
+  },
+  {
+    "title": "Why software engineers will survive the AI era",
+    "url": "https://coryalthoff.com/essays/software-engineers-will-survive-the-ai-era",
+    "source": "Hacker News",
+    "date": "2026-11-20",
+    "summary": "Article URL: https://coryalthoff.com/essays/software-engineers-will-survive-the-ai-era Comments URL: https://news.ycombinator.com/item?id=50579480 Points: 1 # Comments: 2",
+    "category": "industry",
+    "id": 24
+  },
+  {
+    "title": "Hockeysticky – For solo founders and small teams who can ship with AI",
+    "url": "https://hockeysticky.com",
+    "source": "Hacker News",
+    "date": "2026-11-20",
+    "summary": "Article URL: https://hockeysticky.com Comments URL: https://news.ycombinator.com/item?id=50579361 Points: 1 # Comments: 0",
+    "category": "industry",
+    "image": "https://pub-bb2e103a32db4e198524a2e9ed8f35b4.r2.dev/lovp_4t1z3ftt329phbddm3rmwbs51v/d730331b4812154b238a9deb9924d55e_1795198945800.png",
+    "id": 25
+  },
+  {
+    "title": "Keeping AI Coding Agent Memory Relevant as Code Changes",
+    "url": "https://enola.tech/blog/agent-memory-needs-a-code-reference",
+    "source": "Hacker News",
+    "date": "2026-11-20",
+    "summary": "Article URL: https://enola.tech/blog/agent-memory-needs-a-code-reference Comments URL: https://news.ycombinator.com/item?id=50579337 Points: 2 # Comments: 0",
+    "category": "hardware",
+    "image": "https://enola.tech/assets/og-cat.png",
+    "id": 26
+  },
+  {
+    "title": "European rights court bars Romanian lawyer for 2 years over AI citations",
+    "url": "https://www.echr.coe.int/w/romanian-lawyer-barred-for-two-years-from-representing-applicants-before-the-court-over-unverified-ai-generated-citations",
+    "source": "Hacker News",
+    "date": "2026-11-20",
+    "summary": "Article URL: https://www.echr.coe.int/w/romanian-lawyer-barred-for-two-years-from-representing-applicants-before-the-court-over-unverified-ai-generated-citations Comments URL: https://news.ycombinator...",
+    "category": "industry",
+    "id": 27
+  },
+  {
+    "title": "Anthropic's post-debut stumble delivers reality check for AI trade",
+    "url": "https://www.reuters.com/business/anthropics-post-debut-stumble-delivers-reality-check-ai-trade-2026-11-20/",
+    "source": "Hacker News",
+    "date": "2026-11-20",
+    "summary": "Article URL: https://www.reuters.com/business/anthropics-post-debut-stumble-delivers-reality-check-ai-trade-2026-11-20/ Comments URL: https://news.ycombinator.com/item?id=50579190 Points: 1 # Comments...",
+    "category": "industry",
+    "id": 28
+  },
+  {
+    "title": "Ask HN: Did you buy hardware for Local AI?",
+    "url": "https://news.ycombinator.com/item?id=50578897",
+    "source": "Hacker News",
+    "date": "2026-11-20",
+    "summary": "With the release of some new platforms having 128GB or more of unified memories, I am wondering if I should spend some money on those. I am looking for feedback and stories of people who bought hardwa...",
+    "category": "tools",
+    "id": 29
+  },
+  {
+    "title": "Chinese attackers used AI agents to find and exploit a university zero-day",
+    "url": "https://www.theregister.com/security/2026/11/20/china-attackers-deployed-ai-agents-that-autonomously-found-and-exploited-a-0-day-to-take-over-a-university-server/5311382",
+    "source": "Hacker News",
+    "date": "2026-11-20",
+    "summary": "Article URL: https://www.theregister.com/security/2026/11/20/china-attackers-deployed-ai-agents-that-autonomously-found-and-exploited-a-0-day-to-take-over-a-university-server/5311382 Comments URL: htt...",
+    "category": "hardware",
+    "image": "https://image.theregister.com/5311400.jpg?imageId=5311400&x=0&y=0&cropw=100&croph=100&panox=0&panoy=0&panow=100&panoh=100&width=1200&height=683",
+    "id": 30
+  },
+  {
+    "title": "Show HN: Out of Policy – Break an AI agent's spending guard for $75 USDC",
+    "url": "https://play.outbid.sh",
+    "source": "Hacker News",
+    "date": "2026-11-20",
+    "summary": "Article URL: https://play.outbid.sh Comments URL: https://news.ycombinator.com/item?id=50578763 Points: 1 # Comments: 0",
+    "category": "industry",
+    "image": "https://outbid.sh/og.png",
+    "id": 31
+  },
+  {
+    "title": "Suspicious Minds: Unmonitorable AI Undermines Accountability",
+    "url": "https://www.lawfaremedia.org/article/suspicious-minds--unmonitorable-ai-undermines-accountability",
+    "source": "Hacker News",
+    "date": "2026-11-20",
+    "summary": "Article URL: https://www.lawfaremedia.org/article/suspicious-minds--unmonitorable-ai-undermines-accountability Comments URL: https://news.ycombinator.com/item?id=50578740 Points: 1 # Comments: 0",
+    "category": "industry",
+    "image": "https://lawfare-assets-new.azureedge.net/assets/images/default-source/article-images/artificial-intelligence-(ai)-security.jpg?sfvrsn=982907ba_5",
+    "id": 32
+  },
+  {
+    "title": "How many Phrack 73 articles used AI?",
+    "url": "https://dustri.org/b/how-many-phrack-73-articles-used-ai.html",
+    "source": "Hacker News",
+    "date": "2026-11-20",
+    "summary": "Article URL: https://dustri.org/b/how-many-phrack-73-articles-used-ai.html Comments URL: https://news.ycombinator.com/item?id=50578593 Points: 1 # Comments: 0",
+    "category": "hardware",
+    "id": 33
+  },
+  {
+    "title": "Starwright – a browser orbital flight game written by AI agents",
+    "url": "https://github.com/jsmith0475/Starwright",
+    "source": "Hacker News",
+    "date": "2026-11-20",
+    "summary": "Article URL: https://github.com/jsmith0475/Starwright Comments URL: https://news.ycombinator.com/item?id=50578585 Points: 1 # Comments: 0",
+    "category": "industry",
+    "image": "https://opengraph.githubassets.com/5d6485780b87b9cf2208458d4094d714af4bac243969ae99ad11455ac273be66/jsmith0475/Starwright",
+    "id": 34
+  },
+  {
+    "title": "The most misunderstood graph in AI just got a major update",
+    "url": "https://www.technologyreview.com/2026/11/20/1149399/the-most-misunderstood-graph-in-ai-just-got-a-major-update/",
+    "source": "MIT Tech Review",
+    "date": "2026-11-20",
+    "summary": "A new report from the AI evaluation nonprofit METR finds that some AI capabilities are continuing to improve along an exponential trajectory—but it also indicates that models aren’t quite as good at t...",
+    "category": "research",
+    "image": "https://wp.technologyreview.com/wp-content/uploads/2026/11/metr2a.jpg?resize=1200,600",
+    "id": 35
+  },
+  {
+    "title": "Muse Is Unleashing a World of Pettiness on Instagram",
+    "url": "https://www.wired.com/story/muse-is-unleashing-a-world-of-pettiness-on-instagram/",
+    "source": "Wired",
+    "date": "2026-11-20",
+    "summary": "Meta’s AI assistant can track and unfollow Instagram users who don’t follow you back—and some people are taking full advantage.",
+    "category": "hardware",
+    "image": "https://media.wired.com/photos/6aff9abb37d7793ac7889730/191:100/w_1280,c_limit/Meta-Muse-Pettiness-Culture.jpg",
+    "id": 36
   },
   {
     "title": "This 16-Year-Old Founded an AI Missile Startup. He’s Targeting ‘Cost per Kill’",
@@ -233,7 +358,7 @@
     "summary": "Henrijs Dandzbergs dropped out of high school to join startup accelerator Y Combinator. With a new breed of missile, he wants to make killing as efficient as possible for the US and its military allie...",
     "category": "hardware",
     "image": "https://media.wired.com/photos/6aff9b51715a3d6f512c8dee/191:100/w_1280,c_limit/The-Boy-Who-Builds-Missiles-Business.jpg",
-    "id": 24
+    "id": 37
   },
   {
     "title": "Closing the Analyze-to-Design Gap: An Authorization-Bounded Agent for Self-Driving Laboratories",
@@ -242,7 +367,7 @@
     "date": "2026-11-20",
     "summary": "Artificial intelligence (AI) agents are increasingly integrated into self-driving laboratories (SDLs) to plan experiments and interpret results. However, analytical reasoning alone does not make a lab...",
     "category": "research",
-    "id": 25
+    "id": 38
   },
   {
     "title": "An LLM-Agentic Framework for Intelligent Work Order Management in Industrial Maintenance",
@@ -251,7 +376,7 @@
     "date": "2026-11-20",
     "summary": "This paper presents an AI-driven framework, CodeReAct agent, designed to enhance industrial equipment maintenance through natural language (NL) interactions. The framework employs an advanced AI agent...",
     "category": "tools",
-    "id": 26
+    "id": 39
   },
   {
     "title": "SailSearch: Agent-Assisted Discovery in Combinatorial Optimization",
@@ -260,7 +385,7 @@
     "date": "2026-11-20",
     "summary": "We present SailSearch, a human-guided workflow for algorithmic research with two language-model agents, and report results on Market Split and maximum independent set (MIS). For Market Split, our rand...",
     "category": "research",
-    "id": 27
+    "id": 40
   },
   {
     "title": "BuggyMLE: Scaling Machine Learning Engineering Difficulty with Bug Injection",
@@ -269,7 +394,7 @@
     "date": "2026-11-20",
     "summary": "Enabling AI systems to autonomously improve AI models requires agents capable of performing machine learning engineering (MLE). In practice, designing, training, and evaluating complex models demands ...",
     "category": "models",
-    "id": 28
+    "id": 41
   },
   {
     "title": "CoMPASS: A Multi-Turn Benchmark for Measuring LLM Reinforcement of Parasocial Behavior",
@@ -278,7 +403,7 @@
     "date": "2026-11-20",
     "summary": "Users of conversational LLMs sometimes anthropomorphize these systems, form emotional attachments to them, and become dependent on them. This behavior, known as parasocial attachment, has been linked ...",
     "category": "models",
-    "id": 29
+    "id": 42
   },
   {
     "title": "DSFlow: A Neuro-Symbolic Data Workflow Agent with Statistical Diagnostic Guardrails",
@@ -287,7 +412,7 @@
     "date": "2026-11-20",
     "summary": "Data science workflows often require tools that presume non-trivial technical knowledge. Large language models (LLMs) reduce this barrier, but a gap remains between flexible general-purpose agents and...",
     "category": "models",
-    "id": 30
+    "id": 43
   },
   {
     "title": "Calibrated Decision Rewards: Training Language Models with a Judge That Knows How Sure It Is",
@@ -296,7 +421,7 @@
     "date": "2026-11-20",
     "summary": "Reinforcement learning (RL) can only teach a language model what its reward can recognize. Answer checkers are exact but need a reference answer; learned reward models and LLM judges work everywhere, ...",
     "category": "models",
-    "id": 31
+    "id": 44
   },
   {
     "title": "EverydayBench: Evaluating Satisfactory Completion of Live User-Facing Digital Work",
@@ -305,7 +430,7 @@
     "date": "2026-11-20",
     "summary": "Everyday digital tasks, from selecting products and planning trips to conducting research and creating artifacts, require AI agents to deliver useful outcomes rather than merely retrieve web informati...",
     "category": "models",
-    "id": 32
+    "id": 45
   },
   {
     "title": "A Verifier from the Past: Test-Time Compute for Time Series Foundation Models",
@@ -314,7 +439,7 @@
     "date": "2026-11-20",
     "summary": "Test-time compute (TTC) improves language models by spending additional inference compute to generate, verify, and select among candidate outputs, but this recipe has not transferred directly to time ...",
     "category": "models",
-    "id": 33
+    "id": 46
   },
   {
     "title": "An AI-Powered Multiverse Analysis of Empirical Finance Research: Evidence from Reused Natural Experiments",
@@ -323,7 +448,7 @@
     "date": "2026-11-20",
     "summary": "Empirical finance research often reuses natural experiments to study other outcomes, raising concerns about multiple testing and publication bias. We use AI agents to run a multiverse analysis of 324 ...",
     "category": "research",
-    "id": 34
+    "id": 47
   },
   {
     "title": "When AI Analysts Disagree: Agentic Multiverse Analysis and the Robustness of Empirical Research",
@@ -332,7 +457,7 @@
     "date": "2026-11-20",
     "summary": "Every empirical analysis on observational data rests on dozens of defensible analytical choices (\"forks\") that its readers cannot see. We develop an agentic multiverse analysis (AMA) framework that ma...",
     "category": "research",
-    "id": 35
+    "id": 48
   },
   {
     "title": "Steering Automated Scientific Discovery via Audited Epistemic Exploration",
@@ -341,7 +466,7 @@
     "date": "2026-11-20",
     "summary": "Scientific discovery requires revisiting the hypotheses in light of new evidence and identifying promising directions beyond those already explored. However, research agents often make claims that are...",
     "category": "models",
-    "id": 36
+    "id": 49
   },
   {
     "title": "MKA: Evaluating Multimodal Knowledge Agents on end-to-end professional tasks",
@@ -349,123 +474,6 @@
     "source": "arXiv cs.AI",
     "date": "2026-11-20",
     "summary": "We introduce the Multimodal Knowledge Agent (MKA) benchmark, which measures how well autonomous agents perform end-to-end professional knowledge work that depends on visual understanding. Each task re...",
-    "category": "models",
-    "id": 37
-  },
-  {
-    "title": "A Neurosymbolic Multimodal Framework for 30-Day Diabetic Readmission Prediction: Integrating Structured EHR Data, Dense Clinical Embeddings, and Knowledge-Grounded Symbolic Extraction",
-    "url": "https://arxiv.org/abs/2611.25236",
-    "source": "arXiv cs.AI",
-    "date": "2026-11-20",
-    "summary": "Unplanned 30-day readmissions among patients with diabetes mellitus impose a substantial clinical and economic burden, yet most predictive models use only structured electronic health record (EHR) dat...",
-    "category": "models",
-    "id": 38
-  },
-  {
-    "title": "MS-Point: Multi-Modal Hierarchical Spectral Learning for Point Cloud Understanding",
-    "url": "https://arxiv.org/abs/2611.25282",
-    "source": "arXiv cs.AI",
-    "date": "2026-11-20",
-    "summary": "Point-image alignment learns useful object representations, but different local feature patterns can produce the same pooled descriptor and receive the same alignment signal. We introduce MS-Point, a ...",
-    "category": "research",
-    "id": 39
-  },
-  {
-    "title": "Pandora's Toolbox Or Why Agent Safety Cannot Be Verified",
-    "url": "https://arxiv.org/abs/2611.25325",
-    "source": "arXiv cs.AI",
-    "date": "2026-11-20",
-    "summary": "Present artificial intelligence agents are constructed by means of a coupling between a fixed language model with a general computing device. We show that this coupling makes safety undecidable. In pa...",
-    "category": "research",
-    "id": 40
-  },
-  {
-    "title": "Pro$^2$ Agent: Scientific Problem Probing for Autonomous AI R&D",
-    "url": "https://arxiv.org/abs/2611.25357",
-    "source": "arXiv cs.AI",
-    "date": "2026-11-20",
-    "summary": "Large language model (LLM) agents can now autonomously conduct AI research by writing code and running experiments. They typically do so by iteratively optimizing a codebase, while ignoring the proble...",
-    "category": "models",
-    "id": 41
-  },
-  {
-    "title": "AppSci-Bench: Can LLMs Build AI Agents and Make Them Better?",
-    "url": "https://arxiv.org/abs/2611.25360",
-    "source": "arXiv cs.AI",
-    "date": "2026-11-20",
-    "summary": "Large language models (LLMs) are increasingly used not only to power AI agents but also to build them. While many benchmarks assess the quality of LLM- powered agents, few ascertain how good LLMs are ...",
-    "category": "models",
-    "id": 42
-  },
-  {
-    "title": "Stop Going in Circles:Loop-Triggered Routing for System 1 Decision Agents",
-    "url": "https://arxiv.org/abs/2611.25363",
-    "source": "arXiv cs.AI",
-    "date": "2026-11-20",
-    "summary": "System 1 decision models (represented by Jev) provide fast, low-cost action selection, but existing agent integrations do not reliably translate these local advantages into task completion. At certain...",
-    "category": "models",
-    "id": 43
-  },
-  {
-    "title": "Beyond Weight Updates: Evolving Agent Harnesses for Domain Specialization",
-    "url": "https://arxiv.org/abs/2611.25380",
-    "source": "arXiv cs.AI",
-    "date": "2026-11-20",
-    "summary": "Domain specialization of LLM agents is usually framed as a weight-update problem: collect trajectories, run reinforcement learning (RL) or supervised fine-tuning (SFT), and deploy a new checkpoint. We...",
-    "category": "models",
-    "id": 44
-  },
-  {
-    "title": "Falsifiable Compositional Reasoning in Time Series Forecasting",
-    "url": "https://arxiv.org/abs/2611.25388",
-    "source": "arXiv cs.AI",
-    "date": "2026-11-20",
-    "summary": "Time series foundation models as well as the language-guided analytical agents achieve strong accuracy on standard chronological benchmarks. However, models that rank highest on historical validation ...",
-    "category": "models",
-    "id": 45
-  },
-  {
-    "title": "The Coevolution and Coexistence of Humans and AI",
-    "url": "https://arxiv.org/abs/2611.25393",
-    "source": "arXiv cs.AI",
-    "date": "2026-11-20",
-    "summary": "Artificial intelligence (AI) systems replicate through deployment, vary through training, and compete for computational resources. These processes create the conditions for natural selection and raise...",
-    "category": "research",
-    "id": 46
-  },
-  {
-    "title": "Toward a Science of AI Agent Societies",
-    "url": "https://arxiv.org/abs/2611.25404",
-    "source": "arXiv cs.AI",
-    "date": "2026-11-20",
-    "summary": "AI agents are rapidly evolving from isolated personal assistants into networked actors that interact with one another at scale. We envision the emergence of AI agent societies, with their own social a...",
-    "category": "research",
-    "id": 47
-  },
-  {
-    "title": "LoongForge-Embodied: A Unified Framework for Training Heterogeneous Embodied Models",
-    "url": "https://arxiv.org/abs/2611.25460",
-    "source": "arXiv cs.AI",
-    "date": "2026-11-20",
-    "summary": "Training Vision-Language-Action (VLA) models and World-Action Models (WAMs) is computationally expensive, while their heterogeneous architectures and fragmented training stacks make system optimizatio...",
-    "category": "research",
-    "id": 48
-  },
-  {
-    "title": "When Should a Voice Agent Speak? End-of-Turn Detection in Turkish",
-    "url": "https://arxiv.org/abs/2611.25489",
-    "source": "arXiv cs.AI",
-    "date": "2026-11-20",
-    "summary": "A voice agent that waits for a fixed silence before replying either interrupts users who pause mid-utterance or responds late to users who have finished. This study examines the decision at the onset ...",
-    "category": "models",
-    "id": 49
-  },
-  {
-    "title": "Why Do LLMs Help with Scientific Misconduct Requests and What to Do About It?: Increasing the Trustworthiness of AI for Science",
-    "url": "https://arxiv.org/abs/2611.25492",
-    "source": "arXiv cs.AI",
-    "date": "2026-11-20",
-    "summary": "Large language models (LLMs) support scientific research, but some of that assistance can also undermine research integrity. Existing safety evaluations in science often measure whether models refuse ...",
     "category": "models",
     "id": 50
   }
